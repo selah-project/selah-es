@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 1:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 1,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:00:32.912613411Z",
+  "translation": "Y Shelomah ⟨se fortaleció⟩ ben Davidd sobre ⟨su⟩ maljut ⟨reino⟩, y YHWH ⟨es⟩ Elohim ⟨el⟩ su Elohim ⟨con⟩ él, y ⟨lo⟩ magnificó ⟨excesivamente⟩ ⟨a⟩ ⟨lo⟩ alto.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "Y Shelomah ⟨se fortaleció⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "⟨su⟩ maljut ⟨reino⟩"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "y YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "⟨es⟩ Elohim ⟨el⟩ su Elohim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨con⟩ él"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "y ⟨lo⟩ magnificó ⟨excesivamente⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "⟨a⟩ ⟨lo⟩ alto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,68 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 590,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58017,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58607
-  },
-  "translation": "Y Shelomah ⟨se fortaleció⟩ ben Davidd sobre ⟨su⟩ maljut ⟨reino⟩, y YHWH ⟨es⟩ Elohim ⟨el⟩ su Elohim ⟨con⟩ él, y ⟨lo⟩ magnificó ⟨excesivamente⟩ ⟨a⟩ ⟨lo⟩ alto.",
-  "tokens": [
-    {
-      "surface": "ויתחזק",
-      "english": "Y Shelomah ⟨se fortaleció⟩"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomah"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "מלכותו",
-      "english": "⟨su⟩ maljut ⟨reino⟩"
-    },
-    {
-      "surface": "ויהוה",
-      "english": "y YHWH"
-    },
-    {
-      "surface": "אלהיו",
-      "english": "⟨es⟩ Elohim ⟨el⟩ su Elohim"
-    },
-    {
-      "surface": "עמו",
-      "english": "⟨con⟩ él"
-    },
-    {
-      "surface": "ויגדלהו",
-      "english": "y ⟨lo⟩ magnificó ⟨excesivamente⟩"
-    },
-    {
-      "surface": "למעלה",
-      "english": "⟨a⟩ ⟨lo⟩ alto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:00:32.912613411Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

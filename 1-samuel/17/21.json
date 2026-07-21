@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 17:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 17,
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:00:42.294467139Z",
+  "translation": "Y se dispuso Yisrael y los filisteos ⟨en⟩ formación de batalla ⟨enfrente de⟩ formación de batalla.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "Y se dispuso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "y los filisteos"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "⟨en⟩ formación de batalla"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨enfrente de⟩"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "formación de batalla"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,48 +44,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16016,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16318
-  },
-  "translation": "Y se dispuso Yisrael y los filisteos ⟨en⟩ formación de batalla ⟨enfrente de⟩ formación de batalla.",
-  "tokens": [
-    {
-      "surface": "ותערך",
-      "english": "Y se dispuso"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ופלשתים",
-      "english": "y los filisteos"
-    },
-    {
-      "surface": "מערכה",
-      "english": "⟨en⟩ formación de batalla"
-    },
-    {
-      "surface": "לקראת",
-      "english": "⟨enfrente de⟩"
-    },
-    {
-      "surface": "מערכה",
-      "english": "formación de batalla"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:00:42.294467139Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

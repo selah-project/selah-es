@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 98:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 387,
-    "prompt_tokens": 70014,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70401
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:21.665168631Z",
   "translation": "¡Gritad a YHWH, toda la tierra! ¡Prorrumpid ⟨con⟩ gritos de júbilo y cantad salmos!",
   "tokens": [
     {
       "surface": "הריעו",
-      "english": "¡Gritad"
+      "gloss": "¡Gritad"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "פצחו",
-      "english": "¡Prorrumpid"
+      "gloss": "¡Prorrumpid"
     },
     {
       "surface": "ורננו",
-      "english": "⟨con⟩ gritos de júbilo"
+      "gloss": "⟨con⟩ gritos de júbilo"
     },
     {
       "surface": "וזמרו",
-      "english": "y cantad salmos"
+      "gloss": "y cantad salmos"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:21.665168631Z",
-  "model": "glm-4.5"
+  ]
 }

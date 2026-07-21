@@ -1,87 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 6:5",
   "book": "job",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 758,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27165,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27923
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:15.918663312Z",
   "translation": "¿⟨Se⟩ queja el asno salvaje ⟨sobre⟩ ⟨la⟩ hierba? ⟨O⟩ ⟨bala⟩ el buey ⟨sobre⟩ ⟨su⟩ alimento mezclado?",
   "tokens": [
     {
       "surface": "הינהק",
-      "english": "⟨Se⟩ queja",
+      "gloss": "⟨Se⟩ queja",
       "gv": 170,
       "lemma": "i\/5101",
       "notes": "Hapax lexeme - interogative de '¿brama?'"
     },
     {
       "surface": "פרא",
-      "english": "el asno salvaje",
+      "gloss": "el asno salvaje",
       "gv": 281,
       "lemma": "6501",
       "notes": "Onager - asno salvaje"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩",
+      "gloss": "⟨sobre⟩",
       "gv": 110,
       "lemma": "5921 a",
       "notes": "Preposición con connotación de 'en contra de'"
     },
     {
       "surface": "דשא",
-      "english": "⟨la⟩ hierba",
+      "gloss": "⟨la⟩ hierba",
       "gv": 305,
       "lemma": "1877",
       "notes": "Brote\/hierba tierna"
     },
     {
       "surface": "אם",
-      "english": "⟨O⟩",
+      "gloss": "⟨O⟩",
       "gv": 41,
       "lemma": "518 a",
       "notes": "Partícula interrogativa alternativa"
     },
     {
       "surface": "יגעה",
-      "english": "⟨bala⟩",
+      "gloss": "⟨bala⟩",
       "gv": 88,
       "lemma": "1600",
       "notes": "Mugir\/balar (ganado)"
     },
     {
       "surface": "שור",
-      "english": "el buey",
+      "gloss": "el buey",
       "gv": 506,
       "lemma": "7794",
       "notes": "Toro\/buey (animal de carga)"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩",
+      "gloss": "⟨sobre⟩",
       "gv": 100,
       "lemma": "5921 a",
       "notes": "Preposición simple"
     },
     {
       "surface": "בלילו",
-      "english": "⟨su⟩ alimento mezclado",
+      "gloss": "⟨su⟩ alimento mezclado",
       "gv": 78,
       "lemma": "1098",
       "notes": "Hapax - forraje mezclado para ganado"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:15.918663312Z",
-  "model": "glm-4.5"
+  ]
 }

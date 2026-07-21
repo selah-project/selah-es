@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "psalms 109:29",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69821,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70266
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:02.694021293Z",
   "translation": "¡Que mis adversarios se cubran con ⟨el⟩ ignominio y ⟨que⟩ ⟨se cubran⟩ con su vergüenza ⟨como⟩ con ⟨un⟩ manto",
   "tokens": [
     {
       "surface": "ילבשו",
-      "english": "¡Que... se cubran"
+      "gloss": "¡Que... se cubran"
     },
     {
       "surface": "שוטני",
-      "english": "mis adversarios"
+      "gloss": "mis adversarios"
     },
     {
       "surface": "כלמה",
-      "english": "con ⟨el⟩ ignominio"
+      "gloss": "con ⟨el⟩ ignominio"
     },
     {
       "surface": "ויעטו",
-      "english": "y ⟨que⟩ ⟨se cubran⟩"
+      "gloss": "y ⟨que⟩ ⟨se cubran⟩"
     },
     {
       "surface": "כמעיל",
-      "english": "⟨como⟩ con ⟨un⟩ manto"
+      "gloss": "⟨como⟩ con ⟨un⟩ manto"
     },
     {
       "surface": "בשתם",
-      "english": "su vergüenza"
+      "gloss": "su vergüenza"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:02.694021293Z",
-  "model": "glm-4.5"
+  ]
 }

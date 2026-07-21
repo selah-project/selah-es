@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 47:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69610,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70024
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:33.397433645Z",
   "translation": "⟨To⟩ ⟨the⟩ Prezident ⟨for⟩ ⟨the⟩ sons of Koraj ⟨is⟩ a mizmor.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ ⟨the⟩ Prezident ⟨for⟩"
+      "gloss": "⟨To⟩ ⟨the⟩ Prezident ⟨for⟩"
     },
     {
       "surface": "לבני",
-      "english": "⟨the⟩ sons ⟨of⟩"
+      "gloss": "⟨the⟩ sons ⟨of⟩"
     },
     {
       "surface": "קרח",
-      "english": "Koraj"
+      "gloss": "Koraj"
     },
     {
       "surface": "מזמור",
-      "english": "⟨is⟩ a mizmor"
+      "gloss": "⟨is⟩ a mizmor"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:33.397433645Z",
-  "model": "glm-4.5"
+  ]
 }

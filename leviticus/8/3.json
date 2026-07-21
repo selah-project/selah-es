@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "leviticus 8:3",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 376,
-    "prompt_tokens": 24565,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24941
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:35:04.695165555Z",
   "translation": "y ⟨את⟩ toda la asamblea ⟨es⟩ convocada a la entrada de ⟨el⟩ Ohel Moed",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "toda la asamblea"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "העדה",
-      "english": "la asamblea"
+      "gloss": "la asamblea"
     },
     {
       "surface": "הקהל",
-      "english": "⟨es⟩ convocada"
+      "gloss": "⟨es⟩ convocada"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "פתח",
-      "english": "la entrada"
+      "gloss": "la entrada"
     },
     {
       "surface": "אהל",
-      "english": "de ⟨el⟩ Ohel"
+      "gloss": "de ⟨el⟩ Ohel"
     },
     {
       "surface": "מועד",
-      "english": "Moed"
+      "gloss": "Moed"
     }
-  ],
-  "timestamp": "2026-07-16T22:35:04.695165555Z",
-  "model": "glm-4.5"
+  ]
 }

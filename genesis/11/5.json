@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 11:5",
   "book": "genesis",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 508,
-    "prompt_tokens": 28827,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29335
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:55:44.846168110Z",
   "translation": "YHWH descendió para ver ⟨את⟩ la ciudad y ⟨את⟩ la torre que ⟨los⟩ hijos de Adam habían edificado.",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "descendió"
+      "gloss": "descendió"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לראת",
-      "english": "para ver"
+      "gloss": "para ver"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la ciudad"
     },
     {
       "surface": "העיר",
-      "english": "la ciudad"
+      "gloss": "la ciudad"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la torre"
     },
     {
       "surface": "המגדל",
-      "english": "la torre"
+      "gloss": "la torre"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בנו",
-      "english": "habían edificado"
+      "gloss": "habían edificado"
     },
     {
       "surface": "בני",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "האדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-07-16T20:55:44.846168110Z",
-  "model": "glm-4.5"
+  ]
 }

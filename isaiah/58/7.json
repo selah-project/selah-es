@@ -1,84 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 58:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 847,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26851,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27698
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:57:45.261754547Z",
   "translation": "¿No ⟨es⟩ ⟨que⟩ parten ⟨el⟩ pan ⟨al⟩ hambriento, y ⟨a⟩ ⟨los⟩ pobres deambulantes traes ⟨a⟩ casa? Cuando veas ⟨al⟩ desnudo, ⟨lo⟩ cubres, y ⟨no⟩ te ocultas de tu propia carne.",
   "tokens": [
     {
       "surface": "הלוא",
-      "english": "¿No"
+      "gloss": "¿No"
     },
     {
       "surface": "פרס",
-      "english": "parten"
+      "gloss": "parten"
     },
     {
       "surface": "לרעב",
-      "english": "⟨al⟩ hambriento"
+      "gloss": "⟨al⟩ hambriento"
     },
     {
       "surface": "לחמך",
-      "english": "⟨el⟩ pan"
+      "gloss": "⟨el⟩ pan"
     },
     {
       "surface": "ועניים",
-      "english": "y ⟨a⟩ ⟨los⟩ pobres"
+      "gloss": "y ⟨a⟩ ⟨los⟩ pobres"
     },
     {
       "surface": "מרודים",
-      "english": "deambulantes"
+      "gloss": "deambulantes"
     },
     {
       "surface": "תביא",
-      "english": "traes"
+      "gloss": "traes"
     },
     {
       "surface": "בית",
-      "english": "⟨a⟩ casa"
+      "gloss": "⟨a⟩ casa"
     },
     {
       "surface": "כי",
-      "english": "Cuando"
+      "gloss": "Cuando"
     },
     {
       "surface": "תראה",
-      "english": "veas"
+      "gloss": "veas"
     },
     {
       "surface": "ערם",
-      "english": "⟨al⟩ desnudo"
+      "gloss": "⟨al⟩ desnudo"
     },
     {
       "surface": "וכסיתו",
-      "english": "⟨lo⟩ cubres"
+      "gloss": "⟨lo⟩ cubres"
     },
     {
       "surface": "ומבשרך",
-      "english": "de tu propia carne"
+      "gloss": "de tu propia carne"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תתעלם",
-      "english": "te ocultas"
+      "gloss": "te ocultas"
     }
-  ],
-  "timestamp": "2026-06-10T02:57:45.261754547Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 34:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 432,
-    "prompt_tokens": 69905,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70337
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:28:51.026829491Z",
   "translation": "Muchas ⟨son⟩ las aflicciones del justo, pero de todas ellas ⟨lo⟩ librará YHWH",
   "tokens": [
     {
       "surface": "רבות",
-      "english": "Muchas"
+      "gloss": "Muchas"
     },
     {
       "surface": "רעות",
-      "english": "las aflicciones"
+      "gloss": "las aflicciones"
     },
     {
       "surface": "צדיק",
-      "english": "del justo"
+      "gloss": "del justo"
     },
     {
       "surface": "ומכלם",
-      "english": "pero de todas ellas"
+      "gloss": "pero de todas ellas"
     },
     {
       "surface": "יצילנו",
-      "english": "⟨lo⟩ librará"
+      "gloss": "⟨lo⟩ librará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:28:51.026829491Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,80 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 42:15",
   "book": "job",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27634,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 28195
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:19:25.084368721Z",
   "translation": "Y no se hallaron mujeres ⟨las⟩ hermosas como ⟨las⟩ hijas de Iyov en toda ⟨la⟩ tierra, y ⟨el⟩ padre de ellas dio ⟨a⟩ ellas herencia entre ⟨sus⟩ hermanos",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "Y no"
+      "gloss": "Y no"
     },
     {
       "surface": "נמצא",
-      "english": "se hallaron"
+      "gloss": "se hallaron"
     },
     {
       "surface": "נשים",
-      "english": "mujeres"
+      "gloss": "mujeres"
     },
     {
       "surface": "יפות",
-      "english": "⟨las⟩ hermosas"
+      "gloss": "⟨las⟩ hermosas"
     },
     {
       "surface": "כבנות",
-      "english": "como ⟨las⟩ hijas"
+      "gloss": "como ⟨las⟩ hijas"
     },
     {
       "surface": "איוב",
-      "english": "de Iyov"
+      "gloss": "de Iyov"
     },
     {
       "surface": "בכל",
-      "english": "en toda"
+      "gloss": "en toda"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "ויתן",
-      "english": "y ⟨el⟩"
+      "gloss": "y ⟨el⟩"
     },
     {
       "surface": "להם",
-      "english": "padre de ellas"
+      "gloss": "padre de ellas"
     },
     {
       "surface": "אביהם",
-      "english": "dio ⟨a⟩ ellas"
+      "gloss": "dio ⟨a⟩ ellas"
     },
     {
       "surface": "נחלה",
-      "english": "herencia"
+      "gloss": "herencia"
     },
     {
       "surface": "בתוך",
-      "english": "entre"
+      "gloss": "entre"
     },
     {
       "surface": "אחיהם",
-      "english": "⟨sus⟩ hermanos"
+      "gloss": "⟨sus⟩ hermanos"
     }
-  ],
-  "timestamp": "2026-06-10T02:19:25.084368721Z",
-  "model": "glm-4.5"
+  ]
 }

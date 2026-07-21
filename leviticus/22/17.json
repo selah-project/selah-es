@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "leviticus 22:17",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 250,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24114,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 24364
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:38:27.574246864Z",
   "translation": "Y YHWH habló a Moshé, diciendo",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Y habló"
+      "gloss": "Y habló"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     }
-  ],
-  "timestamp": "2026-06-10T04:38:27.574246864Z",
-  "model": "glm-4.5"
+  ]
 }

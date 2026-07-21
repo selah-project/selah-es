@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "exodus 17:13",
   "book": "exodus",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 24182,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24567
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:16:08.919140805Z",
   "translation": "Yehoshúa debilitó ⟨את⟩ Amalek y ⟨את⟩ su pueblo por ⟨el⟩ filo ⟨de⟩ ⟨la⟩ espada.",
   "tokens": [
     {
       "surface": "ויחלש",
-      "english": "debilitó"
+      "gloss": "debilitó"
     },
     {
       "surface": "יהושע",
-      "english": "Yehoshúa"
+      "gloss": "Yehoshúa"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Amalek"
     },
     {
       "surface": "עמלק",
-      "english": "Amalek"
+      "gloss": "Amalek"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su pueblo"
     },
     {
       "surface": "עמו",
-      "english": "su pueblo"
+      "gloss": "su pueblo"
     },
     {
       "surface": "לפי",
-      "english": "por ⟨el⟩ filo ⟨de⟩"
+      "gloss": "por ⟨el⟩ filo ⟨de⟩"
     },
     {
       "surface": "חרב",
-      "english": "⟨la⟩ espada"
+      "gloss": "⟨la⟩ espada"
     }
-  ],
-  "timestamp": "2026-07-16T20:16:08.919140805Z",
-  "model": "glm-4.5"
+  ]
 }

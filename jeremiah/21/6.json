@@ -1,75 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "jeremiah 21:6",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25049,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25543
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:19:31.960897606Z",
   "translation": "Y golpearé ⟨a⟩ ⟨los⟩ moradores de esta ciudad, ⟨a⟩ ⟨el⟩ hombre y ⟨a⟩ ⟨el⟩ animal, con una gran peste morirán.",
   "tokens": [
     {
       "surface": "והכיתי",
-      "english": "Y golpearé"
+      "gloss": "Y golpearé"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "los moradores"
     },
     {
       "surface": "יושבי",
-      "english": "moradores"
+      "gloss": "moradores"
     },
     {
       "surface": "העיר",
-      "english": "de esta ciudad"
+      "gloss": "de esta ciudad"
     },
     {
       "surface": "הזאת",
-      "english": "esta"
+      "gloss": "esta"
     },
     {
       "surface": "ואת",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "el hombre"
     },
     {
       "surface": "האדם",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "ואת",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "el animal"
     },
     {
       "surface": "הבהמה",
-      "english": "animal"
+      "gloss": "animal"
     },
     {
       "surface": "בדבר",
-      "english": "con una gran peste"
+      "gloss": "con una gran peste"
     },
     {
       "surface": "גדול",
-      "english": "gran"
+      "gloss": "gran"
     },
     {
       "surface": "ימתו",
-      "english": "morirán"
+      "gloss": "morirán"
     }
-  ],
-  "timestamp": "2026-06-10T03:19:31.960897606Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 139:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70001,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70408
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:08:25.824509797Z",
   "translation": "Si asciendo ⟨a⟩ los cielos, allí estás ⟨tú⟩; y ⟨si⟩ desciendo ⟨al⟩ Seol, he aquí ⟨tú⟩.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "אסק",
-      "english": "asciendo"
+      "gloss": "asciendo"
     },
     {
       "surface": "שמים",
-      "english": "⟨a⟩ los cielos"
+      "gloss": "⟨a⟩ los cielos"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "אתה",
-      "english": "estás ⟨tú⟩"
+      "gloss": "estás ⟨tú⟩"
     },
     {
       "surface": "ואציעה",
-      "english": "y ⟨si⟩ desciendo ⟨al⟩"
+      "gloss": "y ⟨si⟩ desciendo ⟨al⟩"
     },
     {
       "surface": "שאול",
-      "english": "Seol"
+      "gloss": "Seol"
     },
     {
       "surface": "הנך",
-      "english": "he aquí ⟨tú⟩"
+      "gloss": "he aquí ⟨tú⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:08:25.824509797Z",
-  "model": "glm-4.5"
+  ]
 }

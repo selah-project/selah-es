@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 9:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 9,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:07:44.530765851Z",
+  "translation": "Y Noaj ⟨comenzó a ser⟩ ⟨un⟩ hombre ⟨de⟩ ⟨la⟩ tierra y plantó ⟨un⟩ viñedo",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Y Noé ⟨comenzó a ser⟩"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨un⟩ hombre"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨de⟩ ⟨la⟩ tierra"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "y plantó"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "⟨un⟩ viñedo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,48 +44,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20758,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21109
-  },
-  "translation": "Y Noaj ⟨comenzó a ser⟩ ⟨un⟩ hombre ⟨de⟩ ⟨la⟩ tierra y plantó ⟨un⟩ viñedo",
-  "tokens": [
-    {
-      "surface": "ויחל",
-      "english": "Y Noé ⟨comenzó a ser⟩"
-    },
-    {
-      "surface": "נח",
-      "english": "Noaj"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨un⟩ hombre"
-    },
-    {
-      "surface": "האדמה",
-      "english": "⟨de⟩ ⟨la⟩ tierra"
-    },
-    {
-      "surface": "ויטע",
-      "english": "y plantó"
-    },
-    {
-      "surface": "כרם",
-      "english": "⟨un⟩ viñedo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:07:44.530765851Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

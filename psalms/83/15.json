@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 83:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 283,
-    "prompt_tokens": 69859,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70142
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:54.777979938Z",
   "translation": "Como el fuego consume el bosque, y como ⟨la⟩ llama hace arder los montes",
   "tokens": [
     {
       "surface": "כאש",
-      "english": "Como"
+      "gloss": "Como"
     },
     {
       "surface": "תבער",
-      "english": "consume"
+      "gloss": "consume"
     },
     {
       "surface": "יער",
-      "english": "el bosque"
+      "gloss": "el bosque"
     },
     {
       "surface": "וכלהבה",
-      "english": "y como ⟨la⟩ llama"
+      "gloss": "y como ⟨la⟩ llama"
     },
     {
       "surface": "תלהט",
-      "english": "hace arder"
+      "gloss": "hace arder"
     },
     {
       "surface": "הרים",
-      "english": "los montes"
+      "gloss": "los montes"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:54.777979938Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jeremiah 18:2",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 451,
-    "prompt_tokens": 24659,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25110
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:39:37.878782433Z",
   "translation": "Levántate y desciende a ⟨la⟩ casa del alfarero, y allí te haré oír ⟨את⟩ mis palabras",
   "tokens": [
     {
       "surface": "קום",
-      "english": "Levántate"
+      "gloss": "Levántate"
     },
     {
       "surface": "וירדת",
-      "english": "y desciende"
+      "gloss": "y desciende"
     },
     {
       "surface": "בית",
-      "english": "a ⟨la⟩ casa"
+      "gloss": "a ⟨la⟩ casa"
     },
     {
       "surface": "היוצר",
-      "english": "del alfarero"
+      "gloss": "del alfarero"
     },
     {
       "surface": "ושמה",
-      "english": "y allí"
+      "gloss": "y allí"
     },
     {
       "surface": "אשמיעך",
-      "english": "te haré oír"
+      "gloss": "te haré oír"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mis palabras"
     },
     {
       "surface": "דברי",
-      "english": "mis palabras"
+      "gloss": "mis palabras"
     }
-  ],
-  "timestamp": "2026-07-16T21:39:37.878782433Z",
-  "model": "glm-4.5"
+  ]
 }

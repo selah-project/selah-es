@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 111:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69820,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70223
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:35.531537383Z",
   "translation": "Él ⟨ha⟩ hecho que sus prodigios sean recordados: ⟨el⟩ Eterno es ⟨un⟩ dador de gracia y ⟨de⟩ compasión, YHWH.",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "Recordados"
+      "gloss": "Recordados"
     },
     {
       "surface": "עשה",
-      "english": "⟨ha⟩ hecho"
+      "gloss": "⟨ha⟩ hecho"
     },
     {
       "surface": "לנפלאתיו",
-      "english": "que sus prodigios sean"
+      "gloss": "que sus prodigios sean"
     },
     {
       "surface": "חנון",
-      "english": "⟨un⟩ dador de gracia"
+      "gloss": "⟨un⟩ dador de gracia"
     },
     {
       "surface": "ורחום",
-      "english": "⟨de⟩ compasión"
+      "gloss": "⟨de⟩ compasión"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:35.531537383Z",
-  "model": "glm-4.5"
+  ]
 }

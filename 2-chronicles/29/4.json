@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 29:4",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 65338,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 65761
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:00:33.215842238Z",
   "translation": "Y trajo ⟨את⟩ los kohanim y ⟨את⟩ los leviyim y los reunió en la plaza oriental",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "Y trajo"
+      "gloss": "Y trajo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הכהנים"
     },
     {
       "surface": "הכהנים",
-      "english": "los kohanim"
+      "gloss": "los kohanim"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הלוים"
     },
     {
       "surface": "הלוים",
-      "english": "los leviyim"
+      "gloss": "los leviyim"
     },
     {
       "surface": "ויאספם",
-      "english": "y los reunió"
+      "gloss": "y los reunió"
     },
     {
       "surface": "לרחוב",
-      "english": "en la plaza"
+      "gloss": "en la plaza"
     },
     {
       "surface": "המזרח",
-      "english": "oriental"
+      "gloss": "oriental"
     }
-  ],
-  "timestamp": "2026-07-16T19:00:33.215842238Z",
-  "model": "glm-4.5"
+  ]
 }

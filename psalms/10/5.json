@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 10:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 603,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70326,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70929
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:01:56.012279563Z",
   "translation": "Sus caminos ⟨son⟩ firmes ⟨en⟩ todo ⟨tiempo⟩; tus juicios ⟨están⟩ ⟨en⟩ ⟨lo⟩ alto ⟨fuera⟩ ⟨de⟩ ⟨su⟩ vista; ⟨en⟩ cuanto a todos sus adversarios, ⟨él⟩ ⟨les⟩ sopla ⟨sobre⟩ ellos.",
   "tokens": [
     {
       "surface": "יחילו",
-      "english": "Sus caminos ⟨son⟩ firmes"
+      "gloss": "Sus caminos ⟨son⟩ firmes"
     },
     {
       "surface": "דרכו",
-      "english": "caminos"
+      "gloss": "caminos"
     },
     {
       "surface": "בכל",
-      "english": "⟨en⟩ todo"
+      "gloss": "⟨en⟩ todo"
     },
     {
       "surface": "עת",
-      "english": "⟨tiempo⟩"
+      "gloss": "⟨tiempo⟩"
     },
     {
       "surface": "מרום",
-      "english": "⟨en⟩ ⟨lo⟩ alto"
+      "gloss": "⟨en⟩ ⟨lo⟩ alto"
     },
     {
       "surface": "משפטיך",
-      "english": "tus juicios"
+      "gloss": "tus juicios"
     },
     {
       "surface": "מנגדו",
-      "english": "⟨fuera⟩ ⟨de⟩ ⟨su⟩ vista"
+      "gloss": "⟨fuera⟩ ⟨de⟩ ⟨su⟩ vista"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "צורריו",
-      "english": "adversarios"
+      "gloss": "adversarios"
     },
     {
       "surface": "יפיח",
-      "english": "⟨él⟩ ⟨les⟩ sopla ⟨sobre⟩"
+      "gloss": "⟨él⟩ ⟨les⟩ sopla ⟨sobre⟩"
     },
     {
       "surface": "בהם",
-      "english": "ellos"
+      "gloss": "ellos"
     }
-  ],
-  "timestamp": "2026-06-09T23:01:56.012279563Z",
-  "model": "glm-4.5"
+  ]
 }

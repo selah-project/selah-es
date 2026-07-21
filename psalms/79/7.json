@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 79:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70026,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70504
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:32.415451382Z",
   "translation": "Porque ⟨han⟩ devorado ⟨a⟩ Jacob ⟨את⟩ y ⟨han⟩ desolado ⟨a⟩ su morada ⟨את⟩",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אכל",
-      "english": "⟨han⟩ devorado"
+      "gloss": "⟨han⟩ devorado"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Jacob"
     },
     {
       "surface": "יעקב",
-      "english": "Jacob"
+      "gloss": "Jacob"
     },
     {
       "surface": "ואת",
-      "english": "⟨y⟩ ⟨a⟩",
+      "gloss": "⟨y⟩ ⟨a⟩",
       "marks": "su morada"
     },
     {
       "surface": "נוהו",
-      "english": "su morada"
+      "gloss": "su morada"
     },
     {
       "surface": "השמו",
-      "english": "⟨han⟩ desolado"
+      "gloss": "⟨han⟩ desolado"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:32.415451382Z",
-  "model": "glm-4.5"
+  ]
 }

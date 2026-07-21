@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 33:20",
   "book": "job",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 580,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26989,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27569
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:11:53.672155889Z",
   "translation": "y ⟨es⟩ hecho abominable su carne ⟨por⟩ el pan, y ⟨su⟩ alma ⟨es⟩ ⟨el⟩ alimento ⟨de⟩ ⟨su⟩ deseo",
   "tokens": [
     {
       "surface": "וזהמתו",
-      "english": "Y ⟨es⟩ hecho abominable su carne",
+      "gloss": "Y ⟨es⟩ hecho abominable su carne",
       "marks": "pan"
     },
     {
       "surface": "חיתו",
-      "english": "⟨por⟩ el pan",
+      "gloss": "⟨por⟩ el pan",
       "marks": ""
     },
     {
       "surface": "לחם",
-      "english": "pan",
+      "gloss": "pan",
       "marks": ""
     },
     {
       "surface": "ונפשו",
-      "english": "y ⟨su⟩ alma ⟨es⟩",
+      "gloss": "y ⟨su⟩ alma ⟨es⟩",
       "marks": "alimento"
     },
     {
       "surface": "מאכל",
-      "english": "⟨el⟩ alimento",
+      "gloss": "⟨el⟩ alimento",
       "marks": ""
     },
     {
       "surface": "תאוה",
-      "english": "⟨de⟩ ⟨su⟩ deseo",
+      "gloss": "⟨de⟩ ⟨su⟩ deseo",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T02:11:53.672155889Z",
-  "model": "glm-4.5"
+  ]
 }

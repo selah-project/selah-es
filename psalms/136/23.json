@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 136:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 448,
-    "prompt_tokens": 69851,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70299
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:12.938469342Z",
   "translation": "Quien ⟨nos⟩ recordó en nuestra humillación, porque para siempre es su Jésed",
   "tokens": [
     {
       "surface": "שבשפלנו",
-      "english": "en nuestra humillación"
+      "gloss": "en nuestra humillación"
     },
     {
       "surface": "זכר",
-      "english": "recordó"
+      "gloss": "recordó"
     },
     {
       "surface": "לנו",
-      "english": "⟨nos⟩"
+      "gloss": "⟨nos⟩"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:12.938469342Z",
-  "model": "glm-4.5"
+  ]
 }

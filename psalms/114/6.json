@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 114:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 577,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69797,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70374
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:29.729012076Z",
   "translation": "⟨the⟩ montañas ⟨saltarán⟩ ⟨como⟩ carneros, ⟨y⟩ ⟨las⟩ colinas ⟨como⟩ hijos ⟨de⟩ ⟨el⟩ rebaño",
   "tokens": [
     {
       "surface": "ההרים",
-      "english": "⟨The⟩ montañas",
+      "gloss": "⟨The⟩ montañas",
       "notes": "addition"
     },
     {
       "surface": "תרקדו",
-      "english": "⟨saltarán⟩",
+      "gloss": "⟨saltarán⟩",
       "notes": "idiom"
     },
     {
       "surface": "כאילים",
-      "english": "⟨como⟩ carneros",
+      "gloss": "⟨como⟩ carneros",
       "notes": "substitution"
     },
     {
       "surface": "גבעות",
-      "english": "⟨y⟩ ⟨las⟩ colinas",
+      "gloss": "⟨y⟩ ⟨las⟩ colinas",
       "notes": "addition"
     },
     {
       "surface": "כבני",
-      "english": "⟨como⟩ hijos",
+      "gloss": "⟨como⟩ hijos",
       "notes": "idiom"
     },
     {
       "surface": "צאן",
-      "english": "⟨de⟩ ⟨el⟩ rebaño",
+      "gloss": "⟨de⟩ ⟨el⟩ rebaño",
       "notes": "substitution"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:29.729012076Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 136:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 316,
-    "prompt_tokens": 70044,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70360
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:52.836391114Z",
   "translation": "⟨את⟩ el sol para dominio en el día, porque para siempre ⟨es⟩ su Jésed:",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el sol"
     },
     {
       "surface": "השמש",
-      "english": "el sol"
+      "gloss": "el sol"
     },
     {
       "surface": "לממשלת",
-      "english": "para dominio"
+      "gloss": "para dominio"
     },
     {
       "surface": "ביום",
-      "english": "en el día"
+      "gloss": "en el día"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:52.836391114Z",
-  "model": "glm-4.5"
+  ]
 }

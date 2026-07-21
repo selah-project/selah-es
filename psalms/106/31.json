@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "psalms 106:31",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69809,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70404
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:53:00.059555623Z",
   "translation": "Y ⟨fue⟩ ⟨considerado⟩ ⟨para⟩ él ⟨como⟩ ⟨justicia ⟨a⟩ ⟨generación⟩ ⟨y⟩ ⟨generación⟩ hasta ⟨el⟩ mundo perpetuo",
   "tokens": [
     {
       "surface": "ותחשב",
-      "english": "Y ⟨fue⟩ ⟨considerado⟩",
+      "gloss": "Y ⟨fue⟩ ⟨considerado⟩",
       "rationale": "3rd masc. sing. qatal waw-consecutive: 'and it was counted\/reckoned'"
     },
     {
       "surface": "לו",
-      "english": "⟨para⟩ él",
+      "gloss": "⟨para⟩ él",
       "rationale": "Prepositional lamed + 3rd masc. sing. suffix: 'to\/for him'"
     },
     {
       "surface": "לצדקה",
-      "english": "⟨como⟩ ⟨justicia⟩",
+      "gloss": "⟨como⟩ ⟨justicia⟩",
       "rationale": "Prepositional lamed + noun: 'as\/for righteousness'"
     },
     {
       "surface": "לדר",
-      "english": "⟨a⟩ ⟨generación⟩",
+      "gloss": "⟨a⟩ ⟨generación⟩",
       "rationale": "Prepositional lamed + noun: 'to a generation'"
     },
     {
       "surface": "ודר",
-      "english": "⟨y⟩ ⟨generación⟩",
+      "gloss": "⟨y⟩ ⟨generación⟩",
       "rationale": "Conjunction vav + noun: 'and generation'"
     },
     {
       "surface": "עד",
-      "english": "hasta",
+      "gloss": "hasta",
       "rationale": "Preposition: 'until, as far as'"
     },
     {
       "surface": "עולם",
-      "english": "⟨el⟩ mundo perpetuo",
+      "gloss": "⟨el⟩ mundo perpetuo",
       "rationale": "Noun: 'perpetuity, for ever, world' - requires article in English"
     }
-  ],
-  "timestamp": "2026-06-09T23:53:00.059555623Z",
-  "model": "glm-4.5"
+  ]
 }

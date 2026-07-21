@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 60:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70080,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70443
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:27:32.907214924Z",
   "translation": "Gilad ⟨is⟩ mío, y Menashé ⟨is⟩ mío, y Efráyim ⟨is⟩ ⟨el⟩ fortaleza de mi cabeza; Yehudá ⟨is⟩ mi legislador.",
   "tokens": [
     {
       "surface": "לי",
-      "english": "Mío"
+      "gloss": "Mío"
     },
     {
       "surface": "גלעד",
-      "english": "Gilad"
+      "gloss": "Gilad"
     },
     {
       "surface": "ולי",
-      "english": "y mío"
+      "gloss": "y mío"
     },
     {
       "surface": "מנשה",
-      "english": "Menashé"
+      "gloss": "Menashé"
     },
     {
       "surface": "ואפרים",
-      "english": "y Efráyim"
+      "gloss": "y Efráyim"
     },
     {
       "surface": "מעוז",
-      "english": "⟨el⟩ fortaleza"
+      "gloss": "⟨el⟩ fortaleza"
     },
     {
       "surface": "ראשי",
-      "english": "de mi cabeza"
+      "gloss": "de mi cabeza"
     },
     {
       "surface": "יהודה",
-      "english": "Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "מחקקי",
-      "english": "mi legislador"
+      "gloss": "mi legislador"
     }
-  ],
-  "timestamp": "2026-06-09T23:27:32.907214924Z",
-  "model": "glm-4.5"
+  ]
 }

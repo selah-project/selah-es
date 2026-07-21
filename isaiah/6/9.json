@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 6:9",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26504,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26979
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:24:21.495565068Z",
   "translation": "Y dijo: Ve y ⟨es⟩ di a ⟨el⟩ pueblo este: Escuchen escuchando y no entiendan; vean viendo y no conozcan.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "לך",
-      "english": "Ve"
+      "gloss": "Ve"
     },
     {
       "surface": "ואמרת",
-      "english": "y ⟨es⟩ di"
+      "gloss": "y ⟨es⟩ di"
     },
     {
       "surface": "לעם",
-      "english": "a ⟨el⟩ pueblo"
+      "gloss": "a ⟨el⟩ pueblo"
     },
     {
       "surface": "הזה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "שמעו",
-      "english": "Escuchen"
+      "gloss": "Escuchen"
     },
     {
       "surface": "שמוע",
-      "english": "escuchando"
+      "gloss": "escuchando"
     },
     {
       "surface": "ואל",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "תבינו",
-      "english": "entiendan"
+      "gloss": "entiendan"
     },
     {
       "surface": "וראו",
-      "english": "vean"
+      "gloss": "vean"
     },
     {
       "surface": "ראו",
-      "english": "viendo"
+      "gloss": "viendo"
     },
     {
       "surface": "ואל",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "תדעו",
-      "english": "conozcan"
+      "gloss": "conozcan"
     }
-  ],
-  "timestamp": "2026-06-10T02:24:21.495565068Z",
-  "model": "glm-4.5"
+  ]
 }

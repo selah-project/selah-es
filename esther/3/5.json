@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "esther 3:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 3,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:49:52.075565651Z",
+  "translation": "Y vio Hamán que Mordejai ni se arrodillaba ni se prosternaba ante él, y se llenó Hamán de ira",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Y vio"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamán"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordejai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "se arrodillaba"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "ni se prosternaba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ante él"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "y se llenó"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamán"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "de ira"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mardoqueo",
@@ -13,68 +64,6 @@
       "hebrew": "מרדכי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17600,
-    "prompt_tokens_details": {
-      "cached_tokens": 16282
-    },
-    "total_tokens": 17940
-  },
-  "translation": "Y vio Hamán que Mordejai ni se arrodillaba ni se prosternaba ante él, y se llenó Hamán de ira",
-  "tokens": [
-    {
-      "surface": "וירא",
-      "english": "Y vio"
-    },
-    {
-      "surface": "המן",
-      "english": "Hamán"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "אין",
-      "english": "ni"
-    },
-    {
-      "surface": "מרדכי",
-      "english": "Mordejai"
-    },
-    {
-      "surface": "כרע",
-      "english": "se arrodillaba"
-    },
-    {
-      "surface": "ומשתחוה",
-      "english": "ni se prosternaba"
-    },
-    {
-      "surface": "לו",
-      "english": "ante él"
-    },
-    {
-      "surface": "וימלא",
-      "english": "y se llenó"
-    },
-    {
-      "surface": "המן",
-      "english": "Hamán"
-    },
-    {
-      "surface": "חמה",
-      "english": "de ira"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:49:52.075565651Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

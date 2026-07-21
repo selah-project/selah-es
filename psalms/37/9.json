@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 37:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70025,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70429
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:44.978637845Z",
   "translation": "Porque ⟨los⟩ malhechores serán cortados, y ⟨los⟩ que esperan en YHWH, ellos heredarán la tierra.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "מרעים",
-      "english": "⟨los⟩ malhechores"
+      "gloss": "⟨los⟩ malhechores"
     },
     {
       "surface": "יכרתון",
-      "english": "serán cortados"
+      "gloss": "serán cortados"
     },
     {
       "surface": "וקוי",
-      "english": "y ⟨los⟩ que esperan"
+      "gloss": "y ⟨los⟩ que esperan"
     },
     {
       "surface": "יהוה",
-      "english": "en YHWH"
+      "gloss": "en YHWH"
     },
     {
       "surface": "המה",
-      "english": "ellos"
+      "gloss": "ellos"
     },
     {
       "surface": "יירשו",
-      "english": "heredarán"
+      "gloss": "heredarán"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:44.978637845Z",
-  "model": "glm-4.5"
+  ]
 }

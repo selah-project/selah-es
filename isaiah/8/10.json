@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 8:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26261,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26607
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:25:42.035304458Z",
   "translation": "Tomen consejo y ⟨será⟩ deshecho; hablen ⟨la⟩ palabra y no ⟨será⟩ establecida, porque El ⟨está⟩ con nosotros.",
   "tokens": [
     {
       "surface": "עצו",
-      "english": "Tomen consejo"
+      "gloss": "Tomen consejo"
     },
     {
       "surface": "עצה",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ותפר",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "דברו",
-      "english": "deshecho; hablen"
+      "gloss": "deshecho; hablen"
     },
     {
       "surface": "דבר",
-      "english": "⟨la⟩"
+      "gloss": "⟨la⟩"
     },
     {
       "surface": "ולא",
-      "english": "palabra"
+      "gloss": "palabra"
     },
     {
       "surface": "יקום",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "כי",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "עמנו",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "אל",
-      "english": "establecida,"
+      "gloss": "establecida,"
     }
-  ],
-  "timestamp": "2026-06-10T02:25:42.035304458Z",
-  "model": "glm-4.5"
+  ]
 }

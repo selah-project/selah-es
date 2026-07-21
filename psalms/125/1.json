@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 125:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 125,
-  "usage": {
-    "completion_tokens": 553,
-    "prompt_tokens": 70227,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70780
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:00.712169119Z",
   "translation": "Cántico ⟨de las⟩ ascensiones. Los que confían en YHWH ⟨son⟩ como monte Tzión, que no se mueve—para siempre ⟨está⟩ asentado.",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Cántico"
+      "gloss": "Cántico"
     },
     {
       "surface": "המעלות",
-      "english": "⟨de las⟩ ascensiones"
+      "gloss": "⟨de las⟩ ascensiones"
     },
     {
       "surface": "הבטחים",
-      "english": "Los que confían"
+      "gloss": "Los que confían"
     },
     {
       "surface": "ביהוה",
-      "english": "en YHWH"
+      "gloss": "en YHWH"
     },
     {
       "surface": "כהר",
-      "english": "como monte"
+      "gloss": "como monte"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     },
     {
       "surface": "לא",
-      "english": "que no"
+      "gloss": "que no"
     },
     {
       "surface": "ימוט",
-      "english": "se mueve"
+      "gloss": "se mueve"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "ישב",
-      "english": "⟨está⟩ asentado"
+      "gloss": "⟨está⟩ asentado"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:00.712169119Z",
-  "model": "glm-4.5"
+  ]
 }

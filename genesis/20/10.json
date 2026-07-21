@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 20:10",
   "book": "genesis",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 433,
-    "prompt_tokens": 28803,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29236
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:59:28.369377132Z",
   "translation": "Y Avimélej dijo a Avraham: ¿Qué viste ⟨que⟩ hiciste ⟨את⟩ ha-davar ha-zeh?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "אבימלך",
-      "english": "Avimélej"
+      "gloss": "Avimélej"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "ראית",
-      "english": "viste"
+      "gloss": "viste"
     },
     {
       "surface": "כי",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "עשית",
-      "english": "hiciste"
+      "gloss": "hiciste"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ha-davar"
     },
     {
       "surface": "הדבר",
-      "english": "ha-davar"
+      "gloss": "ha-davar"
     },
     {
       "surface": "הזה",
-      "english": "ha-zeh"
+      "gloss": "ha-zeh"
     }
-  ],
-  "timestamp": "2026-07-16T20:59:28.369377132Z",
-  "model": "glm-4.5"
+  ]
 }

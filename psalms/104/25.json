@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 104:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70396,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70892
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:51:20.561363060Z",
   "translation": "Este ⟨el⟩ mar ⟨es⟩ grande y de anchas manos allí ⟨hay⟩ reptiles y ⟨no hay⟩ número de seres vivientes pequeños con ⟨los⟩ grandes",
   "tokens": [
     {
       "surface": "זה",
-      "english": "Este"
+      "gloss": "Este"
     },
     {
       "surface": "הים",
-      "english": "⟨el⟩ mar"
+      "gloss": "⟨el⟩ mar"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "ורחב",
-      "english": "y de anchas"
+      "gloss": "y de anchas"
     },
     {
       "surface": "ידים",
-      "english": "manos"
+      "gloss": "manos"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "רמש",
-      "english": "reptiles"
+      "gloss": "reptiles"
     },
     {
       "surface": "ואין",
-      "english": "y ⟨no hay⟩"
+      "gloss": "y ⟨no hay⟩"
     },
     {
       "surface": "מספר",
-      "english": "número"
+      "gloss": "número"
     },
     {
       "surface": "חיות",
-      "english": "seres vivientes"
+      "gloss": "seres vivientes"
     },
     {
       "surface": "קטנות",
-      "english": "pequeños"
+      "gloss": "pequeños"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "גדלות",
-      "english": "⟨los⟩ grandes"
+      "gloss": "⟨los⟩ grandes"
     }
-  ],
-  "timestamp": "2026-06-09T23:51:20.561363060Z",
-  "model": "glm-4.5"
+  ]
 }

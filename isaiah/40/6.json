@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "isaiah 40:6",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26528,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27073
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:45:05.759138278Z",
   "translation": "Una voz ⟨dice⟩ ⟨que⟩ clama ⟨y⟩ ⟨dice⟩: ¿Qué ⟨debo⟩ clamar? Toda ⟨la⟩ carne ⟨es⟩ hierba ⟨y⟩ toda ⟨su⟩ bondad ⟨es⟩ como ⟨la⟩ flor del campo.",
   "tokens": [
     {
       "surface": "קול",
-      "english": "Una voz"
+      "gloss": "Una voz"
     },
     {
       "surface": "אמר",
-      "english": "⟨dice⟩"
+      "gloss": "⟨dice⟩"
     },
     {
       "surface": "קרא",
-      "english": "⟨que⟩ clama"
+      "gloss": "⟨que⟩ clama"
     },
     {
       "surface": "ואמר",
-      "english": "⟨y⟩ ⟨dice⟩"
+      "gloss": "⟨y⟩ ⟨dice⟩"
     },
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "אקרא",
-      "english": "⟨debo⟩ clamar"
+      "gloss": "⟨debo⟩ clamar"
     },
     {
       "surface": "כל",
-      "english": "Toda"
+      "gloss": "Toda"
     },
     {
       "surface": "הבשר",
-      "english": "⟨la⟩ carne"
+      "gloss": "⟨la⟩ carne"
     },
     {
       "surface": "חציר",
-      "english": "⟨es⟩ hierba"
+      "gloss": "⟨es⟩ hierba"
     },
     {
       "surface": "וכל",
-      "english": "⟨y⟩ toda"
+      "gloss": "⟨y⟩ toda"
     },
     {
       "surface": "חסדו",
-      "english": "⟨su⟩ bondad"
+      "gloss": "⟨su⟩ bondad"
     },
     {
       "surface": "כציץ",
-      "english": "⟨es⟩ como ⟨la⟩ flor"
+      "gloss": "⟨es⟩ como ⟨la⟩ flor"
     },
     {
       "surface": "השדה",
-      "english": "del campo"
+      "gloss": "del campo"
     }
-  ],
-  "timestamp": "2026-06-10T02:45:05.759138278Z",
-  "model": "glm-4.5"
+  ]
 }

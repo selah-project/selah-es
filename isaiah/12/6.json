@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "isaiah 12:6",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 584,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26192,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26776
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:28:22.924313295Z",
   "translation": "¡Grita ⟨y⟩ canta ⟨con⟩ júbilo, habitante ⟨de⟩ Tzión, ⟨por⟩ grande ⟨es⟩ en medio ⟨de⟩ ti el Santo ⟨de⟩ Israel.",
   "tokens": [
     {
       "surface": "צהלי",
-      "english": "¡Grita ⟨y⟩ canta ⟨con⟩ júbilo"
+      "gloss": "¡Grita ⟨y⟩ canta ⟨con⟩ júbilo"
     },
     {
       "surface": "ורני",
-      "english": "canta ⟨con⟩ júbilo"
+      "gloss": "canta ⟨con⟩ júbilo"
     },
     {
       "surface": "יושבת",
-      "english": "habitante ⟨de⟩"
+      "gloss": "habitante ⟨de⟩"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     },
     {
       "surface": "כי",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "בקרבך",
-      "english": "en medio ⟨de⟩ ti"
+      "gloss": "en medio ⟨de⟩ ti"
     },
     {
       "surface": "קדוש",
-      "english": "el Santo ⟨de⟩"
+      "gloss": "el Santo ⟨de⟩"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     }
-  ],
-  "timestamp": "2026-06-10T02:28:22.924313295Z",
-  "model": "glm-4.5"
+  ]
 }

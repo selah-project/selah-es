@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 91:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69888,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70200
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:45:04.640742542Z",
   "translation": "Pues él te ⟨will⟩ rescatar del ⟨la⟩ trampa del cazador y de ⟨la⟩ peste perniciosa.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pues"
+      "gloss": "Pues"
     },
     {
       "surface": "הוא",
-      "english": "él"
+      "gloss": "él"
     },
     {
       "surface": "יצילך",
-      "english": "te ⟨will⟩ rescatar"
+      "gloss": "te ⟨will⟩ rescatar"
     },
     {
       "surface": "מפח",
-      "english": "del ⟨la⟩ trampa"
+      "gloss": "del ⟨la⟩ trampa"
     },
     {
       "surface": "יקוש",
-      "english": "del cazador"
+      "gloss": "del cazador"
     },
     {
       "surface": "מדבר",
-      "english": "y de ⟨la⟩ peste"
+      "gloss": "y de ⟨la⟩ peste"
     },
     {
       "surface": "הוות",
-      "english": "perniciosa"
+      "gloss": "perniciosa"
     }
-  ],
-  "timestamp": "2026-06-09T23:45:04.640742542Z",
-  "model": "glm-4.5"
+  ]
 }

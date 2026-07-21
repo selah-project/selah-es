@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 9,
   "ref": "psalms 38:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69942,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70450
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:56:26.535510468Z",
   "translation": "Estoy entumecido y ⟨estoy⟩ aplastado hasta lo sumo; ⟨he⟩ rugido por el gemido de mi corazón.",
   "tokens": [
     {
       "surface": "נפוגותי",
-      "english": "Estoy entumecido"
+      "gloss": "Estoy entumecido"
     },
     {
       "surface": "ונדכיתי",
-      "english": "y ⟨estoy⟩ aplastado"
+      "gloss": "y ⟨estoy⟩ aplastado"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "מאד",
-      "english": "lo sumo"
+      "gloss": "lo sumo"
     },
     {
       "surface": "שאגתי",
-      "english": "⟨he⟩ rugido"
+      "gloss": "⟨he⟩ rugido"
     },
     {
       "surface": "מנהמת",
-      "english": "por el gemido"
+      "gloss": "por el gemido"
     },
     {
       "surface": "לבי",
-      "english": "de mi corazón"
+      "gloss": "de mi corazón"
     }
-  ],
-  "timestamp": "2026-06-13T03:56:26.535510468Z",
-  "model": "glm-5.1"
+  ]
 }

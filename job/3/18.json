@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 3:18",
   "book": "job",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26998,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27480
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:54:53.705927450Z",
   "translation": "Juntos ⟨los⟩ cautivos ⟨están⟩ tranquilos; ⟨ellos⟩ no oyen ⟨el⟩ voz ⟨del⟩ opresor.",
   "tokens": [
     {
       "surface": "יחד",
-      "english": "Juntos"
+      "gloss": "Juntos"
     },
     {
       "surface": "אסירים",
-      "english": "⟨los⟩ cautivos",
+      "gloss": "⟨los⟩ cautivos",
       "marks": "cautivos"
     },
     {
       "surface": "שאננו",
-      "english": "⟨están⟩ tranquilos"
+      "gloss": "⟨están⟩ tranquilos"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "שמעו",
-      "english": "oyen"
+      "gloss": "oyen"
     },
     {
       "surface": "קול",
-      "english": "⟨el⟩ voz",
+      "gloss": "⟨el⟩ voz",
       "marks": "voz"
     },
     {
       "surface": "נגש",
-      "english": "⟨del⟩ opresor",
+      "gloss": "⟨del⟩ opresor",
       "marks": "opresor"
     }
-  ],
-  "timestamp": "2026-06-10T01:54:53.705927450Z",
-  "model": "glm-4.5"
+  ]
 }

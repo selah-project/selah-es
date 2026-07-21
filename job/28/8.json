@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 28:8",
   "book": "job",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27082,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27470
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:11.842893084Z",
   "translation": "Los hijos ⟨de la⟩ soberbia no ⟨lo⟩ han hollado; ⟨el⟩ león feroz ⟨no⟩ ha pasado por ⟨él⟩",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "הדריכהו",
-      "english": "han hollado"
+      "gloss": "han hollado"
     },
     {
       "surface": "בני",
-      "english": "Los hijos"
+      "gloss": "Los hijos"
     },
     {
       "surface": "שחץ",
-      "english": "soberbia"
+      "gloss": "soberbia"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "עדה",
-      "english": "ha pasado"
+      "gloss": "ha pasado"
     },
     {
       "surface": "עליו",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "שחל",
-      "english": "león feroz"
+      "gloss": "león feroz"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:11.842893084Z",
-  "model": "glm-4.5"
+  ]
 }

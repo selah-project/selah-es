@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 5:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 5,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:31:22.860418319Z",
+  "translation": "Y los hijos de Reuvén, primogénito de Yisrael: ⟨por⟩ ⟨él⟩ ⟨es⟩ el primogénito, y por profanar el lecho ⟨de⟩ su padre, su primogenitura fue dada ⟨a⟩ los hijos de Yosef, hijo ⟨de⟩ Yisrael, y no ⟨fue⟩ contado por genealogía ⟨como⟩ primogénito.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Y los hijos"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "de Reuvén"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "primogénito"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "por"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨él⟩"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "⟨es⟩ el primogénito"
+    },
+    {
+      "surface": "ובחללו",
+      "gloss": "y por profanar"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "el lecho"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "⟨de⟩ su padre"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "su primogenitura fue dada"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "primogenitura"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨a⟩ los hijos"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "de Yosef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "להתיחש",
+      "gloss": "⟨fue⟩ contado por genealogía"
+    },
+    {
+      "surface": "לבכרה",
+      "gloss": "⟨como⟩ primogénito"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Rubén",
@@ -34,100 +117,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 795,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57946,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 58741
-  },
-  "translation": "Y los hijos de Reuvén, primogénito de Yisrael: ⟨por⟩ ⟨él⟩ ⟨es⟩ el primogénito, y por profanar el lecho ⟨de⟩ su padre, su primogenitura fue dada ⟨a⟩ los hijos de Yosef, hijo ⟨de⟩ Yisrael, y no ⟨fue⟩ contado por genealogía ⟨como⟩ primogénito.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "Y los hijos"
-    },
-    {
-      "surface": "ראובן",
-      "english": "de Reuvén"
-    },
-    {
-      "surface": "בכור",
-      "english": "primogénito"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כי",
-      "english": "por"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨él⟩"
-    },
-    {
-      "surface": "הבכור",
-      "english": "⟨es⟩ el primogénito"
-    },
-    {
-      "surface": "ובחללו",
-      "english": "y por profanar"
-    },
-    {
-      "surface": "יצועי",
-      "english": "el lecho"
-    },
-    {
-      "surface": "אביו",
-      "english": "⟨de⟩ su padre"
-    },
-    {
-      "surface": "נתנה",
-      "english": "su primogenitura fue dada"
-    },
-    {
-      "surface": "בכרתו",
-      "english": "primogenitura"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨a⟩ los hijos"
-    },
-    {
-      "surface": "יוסף",
-      "english": "de Yosef"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "להתיחש",
-      "english": "⟨fue⟩ contado por genealogía"
-    },
-    {
-      "surface": "לבכרה",
-      "english": "⟨como⟩ primogénito"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:31:22.860418319Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

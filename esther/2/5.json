@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "esther 2:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 2,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:48:55.628462232Z",
+  "translation": "Un hombre judío ⟨estaba⟩ en Susa la capital, y su nombre ⟨es⟩ Mordejai, hijo de Yaír, hijo de Semeí, hijo de Quis, hombre de Benjamín",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Un hombre"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "judío"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨estaba⟩"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "en Susa"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "la capital"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "y su nombre"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "⟨es⟩ Mordejai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "de Yaír"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "de Semeí"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "de Quis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hombre"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "de Benjamín"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mardoqueo",
@@ -13,84 +80,6 @@
       "hebrew": "מרדכי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18019,
-    "prompt_tokens_details": {
-      "cached_tokens": 16282
-    },
-    "total_tokens": 18559
-  },
-  "translation": "Un hombre judío ⟨estaba⟩ en Susa la capital, y su nombre ⟨es⟩ Mordejai, hijo de Yaír, hijo de Semeí, hijo de Quis, hombre de Benjamín",
-  "tokens": [
-    {
-      "surface": "איש",
-      "english": "Un hombre"
-    },
-    {
-      "surface": "יהודי",
-      "english": "judío"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨estaba⟩"
-    },
-    {
-      "surface": "בשושן",
-      "english": "en Susa"
-    },
-    {
-      "surface": "הבירה",
-      "english": "la capital"
-    },
-    {
-      "surface": "ושמו",
-      "english": "y su nombre"
-    },
-    {
-      "surface": "מרדכי",
-      "english": "⟨es⟩ Mordejai"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "יאיר",
-      "english": "de Yaír"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "שמעי",
-      "english": "de Semeí"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "קיש",
-      "english": "de Quis"
-    },
-    {
-      "surface": "איש",
-      "english": "hombre"
-    },
-    {
-      "surface": "ימיני",
-      "english": "de Benjamín"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:48:55.628462232Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

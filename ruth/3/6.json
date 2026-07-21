@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "ruth 3:6",
   "book": "ruth",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27929,
-    "prompt_tokens_details": {
-      "cached_tokens": 26952
-    },
-    "total_tokens": 28413
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T21:30:47.475430985Z",
   "translation": "Y ella ⟨se⟩ descendió ⟨al⟩ era de trillar y ⟨se⟩ hizo según todo ⟨lo⟩ que ⟨le⟩ había ordenado ⟨su⟩ suegra",
   "tokens": [
     {
       "surface": "ותרד",
-      "english": "Y ella ⟨se⟩ descendió"
+      "gloss": "Y ella ⟨se⟩ descendió"
     },
     {
       "surface": "הגרן",
-      "english": "⟨al⟩ era de trillar"
+      "gloss": "⟨al⟩ era de trillar"
     },
     {
       "surface": "ותעש",
-      "english": "y ⟨se⟩ hizo"
+      "gloss": "y ⟨se⟩ hizo"
     },
     {
       "surface": "ככל",
-      "english": "según todo"
+      "gloss": "según todo"
     },
     {
       "surface": "אשר",
-      "english": "⟨lo⟩ que"
+      "gloss": "⟨lo⟩ que"
     },
     {
       "surface": "צותה",
-      "english": "⟨le⟩ había ordenado"
+      "gloss": "⟨le⟩ había ordenado"
     },
     {
       "surface": "חמותה",
-      "english": "⟨su⟩ suegra"
+      "gloss": "⟨su⟩ suegra"
     }
-  ],
-  "timestamp": "2026-06-09T21:30:47.475430985Z",
-  "model": "glm-4.5"
+  ]
 }

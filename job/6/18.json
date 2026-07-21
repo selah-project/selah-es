@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 6:18",
   "book": "job",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26989,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27353
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:17.017704149Z",
   "translation": "Los caminos ⟨de⟩ ⟨ellos⟩ se desvían; ascienden ⟨al⟩ vacío y perecen.",
   "tokens": [
     {
       "surface": "ילפתו",
-      "english": "Se desvían"
+      "gloss": "Se desvían"
     },
     {
       "surface": "ארחות",
-      "english": "caminos"
+      "gloss": "caminos"
     },
     {
       "surface": "דרכם",
-      "english": "⟨de⟩ ⟨ellos⟩"
+      "gloss": "⟨de⟩ ⟨ellos⟩"
     },
     {
       "surface": "יעלו",
-      "english": "ascienden"
+      "gloss": "ascienden"
     },
     {
       "surface": "בתהו",
-      "english": "⟨al⟩ vacío"
+      "gloss": "⟨al⟩ vacío"
     },
     {
       "surface": "ויאבדו",
-      "english": "y perecen"
+      "gloss": "y perecen"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:17.017704149Z",
-  "model": "glm-4.5"
+  ]
 }

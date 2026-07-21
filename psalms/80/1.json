@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 80:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62508,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 62889
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:18:07.658459069Z",
   "translation": "⟨To⟩ ⟨the⟩ conductor ⟨on⟩ ⟨the⟩ lilies, a testimony ⟨for⟩ Asaph, ⟨a⟩ psalm",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ ⟨the⟩ conductor"
+      "gloss": "⟨To⟩ ⟨the⟩ conductor"
     },
     {
       "surface": "אל",
-      "english": "⟨on⟩"
+      "gloss": "⟨on⟩"
     },
     {
       "surface": "ששנים",
-      "english": "⟨the⟩ lilies"
+      "gloss": "⟨the⟩ lilies"
     },
     {
       "surface": "עדות",
-      "english": "a testimony"
+      "gloss": "a testimony"
     },
     {
       "surface": "לאסף",
-      "english": "⟨for⟩ Asaph"
+      "gloss": "⟨for⟩ Asaph"
     },
     {
       "surface": "מזמור",
-      "english": "⟨a⟩ psalm"
+      "gloss": "⟨a⟩ psalm"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:18:07.658459069Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

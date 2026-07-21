@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "leviticus 4:10",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 550,
-    "prompt_tokens": 24785,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25335
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:32:47.180561973Z",
   "translation": "como ⟨es⟩ levantado de ⟨el⟩ buey ⟨del⟩ sacrificio de las ofrendas de paz, y el kohen ⟨los⟩ hará humear sobre el altar del holocausto",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "יורם",
-      "english": "⟨es⟩ levantado"
+      "gloss": "⟨es⟩ levantado"
     },
     {
       "surface": "משור",
-      "english": "de ⟨el⟩ buey"
+      "gloss": "de ⟨el⟩ buey"
     },
     {
       "surface": "זבח",
-      "english": "sacrificio"
+      "gloss": "sacrificio"
     },
     {
       "surface": "השלמים",
-      "english": "de las ofrendas de paz"
+      "gloss": "de las ofrendas de paz"
     },
     {
       "surface": "והקטירם",
-      "english": "y el kohen ⟨los⟩ hará humear"
+      "gloss": "y el kohen ⟨los⟩ hará humear"
     },
     {
       "surface": "הכהן",
-      "english": "—"
+      "gloss": "—"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מזבח",
-      "english": "el altar"
+      "gloss": "el altar"
     },
     {
       "surface": "העלה",
-      "english": "del holocausto"
+      "gloss": "del holocausto"
     }
-  ],
-  "timestamp": "2026-07-16T22:32:47.180561973Z",
-  "model": "glm-4.5"
+  ]
 }

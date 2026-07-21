@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "jeremiah 17:7",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24473,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24757
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:16:32.703609059Z",
   "translation": "Blessed ⟨is⟩ ⟨the⟩ man who trusts in YHWH, and YHWH becomes his trust",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "Blessed"
+      "gloss": "Blessed"
     },
     {
       "surface": "הגבר",
-      "english": "⟨the⟩ man"
+      "gloss": "⟨the⟩ man"
     },
     {
       "surface": "אשר",
-      "english": "who"
+      "gloss": "who"
     },
     {
       "surface": "יבטח",
-      "english": "trusts"
+      "gloss": "trusts"
     },
     {
       "surface": "ביהוה",
-      "english": "in YHWH"
+      "gloss": "in YHWH"
     },
     {
       "surface": "והיה",
-      "english": "and"
+      "gloss": "and"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מבטחו",
-      "english": "becomes his trust"
+      "gloss": "becomes his trust"
     }
-  ],
-  "timestamp": "2026-06-10T03:16:32.703609059Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 93:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 93,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 69803,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70145
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:39.379318012Z",
   "translation": "Tu trono ⟨está⟩ establecido desde ⟨el⟩ principio; tú ⟨eres⟩ desde ⟨la⟩ eternidad.",
   "tokens": [
     {
       "surface": "נָכ֣וֹן",
-      "english": "establecido"
+      "gloss": "establecido"
     },
     {
       "surface": "כִּסְאֲ\/ךָ֣",
-      "english": "tu trono"
+      "gloss": "tu trono"
     },
     {
       "surface": "מֵ\/אָ֑ז",
-      "english": "desde el principio"
+      "gloss": "desde el principio"
     },
     {
       "surface": "מֵֽ\/עוֹלָ֣ם",
-      "english": "desde la eternidad"
+      "gloss": "desde la eternidad"
     },
     {
       "surface": "אָֽתָּה",
-      "english": "tú"
+      "gloss": "tú"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:39.379318012Z",
-  "model": "glm-4.5"
+  ]
 }

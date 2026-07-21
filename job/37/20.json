@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 37:20",
   "book": "job",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27139,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27710
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:15:09.289082533Z",
   "translation": "¿⟨le⟩ será dicho ⟨que⟩ yo hablo? ⟨Si⟩ un ⟨hombre⟩ ⟨ha⟩ dicho, ⟨ciertamente⟩ será tragado.",
   "tokens": [
     {
       "surface": "היספר",
-      "english": "⟨Le⟩ será dicho"
+      "gloss": "⟨Le⟩ será dicho"
     },
     {
       "surface": "לו",
-      "english": "⟨que⟩",
+      "gloss": "⟨que⟩",
       "marks": "que yo hablo"
     },
     {
       "surface": "כי",
-      "english": "yo hablo"
+      "gloss": "yo hablo"
     },
     {
       "surface": "אדבר",
-      "english": "hablo"
+      "gloss": "hablo"
     },
     {
       "surface": "אם",
-      "english": "⟨Si⟩"
+      "gloss": "⟨Si⟩"
     },
     {
       "surface": "אמר",
-      "english": "⟨hombre⟩ ⟨ha⟩ dicho"
+      "gloss": "⟨hombre⟩ ⟨ha⟩ dicho"
     },
     {
       "surface": "איש",
-      "english": "⟨hombre⟩"
+      "gloss": "⟨hombre⟩"
     },
     {
       "surface": "כי",
-      "english": "⟨ciertamente⟩"
+      "gloss": "⟨ciertamente⟩"
     },
     {
       "surface": "יבלע",
-      "english": "será tragado"
+      "gloss": "será tragado"
     }
-  ],
-  "timestamp": "2026-06-10T02:15:09.289082533Z",
-  "model": "glm-4.5"
+  ]
 }

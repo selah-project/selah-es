@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 7:13",
   "book": "job",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 462,
-    "prompt_tokens": 27176,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27638
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:56:56.704279507Z",
   "translation": "Cuando dije: ⟨Mi⟩ cama me consolará, ⟨mi⟩ lecho aliviará ⟨mi⟩ queja,",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Cuando"
+      "gloss": "Cuando"
     },
     {
       "surface": "אמרתי",
-      "english": "dije"
+      "gloss": "dije"
     },
     {
       "surface": "תנחמני",
-      "english": "me consolará"
+      "gloss": "me consolará"
     },
     {
       "surface": "ערשי",
-      "english": "⟨Mi⟩ cama"
+      "gloss": "⟨Mi⟩ cama"
     },
     {
       "surface": "ישא",
-      "english": "aliviará"
+      "gloss": "aliviará"
     },
     {
       "surface": "בשיחי",
-      "english": "⟨mi⟩ queja"
+      "gloss": "⟨mi⟩ queja"
     },
     {
       "surface": "משכבי",
-      "english": "⟨mi⟩ lecho"
+      "gloss": "⟨mi⟩ lecho"
     }
-  ],
-  "timestamp": "2026-07-16T21:56:56.704279507Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "leviticus 25:7",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24552,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 24965
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:40:22.901950279Z",
   "translation": "Y para tu ganado y para ⟨el⟩ animal salvaje que ⟨está⟩ en tu tierra, todo su producto ⟨será⟩ para comer.",
   "tokens": [
     {
       "surface": "ולבהמתך",
-      "english": "Y para tu ganado"
+      "gloss": "Y para tu ganado"
     },
     {
       "surface": "ולחיה",
-      "english": "y para ⟨el⟩ animal salvaje"
+      "gloss": "y para ⟨el⟩ animal salvaje"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בארצך",
-      "english": "en tu tierra"
+      "gloss": "en tu tierra"
     },
     {
       "surface": "תהיה",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "תבואתה",
-      "english": "su producto"
+      "gloss": "su producto"
     },
     {
       "surface": "לאכל",
-      "english": "para comer"
+      "gloss": "para comer"
     }
-  ],
-  "timestamp": "2026-06-10T04:40:22.901950279Z",
-  "model": "glm-4.5"
+  ]
 }

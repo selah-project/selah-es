@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 69:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 434,
-    "prompt_tokens": 69946,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70380
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:29:08.865616433Z",
   "translation": "Aquellos que ⟨se sientan⟩ ⟨en⟩ la puerta conversan ⟨de mí⟩, y los ⟨bebedores⟩ de cerveza tocan ⟨canciones⟩.",
   "tokens": [
     {
       "surface": "ישיחו",
-      "english": "conversan"
+      "gloss": "conversan"
     },
     {
       "surface": "בי",
-      "english": "de mí"
+      "gloss": "de mí"
     },
     {
       "surface": "ישבי",
-      "english": "Aquellos que ⟨se sientan⟩"
+      "gloss": "Aquellos que ⟨se sientan⟩"
     },
     {
       "surface": "שער",
-      "english": "la puerta"
+      "gloss": "la puerta"
     },
     {
       "surface": "ונגינות",
-      "english": "tocan ⟨canciones⟩"
+      "gloss": "tocan ⟨canciones⟩"
     },
     {
       "surface": "שותי",
-      "english": "los ⟨bebedores⟩"
+      "gloss": "los ⟨bebedores⟩"
     },
     {
       "surface": "שכר",
-      "english": "de cerveza"
+      "gloss": "de cerveza"
     }
-  ],
-  "timestamp": "2026-07-21T02:29:08.865616433Z",
-  "model": "glm-4.5"
+  ]
 }

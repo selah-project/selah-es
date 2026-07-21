@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 64:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 442,
-    "prompt_tokens": 70054,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70496
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:32:20.409268959Z",
   "translation": "Para disparar desde los lugares ocultos ⟨al⟩ íntegro; de repente disparan contra él, y no ⟨tienen⟩ temor",
   "tokens": [
     {
       "surface": "לירות",
-      "english": "Para disparar"
+      "gloss": "Para disparar"
     },
     {
       "surface": "במסתרים",
-      "english": "desde los lugares ocultos"
+      "gloss": "desde los lugares ocultos"
     },
     {
       "surface": "תם",
-      "english": "⟨al⟩ íntegro"
+      "gloss": "⟨al⟩ íntegro"
     },
     {
       "surface": "פתאם",
-      "english": "de repente"
+      "gloss": "de repente"
     },
     {
       "surface": "ירהו",
-      "english": "disparan contra él"
+      "gloss": "disparan contra él"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "ייראו",
-      "english": "⟨tienen⟩ temor"
+      "gloss": "⟨tienen⟩ temor"
     }
-  ],
-  "timestamp": "2026-07-16T23:32:20.409268959Z",
-  "model": "glm-4.5"
+  ]
 }

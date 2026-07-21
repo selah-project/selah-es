@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 115:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69868,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70276
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:27.647894541Z",
   "translation": "⟨los⟩ muertos ⟨no⟩ alabarán ⟨a⟩ YH y tampoco todos ⟨los⟩ que descienden ⟨al⟩ silencio",
   "tokens": [
     {
       "surface": "לא",
-      "english": "⟨No⟩"
+      "gloss": "⟨No⟩"
     },
     {
       "surface": "המתים",
-      "english": "⟨los⟩ muertos"
+      "gloss": "⟨los⟩ muertos"
     },
     {
       "surface": "יהללו",
-      "english": "alabarán ⟨a⟩"
+      "gloss": "alabarán ⟨a⟩"
     },
     {
       "surface": "יה",
-      "english": "YH"
+      "gloss": "YH"
     },
     {
       "surface": "ולא",
-      "english": "y tampoco"
+      "gloss": "y tampoco"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨los⟩"
+      "gloss": "todos ⟨los⟩"
     },
     {
       "surface": "ירדי",
-      "english": "que descienden ⟨al⟩"
+      "gloss": "que descienden ⟨al⟩"
     },
     {
       "surface": "דומה",
-      "english": "silencio"
+      "gloss": "silencio"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:27.647894541Z",
-  "model": "glm-4.5"
+  ]
 }

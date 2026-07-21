@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 11:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59744,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60106
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:35:02.978532155Z",
   "translation": "El justo es librado de ⟨la⟩ angustia y viene ⟨el⟩ malvado en su lugar.",
   "tokens": [
     {
       "surface": "צדיק",
-      "english": "El justo"
+      "gloss": "El justo"
     },
     {
       "surface": "מצרה",
-      "english": "de ⟨la⟩ angustia"
+      "gloss": "de ⟨la⟩ angustia"
     },
     {
       "surface": "נחלץ",
-      "english": "es librado"
+      "gloss": "es librado"
     },
     {
       "surface": "ויבא",
-      "english": "y viene"
+      "gloss": "y viene"
     },
     {
       "surface": "רשע",
-      "english": "⟨el⟩ malvado"
+      "gloss": "⟨el⟩ malvado"
     },
     {
       "surface": "תחתיו",
-      "english": "en su lugar"
+      "gloss": "en su lugar"
     }
-  ],
-  "timestamp": "2026-06-10T01:35:02.978532155Z",
-  "model": "glm-4.5"
+  ]
 }

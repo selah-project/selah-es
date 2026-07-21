@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 15:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26191,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26604
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:30:18.741821716Z",
   "translation": "Por ⟨esto⟩ ⟨lo⟩ que ⟨se⟩ ha hecho ⟨y⟩ su reserva ⟨la⟩ llevarán ⟨al⟩ arroyo ⟨de⟩ los sauces.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Por",
+      "gloss": "Por",
       "marks": "esto"
     },
     {
       "surface": "כן",
-      "english": "⟨lo⟩ que ⟨se⟩ ha hecho",
+      "gloss": "⟨lo⟩ que ⟨se⟩ ha hecho",
       "marks": "hecho"
     },
     {
       "surface": "יתרה",
-      "english": "⟨y⟩ su reserva"
+      "gloss": "⟨y⟩ su reserva"
     },
     {
       "surface": "עשה",
-      "english": "hecho"
+      "gloss": "hecho"
     },
     {
       "surface": "ופקדתם",
-      "english": "su reserva"
+      "gloss": "su reserva"
     },
     {
       "surface": "על",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "נחל",
-      "english": "arroyo"
+      "gloss": "arroyo"
     },
     {
       "surface": "הערבים",
-      "english": "⟨de⟩ los sauces"
+      "gloss": "⟨de⟩ los sauces"
     },
     {
       "surface": "ישאום",
-      "english": "⟨la⟩ llevarán"
+      "gloss": "⟨la⟩ llevarán"
     }
-  ],
-  "timestamp": "2026-06-10T02:30:18.741821716Z",
-  "model": "glm-4.5"
+  ]
 }

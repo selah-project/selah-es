@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 121:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 320,
-    "prompt_tokens": 69843,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70163
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:56.854763316Z",
   "translation": "Mi ayuda ⟨es⟩ de YHWH, ⟨el⟩ hacedor de ⟨los⟩ cielos y ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "עזרי",
-      "english": "Mi ayuda"
+      "gloss": "Mi ayuda"
     },
     {
       "surface": "מעם",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עשה",
-      "english": "hacedor"
+      "gloss": "hacedor"
     },
     {
       "surface": "שמים",
-      "english": "cielos"
+      "gloss": "cielos"
     },
     {
       "surface": "וארץ",
-      "english": "tierra"
+      "gloss": "tierra"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:56.854763316Z",
-  "model": "glm-4.5"
+  ]
 }

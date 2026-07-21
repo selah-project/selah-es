@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 24:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 24,
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:09:05.394330467Z",
+  "translation": "Y ahora, ⟨he⟩ aquí, ⟨he⟩ sabido ⟨que⟩ ⟨el⟩ rey reinarás ⟨que⟩ ⟨se⟩ levante ⟨en⟩ tu mano, ⟨el⟩ reino ⟨de⟩ Yisrael",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Y ahora"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨he⟩ aquí"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "⟨he⟩ sabido"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "reinarás"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "⟨que⟩ ⟨se⟩ levante"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "⟨en⟩ tu mano"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "⟨el⟩ reino"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16378,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16882
-  },
-  "translation": "Y ahora, ⟨he⟩ aquí, ⟨he⟩ sabido ⟨que⟩ ⟨el⟩ rey reinarás ⟨que⟩ ⟨se⟩ levante ⟨en⟩ tu mano, ⟨el⟩ reino ⟨de⟩ Yisrael",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "Y ahora"
-    },
-    {
-      "surface": "הנה",
-      "english": "⟨he⟩ aquí"
-    },
-    {
-      "surface": "ידעתי",
-      "english": "⟨he⟩ sabido"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "תמלוך",
-      "english": "reinarás"
-    },
-    {
-      "surface": "וקמה",
-      "english": "⟨que⟩ ⟨se⟩ levante"
-    },
-    {
-      "surface": "בידך",
-      "english": "⟨en⟩ tu mano"
-    },
-    {
-      "surface": "ממלכת",
-      "english": "⟨el⟩ reino"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:09:05.394330467Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 10:1",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 418,
-    "prompt_tokens": 65441,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 65859
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:50:53.069315285Z",
   "translation": "Y Rejavam fue a Shechem, porque a Shechem había venido todo Yisrael para ⟨את⟩ coronarlo",
   "tokens": [
     {
       "surface": "וילך",
-      "english": "Y ... fue"
+      "gloss": "Y ... fue"
     },
     {
       "surface": "רחבעם",
-      "english": "Rejavam"
+      "gloss": "Rejavam"
     },
     {
       "surface": "שכמה",
-      "english": "a Shechem"
+      "gloss": "a Shechem"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "שכם",
-      "english": "a Shechem"
+      "gloss": "a Shechem"
     },
     {
       "surface": "באו",
-      "english": "había venido"
+      "gloss": "había venido"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "להמליך",
-      "english": "para coronarlo"
+      "gloss": "para coronarlo"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "coronarlo"
     }
-  ],
-  "timestamp": "2026-07-16T18:50:53.069315285Z",
-  "model": "glm-4.5"
+  ]
 }

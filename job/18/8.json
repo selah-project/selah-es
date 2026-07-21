@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 18:8",
   "book": "job",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27034,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27393
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:03.460127095Z",
   "translation": "Porque ⟨es⟩ enviado ⟨a⟩ una red ⟨por⟩ sus pies y sobre ⟨una⟩ trampa ⟨el⟩ camina",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "שלח",
-      "english": "enviado"
+      "gloss": "enviado"
     },
     {
       "surface": "ברשת",
-      "english": "⟨a⟩ una red"
+      "gloss": "⟨a⟩ una red"
     },
     {
       "surface": "ברגליו",
-      "english": "⟨por⟩ sus pies"
+      "gloss": "⟨por⟩ sus pies"
     },
     {
       "surface": "ועל",
-      "english": "y sobre"
+      "gloss": "y sobre"
     },
     {
       "surface": "שבכה",
-      "english": "⟨una⟩ trampa"
+      "gloss": "⟨una⟩ trampa"
     },
     {
       "surface": "יתהלך",
-      "english": "⟨el⟩ camina"
+      "gloss": "⟨el⟩ camina"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:03.460127095Z",
-  "model": "glm-4.5"
+  ]
 }

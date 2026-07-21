@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "joshua 19:36",
   "book": "joshua",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 140,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22830,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 22970
-  },
+  "verse": 36,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:22:06.081364218Z",
   "translation": "y ⟨el⟩ Adamah y ⟨el⟩ Ramah y ⟨el⟩ Hazor",
   "tokens": [
     {
       "surface": "ואדמה",
-      "english": "Y ⟨el⟩ Adamah"
+      "gloss": "Y ⟨el⟩ Adamah"
     },
     {
       "surface": "והרמה",
-      "english": "y ⟨el⟩ Ramah"
+      "gloss": "y ⟨el⟩ Ramah"
     },
     {
       "surface": "וחצור",
-      "english": "y ⟨el⟩ Hazor"
+      "gloss": "y ⟨el⟩ Hazor"
     }
-  ],
-  "timestamp": "2026-06-10T01:22:06.081364218Z",
-  "model": "glm-4.5"
+  ]
 }

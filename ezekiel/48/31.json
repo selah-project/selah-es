@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "ezekiel 48:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:58:41.017800299Z",
+  "translation": "Y las puertas de la ciudad ⟨serán⟩ sobre ⟨los⟩ nombres de ⟨las⟩ tribus de Yisrael: tres puertas hacia el norte; ⟨la⟩ puerta de Reubén una, ⟨la⟩ puerta de Yehudá una, ⟨la⟩ puerta de Leví una.",
+  "tokens": [
+    {
+      "surface": "ושערי",
+      "gloss": "Y las puertas"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de la ciudad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "los nombres"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "de las tribus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "tres puertas"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "tres"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "hacia el norte"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la puerta"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "de Reubén"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la puerta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la puerta"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Leví"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,96 +99,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 581,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17976,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 18557
-  },
-  "translation": "Y las puertas de la ciudad ⟨serán⟩ sobre ⟨los⟩ nombres de ⟨las⟩ tribus de Yisrael: tres puertas hacia el norte; ⟨la⟩ puerta de Reubén una, ⟨la⟩ puerta de Yehudá una, ⟨la⟩ puerta de Leví una.",
-  "tokens": [
-    {
-      "surface": "ושערי",
-      "english": "Y las puertas"
-    },
-    {
-      "surface": "העיר",
-      "english": "de la ciudad"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "שמות",
-      "english": "los nombres"
-    },
-    {
-      "surface": "שבטי",
-      "english": "de las tribus"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "שערים",
-      "english": "tres puertas"
-    },
-    {
-      "surface": "שלושה",
-      "english": "tres"
-    },
-    {
-      "surface": "צפונה",
-      "english": "hacia el norte"
-    },
-    {
-      "surface": "שער",
-      "english": "la puerta"
-    },
-    {
-      "surface": "ראובן",
-      "english": "de Reubén"
-    },
-    {
-      "surface": "אחד",
-      "english": "una"
-    },
-    {
-      "surface": "שער",
-      "english": "la puerta"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "אחד",
-      "english": "una"
-    },
-    {
-      "surface": "שער",
-      "english": "la puerta"
-    },
-    {
-      "surface": "לוי",
-      "english": "de Leví"
-    },
-    {
-      "surface": "אחד",
-      "english": "una"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:58:41.017800299Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

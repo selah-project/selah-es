@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 12:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 12,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:40:52.184634350Z",
+  "translation": "Y estos ⟨son⟩ los que vinieron a Davidd en Ziklag, aún ⟨estaba⟩ refugiado de ⟨el⟩ rostro de Shaúl hijo de Quis; y ellos ⟨eran⟩ ⟨los⟩ valientes, ayudadores de ⟨la⟩ guerra.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Y estos"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "los que vinieron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לציקלג",
+      "gloss": "en Ziklag"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aún"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "⟨estaba⟩ refugiado"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de ⟨el⟩ rostro"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "de Quis"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "y ellos"
+    },
+    {
+      "surface": "בגבורים",
+      "gloss": "⟨los⟩ valientes"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ayudadores"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "de ⟨la⟩ guerra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,84 +87,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 691,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57393,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 58084
-  },
-  "translation": "Y estos ⟨son⟩ los que vinieron a Davidd en Ziklag, aún ⟨estaba⟩ refugiado de ⟨el⟩ rostro de Shaúl hijo de Quis; y ellos ⟨eran⟩ ⟨los⟩ valientes, ayudadores de ⟨la⟩ guerra.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "Y estos"
-    },
-    {
-      "surface": "הבאים",
-      "english": "los que vinieron"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לציקלג",
-      "english": "en Ziklag"
-    },
-    {
-      "surface": "עוד",
-      "english": "aún"
-    },
-    {
-      "surface": "עצור",
-      "english": "⟨estaba⟩ refugiado"
-    },
-    {
-      "surface": "מפני",
-      "english": "de ⟨el⟩ rostro"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "קיש",
-      "english": "de Quis"
-    },
-    {
-      "surface": "והמה",
-      "english": "y ellos"
-    },
-    {
-      "surface": "בגבורים",
-      "english": "⟨los⟩ valientes"
-    },
-    {
-      "surface": "עזרי",
-      "english": "ayudadores"
-    },
-    {
-      "surface": "המלחמה",
-      "english": "de ⟨la⟩ guerra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:40:52.184634350Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

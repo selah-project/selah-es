@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 26:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59917,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60311
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:48:18.790538511Z",
   "translation": "Sin madera ⟨el⟩ fuego se extingue, y ⟨sin⟩ ⟨un⟩ difamador ⟨el⟩ conflicto cesa.",
   "tokens": [
     {
       "surface": "באפס",
-      "english": "Sin madera"
+      "gloss": "Sin madera"
     },
     {
       "surface": "עצים",
-      "english": "madera"
+      "gloss": "madera"
     },
     {
       "surface": "תכבה",
-      "english": "se extingue"
+      "gloss": "se extingue"
     },
     {
       "surface": "אש",
-      "english": "⟨el⟩ fuego"
+      "gloss": "⟨el⟩ fuego"
     },
     {
       "surface": "ובאין",
-      "english": "y ⟨sin⟩"
+      "gloss": "y ⟨sin⟩"
     },
     {
       "surface": "נרגן",
-      "english": "⟨un⟩ difamador"
+      "gloss": "⟨un⟩ difamador"
     },
     {
       "surface": "ישתק",
-      "english": "⟨el⟩ conflicto cesa"
+      "gloss": "⟨el⟩ conflicto cesa"
     },
     {
       "surface": "מדון",
-      "english": "conflicto"
+      "gloss": "conflicto"
     }
-  ],
-  "timestamp": "2026-06-10T01:48:18.790538511Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 30:16",
   "book": "numbers",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 454,
-    "prompt_tokens": 25513,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25967
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:11:39.024661193Z",
   "translation": "Y si ⟨el⟩ quebranta ⟨su⟩ promesa ⟨את⟩ después de haberla oído, ⟨él⟩ llevará ⟨את⟩ su iniquidad.",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "Y si"
+      "gloss": "Y si"
     },
     {
       "surface": "הפר",
-      "english": "⟨el⟩ quebranta"
+      "gloss": "⟨el⟩ quebranta"
     },
     {
       "surface": "יפר",
-      "english": "⟨su⟩ promesa"
+      "gloss": "⟨su⟩ promesa"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "después de haberla oído"
     },
     {
       "surface": "אחרי",
-      "english": "después de haberla oído"
+      "gloss": "después de haberla oído"
     },
     {
       "surface": "שמעו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ונשא",
-      "english": "⟨él⟩ llevará"
+      "gloss": "⟨él⟩ llevará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su iniquidad"
     },
     {
       "surface": "עונה",
-      "english": "su iniquidad"
+      "gloss": "su iniquidad"
     }
-  ],
-  "timestamp": "2026-07-16T23:11:39.024661193Z",
-  "model": "glm-4.5"
+  ]
 }

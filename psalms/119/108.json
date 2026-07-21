@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 108,
   "ref": "psalms 119:108",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69919,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70308
-  },
+  "verse": 108,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:33.803993142Z",
   "translation": "Las ofrendas voluntarias ⟨de⟩ mi boca, acepta, te ruego, oh YHWH, y tus juicios enséñame.",
   "tokens": [
     {
       "surface": "נדבות",
-      "english": "Las ofrendas voluntarias"
+      "gloss": "Las ofrendas voluntarias"
     },
     {
       "surface": "פי",
-      "english": "⟨de⟩ mi boca",
+      "gloss": "⟨de⟩ mi boca",
       "marks": "boca"
     },
     {
       "surface": "רצה",
-      "english": "acepta"
+      "gloss": "acepta"
     },
     {
       "surface": "נא",
-      "english": "te ruego"
+      "gloss": "te ruego"
     },
     {
       "surface": "יהוה",
-      "english": "oh YHWH"
+      "gloss": "oh YHWH"
     },
     {
       "surface": "ומשפטיך",
-      "english": "y tus juicios"
+      "gloss": "y tus juicios"
     },
     {
       "surface": "למדני",
-      "english": "enséñame"
+      "gloss": "enséñame"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:33.803993142Z",
-  "model": "glm-4.5"
+  ]
 }

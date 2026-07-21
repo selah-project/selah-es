@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 30:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 339,
-    "prompt_tokens": 69804,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70143
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:52.418056344Z",
   "translation": "Mizmor; shir ⟨de⟩ la dedicación ⟨del⟩ Beit, ⟨para⟩ David.",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "Mizmor"
+      "gloss": "Mizmor"
     },
     {
       "surface": "שיר",
-      "english": "shir"
+      "gloss": "shir"
     },
     {
       "surface": "חנכת",
-      "english": "la dedicación"
+      "gloss": "la dedicación"
     },
     {
       "surface": "הבית",
-      "english": "Beit"
+      "gloss": "Beit"
     },
     {
       "surface": "לדוד",
-      "english": "David"
+      "gloss": "David"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:52.418056344Z",
-  "model": "glm-4.5"
+  ]
 }

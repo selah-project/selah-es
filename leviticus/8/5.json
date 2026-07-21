@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 8:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 8,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:37:07.464877924Z",
+  "translation": "Y Moshé dijo ⟨a⟩ ⟨la⟩ asamblea: 'Esto ⟨es⟩ ⟨el⟩ asunto ⟨que⟩ YHWH ha mandado ⟨para⟩ hacer.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y Mosheh dijo",
+      "marks": "Mosheh said"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨la⟩ asamblea"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Esto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨el⟩ asunto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha mandado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨para⟩ hacer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,65 +61,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17162,
-    "prompt_tokens_details": {
-      "cached_tokens": 16069
-    },
-    "total_tokens": 17704
-  },
-  "translation": "Y Moshé dijo ⟨a⟩ ⟨la⟩ asamblea: 'Esto ⟨es⟩ ⟨el⟩ asunto ⟨que⟩ YHWH ha mandado ⟨para⟩ hacer.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y Mosheh dijo",
-      "marks": "Mosheh said"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "העדה",
-      "english": "⟨la⟩ asamblea"
-    },
-    {
-      "surface": "זה",
-      "english": "Esto"
-    },
-    {
-      "surface": "הדבר",
-      "english": "⟨el⟩ asunto"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "צוה",
-      "english": "ha mandado"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לעשות",
-      "english": "⟨para⟩ hacer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:37:07.464877924Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-chronicles 15:14",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 441,
-    "prompt_tokens": 64460,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64901
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:08:39.401247156Z",
   "translation": "Y los sacerdotes y los levitas se santificaron para subir ⟨את⟩ el Arón de YHWH, ⟨el⟩ Elohim de Yisrael",
   "tokens": [
     {
       "surface": "ויתקדשו",
-      "english": "Y los sacerdotes y los levitas se santificaron"
+      "gloss": "Y los sacerdotes y los levitas se santificaron"
     },
     {
       "surface": "הכהנים",
-      "english": "los sacerdotes y los levitas se santificaron"
+      "gloss": "los sacerdotes y los levitas se santificaron"
     },
     {
       "surface": "והלוים",
-      "english": "y los levitas se santificaron"
+      "gloss": "y los levitas se santificaron"
     },
     {
       "surface": "להעלות",
-      "english": "para subir"
+      "gloss": "para subir"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Arón de YHWH"
     },
     {
       "surface": "ארון",
-      "english": "el Arón"
+      "gloss": "el Arón"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T18:08:39.401247156Z",
-  "model": "glm-4.5"
+  ]
 }

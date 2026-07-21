@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "ruth 1:15",
   "book": "ruth",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 447,
-    "prompt_tokens": 28405,
-    "prompt_tokens_details": {
-      "cached_tokens": 27008
-    },
-    "total_tokens": 28852
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:47:02.322636536Z",
   "translation": "Y ella dijo: He aquí, tu cuñada ⟨ha⟩ vuelto a su pueblo y a sus dioses; vuélvete tras tu cuñada.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "Y ella dijo"
+      "gloss": "Y ella dijo"
     },
     {
       "surface": "הנה",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "שבה",
-      "english": "⟨ha⟩ vuelto"
+      "gloss": "⟨ha⟩ vuelto"
     },
     {
       "surface": "יבמתך",
-      "english": "tu cuñada"
+      "gloss": "tu cuñada"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "עמה",
-      "english": "su pueblo"
+      "gloss": "su pueblo"
     },
     {
       "surface": "ואל",
-      "english": "y a"
+      "gloss": "y a"
     },
     {
       "surface": "אלהיה",
-      "english": "sus dioses"
+      "gloss": "sus dioses"
     },
     {
       "surface": "שובי",
-      "english": "vuélvete"
+      "gloss": "vuélvete"
     },
     {
       "surface": "אחרי",
-      "english": "tras"
+      "gloss": "tras"
     },
     {
       "surface": "יבמתך",
-      "english": "tu cuñada"
+      "gloss": "tu cuñada"
     }
-  ],
-  "timestamp": "2026-07-16T23:47:02.322636536Z",
-  "model": "glm-4.5"
+  ]
 }

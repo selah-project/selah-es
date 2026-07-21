@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 80:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 349,
-    "prompt_tokens": 70373,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70722
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:34:17.970035477Z",
   "translation": "Ante Efráyim y Binyamín y Menashé, despierta tu poder, y ven ⟨para⟩ salvación a nosotros.",
   "tokens": [
     {
       "surface": "לפני",
-      "english": "Ante"
+      "gloss": "Ante"
     },
     {
       "surface": "אפרים",
-      "english": "Efráyim"
+      "gloss": "Efráyim"
     },
     {
       "surface": "ובנימן",
-      "english": "y Binyamín"
+      "gloss": "y Binyamín"
     },
     {
       "surface": "ומנשה",
-      "english": "y Menashé"
+      "gloss": "y Menashé"
     },
     {
       "surface": "עוררה",
-      "english": "despierta"
+      "gloss": "despierta"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu poder"
     },
     {
       "surface": "גבורתך",
-      "english": "tu poder"
+      "gloss": "tu poder"
     },
     {
       "surface": "ולכה",
-      "english": "y ven"
+      "gloss": "y ven"
     },
     {
       "surface": "לישעתה",
-      "english": "⟨para⟩ salvación"
+      "gloss": "⟨para⟩ salvación"
     },
     {
       "surface": "לנו",
-      "english": "a nosotros"
+      "gloss": "a nosotros"
     }
-  ],
-  "timestamp": "2026-07-16T23:34:17.970035477Z",
-  "model": "glm-4.5"
+  ]
 }

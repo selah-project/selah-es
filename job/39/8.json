@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 39:8",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27011,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27406
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:16:08.364807538Z",
   "translation": "El rango de las montañas ⟨es⟩ su pasto, y ⟨después⟩ de toda hierba verde ⟨él⟩ busca.",
   "tokens": [
     {
       "surface": "יתור",
-      "english": "El rango"
+      "gloss": "El rango"
     },
     {
       "surface": "הרים",
-      "english": "de las montañas"
+      "gloss": "de las montañas"
     },
     {
       "surface": "מרעהו",
-      "english": "su pasto"
+      "gloss": "su pasto"
     },
     {
       "surface": "ואחר",
-      "english": "y ⟨después⟩"
+      "gloss": "y ⟨después⟩"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "ירוק",
-      "english": "hierba verde"
+      "gloss": "hierba verde"
     },
     {
       "surface": "ידרוש",
-      "english": "⟨él⟩ busca"
+      "gloss": "⟨él⟩ busca"
     }
-  ],
-  "timestamp": "2026-06-10T02:16:08.364807538Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "hosea 12:8",
   "book": "hosea",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26442,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26932
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:49:08.972600240Z",
   "translation": "⟨Un⟩ mercader ⟨con⟩ ⟨las⟩ balanzas ⟨de⟩ engaño en su mano: ⟨a⟩ oprimir ama.",
   "tokens": [
     {
       "surface": "כנען",
-      "english": "Mercader"
+      "gloss": "Mercader"
     },
     {
       "surface": "בידו",
-      "english": "⟨con⟩ ⟨las⟩ balanzas"
+      "gloss": "⟨con⟩ ⟨las⟩ balanzas"
     },
     {
       "surface": "מאזני",
-      "english": "⟨de⟩ engaño"
+      "gloss": "⟨de⟩ engaño"
     },
     {
       "surface": "מרמה",
-      "english": "en su mano"
+      "gloss": "en su mano"
     },
     {
       "surface": "לעשק",
-      "english": "⟨a⟩ oprimir"
+      "gloss": "⟨a⟩ oprimir"
     },
     {
       "surface": "אהב",
-      "english": "ama"
+      "gloss": "ama"
     }
-  ],
-  "timestamp": "2026-06-09T22:49:08.972600240Z",
-  "model": "glm-4.5"
+  ]
 }

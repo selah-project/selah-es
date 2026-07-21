@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "numbers 1:17",
   "book": "numbers",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 415,
-    "prompt_tokens": 25275,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25690
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:55:37.581036165Z",
   "translation": "Y Moshé y Aharón tomaron ⟨את⟩ estos hombres que ⟨están⟩ señalados por nombre:",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "Y tomaron"
+      "gloss": "Y tomaron"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ואהרן",
-      "english": "y Aharón"
+      "gloss": "y Aharón"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "האנשים"
     },
     {
       "surface": "האנשים",
-      "english": "estos hombres"
+      "gloss": "estos hombres"
     },
     {
       "surface": "האלה",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "נקבו",
-      "english": "⟨están⟩ señalados"
+      "gloss": "⟨están⟩ señalados"
     },
     {
       "surface": "בשמות",
-      "english": "por nombre"
+      "gloss": "por nombre"
     }
-  ],
-  "timestamp": "2026-07-16T22:55:37.581036165Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,85 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 1:7",
   "book": "job",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 643,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27871,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 28514
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:53:41.828301260Z",
   "translation": "Y dijo YHWH ⟨a⟩ HaSatán: ¿De dónde vienes? Y respondió HaSatán ⟨a⟩ YHWH, y dijo: De andar por ⟨la⟩ tierra y de caminar en ella.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "השטן",
-      "english": "HaSatán"
+      "gloss": "HaSatán"
     },
     {
       "surface": "מאין",
-      "english": "¿De dónde"
+      "gloss": "¿De dónde"
     },
     {
       "surface": "תבא",
-      "english": "vienes?"
+      "gloss": "vienes?"
     },
     {
       "surface": "ויען",
-      "english": "Y respondió"
+      "gloss": "Y respondió"
     },
     {
       "surface": "השטן",
-      "english": "HaSatán"
+      "gloss": "HaSatán"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויאמר",
-      "english": ", y dijo:"
+      "gloss": ", y dijo:"
     },
     {
       "surface": "משוט",
-      "english": "De andar por"
+      "gloss": "De andar por"
     },
     {
       "surface": "בארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "ומהתהלך",
-      "english": "y de caminar"
+      "gloss": "y de caminar"
     },
     {
       "surface": "בה",
-      "english": "en ella."
+      "gloss": "en ella."
     }
-  ],
-  "timestamp": "2026-06-10T01:53:41.828301260Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-chronicles 5:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 5,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:31:24.151506564Z",
+  "translation": "y Bela, hijo de Azaz, hijo de Shema, hijo de Yoel, ⟨él⟩ habitaba en Aroer hasta Nevo y Baal-Meón.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "Y Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo de"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "Azaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo de"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Shema"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo de"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨él⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "habitaba"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "en Aroer"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "y Baal"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meón"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Joel",
@@ -20,80 +83,6 @@
       "hebrew": "נבו"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57286,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57632
-  },
-  "translation": "y Bela, hijo de Azaz, hijo de Shema, hijo de Yoel, ⟨él⟩ habitaba en Aroer hasta Nevo y Baal-Meón.",
-  "tokens": [
-    {
-      "surface": "ובלע",
-      "english": "Y Bela"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo de"
-    },
-    {
-      "surface": "עזז",
-      "english": "Azaz"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo de"
-    },
-    {
-      "surface": "שמע",
-      "english": "Shema"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo de"
-    },
-    {
-      "surface": "יואל",
-      "english": "Yoel"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨él⟩"
-    },
-    {
-      "surface": "יושב",
-      "english": "habitaba"
-    },
-    {
-      "surface": "בערער",
-      "english": "en Aroer"
-    },
-    {
-      "surface": "ועד",
-      "english": "hasta"
-    },
-    {
-      "surface": "נבו",
-      "english": "Nevo"
-    },
-    {
-      "surface": "ובעל",
-      "english": "y Baal"
-    },
-    {
-      "surface": "מעון",
-      "english": "Meón"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:31:24.151506564Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

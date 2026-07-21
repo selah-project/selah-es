@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-samuel 20:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:05:14.971039267Z",
+  "translation": "Y aconteció al día siguiente del segundo día del mes, que el lugar de David ⟨estaba⟩ vacío, y dijo Shaúl a Yonatán su hijo: ¿Por qué ⟨el⟩ hijo de Isaí no ⟨vino⟩ ni ayer ni hoy ⟨al⟩ pan?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y aconteció"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "al día siguiente"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "del mes"
+    },
+    {
+      "surface": "השני",
+      "gloss": "el segundo día"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "que el lugar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "⟨estaba⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "vacío"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatán"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su hijo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "¿Por qué"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨vino⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨el⟩ hijo"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "de Isaí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "ayer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "pan"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -20,116 +119,6 @@
       "hebrew": "יונתן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 632,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17421,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 18053
-  },
-  "translation": "Y aconteció al día siguiente del segundo día del mes, que el lugar de David ⟨estaba⟩ vacío, y dijo Shaúl a Yonatán su hijo: ¿Por qué ⟨el⟩ hijo de Isaí no ⟨vino⟩ ni ayer ni hoy ⟨al⟩ pan?",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y aconteció"
-    },
-    {
-      "surface": "ממחרת",
-      "english": "al día siguiente"
-    },
-    {
-      "surface": "החדש",
-      "english": "del mes"
-    },
-    {
-      "surface": "השני",
-      "english": "el segundo día"
-    },
-    {
-      "surface": "ויפקד",
-      "english": "que el lugar"
-    },
-    {
-      "surface": "מקום",
-      "english": "⟨estaba⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "vacío"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yonatán"
-    },
-    {
-      "surface": "בנו",
-      "english": "su hijo"
-    },
-    {
-      "surface": "מדוע",
-      "english": "¿Por qué"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "בא",
-      "english": "⟨vino⟩"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨el⟩ hijo"
-    },
-    {
-      "surface": "ישי",
-      "english": "de Isaí"
-    },
-    {
-      "surface": "גם",
-      "english": "ni"
-    },
-    {
-      "surface": "תמול",
-      "english": "ayer"
-    },
-    {
-      "surface": "גם",
-      "english": "ni"
-    },
-    {
-      "surface": "היום",
-      "english": "hoy"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨al⟩"
-    },
-    {
-      "surface": "הלחם",
-      "english": "pan"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:05:14.971039267Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

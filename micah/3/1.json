@@ -1,77 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "micah 3:1",
   "book": "micah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23337,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 23862
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:29:44.737938553Z",
   "translation": "Y yo dije: Escuchad ⟨es⟩, ⟨los⟩ jefes de Yaakov, y ⟨los⟩ gobernantes de ⟨la⟩ casa de Yisrael: ¿No ⟨es⟩ ⟨para⟩ vosotros ⟨el⟩ conocer ⟨el⟩ juicio?",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "Y yo dije"
+      "gloss": "Y yo dije"
     },
     {
       "surface": "שמעו",
-      "english": "Escuchad ⟨es⟩"
+      "gloss": "Escuchad ⟨es⟩"
     },
     {
       "surface": "נא",
-      "english": "⟨los⟩"
+      "gloss": "⟨los⟩"
     },
     {
       "surface": "ראשי",
-      "english": "jefes de Yaakov"
+      "gloss": "jefes de Yaakov"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "וקציני",
-      "english": "y ⟨los⟩ gobernantes"
+      "gloss": "y ⟨los⟩ gobernantes"
     },
     {
       "surface": "בית",
-      "english": "de ⟨la⟩ casa"
+      "gloss": "de ⟨la⟩ casa"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "הלוא",
-      "english": "¿No ⟨es⟩"
+      "gloss": "¿No ⟨es⟩"
     },
     {
       "surface": "לכם",
-      "english": "⟨para⟩ vosotros"
+      "gloss": "⟨para⟩ vosotros"
     },
     {
       "surface": "לדעת",
-      "english": "⟨el⟩ conocer"
+      "gloss": "⟨el⟩ conocer"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "juicio"
     },
     {
       "surface": "המשפט",
-      "english": "juicio"
+      "gloss": "juicio"
     }
-  ],
-  "timestamp": "2026-06-10T00:29:44.737938553Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-samuel 17:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 17,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:00:43.009853919Z",
+  "translation": "Y salió ⟨un⟩ hombre ⟨de los⟩ campamentos ⟨de los⟩ filisteos, Golyat ⟨es⟩ su nombre, de Gat ⟨era⟩ ⟨su⟩ estatura: seis codos y ⟨un⟩ palmo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Y salió"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨un⟩ hombre"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "⟨de los⟩ campamentos"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "⟨de los⟩"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteos"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨es⟩ su nombre"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "de Gat"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "⟨era⟩ ⟨su⟩ estatura"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "codos"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "y ⟨un⟩ palmo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Goliat",
@@ -13,72 +68,6 @@
       "hebrew": "גלית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 566,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16481,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17047
-  },
-  "translation": "Y salió ⟨un⟩ hombre ⟨de los⟩ campamentos ⟨de los⟩ filisteos, Golyat ⟨es⟩ su nombre, de Gat ⟨era⟩ ⟨su⟩ estatura: seis codos y ⟨un⟩ palmo.",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "Y salió"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨un⟩ hombre"
-    },
-    {
-      "surface": "הבנים",
-      "english": "⟨de los⟩ campamentos"
-    },
-    {
-      "surface": "ממחנות",
-      "english": "⟨de los⟩"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "filisteos"
-    },
-    {
-      "surface": "גלית",
-      "english": "Golyat"
-    },
-    {
-      "surface": "שמו",
-      "english": "⟨es⟩ su nombre"
-    },
-    {
-      "surface": "מגת",
-      "english": "de Gat"
-    },
-    {
-      "surface": "גבהו",
-      "english": "⟨era⟩ ⟨su⟩ estatura"
-    },
-    {
-      "surface": "שש",
-      "english": "seis"
-    },
-    {
-      "surface": "אמות",
-      "english": "codos"
-    },
-    {
-      "surface": "וזרת",
-      "english": "y ⟨un⟩ palmo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:00:43.009853919Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "exodus 39:36",
   "book": "exodus",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 500,
-    "prompt_tokens": 24123,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24623
-  },
+  "verse": 36,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:28:54.790922158Z",
   "translation": "la mesa, ⟨את⟩ todos sus utensilios, y ⟨את⟩ el pan de la Presencia",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la mesa"
     },
     {
       "surface": "השלחן",
-      "english": "la mesa"
+      "gloss": "la mesa"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todos sus utensilios"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "כליו",
-      "english": "sus utensilios"
+      "gloss": "sus utensilios"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el pan de la Presencia"
     },
     {
       "surface": "לחם",
-      "english": "el pan"
+      "gloss": "el pan"
     },
     {
       "surface": "הפנים",
-      "english": "de la Presencia"
+      "gloss": "de la Presencia"
     }
-  ],
-  "timestamp": "2026-07-16T20:28:54.790922158Z",
-  "model": "glm-4.5"
+  ]
 }

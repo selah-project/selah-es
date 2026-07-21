@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 37:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70221,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70773
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:32.787925187Z",
   "translation": "⟨I was⟩ young ⟨and⟩ now ⟨I am⟩ old, yet ⟨I have⟩ not seen ⟨the⟩ righteous ⟨be⟩ forsaken, nor his seed seeking bread.",
   "tokens": [
     {
       "surface": "נער",
-      "english": "Young"
+      "gloss": "Young"
     },
     {
       "surface": "הייתי",
-      "english": "⟨I was⟩"
+      "gloss": "⟨I was⟩"
     },
     {
       "surface": "גם",
-      "english": "and"
+      "gloss": "and"
     },
     {
       "surface": "זקנתי",
-      "english": "now ⟨I am⟩ old"
+      "gloss": "now ⟨I am⟩ old"
     },
     {
       "surface": "ולא",
-      "english": "yet ⟨I have⟩ not"
+      "gloss": "yet ⟨I have⟩ not"
     },
     {
       "surface": "ראיתי",
-      "english": "seen"
+      "gloss": "seen"
     },
     {
       "surface": "צדיק",
-      "english": "⟨the⟩ righteous"
+      "gloss": "⟨the⟩ righteous"
     },
     {
       "surface": "נעזב",
-      "english": "⟨be⟩ forsaken"
+      "gloss": "⟨be⟩ forsaken"
     },
     {
       "surface": "וזרעו",
-      "english": "nor his seed"
+      "gloss": "nor his seed"
     },
     {
       "surface": "מבקש",
-      "english": "seeking"
+      "gloss": "seeking"
     },
     {
       "surface": "לחם",
-      "english": "bread"
+      "gloss": "bread"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:32.787925187Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 12:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 503,
-    "prompt_tokens": 70320,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70823
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:46.096039530Z",
   "translation": "Acerca de la ruina hablará un hombre ⟨את⟩ su compañero con labios suaves — ⟨en⟩ corazón y corazón hablarán.",
   "tokens": [
     {
       "surface": "שוא",
-      "english": "Acerca de la ruina"
+      "gloss": "Acerca de la ruina"
     },
     {
       "surface": "ידברו",
-      "english": "hablará"
+      "gloss": "hablará"
     },
     {
       "surface": "איש",
-      "english": "un hombre"
+      "gloss": "un hombre"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su compañero"
     },
     {
       "surface": "רעהו",
-      "english": "su compañero"
+      "gloss": "su compañero"
     },
     {
       "surface": "שפת",
-      "english": "con labios"
+      "gloss": "con labios"
     },
     {
       "surface": "חלקות",
-      "english": "suaves"
+      "gloss": "suaves"
     },
     {
       "surface": "בלב",
-      "english": "— ⟨en⟩ corazón"
+      "gloss": "— ⟨en⟩ corazón"
     },
     {
       "surface": "ולב",
-      "english": "y corazón"
+      "gloss": "y corazón"
     },
     {
       "surface": "ידברו",
-      "english": "hablarán."
+      "gloss": "hablarán."
     }
-  ],
-  "timestamp": "2026-07-16T23:25:46.096039530Z",
-  "model": "glm-4.5"
+  ]
 }

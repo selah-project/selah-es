@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 9:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69726,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70234
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:43.759154286Z",
   "translation": "⟨al⟩ Director ⟨sobre⟩ Muth Labben ⟨un⟩ canto ⟨de⟩ David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Al⟩ Director",
+      "gloss": "⟨Al⟩ Director",
       "marks": "para el Director, término musical"
     },
     {
       "surface": "עלמות",
-      "english": "⟨sobre⟩ Muth Labben",
+      "gloss": "⟨sobre⟩ Muth Labben",
       "marks": "título o melodía, significado incierto"
     },
     {
       "surface": "לבן",
-      "english": "⟨un⟩ canto",
+      "gloss": "⟨un⟩ canto",
       "marks": "posiblemente 'para el hijo' o título musical"
     },
     {
       "surface": "מזמור",
-      "english": "⟨un⟩ canto",
+      "gloss": "⟨un⟩ canto",
       "marks": "poema musical, salmo"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David",
+      "gloss": "⟨de⟩ David",
       "marks": "autoría"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:43.759154286Z",
-  "model": "glm-4.5"
+  ]
 }

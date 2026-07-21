@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "haggai 2:8",
   "book": "haggai",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26070,
-    "prompt_tokens_details": {
-      "cached_tokens": 25128
-    },
-    "total_tokens": 26518
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:24:51.958321070Z",
   "translation": "Mía ⟨es⟩ ⟨la⟩ plata y mío ⟨el⟩ oro ⟨—⟩ declaración ⟨de⟩ YHWH ⟨de⟩ los ejércitos.",
   "tokens": [
     {
       "surface": "לי",
-      "english": "Mía"
+      "gloss": "Mía"
     },
     {
       "surface": "הכסף",
-      "english": "⟨la⟩ plata"
+      "gloss": "⟨la⟩ plata"
     },
     {
       "surface": "ולי",
-      "english": "y mío"
+      "gloss": "y mío"
     },
     {
       "surface": "הזהב",
-      "english": "⟨el⟩ oro"
+      "gloss": "⟨el⟩ oro"
     },
     {
       "surface": "נאם",
-      "english": "⟨—⟩ declaración"
+      "gloss": "⟨—⟩ declaración"
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
+      "gloss": "⟨de⟩ YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "⟨de⟩ los ejércitos"
+      "gloss": "⟨de⟩ los ejércitos"
     }
-  ],
-  "timestamp": "2026-06-11T23:24:51.958321070Z",
-  "model": "glm-4.5"
+  ]
 }

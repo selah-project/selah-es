@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "hosea 11:7",
   "book": "hosea",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26716,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 27206
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:48:45.265987452Z",
   "translation": "Y mi pueblo ⟨está⟩ suspendido ⟨en⟩ volver a mí; y ⟨a⟩ lo Alto ⟨lo⟩ llaman, pero juntos ⟨no⟩ lo exaltarán.",
   "tokens": [
     {
       "surface": "ועמי",
-      "english": "Y mi pueblo"
+      "gloss": "Y mi pueblo"
     },
     {
       "surface": "תלואים",
-      "english": "⟨está⟩ suspendido"
+      "gloss": "⟨está⟩ suspendido"
     },
     {
       "surface": "למשובתי",
-      "english": "⟨en⟩ volver a mí"
+      "gloss": "⟨en⟩ volver a mí"
     },
     {
       "surface": "ואל",
-      "english": "y ⟨a⟩"
+      "gloss": "y ⟨a⟩"
     },
     {
       "surface": "על",
-      "english": "lo Alto"
+      "gloss": "lo Alto"
     },
     {
       "surface": "יקראהו",
-      "english": "⟨lo⟩ llaman"
+      "gloss": "⟨lo⟩ llaman"
     },
     {
       "surface": "יחד",
-      "english": "juntos"
+      "gloss": "juntos"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ירומם",
-      "english": "lo exaltarán"
+      "gloss": "lo exaltarán"
     }
-  ],
-  "timestamp": "2026-06-09T22:48:45.265987452Z",
-  "model": "glm-4.5"
+  ]
 }

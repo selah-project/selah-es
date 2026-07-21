@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "job 21:21",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 696,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27173,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27869
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:14.143697522Z",
   "translation": "Por qué ⟨el⟩ placer ⟨está⟩ en su casa después ⟨de él⟩, cuando ⟨el⟩ número de sus meses ⟨ha⟩ sido cortado ⟨en medio⟩",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Por qué"
+      "gloss": "Por qué"
     },
     {
       "surface": "מה",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "חפצו",
-      "english": "placer ⟨está⟩"
+      "gloss": "placer ⟨está⟩"
     },
     {
       "surface": "בביתו",
-      "english": "en su casa"
+      "gloss": "en su casa"
     },
     {
       "surface": "אחריו",
-      "english": "después ⟨de él⟩"
+      "gloss": "después ⟨de él⟩"
     },
     {
       "surface": "ומספר",
-      "english": "cuando ⟨el⟩ número"
+      "gloss": "cuando ⟨el⟩ número"
     },
     {
       "surface": "חדשיו",
-      "english": "de sus meses"
+      "gloss": "de sus meses"
     },
     {
       "surface": "חצצו",
-      "english": "⟨ha⟩ sido cortado ⟨en medio⟩"
+      "gloss": "⟨ha⟩ sido cortado ⟨en medio⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:14.143697522Z",
-  "model": "glm-4.5"
+  ]
 }

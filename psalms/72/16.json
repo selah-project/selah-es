@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 72:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 618,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70483,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71101
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:30.715163095Z",
   "translation": "sea ⟨el⟩ grano ⟨en⟩ abundancia ⟨en⟩ ⟨la⟩ tierra, ⟨en⟩ ⟨la⟩ cumbre de ⟨los⟩ montes; su fruto ⟨será⟩ como ⟨el⟩ Líbano, y florezcan ⟨los⟩ de ⟨la⟩ ciudad ⟨como⟩ ⟨el⟩ pasto de ⟨la⟩ tierra",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "Sea"
+      "gloss": "Sea"
     },
     {
       "surface": "פסת",
-      "english": "⟨el⟩ grano ⟨en⟩ abundancia"
+      "gloss": "⟨el⟩ grano ⟨en⟩ abundancia"
     },
     {
       "surface": "בר",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "בארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "בראש",
-      "english": "⟨en⟩ ⟨la⟩ cumbre de"
+      "gloss": "⟨en⟩ ⟨la⟩ cumbre de"
     },
     {
       "surface": "הרים",
-      "english": "⟨los⟩ montes"
+      "gloss": "⟨los⟩ montes"
     },
     {
       "surface": "ירעש",
-      "english": "su fruto ⟨será⟩ como"
+      "gloss": "su fruto ⟨será⟩ como"
     },
     {
       "surface": "כלבנון",
-      "english": "⟨el⟩ Líbano"
+      "gloss": "⟨el⟩ Líbano"
     },
     {
       "surface": "פריו",
-      "english": ","
+      "gloss": ","
     },
     {
       "surface": "ויציצו",
-      "english": "y florezcan"
+      "gloss": "y florezcan"
     },
     {
       "surface": "מעיר",
-      "english": "⟨los⟩ de ⟨la⟩ ciudad"
+      "gloss": "⟨los⟩ de ⟨la⟩ ciudad"
     },
     {
       "surface": "כעשב",
-      "english": "⟨como⟩ ⟨el⟩ pasto de"
+      "gloss": "⟨como⟩ ⟨el⟩ pasto de"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:30.715163095Z",
-  "model": "glm-4.5"
+  ]
 }

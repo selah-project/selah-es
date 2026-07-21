@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 56:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69802,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70122
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:25:15.729206456Z",
   "translation": "En Elohim ⟨he⟩ ⟨alabado⟩ ⟨la⟩ palabra, en YHWH ⟨he⟩ ⟨alabado⟩ ⟨la⟩ palabra",
   "tokens": [
     {
       "surface": "באלהים",
-      "english": "En Elohim"
+      "gloss": "En Elohim"
     },
     {
       "surface": "אהלל",
-      "english": "⟨he⟩ ⟨alabado⟩"
+      "gloss": "⟨he⟩ ⟨alabado⟩"
     },
     {
       "surface": "דבר",
-      "english": "⟨la⟩ palabra"
+      "gloss": "⟨la⟩ palabra"
     },
     {
       "surface": "ביהוה",
-      "english": "en YHWH"
+      "gloss": "en YHWH"
     },
     {
       "surface": "אהלל",
-      "english": "⟨he⟩ ⟨alabado⟩"
+      "gloss": "⟨he⟩ ⟨alabado⟩"
     },
     {
       "surface": "דבר",
-      "english": "⟨la⟩ palabra"
+      "gloss": "⟨la⟩ palabra"
     }
-  ],
-  "timestamp": "2026-06-09T23:25:15.729206456Z",
-  "model": "glm-4.5"
+  ]
 }

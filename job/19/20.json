@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 19:20",
   "book": "job",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27102,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27457
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:50.909547447Z",
   "translation": "Con ⟨mi⟩ piel y ⟨con⟩ ⟨mi⟩ carne ⟨se⟩ pega ⟨mi⟩ hueso y ⟨he⟩ escapado con ⟨la⟩ piel de ⟨mis⟩ dientes",
   "tokens": [
     {
       "surface": "בעורי",
-      "english": "Con ⟨mi⟩ piel"
+      "gloss": "Con ⟨mi⟩ piel"
     },
     {
       "surface": "ובבשרי",
-      "english": "y ⟨con⟩ ⟨mi⟩ carne"
+      "gloss": "y ⟨con⟩ ⟨mi⟩ carne"
     },
     {
       "surface": "דבקה",
-      "english": "⟨se⟩ pega"
+      "gloss": "⟨se⟩ pega"
     },
     {
       "surface": "עצמי",
-      "english": "⟨mi⟩ hueso"
+      "gloss": "⟨mi⟩ hueso"
     },
     {
       "surface": "ואתמלטה",
-      "english": "y ⟨he⟩ escapado"
+      "gloss": "y ⟨he⟩ escapado"
     },
     {
       "surface": "בעור",
-      "english": "con ⟨la⟩ piel"
+      "gloss": "con ⟨la⟩ piel"
     },
     {
       "surface": "שני",
-      "english": "de ⟨mis⟩ dientes"
+      "gloss": "de ⟨mis⟩ dientes"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:50.909547447Z",
-  "model": "glm-4.5"
+  ]
 }

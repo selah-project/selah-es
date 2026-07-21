@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "zechariah 11:1",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 301,
-    "prompt_tokens": 23012,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 23313
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:50:35.084580716Z",
   "translation": "Abre tus puertas, oh Líbano, y el fuego devorará ⟨את⟩ tus cedros.",
   "tokens": [
     {
       "surface": "פתח",
-      "english": "Abre"
+      "gloss": "Abre"
     },
     {
       "surface": "לבנון",
-      "english": "oh Líbano"
+      "gloss": "oh Líbano"
     },
     {
       "surface": "דלתיך",
-      "english": "tus puertas"
+      "gloss": "tus puertas"
     },
     {
       "surface": "ותאכל",
-      "english": "y el fuego devorará"
+      "gloss": "y el fuego devorará"
     },
     {
       "surface": "אש",
-      "english": "fuego"
+      "gloss": "fuego"
     },
     {
       "surface": "בארזיך",
-      "english": "tus cedros"
+      "gloss": "tus cedros"
     }
-  ],
-  "timestamp": "2026-07-16T23:50:35.084580716Z",
-  "model": "glm-4.5"
+  ]
 }

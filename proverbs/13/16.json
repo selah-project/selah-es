@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 13:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 338,
-    "prompt_tokens": 59894,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60232
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:19:34.767378859Z",
   "translation": "Todo ⟨el⟩ prudente obra ⟨con⟩ daat, pero el necio esparce ivlet.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "ערום",
-      "english": "prudente"
+      "gloss": "prudente"
     },
     {
       "surface": "יעשה",
-      "english": "obra"
+      "gloss": "obra"
     },
     {
       "surface": "בדעת",
-      "english": "con daat"
+      "gloss": "con daat"
     },
     {
       "surface": "וכסיל",
-      "english": "pero el necio"
+      "gloss": "pero el necio"
     },
     {
       "surface": "יפרש",
-      "english": "esparce"
+      "gloss": "esparce"
     },
     {
       "surface": "אולת",
-      "english": "ivlet"
+      "gloss": "ivlet"
     }
-  ],
-  "timestamp": "2026-07-16T23:19:34.767378859Z",
-  "model": "glm-4.5"
+  ]
 }

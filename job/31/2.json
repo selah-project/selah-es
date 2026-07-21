@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 31:2",
   "book": "job",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26983,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27299
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:10:02.108417088Z",
   "translation": "Y ¿qué ⟨es⟩ ⟨la⟩ porción de Elohim desde arriba, y ⟨el⟩ patrimonio de Shaddai desde ⟨lo⟩ alto?",
   "tokens": [
     {
       "surface": "ומה",
-      "english": "Y ¿qué"
+      "gloss": "Y ¿qué"
     },
     {
       "surface": "חלק",
-      "english": "porción"
+      "gloss": "porción"
     },
     {
       "surface": "אלוה",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "ממעל",
-      "english": "desde arriba"
+      "gloss": "desde arriba"
     },
     {
       "surface": "ונחלת",
-      "english": "y el patrimonio"
+      "gloss": "y el patrimonio"
     },
     {
       "surface": "שדי",
-      "english": "de Shaddai"
+      "gloss": "de Shaddai"
     },
     {
       "surface": "ממרמים",
-      "english": "desde lo alto"
+      "gloss": "desde lo alto"
     }
-  ],
-  "timestamp": "2026-06-10T02:10:02.108417088Z",
-  "model": "glm-4.5"
+  ]
 }

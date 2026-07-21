@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "exodus 19:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 19,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:48:49.995693009Z",
+  "translation": "Y Moshé descendió ⟨al⟩ pueblo, y habló ⟨a⟩ ellos",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Y descendió"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pueblo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y habló"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨a⟩ ellos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,48 +44,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 266,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16279,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 16545
-  },
-  "translation": "Y Moshé descendió ⟨al⟩ pueblo, y habló ⟨a⟩ ellos",
-  "tokens": [
-    {
-      "surface": "וירד",
-      "english": "Y descendió"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨al⟩"
-    },
-    {
-      "surface": "העם",
-      "english": "pueblo"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y habló"
-    },
-    {
-      "surface": "אלהם",
-      "english": "⟨a⟩ ellos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:48:49.995693009Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

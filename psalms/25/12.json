@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 25:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69937,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70355
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:09:05.172500011Z",
   "translation": "¿Quién es este hombre que ⟨es⟩ temeroso de YHWH? ⟨a⟩ él ⟨le⟩ enseñará ⟨en⟩ ⟨el⟩ camino que ⟨él⟩ elegirá",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "זה",
-      "english": "es este"
+      "gloss": "es este"
     },
     {
       "surface": "האיש",
-      "english": "hombre que"
+      "gloss": "hombre que"
     },
     {
       "surface": "ירא",
-      "english": "⟨es⟩ temeroso de"
+      "gloss": "⟨es⟩ temeroso de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יורנו",
-      "english": "⟨a⟩ él ⟨le⟩ enseñará"
+      "gloss": "⟨a⟩ él ⟨le⟩ enseñará"
     },
     {
       "surface": "בדרך",
-      "english": "⟨en⟩ ⟨el⟩ camino que"
+      "gloss": "⟨en⟩ ⟨el⟩ camino que"
     },
     {
       "surface": "יבחר",
-      "english": "⟨él⟩ elegirá"
+      "gloss": "⟨él⟩ elegirá"
     }
-  ],
-  "timestamp": "2026-06-09T23:09:05.172500011Z",
-  "model": "glm-4.5"
+  ]
 }

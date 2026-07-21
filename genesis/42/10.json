@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 42:10",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28302,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28710
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:38:56.004865354Z",
   "translation": "Y dijeron ⟨a⟩ él: No, ⟨el⟩ señor ⟨es⟩, y tus siervos ⟨son⟩ venidos ⟨a⟩ comprar alimento.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "Y dijeron"
+      "gloss": "Y dijeron"
     },
     {
       "surface": "אליו",
-      "english": "⟨a⟩ él"
+      "gloss": "⟨a⟩ él"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "אדני",
-      "english": "⟨el⟩ señor"
+      "gloss": "⟨el⟩ señor"
     },
     {
       "surface": "ועבדיך",
-      "english": "y tus siervos"
+      "gloss": "y tus siervos"
     },
     {
       "surface": "באו",
-      "english": "⟨son⟩ venidos"
+      "gloss": "⟨son⟩ venidos"
     },
     {
       "surface": "לשבר",
-      "english": "⟨a⟩ comprar"
+      "gloss": "⟨a⟩ comprar"
     },
     {
       "surface": "אכל",
-      "english": "alimento"
+      "gloss": "alimento"
     }
-  ],
-  "timestamp": "2026-06-10T05:38:56.004865354Z",
-  "model": "glm-4.5"
+  ]
 }

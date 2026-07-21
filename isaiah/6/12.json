@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 6:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 551,
-    "prompt_tokens": 26259,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26810
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:22:50.053190325Z",
   "translation": "YHWH hará ⟨estar⟩ lejos a ⟨את⟩ el hombre, y abundará ⟨la⟩ desamparada en medio de ⟨la⟩ tierra",
   "tokens": [
     {
       "surface": "ורחק",
-      "english": "hará ⟨estar⟩ lejos"
+      "gloss": "hará ⟨estar⟩ lejos"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el hombre"
     },
     {
       "surface": "האדם",
-      "english": "el hombre"
+      "gloss": "el hombre"
     },
     {
       "surface": "ורבה",
-      "english": "y abundará"
+      "gloss": "y abundará"
     },
     {
       "surface": "העזובה",
-      "english": "⟨la⟩ desamparada"
+      "gloss": "⟨la⟩ desamparada"
     },
     {
       "surface": "בקרב",
-      "english": "en medio de"
+      "gloss": "en medio de"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-07-16T21:22:50.053190325Z",
-  "model": "glm-4.5"
+  ]
 }

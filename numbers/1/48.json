@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 48,
   "ref": "numbers 1:48",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17321,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 17630
-  },
+  "verse": 48,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:08:14.259475061Z",
   "translation": "Porque YHWH había hablado a Moshé, diciendo:",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Porque YHWH había hablado"
+      "gloss": "Porque YHWH había hablado"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לאמר",
-      "english": ", diciendo:"
+      "gloss": ", diciendo:"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:08:14.259475061Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

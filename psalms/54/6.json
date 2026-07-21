@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 54:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69874,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70313
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:23:16.869516764Z",
   "translation": "He aquí Elohim ⟨es⟩ mi ayudador; ⟨el⟩ Señor ⟨es⟩ ⟨el⟩ que sostiene ⟨la⟩ vida de mi alma.",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "עזר",
-      "english": "⟨es⟩ mi ayudador"
+      "gloss": "⟨es⟩ mi ayudador"
     },
     {
       "surface": "לי",
-      "english": "mi"
+      "gloss": "mi"
     },
     {
       "surface": "אדני",
-      "english": "⟨el⟩ Señor"
+      "gloss": "⟨el⟩ Señor"
     },
     {
       "surface": "בסמכי",
-      "english": "⟨es⟩ ⟨el⟩ que sostiene ⟨la⟩ vida de mi alma"
+      "gloss": "⟨es⟩ ⟨el⟩ que sostiene ⟨la⟩ vida de mi alma"
     },
     {
       "surface": "נפשי",
-      "english": "de mi alma"
+      "gloss": "de mi alma"
     }
-  ],
-  "timestamp": "2026-06-09T23:23:16.869516764Z",
-  "model": "glm-4.5"
+  ]
 }

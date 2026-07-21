@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 43:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70252,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70694
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:18:11.996541388Z",
   "translation": "Júzgame, Elohim, y ⟨el⟩ pleadea mi pleito contra ⟨una⟩ nación no piadosa; de ⟨un⟩ hombre de engaño y de perversidad ⟨el⟩ líbrame",
   "tokens": [
     {
       "surface": "שפטני",
-      "english": "Júzgame"
+      "gloss": "Júzgame"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "וריבה",
-      "english": "y ⟨el⟩ pleadea"
+      "gloss": "y ⟨el⟩ pleadea"
     },
     {
       "surface": "ריבי",
-      "english": "mi pleito"
+      "gloss": "mi pleito"
     },
     {
       "surface": "מגוי",
-      "english": "contra ⟨una⟩ nación"
+      "gloss": "contra ⟨una⟩ nación"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "חסיד",
-      "english": "piadosa"
+      "gloss": "piadosa"
     },
     {
       "surface": "מאיש",
-      "english": "de ⟨un⟩ hombre"
+      "gloss": "de ⟨un⟩ hombre"
     },
     {
       "surface": "מרמה",
-      "english": "de engaño"
+      "gloss": "de engaño"
     },
     {
       "surface": "ועולה",
-      "english": "y de perversidad"
+      "gloss": "y de perversidad"
     },
     {
       "surface": "תפלטני",
-      "english": "⟨el⟩ líbrame"
+      "gloss": "⟨el⟩ líbrame"
     }
-  ],
-  "timestamp": "2026-06-09T23:18:11.996541388Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 25:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 378,
-    "prompt_tokens": 69893,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70271
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:49.080428870Z",
   "translation": "Tus caminos, YHWH, hazme conocer ⟨es⟩; tus sendas, enséñame.",
   "tokens": [
     {
       "surface": "דרכיך",
-      "english": "Tus caminos"
+      "gloss": "Tus caminos"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הודיעני",
-      "english": "hazme conocer ⟨es⟩"
+      "gloss": "hazme conocer ⟨es⟩"
     },
     {
       "surface": "ארחותיך",
-      "english": "tus sendas"
+      "gloss": "tus sendas"
     },
     {
       "surface": "למדני",
-      "english": "enséñame"
+      "gloss": "enséñame"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:49.080428870Z",
-  "model": "glm-4.5"
+  ]
 }

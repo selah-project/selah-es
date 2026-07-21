@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 60:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 553,
-    "prompt_tokens": 26211,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26764
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:32:36.823339596Z",
   "translation": "Levántate, resplandece, porque tu luz ha venido, y la gloria de YHWH ⟨está⟩ sobre ti, ⟨ha⟩ amanecido.",
   "tokens": [
     {
       "surface": "קומי",
-      "english": "Levántate"
+      "gloss": "Levántate"
     },
     {
       "surface": "אורי",
-      "english": "resplandece"
+      "gloss": "resplandece"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "בא",
-      "english": "ha venido"
+      "gloss": "ha venido"
     },
     {
       "surface": "אורך",
-      "english": "tu luz"
+      "gloss": "tu luz"
     },
     {
       "surface": "וכבוד",
-      "english": "y la gloria de"
+      "gloss": "y la gloria de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עליך",
-      "english": "sobre ti"
+      "gloss": "sobre ti"
     },
     {
       "surface": "זרח",
-      "english": "⟨ha⟩ amanecido"
+      "gloss": "⟨ha⟩ amanecido"
     }
-  ],
-  "timestamp": "2026-07-16T21:32:36.823339596Z",
-  "model": "glm-4.5"
+  ]
 }

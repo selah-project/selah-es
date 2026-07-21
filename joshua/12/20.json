@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "joshua 12:20",
   "book": "joshua",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 236,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23185,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23421
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:16:25.962797697Z",
   "translation": "⟨el⟩ rey de Shimron-Meron, uno; ⟨el⟩ rey de Acshaf, uno",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "Rey"
+      "gloss": "Rey"
     },
     {
       "surface": "שמרון",
-      "english": "Shimron-Meron"
+      "gloss": "Shimron-Meron"
     },
     {
       "surface": "מראון",
-      "english": "Shimron-Meron"
+      "gloss": "Shimron-Meron"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "מלך",
-      "english": "rey"
+      "gloss": "rey"
     },
     {
       "surface": "אכשף",
-      "english": "Acshaf"
+      "gloss": "Acshaf"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     }
-  ],
-  "timestamp": "2026-06-10T01:16:25.962797697Z",
-  "model": "glm-4.5"
+  ]
 }

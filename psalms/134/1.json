@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 134:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 134,
-  "usage": {
-    "completion_tokens": 578,
-    "prompt_tokens": 70587,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71165
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:11.691161978Z",
   "translation": "Una canción de las ascensiones. He aquí, bendecid ⟨a⟩ YHWH, todos los siervos de YHWH, los que ⟨están⟩ de pie en la casa de YHWH en las noches.",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Una canción"
+      "gloss": "Una canción"
     },
     {
       "surface": "המעלות",
-      "english": "de las ascensiones"
+      "gloss": "de las ascensiones"
     },
     {
       "surface": "הנה",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "ברכו",
-      "english": "bendecid"
+      "gloss": "bendecid"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "עבדי",
-      "english": "los siervos de"
+      "gloss": "los siervos de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "העמדים",
-      "english": "los que ⟨están⟩ de pie"
+      "gloss": "los que ⟨están⟩ de pie"
     },
     {
       "surface": "בבית",
-      "english": "en la casa de"
+      "gloss": "en la casa de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בלילות",
-      "english": "en las noches"
+      "gloss": "en las noches"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:11.691161978Z",
-  "model": "glm-4.5"
+  ]
 }

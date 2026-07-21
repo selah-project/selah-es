@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 83:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 616,
-    "prompt_tokens": 70125,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70741
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:44.115893597Z",
   "translation": "Contra tu pueblo traman ⟨un⟩ consejo, y confieren ⟨con⟩ ⟨los⟩ que ocultas.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Contra",
+      "gloss": "Contra",
       "lemma": "עַל",
       "strong": 5921
     },
     {
       "surface": "עמך",
-      "english": "tu pueblo",
+      "gloss": "tu pueblo",
       "lemma": "עַם",
       "strong": 5971
     },
     {
       "surface": "יערימו",
-      "english": "traman",
+      "gloss": "traman",
       "lemma": "עָרַם",
       "strong": 6191
     },
     {
       "surface": "סוד",
-      "english": "⟨un⟩ consejo",
+      "gloss": "⟨un⟩ consejo",
       "lemma": "סוֹד",
       "strong": 5475
     },
     {
       "surface": "ויתיעצו",
-      "english": "y confieren",
+      "gloss": "y confieren",
       "lemma": "יָעַץ",
       "strong": 3289
     },
     {
       "surface": "על",
-      "english": "⟨con⟩",
+      "gloss": "⟨con⟩",
       "lemma": "עַל",
       "strong": 5921
     },
     {
       "surface": "צפוניך",
-      "english": "⟨los⟩ que ocultas",
+      "gloss": "⟨los⟩ que ocultas",
       "lemma": "צָפַן",
       "strong": 6845
     }
-  ],
-  "timestamp": "2026-07-16T23:35:44.115893597Z",
-  "model": "glm-4.5"
+  ]
 }

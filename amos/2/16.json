@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "amos 2:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16139,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 16600
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:01:19.719132142Z",
   "translation": "Y ⟨el⟩ de corazón valiente ⟨entre⟩ ⟨los⟩ fuertes huirá desnudo en ⟨el⟩ día aquel, oráculo de YHWH.",
   "tokens": [
     {
       "surface": "ואמיץ",
-      "english": "Y"
+      "gloss": "Y"
     },
     {
       "surface": "לבו",
-      "english": "⟨el⟩ de corazón valiente"
+      "gloss": "⟨el⟩ de corazón valiente"
     },
     {
       "surface": "בגבורים",
-      "english": "⟨entre⟩ ⟨los⟩ fuertes"
+      "gloss": "⟨entre⟩ ⟨los⟩ fuertes"
     },
     {
       "surface": "ערום",
-      "english": "desnudo"
+      "gloss": "desnudo"
     },
     {
       "surface": "ינוס",
-      "english": "huirá"
+      "gloss": "huirá"
     },
     {
       "surface": "ביום",
-      "english": "en ⟨el⟩ día"
+      "gloss": "en ⟨el⟩ día"
     },
     {
       "surface": "ההוא",
-      "english": "aquel"
+      "gloss": "aquel"
     },
     {
       "surface": "נאם",
-      "english": "oráculo de"
+      "gloss": "oráculo de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:01:19.719132142Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "job 33:1",
   "book": "job",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27077,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27491
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:11:46.525354397Z",
   "translation": "Pues ⟨ahora⟩, ⟨oh⟩ Iyov, ⟨את⟩ mis palabras ⟨escucha⟩ atentamente, y ⟨a⟩ todas mis palabras ⟨presta⟩ oído.",
   "tokens": [
     {
       "surface": "ואולם",
-      "english": "Pues ⟨ahora⟩"
+      "gloss": "Pues ⟨ahora⟩"
     },
     {
       "surface": "שמע",
-      "english": "⟨escucha⟩ atentamente"
+      "gloss": "⟨escucha⟩ atentamente"
     },
     {
       "surface": "נא",
-      "english": "⟨oh⟩"
+      "gloss": "⟨oh⟩"
     },
     {
       "surface": "איוב",
-      "english": "Iyov"
+      "gloss": "Iyov"
     },
     {
       "surface": "מלי",
-      "english": "mis palabras"
+      "gloss": "mis palabras"
     },
     {
       "surface": "וכל",
-      "english": "y ⟨a⟩ todas"
+      "gloss": "y ⟨a⟩ todas"
     },
     {
       "surface": "דברי",
-      "english": "mis palabras"
+      "gloss": "mis palabras"
     },
     {
       "surface": "האזינה",
-      "english": "⟨presta⟩ oído"
+      "gloss": "⟨presta⟩ oído"
     }
-  ],
-  "timestamp": "2026-06-10T02:11:46.525354397Z",
-  "model": "glm-4.5"
+  ]
 }

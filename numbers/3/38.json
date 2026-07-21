@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 38,
   "ref": "numbers 3:38",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 3,
+  "verse": 38,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:11:51.462004256Z",
+  "translation": "Y los ⟨que⟩ acampan delante del Mishkán ⟨al⟩ este, delante ⟨de⟩ ⟨el⟩ Ohel Moéd ⟨al⟩ oriente, ⟨serán⟩ Moshé y Aharón y sus hijos, guardando ⟨la⟩ guardia ⟨del⟩ Mikdash, ⟨para⟩ ⟨la⟩ guardia ⟨de⟩ los hijos de Yisrael; y ⟨el⟩ extranjero ⟨que⟩ se acerque morirá.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "Y los ⟨que⟩ acampan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "delante"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "del Mishkán"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "⟨al⟩ este"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "delante"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨de⟩ ⟨el⟩ Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moéd"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "⟨al⟩ oriente"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "y Aharón"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "y sus hijos"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "guardando"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "⟨la⟩ guardia"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "⟨del⟩ Mikdash"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "⟨para⟩ ⟨la⟩ guardia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨de⟩ los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "y ⟨el⟩ extranjero"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "⟨que⟩ se acerque"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "morirá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,104 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 1258,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19010,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 20268
-  },
-  "translation": "Y los ⟨que⟩ acampan delante del Mishkán ⟨al⟩ este, delante ⟨de⟩ ⟨el⟩ Ohel Moéd ⟨al⟩ oriente, ⟨serán⟩ Moshé y Aharón y sus hijos, guardando ⟨la⟩ guardia ⟨del⟩ Mikdash, ⟨para⟩ ⟨la⟩ guardia ⟨de⟩ los hijos de Yisrael; y ⟨el⟩ extranjero ⟨que⟩ se acerque morirá.",
-  "tokens": [
-    {
-      "surface": "והחנים",
-      "english": "Y los ⟨que⟩ acampan"
-    },
-    {
-      "surface": "לפני",
-      "english": "delante"
-    },
-    {
-      "surface": "המשכן",
-      "english": "del Mishkán"
-    },
-    {
-      "surface": "קדמה",
-      "english": "⟨al⟩ este"
-    },
-    {
-      "surface": "לפני",
-      "english": "delante"
-    },
-    {
-      "surface": "אהל",
-      "english": "⟨de⟩ ⟨el⟩ Ohel"
-    },
-    {
-      "surface": "מועד",
-      "english": "Moéd"
-    },
-    {
-      "surface": "מזרחה",
-      "english": "⟨al⟩ oriente"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ואהרן",
-      "english": "y Aharón"
-    },
-    {
-      "surface": "ובניו",
-      "english": "y sus hijos"
-    },
-    {
-      "surface": "שמרים",
-      "english": "guardando"
-    },
-    {
-      "surface": "משמרת",
-      "english": "⟨la⟩ guardia"
-    },
-    {
-      "surface": "המקדש",
-      "english": "⟨del⟩ Mikdash"
-    },
-    {
-      "surface": "למשמרת",
-      "english": "⟨para⟩ ⟨la⟩ guardia"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨de⟩ los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "והזר",
-      "english": "y ⟨el⟩ extranjero"
-    },
-    {
-      "surface": "הקרב",
-      "english": "⟨que⟩ se acerque"
-    },
-    {
-      "surface": "יומת",
-      "english": "morirá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:11:51.462004256Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

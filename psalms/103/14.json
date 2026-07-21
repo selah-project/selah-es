@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 103:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 349,
-    "prompt_tokens": 70059,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70408
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:22.905841333Z",
   "translation": "Porque Él conoce nuestra formación: ⟨se⟩ acuerda que ⟨somos⟩ polvo.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "הוא",
-      "english": "Él"
+      "gloss": "Él"
     },
     {
       "surface": "ידע",
-      "english": "conoce"
+      "gloss": "conoce"
     },
     {
       "surface": "יצרנו",
-      "english": "nuestra formación"
+      "gloss": "nuestra formación"
     },
     {
       "surface": "זכור",
-      "english": "⟨se⟩ acuerda"
+      "gloss": "⟨se⟩ acuerda"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "עפר",
-      "english": "polvo"
+      "gloss": "polvo"
     },
     {
       "surface": "אנחנו",
-      "english": "⟨somos⟩"
+      "gloss": "⟨somos⟩"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:22.905841333Z",
-  "model": "glm-4.5"
+  ]
 }

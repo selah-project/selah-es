@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-samuel 9:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 9,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:52:00.337420906Z",
+  "translation": "Y pasó por el monte Efráyim y pasó por la tierra de Shalishá, y no ⟨encontraron⟩; y pasaron por la tierra de Shaalim, y no ⟨había⟩; y pasó por la tierra de Yemini, y no ⟨encontraron⟩.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Y pasó"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "por el monte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "y pasó"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "por la tierra"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "de Shalishá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "⟨encontraron⟩"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "y pasaron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "por la tierra"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "de Shaalim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "y no"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "y pasó"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "por la tierra"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "de Yemini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "⟨encontraron⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraín",
@@ -13,92 +88,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 693,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17080,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17773
-  },
-  "translation": "Y pasó por el monte Efráyim y pasó por la tierra de Shalishá, y no ⟨encontraron⟩; y pasaron por la tierra de Shaalim, y no ⟨había⟩; y pasó por la tierra de Yemini, y no ⟨encontraron⟩.",
-  "tokens": [
-    {
-      "surface": "ויעבר",
-      "english": "Y pasó"
-    },
-    {
-      "surface": "בהר",
-      "english": "por el monte"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "ויעבר",
-      "english": "y pasó"
-    },
-    {
-      "surface": "בארץ",
-      "english": "por la tierra"
-    },
-    {
-      "surface": "שלשה",
-      "english": "de Shalishá"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "מצאו",
-      "english": "⟨encontraron⟩"
-    },
-    {
-      "surface": "ויעברו",
-      "english": "y pasaron"
-    },
-    {
-      "surface": "בארץ",
-      "english": "por la tierra"
-    },
-    {
-      "surface": "שעלים",
-      "english": "de Shaalim"
-    },
-    {
-      "surface": "ואין",
-      "english": "y no"
-    },
-    {
-      "surface": "ויעבר",
-      "english": "y pasó"
-    },
-    {
-      "surface": "בארץ",
-      "english": "por la tierra"
-    },
-    {
-      "surface": "ימיני",
-      "english": "de Yemini"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "מצאו",
-      "english": "⟨encontraron⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:52:00.337420906Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

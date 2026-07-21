@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 10:18",
   "book": "job",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27083,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27564
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:30.641440308Z",
   "translation": "Y ¿por qué ⟨el⟩ vientre me has sacado ⟨de⟩? ⟨yo⟩ expiraría ⟨y⟩ ⟨el⟩ ojo no me vería",
   "tokens": [
     {
       "surface": "ולמה",
-      "english": "Y ¿por qué"
+      "gloss": "Y ¿por qué"
     },
     {
       "surface": "מרחם",
-      "english": "⟨el⟩ vientre"
+      "gloss": "⟨el⟩ vientre"
     },
     {
       "surface": "הצאתני",
-      "english": "me has sacado ⟨de⟩"
+      "gloss": "me has sacado ⟨de⟩"
     },
     {
       "surface": "אגוע",
-      "english": "⟨yo⟩ expiraría"
+      "gloss": "⟨yo⟩ expiraría"
     },
     {
       "surface": "ועין",
-      "english": "⟨y⟩ ⟨el⟩ ojo"
+      "gloss": "⟨y⟩ ⟨el⟩ ojo"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תראני",
-      "english": "me vería"
+      "gloss": "me vería"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:30.641440308Z",
-  "model": "glm-4.5"
+  ]
 }

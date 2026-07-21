@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 20:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69772,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70106
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:50.215431154Z",
   "translation": "Ellos ⟨se⟩ inclinaron y cayeron, y nosotros nos levantamos y nos erguimos",
   "tokens": [
     {
       "surface": "המה",
-      "english": "Ellos"
+      "gloss": "Ellos"
     },
     {
       "surface": "כרעו",
-      "english": "⟨se⟩ inclinaron"
+      "gloss": "⟨se⟩ inclinaron"
     },
     {
       "surface": "ונפלו",
-      "english": "y cayeron"
+      "gloss": "y cayeron"
     },
     {
       "surface": "ואנחנו",
-      "english": "y nosotros"
+      "gloss": "y nosotros"
     },
     {
       "surface": "קמנו",
-      "english": "nos levantamos"
+      "gloss": "nos levantamos"
     },
     {
       "surface": "ונתעודד",
-      "english": "y nos erguimos"
+      "gloss": "y nos erguimos"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:50.215431154Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "psalms 106:40",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 408,
-    "prompt_tokens": 70093,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70501
-  },
+  "verse": 40,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:59.432744818Z",
   "translation": "Por tanto se encendió la nariz de YHWH contra su pueblo y abominó ⟨את⟩ su herencia",
   "tokens": [
     {
       "surface": "ויחר",
-      "english": "Por tanto se encendió"
+      "gloss": "Por tanto se encendió"
     },
     {
       "surface": "אף",
-      "english": "la nariz"
+      "gloss": "la nariz"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בעמו",
-      "english": "contra su pueblo"
+      "gloss": "contra su pueblo"
     },
     {
       "surface": "ויתעב",
-      "english": "y abominó"
+      "gloss": "y abominó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su herencia"
     },
     {
       "surface": "נחלתו",
-      "english": "su herencia"
+      "gloss": "su herencia"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:59.432744818Z",
-  "model": "glm-4.5"
+  ]
 }

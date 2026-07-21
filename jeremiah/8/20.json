@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "jeremiah 8:20",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24391,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24722
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:10:14.385040021Z",
   "translation": "Pasó ⟨la⟩ siega, terminó ⟨el⟩ verano, y nosotros no hemos sido salvados.",
   "tokens": [
     {
       "surface": "עבר",
-      "english": "Pasó"
+      "gloss": "Pasó"
     },
     {
       "surface": "קציר",
-      "english": "⟨la⟩ siega",
+      "gloss": "⟨la⟩ siega",
       "marks": "siega"
     },
     {
       "surface": "כלה",
-      "english": "terminó"
+      "gloss": "terminó"
     },
     {
       "surface": "קיץ",
-      "english": "⟨el⟩ verano",
+      "gloss": "⟨el⟩ verano",
       "marks": "verano"
     },
     {
       "surface": "ואנחנו",
-      "english": "y nosotros"
+      "gloss": "y nosotros"
     },
     {
       "surface": "לוא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "נושענו",
-      "english": "hemos sido salvados"
+      "gloss": "hemos sido salvados"
     }
-  ],
-  "timestamp": "2026-06-10T03:10:14.385040021Z",
-  "model": "glm-4.5"
+  ]
 }

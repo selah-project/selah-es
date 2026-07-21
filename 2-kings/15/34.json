@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "2-kings 15:34",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 15,
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:36:18.152908049Z",
+  "translation": "Y ⟨hizo⟩ lo recto ⟨a los⟩ ojos de YHWH, ⟨como⟩ todo lo que ⟨hizo⟩ Uziyahu ⟨su⟩ padre hizo",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Y ⟨hizo⟩",
+      "marks": "hizo"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "lo recto",
+      "marks": "lo recto"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨a los⟩ ojos",
+      "marks": "ojos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨como⟩ todo",
+      "marks": "todo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo que",
+      "marks": "lo que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨hizo⟩",
+      "marks": "hizo"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu",
+      "marks": "Uzías"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "⟨su⟩ padre",
+      "marks": "padre"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo",
+      "marks": "hizo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Uzías",
@@ -13,74 +70,6 @@
       "hebrew": "עזיהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16692,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17244
-  },
-  "translation": "Y ⟨hizo⟩ lo recto ⟨a los⟩ ojos de YHWH, ⟨como⟩ todo lo que ⟨hizo⟩ Uziyahu ⟨su⟩ padre hizo",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "Y ⟨hizo⟩",
-      "marks": "hizo"
-    },
-    {
-      "surface": "הישר",
-      "english": "lo recto",
-      "marks": "lo recto"
-    },
-    {
-      "surface": "בעיני",
-      "english": "⟨a los⟩ ojos",
-      "marks": "ojos"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH",
-      "marks": "YHWH"
-    },
-    {
-      "surface": "ככל",
-      "english": "⟨como⟩ todo",
-      "marks": "todo"
-    },
-    {
-      "surface": "אשר",
-      "english": "lo que",
-      "marks": "lo que"
-    },
-    {
-      "surface": "עשה",
-      "english": "⟨hizo⟩",
-      "marks": "hizo"
-    },
-    {
-      "surface": "עזיהו",
-      "english": "Uziyahu",
-      "marks": "Uzías"
-    },
-    {
-      "surface": "אביו",
-      "english": "⟨su⟩ padre",
-      "marks": "padre"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo",
-      "marks": "hizo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:36:18.152908049Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "jeremiah 29:20",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 736,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24729,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25465
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:26:38.982612331Z",
   "translation": "Y ⟨ustedes⟩ oigan ⟨el⟩ davar ⟨de⟩ YHWH, ⟨la⟩ gueulá ⟨completa⟩ que ⟨yo⟩ envié desde Yerushalayim ⟨a⟩ Bavel.",
   "tokens": [
     {
       "surface": "ואתם",
-      "english": "Y ⟨ustedes⟩"
+      "gloss": "Y ⟨ustedes⟩"
     },
     {
       "surface": "שמעו",
-      "english": "oigan"
+      "gloss": "oigan"
     },
     {
       "surface": "דבר",
-      "english": "⟨el⟩ davar"
+      "gloss": "⟨el⟩ davar"
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
+      "gloss": "⟨de⟩ YHWH"
     },
     {
       "surface": "כל",
-      "english": "⟨la⟩ gueulá ⟨completa⟩"
+      "gloss": "⟨la⟩ gueulá ⟨completa⟩"
     },
     {
       "surface": "הגולה",
-      "english": "gueulá"
+      "gloss": "gueulá"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "שלחתי",
-      "english": "⟨yo⟩ envié"
+      "gloss": "⟨yo⟩ envié"
     },
     {
       "surface": "מירושלם",
-      "english": "desde Yerushalayim"
+      "gloss": "desde Yerushalayim"
     },
     {
       "surface": "בבלה",
-      "english": "⟨a⟩ Bavel"
+      "gloss": "⟨a⟩ Bavel"
     }
-  ],
-  "timestamp": "2026-06-10T03:26:38.982612331Z",
-  "model": "glm-4.5"
+  ]
 }

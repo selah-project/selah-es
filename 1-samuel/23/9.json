@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-samuel 23:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 23,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:07:51.646684444Z",
+  "translation": "Y Davidd supo ⟨que⟩ sobre él Shaúl meditaba el mal y dijo a Ebjatar ⟨el⟩ sacerdote: 'Trae aquí ⟨el⟩ efod.'",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Y David supo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sobre él"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "meditaba"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "el mal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨el⟩ sacerdote"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Trae aquí"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "⟨el⟩ efod"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,76 +79,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16546,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17042
-  },
-  "translation": "Y Davidd supo ⟨que⟩ sobre él Shaúl meditaba el mal y dijo a Ebjatar ⟨el⟩ sacerdote: 'Trae aquí ⟨el⟩ efod.'",
-  "tokens": [
-    {
-      "surface": "וידע",
-      "english": "Y David supo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "עליו",
-      "english": "sobre él"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "מחריש",
-      "english": "meditaba"
-    },
-    {
-      "surface": "הרעה",
-      "english": "el mal"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אביתר",
-      "english": "Ebjatar"
-    },
-    {
-      "surface": "הכהן",
-      "english": "⟨el⟩ sacerdote"
-    },
-    {
-      "surface": "הגישה",
-      "english": "Trae aquí"
-    },
-    {
-      "surface": "האפוד",
-      "english": "⟨el⟩ efod"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:07:51.646684444Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

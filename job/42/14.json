@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 42:14",
   "book": "job",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27422,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27862
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:19:06.376614287Z",
   "translation": "Y llamó ⟨el⟩ nombre ⟨de⟩ ⟨la⟩ primera Yemimá y ⟨el⟩ nombre ⟨de⟩ ⟨la⟩ segunda Qetzíá y ⟨el⟩ nombre ⟨de⟩ ⟨la⟩ tercera Keren-Hapuj",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "Y llamó"
+      "gloss": "Y llamó"
     },
     {
       "surface": "שם",
-      "english": "⟨el⟩ nombre"
+      "gloss": "⟨el⟩ nombre"
     },
     {
       "surface": "האחת",
-      "english": "⟨de⟩ ⟨la⟩ primera"
+      "gloss": "⟨de⟩ ⟨la⟩ primera"
     },
     {
       "surface": "ימימה",
-      "english": "Yemimá"
+      "gloss": "Yemimá"
     },
     {
       "surface": "ושם",
-      "english": "y ⟨el⟩ nombre"
+      "gloss": "y ⟨el⟩ nombre"
     },
     {
       "surface": "השנית",
-      "english": "⟨de⟩ ⟨la⟩ segunda"
+      "gloss": "⟨de⟩ ⟨la⟩ segunda"
     },
     {
       "surface": "קציעה",
-      "english": "Qetzíá"
+      "gloss": "Qetzíá"
     },
     {
       "surface": "ושם",
-      "english": "y ⟨el⟩ nombre"
+      "gloss": "y ⟨el⟩ nombre"
     },
     {
       "surface": "השלישית",
-      "english": "⟨de⟩ ⟨la⟩ tercera"
+      "gloss": "⟨de⟩ ⟨la⟩ tercera"
     },
     {
       "surface": "קרן",
-      "english": "Keren"
+      "gloss": "Keren"
     },
     {
       "surface": "הפוך",
-      "english": "Hapuj"
+      "gloss": "Hapuj"
     }
-  ],
-  "timestamp": "2026-06-10T02:19:06.376614287Z",
-  "model": "glm-4.5"
+  ]
 }

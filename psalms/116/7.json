@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 116:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 398,
-    "prompt_tokens": 70008,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70406
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:59.485205978Z",
   "translation": "Vuelve, alma mía, a tu reposo, porque YHWH ⟨ha⟩ tratado ⟨bien⟩ contigo, porque",
   "tokens": [
     {
       "surface": "שובי",
-      "english": "Vuelve"
+      "gloss": "Vuelve"
     },
     {
       "surface": "נפשי",
-      "english": "alma mía"
+      "gloss": "alma mía"
     },
     {
       "surface": "למנוחיכי",
-      "english": "a tu reposo"
+      "gloss": "a tu reposo"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "גמל",
-      "english": "⟨ha⟩ tratado ⟨bien⟩"
+      "gloss": "⟨ha⟩ tratado ⟨bien⟩"
     },
     {
       "surface": "עליכי",
-      "english": "contigo"
+      "gloss": "contigo"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:59.485205978Z",
-  "model": "glm-4.5"
+  ]
 }

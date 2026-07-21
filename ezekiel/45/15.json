@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "ezekiel 45:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 45,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:55:33.366880710Z",
+  "translation": "y un ⟨es⟩ ⟨el⟩ cordero ⟨de⟩ ⟨el⟩ rebaño ⟨de⟩ las doscientas, ⟨de⟩ los pastos regados ⟨de⟩ Yisrael: ⟨para⟩ ofrenda de cereal, y ⟨para⟩ ofrenda quemada, y ⟨para⟩ ofrendas de paz, ⟨para⟩ hacer expiación por ellos, ⟨la⟩ palabra ⟨de⟩ Adonai YHWH.",
+  "tokens": [
+    {
+      "surface": "ושה",
+      "gloss": "Y un ⟨es⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨el⟩ cordero"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨el⟩ rebaño"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "המאתים",
+      "gloss": "⟨las⟩ doscientas"
+    },
+    {
+      "surface": "ממשקה",
+      "gloss": "⟨de⟩ los pastos regados"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "⟨para⟩ ofrenda de cereal"
+    },
+    {
+      "surface": "ולעולה",
+      "gloss": "y ⟨para⟩ ofrenda quemada"
+    },
+    {
+      "surface": "ולשלמים",
+      "gloss": "y ⟨para⟩ ofrendas de paz"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "⟨para⟩ hacer expiación por ellos"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "por ellos"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨la⟩ palabra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨de⟩ Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 45,
-  "usage": {
-    "completion_tokens": 1178,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17869,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 19047
-  },
-  "translation": "y un ⟨es⟩ ⟨el⟩ cordero ⟨de⟩ ⟨el⟩ rebaño ⟨de⟩ las doscientas, ⟨de⟩ los pastos regados ⟨de⟩ Yisrael: ⟨para⟩ ofrenda de cereal, y ⟨para⟩ ofrenda quemada, y ⟨para⟩ ofrendas de paz, ⟨para⟩ hacer expiación por ellos, ⟨la⟩ palabra ⟨de⟩ Adonai YHWH.",
-  "tokens": [
-    {
-      "surface": "ושה",
-      "english": "Y un ⟨es⟩"
-    },
-    {
-      "surface": "אחת",
-      "english": "⟨el⟩ cordero"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "הצאן",
-      "english": "⟨el⟩ rebaño"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "המאתים",
-      "english": "⟨las⟩ doscientas"
-    },
-    {
-      "surface": "ממשקה",
-      "english": "⟨de⟩ los pastos regados"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "למנחה",
-      "english": "⟨para⟩ ofrenda de cereal"
-    },
-    {
-      "surface": "ולעולה",
-      "english": "y ⟨para⟩ ofrenda quemada"
-    },
-    {
-      "surface": "ולשלמים",
-      "english": "y ⟨para⟩ ofrendas de paz"
-    },
-    {
-      "surface": "לכפר",
-      "english": "⟨para⟩ hacer expiación por ellos"
-    },
-    {
-      "surface": "עליהם",
-      "english": "por ellos"
-    },
-    {
-      "surface": "נאם",
-      "english": "⟨la⟩ palabra"
-    },
-    {
-      "surface": "אדני",
-      "english": "⟨de⟩ Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:55:33.366880710Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

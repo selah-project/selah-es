@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "joshua 21:33",
   "book": "joshua",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23440,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23767
-  },
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:23:25.567911392Z",
   "translation": "Todas ⟨las⟩ ciudades ⟨de los⟩ gersonitas según sus familias ⟨fueron⟩ trece ciudades y sus pastizales.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todas"
+      "gloss": "Todas"
     },
     {
       "surface": "ערי",
-      "english": "ciudades"
+      "gloss": "ciudades"
     },
     {
       "surface": "הגרשני",
-      "english": "de los gersonitas"
+      "gloss": "de los gersonitas"
     },
     {
       "surface": "למשפחתם",
-      "english": "según sus familias"
+      "gloss": "según sus familias"
     },
     {
       "surface": "שלש",
-      "english": "trece"
+      "gloss": "trece"
     },
     {
       "surface": "עשרה",
-      "english": "ciudades"
+      "gloss": "ciudades"
     },
     {
       "surface": "עיר",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ומגרשיהן",
-      "english": "sus pastizales"
+      "gloss": "sus pastizales"
     }
-  ],
-  "timestamp": "2026-06-10T01:23:25.567911392Z",
-  "model": "glm-4.5"
+  ]
 }

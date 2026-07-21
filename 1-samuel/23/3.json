@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 23:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 23,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:07:54.732647476Z",
+  "translation": "Y los hombres de Davidd dijeron ⟨a⟩ él: He aquí, nosotros aquí ⟨en⟩ Judá tememos, y ⟨cuánto más⟩ si vamos ⟨a⟩ Keilah ⟨a⟩ ⟨los⟩ ejércitos ⟨de⟩ los filisteos.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Y dijeron"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "los hombres de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ él"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "He aquí"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nosotros"
+    },
+    {
+      "surface": "פה",
+      "gloss": "aquí"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "⟨en⟩ Judá"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "tememos"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "y ⟨cuánto más⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "vamos"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "⟨a⟩ Keilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "⟨los⟩ ejércitos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨de⟩ los filisteos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,88 +84,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 623,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16857,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17480
-  },
-  "translation": "Y los hombres de Davidd dijeron ⟨a⟩ él: He aquí, nosotros aquí ⟨en⟩ Judá tememos, y ⟨cuánto más⟩ si vamos ⟨a⟩ Keilah ⟨a⟩ ⟨los⟩ ejércitos ⟨de⟩ los filisteos.",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "Y dijeron"
-    },
-    {
-      "surface": "אנשי",
-      "english": "los hombres de"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ él"
-    },
-    {
-      "surface": "הנה",
-      "english": "He aquí"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "nosotros"
-    },
-    {
-      "surface": "פה",
-      "english": "aquí"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "⟨en⟩ Judá"
-    },
-    {
-      "surface": "יראים",
-      "english": "tememos"
-    },
-    {
-      "surface": "ואף",
-      "english": "y ⟨cuánto más⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "si"
-    },
-    {
-      "surface": "נלך",
-      "english": "vamos"
-    },
-    {
-      "surface": "קעלה",
-      "english": "⟨a⟩ Keilah"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "מערכות",
-      "english": "⟨los⟩ ejércitos"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨de⟩ los filisteos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:07:54.732647476Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

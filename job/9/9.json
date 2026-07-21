@@ -1,51 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 9:9",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26976,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27359
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:15.301509823Z",
   "translation": "haciendo ⟨el⟩ Osh, ⟨el⟩ Kesil, ⟨y⟩ Kimah, y ⟨las⟩ cámaras ⟨del⟩ sur",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "Haciendo"
+      "gloss": "Haciendo"
     },
     {
       "surface": "עש",
-      "english": "⟨el⟩ Osh",
+      "gloss": "⟨el⟩ Osh",
       "marks": "Osh"
     },
     {
       "surface": "כסיל",
-      "english": "⟨el⟩ Kesil",
+      "gloss": "⟨el⟩ Kesil",
       "marks": "Kesil"
     },
     {
       "surface": "וכימה",
-      "english": "⟨y⟩ Kimah"
+      "gloss": "⟨y⟩ Kimah"
     },
     {
       "surface": "וחדרי",
-      "english": "y ⟨las⟩ cámaras"
+      "gloss": "y ⟨las⟩ cámaras"
     },
     {
       "surface": "תמן",
-      "english": "⟨del⟩ sur",
+      "gloss": "⟨del⟩ sur",
       "marks": "sur"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:15.301509823Z",
-  "model": "glm-4.5"
+  ]
 }

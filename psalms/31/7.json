@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 31:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70004,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70484
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:11:25.455174166Z",
   "translation": "⟨he⟩ ha detestado ⟨los que⟩ tienen por vanidad ⟨el⟩ engaño; y ⟨yo⟩ en YHWH ⟨he⟩ confiado",
   "tokens": [
     {
       "surface": "שנאתי",
-      "english": "⟨He⟩ ha detestado"
+      "gloss": "⟨He⟩ ha detestado"
     },
     {
       "surface": "השמרים",
-      "english": "⟨los que⟩ tienen por vanidad"
+      "gloss": "⟨los que⟩ tienen por vanidad"
     },
     {
       "surface": "הבלי",
-      "english": "⟨el⟩ engaño"
+      "gloss": "⟨el⟩ engaño"
     },
     {
       "surface": "שוא",
-      "english": "engaño"
+      "gloss": "engaño"
     },
     {
       "surface": "ואני",
-      "english": "y ⟨yo⟩"
+      "gloss": "y ⟨yo⟩"
     },
     {
       "surface": "אל",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בטחתי",
-      "english": "⟨he⟩ confiado"
+      "gloss": "⟨he⟩ confiado"
     }
-  ],
-  "timestamp": "2026-06-09T23:11:25.455174166Z",
-  "model": "glm-4.5"
+  ]
 }

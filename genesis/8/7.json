@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "genesis 8:7",
   "book": "genesis",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 515,
-    "prompt_tokens": 28801,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29316
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:53:55.925541035Z",
   "translation": "Y envió ⟨את⟩ el cuervo, y salió, yendo y volviendo hasta ⟨el⟩ secarse de las aguas de sobre la tierra.",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "Y envió"
+      "gloss": "Y envió"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el cuervo"
     },
     {
       "surface": "הערב",
-      "english": "el cuervo"
+      "gloss": "el cuervo"
     },
     {
       "surface": "ויצא",
-      "english": "y salió"
+      "gloss": "y salió"
     },
     {
       "surface": "יצוא",
-      "english": "yendo"
+      "gloss": "yendo"
     },
     {
       "surface": "ושוב",
-      "english": "y volviendo"
+      "gloss": "y volviendo"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "יבשת",
-      "english": "⟨el⟩ secarse"
+      "gloss": "⟨el⟩ secarse"
     },
     {
       "surface": "המים",
-      "english": "de las aguas"
+      "gloss": "de las aguas"
     },
     {
       "surface": "מעל",
-      "english": "de sobre"
+      "gloss": "de sobre"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T20:53:55.925541035Z",
-  "model": "glm-4.5"
+  ]
 }

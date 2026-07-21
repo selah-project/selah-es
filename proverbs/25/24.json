@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "proverbs 25:24",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59963,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60443
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:48:30.686328137Z",
   "translation": "Mejor es estar sentado en ⟨el⟩ rincón de ⟨un⟩ terrado que con ⟨una⟩ mujer ⟨de⟩ contiendas y ⟨una⟩ casa ⟨de⟩ compañía",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "Mejor es"
+      "gloss": "Mejor es"
     },
     {
       "surface": "שבת",
-      "english": "estar sentado"
+      "gloss": "estar sentado"
     },
     {
       "surface": "על",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "פנת",
-      "english": "⟨el⟩ rincón"
+      "gloss": "⟨el⟩ rincón"
     },
     {
       "surface": "גג",
-      "english": "de ⟨un⟩ terrado"
+      "gloss": "de ⟨un⟩ terrado"
     },
     {
       "surface": "מאשת",
-      "english": "que con ⟨una⟩"
+      "gloss": "que con ⟨una⟩"
     },
     {
       "surface": "מדונים",
-      "english": "mujer ⟨de⟩ contiendas"
+      "gloss": "mujer ⟨de⟩ contiendas"
     },
     {
       "surface": "ובית",
-      "english": "y ⟨una⟩ casa ⟨de⟩"
+      "gloss": "y ⟨una⟩ casa ⟨de⟩"
     },
     {
       "surface": "חבר",
-      "english": "compañía"
+      "gloss": "compañía"
     }
-  ],
-  "timestamp": "2026-06-10T01:48:30.686328137Z",
-  "model": "glm-4.5"
+  ]
 }

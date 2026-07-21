@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "proverbs 13:18",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 59994,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60417
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:20:05.135190652Z",
   "translation": "Pobreza y deshonra ⟨son⟩ para ⟨el⟩ que rechaza la instrucción, pero ⟨el⟩ que guarda la reprensión será honrado.",
   "tokens": [
     {
       "surface": "ריש",
-      "english": "Pobreza"
+      "gloss": "Pobreza"
     },
     {
       "surface": "וקלון",
-      "english": "y deshonra"
+      "gloss": "y deshonra"
     },
     {
       "surface": "פורע",
-      "english": "para ⟨el⟩ que rechaza"
+      "gloss": "para ⟨el⟩ que rechaza"
     },
     {
       "surface": "מוסר",
-      "english": "la instrucción"
+      "gloss": "la instrucción"
     },
     {
       "surface": "ושומר",
-      "english": "pero ⟨el⟩ que guarda"
+      "gloss": "pero ⟨el⟩ que guarda"
     },
     {
       "surface": "תוכחת",
-      "english": "la reprensión"
+      "gloss": "la reprensión"
     },
     {
       "surface": "יכבד",
-      "english": "será honrado"
+      "gloss": "será honrado"
     }
-  ],
-  "timestamp": "2026-07-16T23:20:05.135190652Z",
-  "model": "glm-4.5"
+  ]
 }

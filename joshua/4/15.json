@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "joshua 4:15",
   "book": "joshua",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22984,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23340
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:09:05.290065117Z",
   "translation": "Y YHWH habló ⟨a⟩ Yehoshúa ⟨para⟩ decir",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y habló"
+      "gloss": "Y habló"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Yehoshúa"
     },
     {
       "surface": "יהושע",
-      "english": "Yehoshúa"
+      "gloss": "Yehoshúa"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ decir"
+      "gloss": "⟨para⟩ decir"
     }
-  ],
-  "timestamp": "2026-06-10T01:09:05.290065117Z",
-  "model": "glm-4.5"
+  ]
 }

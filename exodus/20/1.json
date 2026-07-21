@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 20:1",
   "book": "exodus",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 372,
-    "prompt_tokens": 23862,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24234
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:17:31.460919868Z",
   "translation": "Y habló Elohim todas estas palabras, diciendo:",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Y habló"
+      "gloss": "Y habló"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todas estas palabras"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "הדברים",
-      "english": "estas palabras"
+      "gloss": "estas palabras"
     },
     {
       "surface": "האלה",
-      "english": "estas"
+      "gloss": "estas"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     }
-  ],
-  "timestamp": "2026-07-16T20:17:31.460919868Z",
-  "model": "glm-4.5"
+  ]
 }

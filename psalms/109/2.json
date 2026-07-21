@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 109:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70221,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70738
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:25.465826512Z",
   "translation": "Porque ⟨el⟩ boca del malvado y ⟨el⟩ boca del fraude ⟨se⟩ ⟨han⟩ abierto contra mí; han hablado ⟨a⟩ mí con lengua de mentira.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "פי",
-      "english": "boca ⟨del⟩"
+      "gloss": "boca ⟨del⟩"
     },
     {
       "surface": "רשע",
-      "english": "malvado"
+      "gloss": "malvado"
     },
     {
       "surface": "ופי",
-      "english": "y ⟨el⟩ boca ⟨del⟩"
+      "gloss": "y ⟨el⟩ boca ⟨del⟩"
     },
     {
       "surface": "מרמה",
-      "english": "fraude"
+      "gloss": "fraude"
     },
     {
       "surface": "עלי",
-      "english": "contra mí"
+      "gloss": "contra mí"
     },
     {
       "surface": "פתחו",
-      "english": "⟨se⟩ ⟨han⟩ abierto"
+      "gloss": "⟨se⟩ ⟨han⟩ abierto"
     },
     {
       "surface": "דברו",
-      "english": "han hablado ⟨a⟩"
+      "gloss": "han hablado ⟨a⟩"
     },
     {
       "surface": "אתי",
-      "english": "mí"
+      "gloss": "mí"
     },
     {
       "surface": "לשון",
-      "english": "lengua"
+      "gloss": "lengua"
     },
     {
       "surface": "שקר",
-      "english": "de mentira"
+      "gloss": "de mentira"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:25.465826512Z",
-  "model": "glm-4.5"
+  ]
 }

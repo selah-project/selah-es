@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-kings 16:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 16,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:07:54.944498439Z",
+  "translation": "Y sucedió la palabra de YHWH ⟨a⟩ Yehu hijo de Hanani sobre Baasa, diciendo:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la palabra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "de Hanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jehú",
@@ -13,64 +60,6 @@
       "hebrew": "יהוא"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62090,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62415
-  },
-  "translation": "Y sucedió la palabra de YHWH ⟨a⟩ Yehu hijo de Hanani sobre Baasa, diciendo:",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "דבר",
-      "english": "la palabra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "יהוא",
-      "english": "Yehu"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "חנני",
-      "english": "de Hanani"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "בעשא",
-      "english": "Baasa"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:07:54.944498439Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

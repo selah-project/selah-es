@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "leviticus 11:3",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 593,
-    "prompt_tokens": 25023,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25616
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:37:28.072364285Z",
   "translation": "Todo ⟨lo que⟩ divide la pezuña y hendidura hendida de pezuña, trayendo arriba el rumio, en la bestia, ⟨a⟩ ella comeréis.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "מפרסת",
-      "english": "⟨lo que⟩ divide"
+      "gloss": "⟨lo que⟩ divide"
     },
     {
       "surface": "פרסה",
-      "english": "la pezuña"
+      "gloss": "la pezuña"
     },
     {
       "surface": "ושסעת",
-      "english": "y hendidura"
+      "gloss": "y hendidura"
     },
     {
       "surface": "שסע",
-      "english": "hendida"
+      "gloss": "hendida"
     },
     {
       "surface": "פרסת",
-      "english": "de pezuña"
+      "gloss": "de pezuña"
     },
     {
       "surface": "מעלת",
-      "english": "trayendo arriba"
+      "gloss": "trayendo arriba"
     },
     {
       "surface": "גרה",
-      "english": "el rumio"
+      "gloss": "el rumio"
     },
     {
       "surface": "בבהמה",
-      "english": "en la bestia"
+      "gloss": "en la bestia"
     },
     {
       "surface": "אתה",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "ella"
     },
     {
       "surface": "תאכלו",
-      "english": "comeréis"
+      "gloss": "comeréis"
     }
-  ],
-  "timestamp": "2026-07-16T22:37:28.072364285Z",
-  "model": "glm-4.5"
+  ]
 }

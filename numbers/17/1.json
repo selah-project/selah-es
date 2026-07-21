@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "numbers 17:1",
   "book": "numbers",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24666,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 24929
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:53:13.122272980Z",
   "translation": "Y YHWH habló a Moshé ⟨para⟩ decir",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Y habló"
+      "gloss": "Y habló"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ decir"
+      "gloss": "⟨para⟩ decir"
     }
-  ],
-  "timestamp": "2026-06-10T04:53:13.122272980Z",
-  "model": "glm-4.5"
+  ]
 }

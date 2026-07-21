@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "proverbs 19:26",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59894,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60246
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:42:46.640783168Z",
   "translation": "El que destruye ⟨a⟩ padre y hace huir ⟨a⟩ madre ⟨es⟩ hijo que causa vergüenza y ⟨la⟩ confusión ⟨trae⟩.",
   "tokens": [
     {
       "surface": "משדד",
-      "english": "Destruye"
+      "gloss": "Destruye"
     },
     {
       "surface": "אב",
-      "english": "padre"
+      "gloss": "padre"
     },
     {
       "surface": "יבריח",
-      "english": "hace huir"
+      "gloss": "hace huir"
     },
     {
       "surface": "אם",
-      "english": "madre"
+      "gloss": "madre"
     },
     {
       "surface": "בן",
-      "english": "hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "מביש",
-      "english": "vergüenza"
+      "gloss": "vergüenza"
     },
     {
       "surface": "ומחפיר",
-      "english": "confusión"
+      "gloss": "confusión"
     }
-  ],
-  "timestamp": "2026-06-10T01:42:46.640783168Z",
-  "model": "glm-4.5"
+  ]
 }

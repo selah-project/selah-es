@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "ezekiel 32:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 32,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:40:41.149202954Z",
+  "translation": "Porque así ⟨ha⟩ dicho Adonai YHWH: espada del rey de Bavel vendrá ⟨sobre⟩ ti",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "כה",
+      "gloss": "así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨ha⟩ dicho",
+      "marks": "Adonai YHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del rey"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "vendrá ⟨sobre⟩ ti"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,61 +57,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17086,
-    "prompt_tokens_details": {
-      "cached_tokens": 15965
-    },
-    "total_tokens": 17408
-  },
-  "translation": "Porque así ⟨ha⟩ dicho Adonai YHWH: espada del rey de Bavel vendrá ⟨sobre⟩ ti",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "כה",
-      "english": "así"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨ha⟩ dicho",
-      "marks": "Adonai YHWH"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "חרב",
-      "english": "espada"
-    },
-    {
-      "surface": "מלך",
-      "english": "del rey"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "תבואך",
-      "english": "vendrá ⟨sobre⟩ ti"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:40:41.149202954Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

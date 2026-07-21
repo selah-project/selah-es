@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 136:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 69834,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70220
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:38.592065009Z",
   "translation": "Al que hirió ⟨a⟩ grandes reyes, porque para siempre es su Jésed",
   "tokens": [
     {
       "surface": "למכה",
-      "english": "Al que hirió"
+      "gloss": "Al que hirió"
     },
     {
       "surface": "מלכים",
-      "english": "⟨a⟩ grandes reyes"
+      "gloss": "⟨a⟩ grandes reyes"
     },
     {
       "surface": "גדלים",
-      "english": "grandes"
+      "gloss": "grandes"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "es su Jésed"
+      "gloss": "es su Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:38.592065009Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 5:2",
   "book": "genesis",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 460,
-    "prompt_tokens": 28956,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29416
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:52:42.014140423Z",
   "translation": "Macho y hembra ⟨los⟩ creó, y ⟨los⟩ bendijo, y llamó ⟨את⟩ su nombre Adam, en el día que ⟨fueron⟩ creados.",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "Macho"
+      "gloss": "Macho"
     },
     {
       "surface": "ונקבה",
-      "english": "y hembra"
+      "gloss": "y hembra"
     },
     {
       "surface": "בראם",
-      "english": "⟨los⟩ creó"
+      "gloss": "⟨los⟩ creó"
     },
     {
       "surface": "ויברך",
-      "english": "y ⟨los⟩ bendijo"
+      "gloss": "y ⟨los⟩ bendijo"
     },
     {
       "surface": "אתם",
-      "english": "⟨los⟩",
+      "gloss": "⟨los⟩",
       "marks": "יוקרא"
     },
     {
       "surface": "ויקרא",
-      "english": "llamó"
+      "gloss": "llamó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su nombre"
     },
     {
       "surface": "שמם",
-      "english": "su nombre"
+      "gloss": "su nombre"
     },
     {
       "surface": "אדם",
-      "english": "Adam"
+      "gloss": "Adam"
     },
     {
       "surface": "ביום",
-      "english": "en el día"
+      "gloss": "en el día"
     },
     {
       "surface": "הבראם",
-      "english": "que ⟨fueron⟩ creados"
+      "gloss": "que ⟨fueron⟩ creados"
     }
-  ],
-  "timestamp": "2026-07-16T20:52:42.014140423Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 68:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69978,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70436
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:23.203884653Z",
   "translation": "se ⟨dispersen⟩ sus enemigos y ⟨huyan⟩ ⟨los⟩ que lo aborrecen ⟨de⟩ su presencia",
   "tokens": [
     {
       "surface": "יקום",
-      "english": "Se"
+      "gloss": "Se"
     },
     {
       "surface": "אלהים",
-      "english": "⟨dispersen⟩ sus enemigos y ⟨huyan⟩ ⟨los⟩ que lo aborrecen ⟨de⟩ su presencia"
+      "gloss": "⟨dispersen⟩ sus enemigos y ⟨huyan⟩ ⟨los⟩ que lo aborrecen ⟨de⟩ su presencia"
     },
     {
       "surface": "יפוצו",
-      "english": "⟨dispersen⟩"
+      "gloss": "⟨dispersen⟩"
     },
     {
       "surface": "אויביו",
-      "english": "sus enemigos"
+      "gloss": "sus enemigos"
     },
     {
       "surface": "וינוסו",
-      "english": "y ⟨huyan⟩"
+      "gloss": "y ⟨huyan⟩"
     },
     {
       "surface": "משנאיו",
-      "english": "⟨los⟩ que lo aborrecen"
+      "gloss": "⟨los⟩ que lo aborrecen"
     },
     {
       "surface": "מפניו",
-      "english": "⟨de⟩ su presencia"
+      "gloss": "⟨de⟩ su presencia"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:23.203884653Z",
-  "model": "glm-4.5"
+  ]
 }

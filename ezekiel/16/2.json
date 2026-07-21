@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "ezekiel 16:2",
   "book": "ezekiel",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 354,
-    "prompt_tokens": 24574,
-    "prompt_tokens_details": {
-      "cached_tokens": 23296
-    },
-    "total_tokens": 24928
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:32:54.508384615Z",
   "translation": "Hijo de hombre, haz conocer ⟨את⟩ Yerushalayim ⟨את⟩ sus abominaciones,",
   "tokens": [
     {
       "surface": "בן",
-      "english": "Hijo"
+      "gloss": "Hijo"
     },
     {
       "surface": "אדם",
-      "english": "de hombre"
+      "gloss": "de hombre"
     },
     {
       "surface": "הודע",
-      "english": "haz conocer"
+      "gloss": "haz conocer"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yerushalayim"
     },
     {
       "surface": "ירושלם",
-      "english": "Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus abominaciones"
     },
     {
       "surface": "תועבתיה",
-      "english": "sus abominaciones"
+      "gloss": "sus abominaciones"
     }
-  ],
-  "timestamp": "2026-07-16T20:32:54.508384615Z",
-  "model": "glm-4.5"
+  ]
 }

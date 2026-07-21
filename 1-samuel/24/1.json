@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 24:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 24,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:08:42.098522764Z",
+  "translation": "Y subió Davidd de allí y habitó en las fortalezas de En-Gadi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Y subió"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de allí"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "y habitó"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "en las fortalezas"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadi"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,52 +48,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 15972,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16244
-  },
-  "translation": "Y subió Davidd de allí y habitó en las fortalezas de En-Gadi.",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "Y subió"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "משם",
-      "english": "de allí"
-    },
-    {
-      "surface": "וישב",
-      "english": "y habitó"
-    },
-    {
-      "surface": "במצדות",
-      "english": "en las fortalezas"
-    },
-    {
-      "surface": "עין",
-      "english": "En"
-    },
-    {
-      "surface": "גדי",
-      "english": "Gadi"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:08:42.098522764Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

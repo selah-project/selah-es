@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "jeremiah 17:9",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24356,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24745
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:16:35.396444902Z",
   "translation": "Engañoso ⟨es⟩ ⟨el⟩ corazón ⟨את⟩ más que todo, y ⟨es⟩ incurable ⟨el⟩ corazón; ¿quién lo conocerá?",
   "tokens": [
     {
       "surface": "עקב",
-      "english": "Engañoso"
+      "gloss": "Engañoso"
     },
     {
       "surface": "הלב",
-      "english": "⟨el⟩ corazón",
+      "gloss": "⟨el⟩ corazón",
       "marks": "corazón"
     },
     {
       "surface": "מכל",
-      "english": "más que todo"
+      "gloss": "más que todo"
     },
     {
       "surface": "ואנש",
-      "english": "y ⟨es⟩ incurable"
+      "gloss": "y ⟨es⟩ incurable"
     },
     {
       "surface": "הוא",
-      "english": "⟨el⟩ corazón",
+      "gloss": "⟨el⟩ corazón",
       "marks": "corazón"
     },
     {
       "surface": "מי",
-      "english": "¿quién?"
+      "gloss": "¿quién?"
     },
     {
       "surface": "ידענו",
-      "english": "lo conocerá"
+      "gloss": "lo conocerá"
     }
-  ],
-  "timestamp": "2026-06-10T03:16:35.396444902Z",
-  "model": "glm-4.5"
+  ]
 }

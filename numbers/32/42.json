@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "numbers 32:42",
   "book": "numbers",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 465,
-    "prompt_tokens": 25465,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25930
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:14:00.640059944Z",
   "translation": "Y Nobaj fue y capturó ⟨את⟩ Kenat y ⟨את⟩ sus aldeas, y la llamó Nobaj, según su nombre.",
   "tokens": [
     {
       "surface": "ונבח",
-      "english": "Y Nobaj"
+      "gloss": "Y Nobaj"
     },
     {
       "surface": "הלך",
-      "english": "fue"
+      "gloss": "fue"
     },
     {
       "surface": "וילכד",
-      "english": "y capturó"
+      "gloss": "y capturó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Kenat"
     },
     {
       "surface": "קנת",
-      "english": "Kenat"
+      "gloss": "Kenat"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus aldeas"
     },
     {
       "surface": "בנתיה",
-      "english": "sus aldeas"
+      "gloss": "sus aldeas"
     },
     {
       "surface": "ויקרא",
-      "english": "y la llamó"
+      "gloss": "y la llamó"
     },
     {
       "surface": "לה",
-      "english": "Nobaj"
+      "gloss": "Nobaj"
     },
     {
       "surface": "נבח",
-      "english": "Nobaj"
+      "gloss": "Nobaj"
     },
     {
       "surface": "בשמו",
-      "english": "según su nombre"
+      "gloss": "según su nombre"
     }
-  ],
-  "timestamp": "2026-07-16T23:14:00.640059944Z",
-  "model": "glm-4.5"
+  ]
 }

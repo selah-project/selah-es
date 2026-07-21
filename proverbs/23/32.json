@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "proverbs 23:32",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59743,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60104
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:46:36.474916859Z",
   "translation": "Its end ⟨is⟩ ⟨like⟩ a serpent it bites ⟨and⟩ ⟨like⟩ a basilisk it stings",
   "tokens": [
     {
       "surface": "אחריתו",
-      "english": "Its end"
+      "gloss": "Its end"
     },
     {
       "surface": "כנחש",
-      "english": "⟨like⟩ a serpent"
+      "gloss": "⟨like⟩ a serpent"
     },
     {
       "surface": "ישך",
-      "english": "it bites"
+      "gloss": "it bites"
     },
     {
       "surface": "וכצפעני",
-      "english": "⟨and⟩ ⟨like⟩ a basilisk"
+      "gloss": "⟨and⟩ ⟨like⟩ a basilisk"
     },
     {
       "surface": "י�פרש",
-      "english": "it stings"
+      "gloss": "it stings"
     }
-  ],
-  "timestamp": "2026-06-10T01:46:36.474916859Z",
-  "model": "glm-4.5"
+  ]
 }

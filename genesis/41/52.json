@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 52,
   "ref": "genesis 41:52",
   "book": "genesis",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 680,
-    "prompt_tokens": 28789,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29469
-  },
+  "verse": 52,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:12:38.382908997Z",
   "translation": "Y ⟨את⟩ el nombre del segundo llamó Efráyim: porque Elohim me ha hecho fructificar en ⟨la⟩ tierra de mi aflicción.",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "Y ⟨את⟩",
+      "gloss": "Y ⟨את⟩",
       "marks": "el nombre del segundo"
     },
     {
       "surface": "שם",
-      "english": "el nombre"
+      "gloss": "el nombre"
     },
     {
       "surface": "השני",
-      "english": "del segundo"
+      "gloss": "del segundo"
     },
     {
       "surface": "קרא",
-      "english": "llamó"
+      "gloss": "llamó"
     },
     {
       "surface": "אפרים",
-      "english": "Efráyim"
+      "gloss": "Efráyim"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "הפרני",
-      "english": "me ha hecho fructificar"
+      "gloss": "me ha hecho fructificar"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     },
     {
       "surface": "עניי",
-      "english": "de mi aflicción"
+      "gloss": "de mi aflicción"
     }
-  ],
-  "timestamp": "2026-07-16T21:12:38.382908997Z",
-  "model": "glm-4.5"
+  ]
 }

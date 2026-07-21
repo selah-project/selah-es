@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 66:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 632,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69723,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70355
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:35.655698929Z",
   "translation": "Tú ⟨has hecho entrar⟩ ⟨a nosotros⟩ ⟨en⟩ ⟨la trampa⟩, pusiste ⟨una⟩ ⟨presión⟩ ⟨en⟩ ⟨nuestros⟩ ⟨lomos⟩.",
   "tokens": [
     {
       "surface": "הבאתנו",
-      "english": "Tú ⟨has hecho entrar⟩ ⟨a nosotros⟩"
+      "gloss": "Tú ⟨has hecho entrar⟩ ⟨a nosotros⟩"
     },
     {
       "surface": "במצודה",
-      "english": "⟨en⟩ ⟨la trampa⟩"
+      "gloss": "⟨en⟩ ⟨la trampa⟩"
     },
     {
       "surface": "שמת",
-      "english": "pusiste"
+      "gloss": "pusiste"
     },
     {
       "surface": "מועקה",
-      "english": "⟨una⟩ ⟨presión⟩"
+      "gloss": "⟨una⟩ ⟨presión⟩"
     },
     {
       "surface": "במתנינו",
-      "english": "⟨en⟩ ⟨nuestros⟩ ⟨lomos⟩"
+      "gloss": "⟨en⟩ ⟨nuestros⟩ ⟨lomos⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:35.655698929Z",
-  "model": "glm-4.5"
+  ]
 }

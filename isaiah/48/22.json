@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "isaiah 48:22",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 275,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25713,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 25988
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:51:52.362170897Z",
   "translation": "No ⟨hay⟩ paz ⟨para⟩ los impíos ⟨dice⟩ YHWH",
   "tokens": [
     {
       "surface": "אין",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "שלום",
-      "english": "⟨hay⟩ paz"
+      "gloss": "⟨hay⟩ paz"
     },
     {
       "surface": "אמר",
-      "english": "⟨dice⟩"
+      "gloss": "⟨dice⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לרשעים",
-      "english": "⟨para⟩ los impíos"
+      "gloss": "⟨para⟩ los impíos"
     }
-  ],
-  "timestamp": "2026-06-10T02:51:52.362170897Z",
-  "model": "glm-4.5"
+  ]
 }

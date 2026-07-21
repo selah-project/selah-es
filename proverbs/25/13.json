@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "proverbs 25:13",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 672,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60190,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60862
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:47:36.468898744Z",
   "translation": "Como ⟨el⟩ frío de ⟨la⟩ nieve en ⟨el⟩ día de ⟨la⟩ siega, ⟨es⟩ un mensajero fiel para ⟨los que⟩ ⟨lo⟩ envían, y ⟨el⟩ alma de ⟨su⟩ señor ⟨la⟩ devuelve",
   "tokens": [
     {
       "surface": "כצנת",
-      "english": "⟨El⟩ frío",
+      "gloss": "⟨El⟩ frío",
       "rationale": "Hapax, traducción contextual"
     },
     {
       "surface": "שלג",
-      "english": "de ⟨la⟩ nieve",
+      "gloss": "de ⟨la⟩ nieve",
       "rationale": "nieve, término literal"
     },
     {
       "surface": "ביום",
-      "english": "en ⟨el⟩ día"
+      "gloss": "en ⟨el⟩ día"
     },
     {
       "surface": "קציר",
-      "english": "de ⟨la⟩ siega",
+      "gloss": "de ⟨la⟩ siega",
       "rationale": "siega, como tiempo de cosecha"
     },
     {
       "surface": "ציר",
-      "english": "⟨es⟩ un mensajero",
+      "gloss": "⟨es⟩ un mensajero",
       "rationale": "Hapax, traducción contextual como mensajero"
     },
     {
       "surface": "נאמן",
-      "english": "fiel",
+      "gloss": "fiel",
       "rationale": "fiel, de confianza"
     },
     {
       "surface": "לשלחיו",
-      "english": "para ⟨los que⟩ ⟨lo⟩ envían",
+      "gloss": "para ⟨los que⟩ ⟨lo⟩ envían",
       "rationale": "para sus enviadores"
     },
     {
       "surface": "ונפש",
-      "english": "y ⟨el⟩ alma",
+      "gloss": "y ⟨el⟩ alma",
       "rationale": "y el alma (nefesh)"
     },
     {
       "surface": "אדניו",
-      "english": "de ⟨su⟩ señor",
+      "gloss": "de ⟨su⟩ señor",
       "rationale": "de su señor\/amo"
     },
     {
       "surface": "ישיב",
-      "english": "⟨la⟩ devuelve",
+      "gloss": "⟨la⟩ devuelve",
       "rationale": "devuelve\/refreshes (del verbo shuv)"
     }
-  ],
-  "timestamp": "2026-06-10T01:47:36.468898744Z",
-  "model": "glm-4.5"
+  ]
 }

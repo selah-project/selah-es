@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 90,
   "ref": "psalms 119:90",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69751,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70096
-  },
+  "verse": 90,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:16.252711129Z",
   "translation": "To generation and ⟨the⟩ generation, Your emunah ⟨is⟩ established; ⟨You⟩ established ⟨the⟩ earth and it stands.",
   "tokens": [
     {
       "surface": "לדר",
-      "english": "To generation"
+      "gloss": "To generation"
     },
     {
       "surface": "ודר",
-      "english": "and ⟨the⟩ generation"
+      "gloss": "and ⟨the⟩ generation"
     },
     {
       "surface": "אמונתך",
-      "english": "Your emunah ⟨is⟩"
+      "gloss": "Your emunah ⟨is⟩"
     },
     {
       "surface": "כוננת",
-      "english": "established"
+      "gloss": "established"
     },
     {
       "surface": "ארץ",
-      "english": "⟨the⟩ earth"
+      "gloss": "⟨the⟩ earth"
     },
     {
       "surface": "ותעמד",
-      "english": "and it stands"
+      "gloss": "and it stands"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:16.252711129Z",
-  "model": "glm-4.5"
+  ]
 }

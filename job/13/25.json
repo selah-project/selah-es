@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 13:25",
   "book": "job",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27092,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27589
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:10.780826942Z",
   "translation": "¿A ⟨את⟩ una hoja aventada aterrorizarás? Y ⟨את⟩ al seco rastrojo perseguirás?",
   "tokens": [
     {
       "surface": "העלה",
-      "english": "¿A"
+      "gloss": "¿A"
     },
     {
       "surface": "נדף",
-      "english": "⟨una hoja aventada⟩"
+      "gloss": "⟨una hoja aventada⟩"
     },
     {
       "surface": "תערוץ",
-      "english": "aterrorizarás?"
+      "gloss": "aterrorizarás?"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "al seco rastrojo"
     },
     {
       "surface": "קש",
-      "english": "⟨al seco rastrojo⟩"
+      "gloss": "⟨al seco rastrojo⟩"
     },
     {
       "surface": "יבש",
-      "english": "seco"
+      "gloss": "seco"
     },
     {
       "surface": "תרדף",
-      "english": "perseguirás?"
+      "gloss": "perseguirás?"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:10.780826942Z",
-  "model": "glm-4.5"
+  ]
 }

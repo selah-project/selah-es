@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 35:5",
   "book": "job",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27048,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27375
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:13:32.039516230Z",
   "translation": "Mira ⟨a⟩ ⟨los⟩ cielos, y ve; y contempla ⟨las⟩ nubes, ⟨que son⟩ más altas que tú.",
   "tokens": [
     {
       "surface": "הבט",
-      "english": "Mira ⟨a⟩"
+      "gloss": "Mira ⟨a⟩"
     },
     {
       "surface": "שמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "וראה",
-      "english": "y ve"
+      "gloss": "y ve"
     },
     {
       "surface": "ושור",
-      "english": "y contempla ⟨las⟩"
+      "gloss": "y contempla ⟨las⟩"
     },
     {
       "surface": "שחקים",
-      "english": "nubes"
+      "gloss": "nubes"
     },
     {
       "surface": "גבהו",
-      "english": "⟨que son⟩ más altas"
+      "gloss": "⟨que son⟩ más altas"
     },
     {
       "surface": "ממך",
-      "english": "que tú"
+      "gloss": "que tú"
     }
-  ],
-  "timestamp": "2026-06-10T02:13:32.039516230Z",
-  "model": "glm-4.5"
+  ]
 }

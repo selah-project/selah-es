@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "genesis 31:44",
   "book": "genesis",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28525,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28909
-  },
+  "verse": 44,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:29:23.372623092Z",
   "translation": "Y ahora ven ⟨y⟩ ⟨lo⟩ cortemos en pacto yo y ⟨tú⟩ y ⟨será⟩ para testimonio entre mí y entre ti",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "Y ahora"
+      "gloss": "Y ahora"
     },
     {
       "surface": "לכה",
-      "english": "ven"
+      "gloss": "ven"
     },
     {
       "surface": "נכרתה",
-      "english": "⟨y⟩ ⟨lo⟩ cortemos"
+      "gloss": "⟨y⟩ ⟨lo⟩ cortemos"
     },
     {
       "surface": "ברית",
-      "english": "en pacto"
+      "gloss": "en pacto"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "ואתה",
-      "english": "y ⟨tú⟩"
+      "gloss": "y ⟨tú⟩"
     },
     {
       "surface": "והיה",
-      "english": "y ⟨será⟩"
+      "gloss": "y ⟨será⟩"
     },
     {
       "surface": "לעד",
-      "english": "para testimonio"
+      "gloss": "para testimonio"
     },
     {
       "surface": "ביני",
-      "english": "entre mí"
+      "gloss": "entre mí"
     },
     {
       "surface": "ובינך",
-      "english": "y entre ti"
+      "gloss": "y entre ti"
     }
-  ],
-  "timestamp": "2026-06-10T05:29:23.372623092Z",
-  "model": "glm-4.5"
+  ]
 }

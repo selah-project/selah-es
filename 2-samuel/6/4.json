@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-samuel 6:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 6,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:21:04.169054531Z",
+  "translation": "y ellos lo levantaron de ⟨la⟩ casa de Abinadab que ⟨estaba⟩ en Gabaa ⟨con⟩ Arón de Elohim, y su hermano iba delante dArón",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Y ellos lo levantaron"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de ⟨la⟩ casa"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "de Abinadab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "⟨estaba⟩ en Gabaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨con⟩"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arón"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "y su hermano"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "iba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "delante de"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "del arca"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el arca",
@@ -13,72 +68,6 @@
       "hebrew": "ארון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17297,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17726
-  },
-  "translation": "y ellos lo levantaron de ⟨la⟩ casa de Abinadab que ⟨estaba⟩ en Gabaa ⟨con⟩ Arón de Elohim, y su hermano iba delante dArón",
-  "tokens": [
-    {
-      "surface": "וישאהו",
-      "english": "Y ellos lo levantaron"
-    },
-    {
-      "surface": "מבית",
-      "english": "de ⟨la⟩ casa"
-    },
-    {
-      "surface": "אבינדב",
-      "english": "de Abinadab"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בגבעה",
-      "english": "⟨estaba⟩ en Gabaa"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨con⟩"
-    },
-    {
-      "surface": "ארון",
-      "english": "Arón"
-    },
-    {
-      "surface": "האלהים",
-      "english": "de Elohim"
-    },
-    {
-      "surface": "ואחיו",
-      "english": "y su hermano"
-    },
-    {
-      "surface": "הלך",
-      "english": "iba"
-    },
-    {
-      "surface": "לפני",
-      "english": "delante de"
-    },
-    {
-      "surface": "הארון",
-      "english": "del arca"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:21:04.169054531Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

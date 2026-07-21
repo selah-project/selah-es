@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-samuel 10:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 10,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:53:40.316478564Z",
+  "translation": "Y dijo el tío de Shaúl: ⟨את⟩, ⟨por favor⟩, dime qué Shmuel ⟨les⟩ dijo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "el tío de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "dime"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨por favor⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qué"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨les⟩"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -20,64 +67,6 @@
       "hebrew": "שמואל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16206,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16606
-  },
-  "translation": "Y dijo el tío de Shaúl: ⟨את⟩, ⟨por favor⟩, dime qué Shmuel ⟨les⟩ dijo.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "el tío de"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "הגידה",
-      "english": "dime"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨por favor⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "a mí"
-    },
-    {
-      "surface": "מה",
-      "english": "qué"
-    },
-    {
-      "surface": "אמר",
-      "english": "dijo"
-    },
-    {
-      "surface": "לכם",
-      "english": "⟨les⟩"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shmuel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:53:40.316478564Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

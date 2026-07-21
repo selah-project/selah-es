@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 94:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69893,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70185
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:12.921894831Z",
   "translation": "They pour out, they speak ⟨hard⟩ things; all workers of iniquity boast themselves",
   "tokens": [
     {
       "surface": "יביעו",
-      "english": "They pour out"
+      "gloss": "They pour out"
     },
     {
       "surface": "ידברו",
-      "english": "they speak"
+      "gloss": "they speak"
     },
     {
       "surface": "עתק",
-      "english": "⟨hard⟩"
+      "gloss": "⟨hard⟩"
     },
     {
       "surface": "יתאמרו",
-      "english": "boast themselves"
+      "gloss": "boast themselves"
     },
     {
       "surface": "כל",
-      "english": "all"
+      "gloss": "all"
     },
     {
       "surface": "פעלי",
-      "english": "workers of"
+      "gloss": "workers of"
     },
     {
       "surface": "און",
-      "english": "iniquity"
+      "gloss": "iniquity"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:12.921894831Z",
-  "model": "glm-4.5"
+  ]
 }

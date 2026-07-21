@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 1:14",
   "book": "job",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 678,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27504,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 28182
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:54:00.152592479Z",
   "translation": "Y un mensajero vino a Iyov y ⟨dijo⟩: ⟨Los⟩ bueyes ⟨estaban⟩ arando y ⟨las⟩ asnas paciendo ⟨junto a⟩ ellas ⟨en⟩ sus manos",
   "tokens": [
     {
       "surface": "וּ\/מַלְאָ֛ךְ",
-      "english": "Y un mensajero"
+      "gloss": "Y un mensajero"
     },
     {
       "surface": "בָּ֥א",
-      "english": "vino"
+      "gloss": "vino"
     },
     {
       "surface": "אֶל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "אִיּ֖וֹב",
-      "english": "Iyov"
+      "gloss": "Iyov"
     },
     {
       "surface": "וַ\/יֹּאמַ֑ר",
-      "english": "y ⟨dijo⟩"
+      "gloss": "y ⟨dijo⟩"
     },
     {
       "surface": "הַ\/בָּקָר֙",
-      "english": "⟨Los⟩ bueyes"
+      "gloss": "⟨Los⟩ bueyes"
     },
     {
       "surface": "הָי֣וּ",
-      "english": "⟨estaban⟩"
+      "gloss": "⟨estaban⟩"
     },
     {
       "surface": "חֹֽרְשׁ֔וֹת",
-      "english": "arando"
+      "gloss": "arando"
     },
     {
       "surface": "וְ\/הָ\/אֲתֹנ֖וֹת",
-      "english": "y ⟨las⟩ asnas"
+      "gloss": "y ⟨las⟩ asnas"
     },
     {
       "surface": "רֹע֥וֹת",
-      "english": "paciendo"
+      "gloss": "paciendo"
     },
     {
       "surface": "עַל",
-      "english": "⟨junto a⟩"
+      "gloss": "⟨junto a⟩"
     },
     {
       "surface": "יְדֵי\/הֶֽם",
-      "english": "ellas ⟨en⟩ sus manos"
+      "gloss": "ellas ⟨en⟩ sus manos"
     }
-  ],
-  "timestamp": "2026-06-10T01:54:00.152592479Z",
-  "model": "glm-4.5"
+  ]
 }

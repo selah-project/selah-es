@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 107:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69806,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70366
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:53:55.602829004Z",
   "translation": "Él ⟨los⟩ sacó de ⟨la⟩ oscuridad y ⟨la⟩ sombra de muerte, y sus ataduras ⟨las⟩ desgarró.",
   "tokens": [
     {
       "surface": "יוציאם",
-      "english": "Él ⟨los⟩ sacó",
+      "gloss": "Él ⟨los⟩ sacó",
       "rationale": "verbo hiphil causativo 3ms con sufijo 3mp: 'él los hizo salir'"
     },
     {
       "surface": "מחשך",
-      "english": "de ⟨la⟩ oscuridad",
+      "gloss": "de ⟨la⟩ oscuridad",
       "rationale": "preposición + sustantivo: 'de oscuridad' (sin artículo en hebreo)"
     },
     {
       "surface": "וצלמות",
-      "english": "y ⟨la⟩ sombra de muerte",
+      "gloss": "y ⟨la⟩ sombra de muerte",
       "rationale": "conjunción + construcción genitiva: 'y sombra de muerte'"
     },
     {
       "surface": "ומוסרותיהם",
-      "english": "y sus ataduras",
+      "gloss": "y sus ataduras",
       "rationale": "conjunción + sustantivo + sufijo posesivo 3mp: 'y sus ataduras'"
     },
     {
       "surface": "ינתק",
-      "english": "⟨las⟩ desgarró",
+      "gloss": "⟨las⟩ desgarró",
       "rationale": "verbo qal 3ms: 'él desgarró' (implícito el objeto 'ataduras')"
     }
-  ],
-  "timestamp": "2026-06-09T23:53:55.602829004Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 26:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 718,
-    "prompt_tokens": 69789,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70507
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:19.707802732Z",
   "translation": "Pero yo en mi integridad caminaré; redímeme, y sé misericordioso conmigo.",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "Pero yo",
+      "gloss": "Pero yo",
       "gv": 67,
       "rationale": "vav consecutivo + pronombre de 1ª persona sing. para contraste emphático"
     },
     {
       "surface": "בתמי",
-      "english": "en mi integridad",
+      "gloss": "en mi integridad",
       "gv": 452,
       "rationale": "preposición b + sustantivo tumá con sufijo de 1ª persona sing."
     },
     {
       "surface": "אלך",
-      "english": "caminaré",
+      "gloss": "caminaré",
       "gv": 51,
       "rationale": "verbo en imperfecto con vav consecutivo, indicando acción futura en secuencia"
     },
     {
       "surface": "פדני",
-      "english": "redímeme",
+      "gloss": "redímeme",
       "gv": 144,
       "rationale": "imperativo de padá con sufijo de 1ª persona sing.; solicitación de rescate\/liberación"
     },
     {
       "surface": "וחנני",
-      "english": "y sé misericordioso conmigo",
+      "gloss": "y sé misericordioso conmigo",
       "gv": 124,
       "rationale": "imperativo de janán con sufijo de 1ª persona sing.; petición de favor\/gracia"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:19.707802732Z",
-  "model": "glm-4.5"
+  ]
 }

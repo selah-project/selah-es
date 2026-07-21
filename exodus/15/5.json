@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "exodus 15:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 15,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:42:37.726524031Z",
+  "translation": "Los Tehoms los cubrieron; descendieron en ⟨las⟩ profundidades como ⟨una⟩ piedra.",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "Los Tehoms"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "los cubrieron"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "descendieron"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "en ⟨las⟩ profundidades"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "como"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "⟨una⟩ piedra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "abismo",
@@ -13,48 +44,6 @@
       "hebrew": "תהום"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16389,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 16697
-  },
-  "translation": "Los Tehoms los cubrieron; descendieron en ⟨las⟩ profundidades como ⟨una⟩ piedra.",
-  "tokens": [
-    {
-      "surface": "תהמת",
-      "english": "Los Tehoms"
-    },
-    {
-      "surface": "יכסימו",
-      "english": "los cubrieron"
-    },
-    {
-      "surface": "ירדו",
-      "english": "descendieron"
-    },
-    {
-      "surface": "במצולת",
-      "english": "en ⟨las⟩ profundidades"
-    },
-    {
-      "surface": "כמו",
-      "english": "como"
-    },
-    {
-      "surface": "אבן",
-      "english": "⟨una⟩ piedra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:42:37.726524031Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

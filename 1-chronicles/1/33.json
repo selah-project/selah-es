@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "1-chronicles 1:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 1,
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:27:01.876726652Z",
+  "translation": "Y los hijos de Midyán: Efa, ⟨el⟩ Efer, Janoc, Abida y Eldaá; todos estos ⟨son⟩ los hijos de Keturá.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Y los hijos"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "de Midyán"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "Efa"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "⟨el⟩ Efer"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "Janoc"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "Abida"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "y Eldaá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "de Keturá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Madián",
@@ -13,68 +64,6 @@
       "hebrew": "מדין"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57110,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57503
-  },
-  "translation": "Y los hijos de Midyán: Efa, ⟨el⟩ Efer, Janoc, Abida y Eldaá; todos estos ⟨son⟩ los hijos de Keturá.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "Y los hijos"
-    },
-    {
-      "surface": "מדין",
-      "english": "de Midyán"
-    },
-    {
-      "surface": "עיפה",
-      "english": "Efa"
-    },
-    {
-      "surface": "ועפר",
-      "english": "⟨el⟩ Efer"
-    },
-    {
-      "surface": "וחנוך",
-      "english": "Janoc"
-    },
-    {
-      "surface": "ואבידע",
-      "english": "Abida"
-    },
-    {
-      "surface": "ואלדעה",
-      "english": "y Eldaá"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "אלה",
-      "english": "estos"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "קטורה",
-      "english": "de Keturá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:27:01.876726652Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

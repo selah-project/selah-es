@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "lamentations 3:16",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 360,
-    "prompt_tokens": 38960,
-    "prompt_tokens_details": {
-      "cached_tokens": 38144
-    },
-    "total_tokens": 39320
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:30:55.717501786Z",
   "translation": "Él también quebró mis dientes con grava, ⟨me⟩ hizo revolcar en ceniza",
   "tokens": [
     {
       "surface": "ויגרס",
-      "english": "Y quebró"
+      "gloss": "Y quebró"
     },
     {
       "surface": "בחצץ",
-      "english": "con grava"
+      "gloss": "con grava"
     },
     {
       "surface": "שני",
-      "english": "mis dientes"
+      "gloss": "mis dientes"
     },
     {
       "surface": "הכפישני",
-      "english": "hizo revolcar ⟨me⟩"
+      "gloss": "hizo revolcar ⟨me⟩"
     },
     {
       "surface": "באפר",
-      "english": "en ceniza"
+      "gloss": "en ceniza"
     }
-  ],
-  "timestamp": "2026-07-16T22:30:55.717501786Z",
-  "model": "glm-4.5"
+  ]
 }

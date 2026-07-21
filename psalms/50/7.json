@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 50:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 523,
-    "prompt_tokens": 70234,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70757
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:34.001191885Z",
   "translation": "Oye, pueblo mío, y hablaré ⟨yo⟩; Israel, y ⟨yo⟩ testificaré contra ti: Elohim, tu Elohim, ⟨soy⟩ yo.",
   "tokens": [
     {
       "surface": "שמעה",
-      "english": "Oye"
+      "gloss": "Oye"
     },
     {
       "surface": "עמי",
-      "english": "pueblo mío"
+      "gloss": "pueblo mío"
     },
     {
       "surface": "ואדברה",
-      "english": "y hablaré ⟨yo⟩"
+      "gloss": "y hablaré ⟨yo⟩"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "ואעידה",
-      "english": "y ⟨yo⟩ testificaré"
+      "gloss": "y ⟨yo⟩ testificaré"
     },
     {
       "surface": "בך",
-      "english": "contra ti"
+      "gloss": "contra ti"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אלהיך",
-      "english": "tu Elohim"
+      "gloss": "tu Elohim"
     },
     {
       "surface": "אנכי",
-      "english": "⟨soy⟩ yo"
+      "gloss": "⟨soy⟩ yo"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:34.001191885Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 47:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69868,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70226
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:19.883341956Z",
   "translation": "⟨for⟩ Elohim ⟨is⟩ King de toda ⟨the⟩ tierra: cantad ⟨con⟩ inteligencia.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "⟨For⟩"
+      "gloss": "⟨For⟩"
     },
     {
       "surface": "מלך",
-      "english": "King"
+      "gloss": "King"
     },
     {
       "surface": "כל",
-      "english": "de toda"
+      "gloss": "de toda"
     },
     {
       "surface": "הארץ",
-      "english": "⟨the⟩ tierra"
+      "gloss": "⟨the⟩ tierra"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "זמרו",
-      "english": "cantad"
+      "gloss": "cantad"
     },
     {
       "surface": "משכיל",
-      "english": "⟨con⟩ inteligencia"
+      "gloss": "⟨con⟩ inteligencia"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:19.883341956Z",
-  "model": "glm-4.5"
+  ]
 }

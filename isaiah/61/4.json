@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 61:4",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 61,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26568,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27004
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:59:01.901508285Z",
   "translation": "Y construirán las ruinas ⟨de⟩ antigüedad ⟨las⟩ desolaciones ⟨de⟩ primer orden restaurarán y renovarán ⟨las⟩ ciudades ⟨de⟩ devastación ⟨las⟩ desolaciones ⟨de⟩ generación y generación",
   "tokens": [
     {
       "surface": "ובנו",
-      "english": "Y construirán"
+      "gloss": "Y construirán"
     },
     {
       "surface": "חרבות",
-      "english": "las ruinas"
+      "gloss": "las ruinas"
     },
     {
       "surface": "עולם",
-      "english": "⟨de⟩ antigüedad"
+      "gloss": "⟨de⟩ antigüedad"
     },
     {
       "surface": "שממות",
-      "english": "⟨las⟩ desolaciones"
+      "gloss": "⟨las⟩ desolaciones"
     },
     {
       "surface": "ראשנים",
-      "english": "⟨de⟩ primer orden"
+      "gloss": "⟨de⟩ primer orden"
     },
     {
       "surface": "יקוממו",
-      "english": "restaurarán"
+      "gloss": "restaurarán"
     },
     {
       "surface": "וחדשו",
-      "english": "y renovarán"
+      "gloss": "y renovarán"
     },
     {
       "surface": "ערי",
-      "english": "⟨las⟩ ciudades"
+      "gloss": "⟨las⟩ ciudades"
     },
     {
       "surface": "חרב",
-      "english": "⟨de⟩ devastación"
+      "gloss": "⟨de⟩ devastación"
     },
     {
       "surface": "שממות",
-      "english": "⟨las⟩ desolaciones"
+      "gloss": "⟨las⟩ desolaciones"
     },
     {
       "surface": "דור",
-      "english": "⟨de⟩ generación"
+      "gloss": "⟨de⟩ generación"
     },
     {
       "surface": "ודור",
-      "english": "y generación"
+      "gloss": "y generación"
     }
-  ],
-  "timestamp": "2026-06-10T02:59:01.901508285Z",
-  "model": "glm-4.5"
+  ]
 }

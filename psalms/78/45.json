@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "psalms 78:45",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 519,
-    "prompt_tokens": 69897,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70416
-  },
+  "verse": 45,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:34:53.949412357Z",
   "translation": "Envió ⟨entre⟩ ellos ⟨el⟩ enjambre, y ⟨este⟩ los devoró; y ⟨la⟩ rana, y ⟨esta⟩ los destruyó",
   "tokens": [
     {
       "surface": "ישלח",
-      "english": "Envió"
+      "gloss": "Envió"
     },
     {
       "surface": "בהם",
-      "english": "⟨entre⟩ ellos",
+      "gloss": "⟨entre⟩ ellos",
       "marks": "el enjambre, y la rana"
     },
     {
       "surface": "ערב",
-      "english": "⟨el⟩ enjambre"
+      "gloss": "⟨el⟩ enjambre"
     },
     {
       "surface": "ויאכלם",
-      "english": "y ⟨este⟩ los devoró"
+      "gloss": "y ⟨este⟩ los devoró"
     },
     {
       "surface": "וצפרדע",
-      "english": "y ⟨la⟩ rana"
+      "gloss": "y ⟨la⟩ rana"
     },
     {
       "surface": "ותשחיתם",
-      "english": "y ⟨esta⟩ los destruyó"
+      "gloss": "y ⟨esta⟩ los destruyó"
     }
-  ],
-  "timestamp": "2026-07-16T23:34:53.949412357Z",
-  "model": "glm-4.5"
+  ]
 }

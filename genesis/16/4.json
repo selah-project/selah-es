@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 16:4",
   "book": "genesis",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28565,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28996
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:13:21.026808621Z",
   "translation": "Y él fue ⟨a⟩ Hagar y ella concibió y vio que ⟨estaba⟩ embarazada y su señora fue despreciada en sus ojos",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "Y él fue"
+      "gloss": "Y él fue"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "הגר",
-      "english": "Hagar"
+      "gloss": "Hagar"
     },
     {
       "surface": "ותהר",
-      "english": "y ella concibió"
+      "gloss": "y ella concibió"
     },
     {
       "surface": "ותרא",
-      "english": "y vio"
+      "gloss": "y vio"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "הרתה",
-      "english": "⟨estaba⟩ embarazada"
+      "gloss": "⟨estaba⟩ embarazada"
     },
     {
       "surface": "ותקל",
-      "english": "y su señora fue despreciada"
+      "gloss": "y su señora fue despreciada"
     },
     {
       "surface": "גברתה",
-      "english": "señora"
+      "gloss": "señora"
     },
     {
       "surface": "בעיניה",
-      "english": "en sus ojos"
+      "gloss": "en sus ojos"
     }
-  ],
-  "timestamp": "2026-06-10T05:13:21.026808621Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 68:30",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69952,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70441
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:10.873782248Z",
   "translation": "From your palace upon Jerusalem, to you ⟨shall⟩ bring gifts kings.",
   "tokens": [
     {
       "surface": "מהיכלך",
-      "english": "From your palace",
+      "gloss": "From your palace",
       "lemma": "היכל",
       "gv": 125
     },
     {
       "surface": "על",
-      "english": "upon",
+      "gloss": "upon",
       "lemma": "על",
       "gv": 100
     },
     {
       "surface": "ירושלם",
-      "english": "Jerusalem",
+      "gloss": "Jerusalem",
       "lemma": "ירושלם",
       "gv": 586
     },
     {
       "surface": "לך",
-      "english": "to you",
+      "gloss": "to you",
       "lemma": "ל",
       "gv": 50
     },
     {
       "surface": "יובילו",
-      "english": "⟨shall⟩ bring",
+      "gloss": "⟨shall⟩ bring",
       "lemma": "יָבַל",
       "gv": 64
     },
     {
       "surface": "מלכים",
-      "english": "gifts kings",
+      "gloss": "gifts kings",
       "lemma": "מֶלֶךְ",
       "gv": 140
     },
     {
       "surface": "שי",
-      "english": "gifts",
+      "gloss": "gifts",
       "lemma": "שַׁי",
       "gv": 310
     }
-  ],
-  "timestamp": "2026-06-09T23:31:10.873782248Z",
-  "model": "glm-4.5"
+  ]
 }

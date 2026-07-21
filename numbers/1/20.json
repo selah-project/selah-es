@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "numbers 1:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:06:33.505232739Z",
+  "translation": "Y los hijos de Reuvén, el primogénito de Yisrael, ⟨sus⟩ descendientes ⟨por⟩ sus familias, ⟨por⟩ las casas de sus padres, ⟨en⟩ número de nombres, ⟨por⟩ sus cabezas, todo varón de veinte años arriba, todo el que salía al ejército",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Y"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "de Reuvén"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "el primogénito"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "⟨sus⟩ descendientes"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨por⟩ sus familias"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨por⟩ las casas"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de sus padres"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "⟨en⟩ número"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "de nombres"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "⟨por⟩ sus cabezas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "varón"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "veinte"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "arriba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo el que"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "salía"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "al ejército"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,108 +104,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 730,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19035,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 19765
-  },
-  "translation": "Y los hijos de Reuvén, el primogénito de Yisrael, ⟨sus⟩ descendientes ⟨por⟩ sus familias, ⟨por⟩ las casas de sus padres, ⟨en⟩ número de nombres, ⟨por⟩ sus cabezas, todo varón de veinte años arriba, todo el que salía al ejército",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "Y"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "ראובן",
-      "english": "de Reuvén"
-    },
-    {
-      "surface": "בכר",
-      "english": "el primogénito"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "תולדתם",
-      "english": "⟨sus⟩ descendientes"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨por⟩ sus familias"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨por⟩ las casas"
-    },
-    {
-      "surface": "אבתם",
-      "english": "de sus padres"
-    },
-    {
-      "surface": "במספר",
-      "english": "⟨en⟩ número"
-    },
-    {
-      "surface": "שמות",
-      "english": "de nombres"
-    },
-    {
-      "surface": "לגלגלתם",
-      "english": "⟨por⟩ sus cabezas"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "זכר",
-      "english": "varón"
-    },
-    {
-      "surface": "מבן",
-      "english": "de"
-    },
-    {
-      "surface": "עשרים",
-      "english": "veinte"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "ומעלה",
-      "english": "arriba"
-    },
-    {
-      "surface": "כל",
-      "english": "todo el que"
-    },
-    {
-      "surface": "יצא",
-      "english": "salía"
-    },
-    {
-      "surface": "צבא",
-      "english": "al ejército"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:06:33.505232739Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

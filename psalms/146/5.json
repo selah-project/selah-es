@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 146:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69963,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70467
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:11:32.637907740Z",
   "translation": "¡Feliz ⟨es⟩ ⟨el⟩ que ⟨tiene⟩ ⟨a⟩ Elohim de Yaakov por ⟨su⟩ ayuda, cuya esperanza ⟨está⟩ en YHWH ⟨su⟩ Elohim",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Feliz"
+      "gloss": "¡Feliz"
     },
     {
       "surface": "שאל",
-      "english": "⟨el⟩ que ⟨tiene⟩ ⟨a⟩"
+      "gloss": "⟨el⟩ que ⟨tiene⟩ ⟨a⟩"
     },
     {
       "surface": "יעקב",
-      "english": "Elohim de Yaakov"
+      "gloss": "Elohim de Yaakov"
     },
     {
       "surface": "בעזרו",
-      "english": "por ⟨su⟩ ayuda"
+      "gloss": "por ⟨su⟩ ayuda"
     },
     {
       "surface": "שברו",
-      "english": "cuya esperanza ⟨está⟩"
+      "gloss": "cuya esperanza ⟨está⟩"
     },
     {
       "surface": "על",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיו",
-      "english": "⟨su⟩ Elohim"
+      "gloss": "⟨su⟩ Elohim"
     }
-  ],
-  "timestamp": "2026-06-10T00:11:32.637907740Z",
-  "model": "glm-4.5"
+  ]
 }

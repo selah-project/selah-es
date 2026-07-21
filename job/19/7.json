@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 19:7",
   "book": "job",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27144,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27637
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:28.329121819Z",
   "translation": "¡Mira! ⟨yo⟩ clamo violencia y ⟨no⟩ ⟨hay⟩ respuesta; ⟨yo⟩ clamo ⟨pidiendo auxilio⟩ y ⟨no⟩ ⟨hay⟩ juicio",
   "tokens": [
     {
       "surface": "הן",
-      "english": "¡Mira!"
+      "gloss": "¡Mira!"
     },
     {
       "surface": "אצעק",
-      "english": "⟨yo⟩ clamo"
+      "gloss": "⟨yo⟩ clamo"
     },
     {
       "surface": "חמס",
-      "english": "violencia"
+      "gloss": "violencia"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "אענה",
-      "english": "⟨hay⟩ respuesta"
+      "gloss": "⟨hay⟩ respuesta"
     },
     {
       "surface": "אשוע",
-      "english": "⟨yo⟩ clamo ⟨pidiendo auxilio⟩"
+      "gloss": "⟨yo⟩ clamo ⟨pidiendo auxilio⟩"
     },
     {
       "surface": "ואין",
-      "english": "y ⟨no⟩ ⟨hay⟩"
+      "gloss": "y ⟨no⟩ ⟨hay⟩"
     },
     {
       "surface": "משפט",
-      "english": "juicio"
+      "gloss": "juicio"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:28.329121819Z",
-  "model": "glm-4.5"
+  ]
 }

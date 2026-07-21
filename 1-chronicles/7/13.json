@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-chronicles 7:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 7,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:34:36.490962749Z",
+  "translation": "Hijos de Naftalí: Yajtsiel, y Guní, y Yétser, y Shalún; hijos ⟨de⟩ Bilhá.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Hijos"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalí"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "Yajtsiel"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "y Guní"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "y Yétser"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "y Shalún"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Neftalí",
@@ -13,56 +52,6 @@
       "hebrew": "נפתלי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56844,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57173
-  },
-  "translation": "Hijos de Naftalí: Yajtsiel, y Guní, y Yétser, y Shalún; hijos ⟨de⟩ Bilhá.",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Hijos"
-    },
-    {
-      "surface": "נפתלי",
-      "english": "Naftalí"
-    },
-    {
-      "surface": "יחציאל",
-      "english": "Yajtsiel"
-    },
-    {
-      "surface": "וגוני",
-      "english": "y Guní"
-    },
-    {
-      "surface": "ויצר",
-      "english": "y Yétser"
-    },
-    {
-      "surface": "ושלום",
-      "english": "y Shalún"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos"
-    },
-    {
-      "surface": "בלהה",
-      "english": "Bilhá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:34:36.490962749Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

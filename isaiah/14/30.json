@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "isaiah 14:30",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 705,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26480,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27185
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:30:32.150256847Z",
   "translation": "Y se alegrarán los primogénitos ⟨de los⟩ pobres, y ⟨los⟩ menesterosos ⟨en⟩ seguridad se recostarán; y ⟨yo⟩ haré morir ⟨con⟩ hambre tu raíz, y tu remanente ⟨lo⟩ matará.",
   "tokens": [
     {
       "surface": "ורעו",
-      "english": "Y se alegrarán"
+      "gloss": "Y se alegrarán"
     },
     {
       "surface": "בכורי",
-      "english": "los primogénitos"
+      "gloss": "los primogénitos"
     },
     {
       "surface": "דלים",
-      "english": "de los pobres"
+      "gloss": "de los pobres"
     },
     {
       "surface": "ואביונים",
-      "english": "y ⟨los⟩ menesterosos"
+      "gloss": "y ⟨los⟩ menesterosos"
     },
     {
       "surface": "לבטח",
-      "english": "⟨en⟩ seguridad"
+      "gloss": "⟨en⟩ seguridad"
     },
     {
       "surface": "ירבצו",
-      "english": "se recostarán"
+      "gloss": "se recostarán"
     },
     {
       "surface": "והמתי",
-      "english": "y ⟨yo⟩ haré morir"
+      "gloss": "y ⟨yo⟩ haré morir"
     },
     {
       "surface": "ברעב",
-      "english": "⟨con⟩ hambre"
+      "gloss": "⟨con⟩ hambre"
     },
     {
       "surface": "שרשך",
-      "english": "tu raíz"
+      "gloss": "tu raíz"
     },
     {
       "surface": "ושאריתך",
-      "english": "y tu remanente"
+      "gloss": "y tu remanente"
     },
     {
       "surface": "יהרג",
-      "english": "⟨lo⟩ matará"
+      "gloss": "⟨lo⟩ matará"
     }
-  ],
-  "timestamp": "2026-06-10T02:30:32.150256847Z",
-  "model": "glm-4.5"
+  ]
 }

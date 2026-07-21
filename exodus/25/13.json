@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "exodus 25:13",
   "book": "exodus",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 360,
-    "prompt_tokens": 24031,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24391
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:19:40.002188533Z",
   "translation": "Y harás las barras de madera de acacia y cubrirás ⟨את⟩ ellas con oro",
   "tokens": [
     {
       "surface": "ועשית",
-      "english": "Y harás"
+      "gloss": "Y harás"
     },
     {
       "surface": "בדי",
-      "english": "las barras"
+      "gloss": "las barras"
     },
     {
       "surface": "עצי",
-      "english": "de madera"
+      "gloss": "de madera"
     },
     {
       "surface": "שטים",
-      "english": "de acacia"
+      "gloss": "de acacia"
     },
     {
       "surface": "וצפית",
-      "english": "y cubrirás"
+      "gloss": "y cubrirás"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ellas"
     },
     {
       "surface": "זהב",
-      "english": "con oro"
+      "gloss": "con oro"
     }
-  ],
-  "timestamp": "2026-07-16T20:19:40.002188533Z",
-  "model": "glm-4.5"
+  ]
 }

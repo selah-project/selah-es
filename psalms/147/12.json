@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 147:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 457,
-    "prompt_tokens": 70105,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70562
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:02.927281126Z",
   "translation": "¡Alaba, ⟨oh⟩ Yerushalayim, ⟨a⟩ YHWH! ¡Alaba ⟨a⟩ tu Elohim, ⟨oh⟩ Tzión!",
   "tokens": [
     {
       "surface": "שבחי",
-      "english": "¡Alaba"
+      "gloss": "¡Alaba"
     },
     {
       "surface": "ירושלם",
-      "english": "⟨oh⟩ Yerushalayim"
+      "gloss": "⟨oh⟩ Yerushalayim"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הללי",
-      "english": "¡Alaba"
+      "gloss": "¡Alaba"
     },
     {
       "surface": "אלהיך",
-      "english": "⟨a⟩ tu Elohim"
+      "gloss": "⟨a⟩ tu Elohim"
     },
     {
       "surface": "ציון",
-      "english": "⟨oh⟩ Tzión"
+      "gloss": "⟨oh⟩ Tzión"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:02.927281126Z",
-  "model": "glm-4.5"
+  ]
 }

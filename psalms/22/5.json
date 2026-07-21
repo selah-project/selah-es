@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 22:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 236,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69784,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70020
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:06:47.050394359Z",
   "translation": "En ti confiaron nuestros padres; confiaron ⟨y⟩ tú los libraste",
   "tokens": [
     {
       "surface": "בך",
-      "english": "En ti"
+      "gloss": "En ti"
     },
     {
       "surface": "בטחו",
-      "english": "confiaron"
+      "gloss": "confiaron"
     },
     {
       "surface": "אבתינו",
-      "english": "nuestros padres"
+      "gloss": "nuestros padres"
     },
     {
       "surface": "בטחו",
-      "english": "confiaron"
+      "gloss": "confiaron"
     },
     {
       "surface": "ותפלטמו",
-      "english": "⟨y⟩ tú los libraste"
+      "gloss": "⟨y⟩ tú los libraste"
     }
-  ],
-  "timestamp": "2026-06-09T23:06:47.050394359Z",
-  "model": "glm-4.5"
+  ]
 }

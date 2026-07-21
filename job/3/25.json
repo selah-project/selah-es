@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 3:25",
   "book": "job",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27115,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27440
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:54:55.877633744Z",
   "translation": "Porque ⟨el⟩ temor que temí me ha venido ⟨את⟩ y lo que temió ha llegado a mí",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "פחד",
-      "english": "⟨el⟩ temor"
+      "gloss": "⟨el⟩ temor"
     },
     {
       "surface": "פחדתי",
-      "english": "que temí"
+      "gloss": "que temí"
     },
     {
       "surface": "ויאתיני",
-      "english": "me ha venido"
+      "gloss": "me ha venido"
     },
     {
       "surface": "ואשר",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "יגרתי",
-      "english": "lo que temió"
+      "gloss": "lo que temió"
     },
     {
       "surface": "יבא",
-      "english": "ha llegado"
+      "gloss": "ha llegado"
     },
     {
       "surface": "לי",
-      "english": "a mí"
+      "gloss": "a mí"
     }
-  ],
-  "timestamp": "2026-06-10T01:54:55.877633744Z",
-  "model": "glm-4.5"
+  ]
 }

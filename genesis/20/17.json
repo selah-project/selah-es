@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 20:17",
   "book": "genesis",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28944,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29376
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:17:47.717252764Z",
   "translation": "Y Abraham oró a Elohim y Elohim sanó ⟨את⟩ Abimélec y ⟨את⟩ su esposa y ⟨a⟩ sus siervas y dieron a luz",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "english": "Y oró"
+      "gloss": "Y oró"
     },
     {
       "surface": "אברהם",
-      "english": "Abraham"
+      "gloss": "Abraham"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "האלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "וירפא",
-      "english": "y sanó"
+      "gloss": "y sanó"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Abimélec"
     },
     {
       "surface": "אבימלך",
-      "english": "Abimélec"
+      "gloss": "Abimélec"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "su esposa"
     },
     {
       "surface": "אשתו",
-      "english": "su esposa"
+      "gloss": "su esposa"
     },
     {
       "surface": "ואמהתיו",
-      "english": "y ⟨a⟩ sus siervas"
+      "gloss": "y ⟨a⟩ sus siervas"
     },
     {
       "surface": "וילדו",
-      "english": "y dieron a luz"
+      "gloss": "y dieron a luz"
     }
-  ],
-  "timestamp": "2026-06-10T05:17:47.717252764Z",
-  "model": "glm-4.5"
+  ]
 }

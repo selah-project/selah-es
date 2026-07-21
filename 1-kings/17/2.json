@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-kings 17:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 298,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61697,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 61995
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:09:25.018957266Z",
   "translation": "Y sucedió ⟨el⟩ palabr ⟨de⟩ YHWH ⟨fue⟩ a él diciendo",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y sucedió",
+      "gloss": "Y sucedió",
       "marks": ""
     },
     {
       "surface": "דבר",
-      "english": "⟨el⟩ palabr ⟨de⟩",
+      "gloss": "⟨el⟩ palabr ⟨de⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "marks": ""
     },
     {
       "surface": "אליו",
-      "english": "⟨fue⟩ a él",
+      "gloss": "⟨fue⟩ a él",
       "marks": ""
     },
     {
       "surface": "לאמר",
-      "english": "diciendo",
+      "gloss": "diciendo",
       "marks": ""
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:09:25.018957266Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

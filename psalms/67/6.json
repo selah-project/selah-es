@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 67:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 67,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69858,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70109
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:03.794407741Z",
   "translation": "⟨Las⟩ naciones te alabarán, Elohim; ⟨las⟩ naciones te alabarán, todas ⟨de ellas⟩.",
   "tokens": [
     {
       "surface": "יודוך",
-      "english": "Te alabarán"
+      "gloss": "Te alabarán"
     },
     {
       "surface": "עמים",
-      "english": "⟨Las⟩ naciones"
+      "gloss": "⟨Las⟩ naciones"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יודוך",
-      "english": "te alabarán"
+      "gloss": "te alabarán"
     },
     {
       "surface": "עמים",
-      "english": "⟨las⟩ naciones"
+      "gloss": "⟨las⟩ naciones"
     },
     {
       "surface": "כלם",
-      "english": "todas ⟨de ellas⟩"
+      "gloss": "todas ⟨de ellas⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:03.794407741Z",
-  "model": "glm-4.5"
+  ]
 }

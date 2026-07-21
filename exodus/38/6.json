@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 38:6",
   "book": "exodus",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 383,
-    "prompt_tokens": 24144,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24527
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:27:42.409331654Z",
   "translation": "Y él hizo ⟨los⟩ barriles de madera de acacia, y los revistió con cobre",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "Y él hizo"
+      "gloss": "Y él hizo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הבדים"
     },
     {
       "surface": "הבדים",
-      "english": "⟨los⟩ barriles"
+      "gloss": "⟨los⟩ barriles"
     },
     {
       "surface": "עצי",
-      "english": "de madera"
+      "gloss": "de madera"
     },
     {
       "surface": "שטים",
-      "english": "de acacia"
+      "gloss": "de acacia"
     },
     {
       "surface": "ויצף",
-      "english": "y los revistió"
+      "gloss": "y los revistió"
     },
     {
       "surface": "אתם",
-      "english": "⟨los⟩",
+      "gloss": "⟨los⟩",
       "marks": "נחשת"
     },
     {
       "surface": "נחשת",
-      "english": "con cobre"
+      "gloss": "con cobre"
     }
-  ],
-  "timestamp": "2026-07-16T20:27:42.409331654Z",
-  "model": "glm-4.5"
+  ]
 }

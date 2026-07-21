@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 30:10",
   "book": "job",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 441,
-    "prompt_tokens": 27133,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27574
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:00:24.317924965Z",
   "translation": "Me aborrecen, se alejan ⟨lejos⟩ de mí, y ⟨no⟩ se contienen de escupir ⟨en⟩ ⟨mi⟩ rostro.",
   "tokens": [
     {
       "surface": "תעבוני",
-      "english": "Me aborrecen"
+      "gloss": "Me aborrecen"
     },
     {
       "surface": "רחקו",
-      "english": "se alejan ⟨lejos⟩"
+      "gloss": "se alejan ⟨lejos⟩"
     },
     {
       "surface": "מני",
-      "english": "de mí"
+      "gloss": "de mí"
     },
     {
       "surface": "ומפני",
-      "english": "y ⟨en⟩ ⟨mi⟩ rostro"
+      "gloss": "y ⟨en⟩ ⟨mi⟩ rostro"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "חשכו",
-      "english": "se contienen"
+      "gloss": "se contienen"
     },
     {
       "surface": "רק",
-      "english": "escupir"
+      "gloss": "escupir"
     }
-  ],
-  "timestamp": "2026-07-16T22:00:24.317924965Z",
-  "model": "glm-4.5"
+  ]
 }

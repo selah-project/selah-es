@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "judges 12:12",
   "book": "judges",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23155,
-    "prompt_tokens_details": {
-      "cached_tokens": 22160
-    },
-    "total_tokens": 23468
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:58:03.864634849Z",
   "translation": "Y murió Elon ⟨el⟩ Zebulonita, y ⟨fue⟩ sepultado en Ayalón en ⟨la⟩ tierra de Zevulún.",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "Y murió"
+      "gloss": "Y murió"
     },
     {
       "surface": "אלון",
-      "english": "Elon"
+      "gloss": "Elon"
     },
     {
       "surface": "הזבולני",
-      "english": "⟨el⟩ Zebulonita"
+      "gloss": "⟨el⟩ Zebulonita"
     },
     {
       "surface": "ויקבר",
-      "english": "y ⟨fue⟩ sepultado"
+      "gloss": "y ⟨fue⟩ sepultado"
     },
     {
       "surface": "באילון",
-      "english": "en Ayalón"
+      "gloss": "en Ayalón"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     },
     {
       "surface": "זבולן",
-      "english": "de Zevulún"
+      "gloss": "de Zevulún"
     }
-  ],
-  "timestamp": "2026-06-10T00:58:03.864634849Z",
-  "model": "glm-4.5"
+  ]
 }

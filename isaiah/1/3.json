@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 1:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 632,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26464,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27096
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:20:28.395154516Z",
   "translation": "El buey ⟨conoce⟩ ⟨a⟩ su dueño ⟨את⟩ y ⟨el⟩ asno ⟨conoce⟩ ⟨el⟩ pesebre de su dueño, pero Israel ⟨no⟩ ⟨conoce⟩ ⟨a⟩ mi pueblo ⟨את⟩, ⟨el⟩ pueblo mío ⟨no⟩ ⟨ha⟩ considerado.",
   "tokens": [
     {
       "surface": "ידע",
-      "english": "⟨Conoce⟩"
+      "gloss": "⟨Conoce⟩"
     },
     {
       "surface": "שור",
-      "english": "⟨el⟩ buey"
+      "gloss": "⟨el⟩ buey"
     },
     {
       "surface": "קנהו",
-      "english": "⟨a⟩ su dueño"
+      "gloss": "⟨a⟩ su dueño"
     },
     {
       "surface": "וחמור",
-      "english": "y ⟨el⟩ asno"
+      "gloss": "y ⟨el⟩ asno"
     },
     {
       "surface": "אבוס",
-      "english": "⟨el⟩ pesebre"
+      "gloss": "⟨el⟩ pesebre"
     },
     {
       "surface": "בעליו",
-      "english": "de su dueño"
+      "gloss": "de su dueño"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ידע",
-      "english": "⟨conoce⟩"
+      "gloss": "⟨conoce⟩"
     },
     {
       "surface": "עמי",
-      "english": "⟨a⟩ mi pueblo"
+      "gloss": "⟨a⟩ mi pueblo"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "התבונן",
-      "english": "⟨ha⟩ considerado"
+      "gloss": "⟨ha⟩ considerado"
     }
-  ],
-  "timestamp": "2026-06-10T02:20:28.395154516Z",
-  "model": "glm-4.5"
+  ]
 }

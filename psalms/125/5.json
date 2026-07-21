@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 125:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 125,
-  "usage": {
-    "completion_tokens": 684,
-    "prompt_tokens": 70502,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71186
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:58.694730133Z",
   "translation": "Pero a los que se desvían a sus caminos tortuosos, YHWH los guiará con los hacedores de iniquidad ⟨את⟩. Paz sobre Israel.",
   "tokens": [
     {
       "surface": "והמטים",
-      "english": "Pero a los que se desvían"
+      "gloss": "Pero a los que se desvían"
     },
     {
       "surface": "עקלקלותם",
-      "english": "a sus caminos tortuosos"
+      "gloss": "a sus caminos tortuosos"
     },
     {
       "surface": "יוליכם",
-      "english": "YHWH los guiará"
+      "gloss": "YHWH los guiará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los hacedores de iniquidad"
     },
     {
       "surface": "פעלי",
-      "english": "hacedores"
+      "gloss": "hacedores"
     },
     {
       "surface": "האון",
-      "english": "de iniquidad"
+      "gloss": "de iniquidad"
     },
     {
       "surface": "שלום",
-      "english": "Paz"
+      "gloss": "Paz"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:58.694730133Z",
-  "model": "glm-4.5"
+  ]
 }

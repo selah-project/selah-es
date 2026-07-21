@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "esther 5:10",
   "book": "esther",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 516,
-    "prompt_tokens": 25285,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 25801
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:05:00.551480922Z",
   "translation": "Pero Haman se contuvo y vino a su casa, y envió e hizo venir ⟨את⟩ sus amigos y ⟨את⟩ Zeresh su mujer",
   "tokens": [
     {
       "surface": "ויתאפק",
-      "english": "Pero Haman se contuvo"
+      "gloss": "Pero Haman se contuvo"
     },
     {
       "surface": "המן",
-      "english": "Haman"
+      "gloss": "Haman"
     },
     {
       "surface": "ויבוא",
-      "english": "y vino"
+      "gloss": "y vino"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "ביתו",
-      "english": "su casa"
+      "gloss": "su casa"
     },
     {
       "surface": "ושלח",
-      "english": "y envió"
+      "gloss": "y envió"
     },
     {
       "surface": "ויבא",
-      "english": "e hizo venir"
+      "gloss": "e hizo venir"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus amigos"
     },
     {
       "surface": "אהביו",
-      "english": "sus amigos"
+      "gloss": "sus amigos"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Zeresh"
     },
     {
       "surface": "זרש",
-      "english": "Zeresh"
+      "gloss": "Zeresh"
     },
     {
       "surface": "אשתו",
-      "english": "su mujer"
+      "gloss": "su mujer"
     }
-  ],
-  "timestamp": "2026-07-16T20:05:00.551480922Z",
-  "model": "glm-4.5"
+  ]
 }

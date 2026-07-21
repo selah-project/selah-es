@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 83:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70076,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70526
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:39:55.833559686Z",
   "translation": "También Ashshur ⟨está⟩ unido ⟨a⟩ ellos: ⟨han sido⟩ brazo ⟨para⟩ ⟨los⟩ hijos ⟨de⟩ Lot. Selah",
   "tokens": [
     {
       "surface": "גם",
-      "english": "También"
+      "gloss": "También"
     },
     {
       "surface": "אשור",
-      "english": "Ashshur"
+      "gloss": "Ashshur"
     },
     {
       "surface": "נלוה",
-      "english": "unido"
+      "gloss": "unido"
     },
     {
       "surface": "עמם",
-      "english": "⟨a⟩ ellos",
+      "gloss": "⟨a⟩ ellos",
       "marks": "ellos"
     },
     {
       "surface": "היו",
-      "english": "⟨han sido⟩",
+      "gloss": "⟨han sido⟩",
       "marks": "brazo"
     },
     {
       "surface": "זרוע",
-      "english": "brazo"
+      "gloss": "brazo"
     },
     {
       "surface": "לבני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "לוט",
-      "english": "⟨de⟩ Lot",
+      "gloss": "⟨de⟩ Lot",
       "marks": "hijos"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:39:55.833559686Z",
-  "model": "glm-4.5"
+  ]
 }

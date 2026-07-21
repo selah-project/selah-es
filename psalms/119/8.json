@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 119:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 273,
-    "prompt_tokens": 70036,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70309
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:05.658304589Z",
   "translation": "⟨את⟩ tus estatutos guardaré, no me abandones por completo.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tus estatutos"
     },
     {
       "surface": "חקיך",
-      "english": "tus estatutos"
+      "gloss": "tus estatutos"
     },
     {
       "surface": "אשמר",
-      "english": "guardaré"
+      "gloss": "guardaré"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תעזבני",
-      "english": "me abandones"
+      "gloss": "me abandones"
     },
     {
       "surface": "עד",
-      "english": "por completo"
+      "gloss": "por completo"
     },
     {
       "surface": "מאד",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T23:41:05.658304589Z",
-  "model": "glm-4.5"
+  ]
 }

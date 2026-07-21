@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 28:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59887,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60269
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:50:13.236389632Z",
   "translation": "Un varón pobre ⟨que⟩ oprime ⟨a⟩ los débiles ⟨es⟩ como una lluvia arrasadora ⟨que⟩ ⟨no deja⟩ alimento.",
   "tokens": [
     {
       "surface": "גבר",
-      "english": "Un varón"
+      "gloss": "Un varón"
     },
     {
       "surface": "רש",
-      "english": "pobre"
+      "gloss": "pobre"
     },
     {
       "surface": "ועשק",
-      "english": "⟨que⟩ oprime"
+      "gloss": "⟨que⟩ oprime"
     },
     {
       "surface": "דלים",
-      "english": "⟨a⟩ los débiles"
+      "gloss": "⟨a⟩ los débiles"
     },
     {
       "surface": "מטר",
-      "english": "como una lluvia"
+      "gloss": "como una lluvia"
     },
     {
       "surface": "סחף",
-      "english": "arrasadora"
+      "gloss": "arrasadora"
     },
     {
       "surface": "ואין",
-      "english": "⟨que⟩ ⟨no deja⟩"
+      "gloss": "⟨que⟩ ⟨no deja⟩"
     },
     {
       "surface": "לחם",
-      "english": "alimento"
+      "gloss": "alimento"
     }
-  ],
-  "timestamp": "2026-06-10T01:50:13.236389632Z",
-  "model": "glm-4.5"
+  ]
 }

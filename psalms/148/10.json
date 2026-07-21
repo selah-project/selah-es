@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 148:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62408,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 62769
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:25:00.177802103Z",
   "translation": "la bestia salvaje y todo ⟨el⟩ ganado, ⟨la⟩ cosa rastrera y ⟨el⟩ pájaro ⟨alado⟩",
   "tokens": [
     {
       "surface": "החיה",
-      "english": "La bestia salvaje"
+      "gloss": "La bestia salvaje"
     },
     {
       "surface": "וכל",
-      "english": "y todo"
+      "gloss": "y todo"
     },
     {
       "surface": "בהמה",
-      "english": "⟨el⟩ ganado"
+      "gloss": "⟨el⟩ ganado"
     },
     {
       "surface": "רמש",
-      "english": "⟨la⟩ cosa rastrera"
+      "gloss": "⟨la⟩ cosa rastrera"
     },
     {
       "surface": "וצפור",
-      "english": "⟨el⟩ pájaro",
+      "gloss": "⟨el⟩ pájaro",
       "marks": "volador"
     },
     {
       "surface": "כנף",
-      "english": "⟨alado⟩"
+      "gloss": "⟨alado⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:25:00.177802103Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "numbers 10:3",
   "book": "numbers",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25188,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25725
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:46:50.835483776Z",
   "translation": "y sonaren ⟨con⟩ ellas y se reuniran ⟨a⟩ ti todo ⟨el⟩ haEdá ⟨a⟩ ⟨la⟩ entrada ⟨de⟩ ⟨la⟩ tienda ⟨de⟩ cita",
   "tokens": [
     {
       "surface": "ותקעו",
-      "english": "Y sonaren"
+      "gloss": "Y sonaren"
     },
     {
       "surface": "בהן",
-      "english": "⟨con⟩ ellas"
+      "gloss": "⟨con⟩ ellas"
     },
     {
       "surface": "ונועדו",
-      "english": "y se reuniran"
+      "gloss": "y se reuniran"
     },
     {
       "surface": "אליך",
-      "english": "⟨a⟩ ti"
+      "gloss": "⟨a⟩ ti"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "העדה",
-      "english": "⟨el⟩ haEdá"
+      "gloss": "⟨el⟩ haEdá"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "פתח",
-      "english": "⟨la⟩ entrada"
+      "gloss": "⟨la⟩ entrada"
     },
     {
       "surface": "אהל",
-      "english": "⟨de⟩ ⟨la⟩ tienda"
+      "gloss": "⟨de⟩ ⟨la⟩ tienda"
     },
     {
       "surface": "מועד",
-      "english": "⟨de⟩ cita"
+      "gloss": "⟨de⟩ cita"
     }
-  ],
-  "timestamp": "2026-06-10T04:46:50.835483776Z",
-  "model": "glm-4.5"
+  ]
 }

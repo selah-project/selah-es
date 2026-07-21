@@ -1,80 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 42:3",
   "book": "job",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27633,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 28259
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:19:10.164475816Z",
   "translation": "¿Quién ⟨es⟩ este ⟨que⟩ oculta ⟨un⟩ consejo sin conocimiento? Por lo tanto, he declarado ⟨lo que⟩ no entendí, ⟨cosas⟩ demasiado maravillosas para mí, ⟨las cuales⟩ no ⟨conozco⟩.",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "זה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "מעלים",
-      "english": "oculta"
+      "gloss": "oculta"
     },
     {
       "surface": "עצה",
-      "english": "⟨un⟩ consejo"
+      "gloss": "⟨un⟩ consejo"
     },
     {
       "surface": "בלי",
-      "english": "sin"
+      "gloss": "sin"
     },
     {
       "surface": "דעת",
-      "english": "conocimiento"
+      "gloss": "conocimiento"
     },
     {
       "surface": "לכן",
-      "english": "Por lo tanto"
+      "gloss": "Por lo tanto"
     },
     {
       "surface": "הגדתי",
-      "english": "he declarado"
+      "gloss": "he declarado"
     },
     {
       "surface": "ולא",
-      "english": "⟨lo que⟩"
+      "gloss": "⟨lo que⟩"
     },
     {
       "surface": "אבין",
-      "english": "no entendí"
+      "gloss": "no entendí"
     },
     {
       "surface": "נפלאות",
-      "english": "⟨cosas⟩ demasiado maravillosas"
+      "gloss": "⟨cosas⟩ demasiado maravillosas"
     },
     {
       "surface": "ממני",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "ולא",
-      "english": "⟨las cuales⟩"
+      "gloss": "⟨las cuales⟩"
     },
     {
       "surface": "אדע",
-      "english": "no ⟨conozco⟩"
+      "gloss": "no ⟨conozco⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:19:10.164475816Z",
-  "model": "glm-4.5"
+  ]
 }

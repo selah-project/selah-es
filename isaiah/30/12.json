@@ -1,82 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 30:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 674,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26668,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27342
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:38:52.305771916Z",
   "translation": "Por lo tanto así ⟨dice⟩ ⟨el⟩ Santo de Yisrael: por cuanto rechazaron ⟨el⟩ davar ⟨este⟩ y confiaron en opresión y en vileza y se apoyaron sobre ⟨ella⟩",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "Por lo tanto"
+      "gloss": "Por lo tanto"
     },
     {
       "surface": "כה",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "אמר",
-      "english": "⟨dice⟩"
+      "gloss": "⟨dice⟩"
     },
     {
       "surface": "קדוש",
-      "english": "⟨el⟩ Santo"
+      "gloss": "⟨el⟩ Santo"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "יען",
-      "english": "por cuanto"
+      "gloss": "por cuanto"
     },
     {
       "surface": "מאסכם",
-      "english": "rechazaron"
+      "gloss": "rechazaron"
     },
     {
       "surface": "בדבר",
-      "english": "⟨el⟩ davar",
+      "gloss": "⟨el⟩ davar",
       "marks": "el davar ⟨este⟩"
     },
     {
       "surface": "הזה",
-      "english": "⟨este⟩"
+      "gloss": "⟨este⟩"
     },
     {
       "surface": "ותבטחו",
-      "english": "y confiaron"
+      "gloss": "y confiaron"
     },
     {
       "surface": "בעשק",
-      "english": "en opresión"
+      "gloss": "en opresión"
     },
     {
       "surface": "ונלוז",
-      "english": "y en vileza"
+      "gloss": "y en vileza"
     },
     {
       "surface": "ותשענו",
-      "english": "y se apoyaron"
+      "gloss": "y se apoyaron"
     },
     {
       "surface": "עליו",
-      "english": "sobre ⟨ella⟩",
+      "gloss": "sobre ⟨ella⟩",
       "marks": "en opresión y en vileza"
     }
-  ],
-  "timestamp": "2026-06-10T02:38:52.305771916Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "joshua 8:23",
   "book": "joshua",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23550,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23956
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:12:27.281385796Z",
   "translation": "Y ⟨את⟩ el rey ⟨את⟩ Ai ⟨is⟩ capturaron vivo y ⟨את⟩ lo acercaron ⟨a⟩ Yehoshúa",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "Y ⟨את⟩",
+      "gloss": "Y ⟨את⟩",
       "marks": "el rey"
     },
     {
       "surface": "מלך",
-      "english": "el rey"
+      "gloss": "el rey"
     },
     {
       "surface": "העי",
-      "english": "⟨את⟩ Ai",
+      "gloss": "⟨את⟩ Ai",
       "marks": "Ai"
     },
     {
       "surface": "תפשו",
-      "english": "capturaron"
+      "gloss": "capturaron"
     },
     {
       "surface": "חי",
-      "english": "vivo"
+      "gloss": "vivo"
     },
     {
       "surface": "ויקרבו",
-      "english": "y ⟨את⟩ lo acercaron",
+      "gloss": "y ⟨את⟩ lo acercaron",
       "marks": "a"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ lo",
+      "gloss": "⟨את⟩ lo",
       "marks": "a"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "יהושע",
-      "english": "Yehoshúa"
+      "gloss": "Yehoshúa"
     }
-  ],
-  "timestamp": "2026-06-10T01:12:27.281385796Z",
-  "model": "glm-4.5"
+  ]
 }

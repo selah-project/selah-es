@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 23:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59795,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60256
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:45:20.785499268Z",
   "translation": "y pon ⟨el⟩ cuchillo en ⟨tu⟩ garganta ⟨את⟩ ⟨el⟩ aliento, si ⟨estás⟩ ⟨dado⟩ ⟨a⟩ ⟨el⟩ apetito",
   "tokens": [
     {
       "surface": "ושמת",
-      "english": "Y pon"
+      "gloss": "Y pon"
     },
     {
       "surface": "שכין",
-      "english": "⟨el⟩ cuchillo"
+      "gloss": "⟨el⟩ cuchillo"
     },
     {
       "surface": "בלעך",
-      "english": "en ⟨tu⟩ garganta"
+      "gloss": "en ⟨tu⟩ garganta"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "בעל",
-      "english": "⟨dado⟩ ⟨a⟩"
+      "gloss": "⟨dado⟩ ⟨a⟩"
     },
     {
       "surface": "נפש",
-      "english": "⟨el⟩ aliento"
+      "gloss": "⟨el⟩ aliento"
     },
     {
       "surface": "אתה",
-      "english": "⟨estás⟩"
+      "gloss": "⟨estás⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:45:20.785499268Z",
-  "model": "glm-4.5"
+  ]
 }

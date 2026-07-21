@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 2:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26174,
-    "prompt_tokens_details": {
-      "cached_tokens": 4
-    },
-    "total_tokens": 26684
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:21:43.216167677Z",
   "translation": "Entra ⟨en⟩ la roca y escóndete ⟨en⟩ el polvo de ⟨la⟩ presencia del terror de YHWH y ⟨del⟩ esplendor de ⟨su⟩ majestuosidad",
   "tokens": [
     {
       "surface": "בוא",
-      "english": "Entra"
+      "gloss": "Entra"
     },
     {
       "surface": "בצור",
-      "english": "⟨en⟩ la roca"
+      "gloss": "⟨en⟩ la roca"
     },
     {
       "surface": "והטמן",
-      "english": "y escóndete"
+      "gloss": "y escóndete"
     },
     {
       "surface": "בעפר",
-      "english": "⟨en⟩ el polvo"
+      "gloss": "⟨en⟩ el polvo"
     },
     {
       "surface": "מפני",
-      "english": "de ⟨la⟩ presencia"
+      "gloss": "de ⟨la⟩ presencia"
     },
     {
       "surface": "פחד",
-      "english": "del terror"
+      "gloss": "del terror"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ומהדר",
-      "english": "y ⟨del⟩ esplendor"
+      "gloss": "y ⟨del⟩ esplendor"
     },
     {
       "surface": "גאנו",
-      "english": "de ⟨su⟩ majestuosidad"
+      "gloss": "de ⟨su⟩ majestuosidad"
     }
-  ],
-  "timestamp": "2026-06-10T02:21:43.216167677Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,81 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-chronicles 22:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 22,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:23:27.212768327Z",
+  "translation": "Y sucedió ⟨que⟩ cuando Iehú ejecutaba juicio ⟨con⟩ ⟨la⟩ casa de Ajab, halló ⟨a⟩ ⟨los⟩ príncipes de Yehudá y ⟨a⟩ los hijos de los hermanos de Ocozías ⟨que⟩ servían a Ocozías, ⟨y⟩ los mató",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "כהשפט",
+      "gloss": "⟨que⟩ cuando"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehú"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ejecutaba juicio ⟨con⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨la⟩ casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "halló"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "príncipes"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "⟨los⟩ príncipes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "y ⟨a⟩ los hijos"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "de los hermanos"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "de Ocozías"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "⟨que⟩ servían"
+    },
+    {
+      "surface": "לאחזיהו",
+      "gloss": "a Ocozías"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "⟨y⟩ los mató"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,89 +85,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 713,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58768,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 59481
-  },
-  "translation": "Y sucedió ⟨que⟩ cuando Iehú ejecutaba juicio ⟨con⟩ ⟨la⟩ casa de Ajab, halló ⟨a⟩ ⟨los⟩ príncipes de Yehudá y ⟨a⟩ los hijos de los hermanos de Ocozías ⟨que⟩ servían a Ocozías, ⟨y⟩ los mató",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "כהשפט",
-      "english": "⟨que⟩ cuando"
-    },
-    {
-      "surface": "יהוא",
-      "english": "Iehú"
-    },
-    {
-      "surface": "עם",
-      "english": "ejecutaba juicio ⟨con⟩"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨la⟩ casa"
-    },
-    {
-      "surface": "אחאב",
-      "english": "Ajab"
-    },
-    {
-      "surface": "וימצא",
-      "english": "halló"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "príncipes"
-    },
-    {
-      "surface": "שרי",
-      "english": "⟨los⟩ príncipes"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ובני",
-      "english": "y ⟨a⟩ los hijos"
-    },
-    {
-      "surface": "אחי",
-      "english": "de los hermanos"
-    },
-    {
-      "surface": "אחזיהו",
-      "english": "de Ocozías"
-    },
-    {
-      "surface": "משרתים",
-      "english": "⟨que⟩ servían"
-    },
-    {
-      "surface": "לאחזיהו",
-      "english": "a Ocozías"
-    },
-    {
-      "surface": "ויהרגם",
-      "english": "⟨y⟩ los mató"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:23:27.212768327Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

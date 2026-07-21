@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 18:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 59999,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60401
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:20:40.930899578Z",
   "translation": "Torre de fortaleza ⟨es⟩ el nombre de YHWH; en ella corre el justo y ⟨es⟩ exaltado.",
   "tokens": [
     {
       "surface": "מגדל",
-      "english": "Torre"
+      "gloss": "Torre"
     },
     {
       "surface": "עז",
-      "english": "de fortaleza"
+      "gloss": "de fortaleza"
     },
     {
       "surface": "שם",
-      "english": "el nombre"
+      "gloss": "el nombre"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בו",
-      "english": "en ella"
+      "gloss": "en ella"
     },
     {
       "surface": "ירוץ",
-      "english": "corre"
+      "gloss": "corre"
     },
     {
       "surface": "צדיק",
-      "english": "el justo"
+      "gloss": "el justo"
     },
     {
       "surface": "ונשגב",
-      "english": "y ⟨es⟩ exaltado"
+      "gloss": "y ⟨es⟩ exaltado"
     }
-  ],
-  "timestamp": "2026-07-16T23:20:40.930899578Z",
-  "model": "glm-4.5"
+  ]
 }

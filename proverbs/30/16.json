@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 30:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 644,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60195,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60839
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:07.275582301Z",
   "translation": "Sheol, y ⟨el⟩ vientre cerrado, y ⟨la⟩ tierra que no ⟨se⟩ sacia ⟨de⟩ agua, y ⟨el⟩ fuego que no dice: ¡Basta!",
   "tokens": [
     {
       "surface": "שאול",
-      "english": "Sheol"
+      "gloss": "Sheol"
     },
     {
       "surface": "ועצר",
-      "english": "y ⟨el⟩ vientre cerrado"
+      "gloss": "y ⟨el⟩ vientre cerrado"
     },
     {
       "surface": "רחם",
-      "english": "vientre"
+      "gloss": "vientre"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "שבעה",
-      "english": "⟨se⟩ sacia"
+      "gloss": "⟨se⟩ sacia"
     },
     {
       "surface": "מים",
-      "english": "⟨de⟩ agua"
+      "gloss": "⟨de⟩ agua"
     },
     {
       "surface": "ואש",
-      "english": "y ⟨el⟩ fuego"
+      "gloss": "y ⟨el⟩ fuego"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אמרה",
-      "english": "dice"
+      "gloss": "dice"
     },
     {
       "surface": "הון",
-      "english": "¡Basta!"
+      "gloss": "¡Basta!"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:07.275582301Z",
-  "model": "glm-4.5"
+  ]
 }

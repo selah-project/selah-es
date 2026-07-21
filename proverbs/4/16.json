@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 4:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60199,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60702
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:30:35.782517204Z",
   "translation": "Porque ⟨no⟩ duermen si ⟨no⟩ han cometido maldad, y ⟨su⟩ sueño ⟨es⟩ arrebatado si no hacen tropezar ⟨a⟩ ⟨alguno⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ישנו",
-      "english": "duermen"
+      "gloss": "duermen"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ירעו",
-      "english": "han cometido maldad"
+      "gloss": "han cometido maldad"
     },
     {
       "surface": "ונגזלה",
-      "english": "y ⟨su⟩ sueño ⟨es⟩ arrebatado"
+      "gloss": "y ⟨su⟩ sueño ⟨es⟩ arrebatado"
     },
     {
       "surface": "שנתם",
-      "english": "sueño"
+      "gloss": "sueño"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יכשולו",
-      "english": "hacen tropezar ⟨a⟩ ⟨alguno⟩"
+      "gloss": "hacen tropezar ⟨a⟩ ⟨alguno⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:30:35.782517204Z",
-  "model": "glm-4.5"
+  ]
 }

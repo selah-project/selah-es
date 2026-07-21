@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "genesis 21:25",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 700,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28799,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29499
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:18:19.813157131Z",
   "translation": "Y Abraham reprendió ⟨a⟩ Abimelek ⟨por⟩ el pozo ⟨de⟩ agua ⟨que⟩ robaron ⟨los⟩ siervos ⟨de⟩ Abimelek",
   "tokens": [
     {
       "surface": "וְ\/הוֹכִ֥חַ",
-      "english": "Y reprendió"
+      "gloss": "Y reprendió"
     },
     {
       "surface": "אַבְרָהָ֖ם",
-      "english": "Abraham"
+      "gloss": "Abraham"
     },
     {
       "surface": "אֶת",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Abimelek"
     },
     {
       "surface": "אֲבִימֶ֑לֶךְ",
-      "english": "Abimelek"
+      "gloss": "Abimelek"
     },
     {
       "surface": "עַל",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "אֹדוֹת֙",
-      "english": "⟨⟩"
+      "gloss": "⟨⟩"
     },
     {
       "surface": "בְּאֵ֣ר",
-      "english": "⟨el⟩ pozo"
+      "gloss": "⟨el⟩ pozo"
     },
     {
       "surface": "הַ\/מַּ֔יִם",
-      "english": "⟨de⟩ agua"
+      "gloss": "⟨de⟩ agua"
     },
     {
       "surface": "אֲשֶׁ֥ר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "גָּזְל֖וּ",
-      "english": "robaron"
+      "gloss": "robaron"
     },
     {
       "surface": "עַבְדֵ֥י",
-      "english": "⟨los⟩ siervos"
+      "gloss": "⟨los⟩ siervos"
     },
     {
       "surface": "אֲבִימֶֽלְךְ",
-      "english": "⟨de⟩ Abimelek"
+      "gloss": "⟨de⟩ Abimelek"
     }
-  ],
-  "timestamp": "2026-06-10T05:18:19.813157131Z",
-  "model": "glm-4.5"
+  ]
 }

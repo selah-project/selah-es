@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 5:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 393,
-    "prompt_tokens": 28580,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28973
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:52:57.796956964Z",
   "translation": "Y vivió Mahalalel sesenta y cinco años, y engendró ⟨את⟩ a Yered",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "Y vivió"
+      "gloss": "Y vivió"
     },
     {
       "surface": "מהללאל",
-      "english": "Mahalalel"
+      "gloss": "Mahalalel"
     },
     {
       "surface": "חמש",
-      "english": "sesenta"
+      "gloss": "sesenta"
     },
     {
       "surface": "שנים",
-      "english": "y cinco años"
+      "gloss": "y cinco años"
     },
     {
       "surface": "וששים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שנה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ויולד",
-      "english": ", y engendró"
+      "gloss": ", y engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Yered"
     },
     {
       "surface": "ירד",
-      "english": "Yered"
+      "gloss": "Yered"
     }
-  ],
-  "timestamp": "2026-07-16T20:52:57.796956964Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 106:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 438,
-    "prompt_tokens": 70132,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70570
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:37.898103594Z",
   "translation": "¡Aleluya! Dad gracias a YHWH, pues ⟨es⟩ bueno, pues para siempre ⟨es⟩ su Jésed.",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "¡Aleluya!"
+      "gloss": "¡Aleluya!"
     },
     {
       "surface": "יה",
-      "english": "Yah"
+      "gloss": "Yah"
     },
     {
       "surface": "הודו",
-      "english": "Dad gracias"
+      "gloss": "Dad gracias"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "טוב",
-      "english": "bueno"
+      "gloss": "bueno"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:37.898103594Z",
-  "model": "glm-4.5"
+  ]
 }

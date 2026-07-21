@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-samuel 29:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 29,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:13:26.378296681Z",
+  "translation": "Y Davidd se levantó temprano, él y sus hombres, para ir por la mañana, para regresar a la tierra de los filisteos. Y los filisteos subieron a Jezreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Y se levantó temprano"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "él"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "y sus hombres"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "para ir"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "por la mañana"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "para regresar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tierra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de los filisteos"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "Y los filisteos"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "subieron"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "a Jezreel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16622,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17042
-  },
-  "translation": "Y Davidd se levantó temprano, él y sus hombres, para ir por la mañana, para regresar a la tierra de los filisteos. Y los filisteos subieron a Jezreel.",
-  "tokens": [
-    {
-      "surface": "וישכם",
-      "english": "Y se levantó temprano"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "הוא",
-      "english": "él"
-    },
-    {
-      "surface": "ואנשיו",
-      "english": "y sus hombres"
-    },
-    {
-      "surface": "ללכת",
-      "english": "para ir"
-    },
-    {
-      "surface": "בבקר",
-      "english": "por la mañana"
-    },
-    {
-      "surface": "לשוב",
-      "english": "para regresar"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "ארץ",
-      "english": "tierra"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "de los filisteos"
-    },
-    {
-      "surface": "ופלשתים",
-      "english": "Y los filisteos"
-    },
-    {
-      "surface": "עלו",
-      "english": "subieron"
-    },
-    {
-      "surface": "יזרעאל",
-      "english": "a Jezreel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:13:26.378296681Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

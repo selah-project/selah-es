@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "daniel 1:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 1,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:55:48.358988184Z",
+  "translation": "Y ⟨al final⟩ de los días que ⟨el⟩ rey había dicho para traerlos, ⟨el⟩ príncipe de ⟨los⟩ eunucos los trajo ante Nevujadnetzar.",
+  "tokens": [
+    {
+      "surface": "ולמקצת",
+      "gloss": "Y ⟨al final⟩"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "de los días"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "había dicho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "להביאם",
+      "gloss": "para traerlos"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "los trajo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "⟨el⟩ príncipe"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "de ⟨los⟩ eunucos"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ante"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "Nevujadnetzar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nabucodonosor",
@@ -13,68 +64,6 @@
       "hebrew": "נבוכדנאצר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17210,
-    "prompt_tokens_details": {
-      "cached_tokens": 15766
-    },
-    "total_tokens": 17739
-  },
-  "translation": "Y ⟨al final⟩ de los días que ⟨el⟩ rey había dicho para traerlos, ⟨el⟩ príncipe de ⟨los⟩ eunucos los trajo ante Nevujadnetzar.",
-  "tokens": [
-    {
-      "surface": "ולמקצת",
-      "english": "Y ⟨al final⟩"
-    },
-    {
-      "surface": "הימים",
-      "english": "de los días"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אמר",
-      "english": "había dicho"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "להביאם",
-      "english": "para traerlos"
-    },
-    {
-      "surface": "ויביאם",
-      "english": "los trajo"
-    },
-    {
-      "surface": "שר",
-      "english": "⟨el⟩ príncipe"
-    },
-    {
-      "surface": "הסריסים",
-      "english": "de ⟨los⟩ eunucos"
-    },
-    {
-      "surface": "לפני",
-      "english": "ante"
-    },
-    {
-      "surface": "נבכדנצר",
-      "english": "Nevujadnetzar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:55:48.358988184Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

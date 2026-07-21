@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "zechariah 2:1",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 343,
-    "prompt_tokens": 23199,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 23542
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:49:34.729079943Z",
   "translation": "Y levanté ⟨את⟩ mis ojos y vi, y he aquí, cuatro cuernos",
   "tokens": [
     {
       "surface": "ואשא",
-      "english": "Y levanté"
+      "gloss": "Y levanté"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mis ojos"
     },
     {
       "surface": "עיני",
-      "english": "mis ojos"
+      "gloss": "mis ojos"
     },
     {
       "surface": "וארא",
-      "english": "y vi"
+      "gloss": "y vi"
     },
     {
       "surface": "והנה",
-      "english": "y he aquí"
+      "gloss": "y he aquí"
     },
     {
       "surface": "ארבע",
-      "english": "cuatro"
+      "gloss": "cuatro"
     },
     {
       "surface": "קרנות",
-      "english": "cuernos"
+      "gloss": "cuernos"
     }
-  ],
-  "timestamp": "2026-07-16T23:49:34.729079943Z",
-  "model": "glm-4.5"
+  ]
 }

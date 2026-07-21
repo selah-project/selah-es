@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "exodus 5:5",
   "book": "exodus",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 490,
-    "prompt_tokens": 24358,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24848
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:09:47.578973404Z",
   "translation": "Y Paró dijo: He aquí, ⟨son⟩ ahora numerosos ⟨el⟩ pueblo de la tierra, y hacéis que cesen ⟨את⟩ ellos de sus cargas.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y ... dijo"
+      "gloss": "Y ... dijo"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "רבים",
-      "english": "numerosos"
+      "gloss": "numerosos"
     },
     {
       "surface": "עתה",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "עם",
-      "english": "pueblo"
+      "gloss": "pueblo"
     },
     {
       "surface": "הארץ",
-      "english": "de la tierra"
+      "gloss": "de la tierra"
     },
     {
       "surface": "והשבתם",
-      "english": "y hacéis que cesen"
+      "gloss": "y hacéis que cesen"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ellos"
     },
     {
       "surface": "מסבלתם",
-      "english": "de sus cargas"
+      "gloss": "de sus cargas"
     }
-  ],
-  "timestamp": "2026-07-16T20:09:47.578973404Z",
-  "model": "glm-4.5"
+  ]
 }

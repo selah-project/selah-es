@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "1-chronicles 23:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 23,
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:52:20.181669958Z",
+  "translation": "Hijos de Jevrón: Yeriyahu ⟨el⟩ primero, Amaríah ⟨el⟩ segundo, Yajazíel ⟨el⟩ tercero y Yikamam ⟨el⟩ cuarto",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Hijos de"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Jevrón"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "Yeriyahu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨el⟩ primero",
+      "marks": "Yeriyahu"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaríah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨el⟩ segundo",
+      "marks": "Amaríah"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Yajazíel"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "⟨el⟩ tercero",
+      "marks": "Yajazíel"
+    },
+    {
+      "surface": "ויקמעם",
+      "gloss": "y Yikamam"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "⟨el⟩ cuarto",
+      "marks": "Yikamam"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Hebrón",
@@ -13,68 +64,6 @@
       "hebrew": "חברון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56987,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57404
-  },
-  "translation": "Hijos de Jevrón: Yeriyahu ⟨el⟩ primero, Amaríah ⟨el⟩ segundo, Yajazíel ⟨el⟩ tercero y Yikamam ⟨el⟩ cuarto",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Hijos de"
-    },
-    {
-      "surface": "חברון",
-      "english": "Jevrón"
-    },
-    {
-      "surface": "יריהו",
-      "english": "Yeriyahu"
-    },
-    {
-      "surface": "הראש",
-      "english": "⟨el⟩ primero",
-      "marks": "Yeriyahu"
-    },
-    {
-      "surface": "אמריה",
-      "english": "Amaríah"
-    },
-    {
-      "surface": "השני",
-      "english": "⟨el⟩ segundo",
-      "marks": "Amaríah"
-    },
-    {
-      "surface": "יחזיאל",
-      "english": "Yajazíel"
-    },
-    {
-      "surface": "השלישי",
-      "english": "⟨el⟩ tercero",
-      "marks": "Yajazíel"
-    },
-    {
-      "surface": "ויקמעם",
-      "english": "y Yikamam"
-    },
-    {
-      "surface": "הרביעי",
-      "english": "⟨el⟩ cuarto",
-      "marks": "Yikamam"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:52:20.181669958Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

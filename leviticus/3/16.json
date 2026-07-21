@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "leviticus 3:16",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 582,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24710,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 25292
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:34:17.722751085Z",
   "translation": "Y el kohen hará perfume con ellos en el altar: ⟨el⟩ pan ⟨de⟩ una ofrenda de fuego, aroma fragante para YHWH; toda ⟨la⟩ grasa ⟨es de⟩ YHWH.",
   "tokens": [
     {
       "surface": "והקטירם",
-      "english": "Y el kohen hará perfume con ellos"
+      "gloss": "Y el kohen hará perfume con ellos"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "המזבחה",
-      "english": "en el altar"
+      "gloss": "en el altar"
     },
     {
       "surface": "לחם",
-      "english": "⟨el⟩ pan"
+      "gloss": "⟨el⟩ pan"
     },
     {
       "surface": "אשה",
-      "english": "⟨de⟩ una ofrenda de fuego"
+      "gloss": "⟨de⟩ una ofrenda de fuego"
     },
     {
       "surface": "לריח",
-      "english": "aroma"
+      "gloss": "aroma"
     },
     {
       "surface": "ניחח",
-      "english": "fragante"
+      "gloss": "fragante"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "חלב",
-      "english": "⟨la⟩ grasa"
+      "gloss": "⟨la⟩ grasa"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨es de⟩ YHWH"
+      "gloss": "⟨es de⟩ YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T04:34:17.722751085Z",
-  "model": "glm-4.5"
+  ]
 }

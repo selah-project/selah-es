@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "2-samuel 22:32",
   "book": "2-samuel",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 24343,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24716
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:31:13.059530997Z",
   "translation": "¿Quién es ⟨un⟩ El, ⟨sino⟩ YHWH? Y ¿quién ⟨es⟩ ⟨una⟩ roca, ⟨sino⟩ nuestro Elohim?",
   "tokens": [
     {
       "surface": "כי",
-      "english": "¿...?"
+      "gloss": "¿...?"
     },
     {
       "surface": "מי",
-      "english": "quién"
+      "gloss": "quién"
     },
     {
       "surface": "אל",
-      "english": "⟨un⟩ El"
+      "gloss": "⟨un⟩ El"
     },
     {
       "surface": "מבלעדי",
-      "english": "⟨sino⟩"
+      "gloss": "⟨sino⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ומי",
-      "english": "Y ¿quién"
+      "gloss": "Y ¿quién"
     },
     {
       "surface": "צור",
-      "english": "⟨una⟩ roca"
+      "gloss": "⟨una⟩ roca"
     },
     {
       "surface": "מבלעדי",
-      "english": "⟨sino⟩"
+      "gloss": "⟨sino⟩"
     },
     {
       "surface": "אלהינו",
-      "english": "nuestro Elohim"
+      "gloss": "nuestro Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T19:31:13.059530997Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "job 40:1",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 257,
-    "prompt_tokens": 26942,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27199
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:02:55.799910805Z",
   "translation": "Y respondió YHWH ⟨את⟩ Iyov, y dijo:",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "Y respondió"
+      "gloss": "Y respondió"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Iyov"
     },
     {
       "surface": "איוב",
-      "english": "Iyov"
+      "gloss": "Iyov"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     }
-  ],
-  "timestamp": "2026-07-16T22:02:55.799910805Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-chronicles 15:12",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 552,
-    "prompt_tokens": 65562,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 66114
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:54:00.599469090Z",
   "translation": "Y entraron en ⟨la⟩ brit para buscar ⟨את⟩ YHWH, ⟨el⟩ Elohim de sus padres, con todo su corazón y con toda su néfesh",
   "tokens": [
     {
       "surface": "ויבאו",
-      "english": "Y entraron"
+      "gloss": "Y entraron"
     },
     {
       "surface": "בברית",
-      "english": "en ⟨la⟩ brit"
+      "gloss": "en ⟨la⟩ brit"
     },
     {
       "surface": "לדרוש",
-      "english": "para buscar"
+      "gloss": "para buscar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "⟨el⟩ Elohim"
+      "gloss": "⟨el⟩ Elohim"
     },
     {
       "surface": "אבותיהם",
-      "english": "de sus padres"
+      "gloss": "de sus padres"
     },
     {
       "surface": "בכל",
-      "english": "con todo"
+      "gloss": "con todo"
     },
     {
       "surface": "לבבם",
-      "english": "su corazón"
+      "gloss": "su corazón"
     },
     {
       "surface": "ובכל",
-      "english": "y con toda"
+      "gloss": "y con toda"
     },
     {
       "surface": "נפשם",
-      "english": "su néfesh"
+      "gloss": "su néfesh"
     }
-  ],
-  "timestamp": "2026-07-16T18:54:00.599469090Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,80 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 50:2",
   "book": "genesis",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 29054,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 29553
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:47:02.277429064Z",
   "translation": "Yosef ordenó ⟨a⟩ sus sirvientes ⟨a⟩ los médicos para embalsamar ⟨a⟩ su padre, y los médicos embalsamaron ⟨a⟩ Yisrael.",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "Yosef ordenó"
+      "gloss": "Yosef ordenó"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "sus sirvientes"
     },
     {
       "surface": "עבדיו",
-      "english": "sus sirvientes"
+      "gloss": "sus sirvientes"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "los médicos"
     },
     {
       "surface": "הרפאים",
-      "english": "los médicos"
+      "gloss": "los médicos"
     },
     {
       "surface": "לחנט",
-      "english": "para embalsamar"
+      "gloss": "para embalsamar"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "su padre"
     },
     {
       "surface": "אביו",
-      "english": "su padre"
+      "gloss": "su padre"
     },
     {
       "surface": "ויחנטו",
-      "english": "y los médicos embalsamaron"
+      "gloss": "y los médicos embalsamaron"
     },
     {
       "surface": "הרפאים",
-      "english": "los médicos"
+      "gloss": "los médicos"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     }
-  ],
-  "timestamp": "2026-06-10T05:47:02.277429064Z",
-  "model": "glm-4.5"
+  ]
 }

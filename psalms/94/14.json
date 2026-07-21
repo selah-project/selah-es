@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 94:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69920,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70288
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:07.466537192Z",
   "translation": "porque ⟨את⟩ YHWH no abandonará ⟨a⟩ su pueblo y ⟨a⟩ su herencia no desamparará",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יטש",
-      "english": "abandonará"
+      "gloss": "abandonará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עמו",
-      "english": "⟨a⟩ su pueblo",
+      "gloss": "⟨a⟩ su pueblo",
       "marks": "su pueblo"
     },
     {
       "surface": "ונחלתו",
-      "english": "⟨a⟩ su herencia",
+      "gloss": "⟨a⟩ su herencia",
       "marks": "su herencia"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יעזב",
-      "english": "desamparará"
+      "gloss": "desamparará"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:07.466537192Z",
-  "model": "glm-4.5"
+  ]
 }

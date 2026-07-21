@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 3:21",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 182,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25553,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 25735
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:22:54.847942191Z",
   "translation": "⟨los⟩ anillos ⟨את⟩ y ⟨los⟩ adornos ⟨את⟩ de ⟨la⟩ nariz",
   "tokens": [
     {
       "surface": "הטבעות",
-      "english": "⟨Los⟩ anillos"
+      "gloss": "⟨Los⟩ anillos"
     },
     {
       "surface": "ונזמי",
-      "english": "⟨los⟩ adornos"
+      "gloss": "⟨los⟩ adornos"
     },
     {
       "surface": "האף",
-      "english": "de ⟨la⟩ nariz"
+      "gloss": "de ⟨la⟩ nariz"
     }
-  ],
-  "timestamp": "2026-06-10T02:22:54.847942191Z",
-  "model": "glm-4.5"
+  ]
 }

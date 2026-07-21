@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 105:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69783,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70121
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:52:11.233200923Z",
   "translation": "ellos humillaron sus pies con ⟨el⟩ grillete ⟨את⟩, entró el hierro en su alma",
   "tokens": [
     {
       "surface": "ענו",
-      "english": "Ellos humillaron",
+      "gloss": "Ellos humillaron",
       "marks": "pies"
     },
     {
       "surface": "בכבל",
-      "english": "con ⟨el⟩ grillete"
+      "gloss": "con ⟨el⟩ grillete"
     },
     {
       "surface": "רגליו",
-      "english": "sus pies"
+      "gloss": "sus pies"
     },
     {
       "surface": "ברזל",
-      "english": "el hierro"
+      "gloss": "el hierro"
     },
     {
       "surface": "באה",
-      "english": "entró"
+      "gloss": "entró"
     },
     {
       "surface": "נפשו",
-      "english": "su alma"
+      "gloss": "su alma"
     }
-  ],
-  "timestamp": "2026-06-09T23:52:11.233200923Z",
-  "model": "glm-4.5"
+  ]
 }

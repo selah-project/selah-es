@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 49:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69785,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70085
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:21:12.943009651Z",
   "translation": "y vivirá ⟨aun⟩ para siempre ⟨את⟩, no verá ⟨el⟩ hoyo",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "Y vivirá"
+      "gloss": "Y vivirá"
     },
     {
       "surface": "עוד",
-      "english": "⟨aun⟩"
+      "gloss": "⟨aun⟩"
     },
     {
       "surface": "לנצח",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יראה",
-      "english": "verá"
+      "gloss": "verá"
     },
     {
       "surface": "השחת",
-      "english": "⟨el⟩ hoyo"
+      "gloss": "⟨el⟩ hoyo"
     }
-  ],
-  "timestamp": "2026-06-09T23:21:12.943009651Z",
-  "model": "glm-4.5"
+  ]
 }

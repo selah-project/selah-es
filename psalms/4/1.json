@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 4:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 214,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69724,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 69938
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:58:44.022665186Z",
   "translation": "⟨Al⟩ director con instrumentos de cuerdas; un salmo ⟨de⟩ David.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Al⟩ director"
+      "gloss": "⟨Al⟩ director"
     },
     {
       "surface": "בנגינות",
-      "english": "con instrumentos de cuerdas"
+      "gloss": "con instrumentos de cuerdas"
     },
     {
       "surface": "מזמור",
-      "english": "un salmo"
+      "gloss": "un salmo"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     }
-  ],
-  "timestamp": "2026-06-09T22:58:44.022665186Z",
-  "model": "glm-4.5"
+  ]
 }

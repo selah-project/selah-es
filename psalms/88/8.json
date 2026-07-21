@@ -1,56 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 88:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 623,
-    "prompt_tokens": 70072,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70695
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:36.853782021Z",
   "translation": "Sobre mí ⟨está⟩ firme tu furor, y con todas tus olas ⟨me⟩ oprimiste. Selah",
   "tokens": [
     {
       "surface": "עלי",
-      "english": "sobre mí",
+      "gloss": "sobre mí",
       "notes": "Preposición con sufijo de 1ª persona sing."
     },
     {
       "surface": "סמכה",
-      "english": "⟨está⟩ firme",
+      "gloss": "⟨está⟩ firme",
       "notes": "Participio pas. fem. sing., pesado o apoyado; construido con 'sobre mí' como sujeto."
     },
     {
       "surface": "חמתך",
-      "english": "tu furor",
+      "gloss": "tu furor",
       "notes": "Sustantivo + sufijo de 2ª persona sing.; 'furor' o 'cólera'."
     },
     {
       "surface": "וכל",
-      "english": "y con todas",
+      "gloss": "y con todas",
       "notes": "Conjunción + sustantivo colectivo con prep. implícita."
     },
     {
       "surface": "משבריך",
-      "english": "tus olas",
+      "gloss": "tus olas",
       "notes": "Sustantivo plural + sufijo de 2ª persona sing.; 'olas' o 'quebrantos'."
     },
     {
       "surface": "ענית",
-      "english": "⟨me⟩ oprimiste",
+      "gloss": "⟨me⟩ oprimiste",
       "notes": "Verbo perfecto 2ª persona sing.; 'afligir' u 'oprimir'."
     },
     {
       "surface": "סלה",
-      "english": "Selah",
+      "gloss": "Selah",
       "notes": "Marca litúrgica de pausa o énfasis."
     }
-  ],
-  "timestamp": "2026-07-16T23:35:36.853782021Z",
-  "model": "glm-4.5"
+  ]
 }

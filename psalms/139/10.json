@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 139:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 437,
-    "prompt_tokens": 69922,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70359
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:19.501210736Z",
   "translation": "Allí ⟨también⟩ ⟨tu⟩ mano me guiará, y ⟨tu⟩ diestra me sostendrá.",
   "tokens": [
     {
       "surface": "גם",
-      "english": "Allí ⟨también⟩"
+      "gloss": "Allí ⟨también⟩"
     },
     {
       "surface": "שם",
-      "english": "Allí"
+      "gloss": "Allí"
     },
     {
       "surface": "ידך",
-      "english": "⟨tu⟩ mano"
+      "gloss": "⟨tu⟩ mano"
     },
     {
       "surface": "תנחני",
-      "english": "me guiará"
+      "gloss": "me guiará"
     },
     {
       "surface": "ותאחזני",
-      "english": "y ⟨tu⟩ diestra me sostendrá"
+      "gloss": "y ⟨tu⟩ diestra me sostendrá"
     },
     {
       "surface": "ימינך",
-      "english": "diestra"
+      "gloss": "diestra"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:19.501210736Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 29:4",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59866,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60327
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:50:26.657267157Z",
   "translation": "Un rey ⟨en⟩ juicio ⟨establece⟩ ⟨la⟩ tierra ⟨y⟩ ⟨un⟩ hombre ⟨de⟩ presentes ⟨la⟩ derriba",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "Un rey"
+      "gloss": "Un rey"
     },
     {
       "surface": "במשפט",
-      "english": "⟨en⟩ juicio"
+      "gloss": "⟨en⟩ juicio"
     },
     {
       "surface": "יעמיד",
-      "english": "⟨establece⟩"
+      "gloss": "⟨establece⟩"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "ואיש",
-      "english": "⟨y⟩ ⟨un⟩ hombre"
+      "gloss": "⟨y⟩ ⟨un⟩ hombre"
     },
     {
       "surface": "תרומות",
-      "english": "⟨de⟩ presentes"
+      "gloss": "⟨de⟩ presentes"
     },
     {
       "surface": "יהרסנה",
-      "english": "⟨la⟩ derriba"
+      "gloss": "⟨la⟩ derriba"
     }
-  ],
-  "timestamp": "2026-06-10T01:50:26.657267157Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 1:6",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 302,
-    "prompt_tokens": 63973,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64275
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:02:47.224146089Z",
   "translation": "Y los hijos de Gomer: Ashkenaz, y Difat, y Togarmá.",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "Y los hijos de"
+      "gloss": "Y los hijos de"
     },
     {
       "surface": "גמר",
-      "english": "Gomer"
+      "gloss": "Gomer"
     },
     {
       "surface": "אשכנז",
-      "english": "Ashkenaz"
+      "gloss": "Ashkenaz"
     },
     {
       "surface": "ודיפת",
-      "english": "y Difat"
+      "gloss": "y Difat"
     },
     {
       "surface": "ותוגרמה",
-      "english": "y Togarmá"
+      "gloss": "y Togarmá"
     }
-  ],
-  "timestamp": "2026-07-16T18:02:47.224146089Z",
-  "model": "glm-4.5"
+  ]
 }

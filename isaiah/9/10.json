@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 9:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 488,
-    "prompt_tokens": 26514,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27002
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:22:52.263130516Z",
   "translation": "YHWH ⟨will raise up⟩ ⟨את⟩ los adversarios de Retsin contra él, y ⟨את⟩ sus enemigos ⟨se despertará⟩",
   "tokens": [
     {
       "surface": "וישגב",
-      "english": "YHWH ⟨will raise up⟩"
+      "gloss": "YHWH ⟨will raise up⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los adversarios de Retsin"
     },
     {
       "surface": "צרי",
-      "english": "los adversarios de Retsin"
+      "gloss": "los adversarios de Retsin"
     },
     {
       "surface": "רצין",
-      "english": "de Retsin"
+      "gloss": "de Retsin"
     },
     {
       "surface": "עליו",
-      "english": "contra él"
+      "gloss": "contra él"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "sus enemigos"
     },
     {
       "surface": "איביו",
-      "english": "sus enemigos"
+      "gloss": "sus enemigos"
     },
     {
       "surface": "יסכסך",
-      "english": "⟨se despertará⟩"
+      "gloss": "⟨se despertará⟩"
     }
-  ],
-  "timestamp": "2026-07-16T21:22:52.263130516Z",
-  "model": "glm-4.5"
+  ]
 }

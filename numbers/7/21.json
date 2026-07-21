@@ -1,70 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "numbers 7:21",
   "book": "numbers",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25184,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25550
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:44:31.841363530Z",
   "translation": "un toro uno ⟨el⟩ hijo de ⟨el⟩ ganado un carnero uno un cordero uno ⟨el⟩ hijo de su año para ascender",
   "tokens": [
     {
       "surface": "פר",
-      "english": "Un toro"
+      "gloss": "Un toro"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo",
+      "gloss": "⟨el⟩ hijo",
       "marks": "ganado"
     },
     {
       "surface": "בקר",
-      "english": "⟨el⟩ ganado"
+      "gloss": "⟨el⟩ ganado"
     },
     {
       "surface": "איל",
-      "english": "un carnero"
+      "gloss": "un carnero"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "כבש",
-      "english": "un cordero"
+      "gloss": "un cordero"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo",
+      "gloss": "⟨el⟩ hijo",
       "marks": "año"
     },
     {
       "surface": "שנתו",
-      "english": "su año"
+      "gloss": "su año"
     },
     {
       "surface": "לעלה",
-      "english": "para ascender"
+      "gloss": "para ascender"
     }
-  ],
-  "timestamp": "2026-06-10T04:44:31.841363530Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 113:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 113,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69933,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70355
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:03.058731686Z",
   "translation": "⟨El que hace⟩ morar ⟨a⟩ la mujer estéril ⟨en⟩ casa ⟨como⟩ madre alegre ⟨de⟩ los hijos. ⟨Alabad⟩ a YHWH.",
   "tokens": [
     {
       "surface": "מושיבי",
-      "english": "⟨El que hace⟩ morar"
+      "gloss": "⟨El que hace⟩ morar"
     },
     {
       "surface": "עקרת",
-      "english": "⟨a⟩ la mujer estéril"
+      "gloss": "⟨a⟩ la mujer estéril"
     },
     {
       "surface": "הבית",
-      "english": "⟨en⟩ casa"
+      "gloss": "⟨en⟩ casa"
     },
     {
       "surface": "אם",
-      "english": "⟨como⟩ madre"
+      "gloss": "⟨como⟩ madre"
     },
     {
       "surface": "הבנים",
-      "english": "⟨de⟩ los hijos"
+      "gloss": "⟨de⟩ los hijos"
     },
     {
       "surface": "שמחה",
-      "english": "alegre"
+      "gloss": "alegre"
     },
     {
       "surface": "הללו",
-      "english": "⟨Alabad⟩"
+      "gloss": "⟨Alabad⟩"
     },
     {
       "surface": "יה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:03.058731686Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-chronicles 35:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 35,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:40:36.656260535Z",
+  "translation": "Y no ⟨se hizo⟩ un Pésaj como este en Yisrael desde ⟨los⟩ días de Shemuél ⟨el⟩ Naví; ni todos ⟨los⟩ reyes de Yisrael hicieron un Pésaj como el que hizo Yoshiyahu, ⟨con⟩ ⟨los⟩ kohanim y ⟨los⟩ leviim y todo Yehudá y ⟨el⟩ Yisrael presente y ⟨los⟩ habitantes de Yerushaláyim",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Y no"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "⟨se hizo⟩"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "un Pésaj"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "como este"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israel"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "desde ⟨los⟩ días"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨el⟩ Naví"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni todos"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "⟨los⟩ reyes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hicieron"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "un Pésaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "como"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "⟨con⟩ ⟨los⟩ kohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "y ⟨los⟩ leviim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "y ⟨el⟩ Israel"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "presente"
+    },
+    {
+      "surface": "ויושבי",
+      "gloss": "y ⟨los⟩ habitantes"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushaláyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,124 +120,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 1036,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59436,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60472
-  },
-  "translation": "Y no ⟨se hizo⟩ un Pésaj como este en Yisrael desde ⟨los⟩ días de Shemuél ⟨el⟩ Naví; ni todos ⟨los⟩ reyes de Yisrael hicieron un Pésaj como el que hizo Yoshiyahu, ⟨con⟩ ⟨los⟩ kohanim y ⟨los⟩ leviim y todo Yehudá y ⟨el⟩ Yisrael presente y ⟨los⟩ habitantes de Yerushaláyim",
-  "tokens": [
-    {
-      "surface": "ולא",
-      "english": "Y no"
-    },
-    {
-      "surface": "נעשה",
-      "english": "⟨se hizo⟩"
-    },
-    {
-      "surface": "פסח",
-      "english": "un Pésaj"
-    },
-    {
-      "surface": "כמהו",
-      "english": "como este"
-    },
-    {
-      "surface": "בישראל",
-      "english": "en Israel"
-    },
-    {
-      "surface": "מימי",
-      "english": "desde ⟨los⟩ días"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shemuél"
-    },
-    {
-      "surface": "הנביא",
-      "english": "⟨el⟩ Naví"
-    },
-    {
-      "surface": "וכל",
-      "english": "ni todos"
-    },
-    {
-      "surface": "מלכי",
-      "english": "⟨los⟩ reyes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "עשו",
-      "english": "hicieron"
-    },
-    {
-      "surface": "כפסח",
-      "english": "un Pésaj"
-    },
-    {
-      "surface": "אשר",
-      "english": "como"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo"
-    },
-    {
-      "surface": "יאשיהו",
-      "english": "Yoshiyahu"
-    },
-    {
-      "surface": "והכהנים",
-      "english": "⟨con⟩ ⟨los⟩ kohanim"
-    },
-    {
-      "surface": "והלוים",
-      "english": "y ⟨los⟩ leviim"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "וישראל",
-      "english": "y ⟨el⟩ Israel"
-    },
-    {
-      "surface": "הנמצא",
-      "english": "presente"
-    },
-    {
-      "surface": "ויושבי",
-      "english": "y ⟨los⟩ habitantes"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushaláyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:40:36.656260535Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

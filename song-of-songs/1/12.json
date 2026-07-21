@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "song-of-songs 1:12",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27302,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 27629
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:35:33.479471459Z",
   "translation": "Mientras el rey ⟨está⟩ en su círculo, mi nardo ⟨ha⟩ dado ⟨את⟩ su fragancia",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Mientras"
+      "gloss": "Mientras"
     },
     {
       "surface": "שהמלך",
-      "english": "el rey"
+      "gloss": "el rey"
     },
     {
       "surface": "במסבו",
-      "english": "en su círculo"
+      "gloss": "en su círculo"
     },
     {
       "surface": "נרדי",
-      "english": "mi nardo"
+      "gloss": "mi nardo"
     },
     {
       "surface": "נתן",
-      "english": "ha dado"
+      "gloss": "ha dado"
     },
     {
       "surface": "ריחו",
-      "english": "su fragancia"
+      "gloss": "su fragancia"
     }
-  ],
-  "timestamp": "2026-06-09T22:35:33.479471459Z",
-  "model": "glm-4.5"
+  ]
 }

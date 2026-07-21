@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 73:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69813,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70195
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:45.733375824Z",
   "translation": "From ⟨the⟩ fat ⟨their⟩ eyes come out; ⟨their⟩ imaginations transgress ⟨the⟩ heart.",
   "tokens": [
     {
       "surface": "יצא",
-      "english": "Come out"
+      "gloss": "Come out"
     },
     {
       "surface": "מחלב",
-      "english": "From ⟨the⟩ fat"
+      "gloss": "From ⟨the⟩ fat"
     },
     {
       "surface": "עינמו",
-      "english": "⟨their⟩ eyes"
+      "gloss": "⟨their⟩ eyes"
     },
     {
       "surface": "עברו",
-      "english": "transgress"
+      "gloss": "transgress"
     },
     {
       "surface": "משכיות",
-      "english": "⟨their⟩ imaginations"
+      "gloss": "⟨their⟩ imaginations"
     },
     {
       "surface": "לבב",
-      "english": "⟨the⟩ heart"
+      "gloss": "⟨the⟩ heart"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:45.733375824Z",
-  "model": "glm-4.5"
+  ]
 }

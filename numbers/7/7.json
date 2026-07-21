@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "numbers 7:7",
   "book": "numbers",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 467,
-    "prompt_tokens": 25524,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25991
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:58:57.825248638Z",
   "translation": "⟨את⟩ las dos carretas y ⟨את⟩ las cuatro cabezas de ganado dio a los hijos de Gershón conforme a su servicio",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las dos carretas"
     },
     {
       "surface": "שתי",
-      "english": "las dos"
+      "gloss": "las dos"
     },
     {
       "surface": "העגלת",
-      "english": "carretas"
+      "gloss": "carretas"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "las cuatro cabezas de ganado"
     },
     {
       "surface": "ארבעת",
-      "english": "las cuatro"
+      "gloss": "las cuatro"
     },
     {
       "surface": "הבקר",
-      "english": "cabezas de ganado"
+      "gloss": "cabezas de ganado"
     },
     {
       "surface": "נתן",
-      "english": "dio"
+      "gloss": "dio"
     },
     {
       "surface": "לבני",
-      "english": "a los hijos de"
+      "gloss": "a los hijos de"
     },
     {
       "surface": "גרשון",
-      "english": "Gershón"
+      "gloss": "Gershón"
     },
     {
       "surface": "כפי",
-      "english": "conforme a"
+      "gloss": "conforme a"
     },
     {
       "surface": "עבדתם",
-      "english": "su servicio"
+      "gloss": "su servicio"
     }
-  ],
-  "timestamp": "2026-07-16T22:58:57.825248638Z",
-  "model": "glm-4.5"
+  ]
 }

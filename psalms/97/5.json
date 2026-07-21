@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 97:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 97,
-  "usage": {
-    "completion_tokens": 396,
-    "prompt_tokens": 70135,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70531
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:49.689342289Z",
   "translation": "Las montañas se derritieron como cera ante la presencia de YHWH, ante la presencia del Adón de toda la tierra.",
   "tokens": [
     {
       "surface": "הרים",
-      "english": "Las montañas"
+      "gloss": "Las montañas"
     },
     {
       "surface": "כדונג",
-      "english": "como cera"
+      "gloss": "como cera"
     },
     {
       "surface": "נמסו",
-      "english": "se derritieron"
+      "gloss": "se derritieron"
     },
     {
       "surface": "מלפני",
-      "english": "ante la presencia de"
+      "gloss": "ante la presencia de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מלפני",
-      "english": "ante la presencia de"
+      "gloss": "ante la presencia de"
     },
     {
       "surface": "אדון",
-      "english": "el Adón"
+      "gloss": "el Adón"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:49.689342289Z",
-  "model": "glm-4.5"
+  ]
 }

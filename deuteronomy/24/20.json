@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "deuteronomy 24:20",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 517,
-    "prompt_tokens": 25106,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25623
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:56:25.147878878Z",
   "translation": "Cuando ⟨tú⟩ golpees ⟨את⟩ tu olivo, no ⟨lo⟩ adornarás tras ⟨tú⟩; para el ger, para el yatom y para la almaná, será.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Cuando"
+      "gloss": "Cuando"
     },
     {
       "surface": "תחבט",
-      "english": "golpees"
+      "gloss": "golpees"
     },
     {
       "surface": "זיתך",
-      "english": "⟨את⟩ tu olivo",
+      "gloss": "⟨את⟩ tu olivo",
       "marks": "tu olivo"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תפאר",
-      "english": "⟨lo⟩ adornarás"
+      "gloss": "⟨lo⟩ adornarás"
     },
     {
       "surface": "אחריך",
-      "english": "tras ⟨tú⟩"
+      "gloss": "tras ⟨tú⟩"
     },
     {
       "surface": "לגר",
-      "english": "para el ger"
+      "gloss": "para el ger"
     },
     {
       "surface": "ליתום",
-      "english": "para el yatom"
+      "gloss": "para el yatom"
     },
     {
       "surface": "ולאלמנה",
-      "english": "y para la almaná"
+      "gloss": "y para la almaná"
     },
     {
       "surface": "יהיה",
-      "english": "será"
+      "gloss": "será"
     }
-  ],
-  "timestamp": "2026-07-16T19:56:25.147878878Z",
-  "model": "glm-4.5"
+  ]
 }

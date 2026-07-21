@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 37:3",
   "book": "job",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27154,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27635
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:40.377334075Z",
   "translation": "Debajo ⟨de⟩ todo ⟨el⟩ cielo ⟨Él⟩ lo dirige y su relámpago hasta ⟨los⟩ extremos ⟨de⟩ ⟨la⟩ tierra",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "Debajo"
+      "gloss": "Debajo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "השמים",
-      "english": "⟨el⟩ cielo"
+      "gloss": "⟨el⟩ cielo"
     },
     {
       "surface": "ישרהו",
-      "english": "⟨Él⟩ lo dirige"
+      "gloss": "⟨Él⟩ lo dirige"
     },
     {
       "surface": "ואורו",
-      "english": "y su relámpago"
+      "gloss": "y su relámpago"
     },
     {
       "surface": "על",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "כנפות",
-      "english": "⟨los⟩ extremos"
+      "gloss": "⟨los⟩ extremos"
     },
     {
       "surface": "הארץ",
-      "english": "⟨de⟩ ⟨la⟩ tierra"
+      "gloss": "⟨de⟩ ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:40.377334075Z",
-  "model": "glm-4.5"
+  ]
 }

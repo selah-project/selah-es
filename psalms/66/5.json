@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 66:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 594,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70062,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70656
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:59.665626161Z",
   "translation": "Venid y ved ⟨las⟩ obras ⟨de⟩ Elohim; temible ⟨es⟩ ⟨su⟩ hacer ⟨hacia⟩ ⟨los⟩ hijos ⟨de⟩ Adam.",
   "tokens": [
     {
       "surface": "לכו",
-      "english": "Venid"
+      "gloss": "Venid"
     },
     {
       "surface": "וראו",
-      "english": "y ved"
+      "gloss": "y ved"
     },
     {
       "surface": "מפעלות",
-      "english": "⟨las⟩ obras"
+      "gloss": "⟨las⟩ obras"
     },
     {
       "surface": "אלהים",
-      "english": "⟨de⟩ Elohim"
+      "gloss": "⟨de⟩ Elohim"
     },
     {
       "surface": "נורא",
-      "english": "temible ⟨es⟩"
+      "gloss": "temible ⟨es⟩"
     },
     {
       "surface": "עלילה",
-      "english": "⟨su⟩ hacer"
+      "gloss": "⟨su⟩ hacer"
     },
     {
       "surface": "על",
-      "english": "⟨hacia⟩"
+      "gloss": "⟨hacia⟩"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "אדם",
-      "english": "⟨de⟩ Adam"
+      "gloss": "⟨de⟩ Adam"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:59.665626161Z",
-  "model": "glm-4.5"
+  ]
 }

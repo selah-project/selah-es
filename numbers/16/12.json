@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "numbers 16:12",
   "book": "numbers",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25241,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25709
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:52:10.401002748Z",
   "translation": "Y Moshé envió a llamar ⟨a⟩ Datan y ⟨a⟩ Aviram ⟨los⟩ hijos de Eliav, y ellos dijeron: 'No subiremos'",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "Y envió"
+      "gloss": "Y envió"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לקרא",
-      "english": "a llamar"
+      "gloss": "a llamar"
     },
     {
       "surface": "לדתן",
-      "english": "⟨a⟩ Datan",
+      "gloss": "⟨a⟩ Datan",
       "marks": "Datan"
     },
     {
       "surface": "ולאבירם",
-      "english": "y ⟨a⟩ Aviram",
+      "gloss": "y ⟨a⟩ Aviram",
       "marks": "Aviram"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "אליאב",
-      "english": "de Eliav"
+      "gloss": "de Eliav"
     },
     {
       "surface": "ויאמרו",
-      "english": "y ellos dijeron"
+      "gloss": "y ellos dijeron"
     },
     {
       "surface": "לא",
-      "english": "'No"
+      "gloss": "'No"
     },
     {
       "surface": "נעלה",
-      "english": "subiremos'"
+      "gloss": "subiremos'"
     }
-  ],
-  "timestamp": "2026-06-10T04:52:10.401002748Z",
-  "model": "glm-4.5"
+  ]
 }

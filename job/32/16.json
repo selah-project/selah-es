@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 32:16",
   "book": "job",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27193,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27618
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:11:33.636655458Z",
   "translation": "Y esperé ⟨porque⟩ no hablaron, ⟨porque⟩ se detuvieron y ⟨no⟩ respondieron ⟨más⟩",
   "tokens": [
     {
       "surface": "והוחלתי",
-      "english": "Y esperé"
+      "gloss": "Y esperé"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ידברו",
-      "english": "hablaron"
+      "gloss": "hablaron"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "עמדו",
-      "english": "se detuvieron"
+      "gloss": "se detuvieron"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ענו",
-      "english": "respondieron"
+      "gloss": "respondieron"
     },
     {
       "surface": "עוד",
-      "english": "⟨más⟩"
+      "gloss": "⟨más⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:11:33.636655458Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "psalms 119:44",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 69740,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70151
-  },
+  "verse": 44,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:25.761179122Z",
   "translation": "Y guardaré tu Torá continuamente, por siempre y ⟨para⟩ siempre.",
   "tokens": [
     {
       "surface": "ואשמרה",
-      "english": "Y guardaré"
+      "gloss": "Y guardaré"
     },
     {
       "surface": "תורתך",
-      "english": "tu Torá"
+      "gloss": "tu Torá"
     },
     {
       "surface": "תמיד",
-      "english": "continuamente"
+      "gloss": "continuamente"
     },
     {
       "surface": "לעולם",
-      "english": "por siempre"
+      "gloss": "por siempre"
     },
     {
       "surface": "ועד",
-      "english": "y ⟨para⟩ siempre"
+      "gloss": "y ⟨para⟩ siempre"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:25.761179122Z",
-  "model": "glm-4.5"
+  ]
 }

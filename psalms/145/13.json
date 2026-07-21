@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 145:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69978,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70350
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:10:46.894664966Z",
   "translation": "Tu reino ⟨es⟩ un reino para todos los siglos, y tu dominio ⟨está⟩ en todas ⟨las⟩ generaciones y generaciones.",
   "tokens": [
     {
       "surface": "מלכותך",
-      "english": "Tu reino"
+      "gloss": "Tu reino"
     },
     {
       "surface": "מלכות",
-      "english": "⟨es⟩ un reino"
+      "gloss": "⟨es⟩ un reino"
     },
     {
       "surface": "כל",
-      "english": "para todos"
+      "gloss": "para todos"
     },
     {
       "surface": "עלמים",
-      "english": "los siglos"
+      "gloss": "los siglos"
     },
     {
       "surface": "וממשלתך",
-      "english": "y tu dominio"
+      "gloss": "y tu dominio"
     },
     {
       "surface": "בכל",
-      "english": "⟨está⟩ en todas ⟨las⟩"
+      "gloss": "⟨está⟩ en todas ⟨las⟩"
     },
     {
       "surface": "דור",
-      "english": "generaciones"
+      "gloss": "generaciones"
     },
     {
       "surface": "ודור",
-      "english": "y generaciones"
+      "gloss": "y generaciones"
     }
-  ],
-  "timestamp": "2026-06-10T00:10:46.894664966Z",
-  "model": "glm-4.5"
+  ]
 }

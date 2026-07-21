@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-kings 3:18",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 457,
-    "prompt_tokens": 24052,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24509
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:06:19.136490452Z",
   "translation": "Y esto ⟨es⟩ ⟨algo⟩ ligero ⟨en⟩ los ojos de YHWH, y él dará ⟨את⟩ Moab ⟨en⟩ vuestra mano",
   "tokens": [
     {
       "surface": "ונקל",
-      "english": "Y esto ⟨es⟩ ⟨algo⟩ ligero"
+      "gloss": "Y esto ⟨es⟩ ⟨algo⟩ ligero"
     },
     {
       "surface": "זאת",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "בעיני",
-      "english": "⟨en⟩ los ojos"
+      "gloss": "⟨en⟩ los ojos"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ונתן",
-      "english": "y él dará"
+      "gloss": "y él dará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moab"
     },
     {
       "surface": "מואב",
-      "english": "Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "בידכם",
-      "english": "⟨en⟩ vuestra mano"
+      "gloss": "⟨en⟩ vuestra mano"
     }
-  ],
-  "timestamp": "2026-07-16T19:06:19.136490452Z",
-  "model": "glm-4.5"
+  ]
 }

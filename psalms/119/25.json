@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 119:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 397,
-    "prompt_tokens": 69798,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70195
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:16.615430044Z",
   "translation": "Mi alma se ha pegado al polvo: vivifícame según tu davar.",
   "tokens": [
     {
       "surface": "דבקה",
-      "english": "se ha pegado"
+      "gloss": "se ha pegado"
     },
     {
       "surface": "לעפר",
-      "english": "al polvo"
+      "gloss": "al polvo"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "חיני",
-      "english": "vivifícame"
+      "gloss": "vivifícame"
     },
     {
       "surface": "כדברך",
-      "english": "según tu davar"
+      "gloss": "según tu davar"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:16.615430044Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 50:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70022,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70522
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:22:20.255495503Z",
   "translation": "El que ⟨es⟩ un sacrificio de acción de gracias me glorifica, y ⟨al que⟩ ⟨en⟩ ⟨su⟩ camino ⟨lo⟩ prepara ⟨bien⟩ ⟨le⟩ mostraré ⟨la⟩ salvación de Elohim.",
   "tokens": [
     {
       "surface": "זבח",
-      "english": "El que ⟨es⟩ un sacrificio"
+      "gloss": "El que ⟨es⟩ un sacrificio"
     },
     {
       "surface": "תודה",
-      "english": "de acción de gracias"
+      "gloss": "de acción de gracias"
     },
     {
       "surface": "יכבדנני",
-      "english": "me glorifica"
+      "gloss": "me glorifica"
     },
     {
       "surface": "ושם",
-      "english": "y ⟨al que⟩"
+      "gloss": "y ⟨al que⟩"
     },
     {
       "surface": "דרך",
-      "english": "⟨en⟩ ⟨su⟩ camino"
+      "gloss": "⟨en⟩ ⟨su⟩ camino"
     },
     {
       "surface": "אראנו",
-      "english": "⟨lo⟩ prepara ⟨bien⟩ ⟨le⟩ mostraré"
+      "gloss": "⟨lo⟩ prepara ⟨bien⟩ ⟨le⟩ mostraré"
     },
     {
       "surface": "בישע",
-      "english": "⟨la⟩ salvación"
+      "gloss": "⟨la⟩ salvación"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     }
-  ],
-  "timestamp": "2026-06-09T23:22:20.255495503Z",
-  "model": "glm-4.5"
+  ]
 }

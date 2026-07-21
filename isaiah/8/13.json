@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "isaiah 8:13",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 530,
-    "prompt_tokens": 26553,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27083
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:23:15.127528158Z",
   "translation": "A YHWH Tzevaot ⟨את⟩ Él mismo lo santificaréis, y Él será vuestro temor, y Él será vuestro espanto.",
   "tokens": [
     {
       "surface": "את",
-      "english": "A",
+      "gloss": "A",
       "marks": "YHWH Tzevaot"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Él mismo"
     },
     {
       "surface": "תקדישו",
-      "english": "lo santificaréis"
+      "gloss": "lo santificaréis"
     },
     {
       "surface": "והוא",
-      "english": "y Él"
+      "gloss": "y Él"
     },
     {
       "surface": "מוראכם",
-      "english": "será vuestro temor"
+      "gloss": "será vuestro temor"
     },
     {
       "surface": "והוא",
-      "english": "y Él"
+      "gloss": "y Él"
     },
     {
       "surface": "מערצכם",
-      "english": "será vuestro espanto"
+      "gloss": "será vuestro espanto"
     }
-  ],
-  "timestamp": "2026-07-16T21:23:15.127528158Z",
-  "model": "glm-4.5"
+  ]
 }

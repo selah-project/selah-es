@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 79:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69861,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70197
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:45.115540943Z",
   "translation": "Nosotros ⟨somos⟩ un oprobio para nuestros vecinos, un escarnio y burla ⟨a⟩ los que ⟨están⟩ a nuestro alrededor.",
   "tokens": [
     {
       "surface": "היינו",
-      "english": "Nosotros"
+      "gloss": "Nosotros"
     },
     {
       "surface": "חרפה",
-      "english": "un oprobio"
+      "gloss": "un oprobio"
     },
     {
       "surface": "לשכנינו",
-      "english": "para nuestros vecinos"
+      "gloss": "para nuestros vecinos"
     },
     {
       "surface": "לעג",
-      "english": "un escarnio"
+      "gloss": "un escarnio"
     },
     {
       "surface": "וקלס",
-      "english": "y burla"
+      "gloss": "y burla"
     },
     {
       "surface": "לסביבותינו",
-      "english": "⟨a⟩ los que ⟨están⟩ a nuestro alrededor"
+      "gloss": "⟨a⟩ los que ⟨están⟩ a nuestro alrededor"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:45.115540943Z",
-  "model": "glm-4.5"
+  ]
 }

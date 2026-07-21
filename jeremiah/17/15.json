@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "jeremiah 17:15",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 494,
-    "prompt_tokens": 24566,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25060
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:39:31.898861887Z",
   "translation": "¡Mira! ⟨ellos⟩ dicen a mí: '¿Dónde ⟨está⟩ ⟨el⟩ davar de YHWH? ⟨que⟩ venga, por ⟨favor⟩'",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "¡Mira!"
+      "gloss": "¡Mira!"
     },
     {
       "surface": "המה",
-      "english": "⟨ellos⟩"
+      "gloss": "⟨ellos⟩"
     },
     {
       "surface": "אמרים",
-      "english": "dicen"
+      "gloss": "dicen"
     },
     {
       "surface": "אלי",
-      "english": "a mí"
+      "gloss": "a mí"
     },
     {
       "surface": "איה",
-      "english": "¿Dónde"
+      "gloss": "¿Dónde"
     },
     {
       "surface": "דבר",
-      "english": "⟨el⟩ davar"
+      "gloss": "⟨el⟩ davar"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "יבוא",
-      "english": "⟨que⟩ venga"
+      "gloss": "⟨que⟩ venga"
     },
     {
       "surface": "נא",
-      "english": "por ⟨favor⟩"
+      "gloss": "por ⟨favor⟩"
     }
-  ],
-  "timestamp": "2026-07-16T21:39:31.898861887Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 29:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70205,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70679
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:10:19.678398160Z",
   "translation": "Voz de YHWH ⟨está⟩ sobre las aguas, ⟨el⟩ Dios de gloria ⟨truena⟩, YHWH ⟨está⟩ sobre aguas abundantes",
   "tokens": [
     {
       "surface": "קול",
-      "english": "Voz"
+      "gloss": "Voz"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "המים",
-      "english": "⟨las⟩ aguas"
+      "gloss": "⟨las⟩ aguas"
     },
     {
       "surface": "אל",
-      "english": "⟨el⟩ Dios"
+      "gloss": "⟨el⟩ Dios"
     },
     {
       "surface": "הכבוד",
-      "english": "de gloria"
+      "gloss": "de gloria"
     },
     {
       "surface": "הרעים",
-      "english": "⟨truena⟩"
+      "gloss": "⟨truena⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "רבים",
-      "english": "abundantes"
+      "gloss": "abundantes"
     }
-  ],
-  "timestamp": "2026-06-09T23:10:19.678398160Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,51 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 60:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25914,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26415
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:58:18.242374080Z",
   "translation": "Y caminarán ⟨los⟩ gentiles a ⟨tu⟩ luz ⟨y⟩ los reyes ⟨al⟩ resplandor de ⟨tu⟩ salida",
   "tokens": [
     {
       "surface": "והלכו",
-      "english": "Y caminarán"
+      "gloss": "Y caminarán"
     },
     {
       "surface": "גוים",
-      "english": "⟨los⟩ gentiles"
+      "gloss": "⟨los⟩ gentiles"
     },
     {
       "surface": "לאורך",
-      "english": "a ⟨tu⟩ luz",
+      "gloss": "a ⟨tu⟩ luz",
       "marks": "a ⟨tu⟩ luz"
     },
     {
       "surface": "ומלכים",
-      "english": "⟨y⟩ los reyes"
+      "gloss": "⟨y⟩ los reyes"
     },
     {
       "surface": "לנגה",
-      "english": "⟨al⟩ resplandor de",
+      "gloss": "⟨al⟩ resplandor de",
       "marks": "⟨al⟩ resplandor de"
     },
     {
       "surface": "זרחך",
-      "english": "⟨tu⟩ salida",
+      "gloss": "⟨tu⟩ salida",
       "marks": "⟨tu⟩ salida"
     }
-  ],
-  "timestamp": "2026-06-10T02:58:18.242374080Z",
-  "model": "glm-4.5"
+  ]
 }

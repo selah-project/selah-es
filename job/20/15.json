@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 20:15",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26977,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27399
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:15.017967334Z",
   "translation": "Él ⟨ha⟩ devorado riquezas ⟨את⟩, y las vomitará de nuevo; Elohim ⟨echará⟩ ⟨fuera⟩ ⟨de⟩ ⟨su⟩ vientre.",
   "tokens": [
     {
       "surface": "חיל",
-      "english": "Riquezas"
+      "gloss": "Riquezas"
     },
     {
       "surface": "בלע",
-      "english": "devorado"
+      "gloss": "devorado"
     },
     {
       "surface": "ויקאנו",
-      "english": "y las vomitará de nuevo"
+      "gloss": "y las vomitará de nuevo"
     },
     {
       "surface": "מבטנו",
-      "english": "⟨de⟩ ⟨su⟩ vientre"
+      "gloss": "⟨de⟩ ⟨su⟩ vientre"
     },
     {
       "surface": "יורשנו",
-      "english": "⟨echará⟩ ⟨fuera⟩"
+      "gloss": "⟨echará⟩ ⟨fuera⟩"
     },
     {
       "surface": "אל",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:15.017967334Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 17:18",
   "book": "genesis",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28352,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28737
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:14:04.881235248Z",
   "translation": "Y dijo Avraham ⟨a⟩ HaElohim: ¡Ojalá Yishmael viva ⟨delante de⟩ ti!",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "HaElohim"
     },
     {
       "surface": "האלהים",
-      "english": "HaElohim"
+      "gloss": "HaElohim"
     },
     {
       "surface": "לו",
-      "english": "¡Ojalá"
+      "gloss": "¡Ojalá"
     },
     {
       "surface": "ישמעאל",
-      "english": "Yishmael"
+      "gloss": "Yishmael"
     },
     {
       "surface": "יחיה",
-      "english": "viva"
+      "gloss": "viva"
     },
     {
       "surface": "לפניך",
-      "english": "⟨delante de⟩ ti"
+      "gloss": "⟨delante de⟩ ti"
     }
-  ],
-  "timestamp": "2026-06-10T05:14:04.881235248Z",
-  "model": "glm-4.5"
+  ]
 }

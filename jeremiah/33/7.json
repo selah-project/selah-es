@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "jeremiah 33:7",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24801,
-    "prompt_tokens_details": {
-      "cached_tokens": 23392
-    },
-    "total_tokens": 25353
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:30:18.238772513Z",
   "translation": "y haré volver ⟨el⟩ cautiverio de Yehudá ⟨y⟩ ⟨el⟩ cautiverio de Yisrael ⟨y⟩ los edificaré como ⟨en⟩ ⟨el⟩ primer ⟨estado⟩",
   "tokens": [
     {
       "surface": "והשבתי",
-      "english": "Y haré volver"
+      "gloss": "Y haré volver"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "el cautiverio de Yehudá"
     },
     {
       "surface": "שבות",
-      "english": "cautiverio"
+      "gloss": "cautiverio"
     },
     {
       "surface": "יהודה",
-      "english": "de Yehudá"
+      "gloss": "de Yehudá"
     },
     {
       "surface": "ואת",
-      "english": "⟨y⟩ ⟨el⟩",
+      "gloss": "⟨y⟩ ⟨el⟩",
       "marks": "el cautiverio de Yisrael"
     },
     {
       "surface": "שבות",
-      "english": "cautiverio"
+      "gloss": "cautiverio"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "ובנתים",
-      "english": "⟨y⟩ los edificaré"
+      "gloss": "⟨y⟩ los edificaré"
     },
     {
       "surface": "כבראשנה",
-      "english": "como ⟨en⟩ ⟨el⟩ primer ⟨estado⟩"
+      "gloss": "como ⟨en⟩ ⟨el⟩ primer ⟨estado⟩"
     }
-  ],
-  "timestamp": "2026-06-10T03:30:18.238772513Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 129:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 129,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69750,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70079
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:04:46.650305669Z",
   "translation": "Que ⟨se avergüencen⟩ y sean ⟨puestos⟩ ⟨hacia atrás⟩ todos los que aborrecen a Tzión.",
   "tokens": [
     {
       "surface": "יבשו",
-      "english": "Que se avergüencen"
+      "gloss": "Que se avergüencen"
     },
     {
       "surface": "ויסגו",
-      "english": "y sean puestos"
+      "gloss": "y sean puestos"
     },
     {
       "surface": "אחור",
-      "english": "hacia atrás"
+      "gloss": "hacia atrás"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "שנאי",
-      "english": "los que aborrecen"
+      "gloss": "los que aborrecen"
     },
     {
       "surface": "ציון",
-      "english": "a Tzión"
+      "gloss": "a Tzión"
     }
-  ],
-  "timestamp": "2026-06-10T00:04:46.650305669Z",
-  "model": "glm-4.5"
+  ]
 }

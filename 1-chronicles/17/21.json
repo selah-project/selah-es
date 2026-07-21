@@ -1,9 +1,113 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-chronicles 17:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 17,
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:47:07.824462273Z",
+  "translation": "¿Y quién ⟨es⟩ como tu pueblo, Yisrael, ⟨una⟩ nación en ⟨la⟩ tierra, que HaShem anduvo ⟨para⟩ redimir ⟨a⟩ un pueblo ⟨para⟩ sí mismo, ⟨para⟩ hacerte ⟨un⟩ nombre ⟨de⟩ grandezas y ⟨de⟩ espantos, ⟨para⟩ echar ⟨de⟩ ⟨la⟩ presencia de tu pueblo ⟨que⟩ tú redimiste ⟨de⟩ Egipto — ⟨las⟩ naciones?",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Y quién"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "como tu pueblo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nación"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "en la tierra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anduvo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaShem"
+    },
+    {
+      "surface": "לפדות",
+      "gloss": "para redimir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a un pueblo",
+      "marks": "un pueblo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pueblo"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "para"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hacerte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "un nombre"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "de grandezas"
+    },
+    {
+      "surface": "ונראות",
+      "gloss": "y de espantos"
+    },
+    {
+      "surface": "לגרש",
+      "gloss": "para echar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de la presencia"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "de tu pueblo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "redimiste"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "de Egipto"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "las naciones"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,121 +117,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 1119,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58256,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 59375
-  },
-  "translation": "¿Y quién ⟨es⟩ como tu pueblo, Yisrael, ⟨una⟩ nación en ⟨la⟩ tierra, que HaShem anduvo ⟨para⟩ redimir ⟨a⟩ un pueblo ⟨para⟩ sí mismo, ⟨para⟩ hacerte ⟨un⟩ nombre ⟨de⟩ grandezas y ⟨de⟩ espantos, ⟨para⟩ echar ⟨de⟩ ⟨la⟩ presencia de tu pueblo ⟨que⟩ tú redimiste ⟨de⟩ Egipto — ⟨las⟩ naciones?",
-  "tokens": [
-    {
-      "surface": "ומי",
-      "english": "Y quién"
-    },
-    {
-      "surface": "כעמך",
-      "english": "como tu pueblo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "גוי",
-      "english": "nación"
-    },
-    {
-      "surface": "אחד",
-      "english": "una"
-    },
-    {
-      "surface": "בארץ",
-      "english": "en la tierra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "הלך",
-      "english": "anduvo"
-    },
-    {
-      "surface": "האלהים",
-      "english": "HaShem"
-    },
-    {
-      "surface": "לפדות",
-      "english": "para redimir"
-    },
-    {
-      "surface": "לו",
-      "english": "a un pueblo",
-      "marks": "un pueblo"
-    },
-    {
-      "surface": "עם",
-      "english": "pueblo"
-    },
-    {
-      "surface": "לשום",
-      "english": "para"
-    },
-    {
-      "surface": "לך",
-      "english": "hacerte"
-    },
-    {
-      "surface": "שם",
-      "english": "un nombre"
-    },
-    {
-      "surface": "גדלות",
-      "english": "de grandezas"
-    },
-    {
-      "surface": "ונראות",
-      "english": "y de espantos"
-    },
-    {
-      "surface": "לגרש",
-      "english": "para echar"
-    },
-    {
-      "surface": "מפני",
-      "english": "de la presencia"
-    },
-    {
-      "surface": "עמך",
-      "english": "de tu pueblo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "פדית",
-      "english": "redimiste"
-    },
-    {
-      "surface": "ממצרים",
-      "english": "de Egipto"
-    },
-    {
-      "surface": "גוים",
-      "english": "las naciones"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:47:07.824462273Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

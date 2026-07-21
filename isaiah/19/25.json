@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "isaiah 19:25",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26596,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27075
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:32:41.569553043Z",
   "translation": "a quien YHWH Tzevaot bendijo, diciendo: Bendito ⟨es⟩ mi pueblo Egipto, y ⟨la⟩ obra de mis manos ⟨es⟩ Ashur, y mi heredad ⟨es⟩ Israel.",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "A quien"
+      "gloss": "A quien"
     },
     {
       "surface": "ברכו",
-      "english": "bendijo"
+      "gloss": "bendijo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo:"
+      "gloss": "diciendo:"
     },
     {
       "surface": "ברוך",
-      "english": "Bendito"
+      "gloss": "Bendito"
     },
     {
       "surface": "עמי",
-      "english": "mi pueblo"
+      "gloss": "mi pueblo"
     },
     {
       "surface": "מצרים",
-      "english": "Egipto"
+      "gloss": "Egipto"
     },
     {
       "surface": "ומעשה",
-      "english": "y ⟨la⟩ obra"
+      "gloss": "y ⟨la⟩ obra"
     },
     {
       "surface": "ידי",
-      "english": "de mis manos"
+      "gloss": "de mis manos"
     },
     {
       "surface": "אשור",
-      "english": "Ashur"
+      "gloss": "Ashur"
     },
     {
       "surface": "ונחלתי",
-      "english": "y mi heredad"
+      "gloss": "y mi heredad"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     }
-  ],
-  "timestamp": "2026-06-10T02:32:41.569553043Z",
-  "model": "glm-4.5"
+  ]
 }

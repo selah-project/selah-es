@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 61:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 61,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69826,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70141
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:15.507052680Z",
   "translation": "así cantaré ⟨el⟩ nombre tuyo para siempre para completar ⟨mis⟩ votos día día",
   "tokens": [
     {
       "surface": "כן",
-      "english": "Así"
+      "gloss": "Así"
     },
     {
       "surface": "אזמרה",
-      "english": "cantaré"
+      "gloss": "cantaré"
     },
     {
       "surface": "שמך",
-      "english": "⟨el⟩ nombre tuyo"
+      "gloss": "⟨el⟩ nombre tuyo"
     },
     {
       "surface": "לעד",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "לשלמי",
-      "english": "para completar"
+      "gloss": "para completar"
     },
     {
       "surface": "נדרי",
-      "english": "⟨mis⟩ votos"
+      "gloss": "⟨mis⟩ votos"
     },
     {
       "surface": "יום",
-      "english": "día"
+      "gloss": "día"
     },
     {
       "surface": "יום",
-      "english": "día"
+      "gloss": "día"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:15.507052680Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "judges 9:12",
   "book": "judges",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 326,
-    "prompt_tokens": 23295,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 23621
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:24:19.549313471Z",
   "translation": "Y dijeron ⟨los⟩ árboles a la vid: Ven tú, ⟨את⟩ reina sobre nosotros.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "Y dijeron"
+      "gloss": "Y dijeron"
     },
     {
       "surface": "העצים",
-      "english": "⟨los⟩ árboles"
+      "gloss": "⟨los⟩ árboles"
     },
     {
       "surface": "לגפן",
-      "english": "a la vid"
+      "gloss": "a la vid"
     },
     {
       "surface": "לכי",
-      "english": "Ven tú"
+      "gloss": "Ven tú"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "reina"
     },
     {
       "surface": "מלוכי",
-      "english": "reina"
+      "gloss": "reina"
     },
     {
       "surface": "עלינו",
-      "english": "sobre nosotros"
+      "gloss": "sobre nosotros"
     }
-  ],
-  "timestamp": "2026-07-16T22:24:19.549313471Z",
-  "model": "glm-4.5"
+  ]
 }

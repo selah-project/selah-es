@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 121:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 376,
-    "prompt_tokens": 70089,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70465
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:06.418374120Z",
   "translation": "YHWH te guardará de todo mal, ⟨את⟩ tu alma ⟨guardará⟩",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ישמרך",
-      "english": "te guardará"
+      "gloss": "te guardará"
     },
     {
       "surface": "מכל",
-      "english": "de todo"
+      "gloss": "de todo"
     },
     {
       "surface": "רע",
-      "english": "mal"
+      "gloss": "mal"
     },
     {
       "surface": "ישמר",
-      "english": "guardará"
+      "gloss": "guardará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu alma"
     },
     {
       "surface": "נפשך",
-      "english": "tu alma"
+      "gloss": "tu alma"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:06.418374120Z",
-  "model": "glm-4.5"
+  ]
 }

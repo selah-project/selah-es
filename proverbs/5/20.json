@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 5:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 619,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52559,
-    "prompt_tokens_details": {
-      "cached_tokens": 51546
-    },
-    "total_tokens": 53178
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:26:02.769717218Z",
   "translation": "¿Y por qué, hijo mío, ⟨estás⟩ extraviado ⟨por⟩ ⟨una⟩ mujer extraña y ⟨te⟩ ⟨abrazas⟩ ⟨al⟩ seno ⟨de⟩ una ajena?",
   "tokens": [
     {
       "surface": "ולמה",
-      "english": "¿Y por qué"
+      "gloss": "¿Y por qué"
     },
     {
       "surface": "תשגה",
-      "english": "⟨estás⟩ extraviado"
+      "gloss": "⟨estás⟩ extraviado"
     },
     {
       "surface": "בני",
-      "english": "hijo mío"
+      "gloss": "hijo mío"
     },
     {
       "surface": "בזרה",
-      "english": "⟨por⟩ ⟨una⟩ mujer extraña"
+      "gloss": "⟨por⟩ ⟨una⟩ mujer extraña"
     },
     {
       "surface": "ותחבק",
-      "english": "y ⟨te⟩ ⟨abrazas⟩"
+      "gloss": "y ⟨te⟩ ⟨abrazas⟩"
     },
     {
       "surface": "חק",
-      "english": "⟨al⟩ seno"
+      "gloss": "⟨al⟩ seno"
     },
     {
       "surface": "נכריה",
-      "english": "⟨de⟩ una ajena"
+      "gloss": "⟨de⟩ una ajena"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:26:02.769717218Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

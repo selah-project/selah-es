@@ -1,81 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 55:24",
   "book": "psalms",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 692,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70273,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70965
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:25:13.974161561Z",
   "translation": "Y tú, Elohim, ⟨los⟩ harás descender ⟨al⟩ pozo de destrucción; ⟨los⟩ hombres de sangre y ⟨de⟩ engaño no vivirán ⟨la⟩ mitad de sus días; y yo confiaré en ti.",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Y tú"
+      "gloss": "Y tú"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "תורדם",
-      "english": "⟨los⟩ harás descender",
+      "gloss": "⟨los⟩ harás descender",
       "marks": "a los hombres de sangre y engaño"
     },
     {
       "surface": "לבאר",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "שחת",
-      "english": "pozo de destrucción"
+      "gloss": "pozo de destrucción"
     },
     {
       "surface": "אנשי",
-      "english": "⟨los⟩ hombres"
+      "gloss": "⟨los⟩ hombres"
     },
     {
       "surface": "דמים",
-      "english": "de sangre"
+      "gloss": "de sangre"
     },
     {
       "surface": "ומרמה",
-      "english": "y ⟨de⟩ engaño"
+      "gloss": "y ⟨de⟩ engaño"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יחצו",
-      "english": "vivirán ⟨la⟩ mitad"
+      "gloss": "vivirán ⟨la⟩ mitad"
     },
     {
       "surface": "ימיהם",
-      "english": "de sus días"
+      "gloss": "de sus días"
     },
     {
       "surface": "ואני",
-      "english": "y yo"
+      "gloss": "y yo"
     },
     {
       "surface": "אבטח",
-      "english": "confiaré"
+      "gloss": "confiaré"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     }
-  ],
-  "timestamp": "2026-06-09T23:25:13.974161561Z",
-  "model": "glm-4.5"
+  ]
 }

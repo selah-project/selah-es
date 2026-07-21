@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 110:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 502,
-    "prompt_tokens": 70400,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70902
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:25.888195250Z",
   "translation": "Un salmo de David. Oráculo de YHWH a mi señor: Siéntate a mi diestra hasta que ponga a tus enemigos ⟨como⟩ estrado de tus pies.",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "Un salmo de David"
+      "gloss": "Un salmo de David"
     },
     {
       "surface": "מזמור",
-      "english": "Un salmo"
+      "gloss": "Un salmo"
     },
     {
       "surface": "נאם",
-      "english": "Oráculo de"
+      "gloss": "Oráculo de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לאדני",
-      "english": "a mi señor"
+      "gloss": "a mi señor"
     },
     {
       "surface": "שב",
-      "english": "Siéntate"
+      "gloss": "Siéntate"
     },
     {
       "surface": "לימיני",
-      "english": "a mi diestra"
+      "gloss": "a mi diestra"
     },
     {
       "surface": "עד",
-      "english": "hasta que"
+      "gloss": "hasta que"
     },
     {
       "surface": "אשית",
-      "english": "ponga"
+      "gloss": "ponga"
     },
     {
       "surface": "איביך",
-      "english": "a tus enemigos"
+      "gloss": "a tus enemigos"
     },
     {
       "surface": "הדם",
-      "english": "estrado"
+      "gloss": "estrado"
     },
     {
       "surface": "לרגליך",
-      "english": "de tus pies"
+      "gloss": "de tus pies"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:25.888195250Z",
-  "model": "glm-4.5"
+  ]
 }

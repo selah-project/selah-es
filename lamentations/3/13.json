@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "lamentations 3:13",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38759,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39129
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:41:02.313243236Z",
   "translation": "Él ⟨hizo entrar⟩ ⟨en⟩ mis riñones ⟨los⟩ hijos de su aljaba",
   "tokens": [
     {
       "surface": "הביא",
-      "english": "Él ⟨hizo entrar⟩"
+      "gloss": "Él ⟨hizo entrar⟩"
     },
     {
       "surface": "בכליותי",
-      "english": "⟨en⟩ mis riñones"
+      "gloss": "⟨en⟩ mis riñones"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "אשפתו",
-      "english": "de su aljaba"
+      "gloss": "de su aljaba"
     }
-  ],
-  "timestamp": "2026-06-09T22:41:02.313243236Z",
-  "model": "glm-4.5"
+  ]
 }

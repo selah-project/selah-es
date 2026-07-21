@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 102:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69716,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70158
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:44.603703785Z",
   "translation": "Por causa del ⟨el⟩ suspiro de mi lamento mis huesos se adhieren ⟨se adhieren⟩ a ⟨a⟩ mi carne",
   "tokens": [
     {
       "surface": "מקול",
-      "english": "Por causa del ⟨el⟩"
+      "gloss": "Por causa del ⟨el⟩"
     },
     {
       "surface": "אנחתי",
-      "english": "suspiro de mi lamento"
+      "gloss": "suspiro de mi lamento"
     },
     {
       "surface": "דבקה",
-      "english": "se adhieren ⟨se adhieren⟩"
+      "gloss": "se adhieren ⟨se adhieren⟩"
     },
     {
       "surface": "עצמי",
-      "english": "a ⟨a⟩"
+      "gloss": "a ⟨a⟩"
     },
     {
       "surface": "לבשרי",
-      "english": "mi carne"
+      "gloss": "mi carne"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:44.603703785Z",
-  "model": "glm-4.5"
+  ]
 }

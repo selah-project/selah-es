@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 31:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70056,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70498
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:11:08.148011634Z",
   "translation": "En ti, YHWH, ⟨he⟩ confiado; ⟨que⟩ no ⟨yo⟩ sea avergonzado jamás; ⟨por⟩ tu justicia, sálvame.",
   "tokens": [
     {
       "surface": "בך",
-      "english": "En ti"
+      "gloss": "En ti"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חסיתי",
-      "english": "⟨he⟩ confiado"
+      "gloss": "⟨he⟩ confiado"
     },
     {
       "surface": "אל",
-      "english": "⟨que⟩ no"
+      "gloss": "⟨que⟩ no"
     },
     {
       "surface": "אבושה",
-      "english": "⟨yo⟩ sea avergonzado"
+      "gloss": "⟨yo⟩ sea avergonzado"
     },
     {
       "surface": "לעולם",
-      "english": "jamás"
+      "gloss": "jamás"
     },
     {
       "surface": "בצדקתך",
-      "english": "⟨por⟩ tu justicia"
+      "gloss": "⟨por⟩ tu justicia"
     },
     {
       "surface": "פלטני",
-      "english": "sálvame"
+      "gloss": "sálvame"
     }
-  ],
-  "timestamp": "2026-06-09T23:11:08.148011634Z",
-  "model": "glm-4.5"
+  ]
 }

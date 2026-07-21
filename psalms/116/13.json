@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 116:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 502,
-    "prompt_tokens": 69894,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70396
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:52.257969509Z",
   "translation": "La copa de ⟨las⟩ yeshuot ⟨את⟩ alzaré, y en ⟨el⟩ nombre de YHWH invocaré.",
   "tokens": [
     {
       "surface": "כוס",
-      "english": "La copa"
+      "gloss": "La copa"
     },
     {
       "surface": "ישועות",
-      "english": "de ⟨las⟩ yeshuot",
+      "gloss": "de ⟨las⟩ yeshuot",
       "marks": "copa"
     },
     {
       "surface": "אשא",
-      "english": "⟨את⟩ alzaré",
+      "gloss": "⟨את⟩ alzaré",
       "marks": "La copa de ⟨las⟩ yeshuot"
     },
     {
       "surface": "ובשם",
-      "english": "y en ⟨el⟩ nombre"
+      "gloss": "y en ⟨el⟩ nombre"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אקרא",
-      "english": "invocaré"
+      "gloss": "invocaré"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:52.257969509Z",
-  "model": "glm-4.5"
+  ]
 }

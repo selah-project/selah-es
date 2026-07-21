@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 5:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 415,
-    "prompt_tokens": 59890,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60305
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:17:28.446237260Z",
   "translation": "Sus pies ⟨están⟩ bajando a la muerte; sus pasos se aferran ⟨a⟩ Sheol.",
   "tokens": [
     {
       "surface": "רגליה",
-      "english": "sus pies"
+      "gloss": "sus pies"
     },
     {
       "surface": "ירדות",
-      "english": "⟨están⟩ bajando"
+      "gloss": "⟨están⟩ bajando"
     },
     {
       "surface": "מות",
-      "english": "a la muerte"
+      "gloss": "a la muerte"
     },
     {
       "surface": "שאול",
-      "english": "Sheol"
+      "gloss": "Sheol"
     },
     {
       "surface": "צעדיה",
-      "english": "sus pasos"
+      "gloss": "sus pasos"
     },
     {
       "surface": "יתמכו",
-      "english": "se aferran ⟨a⟩"
+      "gloss": "se aferran ⟨a⟩"
     }
-  ],
-  "timestamp": "2026-07-16T23:17:28.446237260Z",
-  "model": "glm-4.5"
+  ]
 }

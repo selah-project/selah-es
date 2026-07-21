@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jeremiah 5:2",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24370,
-    "prompt_tokens_details": {
-      "cached_tokens": 23392
-    },
-    "total_tokens": 24763
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:06:31.066937168Z",
   "translation": "Y aunque digan: ⟨YHWH⟩ ⟨vive⟩, ⟨en verdad⟩ ⟨con falso⟩ ⟨jurarán⟩",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "Y aunque"
+      "gloss": "Y aunque"
     },
     {
       "surface": "חי",
-      "english": "⟨YHWH⟩ ⟨vive⟩"
+      "gloss": "⟨YHWH⟩ ⟨vive⟩"
     },
     {
       "surface": "יהוה",
-      "english": "⟨YHWH⟩"
+      "gloss": "⟨YHWH⟩"
     },
     {
       "surface": "יאמרו",
-      "english": "digan"
+      "gloss": "digan"
     },
     {
       "surface": "לכן",
-      "english": "⟨en verdad⟩"
+      "gloss": "⟨en verdad⟩"
     },
     {
       "surface": "לשקר",
-      "english": "⟨con falso⟩"
+      "gloss": "⟨con falso⟩"
     },
     {
       "surface": "ישבעו",
-      "english": "⟨jurarán⟩"
+      "gloss": "⟨jurarán⟩"
     }
-  ],
-  "timestamp": "2026-06-10T03:06:31.066937168Z",
-  "model": "glm-4.5"
+  ]
 }

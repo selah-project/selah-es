@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 7:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 862,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70202,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71064
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:56.555592515Z",
   "translation": "⟨Que⟩ ⟨el⟩ malo ⟨de⟩ ⟨los⟩ malvados termine, y ⟨el⟩ justo ⟨sea⟩ establecido; ⟨pues⟩ examinas ⟨los⟩ corazones y ⟨los⟩ riñones, ⟨el⟩ Elohim justo.",
   "tokens": [
     {
       "surface": "יגמר",
-      "english": "Termine",
+      "gloss": "Termine",
       "marks": "que el malo de los malvados termine"
     },
     {
       "surface": "נא",
-      "english": "⟨Que⟩",
+      "gloss": "⟨Que⟩",
       "rationale": "partícula optativa que introduce un deseo u oración"
     },
     {
       "surface": "רע",
-      "english": "malo"
+      "gloss": "malo"
     },
     {
       "surface": "רשעים",
-      "english": "malvados"
+      "gloss": "malvados"
     },
     {
       "surface": "ותכונן",
-      "english": "y ⟨el⟩ justo ⟨sea⟩ establecido",
+      "gloss": "y ⟨el⟩ justo ⟨sea⟩ establecido",
       "rationale": "verbo en forma causativa con sentido de 'establecer o afianzar'"
     },
     {
       "surface": "צדיק",
-      "english": "justo"
+      "gloss": "justo"
     },
     {
       "surface": "ובחן",
-      "english": "examinas"
+      "gloss": "examinas"
     },
     {
       "surface": "לבות",
-      "english": "⟨los⟩ corazones",
+      "gloss": "⟨los⟩ corazones",
       "rationale": "plural de לב (corazón)"
     },
     {
       "surface": "וכליות",
-      "english": "⟨los⟩ riñones",
+      "gloss": "⟨los⟩ riñones",
       "rationale": "הפקס (plural de כליה, 'riñón'), considerado en el pensamiento hebreo como sede de las emociones profundas"
     },
     {
       "surface": "אלהים",
-      "english": "⟨el⟩ Elohim"
+      "gloss": "⟨el⟩ Elohim"
     },
     {
       "surface": "צדיק",
-      "english": "justo"
+      "gloss": "justo"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:56.555592515Z",
-  "model": "glm-4.5"
+  ]
 }

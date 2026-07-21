@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-samuel 10:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 10,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:24:27.288757140Z",
+  "translation": "Y Aram vio que ⟨fueron⟩ derrotados delante de ⟨Yisrael⟩, y se reunieron ⟨juntos⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Y Aram vio"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "⟨fueron⟩ derrotados"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "delante de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨Yisrael⟩"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "y se reunieron"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨juntos⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16919,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17235
-  },
-  "translation": "Y Aram vio que ⟨fueron⟩ derrotados delante de ⟨Yisrael⟩, y se reunieron ⟨juntos⟩.",
-  "tokens": [
-    {
-      "surface": "וירא",
-      "english": "Y Aram vio"
-    },
-    {
-      "surface": "ארם",
-      "english": "Aram"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "נגף",
-      "english": "⟨fueron⟩ derrotados"
-    },
-    {
-      "surface": "לפני",
-      "english": "delante de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨Yisrael⟩"
-    },
-    {
-      "surface": "ויאספו",
-      "english": "y se reunieron"
-    },
-    {
-      "surface": "יחד",
-      "english": "⟨juntos⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:24:27.288757140Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

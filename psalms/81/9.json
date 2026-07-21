@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 81:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69921,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70361
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:14.250099691Z",
   "translation": "Oye ⟨a⟩ mi pueblo, y ⟨yo⟩ ⟨lo⟩ testificaré ⟨en⟩ ti: Israel, si ⟨tú⟩ oyes ⟨a⟩ mí",
   "tokens": [
     {
       "surface": "שמע",
-      "english": "Oye"
+      "gloss": "Oye"
     },
     {
       "surface": "עמי",
-      "english": "⟨a⟩ mi pueblo"
+      "gloss": "⟨a⟩ mi pueblo"
     },
     {
       "surface": "ואעידה",
-      "english": "y ⟨yo⟩ ⟨lo⟩ testificaré"
+      "gloss": "y ⟨yo⟩ ⟨lo⟩ testificaré"
     },
     {
       "surface": "בך",
-      "english": "⟨en⟩ ti"
+      "gloss": "⟨en⟩ ti"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "תשמע",
-      "english": "⟨tú⟩ oyes"
+      "gloss": "⟨tú⟩ oyes"
     },
     {
       "surface": "לי",
-      "english": "⟨a⟩ mí"
+      "gloss": "⟨a⟩ mí"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:14.250099691Z",
-  "model": "glm-4.5"
+  ]
 }

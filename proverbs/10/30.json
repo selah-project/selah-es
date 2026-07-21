@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "proverbs 10:30",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59870,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60390
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:35:39.076036562Z",
   "translation": "⟨El⟩ justo ⟨por⟩ siempre jamás ⟨es⟩ sacudido, ⟨y⟩ ⟨los⟩ malvados no habitarán ⟨en⟩ ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "צדיק",
-      "english": "⟨El⟩ justo"
+      "gloss": "⟨El⟩ justo"
     },
     {
       "surface": "לעולם",
-      "english": "⟨por⟩ siempre"
+      "gloss": "⟨por⟩ siempre"
     },
     {
       "surface": "בל",
-      "english": "jamás"
+      "gloss": "jamás"
     },
     {
       "surface": "ימוט",
-      "english": "⟨es⟩ sacudido"
+      "gloss": "⟨es⟩ sacudido"
     },
     {
       "surface": "ורשעים",
-      "english": "⟨y⟩ ⟨los⟩ malvados"
+      "gloss": "⟨y⟩ ⟨los⟩ malvados"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ישכנו",
-      "english": "habitarán"
+      "gloss": "habitarán"
     },
     {
       "surface": "ארץ",
-      "english": "⟨en⟩ ⟨la⟩ tierra"
+      "gloss": "⟨en⟩ ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-10T01:35:39.076036562Z",
-  "model": "glm-4.5"
+  ]
 }

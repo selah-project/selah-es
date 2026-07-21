@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "1-kings 20:40",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 20,
+  "verse": 40,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:15:08.287991151Z",
+  "translation": "Y aconteció ⟨que⟩ tu siervo estaba ocupado aquí y allá, y ⟨él⟩ no estaba ⟨presente⟩.' Y dijo el rey de Yisrael a él: 'Así ⟨es⟩ tu juicio; tú ⟨mismo⟩ has decidido ⟨esto⟩.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y aconteció"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tu siervo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "estaba ocupado"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "aquí"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "y allá"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "y ⟨él⟩"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "no estaba ⟨presente⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a él"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Así ⟨es⟩"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "tu juicio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tú ⟨mismo⟩"
+    },
+    {
+      "surface": "חרצת",
+      "gloss": "has decidido ⟨esto⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 678,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62771,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63449
-  },
-  "translation": "Y aconteció ⟨que⟩ tu siervo estaba ocupado aquí y allá, y ⟨él⟩ no estaba ⟨presente⟩.' Y dijo el rey de Yisrael a él: 'Así ⟨es⟩ tu juicio; tú ⟨mismo⟩ has decidido ⟨esto⟩.'",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y aconteció"
-    },
-    {
-      "surface": "עבדך",
-      "english": "tu siervo"
-    },
-    {
-      "surface": "עשה",
-      "english": "estaba ocupado"
-    },
-    {
-      "surface": "הנה",
-      "english": "aquí"
-    },
-    {
-      "surface": "והנה",
-      "english": "y allá"
-    },
-    {
-      "surface": "והוא",
-      "english": "y ⟨él⟩"
-    },
-    {
-      "surface": "איננו",
-      "english": "no estaba ⟨presente⟩"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "אליו",
-      "english": "a él"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כן",
-      "english": "Así ⟨es⟩"
-    },
-    {
-      "surface": "משפטך",
-      "english": "tu juicio"
-    },
-    {
-      "surface": "אתה",
-      "english": "tú ⟨mismo⟩"
-    },
-    {
-      "surface": "חרצת",
-      "english": "has decidido ⟨esto⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:15:08.287991151Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

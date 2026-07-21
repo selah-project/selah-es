@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "genesis 36:27",
   "book": "genesis",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 261,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28144,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28405
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:33:30.876676602Z",
   "translation": "Estos ⟨son⟩ ⟨los⟩ hijos de Etser: Bilhán, y Zaaván, y Akán.",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "Estos"
+      "gloss": "Estos"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "אצר",
-      "english": "de Etser"
+      "gloss": "de Etser"
     },
     {
       "surface": "בלהן",
-      "english": "Bilhán"
+      "gloss": "Bilhán"
     },
     {
       "surface": "וזעון",
-      "english": "y Zaaván"
+      "gloss": "y Zaaván"
     },
     {
       "surface": "ועקן",
-      "english": "y Akán"
+      "gloss": "y Akán"
     }
-  ],
-  "timestamp": "2026-06-10T05:33:30.876676602Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 94:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69913,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70247
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:17.297954985Z",
   "translation": "Y dicen: ⟨el⟩ Eterno no ⟨es⟩ visto, y ⟨el⟩ Elohim de Yaakov no ⟨es⟩ entendido.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "Y dicen"
+      "gloss": "Y dicen"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יראה",
-      "english": "⟨es⟩ visto"
+      "gloss": "⟨es⟩ visto"
     },
     {
       "surface": "יה",
-      "english": "⟨el⟩ Eterno"
+      "gloss": "⟨el⟩ Eterno"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨el⟩"
+      "gloss": "y ⟨el⟩"
     },
     {
       "surface": "יבין",
-      "english": "⟨es⟩ entendido"
+      "gloss": "⟨es⟩ entendido"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:17.297954985Z",
-  "model": "glm-4.5"
+  ]
 }

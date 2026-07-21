@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 7:5",
   "book": "job",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27163,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27623
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:03.446097958Z",
   "translation": "My flesh ⟨is⟩ clothed with worms and ⟨a⟩ clod of dust ⟨from the⟩ broken ⟨wound⟩, ⟨and⟩ ⟨becomes⟩ loathsome.",
   "tokens": [
     {
       "surface": "לבש",
-      "english": "Clothed"
+      "gloss": "Clothed"
     },
     {
       "surface": "בשרי",
-      "english": "My flesh"
+      "gloss": "My flesh"
     },
     {
       "surface": "רמה",
-      "english": "worms"
+      "gloss": "worms"
     },
     {
       "surface": "וגיש",
-      "english": "and ⟨a⟩ clod of dust"
+      "gloss": "and ⟨a⟩ clod of dust"
     },
     {
       "surface": "עפר",
-      "english": "dust"
+      "gloss": "dust"
     },
     {
       "surface": "עורי",
-      "english": "broken"
+      "gloss": "broken"
     },
     {
       "surface": "רגע",
-      "english": "⟨and⟩ ⟨becomes⟩ loathsome"
+      "gloss": "⟨and⟩ ⟨becomes⟩ loathsome"
     },
     {
       "surface": "וימאס",
-      "english": "⟨from the⟩ broken ⟨wound⟩"
+      "gloss": "⟨from the⟩ broken ⟨wound⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:03.446097958Z",
-  "model": "glm-4.5"
+  ]
 }

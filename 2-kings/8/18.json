@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-kings 8:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 8,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:27:51.234691273Z",
+  "translation": "Y él anduvo en ⟨el⟩ camino de ⟨los⟩ reyes de Yisrael, como ⟨lo⟩ había hecho ⟨la⟩ casa de Ajab, porque ⟨la⟩ hija de Ajab ⟨fue⟩ ⟨para⟩ él ⟨como⟩ esposa, e hizo ⟨lo⟩ malo ante ⟨los⟩ ojos ⟨de⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Y él anduvo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "en ⟨el⟩ camino"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de ⟨los⟩ reyes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como ⟨lo⟩"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "había hecho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨la⟩ casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "de Ajab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨la⟩ hija"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "de Ajab"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨fue⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ él"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨como⟩ esposa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e hizo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨lo⟩ malo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ante ⟨los⟩ ojos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 735,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17368,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 18103
-  },
-  "translation": "Y él anduvo en ⟨el⟩ camino de ⟨los⟩ reyes de Yisrael, como ⟨lo⟩ había hecho ⟨la⟩ casa de Ajab, porque ⟨la⟩ hija de Ajab ⟨fue⟩ ⟨para⟩ él ⟨como⟩ esposa, e hizo ⟨lo⟩ malo ante ⟨los⟩ ojos ⟨de⟩ YHWH.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "Y él anduvo"
-    },
-    {
-      "surface": "בדרך",
-      "english": "en ⟨el⟩ camino"
-    },
-    {
-      "surface": "מלכי",
-      "english": "de ⟨los⟩ reyes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como ⟨lo⟩"
-    },
-    {
-      "surface": "עשו",
-      "english": "había hecho"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨la⟩ casa"
-    },
-    {
-      "surface": "אחאב",
-      "english": "de Ajab"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "בת",
-      "english": "⟨la⟩ hija"
-    },
-    {
-      "surface": "אחאב",
-      "english": "de Ajab"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨fue⟩"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ él"
-    },
-    {
-      "surface": "לאשה",
-      "english": "⟨como⟩ esposa"
-    },
-    {
-      "surface": "ויעש",
-      "english": "e hizo"
-    },
-    {
-      "surface": "הרע",
-      "english": "⟨lo⟩ malo"
-    },
-    {
-      "surface": "בעיני",
-      "english": "ante ⟨los⟩ ojos"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:27:51.234691273Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

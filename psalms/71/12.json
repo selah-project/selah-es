@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 71:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62564,
-    "prompt_tokens_details": {
-      "cached_tokens": 61594
-    },
-    "total_tokens": 62929
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:16:56.038377982Z",
   "translation": "Elohim, no ⟨estés⟩ lejos de mí; Elohim mío, apresúrate ⟨en⟩ mi ayuda.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תרחק",
-      "english": "⟨estés⟩ lejos"
+      "gloss": "⟨estés⟩ lejos"
     },
     {
       "surface": "ממני",
-      "english": "de mí"
+      "gloss": "de mí"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim mío"
+      "gloss": "Elohim mío"
     },
     {
       "surface": "לעזרתי",
-      "english": "⟨en⟩ mi ayuda"
+      "gloss": "⟨en⟩ mi ayuda"
     },
     {
       "surface": "חישה",
-      "english": "apresúrate"
+      "gloss": "apresúrate"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:16:56.038377982Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

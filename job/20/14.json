@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 20:14",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26974,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27337
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:23.800245461Z",
   "translation": "Su alimento ⟨en⟩ sus entrañas ⟨es⟩ cambiado, ⟨la⟩ amargura de áspides ⟨está⟩ en ⟨lo⟩ profundo ⟨de⟩ él.",
   "tokens": [
     {
       "surface": "לחמו",
-      "english": "Su alimento"
+      "gloss": "Su alimento"
     },
     {
       "surface": "במעיו",
-      "english": "⟨en⟩ sus entrañas"
+      "gloss": "⟨en⟩ sus entrañas"
     },
     {
       "surface": "נהפך",
-      "english": "⟨es⟩ cambiado"
+      "gloss": "⟨es⟩ cambiado"
     },
     {
       "surface": "מרורת",
-      "english": "⟨la⟩ amargura"
+      "gloss": "⟨la⟩ amargura"
     },
     {
       "surface": "פתנים",
-      "english": "de áspides"
+      "gloss": "de áspides"
     },
     {
       "surface": "בקרבו",
-      "english": "⟨en⟩ ⟨lo⟩ profundo ⟨de⟩ él"
+      "gloss": "⟨en⟩ ⟨lo⟩ profundo ⟨de⟩ él"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:23.800245461Z",
-  "model": "glm-4.5"
+  ]
 }

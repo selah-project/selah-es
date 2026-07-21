@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "numbers 26:25",
   "book": "numbers",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25178,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25548
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:01:06.215776045Z",
   "translation": "Estas ⟨son⟩ ⟨las⟩ familias de Issacar según ⟨los⟩ contados ⟨de ellos⟩: cuatro y sesenta mil y trescientos",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "Estas"
+      "gloss": "Estas"
     },
     {
       "surface": "משפחת",
-      "english": "⟨las⟩ familias"
+      "gloss": "⟨las⟩ familias"
     },
     {
       "surface": "יששכר",
-      "english": "Issacar"
+      "gloss": "Issacar"
     },
     {
       "surface": "לפקדיהם",
-      "english": "según ⟨los⟩ contados ⟨de ellos⟩"
+      "gloss": "según ⟨los⟩ contados ⟨de ellos⟩"
     },
     {
       "surface": "ארבעה",
-      "english": "cuatro"
+      "gloss": "cuatro"
     },
     {
       "surface": "וששים",
-      "english": "y sesenta"
+      "gloss": "y sesenta"
     },
     {
       "surface": "אלף",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "ושלש",
-      "english": "y tres"
+      "gloss": "y tres"
     },
     {
       "surface": "מאות",
-      "english": "cientos"
+      "gloss": "cientos"
     }
-  ],
-  "timestamp": "2026-06-10T05:01:06.215776045Z",
-  "model": "glm-4.5"
+  ]
 }

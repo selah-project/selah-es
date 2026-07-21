@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 5:7",
   "book": "job",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 636,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27067,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27703
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:54.584991177Z",
   "translation": "Porque ⟨un⟩ hombre ⟨a⟩ ⟨el⟩ trabajo nace, y ⟨los⟩ hijos de ⟨la⟩ centella ⟨se⟩ remontan ⟨para⟩ volar.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אדם",
-      "english": "⟨un⟩ hombre"
+      "gloss": "⟨un⟩ hombre"
     },
     {
       "surface": "לעמל",
-      "english": "⟨a⟩ ⟨el⟩ trabajo"
+      "gloss": "⟨a⟩ ⟨el⟩ trabajo"
     },
     {
       "surface": "יולד",
-      "english": "nace"
+      "gloss": "nace"
     },
     {
       "surface": "ובני",
-      "english": "y ⟨los⟩ hijos"
+      "gloss": "y ⟨los⟩ hijos"
     },
     {
       "surface": "רשף",
-      "english": "de ⟨la⟩ centella"
+      "gloss": "de ⟨la⟩ centella"
     },
     {
       "surface": "יגביהו",
-      "english": "⟨se⟩ remontan"
+      "gloss": "⟨se⟩ remontan"
     },
     {
       "surface": "עוף",
-      "english": "⟨para⟩ volar"
+      "gloss": "⟨para⟩ volar"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:54.584991177Z",
-  "model": "glm-4.5"
+  ]
 }

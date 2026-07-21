@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "job 33:19",
   "book": "job",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27046,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27451
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:09.959327423Z",
   "translation": "Y es reprendido con dolor ⟨en⟩ su lecho, y ⟨la⟩ lucha de sus huesos ⟨es⟩ continuo.",
   "tokens": [
     {
       "surface": "והוכח",
-      "english": "Y es reprendido"
+      "gloss": "Y es reprendido"
     },
     {
       "surface": "במכאוב",
-      "english": "con dolor"
+      "gloss": "con dolor"
     },
     {
       "surface": "על",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "משכבו",
-      "english": "su lecho"
+      "gloss": "su lecho"
     },
     {
       "surface": "וריב",
-      "english": "y ⟨la⟩ lucha"
+      "gloss": "y ⟨la⟩ lucha"
     },
     {
       "surface": "עצמיו",
-      "english": "de sus huesos"
+      "gloss": "de sus huesos"
     },
     {
       "surface": "אתן",
-      "english": "⟨es⟩ continuo"
+      "gloss": "⟨es⟩ continuo"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:09.959327423Z",
-  "model": "glm-4.5"
+  ]
 }

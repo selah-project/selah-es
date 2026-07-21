@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 111,
   "ref": "psalms 119:111",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69859,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70192
-  },
+  "verse": 111,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:30.105447586Z",
   "translation": "He heredado tus testimonios para siempre, pues ⟨ellos⟩ son ⟨el⟩ gozo de mi corazón.",
   "tokens": [
     {
       "surface": "נחלתי",
-      "english": "He heredado"
+      "gloss": "He heredado"
     },
     {
       "surface": "עדותיך",
-      "english": "tus testimonios"
+      "gloss": "tus testimonios"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "ששון",
-      "english": "⟨el⟩ gozo"
+      "gloss": "⟨el⟩ gozo"
     },
     {
       "surface": "לבי",
-      "english": "de mi corazón"
+      "gloss": "de mi corazón"
     },
     {
       "surface": "המה",
-      "english": "⟨ellos⟩"
+      "gloss": "⟨ellos⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:30.105447586Z",
-  "model": "glm-4.5"
+  ]
 }

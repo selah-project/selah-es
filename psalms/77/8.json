@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 77:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69892,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70392
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:59.134621408Z",
   "translation": "Por siempre ⟨el⟩ Señor ⟨estará⟩ airado ⟨y⟩ no ⟨se⟩ volverá ⟨a⟩ complacer ⟨para⟩ siempre",
   "tokens": [
     {
       "surface": "הלעולמים",
-      "english": "Por siempre"
+      "gloss": "Por siempre"
     },
     {
       "surface": "יזנח",
-      "english": "⟨el⟩ Señor ⟨estará⟩ airado"
+      "gloss": "⟨el⟩ Señor ⟨estará⟩ airado"
     },
     {
       "surface": "אדני",
-      "english": "⟨el⟩ Señor"
+      "gloss": "⟨el⟩ Señor"
     },
     {
       "surface": "ולא",
-      "english": "⟨y⟩ no"
+      "gloss": "⟨y⟩ no"
     },
     {
       "surface": "יסיף",
-      "english": "⟨se⟩ volverá ⟨a⟩"
+      "gloss": "⟨se⟩ volverá ⟨a⟩"
     },
     {
       "surface": "לרצות",
-      "english": "complacer"
+      "gloss": "complacer"
     },
     {
       "surface": "עוד",
-      "english": "⟨para⟩ siempre"
+      "gloss": "⟨para⟩ siempre"
     }
-  ],
-  "timestamp": "2026-06-09T23:35:59.134621408Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 7:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 59846,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60220
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:17:43.883269941Z",
   "translation": "Hijo mío, guarda mis dichos, y ⟨los⟩ mandamientos míos atesora contigo",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Hijo mío"
+      "gloss": "Hijo mío"
     },
     {
       "surface": "שמר",
-      "english": "guarda"
+      "gloss": "guarda"
     },
     {
       "surface": "אמרי",
-      "english": "mis dichos"
+      "gloss": "mis dichos"
     },
     {
       "surface": "ומצותי",
-      "english": "y ⟨los⟩ mandamientos míos"
+      "gloss": "y ⟨los⟩ mandamientos míos"
     },
     {
       "surface": "תצפן",
-      "english": "atesora"
+      "gloss": "atesora"
     },
     {
       "surface": "אתך",
-      "english": "contigo"
+      "gloss": "contigo"
     }
-  ],
-  "timestamp": "2026-07-16T23:17:43.883269941Z",
-  "model": "glm-4.5"
+  ]
 }

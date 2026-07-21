@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "song-of-songs 5:11",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27448,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27912
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:37:53.350460707Z",
   "translation": "Su cabeza ⟨es⟩ ⟨el⟩ más fino oro, ⟨el⟩ mechón ⟨de⟩ sus cabellos ⟨es⟩ ⟨como⟩ racimos ⟨de⟩ dátiles, ⟨y⟩ negro ⟨como⟩ un cuervo.",
   "tokens": [
     {
       "surface": "ראשו",
-      "english": "Su cabeza"
+      "gloss": "Su cabeza"
     },
     {
       "surface": "כתם",
-      "english": "⟨el⟩ más fino oro"
+      "gloss": "⟨el⟩ más fino oro"
     },
     {
       "surface": "פז",
-      "english": "oro"
+      "gloss": "oro"
     },
     {
       "surface": "קוצותיו",
-      "english": "⟨el⟩ mechón ⟨de⟩ sus cabellos"
+      "gloss": "⟨el⟩ mechón ⟨de⟩ sus cabellos"
     },
     {
       "surface": "תלתלים",
-      "english": "⟨como⟩ racimos ⟨de⟩ dátiles"
+      "gloss": "⟨como⟩ racimos ⟨de⟩ dátiles"
     },
     {
       "surface": "שחרות",
-      "english": "negro"
+      "gloss": "negro"
     },
     {
       "surface": "כעורב",
-      "english": "⟨como⟩ un cuervo"
+      "gloss": "⟨como⟩ un cuervo"
     }
-  ],
-  "timestamp": "2026-06-09T22:37:53.350460707Z",
-  "model": "glm-4.5"
+  ]
 }

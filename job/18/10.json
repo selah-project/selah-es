@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 18:10",
   "book": "job",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26943,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27326
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:23.175438045Z",
   "translation": "Su trampa ⟨está⟩ escondida ⟨en⟩ la tierra, ⟨y⟩ su lazo ⟨sobre⟩ el camino.",
   "tokens": [
     {
       "surface": "טמון",
-      "english": "Escondida"
+      "gloss": "Escondida"
     },
     {
       "surface": "בארץ",
-      "english": "en la tierra"
+      "gloss": "en la tierra"
     },
     {
       "surface": "חבלו",
-      "english": "su trampa"
+      "gloss": "su trampa"
     },
     {
       "surface": "ומלכדתו",
-      "english": "su lazo"
+      "gloss": "su lazo"
     },
     {
       "surface": "עלי",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "נתיב",
-      "english": "el camino"
+      "gloss": "el camino"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:23.175438045Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 17:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 17,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:17:42.127213784Z",
+  "translation": "Porque al Elohim de su padre buscó, y en sus mandamientos anduvo, y no según ⟨los⟩ actos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "al Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de su padre"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "buscó"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "y en sus mandamientos"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anduvo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "según"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨los⟩ actos de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57861,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58216
-  },
-  "translation": "Porque al Elohim de su padre buscó, y en sus mandamientos anduvo, y no según ⟨los⟩ actos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "לאלהי",
-      "english": "al Elohim"
-    },
-    {
-      "surface": "אביו",
-      "english": "de su padre"
-    },
-    {
-      "surface": "דרש",
-      "english": "buscó"
-    },
-    {
-      "surface": "ובמצותיו",
-      "english": "y en sus mandamientos"
-    },
-    {
-      "surface": "הלך",
-      "english": "anduvo"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "כמעשה",
-      "english": "según"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨los⟩ actos de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:17:42.127213784Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "song-of-songs 7:11",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27112,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27501
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:38:54.682645707Z",
   "translation": "Venga, mi amado, salgamos al campo; ⟨pasemos⟩ la noche en las aldeas.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Venga",
+      "gloss": "Venga",
       "rationale": "אני literalmente es 'yo', pero en este contexto imperativo se traduce como 'venga' para expresar una invitación"
     },
     {
       "surface": "לדודי",
-      "english": "mi amado",
+      "gloss": "mi amado",
       "rationale": "לדודי es 'a mi amado' - la preposición 'ל' + 'dodi' (amado)"
     },
     {
       "surface": "ועלי",
-      "english": "salgamos al campo;",
+      "gloss": "salgamos al campo;",
       "rationale": "ועלי literalmente es 'y sobre mí', pero en contexto forma parte de la frase de invitación 'vamos al campo'"
     },
     {
       "surface": "תשוקתו",
-      "english": "⟨pasemos⟩ la noche en las aldeas",
+      "gloss": "⟨pasemos⟩ la noche en las aldeas",
       "rationale": "תשוקתו significa 'su deseo\/anhelo', pero aquí se traduce contextualmente como la acción de pasar la noche"
     }
-  ],
-  "timestamp": "2026-06-09T22:38:54.682645707Z",
-  "model": "glm-4.5"
+  ]
 }

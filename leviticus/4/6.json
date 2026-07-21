@@ -1,87 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 4:6",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 705,
-    "prompt_tokens": 25475,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 26180
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:32:30.169027280Z",
   "translation": "y el Kohen sumergirá ⟨את⟩ su dedo en ⟨el⟩ sangre, y rociará de ⟨el⟩ sangre siete veces ante YHWH ⟨את⟩ la cara del velo del santuario",
   "tokens": [
     {
       "surface": "וטבל",
-      "english": "y sumergirá"
+      "gloss": "y sumergirá"
     },
     {
       "surface": "הכהן",
-      "english": "el Kohen"
+      "gloss": "el Kohen"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su dedo"
     },
     {
       "surface": "אצבעו",
-      "english": "su dedo"
+      "gloss": "su dedo"
     },
     {
       "surface": "בדם",
-      "english": "en ⟨el⟩ sangre"
+      "gloss": "en ⟨el⟩ sangre"
     },
     {
       "surface": "והזה",
-      "english": "y rociará"
+      "gloss": "y rociará"
     },
     {
       "surface": "מן",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "הדם",
-      "english": "⟨el⟩ sangre"
+      "gloss": "⟨el⟩ sangre"
     },
     {
       "surface": "שבע",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "פעמים",
-      "english": "veces"
+      "gloss": "veces"
     },
     {
       "surface": "לפני",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la cara"
     },
     {
       "surface": "פני",
-      "english": "la cara"
+      "gloss": "la cara"
     },
     {
       "surface": "פרכת",
-      "english": "del velo"
+      "gloss": "del velo"
     },
     {
       "surface": "הקדש",
-      "english": "del santuario"
+      "gloss": "del santuario"
     }
-  ],
-  "timestamp": "2026-07-16T22:32:30.169027280Z",
-  "model": "glm-4.5"
+  ]
 }

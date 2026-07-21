@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 105:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69886,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70267
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:52:13.286571495Z",
   "translation": "Y llamó ⟨a⟩ hambre sobre ⟨la⟩ tierra, todo ⟨el⟩ bastón ⟨de⟩ pan quebró",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "Y llamó ⟨a⟩"
+      "gloss": "Y llamó ⟨a⟩"
     },
     {
       "surface": "רעב",
-      "english": "hambre"
+      "gloss": "hambre"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "כל",
-      "english": "todo ⟨el⟩"
+      "gloss": "todo ⟨el⟩"
     },
     {
       "surface": "מטה",
-      "english": "bastón ⟨de⟩"
+      "gloss": "bastón ⟨de⟩"
     },
     {
       "surface": "לחם",
-      "english": "pan"
+      "gloss": "pan"
     },
     {
       "surface": "שבר",
-      "english": "quebró"
+      "gloss": "quebró"
     }
-  ],
-  "timestamp": "2026-06-09T23:52:13.286571495Z",
-  "model": "glm-4.5"
+  ]
 }

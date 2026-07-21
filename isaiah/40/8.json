@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 40:8",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26102,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26461
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:45:07.429276018Z",
   "translation": "Se seca ⟨el⟩ hierba, ⟨se⟩ marchita ⟨el⟩ flor, pero ⟨el⟩ palabra de nuestro Elohim ⟨estará⟩ en pie para siempre.",
   "tokens": [
     {
       "surface": "יבש",
-      "english": "Se seca"
+      "gloss": "Se seca"
     },
     {
       "surface": "חציר",
-      "english": "⟨el⟩ hierba"
+      "gloss": "⟨el⟩ hierba"
     },
     {
       "surface": "נבל",
-      "english": "⟨se⟩ marchita"
+      "gloss": "⟨se⟩ marchita"
     },
     {
       "surface": "ציץ",
-      "english": "⟨el⟩ flor"
+      "gloss": "⟨el⟩ flor"
     },
     {
       "surface": "ודבר",
-      "english": "pero ⟨el⟩ palabra"
+      "gloss": "pero ⟨el⟩ palabra"
     },
     {
       "surface": "אלהינו",
-      "english": "de nuestro Elohim"
+      "gloss": "de nuestro Elohim"
     },
     {
       "surface": "יקום",
-      "english": "⟨estará⟩ en pie"
+      "gloss": "⟨estará⟩ en pie"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     }
-  ],
-  "timestamp": "2026-06-10T02:45:07.429276018Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-kings 5:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 5,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:49:38.235436591Z",
+  "translation": "El rey Shelomá impuso ⟨un⟩ impuesto ⟨sobre⟩ todo Yisrael y ⟨el⟩ impuesto ⟨fue de⟩ treinta mil hombres",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Impuso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "El rey"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomá"
+    },
+    {
+      "surface": "מס",
+      "gloss": "⟨un⟩ impuesto"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨sobre⟩ todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y ⟨el⟩ impuesto ⟨fue de⟩"
+    },
+    {
+      "surface": "המס",
+      "gloss": "impuesto"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treinta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hombres"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61956,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62425
-  },
-  "translation": "El rey Shelomá impuso ⟨un⟩ impuesto ⟨sobre⟩ todo Yisrael y ⟨el⟩ impuesto ⟨fue de⟩ treinta mil hombres",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "Impuso"
-    },
-    {
-      "surface": "המלך",
-      "english": "El rey"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomá"
-    },
-    {
-      "surface": "מס",
-      "english": "⟨un⟩ impuesto"
-    },
-    {
-      "surface": "מכל",
-      "english": "⟨sobre⟩ todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y ⟨el⟩ impuesto ⟨fue de⟩"
-    },
-    {
-      "surface": "המס",
-      "english": "impuesto"
-    },
-    {
-      "surface": "שלשים",
-      "english": "treinta"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "איש",
-      "english": "hombres"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:49:38.235436591Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

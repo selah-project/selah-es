@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 114:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69857,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70276
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:27.334336925Z",
   "translation": "⟨El que⟩ volvió la piedra en estanque de aguas, ⟨el⟩ pedernal en fuente de aguas ⟨corrientes⟩",
   "tokens": [
     {
       "surface": "ההפכי",
-      "english": "⟨El que⟩ volvió"
+      "gloss": "⟨El que⟩ volvió"
     },
     {
       "surface": "הצור",
-      "english": "la piedra"
+      "gloss": "la piedra"
     },
     {
       "surface": "אגם",
-      "english": "en estanque"
+      "gloss": "en estanque"
     },
     {
       "surface": "מים",
-      "english": "de aguas"
+      "gloss": "de aguas"
     },
     {
       "surface": "חלמיש",
-      "english": "⟨el⟩ pedernal"
+      "gloss": "⟨el⟩ pedernal"
     },
     {
       "surface": "למעינו",
-      "english": "en fuente de aguas ⟨corrientes⟩"
+      "gloss": "en fuente de aguas ⟨corrientes⟩"
     },
     {
       "surface": "מים",
-      "english": "de aguas"
+      "gloss": "de aguas"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:27.334336925Z",
-  "model": "glm-4.5"
+  ]
 }

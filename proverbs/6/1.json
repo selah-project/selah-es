@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 6:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59873,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60304
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:31:53.906087887Z",
   "translation": "Hijo mío, si ⟨has⟩ afianzado ⟨al⟩ tu prójimo, ⟨has⟩ golpeado ⟨la⟩ mano ⟨con⟩ ⟨el⟩ extranjero ⟨con⟩ tu palma",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Hijo mío"
+      "gloss": "Hijo mío"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "ערבת",
-      "english": "⟨has⟩ afianzado"
+      "gloss": "⟨has⟩ afianzado"
     },
     {
       "surface": "לרעך",
-      "english": "⟨al⟩ tu prójimo"
+      "gloss": "⟨al⟩ tu prójimo"
     },
     {
       "surface": "תקעת",
-      "english": "⟨has⟩ golpeado ⟨la⟩ mano"
+      "gloss": "⟨has⟩ golpeado ⟨la⟩ mano"
     },
     {
       "surface": "לזר",
-      "english": "⟨con⟩ ⟨el⟩ extranjero"
+      "gloss": "⟨con⟩ ⟨el⟩ extranjero"
     },
     {
       "surface": "כפיך",
-      "english": "⟨con⟩ tu palma"
+      "gloss": "⟨con⟩ tu palma"
     }
-  ],
-  "timestamp": "2026-06-10T01:31:53.906087887Z",
-  "model": "glm-4.5"
+  ]
 }

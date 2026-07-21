@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 119:24",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 257,
-    "prompt_tokens": 69769,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70026
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:00.010471167Z",
   "translation": "También tus testimonios ⟨son⟩ mi deleite, ⟨los⟩ hombres de mi consejo.",
   "tokens": [
     {
       "surface": "גם",
-      "english": "También"
+      "gloss": "También"
     },
     {
       "surface": "עדתיך",
-      "english": "tus testimonios"
+      "gloss": "tus testimonios"
     },
     {
       "surface": "שעשעי",
-      "english": "mi deleite"
+      "gloss": "mi deleite"
     },
     {
       "surface": "אנשי",
-      "english": "⟨los⟩ hombres"
+      "gloss": "⟨los⟩ hombres"
     },
     {
       "surface": "עצתי",
-      "english": "de mi consejo"
+      "gloss": "de mi consejo"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:00.010471167Z",
-  "model": "glm-4.5"
+  ]
 }

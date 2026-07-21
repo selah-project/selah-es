@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "zephaniah 1:2",
   "book": "zephaniah",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23218,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 23524
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:22:14.056542964Z",
   "translation": "Gathering ⟨I⟩ shall gather ⟨all⟩ ⟨from⟩ ⟨the face of⟩ ⟨the land⟩, ⟨oracle of⟩ YHWH",
   "tokens": [
     {
       "surface": "אסף",
-      "english": "Gathering"
+      "gloss": "Gathering"
     },
     {
       "surface": "אסף",
-      "english": "⟨I⟩ shall gather"
+      "gloss": "⟨I⟩ shall gather"
     },
     {
       "surface": "כל",
-      "english": "⟨all⟩"
+      "gloss": "⟨all⟩"
     },
     {
       "surface": "מעל",
-      "english": "⟨from⟩"
+      "gloss": "⟨from⟩"
     },
     {
       "surface": "פני",
-      "english": "⟨the face of⟩"
+      "gloss": "⟨the face of⟩"
     },
     {
       "surface": "האדמה",
-      "english": "⟨the land⟩"
+      "gloss": "⟨the land⟩"
     },
     {
       "surface": "נאם",
-      "english": "⟨oracle of⟩"
+      "gloss": "⟨oracle of⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-09T22:22:14.056542964Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "isaiah 26:13",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26186,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26660
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:36:09.535904688Z",
   "translation": "YHWH nuestro Elohim ⟨los⟩ señores ⟨nos⟩ dominaron fuera de ti; solamente en ti recordaremos ⟨el⟩ nombre tuyo.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהינו",
-      "english": "nuestro Elohim"
+      "gloss": "nuestro Elohim"
     },
     {
       "surface": "בעלונו",
-      "english": "⟨los⟩ señores"
+      "gloss": "⟨los⟩ señores"
     },
     {
       "surface": "אדנים",
-      "english": "⟨nos⟩ dominaron"
+      "gloss": "⟨nos⟩ dominaron"
     },
     {
       "surface": "זולתך",
-      "english": "fuera de ti"
+      "gloss": "fuera de ti"
     },
     {
       "surface": "לבד",
-      "english": "solamente"
+      "gloss": "solamente"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     },
     {
       "surface": "נזכיר",
-      "english": "recordaremos"
+      "gloss": "recordaremos"
     },
     {
       "surface": "שמך",
-      "english": "⟨el⟩ nombre tuyo"
+      "gloss": "⟨el⟩ nombre tuyo"
     }
-  ],
-  "timestamp": "2026-06-10T02:36:09.535904688Z",
-  "model": "glm-4.5"
+  ]
 }

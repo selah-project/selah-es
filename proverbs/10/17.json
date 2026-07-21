@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 10:17",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 569,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59877,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60446
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:35:24.317867255Z",
   "translation": "camino ⟨a⟩ ⟨la⟩ vida ⟨es el que⟩ guarda ⟨el⟩ precepto ⟨y⟩ ⟨el⟩ que desecha ⟨la⟩ reprensión yerra",
   "tokens": [
     {
       "surface": "ארח",
-      "english": "Camino"
+      "gloss": "Camino"
     },
     {
       "surface": "לחיים",
-      "english": "⟨a⟩ ⟨la⟩ vida"
+      "gloss": "⟨a⟩ ⟨la⟩ vida"
     },
     {
       "surface": "שומר",
-      "english": "⟨es el que⟩ guarda"
+      "gloss": "⟨es el que⟩ guarda"
     },
     {
       "surface": "מוסר",
-      "english": "⟨el⟩ precepto"
+      "gloss": "⟨el⟩ precepto"
     },
     {
       "surface": "ועוזב",
-      "english": "⟨y⟩ ⟨el que⟩ desecha"
+      "gloss": "⟨y⟩ ⟨el que⟩ desecha"
     },
     {
       "surface": "תוכחת",
-      "english": "⟨la⟩ reprensión"
+      "gloss": "⟨la⟩ reprensión"
     },
     {
       "surface": "מתעה",
-      "english": "yerra"
+      "gloss": "yerra"
     }
-  ],
-  "timestamp": "2026-06-10T01:35:24.317867255Z",
-  "model": "glm-4.5"
+  ]
 }

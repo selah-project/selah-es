@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 10:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56716,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57034
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:38:27.861122682Z",
   "translation": "Y murieron Shaúl y sus tres hijos, y ⟨toda⟩ su casa ⟨juntos⟩ murieron.",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "Y murieron"
+      "gloss": "Y murieron"
     },
     {
       "surface": "שאול",
-      "english": "Shaúl"
+      "gloss": "Shaúl"
     },
     {
       "surface": "ושלשת",
-      "english": "y sus tres"
+      "gloss": "y sus tres"
     },
     {
       "surface": "בניו",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "וכל",
-      "english": "y ⟨toda⟩",
+      "gloss": "y ⟨toda⟩",
       "marks": "su casa"
     },
     {
       "surface": "ביתו",
-      "english": "su casa"
+      "gloss": "su casa"
     },
     {
       "surface": "יחדו",
-      "english": "⟨juntos⟩"
+      "gloss": "⟨juntos⟩"
     },
     {
       "surface": "מתו",
-      "english": "murieron"
+      "gloss": "murieron"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:38:27.861122682Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 44:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69852,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70164
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:08.497101181Z",
   "translation": "Aun ⟨nos⟩ rechazas ⟨y⟩ nos avergüenzas ⟨y⟩ no sales con ⟨nuestros⟩ ejércitos",
   "tokens": [
     {
       "surface": "אף",
-      "english": "Aun"
+      "gloss": "Aun"
     },
     {
       "surface": "זנחת",
-      "english": "⟨nos⟩ rechazas"
+      "gloss": "⟨nos⟩ rechazas"
     },
     {
       "surface": "ותכלימנו",
-      "english": "⟨y⟩ nos avergüenzas"
+      "gloss": "⟨y⟩ nos avergüenzas"
     },
     {
       "surface": "ולא",
-      "english": "⟨y⟩ no"
+      "gloss": "⟨y⟩ no"
     },
     {
       "surface": "תצא",
-      "english": "sales"
+      "gloss": "sales"
     },
     {
       "surface": "בצבאותינו",
-      "english": "con ⟨nuestros⟩ ejércitos"
+      "gloss": "con ⟨nuestros⟩ ejércitos"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:08.497101181Z",
-  "model": "glm-4.5"
+  ]
 }

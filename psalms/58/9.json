@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 58:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 601,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70067,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70668
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:25:34.162573289Z",
   "translation": "Como ⟨un⟩ caracol que se disuelve, que se desvanezca ⟨al⟩ andar; ⟨un⟩ aborto ⟨que⟩ no ve ⟨el⟩ sol",
   "tokens": [
     {
       "surface": "כמו",
-      "english": "Como"
+      "gloss": "Como"
     },
     {
       "surface": "שבלול",
-      "english": "⟨un⟩ caracol"
+      "gloss": "⟨un⟩ caracol"
     },
     {
       "surface": "תמס",
-      "english": "que se disuelve"
+      "gloss": "que se disuelve"
     },
     {
       "surface": "יהלך",
-      "english": "que se desvanezca ⟨al⟩ andar"
+      "gloss": "que se desvanezca ⟨al⟩ andar"
     },
     {
       "surface": "נפל",
-      "english": "⟨un⟩ aborto"
+      "gloss": "⟨un⟩ aborto"
     },
     {
       "surface": "אשת",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "בל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "חזו",
-      "english": "ve"
+      "gloss": "ve"
     },
     {
       "surface": "שמש",
-      "english": "⟨el⟩ sol"
+      "gloss": "⟨el⟩ sol"
     }
-  ],
-  "timestamp": "2026-06-09T23:25:34.162573289Z",
-  "model": "glm-4.5"
+  ]
 }

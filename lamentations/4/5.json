@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "lamentations 4:5",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 39333,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39855
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:42:58.601208404Z",
   "translation": "Los que comían ⟨delicadamente⟩ perecieron en ⟨las⟩ calles; ⟨los⟩ que ⟨estaban⟩ criados en escarlata ⟨abrazaron⟩ ⟨montones⟩ de ⟨basura⟩",
   "tokens": [
     {
       "surface": "האכלים",
-      "english": "Los que comían"
+      "gloss": "Los que comían"
     },
     {
       "surface": "למעדנים",
-      "english": "⟨delicadamente⟩"
+      "gloss": "⟨delicadamente⟩"
     },
     {
       "surface": "נשמו",
-      "english": "perecieron"
+      "gloss": "perecieron"
     },
     {
       "surface": "בחוצות",
-      "english": "en ⟨las⟩ calles"
+      "gloss": "en ⟨las⟩ calles"
     },
     {
       "surface": "האמנים",
-      "english": "⟨los⟩ que ⟨estaban⟩ criados"
+      "gloss": "⟨los⟩ que ⟨estaban⟩ criados"
     },
     {
       "surface": "עלי",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "תולע",
-      "english": "escarlata"
+      "gloss": "escarlata"
     },
     {
       "surface": "חבקו",
-      "english": "⟨abrazaron⟩"
+      "gloss": "⟨abrazaron⟩"
     },
     {
       "surface": "אשפתות",
-      "english": "⟨montones⟩ de ⟨basura⟩"
+      "gloss": "⟨montones⟩ de ⟨basura⟩"
     }
-  ],
-  "timestamp": "2026-06-09T22:42:58.601208404Z",
-  "model": "glm-4.5"
+  ]
 }

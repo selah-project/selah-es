@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 12:8",
   "book": "exodus",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 537,
-    "prompt_tokens": 24347,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24884
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:14:13.561909482Z",
   "translation": "Y comerán ⟨את⟩ la carne en esta noche, asada al fuego, y matzá; con hierbas amargas lo comerán.",
   "tokens": [
     {
       "surface": "ואכלו",
-      "english": "Y comerán"
+      "gloss": "Y comerán"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la carne"
     },
     {
       "surface": "הבשר",
-      "english": "la carne"
+      "gloss": "la carne"
     },
     {
       "surface": "בלילה",
-      "english": "en esta noche"
+      "gloss": "en esta noche"
     },
     {
       "surface": "הזה",
-      "english": "esta"
+      "gloss": "esta"
     },
     {
       "surface": "צלי",
-      "english": "asada"
+      "gloss": "asada"
     },
     {
       "surface": "אש",
-      "english": "al fuego"
+      "gloss": "al fuego"
     },
     {
       "surface": "ומצות",
-      "english": "y matzá"
+      "gloss": "y matzá"
     },
     {
       "surface": "על",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "מררים",
-      "english": "hierbas amargas"
+      "gloss": "hierbas amargas"
     },
     {
       "surface": "יאכלהו",
-      "english": "lo comerán"
+      "gloss": "lo comerán"
     }
-  ],
-  "timestamp": "2026-07-16T20:14:13.561909482Z",
-  "model": "glm-4.5"
+  ]
 }

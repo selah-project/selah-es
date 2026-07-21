@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 14:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 537,
-    "prompt_tokens": 70570,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71107
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:32.037542233Z",
   "translation": "YHWH miró desde los cielos sobre los hijos de Adam, para ver si ⟨hay⟩ un entendido que busque a Elohim",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "משמים",
-      "english": "desde los cielos"
+      "gloss": "desde los cielos"
     },
     {
       "surface": "השקיף",
-      "english": "miró"
+      "gloss": "miró"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "בני",
-      "english": "los hijos de"
+      "gloss": "los hijos de"
     },
     {
       "surface": "אדם",
-      "english": "Adam"
+      "gloss": "Adam"
     },
     {
       "surface": "לראות",
-      "english": "para ver"
+      "gloss": "para ver"
     },
     {
       "surface": "היש",
-      "english": "si ⟨hay⟩"
+      "gloss": "si ⟨hay⟩"
     },
     {
       "surface": "משכיל",
-      "english": "un entendido"
+      "gloss": "un entendido"
     },
     {
       "surface": "דרש",
-      "english": "que busque"
+      "gloss": "que busque"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Elohim"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T23:25:32.037542233Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 21:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 546,
-    "prompt_tokens": 28725,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29271
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:59:39.793930182Z",
   "translation": "YHWH visitó ⟨a⟩ Sará como ⟨él⟩ había dicho, y YHWH hizo ⟨para⟩ Sará como ⟨él⟩ había hablado",
   "tokens": [
     {
       "surface": "ויהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "פקד",
-      "english": "visitó"
+      "gloss": "visitó"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Sará"
     },
     {
       "surface": "שרה",
-      "english": "Sará"
+      "gloss": "Sará"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אמר",
-      "english": "⟨él⟩ había dicho"
+      "gloss": "⟨él⟩ había dicho"
     },
     {
       "surface": "ויעש",
-      "english": "y YHWH hizo"
+      "gloss": "y YHWH hizo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לשרה",
-      "english": "⟨para⟩ Sará"
+      "gloss": "⟨para⟩ Sará"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "דבר",
-      "english": "⟨él⟩ había hablado"
+      "gloss": "⟨él⟩ había hablado"
     }
-  ],
-  "timestamp": "2026-07-16T20:59:39.793930182Z",
-  "model": "glm-4.5"
+  ]
 }

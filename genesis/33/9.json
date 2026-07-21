@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 33:9",
   "book": "genesis",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28453,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28808
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:30:59.100238574Z",
   "translation": "Y dijo Esav: ⟨hay⟩ abundancia para mí, hermano mío; sea para ti lo que ⟨es⟩ tuyo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "עשו",
-      "english": "Esav"
+      "gloss": "Esav"
     },
     {
       "surface": "יש",
-      "english": "⟨hay⟩"
+      "gloss": "⟨hay⟩"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "רב",
-      "english": "abundancia"
+      "gloss": "abundancia"
     },
     {
       "surface": "אחי",
-      "english": "hermano mío"
+      "gloss": "hermano mío"
     },
     {
       "surface": "יהי",
-      "english": "sea"
+      "gloss": "sea"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "לך",
-      "english": "⟨es⟩ tuyo"
+      "gloss": "⟨es⟩ tuyo"
     }
-  ],
-  "timestamp": "2026-06-10T05:30:59.100238574Z",
-  "model": "glm-4.5"
+  ]
 }

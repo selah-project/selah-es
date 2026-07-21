@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 109:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69928,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70284
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:39.020791582Z",
   "translation": "Y ponen ⟨sobre⟩ mí ⟨el⟩ mal ⟨en lugar de⟩ ⟨el⟩ bien, y ⟨el⟩ odio ⟨en lugar de⟩ mi amor.",
   "tokens": [
     {
       "surface": "וישימו",
-      "english": "Y ponen"
+      "gloss": "Y ponen"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩ mí",
+      "gloss": "⟨sobre⟩ mí",
       "marks": "mí"
     },
     {
       "surface": "רעה",
-      "english": "⟨el⟩ mal",
+      "gloss": "⟨el⟩ mal",
       "marks": "mal"
     },
     {
       "surface": "תחת",
-      "english": "⟨en lugar de⟩"
+      "gloss": "⟨en lugar de⟩"
     },
     {
       "surface": "טובה",
-      "english": "⟨el⟩ bien",
+      "gloss": "⟨el⟩ bien",
       "marks": "bien"
     },
     {
       "surface": "ושנאה",
-      "english": "y ⟨el⟩ odio",
+      "gloss": "y ⟨el⟩ odio",
       "marks": "odio"
     },
     {
       "surface": "תחת",
-      "english": "⟨en lugar de⟩"
+      "gloss": "⟨en lugar de⟩"
     },
     {
       "surface": "אהבתי",
-      "english": "mi amor"
+      "gloss": "mi amor"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:39.020791582Z",
-  "model": "glm-4.5"
+  ]
 }

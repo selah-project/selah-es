@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 42:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 621,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70174,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70795
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:18:11.157453132Z",
   "translation": "Por el día ⟨mandará⟩ YHWH su Jésed, y por ⟨la⟩ noche ⟨su⟩ cántico ⟨estará⟩ conmigo, ⟨una⟩ oración ⟨al⟩ Eloj de mi vida.",
   "tokens": [
     {
       "surface": "יומם",
-      "english": "Por el día"
+      "gloss": "Por el día"
     },
     {
       "surface": "יצוה",
-      "english": "⟨mandará⟩"
+      "gloss": "⟨mandará⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     },
     {
       "surface": "ובלילה",
-      "english": "y por ⟨la⟩ noche"
+      "gloss": "y por ⟨la⟩ noche"
     },
     {
       "surface": "שירה",
-      "english": "⟨su⟩ cántico"
+      "gloss": "⟨su⟩ cántico"
     },
     {
       "surface": "עמי",
-      "english": "⟨estará⟩ conmigo"
+      "gloss": "⟨estará⟩ conmigo"
     },
     {
       "surface": "תפלה",
-      "english": "⟨una⟩ oración"
+      "gloss": "⟨una⟩ oración"
     },
     {
       "surface": "לאל",
-      "english": "⟨al⟩ Eloj"
+      "gloss": "⟨al⟩ Eloj"
     },
     {
       "surface": "חיי",
-      "english": "de mi vida"
+      "gloss": "de mi vida"
     }
-  ],
-  "timestamp": "2026-06-09T23:18:11.157453132Z",
-  "model": "glm-4.5"
+  ]
 }

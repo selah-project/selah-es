@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 104:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69791,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70288
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:54.288001030Z",
   "translation": "El ⟨hombre⟩ sale ⟨hacia⟩ su obra ⟨את⟩ y ⟨hacia⟩ su servicio hasta ⟨el⟩ atardecer.",
   "tokens": [
     {
       "surface": "יצא",
-      "english": "Sale"
+      "gloss": "Sale"
     },
     {
       "surface": "אדם",
-      "english": "⟨hombre⟩"
+      "gloss": "⟨hombre⟩"
     },
     {
       "surface": "לפעלו",
-      "english": "⟨hacia⟩ su obra",
+      "gloss": "⟨hacia⟩ su obra",
       "marks": "su obra"
     },
     {
       "surface": "ולעבדתו",
-      "english": "⟨hacia⟩ su servicio",
+      "gloss": "⟨hacia⟩ su servicio",
       "marks": "su servicio"
     },
     {
       "surface": "עדי",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "ערב",
-      "english": "⟨el⟩ atardecer"
+      "gloss": "⟨el⟩ atardecer"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:54.288001030Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 50:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69778,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70199
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:22:11.372015252Z",
   "translation": "¿Acaso ⟨yo⟩ como ⟨la⟩ carne de toros ⟨את⟩ y ⟨el⟩ sangre de machos cabríos ⟨את⟩ ⟨bebo⟩?",
   "tokens": [
     {
       "surface": "האוכל",
-      "english": "¿Acaso ⟨yo⟩ como"
+      "gloss": "¿Acaso ⟨yo⟩ como"
     },
     {
       "surface": "בשר",
-      "english": "⟨la⟩ carne"
+      "gloss": "⟨la⟩ carne"
     },
     {
       "surface": "אבירים",
-      "english": "de toros",
+      "gloss": "de toros",
       "marks": "⟨la⟩ carne de toros"
     },
     {
       "surface": "ודם",
-      "english": "y ⟨el⟩ sangre"
+      "gloss": "y ⟨el⟩ sangre"
     },
     {
       "surface": "עתודים",
-      "english": "de machos cabríos",
+      "gloss": "de machos cabríos",
       "marks": "⟨el⟩ sangre de machos cabríos"
     },
     {
       "surface": "אשתה",
-      "english": "⟨bebo⟩"
+      "gloss": "⟨bebo⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:22:11.372015252Z",
-  "model": "glm-4.5"
+  ]
 }

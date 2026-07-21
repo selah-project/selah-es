@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 38:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69942,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70434
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:17:00.850658488Z",
   "translation": "Porque en ti, ⟨את⟩ YHWH, yo he esperado ⟨es⟩; tú responderás, ⟨el⟩ Adonai ⟨es⟩ mi Elohim.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לך",
-      "english": "en ti"
+      "gloss": "en ti"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הוחלתי",
-      "english": "yo he esperado"
+      "gloss": "yo he esperado"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "תענה",
-      "english": "responderás"
+      "gloss": "responderás"
     },
     {
       "surface": "אדני",
-      "english": "⟨el⟩ Adonai",
+      "gloss": "⟨el⟩ Adonai",
       "marks": "tú"
     },
     {
       "surface": "אלהי",
-      "english": "mi Elohim"
+      "gloss": "mi Elohim"
     }
-  ],
-  "timestamp": "2026-06-09T23:17:00.850658488Z",
-  "model": "glm-4.5"
+  ]
 }

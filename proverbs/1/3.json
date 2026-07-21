@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 1:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59771,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60141
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:27:52.602597627Z",
   "translation": "Para recibir ⟨la⟩ instrucción de ⟨la⟩ Jojmá ⟨en⟩ justicia, ⟨y⟩ juicio ⟨y⟩ rectitud",
   "tokens": [
     {
       "surface": "לקחת",
-      "english": "Para recibir"
+      "gloss": "Para recibir"
     },
     {
       "surface": "מוסר",
-      "english": "⟨la⟩ instrucción"
+      "gloss": "⟨la⟩ instrucción"
     },
     {
       "surface": "השכל",
-      "english": "de ⟨la⟩ Jojmá"
+      "gloss": "de ⟨la⟩ Jojmá"
     },
     {
       "surface": "צדק",
-      "english": "⟨en⟩ justicia"
+      "gloss": "⟨en⟩ justicia"
     },
     {
       "surface": "ומשפט",
-      "english": "⟨y⟩ juicio"
+      "gloss": "⟨y⟩ juicio"
     },
     {
       "surface": "ומישרים",
-      "english": "⟨y⟩ rectitud"
+      "gloss": "⟨y⟩ rectitud"
     }
-  ],
-  "timestamp": "2026-06-10T01:27:52.602597627Z",
-  "model": "glm-4.5"
+  ]
 }

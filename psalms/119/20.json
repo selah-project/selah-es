@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 119:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69825,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70191
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:58:41.682922404Z",
   "translation": "My soul breaketh for the longing ⟨that⟩ it hath ⟨unto⟩ thy judgments at all times",
   "tokens": [
     {
       "surface": "גרסה",
-      "english": "Breaketh"
+      "gloss": "Breaketh"
     },
     {
       "surface": "נפשי",
-      "english": "My soul"
+      "gloss": "My soul"
     },
     {
       "surface": "לתאבה",
-      "english": "for the longing"
+      "gloss": "for the longing"
     },
     {
       "surface": "אל",
-      "english": "⟨unto⟩"
+      "gloss": "⟨unto⟩"
     },
     {
       "surface": "משפטיך",
-      "english": "thy judgments"
+      "gloss": "thy judgments"
     },
     {
       "surface": "בכל",
-      "english": "at all"
+      "gloss": "at all"
     },
     {
       "surface": "עת",
-      "english": "times"
+      "gloss": "times"
     }
-  ],
-  "timestamp": "2026-06-09T23:58:41.682922404Z",
-  "model": "glm-4.5"
+  ]
 }

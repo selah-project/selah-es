@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 37:30",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69828,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70191
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:43.835639663Z",
   "translation": "⟨La⟩ boca ⟨del⟩ justo meditará sabiduría, y su lengua hablará ⟨del⟩ juicio.",
   "tokens": [
     {
       "surface": "פי",
-      "english": "⟨La⟩ boca"
+      "gloss": "⟨La⟩ boca"
     },
     {
       "surface": "צדיק",
-      "english": "⟨del⟩ justo"
+      "gloss": "⟨del⟩ justo"
     },
     {
       "surface": "יהגה",
-      "english": "meditará"
+      "gloss": "meditará"
     },
     {
       "surface": "חכמה",
-      "english": "sabiduría"
+      "gloss": "sabiduría"
     },
     {
       "surface": "ולשונו",
-      "english": "y su lengua"
+      "gloss": "y su lengua"
     },
     {
       "surface": "תדבר",
-      "english": "hablará"
+      "gloss": "hablará"
     },
     {
       "surface": "משפט",
-      "english": "⟨del⟩ juicio"
+      "gloss": "⟨del⟩ juicio"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:43.835639663Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "joshua 15:30",
   "book": "joshua",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 96,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22843,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 22939
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:18:54.557624181Z",
   "translation": "y Eltolad y Kesil y Hormah",
   "tokens": [
     {
       "surface": "ואלתולד",
-      "english": "Y Eltolad"
+      "gloss": "Y Eltolad"
     },
     {
       "surface": "וכסיל",
-      "english": "y Kesil"
+      "gloss": "y Kesil"
     },
     {
       "surface": "וחרמה",
-      "english": "y Hormah"
+      "gloss": "y Hormah"
     }
-  ],
-  "timestamp": "2026-06-10T01:18:54.557624181Z",
-  "model": "glm-4.5"
+  ]
 }

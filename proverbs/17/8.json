@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 17:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60123,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60672
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:40:54.706868754Z",
   "translation": "Una piedra de gracia ⟨es⟩ ⟨el⟩ soborno en ⟨los⟩ ojos de su dueño, hacia todo lo que vuelva ⟨el⟩ rostro, prosperará.",
   "tokens": [
     {
       "surface": "אבן",
-      "english": "Una piedra"
+      "gloss": "Una piedra"
     },
     {
       "surface": "חן",
-      "english": "de gracia"
+      "gloss": "de gracia"
     },
     {
       "surface": "השחד",
-      "english": "⟨el⟩ soborno",
+      "gloss": "⟨el⟩ soborno",
       "marks": "Una piedra de gracia"
     },
     {
       "surface": "בעיני",
-      "english": "en ⟨los⟩ ojos"
+      "gloss": "en ⟨los⟩ ojos"
     },
     {
       "surface": "בעליו",
-      "english": "de su dueño"
+      "gloss": "de su dueño"
     },
     {
       "surface": "אל",
-      "english": "hacia"
+      "gloss": "hacia"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "יפנה",
-      "english": "vuelva ⟨el⟩ rostro"
+      "gloss": "vuelva ⟨el⟩ rostro"
     },
     {
       "surface": "ישכיל",
-      "english": "prosperará"
+      "gloss": "prosperará"
     }
-  ],
-  "timestamp": "2026-06-10T01:40:54.706868754Z",
-  "model": "glm-4.5"
+  ]
 }

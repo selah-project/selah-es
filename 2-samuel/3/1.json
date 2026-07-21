@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 3:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 3,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:17:59.060012506Z",
+  "translation": "Y ⟨fue⟩ ⟨la⟩ guerra ⟨de larga⟩ duración entre ⟨la⟩ casa de Shaúl y entre ⟨la⟩ casa de Davidd; y Davidd ⟨iba⟩ ⟨y⟩ ⟨se⟩ fortalecía, y ⟨la⟩ casa de Shaúl ⟨iban⟩ ⟨y⟩ ⟨se⟩ debilitaban.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Y ⟨fue⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "⟨la⟩ guerra"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "⟨de larga⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨la⟩ casa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaúl"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "y entre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨la⟩ casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "y David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨iba⟩"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "⟨y⟩ ⟨se⟩ fortalecía"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "y ⟨la⟩ casa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaúl"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "⟨iban⟩"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "⟨y⟩ ⟨se⟩ debilitaban"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,88 +84,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 691,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17520,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 18211
-  },
-  "translation": "Y ⟨fue⟩ ⟨la⟩ guerra ⟨de larga⟩ duración entre ⟨la⟩ casa de Shaúl y entre ⟨la⟩ casa de Davidd; y Davidd ⟨iba⟩ ⟨y⟩ ⟨se⟩ fortalecía, y ⟨la⟩ casa de Shaúl ⟨iban⟩ ⟨y⟩ ⟨se⟩ debilitaban.",
-  "tokens": [
-    {
-      "surface": "ותהי",
-      "english": "Y ⟨fue⟩"
-    },
-    {
-      "surface": "המלחמה",
-      "english": "⟨la⟩ guerra"
-    },
-    {
-      "surface": "ארכה",
-      "english": "⟨de larga⟩"
-    },
-    {
-      "surface": "בין",
-      "english": "entre"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨la⟩ casa"
-    },
-    {
-      "surface": "שאול",
-      "english": "de Shaúl"
-    },
-    {
-      "surface": "ובין",
-      "english": "y entre"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨la⟩ casa"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "ודוד",
-      "english": "y David"
-    },
-    {
-      "surface": "הלך",
-      "english": "⟨iba⟩"
-    },
-    {
-      "surface": "וחזק",
-      "english": "⟨y⟩ ⟨se⟩ fortalecía"
-    },
-    {
-      "surface": "ובית",
-      "english": "y ⟨la⟩ casa"
-    },
-    {
-      "surface": "שאול",
-      "english": "de Shaúl"
-    },
-    {
-      "surface": "הלכים",
-      "english": "⟨iban⟩"
-    },
-    {
-      "surface": "ודלים",
-      "english": "⟨y⟩ ⟨se⟩ debilitaban"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:17:59.060012506Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

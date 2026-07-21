@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.1",
-  "verse": 3,
   "ref": "isaiah 34:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26201,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26741
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:38:21.594771365Z",
   "translation": "Y sus muertos serán arrojados, y de sus cadáveres subirá ⟨el⟩ hedor, y se derretirán los montes con ⟨el⟩ sangre de ellos.",
   "tokens": [
     {
       "surface": "וחלליהם",
-      "english": "Y sus muertos"
+      "gloss": "Y sus muertos"
     },
     {
       "surface": "ישלכו",
-      "english": "serán arrojados"
+      "gloss": "serán arrojados"
     },
     {
       "surface": "ופגריהם",
-      "english": "y de sus cadáveres"
+      "gloss": "y de sus cadáveres"
     },
     {
       "surface": "יעלה",
-      "english": "subirá"
+      "gloss": "subirá"
     },
     {
       "surface": "באשם",
-      "english": "⟨el⟩ hedor"
+      "gloss": "⟨el⟩ hedor"
     },
     {
       "surface": "ונמסו",
-      "english": "y se derretirán"
+      "gloss": "y se derretirán"
     },
     {
       "surface": "הרים",
-      "english": "los montes"
+      "gloss": "los montes"
     },
     {
       "surface": "מדמם",
-      "english": "con ⟨el⟩ sangre de ellos"
+      "gloss": "con ⟨el⟩ sangre de ellos"
     }
-  ],
-  "timestamp": "2026-06-13T03:38:21.594771365Z",
-  "model": "glm-5.1"
+  ]
 }

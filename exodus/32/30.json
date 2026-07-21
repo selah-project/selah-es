@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "exodus 32:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 32,
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:11:34.907334312Z",
+  "translation": "Y sucedió al día siguiente que Moshé dijo ⟨al⟩ pueblo: 'Ustedes han pecado ⟨un⟩ gran pecado; y ahora yo subiré ⟨a⟩ YHWH, quizás haré expiación por ⟨el⟩ pecado de ustedes.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "⟨al⟩ día siguiente"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "que dijo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pueblo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ustedes"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "han pecado"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "⟨un⟩ gran pecado"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "y ahora"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "yo subiré"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "quizás"
+    },
+    {
+      "surface": "אכפרה",
+      "gloss": "haré expiación"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "por"
+    },
+    {
+      "surface": "חטאתכם",
+      "gloss": "⟨el⟩ pecado de ustedes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,96 +92,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 719,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17538,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 18257
-  },
-  "translation": "Y sucedió al día siguiente que Moshé dijo ⟨al⟩ pueblo: 'Ustedes han pecado ⟨un⟩ gran pecado; y ahora yo subiré ⟨a⟩ YHWH, quizás haré expiación por ⟨el⟩ pecado de ustedes.'",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "ממחרת",
-      "english": "⟨al⟩ día siguiente"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "que dijo"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨al⟩"
-    },
-    {
-      "surface": "העם",
-      "english": "pueblo"
-    },
-    {
-      "surface": "אתם",
-      "english": "Ustedes"
-    },
-    {
-      "surface": "חטאתם",
-      "english": "han pecado"
-    },
-    {
-      "surface": "חטאה",
-      "english": "⟨un⟩ gran pecado"
-    },
-    {
-      "surface": "גדלה",
-      "english": "grande"
-    },
-    {
-      "surface": "ועתה",
-      "english": "y ahora"
-    },
-    {
-      "surface": "אעלה",
-      "english": "yo subiré"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אולי",
-      "english": "quizás"
-    },
-    {
-      "surface": "אכפרה",
-      "english": "haré expiación"
-    },
-    {
-      "surface": "בעד",
-      "english": "por"
-    },
-    {
-      "surface": "חטאתכם",
-      "english": "⟨el⟩ pecado de ustedes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:11:34.907334312Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

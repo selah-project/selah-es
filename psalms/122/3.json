@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 122:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 337,
-    "prompt_tokens": 69866,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70203
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:43.447430091Z",
   "translation": "Yerushalayim ⟨que está⟩ edificada como una ciudad que ⟨está⟩ unida en ⟨su⟩ conjunto",
   "tokens": [
     {
       "surface": "ירושלם",
-      "english": "Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "הבנויה",
-      "english": "⟨que está⟩ edificada"
+      "gloss": "⟨que está⟩ edificada"
     },
     {
       "surface": "כעיר",
-      "english": "como una ciudad"
+      "gloss": "como una ciudad"
     },
     {
       "surface": "שחברה",
-      "english": "que ⟨está⟩ unida"
+      "gloss": "que ⟨está⟩ unida"
     },
     {
       "surface": "לה",
-      "english": "en ⟨su⟩ conjunto"
+      "gloss": "en ⟨su⟩ conjunto"
     },
     {
       "surface": "יחדו",
-      "english": "juntamente"
+      "gloss": "juntamente"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:43.447430091Z",
-  "model": "glm-4.5"
+  ]
 }

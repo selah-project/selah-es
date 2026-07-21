@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "jeremiah 30:4",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24510,
-    "prompt_tokens_details": {
-      "cached_tokens": 23392
-    },
-    "total_tokens": 24847
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:26:52.720560707Z",
   "translation": "Y estas ⟨son⟩ las palabras que YHWH habló ⟨a⟩ Israel y ⟨a⟩ Judá",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "Y estas"
+      "gloss": "Y estas"
     },
     {
       "surface": "הדברים",
-      "english": "⟨son⟩ las palabras"
+      "gloss": "⟨son⟩ las palabras"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "דבר",
-      "english": "habló"
+      "gloss": "habló"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Israel"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "ואל",
-      "english": "y ⟨a⟩",
+      "gloss": "y ⟨a⟩",
       "marks": "Judá"
     },
     {
       "surface": "יהודה",
-      "english": "Judá"
+      "gloss": "Judá"
     }
-  ],
-  "timestamp": "2026-06-10T03:26:52.720560707Z",
-  "model": "glm-4.5"
+  ]
 }

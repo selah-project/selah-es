@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "genesis 36:36",
   "book": "genesis",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 273,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28190,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28463
-  },
+  "verse": 36,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:33:45.291923902Z",
   "translation": "Y murió Hadad y reinó en ⟨su⟩ lugar Samlah de Masrekah",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "Y murió"
+      "gloss": "Y murió"
     },
     {
       "surface": "הדד",
-      "english": "Hadad"
+      "gloss": "Hadad"
     },
     {
       "surface": "וימלך",
-      "english": "y reinó"
+      "gloss": "y reinó"
     },
     {
       "surface": "תחתיו",
-      "english": "en ⟨su⟩ lugar",
+      "gloss": "en ⟨su⟩ lugar",
       "marks": "lugar"
     },
     {
       "surface": "שמלה",
-      "english": "Samlah"
+      "gloss": "Samlah"
     },
     {
       "surface": "ממשרקה",
-      "english": "de Masrekah"
+      "gloss": "de Masrekah"
     }
-  ],
-  "timestamp": "2026-06-10T05:33:45.291923902Z",
-  "model": "glm-4.5"
+  ]
 }

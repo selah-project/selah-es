@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 2:12",
   "book": "exodus",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 607,
-    "prompt_tokens": 24469,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25076
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:08:25.336387736Z",
   "translation": "Y miró ⟨aquí⟩ y ⟨allá⟩, y vio que no había ⟨nadie⟩, y golpeó ⟨את⟩ ⟨el egipcio⟩ y lo escondió en ⟨la⟩ arena",
   "tokens": [
     {
       "surface": "ויפן",
-      "english": "Y miró"
+      "gloss": "Y miró"
     },
     {
       "surface": "כה",
-      "english": "⟨aquí⟩"
+      "gloss": "⟨aquí⟩"
     },
     {
       "surface": "וכה",
-      "english": "y ⟨allá⟩"
+      "gloss": "y ⟨allá⟩"
     },
     {
       "surface": "וירא",
-      "english": "y vio"
+      "gloss": "y vio"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אין",
-      "english": "no había"
+      "gloss": "no había"
     },
     {
       "surface": "איש",
-      "english": "⟨nadie⟩"
+      "gloss": "⟨nadie⟩"
     },
     {
       "surface": "ויך",
-      "english": "y golpeó"
+      "gloss": "y golpeó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el egipcio"
     },
     {
       "surface": "המצרי",
-      "english": "⟨el egipcio⟩"
+      "gloss": "⟨el egipcio⟩"
     },
     {
       "surface": "ויטמנהו",
-      "english": "y lo escondió"
+      "gloss": "y lo escondió"
     },
     {
       "surface": "בחול",
-      "english": "en ⟨la⟩ arena"
+      "gloss": "en ⟨la⟩ arena"
     }
-  ],
-  "timestamp": "2026-07-16T20:08:25.336387736Z",
-  "model": "glm-4.5"
+  ]
 }

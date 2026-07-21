@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 145:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 512,
-    "prompt_tokens": 70269,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70781
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:45:42.491633989Z",
   "translation": "Los ojos de todos ⟨están⟩ hacia Ti, ⟨y⟩ Tú das a ellos ⟨את⟩ su comida a su tiempo",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "Los ojos"
+      "gloss": "Los ojos"
     },
     {
       "surface": "כל",
-      "english": "de todos"
+      "gloss": "de todos"
     },
     {
       "surface": "אליך",
-      "english": "hacia Ti"
+      "gloss": "hacia Ti"
     },
     {
       "surface": "ישברו",
-      "english": "⟨están⟩"
+      "gloss": "⟨están⟩"
     },
     {
       "surface": "ואתה",
-      "english": "⟨y⟩ Tú"
+      "gloss": "⟨y⟩ Tú"
     },
     {
       "surface": "נותן",
-      "english": "das"
+      "gloss": "das"
     },
     {
       "surface": "להם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su comida"
     },
     {
       "surface": "אכלם",
-      "english": "su comida"
+      "gloss": "su comida"
     },
     {
       "surface": "בעתו",
-      "english": "a su tiempo"
+      "gloss": "a su tiempo"
     }
-  ],
-  "timestamp": "2026-07-16T23:45:42.491633989Z",
-  "model": "glm-4.5"
+  ]
 }

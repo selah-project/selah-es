@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 34:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 70065,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70489
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:28:43.457700536Z",
   "translation": "Este afligido clamó y YHWH escuchó y de todas sus angustias lo ⟨lo⟩ salvó",
   "tokens": [
     {
       "surface": "זה",
-      "english": "Este"
+      "gloss": "Este"
     },
     {
       "surface": "עני",
-      "english": "afligido"
+      "gloss": "afligido"
     },
     {
       "surface": "קרא",
-      "english": "clamó"
+      "gloss": "clamó"
     },
     {
       "surface": "ויהוה",
-      "english": "y YHWH"
+      "gloss": "y YHWH"
     },
     {
       "surface": "שמע",
-      "english": "escuchó"
+      "gloss": "escuchó"
     },
     {
       "surface": "ומכל",
-      "english": "y de todas"
+      "gloss": "y de todas"
     },
     {
       "surface": "צרותיו",
-      "english": "sus angustias"
+      "gloss": "sus angustias"
     },
     {
       "surface": "הושיעו",
-      "english": "lo ⟨lo⟩ salvó"
+      "gloss": "lo ⟨lo⟩ salvó"
     }
-  ],
-  "timestamp": "2026-07-16T23:28:43.457700536Z",
-  "model": "glm-4.5"
+  ]
 }

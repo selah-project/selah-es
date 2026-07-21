@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 51,
   "ref": "psalms 119:51",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 449,
-    "prompt_tokens": 69934,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70383
-  },
+  "verse": 51,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:29.246716476Z",
   "translation": "Los soberbios ⟨han⟩ escarnecido mucho ⟨a mí⟩; ⟨pero⟩ no me he apartado de tu Torá.",
   "tokens": [
     {
       "surface": "זדים",
-      "english": "Los soberbios"
+      "gloss": "Los soberbios"
     },
     {
       "surface": "הליצני",
-      "english": "escarnecido mucho ⟨a mí⟩"
+      "gloss": "escarnecido mucho ⟨a mí⟩"
     },
     {
       "surface": "עד",
-      "english": "mucho"
+      "gloss": "mucho"
     },
     {
       "surface": "מאד",
-      "english": "mucho"
+      "gloss": "mucho"
     },
     {
       "surface": "מתורתך",
-      "english": "de tu Torá"
+      "gloss": "de tu Torá"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "נטיתי",
-      "english": "me he apartado"
+      "gloss": "me he apartado"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:29.246716476Z",
-  "model": "glm-4.5"
+  ]
 }

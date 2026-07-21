@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "ecclesiastes 3:10",
   "book": "ecclesiastes",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 473,
-    "prompt_tokens": 24757,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25230
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:01:16.395813337Z",
   "translation": "He visto ⟨el⟩ ענין ⟨que⟩ Elohim ha dado a los hijos de Adam para ser humillados por él",
   "tokens": [
     {
       "surface": "ראיתי",
-      "english": "He visto"
+      "gloss": "He visto"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הענין"
     },
     {
       "surface": "הענין",
-      "english": "⟨el⟩ ענין"
+      "gloss": "⟨el⟩ ענין"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "נתן",
-      "english": "ha dado"
+      "gloss": "ha dado"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לבני",
-      "english": "a los hijos de"
+      "gloss": "a los hijos de"
     },
     {
       "surface": "האדם",
-      "english": "Adam"
+      "gloss": "Adam"
     },
     {
       "surface": "לענות",
-      "english": "para ser humillados"
+      "gloss": "para ser humillados"
     },
     {
       "surface": "בו",
-      "english": "por él"
+      "gloss": "por él"
     }
-  ],
-  "timestamp": "2026-07-16T20:01:16.395813337Z",
-  "model": "glm-4.5"
+  ]
 }

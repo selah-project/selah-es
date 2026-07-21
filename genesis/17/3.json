@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 17:3",
   "book": "genesis",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28262,
-    "prompt_tokens_details": {
-      "cached_tokens": 26616
-    },
-    "total_tokens": 28722
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:14:05.690202979Z",
   "translation": "Y Abram ⟨cayó⟩ ⟨sobre⟩ su rostro, y ⟨habló⟩ ⟨con⟩ él ⟨Elohim⟩, ⟨diciendo⟩",
   "tokens": [
     {
       "surface": "ויפל",
-      "english": "Y Abram ⟨cayó⟩"
+      "gloss": "Y Abram ⟨cayó⟩"
     },
     {
       "surface": "אברם",
-      "english": "Abram"
+      "gloss": "Abram"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "פניו",
-      "english": "su rostro"
+      "gloss": "su rostro"
     },
     {
       "surface": "ודבר",
-      "english": "y ⟨habló⟩"
+      "gloss": "y ⟨habló⟩"
     },
     {
       "surface": "אתו",
-      "english": "⟨con⟩ él",
+      "gloss": "⟨con⟩ él",
       "marks": "él"
     },
     {
       "surface": "אלהים",
-      "english": "⟨Elohim⟩"
+      "gloss": "⟨Elohim⟩"
     },
     {
       "surface": "לאמר",
-      "english": "⟨diciendo⟩"
+      "gloss": "⟨diciendo⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:14:05.690202979Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 141:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 141,
-  "usage": {
-    "completion_tokens": 497,
-    "prompt_tokens": 70136,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70633
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:56.014287350Z",
   "translation": "Sea mi oración preparada ⟨como⟩ ⟨את⟩ incienso ⟨delante de⟩ ti, ⟨el⟩ alzar de mis manos ⟨como⟩ ofrenda ⟨de⟩ tarde.",
   "tokens": [
     {
       "surface": "תכון",
-      "english": "Sea mi oración preparada"
+      "gloss": "Sea mi oración preparada"
     },
     {
       "surface": "תפלתי",
-      "english": "oración"
+      "gloss": "oración"
     },
     {
       "surface": "קטרת",
-      "english": "incienso",
+      "gloss": "incienso",
       "marks": "incienso"
     },
     {
       "surface": "לפניך",
-      "english": "⟨delante de⟩ ti"
+      "gloss": "⟨delante de⟩ ti"
     },
     {
       "surface": "משאת",
-      "english": "⟨el⟩ alzar"
+      "gloss": "⟨el⟩ alzar"
     },
     {
       "surface": "כפי",
-      "english": "manos"
+      "gloss": "manos"
     },
     {
       "surface": "מנחת",
-      "english": "ofrenda"
+      "gloss": "ofrenda"
     },
     {
       "surface": "ערב",
-      "english": "tarde"
+      "gloss": "tarde"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:56.014287350Z",
-  "model": "glm-4.5"
+  ]
 }

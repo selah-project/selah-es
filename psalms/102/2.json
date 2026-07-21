@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 102:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 334,
-    "prompt_tokens": 69978,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70312
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:04.872321412Z",
   "translation": "YHWH, oye mi oración y que mi clamor venga ante ti",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שמעה",
-      "english": "oye"
+      "gloss": "oye"
     },
     {
       "surface": "תפלתי",
-      "english": "mi oración"
+      "gloss": "mi oración"
     },
     {
       "surface": "ושועתי",
-      "english": "y que mi clamor"
+      "gloss": "y que mi clamor"
     },
     {
       "surface": "אליך",
-      "english": "ante ti"
+      "gloss": "ante ti"
     },
     {
       "surface": "תבוא",
-      "english": "venga"
+      "gloss": "venga"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:04.872321412Z",
-  "model": "glm-4.5"
+  ]
 }

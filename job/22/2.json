@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 22:2",
   "book": "job",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27070,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27478
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:30.140609089Z",
   "translation": "¿⟨es⟩ un hombre provechoso a ⟨את⟩ El, ⟨el⟩ que ⟨es⟩ prudente ⟨es⟩ provechoso a sí mismo?",
   "tokens": [
     {
       "surface": "הלאל",
-      "english": "A El"
+      "gloss": "A El"
     },
     {
       "surface": "יסכן",
-      "english": "provechoso"
+      "gloss": "provechoso"
     },
     {
       "surface": "גבר",
-      "english": "un hombre"
+      "gloss": "un hombre"
     },
     {
       "surface": "כי",
-      "english": "⟨el⟩ que"
+      "gloss": "⟨el⟩ que"
     },
     {
       "surface": "יסכן",
-      "english": "⟨es⟩ provechoso"
+      "gloss": "⟨es⟩ provechoso"
     },
     {
       "surface": "עלימו",
-      "english": "a sí mismo"
+      "gloss": "a sí mismo"
     },
     {
       "surface": "משכיל",
-      "english": "⟨el⟩ prudente"
+      "gloss": "⟨el⟩ prudente"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:30.140609089Z",
-  "model": "glm-4.5"
+  ]
 }

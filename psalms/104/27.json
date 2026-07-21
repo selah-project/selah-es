@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "psalms 104:27",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69792,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70331
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:54.998486304Z",
   "translation": "Todos ⟨los⟩ ellos ⟨se apoyan en⟩ ti, ⟨para darles⟩ su comida ⟨a su⟩ tiempo ⟨a su⟩ ⟨tiempo⟩",
   "tokens": [
     {
       "surface": "כלם",
-      "english": "Todos ⟨los⟩ ellos"
+      "gloss": "Todos ⟨los⟩ ellos"
     },
     {
       "surface": "אליך",
-      "english": "⟨se apoyan en⟩ ti"
+      "gloss": "⟨se apoyan en⟩ ti"
     },
     {
       "surface": "ישברון",
-      "english": "⟨para darles⟩"
+      "gloss": "⟨para darles⟩"
     },
     {
       "surface": "לתת",
-      "english": "su comida"
+      "gloss": "su comida"
     },
     {
       "surface": "אכלם",
-      "english": "⟨a su⟩"
+      "gloss": "⟨a su⟩"
     },
     {
       "surface": "בעתו",
-      "english": "tiempo ⟨a su⟩ ⟨tiempo⟩"
+      "gloss": "tiempo ⟨a su⟩ ⟨tiempo⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:54.998486304Z",
-  "model": "glm-4.5"
+  ]
 }

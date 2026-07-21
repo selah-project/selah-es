@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 42:3",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28229,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28612
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:38:59.218321903Z",
   "translation": "Y los diez hermanos de Yosef descendieron ⟨para⟩ comprar grano ⟨de⟩ Mitsráyim",
   "tokens": [
     {
       "surface": "וירדו",
-      "english": "Y descendieron"
+      "gloss": "Y descendieron"
     },
     {
       "surface": "אחי",
-      "english": "hermanos de"
+      "gloss": "hermanos de"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "עשרה",
-      "english": "diez"
+      "gloss": "diez"
     },
     {
       "surface": "לשבר",
-      "english": "⟨para⟩ comprar"
+      "gloss": "⟨para⟩ comprar"
     },
     {
       "surface": "בר",
-      "english": "grano"
+      "gloss": "grano"
     },
     {
       "surface": "ממצרים",
-      "english": "⟨de⟩ Mitsráyim"
+      "gloss": "⟨de⟩ Mitsráyim"
     }
-  ],
-  "timestamp": "2026-06-10T05:38:59.218321903Z",
-  "model": "glm-4.5"
+  ]
 }

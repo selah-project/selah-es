@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "jonah 2:6",
   "book": "jonah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 574,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26773,
-    "prompt_tokens_details": {
-      "cached_tokens": 25526
-    },
-    "total_tokens": 27347
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:26:00.376065032Z",
   "translation": "Me rodearon ⟨las⟩ aguas hasta ⟨el⟩ alma, ⟨el⟩ abismo me rodeó, ⟨la⟩ caña ⟨está⟩ atada a mi cabeza.",
   "tokens": [
     {
       "surface": "אפפוני",
-      "english": "Me rodearon"
+      "gloss": "Me rodearon"
     },
     {
       "surface": "מים",
-      "english": "⟨las⟩ aguas"
+      "gloss": "⟨las⟩ aguas"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "נפש",
-      "english": "⟨el⟩ alma"
+      "gloss": "⟨el⟩ alma"
     },
     {
       "surface": "תהום",
-      "english": "⟨el⟩ abismo"
+      "gloss": "⟨el⟩ abismo"
     },
     {
       "surface": "יסבבני",
-      "english": "me rodeó"
+      "gloss": "me rodeó"
     },
     {
       "surface": "סוף",
-      "english": "⟨la⟩ caña"
+      "gloss": "⟨la⟩ caña"
     },
     {
       "surface": "חבוש",
-      "english": "⟨está⟩ atada"
+      "gloss": "⟨está⟩ atada"
     },
     {
       "surface": "לראשי",
-      "english": "a mi cabeza"
+      "gloss": "a mi cabeza"
     }
-  ],
-  "timestamp": "2026-06-10T00:26:00.376065032Z",
-  "model": "glm-4.5"
+  ]
 }

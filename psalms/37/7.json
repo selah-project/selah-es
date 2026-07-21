@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 37:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 654,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70302,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70956
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:16:01.210593569Z",
   "translation": "Callado ⟨estás⟩ delante de YHWH ⟨y⟩ espera en él; no ⟨te⟩ exasperes ⟨por⟩ el ⟨que⟩ prospera en su camino, ⟨por⟩ el hombre que hace intriga",
   "tokens": [
     {
       "surface": "דום",
-      "english": "Callado"
+      "gloss": "Callado"
     },
     {
       "surface": "ליהוה",
-      "english": "delante de YHWH"
+      "gloss": "delante de YHWH"
     },
     {
       "surface": "והתחולל",
-      "english": "⟨y⟩ espera en él"
+      "gloss": "⟨y⟩ espera en él"
     },
     {
       "surface": "לו",
-      "english": "en él"
+      "gloss": "en él"
     },
     {
       "surface": "אל",
-      "english": "no ⟨te⟩"
+      "gloss": "no ⟨te⟩"
     },
     {
       "surface": "תתחר",
-      "english": "exasperes"
+      "gloss": "exasperes"
     },
     {
       "surface": "במצליח",
-      "english": "⟨por⟩ el ⟨que⟩ prospera"
+      "gloss": "⟨por⟩ el ⟨que⟩ prospera"
     },
     {
       "surface": "דרכו",
-      "english": "en su camino"
+      "gloss": "en su camino"
     },
     {
       "surface": "באיש",
-      "english": "⟨por⟩ el hombre"
+      "gloss": "⟨por⟩ el hombre"
     },
     {
       "surface": "עשה",
-      "english": "hace"
+      "gloss": "hace"
     },
     {
       "surface": "מזמות",
-      "english": "intriga"
+      "gloss": "intriga"
     }
-  ],
-  "timestamp": "2026-06-09T23:16:01.210593569Z",
-  "model": "glm-4.5"
+  ]
 }

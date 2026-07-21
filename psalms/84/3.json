@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 84:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 84,
-  "usage": {
-    "completion_tokens": 649,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70486,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71135
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:49.652536105Z",
   "translation": "⟨Mi⟩ alma anhela ⟨y⟩ ⟨desfallece⟩ por los patios de YHWH: ⟨mi⟩ corazón y ⟨mi⟩ carne cantan de alegría ⟨al⟩ El ⟨vivo⟩",
   "tokens": [
     {
       "surface": "נכספה",
-      "english": "Anhela"
+      "gloss": "Anhela"
     },
     {
       "surface": "וגם",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "כלתה",
-      "english": "desfallece"
+      "gloss": "desfallece"
     },
     {
       "surface": "נפשי",
-      "english": "alma"
+      "gloss": "alma"
     },
     {
       "surface": "לחצרות",
-      "english": "por los patios de"
+      "gloss": "por los patios de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לבי",
-      "english": "corazón"
+      "gloss": "corazón"
     },
     {
       "surface": "ובשרי",
-      "english": "carne"
+      "gloss": "carne"
     },
     {
       "surface": "ירננו",
-      "english": "cantan de alegría"
+      "gloss": "cantan de alegría"
     },
     {
       "surface": "אל",
-      "english": "al"
+      "gloss": "al"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "חי",
-      "english": "vivo"
+      "gloss": "vivo"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:49.652536105Z",
-  "model": "glm-4.5"
+  ]
 }

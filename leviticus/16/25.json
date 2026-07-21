@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "leviticus 16:25",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 354,
-    "prompt_tokens": 24417,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24771
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:41:29.013145668Z",
   "translation": "y ⟨את⟩ la grasa de la ofrenda por el pecado ⟨él⟩ hará humear sobre el altar",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la grasa"
     },
     {
       "surface": "חלב",
-      "english": "la grasa"
+      "gloss": "la grasa"
     },
     {
       "surface": "החטאת",
-      "english": "de la ofrenda por el pecado"
+      "gloss": "de la ofrenda por el pecado"
     },
     {
       "surface": "יקטיר",
-      "english": "⟨él⟩ hará humear"
+      "gloss": "⟨él⟩ hará humear"
     },
     {
       "surface": "המזבחה",
-      "english": "sobre el altar"
+      "gloss": "sobre el altar"
     }
-  ],
-  "timestamp": "2026-07-16T22:41:29.013145668Z",
-  "model": "glm-4.5"
+  ]
 }

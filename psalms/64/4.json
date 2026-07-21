@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 64:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70011,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70459
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:29.849696277Z",
   "translation": "que afilaron ⟨su⟩ lengua como ⟨una⟩ espada, ⟨y⟩ su lengua ⟨es⟩ ⟨un⟩ flecha ⟨de⟩ amarga palabra",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "שננו",
-      "english": "afilaron"
+      "gloss": "afilaron"
     },
     {
       "surface": "כחרב",
-      "english": "como ⟨una⟩ espada"
+      "gloss": "como ⟨una⟩ espada"
     },
     {
       "surface": "לשונם",
-      "english": "⟨y⟩ su lengua"
+      "gloss": "⟨y⟩ su lengua"
     },
     {
       "surface": "דרכו",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "חצם",
-      "english": "⟨un⟩ flecha"
+      "gloss": "⟨un⟩ flecha"
     },
     {
       "surface": "דבר",
-      "english": "⟨de⟩ palabra"
+      "gloss": "⟨de⟩ palabra"
     },
     {
       "surface": "מר",
-      "english": "amarga"
+      "gloss": "amarga"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:29.849696277Z",
-  "model": "glm-4.5"
+  ]
 }

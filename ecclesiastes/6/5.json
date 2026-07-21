@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ecclesiastes 6:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17088,
-    "prompt_tokens_details": {
-      "cached_tokens": 16042
-    },
-    "total_tokens": 17590
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:42:46.638700603Z",
   "translation": "Incluso ⟨el⟩ sol no ⟨ha⟩ visto ⟨el⟩ sol ⟨y⟩ no ⟨lo⟩ ⟨ha⟩ conocido: este tiene descanso más bien que aquel.",
   "tokens": [
     {
       "surface": "גם",
-      "english": "Incluso"
+      "gloss": "Incluso"
     },
     {
       "surface": "שמש",
-      "english": "⟨el⟩ sol"
+      "gloss": "⟨el⟩ sol"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ראה",
-      "english": "⟨ha⟩ visto"
+      "gloss": "⟨ha⟩ visto"
     },
     {
       "surface": "ולא",
-      "english": "⟨y⟩ no"
+      "gloss": "⟨y⟩ no"
     },
     {
       "surface": "ידע",
-      "english": "⟨lo⟩ ⟨ha⟩ conocido"
+      "gloss": "⟨lo⟩ ⟨ha⟩ conocido"
     },
     {
       "surface": "נחת",
-      "english": "descanso"
+      "gloss": "descanso"
     },
     {
       "surface": "לזה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "מזה",
-      "english": "más bien que aquel"
+      "gloss": "más bien que aquel"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:42:46.638700603Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

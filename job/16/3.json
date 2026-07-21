@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 16:3",
   "book": "job",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27138,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27580
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:02:07.703023880Z",
   "translation": "¿⟨hay⟩ fin ⟨a las⟩ palabras ⟨de⟩ viento? o ¿qué te excita ⟨cuando⟩ respondes?",
   "tokens": [
     {
       "surface": "הקץ",
-      "english": "Fin"
+      "gloss": "Fin"
     },
     {
       "surface": "לדברי",
-      "english": "⟨a las⟩ palabras"
+      "gloss": "⟨a las⟩ palabras"
     },
     {
       "surface": "רוח",
-      "english": "viento"
+      "gloss": "viento"
     },
     {
       "surface": "או",
-      "english": "o"
+      "gloss": "o"
     },
     {
       "surface": "מה",
-      "english": "qué"
+      "gloss": "qué"
     },
     {
       "surface": "ימריצך",
-      "english": "te excita"
+      "gloss": "te excita"
     },
     {
       "surface": "כי",
-      "english": "⟨cuando⟩"
+      "gloss": "⟨cuando⟩"
     },
     {
       "surface": "תענה",
-      "english": "respondes"
+      "gloss": "respondes"
     }
-  ],
-  "timestamp": "2026-06-10T02:02:07.703023880Z",
-  "model": "glm-4.5"
+  ]
 }

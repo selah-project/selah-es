@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 4:15",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59790,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60093
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:31:05.455761192Z",
   "translation": "Avoid ⟨it⟩, do not cross over ⟨in⟩ ⟨it⟩; turn aside from ⟨it⟩, and pass on.",
   "tokens": [
     {
       "surface": "פרעהו",
-      "english": "Avoid"
+      "gloss": "Avoid"
     },
     {
       "surface": "אל",
-      "english": "do not"
+      "gloss": "do not"
     },
     {
       "surface": "תעבר",
-      "english": "cross over"
+      "gloss": "cross over"
     },
     {
       "surface": "בו",
-      "english": "⟨in⟩",
+      "gloss": "⟨in⟩",
       "marks": "it"
     },
     {
       "surface": "שטה",
-      "english": "turn aside from"
+      "gloss": "turn aside from"
     },
     {
       "surface": "מעליו",
-      "english": "⟨it⟩",
+      "gloss": "⟨it⟩",
       "marks": "it"
     },
     {
       "surface": "ועבור",
-      "english": "and pass on"
+      "gloss": "and pass on"
     }
-  ],
-  "timestamp": "2026-06-10T01:31:05.455761192Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 21:4",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59832,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60224
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:04.708364114Z",
   "translation": "⟨La⟩ altivez ⟨de los⟩ ojos y ⟨la⟩ arrogancia ⟨del⟩ corazón—⟨el⟩ surco ⟨de los⟩ impíos ⟨es⟩ pecado.",
   "tokens": [
     {
       "surface": "רום",
-      "english": "Altivez ⟨de los⟩"
+      "gloss": "Altivez ⟨de los⟩"
     },
     {
       "surface": "עינים",
-      "english": "ojos"
+      "gloss": "ojos"
     },
     {
       "surface": "ורחב",
-      "english": "arrogancia ⟨del⟩"
+      "gloss": "arrogancia ⟨del⟩"
     },
     {
       "surface": "לב",
-      "english": "corazón"
+      "gloss": "corazón"
     },
     {
       "surface": "נר",
-      "english": "surco"
+      "gloss": "surco"
     },
     {
       "surface": "רשעים",
-      "english": "impíos"
+      "gloss": "impíos"
     },
     {
       "surface": "חטאת",
-      "english": "pecado"
+      "gloss": "pecado"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:04.708364114Z",
-  "model": "glm-4.5"
+  ]
 }

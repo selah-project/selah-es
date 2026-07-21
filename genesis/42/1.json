@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 42:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 473,
-    "prompt_tokens": 28694,
-    "prompt_tokens_details": {
-      "cached_tokens": 21248
-    },
-    "total_tokens": 29167
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:30:53.333633676Z",
   "translation": "Y vio Yaakov que había grano en Mitzráyim, y dijo Yaakov a sus hijos: ¿Por qué se miran unos a otros?",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y vio"
+      "gloss": "Y vio"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יש",
-      "english": "había"
+      "gloss": "había"
     },
     {
       "surface": "שבר",
-      "english": "grano"
+      "gloss": "grano"
     },
     {
       "surface": "במצרים",
-      "english": "en Mitzráyim"
+      "gloss": "en Mitzráyim"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "לבניו",
-      "english": "a sus hijos"
+      "gloss": "a sus hijos"
     },
     {
       "surface": "למה",
-      "english": "¿Por qué"
+      "gloss": "¿Por qué"
     },
     {
       "surface": "תתראו",
-      "english": "se miran unos a otros"
+      "gloss": "se miran unos a otros"
     }
-  ],
-  "timestamp": "2026-07-17T00:30:53.333633676Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 7:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69872,
-    "prompt_tokens_details": {
-      "cached_tokens": 69871
-    },
-    "total_tokens": 70207
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:14:37.489245105Z",
   "translation": "I will give thanks to YHWH according to ⟨his⟩ righteousness, and will sing praise to ⟨the⟩ name of YHWH ⟨the⟩ Most High.",
   "tokens": [
     {
       "surface": "ישוב",
-      "english": "I will give thanks"
+      "gloss": "I will give thanks"
     },
     {
       "surface": "עמלו",
-      "english": "to ⟨his⟩"
+      "gloss": "to ⟨his⟩"
     },
     {
       "surface": "בראשו",
-      "english": "righteousness"
+      "gloss": "righteousness"
     },
     {
       "surface": "ועל",
-      "english": "and"
+      "gloss": "and"
     },
     {
       "surface": "קדקדו",
-      "english": "to ⟨the⟩ name"
+      "gloss": "to ⟨the⟩ name"
     },
     {
       "surface": "חמסו",
-      "english": "of YHWH"
+      "gloss": "of YHWH"
     },
     {
       "surface": "ירד",
-      "english": "⟨the⟩ Most High"
+      "gloss": "⟨the⟩ Most High"
     }
-  ],
-  "timestamp": "2026-06-10T00:14:37.489245105Z",
-  "model": "glm-4.5"
+  ]
 }

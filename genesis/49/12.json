@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 49:12",
   "book": "genesis",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28203,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28559
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:46:24.805247408Z",
   "translation": "Sus ojos ⟨son⟩ oscuros ⟨más que⟩ ⟨el⟩ vino, y sus dientes ⟨son⟩ blancos ⟨más que⟩ ⟨la⟩ leche.",
   "tokens": [
     {
       "surface": "חכלילי",
-      "english": "Oscuros"
+      "gloss": "Oscuros"
     },
     {
       "surface": "עינים",
-      "english": "ojos"
+      "gloss": "ojos"
     },
     {
       "surface": "מיין",
-      "english": "⟨más que⟩ ⟨el⟩ vino"
+      "gloss": "⟨más que⟩ ⟨el⟩ vino"
     },
     {
       "surface": "ולבן",
-      "english": "y sus dientes ⟨son⟩ blancos"
+      "gloss": "y sus dientes ⟨son⟩ blancos"
     },
     {
       "surface": "שנים",
-      "english": "dientes"
+      "gloss": "dientes"
     },
     {
       "surface": "מחלב",
-      "english": "⟨más que⟩ ⟨la⟩ leche"
+      "gloss": "⟨más que⟩ ⟨la⟩ leche"
     }
-  ],
-  "timestamp": "2026-06-10T05:46:24.805247408Z",
-  "model": "glm-4.5"
+  ]
 }

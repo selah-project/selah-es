@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-samuel 16:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 16,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:00:05.037269308Z",
+  "translation": "Y Shaul envió a Ishai diciendo: ⟨esté⟩ Davidd ⟨ahora⟩ ⟨antes de⟩ mí, porque ⟨ha⟩ hallado gracia en mis ojos.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Y envió"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ishai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨esté⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ahora⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨antes de⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "⟨ha⟩ hallado"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gracia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "en mis ojos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16474,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16989
-  },
-  "translation": "Y Shaul envió a Ishai diciendo: ⟨esté⟩ Davidd ⟨ahora⟩ ⟨antes de⟩ mí, porque ⟨ha⟩ hallado gracia en mis ojos.",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "Y envió"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "ישי",
-      "english": "Ishai"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "יעמד",
-      "english": "⟨esté⟩"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨ahora⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨antes de⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "מצא",
-      "english": "⟨ha⟩ hallado"
-    },
-    {
-      "surface": "חן",
-      "english": "gracia"
-    },
-    {
-      "surface": "בעיני",
-      "english": "en mis ojos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:00:05.037269308Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

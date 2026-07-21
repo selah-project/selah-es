@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "numbers 35:3",
   "book": "numbers",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25344,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25756
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:08:48.548207650Z",
   "translation": "y serán las ciudades ⟨para⟩ ellos ⟨para⟩ habitar y los pastos de ellas serán ⟨para⟩ sus ganados y ⟨para⟩ sus posesiones y ⟨para⟩ todo su ganado",
   "tokens": [
     {
       "surface": "והיו",
-      "english": "Y serán"
+      "gloss": "Y serán"
     },
     {
       "surface": "הערים",
-      "english": "las ciudades"
+      "gloss": "las ciudades"
     },
     {
       "surface": "להם",
-      "english": "⟨para⟩ ellos"
+      "gloss": "⟨para⟩ ellos"
     },
     {
       "surface": "לשבת",
-      "english": "⟨para⟩ habitar"
+      "gloss": "⟨para⟩ habitar"
     },
     {
       "surface": "ומגרשיהם",
-      "english": "y los pastos de ellas"
+      "gloss": "y los pastos de ellas"
     },
     {
       "surface": "יהיו",
-      "english": "serán"
+      "gloss": "serán"
     },
     {
       "surface": "לבהמתם",
-      "english": "⟨para⟩ sus ganados"
+      "gloss": "⟨para⟩ sus ganados"
     },
     {
       "surface": "ולרכשם",
-      "english": "y ⟨para⟩ sus posesiones"
+      "gloss": "y ⟨para⟩ sus posesiones"
     },
     {
       "surface": "ולכל",
-      "english": "y ⟨para⟩ todo"
+      "gloss": "y ⟨para⟩ todo"
     },
     {
       "surface": "חיתם",
-      "english": "su ganado"
+      "gloss": "su ganado"
     }
-  ],
-  "timestamp": "2026-06-10T05:08:48.548207650Z",
-  "model": "glm-4.5"
+  ]
 }

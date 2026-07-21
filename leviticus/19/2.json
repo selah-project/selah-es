@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "leviticus 19:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 19,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:58:23.586276472Z",
+  "translation": "Habla ⟨a⟩ toda ⟨la⟩ asamblea ⟨de⟩ los hijos ⟨de⟩ Yisrael y diles: Santos seréis, porque santo ⟨soy⟩ yo, YHWH, vuestro Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Habla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "⟨la⟩ asamblea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨de⟩ los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "y diles"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨a⟩ ellos"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "Santos"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "seréis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨soy⟩ yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vuestro Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 627,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17776,
-    "prompt_tokens_details": {
-      "cached_tokens": 16069
-    },
-    "total_tokens": 18403
-  },
-  "translation": "Habla ⟨a⟩ toda ⟨la⟩ asamblea ⟨de⟩ los hijos ⟨de⟩ Yisrael y diles: Santos seréis, porque santo ⟨soy⟩ yo, YHWH, vuestro Elohim.",
-  "tokens": [
-    {
-      "surface": "דבר",
-      "english": "Habla"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "עדת",
-      "english": "⟨la⟩ asamblea"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨de⟩ los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "y diles"
-    },
-    {
-      "surface": "אלהם",
-      "english": "⟨a⟩ ellos"
-    },
-    {
-      "surface": "קדשים",
-      "english": "Santos"
-    },
-    {
-      "surface": "תהיו",
-      "english": "seréis"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "קדוש",
-      "english": "santo"
-    },
-    {
-      "surface": "אני",
-      "english": "⟨soy⟩ yo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיכם",
-      "english": "vuestro Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:58:23.586276472Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

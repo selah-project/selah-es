@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 142:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 142,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69941,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70295
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:10:15.376230108Z",
   "translation": "Con mi voz ⟨את⟩ clamo a YHWH; con mi voz ⟨את⟩ YHWH suplico",
   "tokens": [
     {
       "surface": "קולי",
-      "english": "Con mi voz"
+      "gloss": "Con mi voz"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אזעק",
-      "english": "clamo"
+      "gloss": "clamo"
     },
     {
       "surface": "קולי",
-      "english": "con mi voz"
+      "gloss": "con mi voz"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אתחנן",
-      "english": "suplico"
+      "gloss": "suplico"
     }
-  ],
-  "timestamp": "2026-06-10T00:10:15.376230108Z",
-  "model": "glm-4.5"
+  ]
 }

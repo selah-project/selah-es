@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "numbers 5:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 264,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17309,
-    "prompt_tokens_details": {
-      "cached_tokens": 16652
-    },
-    "total_tokens": 17573
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:15:07.908949559Z",
   "translation": "Y habló YHWH ⟨a⟩ Moshé ⟨diciendo⟩",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Y habló"
+      "gloss": "Y habló"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לאמר",
-      "english": "⟨diciendo⟩"
+      "gloss": "⟨diciendo⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:15:07.908949559Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 13:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 313,
-    "prompt_tokens": 59927,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60240
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:19:55.510890124Z",
   "translation": "El justo come hasta ⟨el⟩ saciar de su alma, pero el vientre de los malvados carecerá.",
   "tokens": [
     {
       "surface": "צדיק",
-      "english": "El justo"
+      "gloss": "El justo"
     },
     {
       "surface": "אכל",
-      "english": "come"
+      "gloss": "come"
     },
     {
       "surface": "לשבע",
-      "english": "hasta ⟨el⟩ saciar de"
+      "gloss": "hasta ⟨el⟩ saciar de"
     },
     {
       "surface": "נפשו",
-      "english": "su alma"
+      "gloss": "su alma"
     },
     {
       "surface": "ובטן",
-      "english": "pero el vientre de"
+      "gloss": "pero el vientre de"
     },
     {
       "surface": "רשעים",
-      "english": "los malvados"
+      "gloss": "los malvados"
     },
     {
       "surface": "תחסר",
-      "english": "carecerá"
+      "gloss": "carecerá"
     }
-  ],
-  "timestamp": "2026-07-16T23:19:55.510890124Z",
-  "model": "glm-4.5"
+  ]
 }

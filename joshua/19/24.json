@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "joshua 19:24",
   "book": "joshua",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23245,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23606
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:21:55.616904548Z",
   "translation": "Y salió ⟨el⟩ quinto lote para ⟨la⟩ tribu de ⟨los⟩ hijos de Asher según sus familias",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "Y salió"
+      "gloss": "Y salió"
     },
     {
       "surface": "הגורל",
-      "english": "⟨el⟩ quinto lote"
+      "gloss": "⟨el⟩ quinto lote"
     },
     {
       "surface": "החמישי",
-      "english": "quinto"
+      "gloss": "quinto"
     },
     {
       "surface": "למטה",
-      "english": "para ⟨la⟩ tribu"
+      "gloss": "para ⟨la⟩ tribu"
     },
     {
       "surface": "בני",
-      "english": "de ⟨los⟩ hijos"
+      "gloss": "de ⟨los⟩ hijos"
     },
     {
       "surface": "אשר",
-      "english": "de Asher"
+      "gloss": "de Asher"
     },
     {
       "surface": "למשפחותם",
-      "english": "según sus familias"
+      "gloss": "según sus familias"
     }
-  ],
-  "timestamp": "2026-06-10T01:21:55.616904548Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 25:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 258,
-    "prompt_tokens": 28200,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28458
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:02:11.107828821Z",
   "translation": "Y añadió Avraham y tomó mujer, y su nombre ⟨era⟩ Keturah",
   "tokens": [
     {
       "surface": "ויסף",
-      "english": "Y añadió"
+      "gloss": "Y añadió"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "ויקח",
-      "english": "y tomó"
+      "gloss": "y tomó"
     },
     {
       "surface": "אשה",
-      "english": "mujer"
+      "gloss": "mujer"
     },
     {
       "surface": "ושמה",
-      "english": "y su nombre"
+      "gloss": "y su nombre"
     },
     {
       "surface": "קטורה",
-      "english": "Keturah"
+      "gloss": "Keturah"
     }
-  ],
-  "timestamp": "2026-07-16T21:02:11.107828821Z",
-  "model": "glm-4.5"
+  ]
 }

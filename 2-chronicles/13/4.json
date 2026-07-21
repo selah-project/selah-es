@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 13:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 13,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:13:00.634767283Z",
+  "translation": "Y se levantó Abiyá ⟨de⟩ sobre ⟨el⟩ monte Tsemarayim, ⟨el cual está⟩ en ⟨el⟩ monte de Efráyim, y dijo: Escuchadme, Yaravam y todo Yisrael",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Y se levantó"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiyá"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨de⟩ sobre"
+    },
+    {
+      "surface": "להר",
+      "gloss": "⟨el⟩ monte"
+    },
+    {
+      "surface": "צמרים",
+      "gloss": "Tsemarayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨el cual está⟩"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨el⟩ monte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Escuchadme"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58279,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58835
-  },
-  "translation": "Y se levantó Abiyá ⟨de⟩ sobre ⟨el⟩ monte Tsemarayim, ⟨el cual está⟩ en ⟨el⟩ monte de Efráyim, y dijo: Escuchadme, Yaravam y todo Yisrael",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Y se levantó"
-    },
-    {
-      "surface": "אביה",
-      "english": "Abiyá"
-    },
-    {
-      "surface": "מעל",
-      "english": "⟨de⟩ sobre"
-    },
-    {
-      "surface": "להר",
-      "english": "⟨el⟩ monte"
-    },
-    {
-      "surface": "צמרים",
-      "english": "Tsemarayim"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨el cual está⟩"
-    },
-    {
-      "surface": "בהר",
-      "english": "⟨el⟩ monte"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "שמעוני",
-      "english": "Escuchadme"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yaravam"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:13:00.634767283Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

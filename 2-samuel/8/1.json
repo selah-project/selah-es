@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 8:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 8,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:22:55.724378655Z",
+  "translation": "Y sucedió después de esto que Davidd derrotó ⟨a⟩ ⟨los⟩ filisteos y los sometió; y Davidd tomó ⟨el⟩ ⟨freno de⟩ ⟨la⟩ metrópoli de mano de ⟨los⟩ filisteos.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "después"
+    },
+    {
+      "surface": "כן",
+      "gloss": "de esto"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "que David derrotó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "los filisteos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "los filisteos"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "y los sometió"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "y David tomó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨el⟩",
+      "marks": "freno de la metrópoli"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "freno"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "de la metrópoli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de mano"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de los filisteos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,86 +89,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17677,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 18215
-  },
-  "translation": "Y sucedió después de esto que Davidd derrotó ⟨a⟩ ⟨los⟩ filisteos y los sometió; y Davidd tomó ⟨el⟩ ⟨freno de⟩ ⟨la⟩ metrópoli de mano de ⟨los⟩ filisteos.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "אחרי",
-      "english": "después"
-    },
-    {
-      "surface": "כן",
-      "english": "de esto"
-    },
-    {
-      "surface": "ויך",
-      "english": "que David derrotó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "los filisteos"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "los filisteos"
-    },
-    {
-      "surface": "ויכניעם",
-      "english": "y los sometió"
-    },
-    {
-      "surface": "ויקח",
-      "english": "y David tomó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "את",
-      "english": "⟨el⟩",
-      "marks": "freno de la metrópoli"
-    },
-    {
-      "surface": "מתג",
-      "english": "freno"
-    },
-    {
-      "surface": "האמה",
-      "english": "de la metrópoli"
-    },
-    {
-      "surface": "מיד",
-      "english": "de mano"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "de los filisteos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:22:55.724378655Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

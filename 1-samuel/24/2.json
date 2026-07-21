@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-samuel 24:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 24,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:08:32.851671499Z",
+  "translation": "Y sucedió cuando Shaul ⟨volvió⟩ de ⟨la⟩ persecución de ⟨los⟩ pelishtim, ⟨y⟩ le ⟨fue⟩ dicho ⟨en⟩ señal: '¡He aquí! Davidd ⟨está⟩ en ⟨el⟩ desierto de Ein-Guedi.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "cuando"
+    },
+    {
+      "surface": "שב",
+      "gloss": "volvió"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "de"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtim"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "y le fue dicho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "le"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en señal"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "'¡He aquí!"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "está en el desierto"
+    },
+    {
+      "surface": "עין",
+      "gloss": "de Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Guedi'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,80 +76,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16565,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17056
-  },
-  "translation": "Y sucedió cuando Shaul ⟨volvió⟩ de ⟨la⟩ persecución de ⟨los⟩ pelishtim, ⟨y⟩ le ⟨fue⟩ dicho ⟨en⟩ señal: '¡He aquí! Davidd ⟨está⟩ en ⟨el⟩ desierto de Ein-Guedi.'",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "כאשר",
-      "english": "cuando"
-    },
-    {
-      "surface": "שב",
-      "english": "volvió"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "מאחרי",
-      "english": "de"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "pelishtim"
-    },
-    {
-      "surface": "ויגדו",
-      "english": "y le fue dicho"
-    },
-    {
-      "surface": "לו",
-      "english": "le"
-    },
-    {
-      "surface": "לאמר",
-      "english": "en señal"
-    },
-    {
-      "surface": "הנה",
-      "english": "'¡He aquí!"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "במדבר",
-      "english": "está en el desierto"
-    },
-    {
-      "surface": "עין",
-      "english": "de Ein"
-    },
-    {
-      "surface": "גדי",
-      "english": "Guedi'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:08:32.851671499Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

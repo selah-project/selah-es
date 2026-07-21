@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 1:6",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 544,
-    "prompt_tokens": 24523,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25067
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:31:30.147656882Z",
   "translation": "y desollar ⟨את⟩ la ofrenda quemada y cortarla ⟨את⟩ en sus trozos",
   "tokens": [
     {
       "surface": "וְ\/הִפְשִׁ֖יט",
-      "english": "y desollar"
+      "gloss": "y desollar"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "העלה (la ofrenda quemada)"
     },
     {
       "surface": "הָ\/עֹלָ֑ה",
-      "english": "la ofrenda quemada"
+      "gloss": "la ofrenda quemada"
     },
     {
       "surface": "וְ\/נִתַּ֥ח",
-      "english": "y cortarla"
+      "gloss": "y cortarla"
     },
     {
       "surface": "אֹתָ֖\/הּ",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "לנתחיה (en sus trozos)"
     },
     {
       "surface": "לִ\/נְתָחֶֽי\/הָ",
-      "english": "en sus trozos"
+      "gloss": "en sus trozos"
     }
-  ],
-  "timestamp": "2026-07-16T22:31:30.147656882Z",
-  "model": "glm-4.5"
+  ]
 }

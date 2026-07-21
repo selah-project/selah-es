@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 50:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69937,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70430
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:22:50.668579328Z",
   "translation": "porque ⟨es⟩ mío todo ser vivo ⟨del⟩ bosque, ⟨los⟩ animales ⟨sobre⟩ miles de colinas",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לי",
-      "english": "⟨es⟩ mío",
+      "gloss": "⟨es⟩ mío",
       "marks": "todo ser vivo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "חיתו",
-      "english": "ser vivo ⟨del⟩",
+      "gloss": "ser vivo ⟨del⟩",
       "marks": "bosque"
     },
     {
       "surface": "יער",
-      "english": "bosque"
+      "gloss": "bosque"
     },
     {
       "surface": "בהמות",
-      "english": "⟨los⟩ animales"
+      "gloss": "⟨los⟩ animales"
     },
     {
       "surface": "בהררי",
-      "english": "⟨sobre⟩ miles de colinas"
+      "gloss": "⟨sobre⟩ miles de colinas"
     },
     {
       "surface": "אלף",
-      "english": "miles de colinas"
+      "gloss": "miles de colinas"
     }
-  ],
-  "timestamp": "2026-06-09T23:22:50.668579328Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 27:14",
   "book": "job",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27223,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27641
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:09.438986838Z",
   "translation": "Si sus hijos ⟨se⟩ multiplican, ⟨es⟩ para ⟨el⟩ espada; y su descendiente no ⟨estará⟩ saciado ⟨de⟩ pan.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "ירבו",
-      "english": "sus hijos ⟨se⟩ multiplican"
+      "gloss": "sus hijos ⟨se⟩ multiplican"
     },
     {
       "surface": "בניו",
-      "english": "sus hijos"
+      "gloss": "sus hijos"
     },
     {
       "surface": "למו",
-      "english": "para"
+      "gloss": "para"
     },
     {
       "surface": "חרב",
-      "english": "⟨el⟩ espada"
+      "gloss": "⟨el⟩ espada"
     },
     {
       "surface": "וצאצאיו",
-      "english": "y su descendiente"
+      "gloss": "y su descendiente"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ישבעו",
-      "english": "⟨estará⟩ saciado"
+      "gloss": "⟨estará⟩ saciado"
     },
     {
       "surface": "לחם",
-      "english": "⟨de⟩ pan"
+      "gloss": "⟨de⟩ pan"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:09.438986838Z",
-  "model": "glm-4.5"
+  ]
 }

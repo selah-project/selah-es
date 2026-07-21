@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 6:24",
   "book": "job",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27040,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27401
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:45.623542633Z",
   "translation": "Enseñadme, y yo ⟨estaré⟩ callado; y ⟨lo que⟩ yo he errado, hacedme entender",
   "tokens": [
     {
       "surface": "הורוני",
-      "english": "Enseñadme"
+      "gloss": "Enseñadme"
     },
     {
       "surface": "ואני",
-      "english": "y yo"
+      "gloss": "y yo"
     },
     {
       "surface": "אחריש",
-      "english": "⟨estará⟩ callado"
+      "gloss": "⟨estará⟩ callado"
     },
     {
       "surface": "ומה",
-      "english": "y ⟨lo que⟩"
+      "gloss": "y ⟨lo que⟩"
     },
     {
       "surface": "שגיתי",
-      "english": "yo he errado"
+      "gloss": "yo he errado"
     },
     {
       "surface": "הבינו",
-      "english": "hacedme entender"
+      "gloss": "hacedme entender"
     },
     {
       "surface": "לי",
-      "english": "⟨a mí⟩"
+      "gloss": "⟨a mí⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:45.623542633Z",
-  "model": "glm-4.5"
+  ]
 }

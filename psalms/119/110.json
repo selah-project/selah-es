@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 110,
   "ref": "psalms 119:110",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69872,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70369
-  },
+  "verse": 110,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:35.387165664Z",
   "translation": "⟨Los⟩ malvados ⟨han⟩ puesto ⟨un⟩ lazo para mí, pero ⟨yo⟩ no ⟨me⟩ aparté ⟨de⟩ tus preceptos.",
   "tokens": [
     {
       "surface": "נתנו",
-      "english": "Puesto",
+      "gloss": "Puesto",
       "marks": "un lazo"
     },
     {
       "surface": "רשעים",
-      "english": "⟨Los⟩ malvados"
+      "gloss": "⟨Los⟩ malvados"
     },
     {
       "surface": "פח",
-      "english": "⟨un⟩ lazo"
+      "gloss": "⟨un⟩ lazo"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "ומפקודיך",
-      "english": "⟨de⟩ tus preceptos"
+      "gloss": "⟨de⟩ tus preceptos"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תעיתי",
-      "english": "⟨yo⟩ ⟨me⟩ aparté"
+      "gloss": "⟨yo⟩ ⟨me⟩ aparté"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:35.387165664Z",
-  "model": "glm-4.5"
+  ]
 }

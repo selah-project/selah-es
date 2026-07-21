@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "deuteronomy 22:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16980,
-    "prompt_tokens_details": {
-      "cached_tokens": 16230
-    },
-    "total_tokens": 17317
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:32:48.636935284Z",
   "translation": "No ararás ⟨con⟩ ⟨un⟩ buey y ⟨un⟩ asno ⟨את⟩ juntamente.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תחרש",
-      "english": "ararás"
+      "gloss": "ararás"
     },
     {
       "surface": "בשור",
-      "english": "⟨un⟩ buey"
+      "gloss": "⟨un⟩ buey"
     },
     {
       "surface": "ובחמר",
-      "english": "y ⟨un⟩ asno",
+      "gloss": "y ⟨un⟩ asno",
       "marks": "juntamente"
     },
     {
       "surface": "יחדו",
-      "english": "juntamente"
+      "gloss": "juntamente"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:32:48.636935284Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

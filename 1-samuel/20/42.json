@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "1-samuel 20:42",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:05:39.830612884Z",
+  "translation": "Y Yonatán dijo a David: ⟨ve⟩ en paz, ⟨por⟩ lo cual ⟨ambos⟩ juramos ⟨dos⟩ nosotros ⟨en⟩ ⟨el⟩ nombre de YHWH, diciendo: YHWH ⟨estará⟩ entre yo y tú, y entre mi descendencia y tu descendencia para siempre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y ... dijo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatán"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ve⟩"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "en paz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨por⟩ lo cual"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "juramos"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "⟨ambos⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨dos⟩ nosotros"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨en⟩ ⟨el⟩ nombre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨estará⟩"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "entre yo"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "y tú"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "y entre"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mi descendencia"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "y"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tu descendencia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "para"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "siempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jonatán",
@@ -13,112 +108,6 @@
       "hebrew": "יונתן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 822,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17468,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 18290
-  },
-  "translation": "Y Yonatán dijo a David: ⟨ve⟩ en paz, ⟨por⟩ lo cual ⟨ambos⟩ juramos ⟨dos⟩ nosotros ⟨en⟩ ⟨el⟩ nombre de YHWH, diciendo: YHWH ⟨estará⟩ entre yo y tú, y entre mi descendencia y tu descendencia para siempre.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y ... dijo"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yonatán"
-    },
-    {
-      "surface": "לדוד",
-      "english": "a David"
-    },
-    {
-      "surface": "לך",
-      "english": "⟨ve⟩"
-    },
-    {
-      "surface": "לשלום",
-      "english": "en paz"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨por⟩ lo cual"
-    },
-    {
-      "surface": "נשבענו",
-      "english": "juramos"
-    },
-    {
-      "surface": "שנינו",
-      "english": "⟨ambos⟩"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "⟨dos⟩ nosotros"
-    },
-    {
-      "surface": "בשם",
-      "english": "⟨en⟩ ⟨el⟩ nombre"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "יהיה",
-      "english": "⟨estará⟩"
-    },
-    {
-      "surface": "ביני",
-      "english": "entre yo"
-    },
-    {
-      "surface": "ובינך",
-      "english": "y tú"
-    },
-    {
-      "surface": "ובין",
-      "english": "y entre"
-    },
-    {
-      "surface": "זרעי",
-      "english": "mi descendencia"
-    },
-    {
-      "surface": "ובין",
-      "english": "y"
-    },
-    {
-      "surface": "זרעך",
-      "english": "tu descendencia"
-    },
-    {
-      "surface": "עד",
-      "english": "para"
-    },
-    {
-      "surface": "עולם",
-      "english": "siempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:05:39.830612884Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

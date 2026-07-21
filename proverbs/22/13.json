@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "proverbs 22:13",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59802,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60406
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:45:07.605907594Z",
   "translation": "⟨el⟩ perezoso dice: ⟨Un⟩ león ⟨está⟩ en ⟨la⟩ calle, ⟨seré⟩ asesinado en ⟨las⟩ plazas.",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "Dice"
+      "gloss": "Dice"
     },
     {
       "surface": "עצל",
-      "english": "⟨el⟩ perezoso"
+      "gloss": "⟨el⟩ perezoso"
     },
     {
       "surface": "ארי",
-      "english": "⟨Un⟩ león"
+      "gloss": "⟨Un⟩ león"
     },
     {
       "surface": "בחוץ",
-      "english": "en ⟨la⟩ calle"
+      "gloss": "en ⟨la⟩ calle"
     },
     {
       "surface": "בתוך",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "רחבות",
-      "english": "⟨las⟩ plazas"
+      "gloss": "⟨las⟩ plazas"
     },
     {
       "surface": "ארצח",
-      "english": "⟨seré⟩ asesinado"
+      "gloss": "⟨seré⟩ asesinado"
     }
-  ],
-  "timestamp": "2026-06-10T01:45:07.605907594Z",
-  "model": "glm-4.5"
+  ]
 }

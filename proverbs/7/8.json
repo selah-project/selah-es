@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 7:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59809,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60186
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:32:34.334622314Z",
   "translation": "Crossing through the market ⟨את⟩ ⟨the⟩ street near ⟨the⟩ corner, and ⟨the⟩ way to her house he ⟨was⟩ stepping",
   "tokens": [
     {
       "surface": "עבר",
-      "english": "Crossing"
+      "gloss": "Crossing"
     },
     {
       "surface": "בשוק",
-      "english": "through the market"
+      "gloss": "through the market"
     },
     {
       "surface": "אצל",
-      "english": "near"
+      "gloss": "near"
     },
     {
       "surface": "פנה",
-      "english": "⟨the⟩ corner"
+      "gloss": "⟨the⟩ corner"
     },
     {
       "surface": "ודרך",
-      "english": "and ⟨the⟩ way"
+      "gloss": "and ⟨the⟩ way"
     },
     {
       "surface": "ביתה",
-      "english": "to her house"
+      "gloss": "to her house"
     },
     {
       "surface": "יצעד",
-      "english": "he ⟨was⟩ stepping"
+      "gloss": "he ⟨was⟩ stepping"
     }
-  ],
-  "timestamp": "2026-06-10T01:32:34.334622314Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 4:4",
   "book": "job",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 399,
-    "prompt_tokens": 27101,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27500
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:56:54.400741920Z",
   "translation": "Tus palabras ⟨lo⟩ sostienen ⟨que está⟩ tropezando y ⟨las⟩ rodillas ⟨que están⟩ flaqueando tú das fuerza",
   "tokens": [
     {
       "surface": "כושל",
-      "english": "⟨que está⟩ tropezando"
+      "gloss": "⟨que está⟩ tropezando"
     },
     {
       "surface": "יקימון",
-      "english": "⟨lo⟩ sostienen"
+      "gloss": "⟨lo⟩ sostienen"
     },
     {
       "surface": "מליך",
-      "english": "Tus palabras"
+      "gloss": "Tus palabras"
     },
     {
       "surface": "וברכים",
-      "english": "y ⟨las⟩ rodillas"
+      "gloss": "y ⟨las⟩ rodillas"
     },
     {
       "surface": "כרעות",
-      "english": "⟨que están⟩ flaqueando"
+      "gloss": "⟨que están⟩ flaqueando"
     },
     {
       "surface": "תאמץ",
-      "english": "tú das fuerza"
+      "gloss": "tú das fuerza"
     }
-  ],
-  "timestamp": "2026-07-16T21:56:54.400741920Z",
-  "model": "glm-4.5"
+  ]
 }

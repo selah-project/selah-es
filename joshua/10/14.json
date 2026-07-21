@@ -1,83 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "joshua 10:14",
   "book": "joshua",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 655,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23853,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 24508
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:14:40.687547054Z",
   "translation": "Y no hubo día como aquel delante de ⟨él⟩ y después de ⟨él⟩ ⟨para⟩ que YHWH escuchara ⟨en⟩ la voz de un hombre porque YHWH luchó ⟨por⟩ Israel",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "Y no"
+      "gloss": "Y no"
     },
     {
       "surface": "היה",
-      "english": "hubo"
+      "gloss": "hubo"
     },
     {
       "surface": "כיום",
-      "english": "día como"
+      "gloss": "día como"
     },
     {
       "surface": "ההוא",
-      "english": "aquel"
+      "gloss": "aquel"
     },
     {
       "surface": "לפניו",
-      "english": "delante de ⟨él⟩",
+      "gloss": "delante de ⟨él⟩",
       "marks": "día"
     },
     {
       "surface": "ואחריו",
-      "english": "y después de ⟨él⟩",
+      "gloss": "y después de ⟨él⟩",
       "marks": "día"
     },
     {
       "surface": "לשמע",
-      "english": "⟨para⟩ que escuchara"
+      "gloss": "⟨para⟩ que escuchara"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בקול",
-      "english": "⟨en⟩ la voz"
+      "gloss": "⟨en⟩ la voz"
     },
     {
       "surface": "איש",
-      "english": "de un hombre"
+      "gloss": "de un hombre"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "נלחם",
-      "english": "luchó"
+      "gloss": "luchó"
     },
     {
       "surface": "לישראל",
-      "english": "⟨por⟩ Israel",
+      "gloss": "⟨por⟩ Israel",
       "marks": "Israel"
     }
-  ],
-  "timestamp": "2026-06-10T01:14:40.687547054Z",
-  "model": "glm-4.5"
+  ]
 }

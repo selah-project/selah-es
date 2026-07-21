@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 14:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 436,
-    "prompt_tokens": 28775,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29211
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:56:28.466060034Z",
   "translation": "Y tomaron ⟨את⟩ toda la propiedad de Sedom y Amorá y ⟨את⟩ todo su alimento y se fueron",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "Y tomaron"
+      "gloss": "Y tomaron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda la propiedad de Sedom y Amorá"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "רכש",
-      "english": "la propiedad"
+      "gloss": "la propiedad"
     },
     {
       "surface": "סדום",
-      "english": "de Sedom"
+      "gloss": "de Sedom"
     },
     {
       "surface": "ועמרה",
-      "english": "y Amorá"
+      "gloss": "y Amorá"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo su alimento"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "אכלם",
-      "english": "su alimento"
+      "gloss": "su alimento"
     },
     {
       "surface": "וילכו",
-      "english": "y se fueron"
+      "gloss": "y se fueron"
     }
-  ],
-  "timestamp": "2026-07-16T20:56:28.466060034Z",
-  "model": "glm-4.5"
+  ]
 }

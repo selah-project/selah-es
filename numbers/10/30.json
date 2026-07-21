@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "numbers 10:30",
   "book": "numbers",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25300,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25789
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:47:35.201930459Z",
   "translation": "Y ⟨el⟩ dijo ⟨את⟩ a él: 'No ⟨iré⟩, ⟨sino que⟩ ⟨a⟩ ⟨mi⟩ tierra ⟨y⟩ ⟨a⟩ ⟨mi⟩ linaje ⟨iré⟩'",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y ⟨el⟩ dijo"
+      "gloss": "Y ⟨el⟩ dijo"
     },
     {
       "surface": "אליו",
-      "english": "a él"
+      "gloss": "a él"
     },
     {
       "surface": "לא",
-      "english": "No ⟨iré⟩"
+      "gloss": "No ⟨iré⟩"
     },
     {
       "surface": "אלך",
-      "english": "⟨iré⟩"
+      "gloss": "⟨iré⟩"
     },
     {
       "surface": "כי",
-      "english": "⟨sino que⟩"
+      "gloss": "⟨sino que⟩"
     },
     {
       "surface": "אם",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "ארצי",
-      "english": "⟨mi⟩ tierra"
+      "gloss": "⟨mi⟩ tierra"
     },
     {
       "surface": "ואל",
-      "english": "⟨y⟩ ⟨a⟩"
+      "gloss": "⟨y⟩ ⟨a⟩"
     },
     {
       "surface": "מולדתי",
-      "english": "⟨mi⟩ linaje"
+      "gloss": "⟨mi⟩ linaje"
     },
     {
       "surface": "אלך",
-      "english": "⟨iré⟩"
+      "gloss": "⟨iré⟩"
     }
-  ],
-  "timestamp": "2026-06-10T04:47:35.201930459Z",
-  "model": "glm-4.5"
+  ]
 }

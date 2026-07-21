@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 136:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69802,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70202
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:07:09.269678586Z",
   "translation": "To ⟨the one⟩ striking Mitsráyim in ⟨the⟩ir firstborn: ⟨because⟩ to forever ⟨is⟩ his Jésed.",
   "tokens": [
     {
       "surface": "למכה",
-      "english": "To ⟨the one⟩ striking"
+      "gloss": "To ⟨the one⟩ striking"
     },
     {
       "surface": "מצרים",
-      "english": "Mitsráyim"
+      "gloss": "Mitsráyim"
     },
     {
       "surface": "בבכוריהם",
-      "english": "in ⟨the⟩ir firstborn"
+      "gloss": "in ⟨the⟩ir firstborn"
     },
     {
       "surface": "כי",
-      "english": "⟨because⟩"
+      "gloss": "⟨because⟩"
     },
     {
       "surface": "לעולם",
-      "english": "to forever"
+      "gloss": "to forever"
     },
     {
       "surface": "חסדו",
-      "english": "his Jésed"
+      "gloss": "his Jésed"
     }
-  ],
-  "timestamp": "2026-06-10T00:07:09.269678586Z",
-  "model": "glm-4.5"
+  ]
 }

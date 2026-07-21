@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "psalms 104:34",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69791,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70225
-  },
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:38.544532224Z",
   "translation": "⟨may be⟩ sweet my meditation ⟨of⟩ Him, I--I will rejoice in YHWH.",
   "tokens": [
     {
       "surface": "יערב",
-      "english": "⟨May be⟩ sweet"
+      "gloss": "⟨May be⟩ sweet"
     },
     {
       "surface": "עליו",
-      "english": "⟨of⟩ Him"
+      "gloss": "⟨of⟩ Him"
     },
     {
       "surface": "שיחי",
-      "english": "my meditation"
+      "gloss": "my meditation"
     },
     {
       "surface": "אנכי",
-      "english": "I--I"
+      "gloss": "I--I"
     },
     {
       "surface": "אשמח",
-      "english": "will rejoice"
+      "gloss": "will rejoice"
     },
     {
       "surface": "ביהוה",
-      "english": "in YHWH"
+      "gloss": "in YHWH"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:38.544532224Z",
-  "model": "glm-4.5"
+  ]
 }

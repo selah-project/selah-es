@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-kings 16:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 16,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:08:15.680372732Z",
+  "translation": "Y ⟨lo⟩ demás ⟨de los⟩ hechos de Baashá ⟨ויתר⟩, y lo que hizo ⟨עשה⟩, y su poder ⟨וגבורתו⟩, ¿no ⟨הלא⟩ ⟨están⟩ ellos ⟨הם⟩ escritos ⟨כתובים⟩ sobre ⟨על⟩ Séfer ⟨ספר⟩ ⟨de los⟩ hechos ⟨דברי⟩ ⟨de los⟩ días ⟨הימים⟩ ⟨de los⟩ reyes ⟨למלכי⟩ ⟨de⟩ Yisrael ⟨ישראל⟩?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Y lo demás ⟨de los⟩ hechos"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "hechos"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "de Baashá"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "y lo que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "y su poder"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿no"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨están⟩ ellos"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨de los⟩ hechos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨de los⟩ días"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "⟨de los⟩ reyes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el libro",
@@ -20,84 +87,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 705,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62682,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63387
-  },
-  "translation": "Y ⟨lo⟩ demás ⟨de los⟩ hechos de Baashá ⟨ויתר⟩, y lo que hizo ⟨עשה⟩, y su poder ⟨וגבורתו⟩, ¿no ⟨הלא⟩ ⟨están⟩ ellos ⟨הם⟩ escritos ⟨כתובים⟩ sobre ⟨על⟩ Séfer ⟨ספר⟩ ⟨de los⟩ hechos ⟨דברי⟩ ⟨de los⟩ días ⟨הימים⟩ ⟨de los⟩ reyes ⟨למלכי⟩ ⟨de⟩ Yisrael ⟨ישראל⟩?",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "Y lo demás ⟨de los⟩ hechos"
-    },
-    {
-      "surface": "דברי",
-      "english": "hechos"
-    },
-    {
-      "surface": "בעשא",
-      "english": "de Baashá"
-    },
-    {
-      "surface": "ואשר",
-      "english": "y lo que"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo"
-    },
-    {
-      "surface": "וגבורתו",
-      "english": "y su poder"
-    },
-    {
-      "surface": "הלא",
-      "english": "¿no"
-    },
-    {
-      "surface": "הם",
-      "english": "⟨están⟩ ellos"
-    },
-    {
-      "surface": "כתובים",
-      "english": "escritos"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ספר",
-      "english": "Séfer"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨de los⟩ hechos"
-    },
-    {
-      "surface": "הימים",
-      "english": "⟨de los⟩ días"
-    },
-    {
-      "surface": "למלכי",
-      "english": "⟨de los⟩ reyes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:08:15.680372732Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

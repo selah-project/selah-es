@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "proverbs 28:18",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59925,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60342
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:50:41.069486043Z",
   "translation": "הולך תמים יושע ונעקש דרכים יפול באחת⟨the⟩⟨את⟩integrity will be saved and crooked ⟨the⟩⟨את⟩ways will fall at once",
   "tokens": [
     {
       "surface": "הולך",
-      "english": "Whoso walketh"
+      "gloss": "Whoso walketh"
     },
     {
       "surface": "תמים",
-      "english": "uprightly",
+      "gloss": "uprightly",
       "marks": "integrity"
     },
     {
       "surface": "יושע",
-      "english": "shall be saved"
+      "gloss": "shall be saved"
     },
     {
       "surface": "ונעקש",
-      "english": "but he that is crooked"
+      "gloss": "but he that is crooked"
     },
     {
       "surface": "דרכים",
-      "english": "in his ways",
+      "gloss": "in his ways",
       "marks": "ways"
     },
     {
       "surface": "יפול",
-      "english": "will fall"
+      "gloss": "will fall"
     },
     {
       "surface": "באחת",
-      "english": "at once"
+      "gloss": "at once"
     }
-  ],
-  "timestamp": "2026-06-10T01:50:41.069486043Z",
-  "model": "glm-4.5"
+  ]
 }

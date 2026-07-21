@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 34:3",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26955,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27311
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:42.624069730Z",
   "translation": "Porque ⟨el⟩ oído prueba ⟨las⟩ palabras y ⟨el⟩ paladar gusta ⟨el⟩ alimento",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אזן",
-      "english": "⟨el⟩ oído"
+      "gloss": "⟨el⟩ oído"
     },
     {
       "surface": "מלין",
-      "english": "⟨las⟩ palabras"
+      "gloss": "⟨las⟩ palabras"
     },
     {
       "surface": "תבחן",
-      "english": "prueba"
+      "gloss": "prueba"
     },
     {
       "surface": "וחך",
-      "english": "y ⟨el⟩ paladar"
+      "gloss": "y ⟨el⟩ paladar"
     },
     {
       "surface": "י�טעם",
-      "english": "gusta"
+      "gloss": "gusta"
     },
     {
       "surface": "לאכל",
-      "english": "⟨el⟩ alimento"
+      "gloss": "⟨el⟩ alimento"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:42.624069730Z",
-  "model": "glm-4.5"
+  ]
 }

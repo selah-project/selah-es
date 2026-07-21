@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 19:13",
   "book": "job",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27008,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27475
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:39.088551859Z",
   "translation": "Mis hermanos ⟨han⟩ alejado ⟨de⟩ mí ⟨y⟩ mis conocidos ⟨son⟩ verdaderamente extraños ⟨de⟩ mí",
   "tokens": [
     {
       "surface": "אחי",
-      "english": "Mis hermanos"
+      "gloss": "Mis hermanos"
     },
     {
       "surface": "מעלי",
-      "english": "⟨de⟩ mí"
+      "gloss": "⟨de⟩ mí"
     },
     {
       "surface": "הרחיק",
-      "english": "⟨han⟩ alejado"
+      "gloss": "⟨han⟩ alejado"
     },
     {
       "surface": "וידעי",
-      "english": "⟨y⟩ mis conocidos"
+      "gloss": "⟨y⟩ mis conocidos"
     },
     {
       "surface": "אך",
-      "english": "⟨son⟩ verdaderamente"
+      "gloss": "⟨son⟩ verdaderamente"
     },
     {
       "surface": "זרו",
-      "english": "extraños"
+      "gloss": "extraños"
     },
     {
       "surface": "ממני",
-      "english": "⟨de⟩ mí"
+      "gloss": "⟨de⟩ mí"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:39.088551859Z",
-  "model": "glm-4.5"
+  ]
 }

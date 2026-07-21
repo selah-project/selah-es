@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "proverbs 5:22",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 60153,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60495
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:17:27.229878762Z",
   "translation": "Sus propias iniquidades capturarán al impío, y será sostenido con las cuerdas de su pecado.",
   "tokens": [
     {
       "surface": "עוונותיו",
-      "english": "Sus propias iniquidades"
+      "gloss": "Sus propias iniquidades"
     },
     {
       "surface": "ילכדנו",
-      "english": "capturarán"
+      "gloss": "capturarán"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "al impío"
     },
     {
       "surface": "הרשע",
-      "english": "al impío"
+      "gloss": "al impío"
     },
     {
       "surface": "ובחבלי",
-      "english": "y con las cuerdas"
+      "gloss": "y con las cuerdas"
     },
     {
       "surface": "חטאתו",
-      "english": "de su pecado"
+      "gloss": "de su pecado"
     },
     {
       "surface": "יתמך",
-      "english": "será sostenido"
+      "gloss": "será sostenido"
     }
-  ],
-  "timestamp": "2026-07-16T23:17:27.229878762Z",
-  "model": "glm-4.5"
+  ]
 }

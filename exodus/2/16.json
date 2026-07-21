@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 2:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 2,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:12:25.549981633Z",
+  "translation": "Y al sacerdote de Midyán ⟨eran⟩ siete hijas, y vinieron y sacaron agua, e hincheron ⟨los⟩ abrevaderos ⟨para⟩ abrevar ⟨el⟩ ganado ⟨de⟩ su padre",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "Y al sacerdote"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "de Midyán"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siete"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "hijas"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "y vinieron"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "y sacaron agua"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "e hincheron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨los⟩",
+      "marks": "abrevaderos"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "abrevaderos"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "⟨para⟩ abrevar"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "⟨el⟩ ganado"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "⟨de⟩ su padre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Madián",
@@ -13,73 +69,6 @@
       "hebrew": "מדין"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17171,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17714
-  },
-  "translation": "Y al sacerdote de Midyán ⟨eran⟩ siete hijas, y vinieron y sacaron agua, e hincheron ⟨los⟩ abrevaderos ⟨para⟩ abrevar ⟨el⟩ ganado ⟨de⟩ su padre",
-  "tokens": [
-    {
-      "surface": "ולכהן",
-      "english": "Y al sacerdote"
-    },
-    {
-      "surface": "מדין",
-      "english": "de Midyán"
-    },
-    {
-      "surface": "שבע",
-      "english": "siete"
-    },
-    {
-      "surface": "בנות",
-      "english": "hijas"
-    },
-    {
-      "surface": "ותבאנה",
-      "english": "y vinieron"
-    },
-    {
-      "surface": "ותדלנה",
-      "english": "y sacaron agua"
-    },
-    {
-      "surface": "ותמלאנה",
-      "english": "e hincheron"
-    },
-    {
-      "surface": "את",
-      "english": "⟨los⟩",
-      "marks": "abrevaderos"
-    },
-    {
-      "surface": "הרהטים",
-      "english": "abrevaderos"
-    },
-    {
-      "surface": "להשקות",
-      "english": "⟨para⟩ abrevar"
-    },
-    {
-      "surface": "צאן",
-      "english": "⟨el⟩ ganado"
-    },
-    {
-      "surface": "אביהן",
-      "english": "⟨de⟩ su padre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:12:25.549981633Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

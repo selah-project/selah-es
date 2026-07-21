@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "numbers 13:21",
   "book": "numbers",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25408,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25776
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:49:37.079101518Z",
   "translation": "Y subieron y espían ⟨את⟩ la tierra desde el desierto de Tzin hasta Rejob, ⟨al⟩ ⟨llegar⟩ ⟨a⟩ Jamat",
   "tokens": [
     {
       "surface": "ויעלו",
-      "english": "Y subieron"
+      "gloss": "Y subieron"
     },
     {
       "surface": "ויתרו",
-      "english": "y espían"
+      "gloss": "y espían"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הארץ"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "ממדבר",
-      "english": "desde el desierto"
+      "gloss": "desde el desierto"
     },
     {
       "surface": "צן",
-      "english": "de Tzin"
+      "gloss": "de Tzin"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "רחב",
-      "english": "Rejob"
+      "gloss": "Rejob"
     },
     {
       "surface": "לבא",
-      "english": "⟨al⟩ ⟨llegar⟩"
+      "gloss": "⟨al⟩ ⟨llegar⟩"
     },
     {
       "surface": "חמת",
-      "english": "⟨a⟩ Jamat"
+      "gloss": "⟨a⟩ Jamat"
     }
-  ],
-  "timestamp": "2026-06-10T04:49:37.079101518Z",
-  "model": "glm-4.5"
+  ]
 }

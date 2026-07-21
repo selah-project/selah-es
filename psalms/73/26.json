@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 73:26",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 266,
-    "prompt_tokens": 70086,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70352
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:55.503882565Z",
   "translation": "Mi carne y mi corazón desfallecen; ⟨pero⟩ la roca de mi corazón y mi porción ⟨es⟩ Elohim para siempre.",
   "tokens": [
     {
       "surface": "כלה",
-      "english": "desfallecen"
+      "gloss": "desfallecen"
     },
     {
       "surface": "שארי",
-      "english": "Mi carne"
+      "gloss": "Mi carne"
     },
     {
       "surface": "ולבבי",
-      "english": "y mi corazón"
+      "gloss": "y mi corazón"
     },
     {
       "surface": "צור",
-      "english": "la roca"
+      "gloss": "la roca"
     },
     {
       "surface": "לבבי",
-      "english": "de mi corazón"
+      "gloss": "de mi corazón"
     },
     {
       "surface": "וחלקי",
-      "english": "y mi porción"
+      "gloss": "y mi porción"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:55.503882565Z",
-  "model": "glm-4.5"
+  ]
 }

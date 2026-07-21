@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 21:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28314,
-    "prompt_tokens_details": {
-      "cached_tokens": 5
-    },
-    "total_tokens": 28647
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:17:46.334681689Z",
   "translation": "Y ⟨fue⟩ muy grave ⟨el⟩ asunto en ⟨los⟩ ojos de Avraham sobre ⟨la⟩ cuenta de su hijo",
   "tokens": [
     {
       "surface": "וירע",
-      "english": "Y ⟨fue⟩"
+      "gloss": "Y ⟨fue⟩"
     },
     {
       "surface": "הדבר",
-      "english": "⟨el⟩ asunto"
+      "gloss": "⟨el⟩ asunto"
     },
     {
       "surface": "מאד",
-      "english": "muy"
+      "gloss": "muy"
     },
     {
       "surface": "בעיני",
-      "english": "en ⟨los⟩ ojos"
+      "gloss": "en ⟨los⟩ ojos"
     },
     {
       "surface": "אברהם",
-      "english": "de Avraham"
+      "gloss": "de Avraham"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "אודת",
-      "english": "⟨la⟩ cuenta"
+      "gloss": "⟨la⟩ cuenta"
     },
     {
       "surface": "בנו",
-      "english": "de su hijo"
+      "gloss": "de su hijo"
     }
-  ],
-  "timestamp": "2026-06-10T05:17:46.334681689Z",
-  "model": "glm-4.5"
+  ]
 }

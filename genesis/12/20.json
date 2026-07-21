@@ -1,72 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 12:20",
   "book": "genesis",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 547,
-    "prompt_tokens": 28959,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29506
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:56:06.974917973Z",
   "translation": "Y Paró ordenó ⟨hombres⟩ sobre él, y enviaron ⟨את⟩ él, y ⟨את⟩ su mujer, y ⟨את⟩ todo lo que ⟨era⟩ suyo.",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "Y ordenó"
+      "gloss": "Y ordenó"
     },
     {
       "surface": "עליו",
-      "english": "sobre él"
+      "gloss": "sobre él"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "אנשים",
-      "english": "⟨hombres⟩"
+      "gloss": "⟨hombres⟩"
     },
     {
       "surface": "וישלחו",
-      "english": "y enviaron"
+      "gloss": "y enviaron"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "él"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "su mujer"
     },
     {
       "surface": "אשתו",
-      "english": "su mujer"
+      "gloss": "su mujer"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "todo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "לו",
-      "english": "⟨era⟩ suyo"
+      "gloss": "⟨era⟩ suyo"
     }
-  ],
-  "timestamp": "2026-07-16T20:56:06.974917973Z",
-  "model": "glm-4.5"
+  ]
 }

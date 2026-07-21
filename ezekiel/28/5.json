@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ezekiel 28:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 28,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:37:27.401530623Z",
+  "translation": "⟨Por⟩ la abundancia de tu Jojmá, ⟨por⟩ tu comercio, has multiplicado tu riqueza, y ⟨tu⟩ corazón se ha enaltecido ⟨por⟩ tu riqueza",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "⟨Por⟩ la abundancia de"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tu Jojmá"
+    },
+    {
+      "surface": "ברכלתך",
+      "gloss": "⟨por⟩ tu comercio"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "has multiplicado"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "tu riqueza"
+    },
+    {
+      "surface": "ו�יגבה",
+      "gloss": "y ⟨tu⟩ corazón se ha enaltecido"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "⟨tu⟩ corazón"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "⟨por⟩ tu riqueza"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabiduría",
@@ -13,56 +52,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17063,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17606
-  },
-  "translation": "⟨Por⟩ la abundancia de tu Jojmá, ⟨por⟩ tu comercio, has multiplicado tu riqueza, y ⟨tu⟩ corazón se ha enaltecido ⟨por⟩ tu riqueza",
-  "tokens": [
-    {
-      "surface": "ברב",
-      "english": "⟨Por⟩ la abundancia de"
-    },
-    {
-      "surface": "חכמתך",
-      "english": "tu Jojmá"
-    },
-    {
-      "surface": "ברכלתך",
-      "english": "⟨por⟩ tu comercio"
-    },
-    {
-      "surface": "הרבית",
-      "english": "has multiplicado"
-    },
-    {
-      "surface": "חילך",
-      "english": "tu riqueza"
-    },
-    {
-      "surface": "ו�יגבה",
-      "english": "y ⟨tu⟩ corazón se ha enaltecido"
-    },
-    {
-      "surface": "לבבך",
-      "english": "⟨tu⟩ corazón"
-    },
-    {
-      "surface": "בחילך",
-      "english": "⟨por⟩ tu riqueza"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:37:27.401530623Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

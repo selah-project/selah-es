@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 94:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 370,
-    "prompt_tokens": 69991,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70361
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:00.072363159Z",
   "translation": "Si digo: ⟨mi⟩ pie resbala, tu misericordia, YHWH, ⟨me⟩ sostiene",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "אמרתי",
-      "english": "digo"
+      "gloss": "digo"
     },
     {
       "surface": "מטה",
-      "english": "resbala"
+      "gloss": "resbala"
     },
     {
       "surface": "רגלי",
-      "english": "⟨mi⟩ pie"
+      "gloss": "⟨mi⟩ pie"
     },
     {
       "surface": "חסדך",
-      "english": "tu misericordia"
+      "gloss": "tu misericordia"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יסעדני",
-      "english": "⟨me⟩ sostiene"
+      "gloss": "⟨me⟩ sostiene"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:00.072363159Z",
-  "model": "glm-4.5"
+  ]
 }

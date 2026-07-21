@@ -1,9 +1,121 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "2-chronicles 28:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 28,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:30:42.871659312Z",
+  "translation": "Y dijeron ⟨a⟩ ellos: ⟨No⟩ traeréis ⟨a⟩ ⟨los⟩ cautivos ⟨aquí⟩ ⟨es⟩ porque ⟨hay⟩ culpa contra YHWH sobre nosotros. Vosotros ⟨estáis⟩ diciendo ⟨para⟩ añadir sobre ⟨los⟩ pecados y sobre ⟨la⟩ culpa, porque ⟨la⟩ culpa ⟨es⟩ grande ⟨a⟩ nosotros y ⟨el⟩ ardor de ⟨la⟩ ira ⟨está⟩ sobre Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Y dijeron"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨a⟩ ellos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨No⟩"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "traeréis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "los cautivos"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "⟨los⟩ cautivos"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨aquí⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨es⟩ porque"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "⟨hay⟩ culpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sobre nosotros"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Vosotros"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "⟨estáis⟩ diciendo"
+    },
+    {
+      "surface": "להסיף",
+      "gloss": "⟨para⟩ añadir"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "⟨los⟩ pecados"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "y sobre"
+    },
+    {
+      "surface": "אשמתינו",
+      "gloss": "⟨la⟩ culpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "⟨la⟩ culpa ⟨es⟩ grande"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "culpa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨a⟩ nosotros"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "y ⟨el⟩ ardor"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de ⟨la⟩ ira"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨está⟩ sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,129 +125,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 1310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59534,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60844
-  },
-  "translation": "Y dijeron ⟨a⟩ ellos: ⟨No⟩ traeréis ⟨a⟩ ⟨los⟩ cautivos ⟨aquí⟩ ⟨es⟩ porque ⟨hay⟩ culpa contra YHWH sobre nosotros. Vosotros ⟨estáis⟩ diciendo ⟨para⟩ añadir sobre ⟨los⟩ pecados y sobre ⟨la⟩ culpa, porque ⟨la⟩ culpa ⟨es⟩ grande ⟨a⟩ nosotros y ⟨el⟩ ardor de ⟨la⟩ ira ⟨está⟩ sobre Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "Y dijeron"
-    },
-    {
-      "surface": "להם",
-      "english": "⟨a⟩ ellos"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨No⟩"
-    },
-    {
-      "surface": "תביאו",
-      "english": "traeréis"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "los cautivos"
-    },
-    {
-      "surface": "השביה",
-      "english": "⟨los⟩ cautivos"
-    },
-    {
-      "surface": "הנה",
-      "english": "⟨aquí⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨es⟩ porque"
-    },
-    {
-      "surface": "לאשמת",
-      "english": "⟨hay⟩ culpa"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "עלינו",
-      "english": "sobre nosotros"
-    },
-    {
-      "surface": "אתם",
-      "english": "Vosotros"
-    },
-    {
-      "surface": "אמרים",
-      "english": "⟨estáis⟩ diciendo"
-    },
-    {
-      "surface": "להסיף",
-      "english": "⟨para⟩ añadir"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "חטאתינו",
-      "english": "⟨los⟩ pecados"
-    },
-    {
-      "surface": "ועל",
-      "english": "y sobre"
-    },
-    {
-      "surface": "אשמתינו",
-      "english": "⟨la⟩ culpa"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "רבה",
-      "english": "⟨la⟩ culpa ⟨es⟩ grande"
-    },
-    {
-      "surface": "אשמה",
-      "english": "culpa"
-    },
-    {
-      "surface": "לנו",
-      "english": "⟨a⟩ nosotros"
-    },
-    {
-      "surface": "וחרון",
-      "english": "y ⟨el⟩ ardor"
-    },
-    {
-      "surface": "אף",
-      "english": "de ⟨la⟩ ira"
-    },
-    {
-      "surface": "על",
-      "english": "⟨está⟩ sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:30:42.871659312Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

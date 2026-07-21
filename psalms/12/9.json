@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 12:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69720,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70180
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:03:00.874533121Z",
   "translation": "Por ⟨todos⟩ ⟨los⟩ lados ⟨caminan⟩ ⟨los⟩ malvados ⟨cuando⟩ ⟨la⟩ vileza ⟨es⟩ exaltada entre ⟨los⟩ hijos ⟨de⟩ ⟨los⟩ hombres",
   "tokens": [
     {
       "surface": "סביב",
-      "english": "Por ⟨todos⟩ ⟨los⟩ lados"
+      "gloss": "Por ⟨todos⟩ ⟨los⟩ lados"
     },
     {
       "surface": "רשעים",
-      "english": "⟨los⟩ malvados"
+      "gloss": "⟨los⟩ malvados"
     },
     {
       "surface": "יתהלכון",
-      "english": "⟨caminan⟩"
+      "gloss": "⟨caminan⟩"
     },
     {
       "surface": "כרם",
-      "english": "⟨cuando⟩"
+      "gloss": "⟨cuando⟩"
     },
     {
       "surface": "זלות",
-      "english": "⟨la⟩ vileza"
+      "gloss": "⟨la⟩ vileza"
     },
     {
       "surface": "לבני",
-      "english": "entre ⟨los⟩ hijos ⟨de⟩"
+      "gloss": "entre ⟨los⟩ hijos ⟨de⟩"
     },
     {
       "surface": "אדם",
-      "english": "⟨los⟩ hombres"
+      "gloss": "⟨los⟩ hombres"
     }
-  ],
-  "timestamp": "2026-06-09T23:03:00.874533121Z",
-  "model": "glm-4.5"
+  ]
 }

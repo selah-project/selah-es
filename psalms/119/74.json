@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 74,
   "ref": "psalms 119:74",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69808,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70245
-  },
+  "verse": 74,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T06:34:36.852989105Z",
   "translation": "Los que ⟨te⟩ temen ⟨al⟩ ver ⟨mi⟩ se alegrarán, porque en tu palabra he esperado.",
   "tokens": [
     {
       "surface": "יראיך",
-      "english": "Los que ⟨te⟩ temen",
+      "gloss": "Los que ⟨te⟩ temen",
       "marks": "temen"
     },
     {
       "surface": "יראוני",
-      "english": "⟨al⟩ ver ⟨mi⟩",
+      "gloss": "⟨al⟩ ver ⟨mi⟩",
       "marks": "ver ⟨mi⟩"
     },
     {
       "surface": "וישמחו",
-      "english": "se alegrarán",
+      "gloss": "se alegrarán",
       "marks": ""
     },
     {
       "surface": "כי",
-      "english": "porque",
+      "gloss": "porque",
       "marks": ""
     },
     {
       "surface": "לדברך",
-      "english": "en tu palabra",
+      "gloss": "en tu palabra",
       "marks": "palabra"
     },
     {
       "surface": "יחלתי",
-      "english": "he esperado",
+      "gloss": "he esperado",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T06:34:36.852989105Z",
-  "model": "glm-4.5"
+  ]
 }

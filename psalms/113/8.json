@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 113:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 113,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69834,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70244
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:16.708997696Z",
   "translation": "Para ⟨el⟩ que se siente con los príncipes, ⟨con⟩ los nobles de ⟨su⟩ pueblo.",
   "tokens": [
     {
       "surface": "להושיבי",
-      "english": "Para ⟨el⟩ que se siente"
+      "gloss": "Para ⟨el⟩ que se siente"
     },
     {
       "surface": "עם",
-      "english": "⟨con⟩"
+      "gloss": "⟨con⟩"
     },
     {
       "surface": "נדיבים",
-      "english": "los príncipes"
+      "gloss": "los príncipes"
     },
     {
       "surface": "עם",
-      "english": "⟨con⟩"
+      "gloss": "⟨con⟩"
     },
     {
       "surface": "נדיבי",
-      "english": "los nobles"
+      "gloss": "los nobles"
     },
     {
       "surface": "עמו",
-      "english": "de ⟨su⟩ pueblo"
+      "gloss": "de ⟨su⟩ pueblo"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:16.708997696Z",
-  "model": "glm-4.5"
+  ]
 }

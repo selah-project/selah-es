@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "isaiah 5:16",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26129,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26556
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:23:43.745085381Z",
   "translation": "Y YHWH Tzevaot será exaltado ⟨en⟩ juicio, y ⟨el⟩ Elohim Santo será santificado ⟨en⟩ justicia",
   "tokens": [
     {
       "surface": "ויגבה",
-      "english": "Será exaltado"
+      "gloss": "Será exaltado"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "במשפט",
-      "english": "⟨en⟩ juicio"
+      "gloss": "⟨en⟩ juicio"
     },
     {
       "surface": "והאל",
-      "english": "y ⟨el⟩ Elohim"
+      "gloss": "y ⟨el⟩ Elohim"
     },
     {
       "surface": "הקדוש",
-      "english": "Santo"
+      "gloss": "Santo"
     },
     {
       "surface": "נקדש",
-      "english": "será santificado"
+      "gloss": "será santificado"
     },
     {
       "surface": "בצדקה",
-      "english": "⟨en⟩ justicia"
+      "gloss": "⟨en⟩ justicia"
     }
-  ],
-  "timestamp": "2026-06-10T02:23:43.745085381Z",
-  "model": "glm-4.5"
+  ]
 }

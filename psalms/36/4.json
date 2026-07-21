@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 36:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69925,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70343
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:14:28.993032203Z",
   "translation": "Las palabras ⟨de⟩ su boca ⟨son⟩ iniquidad y engaño: ⟨él⟩ ha cesado ⟨de⟩ ⟨ser⟩ sabio ⟨para⟩ hacer ⟨lo⟩ bueno.",
   "tokens": [
     {
       "surface": "דברי",
-      "english": "Las palabras ⟨de⟩ su boca"
+      "gloss": "Las palabras ⟨de⟩ su boca"
     },
     {
       "surface": "פיו",
-      "english": "su boca"
+      "gloss": "su boca"
     },
     {
       "surface": "און",
-      "english": "iniquidad"
+      "gloss": "iniquidad"
     },
     {
       "surface": "ומרמה",
-      "english": "y engaño"
+      "gloss": "y engaño"
     },
     {
       "surface": "חדל",
-      "english": "⟨él⟩ ha cesado"
+      "gloss": "⟨él⟩ ha cesado"
     },
     {
       "surface": "להשכיל",
-      "english": "⟨de⟩ ⟨ser⟩ sabio"
+      "gloss": "⟨de⟩ ⟨ser⟩ sabio"
     },
     {
       "surface": "להיטיב",
-      "english": "⟨para⟩ hacer ⟨lo⟩ bueno"
+      "gloss": "⟨para⟩ hacer ⟨lo⟩ bueno"
     }
-  ],
-  "timestamp": "2026-06-09T23:14:28.993032203Z",
-  "model": "glm-4.5"
+  ]
 }

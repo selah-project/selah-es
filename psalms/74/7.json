@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 74:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69950,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70289
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:46.575865732Z",
   "translation": "enviaron ⟨en⟩ fuego tu santuario a ⟨la⟩ tierra profanaron ⟨el⟩ tabernáculo de tu nombre",
   "tokens": [
     {
       "surface": "שלחו",
-      "english": "Enviaron"
+      "gloss": "Enviaron"
     },
     {
       "surface": "באש",
-      "english": "⟨en⟩ fuego"
+      "gloss": "⟨en⟩ fuego"
     },
     {
       "surface": "מקדשך",
-      "english": "tu santuario"
+      "gloss": "tu santuario"
     },
     {
       "surface": "לארץ",
-      "english": "a ⟨la⟩ tierra"
+      "gloss": "a ⟨la⟩ tierra"
     },
     {
       "surface": "חללו",
-      "english": "profanaron"
+      "gloss": "profanaron"
     },
     {
       "surface": "משכן",
-      "english": "⟨el⟩ tabernáculo"
+      "gloss": "⟨el⟩ tabernáculo"
     },
     {
       "surface": "שמך",
-      "english": "de tu nombre"
+      "gloss": "de tu nombre"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:46.575865732Z",
-  "model": "glm-4.5"
+  ]
 }

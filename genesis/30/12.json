@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 30:12",
   "book": "genesis",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28189,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28516
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:27:12.845663223Z",
   "translation": "Y dio a luz Zilpah ⟨la⟩ esclava de Leah ⟨un⟩ segundo hijo ⟨a⟩ Jaacob",
   "tokens": [
     {
       "surface": "ותלד",
-      "english": "Y dio a luz"
+      "gloss": "Y dio a luz"
     },
     {
       "surface": "זלפה",
-      "english": "Zilpah"
+      "gloss": "Zilpah"
     },
     {
       "surface": "שפחת",
-      "english": "⟨la⟩ esclava"
+      "gloss": "⟨la⟩ esclava"
     },
     {
       "surface": "לאה",
-      "english": "de Leah"
+      "gloss": "de Leah"
     },
     {
       "surface": "בן",
-      "english": "⟨un⟩ hijo"
+      "gloss": "⟨un⟩ hijo"
     },
     {
       "surface": "שני",
-      "english": "segundo"
+      "gloss": "segundo"
     },
     {
       "surface": "ליעקב",
-      "english": "⟨a⟩ Jaacob"
+      "gloss": "⟨a⟩ Jaacob"
     }
-  ],
-  "timestamp": "2026-06-10T05:27:12.845663223Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "deuteronomy 3:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 3,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:41:12.601878214Z",
+  "translation": "Y ⟨a⟩ los rubenitas y ⟨a⟩ los gaditas ⟨yo⟩ di desde ⟨el⟩ Gilad hasta ⟨el⟩ arroyo Arnón, ⟨el⟩ centro ⟨del⟩ arroyo ⟨como⟩ frontera, y hasta ⟨el⟩ arroyo Jaboc, ⟨la⟩ frontera ⟨de⟩ los hijos ⟨de⟩ Ammón.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Y ⟨a⟩ los rubenitas"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "y ⟨a⟩ los gaditas"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "⟨yo⟩ di"
+    },
+    {
+      "surface": "מן",
+      "gloss": "desde"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "⟨el⟩ Gilad"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hasta ⟨el⟩"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "arroyo"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnón"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "⟨el⟩ centro"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "⟨del⟩ arroyo"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "⟨como⟩ frontera"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "y hasta ⟨el⟩"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "arroyo Jaboc"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "⟨la⟩ frontera"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos ⟨de⟩"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammón"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amón",
@@ -13,92 +88,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18160,
-    "prompt_tokens_details": {
-      "cached_tokens": 16232
-    },
-    "total_tokens": 18784
-  },
-  "translation": "Y ⟨a⟩ los rubenitas y ⟨a⟩ los gaditas ⟨yo⟩ di desde ⟨el⟩ Gilad hasta ⟨el⟩ arroyo Arnón, ⟨el⟩ centro ⟨del⟩ arroyo ⟨como⟩ frontera, y hasta ⟨el⟩ arroyo Jaboc, ⟨la⟩ frontera ⟨de⟩ los hijos ⟨de⟩ Ammón.",
-  "tokens": [
-    {
-      "surface": "ולראובני",
-      "english": "Y ⟨a⟩ los rubenitas"
-    },
-    {
-      "surface": "ולגדי",
-      "english": "y ⟨a⟩ los gaditas"
-    },
-    {
-      "surface": "נתתי",
-      "english": "⟨yo⟩ di"
-    },
-    {
-      "surface": "מן",
-      "english": "desde"
-    },
-    {
-      "surface": "הגלעד",
-      "english": "⟨el⟩ Gilad"
-    },
-    {
-      "surface": "ועד",
-      "english": "hasta ⟨el⟩"
-    },
-    {
-      "surface": "נחל",
-      "english": "arroyo"
-    },
-    {
-      "surface": "ארנן",
-      "english": "Arnón"
-    },
-    {
-      "surface": "תוך",
-      "english": "⟨el⟩ centro"
-    },
-    {
-      "surface": "הנחל",
-      "english": "⟨del⟩ arroyo"
-    },
-    {
-      "surface": "וגבל",
-      "english": "⟨como⟩ frontera"
-    },
-    {
-      "surface": "ועד",
-      "english": "y hasta ⟨el⟩"
-    },
-    {
-      "surface": "יבק",
-      "english": "arroyo Jaboc"
-    },
-    {
-      "surface": "הנחל",
-      "english": "⟨la⟩ frontera"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos ⟨de⟩"
-    },
-    {
-      "surface": "עמון",
-      "english": "Ammón"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:41:12.601878214Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 32:18",
   "book": "job",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26962,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27263
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:11:34.107155973Z",
   "translation": "Porque ⟨estoy⟩ lleno de palabras, ⟨el⟩ espíritu dentro de mí me constriñe.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "מלתי",
-      "english": "⟨estoy⟩ lleno"
+      "gloss": "⟨estoy⟩ lleno"
     },
     {
       "surface": "מלים",
-      "english": "de palabras"
+      "gloss": "de palabras"
     },
     {
       "surface": "הציקתני",
-      "english": "me constriñe"
+      "gloss": "me constriñe"
     },
     {
       "surface": "רוח",
-      "english": "⟨el⟩ espíritu"
+      "gloss": "⟨el⟩ espíritu"
     },
     {
       "surface": "בטני",
-      "english": "dentro de mí"
+      "gloss": "dentro de mí"
     }
-  ],
-  "timestamp": "2026-06-10T02:11:34.107155973Z",
-  "model": "glm-4.5"
+  ]
 }

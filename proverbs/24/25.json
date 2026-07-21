@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 24:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59779,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60159
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:47:39.962467975Z",
   "translation": "Y ⟨a⟩ ⟨los⟩ que reprueban ⟨les es⟩ agradable, y ⟨sobre⟩ ellos vendrá ⟨una⟩ bendición buena.",
   "tokens": [
     {
       "surface": "ולמוכיחים",
-      "english": "Y ⟨a⟩ ⟨los⟩ que reprueban"
+      "gloss": "Y ⟨a⟩ ⟨los⟩ que reprueban"
     },
     {
       "surface": "ינעם",
-      "english": "⟨les es⟩ agradable"
+      "gloss": "⟨les es⟩ agradable"
     },
     {
       "surface": "ועליהם",
-      "english": "y ⟨sobre⟩ ellos"
+      "gloss": "y ⟨sobre⟩ ellos"
     },
     {
       "surface": "תבוא",
-      "english": "vendrá"
+      "gloss": "vendrá"
     },
     {
       "surface": "ברכת",
-      "english": "⟨una⟩ bendición"
+      "gloss": "⟨una⟩ bendición"
     },
     {
       "surface": "טוב",
-      "english": "buena"
+      "gloss": "buena"
     }
-  ],
-  "timestamp": "2026-06-10T01:47:39.962467975Z",
-  "model": "glm-4.5"
+  ]
 }

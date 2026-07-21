@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 5:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 618,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69996,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70614
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:37.046356001Z",
   "translation": "Porque ⟨tú⟩ no ⟨eres⟩ un ⟨el⟩ que ⟨tiene⟩ agrado en ⟨la⟩ maldad ⟨את⟩; el mal no ⟨se⟩ alojará ⟨contigo⟩",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אל",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "חפץ",
-      "english": "⟨tiene⟩ agrado"
+      "gloss": "⟨tiene⟩ agrado"
     },
     {
       "surface": "רשע",
-      "english": "⟨la⟩ maldad"
+      "gloss": "⟨la⟩ maldad"
     },
     {
       "surface": "אתה",
-      "english": "⟨tú⟩"
+      "gloss": "⟨tú⟩"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יגרך",
-      "english": "⟨se⟩ alojará"
+      "gloss": "⟨se⟩ alojará"
     },
     {
       "surface": "רע",
-      "english": "el mal"
+      "gloss": "el mal"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:37.046356001Z",
-  "model": "glm-4.5"
+  ]
 }

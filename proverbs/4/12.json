@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 4:12",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59961,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60402
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:30:20.802874399Z",
   "translation": "En ⟨tu⟩ andar ⟨tus⟩ pasos no serán estrechos, y si ⟨tú⟩ corres, no tropezarás",
   "tokens": [
     {
       "surface": "בלכתך",
-      "english": "En ⟨tu⟩ andar"
+      "gloss": "En ⟨tu⟩ andar"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יצר",
-      "english": "serán estrechos"
+      "gloss": "serán estrechos"
     },
     {
       "surface": "צעדך",
-      "english": "⟨tus⟩ pasos"
+      "gloss": "⟨tus⟩ pasos"
     },
     {
       "surface": "ואם",
-      "english": "y si"
+      "gloss": "y si"
     },
     {
       "surface": "תרוץ",
-      "english": "⟨tú⟩ corres"
+      "gloss": "⟨tú⟩ corres"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תכשל",
-      "english": "tropezarás"
+      "gloss": "tropezarás"
     }
-  ],
-  "timestamp": "2026-06-10T01:30:20.802874399Z",
-  "model": "glm-4.5"
+  ]
 }

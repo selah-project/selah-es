@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 50:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 323,
-    "prompt_tokens": 69867,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70190
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:30.299905344Z",
   "translation": "Y llama a mí en el día de la angustia; yo te libraré, y tú me glorificarás.",
   "tokens": [
     {
       "surface": "וקראני",
-      "english": "Y llama a mí"
+      "gloss": "Y llama a mí"
     },
     {
       "surface": "ביום",
-      "english": "en el día"
+      "gloss": "en el día"
     },
     {
       "surface": "צרה",
-      "english": "de la angustia"
+      "gloss": "de la angustia"
     },
     {
       "surface": "אחלצך",
-      "english": "yo te libraré"
+      "gloss": "yo te libraré"
     },
     {
       "surface": "ותכבדני",
-      "english": "y tú me glorificarás"
+      "gloss": "y tú me glorificarás"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:30.299905344Z",
-  "model": "glm-4.5"
+  ]
 }

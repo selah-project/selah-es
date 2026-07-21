@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 86:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70091,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70648
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:41:49.990203027Z",
   "translation": "Y tú, Adonai, ⟨es⟩ Elohim, compasivo y ⟨es⟩ ⟨un⟩ dador de gracia, ⟨eres⟩ lento ⟨a⟩ ⟨la⟩ ira y abundante en jésed y emet",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Y tú"
+      "gloss": "Y tú"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "אל",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "רחום",
-      "english": "compasivo"
+      "gloss": "compasivo"
     },
     {
       "surface": "וחנון",
-      "english": "y ⟨es⟩ ⟨un⟩ dador de gracia"
+      "gloss": "y ⟨es⟩ ⟨un⟩ dador de gracia"
     },
     {
       "surface": "ארך",
-      "english": "⟨eres⟩ lento"
+      "gloss": "⟨eres⟩ lento"
     },
     {
       "surface": "אפים",
-      "english": "⟨a⟩ ⟨la⟩ ira"
+      "gloss": "⟨a⟩ ⟨la⟩ ira"
     },
     {
       "surface": "ורב",
-      "english": "y abundante en"
+      "gloss": "y abundante en"
     },
     {
       "surface": "חסד",
-      "english": "jésed"
+      "gloss": "jésed"
     },
     {
       "surface": "ואמת",
-      "english": "y emet"
+      "gloss": "y emet"
     }
-  ],
-  "timestamp": "2026-06-09T23:41:49.990203027Z",
-  "model": "glm-4.5"
+  ]
 }

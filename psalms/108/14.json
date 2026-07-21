@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 108:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69652,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70228
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:40.841743218Z",
   "translation": "⟨Por⟩ Elohim haremos ⟨una⟩ proeza ⟨valiente⟩ y ⟨Él⟩ ⟨es⟩ quien ⟨humillará⟩ ⟨a⟩ nuestros adversarios",
   "tokens": [
     {
       "surface": "באלהים",
-      "english": "⟨Por⟩ Elohim"
+      "gloss": "⟨Por⟩ Elohim"
     },
     {
       "surface": "נעשה",
-      "english": "haremos ⟨una⟩ proeza ⟨valiente⟩"
+      "gloss": "haremos ⟨una⟩ proeza ⟨valiente⟩"
     },
     {
       "surface": "חיל",
-      "english": "proeza ⟨valiente⟩"
+      "gloss": "proeza ⟨valiente⟩"
     },
     {
       "surface": "והוא",
-      "english": "y ⟨Él⟩"
+      "gloss": "y ⟨Él⟩"
     },
     {
       "surface": "יבוס",
-      "english": "⟨es⟩ quien ⟨humillará⟩"
+      "gloss": "⟨es⟩ quien ⟨humillará⟩"
     },
     {
       "surface": "צרינו",
-      "english": "⟨a⟩ nuestros adversarios"
+      "gloss": "⟨a⟩ nuestros adversarios"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:40.841743218Z",
-  "model": "glm-4.5"
+  ]
 }

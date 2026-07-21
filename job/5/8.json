@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 5:8",
   "book": "job",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27087,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27578
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:40.984513733Z",
   "translation": "Pero ⟨yo⟩ yo buscaré ⟨a⟩ El y ⟨a⟩ Elohim ⟨yo⟩ pondré ⟨mi⟩ causa ⟨mía⟩",
   "tokens": [
     {
       "surface": "אולם",
-      "english": "Pero"
+      "gloss": "Pero"
     },
     {
       "surface": "אני",
-      "english": "⟨yo⟩"
+      "gloss": "⟨yo⟩"
     },
     {
       "surface": "אדרש",
-      "english": "buscaré"
+      "gloss": "buscaré"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "El"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Elohim"
     },
     {
       "surface": "ואל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אשים",
-      "english": "⟨yo⟩ pondré"
+      "gloss": "⟨yo⟩ pondré"
     },
     {
       "surface": "דברתי",
-      "english": "⟨mi⟩ causa ⟨mía⟩"
+      "gloss": "⟨mi⟩ causa ⟨mía⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:40.984513733Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 110:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 644,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70054,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70698
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:35.690928917Z",
   "translation": "Él juzgará ⟨entre⟩ las naciones; llenará ⟨con⟩ ⟨los⟩ ⟨cuerpos⟩ ⟨de⟩ ⟨los⟩ muertos; ⟨quebrantará⟩ ⟨la⟩ cabeza sobre ⟨una⟩ tierra ancha.",
   "tokens": [
     {
       "surface": "ידין",
-      "english": "Él juzgará"
+      "gloss": "Él juzgará"
     },
     {
       "surface": "בגוים",
-      "english": "⟨entre⟩ las naciones"
+      "gloss": "⟨entre⟩ las naciones"
     },
     {
       "surface": "מלא",
-      "english": "llenará"
+      "gloss": "llenará"
     },
     {
       "surface": "גויות",
-      "english": "⟨con⟩ ⟨los⟩ ⟨cuerpos⟩ ⟨de⟩ ⟨los⟩ muertos"
+      "gloss": "⟨con⟩ ⟨los⟩ ⟨cuerpos⟩ ⟨de⟩ ⟨los⟩ muertos"
     },
     {
       "surface": "מחץ",
-      "english": "⟨quebrantará⟩"
+      "gloss": "⟨quebrantará⟩"
     },
     {
       "surface": "ראש",
-      "english": "⟨la⟩ cabeza"
+      "gloss": "⟨la⟩ cabeza"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ארץ",
-      "english": "⟨una⟩ tierra"
+      "gloss": "⟨una⟩ tierra"
     },
     {
       "surface": "רבה",
-      "english": "ancha"
+      "gloss": "ancha"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:35.690928917Z",
-  "model": "glm-4.5"
+  ]
 }

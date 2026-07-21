@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-kings 10:20",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 280,
-    "prompt_tokens": 23826,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24106
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:09:50.242816278Z",
   "translation": "Yehu dijo: 'Santificad ⟨una⟩ asamblea solemne para Baal.' Y ⟨ellos⟩ proclamaron.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Yehu dijo"
+      "gloss": "Yehu dijo"
     },
     {
       "surface": "יהוא",
-      "english": "Yehu"
+      "gloss": "Yehu"
     },
     {
       "surface": "קדשו",
-      "english": "Santificad"
+      "gloss": "Santificad"
     },
     {
       "surface": "עצרה",
-      "english": "asamblea solemne"
+      "gloss": "asamblea solemne"
     },
     {
       "surface": "לבעל",
-      "english": "para Baal"
+      "gloss": "para Baal"
     },
     {
       "surface": "ויקראו",
-      "english": "Y ⟨ellos⟩ proclamaron"
+      "gloss": "Y ⟨ellos⟩ proclamaron"
     }
-  ],
-  "timestamp": "2026-07-16T19:09:50.242816278Z",
-  "model": "glm-4.5"
+  ]
 }

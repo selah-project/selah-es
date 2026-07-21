@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 16:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 584,
-    "prompt_tokens": 70467,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71051
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:50.674585510Z",
   "translation": "Me harás saber el camino de ⟨vida⟩; ⟨la⟩ plenitud de ⟨alegrías⟩ ⟨es⟩ ⟨en⟩ tu presencia, ⟨hay⟩ delicias en ⟨tu⟩ diestra para siempre.",
   "tokens": [
     {
       "surface": "תודיעני",
-      "english": "Me harás saber"
+      "gloss": "Me harás saber"
     },
     {
       "surface": "ארח",
-      "english": "el camino"
+      "gloss": "el camino"
     },
     {
       "surface": "חיים",
-      "english": "de ⟨vida⟩"
+      "gloss": "de ⟨vida⟩"
     },
     {
       "surface": "שבע",
-      "english": "plenitud"
+      "gloss": "plenitud"
     },
     {
       "surface": "שמחות",
-      "english": "de ⟨alegrías⟩"
+      "gloss": "de ⟨alegrías⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu presencia"
     },
     {
       "surface": "פניך",
-      "english": "tu presencia"
+      "gloss": "tu presencia"
     },
     {
       "surface": "נעמות",
-      "english": "delicias"
+      "gloss": "delicias"
     },
     {
       "surface": "בימינך",
-      "english": "en ⟨tu⟩ diestra"
+      "gloss": "en ⟨tu⟩ diestra"
     },
     {
       "surface": "נצח",
-      "english": "para siempre"
+      "gloss": "para siempre"
     }
-  ],
-  "timestamp": "2026-07-16T23:25:50.674585510Z",
-  "model": "glm-4.5"
+  ]
 }

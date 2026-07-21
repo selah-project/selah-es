@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 8:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59768,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60139
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:33:50.369303492Z",
   "translation": "Entended, ⟨los⟩ ingenuos ⟨para⟩ ⟨la⟩ astucia; y ⟨los⟩ necios, entended ⟨el⟩ corazón.",
   "tokens": [
     {
       "surface": "הבינו",
-      "english": "Entended"
+      "gloss": "Entended"
     },
     {
       "surface": "פתאים",
-      "english": "⟨los⟩ ingenuos",
+      "gloss": "⟨los⟩ ingenuos",
       "marks": "ingenuos"
     },
     {
       "surface": "ערמה",
-      "english": "⟨para⟩ ⟨la⟩ astucia"
+      "gloss": "⟨para⟩ ⟨la⟩ astucia"
     },
     {
       "surface": "וכסילים",
-      "english": "y ⟨los⟩ necios"
+      "gloss": "y ⟨los⟩ necios"
     },
     {
       "surface": "הבינו",
-      "english": "entended"
+      "gloss": "entended"
     },
     {
       "surface": "לב",
-      "english": "⟨el⟩ corazón"
+      "gloss": "⟨el⟩ corazón"
     }
-  ],
-  "timestamp": "2026-06-10T01:33:50.369303492Z",
-  "model": "glm-4.5"
+  ]
 }

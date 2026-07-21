@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 22:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 22,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:06:47.132618651Z",
+  "translation": "Y Davidd ⟨fue⟩ desde allí a Mitspeh de Moav, y dijo al rey de Moav: ⟨Por favor⟩ salgan mi padre y mi madre ⟨con⟩ ustedes, hasta que yo sepa qué ⟨hará⟩ ⟨por⟩ mí Elohim.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Y David ⟨fue⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "משם",
+      "gloss": "desde allí"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "a Mitspeh"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "salgan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨Por favor⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mi padre"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "y mi madre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨con⟩ ustedes",
+      "marks": "mi padre y mi madre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo sepa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "yo sepa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qué"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨hará⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨por⟩ mí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,109 +119,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 719,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17282,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 18001
-  },
-  "translation": "Y Davidd ⟨fue⟩ desde allí a Mitspeh de Moav, y dijo al rey de Moav: ⟨Por favor⟩ salgan mi padre y mi madre ⟨con⟩ ustedes, hasta que yo sepa qué ⟨hará⟩ ⟨por⟩ mí Elohim.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "Y David ⟨fue⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "משם",
-      "english": "desde allí"
-    },
-    {
-      "surface": "מצפה",
-      "english": "a Mitspeh"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "אל",
-      "english": "al"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "יצא",
-      "english": "salgan"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨Por favor⟩"
-    },
-    {
-      "surface": "אבי",
-      "english": "mi padre"
-    },
-    {
-      "surface": "ואמי",
-      "english": "y mi madre"
-    },
-    {
-      "surface": "אתכם",
-      "english": "⟨con⟩ ustedes",
-      "marks": "mi padre y mi madre"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta que"
-    },
-    {
-      "surface": "אשר",
-      "english": "yo sepa"
-    },
-    {
-      "surface": "אדע",
-      "english": "yo sepa"
-    },
-    {
-      "surface": "מה",
-      "english": "qué"
-    },
-    {
-      "surface": "יעשה",
-      "english": "⟨hará⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨por⟩ mí"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:06:47.132618651Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

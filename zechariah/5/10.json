@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "zechariah 5:10",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 393,
-    "prompt_tokens": 23422,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 23815
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:49:54.852275507Z",
   "translation": "Y dije al mensajero que hablaba conmigo: ¿Adónde llevan ⟨את⟩ la efa?",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "Y dije"
+      "gloss": "Y dije"
     },
     {
       "surface": "אל",
-      "english": "al"
+      "gloss": "al"
     },
     {
       "surface": "המלאך",
-      "english": "mensajero"
+      "gloss": "mensajero"
     },
     {
       "surface": "הדבר",
-      "english": "que hablaba"
+      "gloss": "que hablaba"
     },
     {
       "surface": "בי",
-      "english": "conmigo"
+      "gloss": "conmigo"
     },
     {
       "surface": "אנה",
-      "english": "¿Adónde"
+      "gloss": "¿Adónde"
     },
     {
       "surface": "המה",
-      "english": "llevan"
+      "gloss": "llevan"
     },
     {
       "surface": "מולכות",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la efa"
     },
     {
       "surface": "האיפה",
-      "english": "la efa"
+      "gloss": "la efa"
     }
-  ],
-  "timestamp": "2026-07-16T23:49:54.852275507Z",
-  "model": "glm-4.5"
+  ]
 }

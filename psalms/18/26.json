@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 18:26",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69893,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70293
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:26.648681690Z",
   "translation": "Con ⟨el⟩ jésed ⟨estarás⟩ jésed; con ⟨el⟩ gibor ⟨estarás⟩ ⟨como⟩ tamim",
   "tokens": [
     {
       "surface": "עם",
-      "english": "Con"
+      "gloss": "Con"
     },
     {
       "surface": "חסיד",
-      "english": "⟨el⟩ jésed"
+      "gloss": "⟨el⟩ jésed"
     },
     {
       "surface": "תתחסד",
-      "english": "⟨estarás⟩ jésed"
+      "gloss": "⟨estarás⟩ jésed"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "גבר",
-      "english": "⟨el⟩ gibor"
+      "gloss": "⟨el⟩ gibor"
     },
     {
       "surface": "תמים",
-      "english": "⟨como⟩ tamim"
+      "gloss": "⟨como⟩ tamim"
     },
     {
       "surface": "תתמם",
-      "english": "⟨estarás⟩"
+      "gloss": "⟨estarás⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:26.648681690Z",
-  "model": "glm-4.5"
+  ]
 }

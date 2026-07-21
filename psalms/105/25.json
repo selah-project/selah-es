@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 105:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69765,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70189
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:51:59.086118262Z",
   "translation": "Él ⟨volvió⟩ ⟨el⟩ corazón de ellos a odiar ⟨a⟩ su pueblo, ⟨a⟩ conspirar ⟨en⟩ contra ⟨sus⟩ siervos.",
   "tokens": [
     {
       "surface": "הפך",
-      "english": "Volvió"
+      "gloss": "Volvió"
     },
     {
       "surface": "לבם",
-      "english": "el corazón de ellos"
+      "gloss": "el corazón de ellos"
     },
     {
       "surface": "לשנא",
-      "english": "a odiar"
+      "gloss": "a odiar"
     },
     {
       "surface": "עמו",
-      "english": "a su pueblo"
+      "gloss": "a su pueblo"
     },
     {
       "surface": "להתנכל",
-      "english": "a conspirar"
+      "gloss": "a conspirar"
     },
     {
       "surface": "בעבדיו",
-      "english": "en contra sus siervos"
+      "gloss": "en contra sus siervos"
     }
-  ],
-  "timestamp": "2026-06-09T23:51:59.086118262Z",
-  "model": "glm-4.5"
+  ]
 }

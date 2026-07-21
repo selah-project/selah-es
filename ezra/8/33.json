@@ -1,9 +1,120 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "ezra 8:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 8,
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:19:30.258828383Z",
+  "translation": "Y en el día cuarto ⟨fue⟩ pesado ⟨el⟩ plata ⟨y⟩ ⟨el⟩ oro ⟨y⟩ los utensilios en ⟨la⟩ casa de nuestro Elohim, ⟨por⟩ mano de Meremoth hijo de Uriyah ⟨el⟩ sacerdote, y con él Elazar hijo de Pinjas, y con ellos Jozabad hijo de Yeshúa, y Noadyáh hijo de Binúi ⟨los⟩ levitas.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Y en el día"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "cuarto"
+    },
+    {
+      "surface": "נשקל",
+      "gloss": "⟨fue⟩ pesado"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "⟨el⟩ plata"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "⟨y⟩ ⟨el⟩ oro"
+    },
+    {
+      "surface": "והכלים",
+      "gloss": "⟨y⟩ los utensilios"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "en ⟨la⟩ casa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "de nuestro Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mano"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "de Meremoth"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "de Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨el⟩ sacerdote"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "y con él"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "de Pinjas"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "y con ellos"
+    },
+    {
+      "surface": "יוזבד",
+      "gloss": "Jozabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "de Yeshúa"
+    },
+    {
+      "surface": "ונועדיה",
+      "gloss": "y Noadyáh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "de Binúi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "⟨los⟩ levitas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eleazar",
@@ -13,128 +124,6 @@
       "hebrew": "אלעזר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 936,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46430,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 47366
-  },
-  "translation": "Y en el día cuarto ⟨fue⟩ pesado ⟨el⟩ plata ⟨y⟩ ⟨el⟩ oro ⟨y⟩ los utensilios en ⟨la⟩ casa de nuestro Elohim, ⟨por⟩ mano de Meremoth hijo de Uriyah ⟨el⟩ sacerdote, y con él Elazar hijo de Pinjas, y con ellos Jozabad hijo de Yeshúa, y Noadyáh hijo de Binúi ⟨los⟩ levitas.",
-  "tokens": [
-    {
-      "surface": "וביום",
-      "english": "Y en el día"
-    },
-    {
-      "surface": "הרביעי",
-      "english": "cuarto"
-    },
-    {
-      "surface": "נשקל",
-      "english": "⟨fue⟩ pesado"
-    },
-    {
-      "surface": "הכסף",
-      "english": "⟨el⟩ plata"
-    },
-    {
-      "surface": "והזהב",
-      "english": "⟨y⟩ ⟨el⟩ oro"
-    },
-    {
-      "surface": "והכלים",
-      "english": "⟨y⟩ los utensilios"
-    },
-    {
-      "surface": "בבית",
-      "english": "en ⟨la⟩ casa"
-    },
-    {
-      "surface": "אלהינו",
-      "english": "de nuestro Elohim"
-    },
-    {
-      "surface": "על",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "יד",
-      "english": "mano"
-    },
-    {
-      "surface": "מרמות",
-      "english": "de Meremoth"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "אוריה",
-      "english": "de Uriyah"
-    },
-    {
-      "surface": "הכהן",
-      "english": "⟨el⟩ sacerdote"
-    },
-    {
-      "surface": "ועמו",
-      "english": "y con él"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "Elazar"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "פינחס",
-      "english": "de Pinjas"
-    },
-    {
-      "surface": "ועמהם",
-      "english": "y con ellos"
-    },
-    {
-      "surface": "יוזבד",
-      "english": "Jozabad"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "ישוע",
-      "english": "de Yeshúa"
-    },
-    {
-      "surface": "ונועדיה",
-      "english": "y Noadyáh"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "בנוי",
-      "english": "de Binúi"
-    },
-    {
-      "surface": "הלוים",
-      "english": "⟨los⟩ levitas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:19:30.258828383Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

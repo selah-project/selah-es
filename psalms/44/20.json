@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 44:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69893,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70259
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:09.813434301Z",
   "translation": "⟨por⟩ si hemos olvidado ⟨el⟩ nombre de nuestro Elohim y extendido nuestras manos ⟨a⟩ ⟨un⟩ dios ajeno",
   "tokens": [
     {
       "surface": "כי",
-      "english": "⟨Por⟩ si"
+      "gloss": "⟨Por⟩ si"
     },
     {
       "surface": "דכיתנו",
-      "english": "hemos olvidado"
+      "gloss": "hemos olvidado"
     },
     {
       "surface": "במקום",
-      "english": "⟨el⟩ nombre"
+      "gloss": "⟨el⟩ nombre"
     },
     {
       "surface": "תנים",
-      "english": "de nuestro Elohim"
+      "gloss": "de nuestro Elohim"
     },
     {
       "surface": "ותכס",
-      "english": "y extendido"
+      "gloss": "y extendido"
     },
     {
       "surface": "עלינו",
-      "english": "nuestras manos ⟨a⟩"
+      "gloss": "nuestras manos ⟨a⟩"
     },
     {
       "surface": "בצלמות",
-      "english": "⟨un⟩ dios ajeno"
+      "gloss": "⟨un⟩ dios ajeno"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:09.813434301Z",
-  "model": "glm-4.5"
+  ]
 }

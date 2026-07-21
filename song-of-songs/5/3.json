@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "song-of-songs 5:3",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 608,
-    "prompt_tokens": 28125,
-    "prompt_tokens_details": {
-      "cached_tokens": 26496
-    },
-    "total_tokens": 28733
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:49:06.855969231Z",
   "translation": "Me quité mi túnica; ¿cómo ⟨me⟩ vestiría?; lavé mis pies; ¿cómo ⟨los⟩ ensuciaría?",
   "tokens": [
     {
       "surface": "פשטתי",
-      "english": "Me quité"
+      "gloss": "Me quité"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mi túnica"
     },
     {
       "surface": "כתנתי",
-      "english": "mi túnica"
+      "gloss": "mi túnica"
     },
     {
       "surface": "איככה",
-      "english": "¿cómo"
+      "gloss": "¿cómo"
     },
     {
       "surface": "אלבשנה",
-      "english": "⟨me⟩ vestiría"
+      "gloss": "⟨me⟩ vestiría"
     },
     {
       "surface": "רחצתי",
-      "english": "lavé"
+      "gloss": "lavé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mis pies"
     },
     {
       "surface": "רגלי",
-      "english": "mis pies"
+      "gloss": "mis pies"
     },
     {
       "surface": "איככה",
-      "english": "¿cómo"
+      "gloss": "¿cómo"
     },
     {
       "surface": "אטנפם",
-      "english": "⟨los⟩ ensuciaría"
+      "gloss": "⟨los⟩ ensuciaría"
     }
-  ],
-  "timestamp": "2026-07-16T23:49:06.855969231Z",
-  "model": "glm-4.5"
+  ]
 }

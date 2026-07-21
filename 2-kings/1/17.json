@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "2-kings 1:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 1,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:20:12.845947541Z",
+  "translation": "Y él murió según la palabra de YHWH que Eliyahu había hablado; y Yehoram reinó en su lugar, en el segundo año de Yehoram hijo de Yehoshafat, rey de Yehudá, porque no tenía hijo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Y él murió"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "según la palabra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Elías había hablado"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "y reinó"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "en su lugar"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "en el año"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "segundo"
+    },
+    {
+      "surface": "ליהורם",
+      "gloss": "de Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tenía"
+    },
+    {
+      "surface": "לו",
+      "gloss": "él"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Elías",
@@ -20,108 +111,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17801,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 18346
-  },
-  "translation": "Y él murió según la palabra de YHWH que Eliyahu había hablado; y Yehoram reinó en su lugar, en el segundo año de Yehoram hijo de Yehoshafat, rey de Yehudá, porque no tenía hijo.",
-  "tokens": [
-    {
-      "surface": "וימת",
-      "english": "Y él murió"
-    },
-    {
-      "surface": "כדבר",
-      "english": "según la palabra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "דבר",
-      "english": "Elías había hablado"
-    },
-    {
-      "surface": "אליהו",
-      "english": "Eliyahu"
-    },
-    {
-      "surface": "וימלך",
-      "english": "y reinó"
-    },
-    {
-      "surface": "יהורם",
-      "english": "Yehoram"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "en su lugar"
-    },
-    {
-      "surface": "בשנת",
-      "english": "en el año"
-    },
-    {
-      "surface": "שתים",
-      "english": "segundo"
-    },
-    {
-      "surface": "ליהורם",
-      "english": "de Yehoram"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "היה",
-      "english": "tenía"
-    },
-    {
-      "surface": "לו",
-      "english": "él"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:20:12.845947541Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

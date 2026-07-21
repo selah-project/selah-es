@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "jeremiah 12:17",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 368,
-    "prompt_tokens": 24865,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25233
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:36:55.493319120Z",
   "translation": "Y si no escuchan, arrancaré ⟨את⟩ la nación aquella, arrancando y destruyendo, dice YHWH.",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "Y si"
+      "gloss": "Y si"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ישמעו",
-      "english": "escuchan"
+      "gloss": "escuchan"
     },
     {
       "surface": "ונתשתי",
-      "english": "arrancaré"
+      "gloss": "arrancaré"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la nación aquella"
     },
     {
       "surface": "הגוי",
-      "english": "la nación"
+      "gloss": "la nación"
     },
     {
       "surface": "ההוא",
-      "english": "aquella"
+      "gloss": "aquella"
     },
     {
       "surface": "נתוש",
-      "english": "arrancando"
+      "gloss": "arrancando"
     },
     {
       "surface": "ואבד",
-      "english": "y destruyendo"
+      "gloss": "y destruyendo"
     },
     {
       "surface": "נאם",
-      "english": "dice"
+      "gloss": "dice"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T21:36:55.493319120Z",
-  "model": "glm-4.5"
+  ]
 }

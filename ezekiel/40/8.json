@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "ezekiel 40:8",
   "book": "ezekiel",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 378,
-    "prompt_tokens": 24398,
-    "prompt_tokens_details": {
-      "cached_tokens": 23296
-    },
-    "total_tokens": 24776
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:44:32.404075538Z",
   "translation": "Y midió ⟨את⟩ el pórtico de la puerta hacia la casa, una caña.",
   "tokens": [
     {
       "surface": "וימד",
-      "english": "Y midió"
+      "gloss": "Y midió"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el pórtico de la puerta"
     },
     {
       "surface": "אלם",
-      "english": "el pórtico"
+      "gloss": "el pórtico"
     },
     {
       "surface": "השער",
-      "english": "de la puerta"
+      "gloss": "de la puerta"
     },
     {
       "surface": "מהבית",
-      "english": "hacia la casa"
+      "gloss": "hacia la casa"
     },
     {
       "surface": "קנה",
-      "english": "una caña"
+      "gloss": "una caña"
     },
     {
       "surface": "אחד",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T20:44:32.404075538Z",
-  "model": "glm-4.5"
+  ]
 }

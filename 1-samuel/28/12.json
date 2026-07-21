@@ -1,9 +1,81 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-samuel 28:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 28,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:12:42.928968703Z",
+  "translation": "Y vio la mujer ⟨a⟩ Shmuel y gritó con voz grande y dijo la mujer a Shaúl diciendo: ¿Por qué me has engañado? y tú ⟨eres⟩ Shaúl",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Y vio"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la mujer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "y gritó"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "con voz"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la mujer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo:"
+    },
+    {
+      "surface": "למה",
+      "gloss": "¿Por qué"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "me has engañado"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "y tú"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samuel",
@@ -27,89 +99,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16862,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17343
-  },
-  "translation": "Y vio la mujer ⟨a⟩ Shmuel y gritó con voz grande y dijo la mujer a Shaúl diciendo: ¿Por qué me has engañado? y tú ⟨eres⟩ Shaúl",
-  "tokens": [
-    {
-      "surface": "ותרא",
-      "english": "Y vio"
-    },
-    {
-      "surface": "האשה",
-      "english": "la mujer"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Samuel"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shmuel"
-    },
-    {
-      "surface": "ותזעק",
-      "english": "y gritó"
-    },
-    {
-      "surface": "בקול",
-      "english": "con voz"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande"
-    },
-    {
-      "surface": "ותאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "האשה",
-      "english": "la mujer"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo:"
-    },
-    {
-      "surface": "למה",
-      "english": "¿Por qué"
-    },
-    {
-      "surface": "רמיתני",
-      "english": "me has engañado"
-    },
-    {
-      "surface": "ואתה",
-      "english": "y tú"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:12:42.928968703Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

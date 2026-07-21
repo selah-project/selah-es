@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 10:8",
   "book": "genesis",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 316,
-    "prompt_tokens": 28585,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28901
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:55:08.986647938Z",
   "translation": "Y Kush engendró ⟨את⟩ Nimrod; él comenzó a ser un guerrero poderoso en ⟨la⟩ tierra",
   "tokens": [
     {
       "surface": "וכוש",
-      "english": "Y Kush"
+      "gloss": "Y Kush"
     },
     {
       "surface": "ילד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Nimrod"
     },
     {
       "surface": "נמרד",
-      "english": "Nimrod"
+      "gloss": "Nimrod"
     },
     {
       "surface": "הוא",
-      "english": "él"
+      "gloss": "él"
     },
     {
       "surface": "החל",
-      "english": "comenzó"
+      "gloss": "comenzó"
     },
     {
       "surface": "להיות",
-      "english": "a ser"
+      "gloss": "a ser"
     },
     {
       "surface": "גבר",
-      "english": "un guerrero poderoso"
+      "gloss": "un guerrero poderoso"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-07-16T20:55:08.986647938Z",
-  "model": "glm-4.5"
+  ]
 }

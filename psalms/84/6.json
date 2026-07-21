@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 84:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 84,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69859,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70316
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:55.638453078Z",
   "translation": "¡Dichosos ⟨son⟩ ⟨los⟩ que ⟨su⟩ fuerza ⟨está⟩ en ti; ⟨los⟩ caminos ⟨están⟩ en sus corazones.",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Dichosos"
+      "gloss": "¡Dichosos"
     },
     {
       "surface": "אדם",
-      "english": "⟨los⟩"
+      "gloss": "⟨los⟩"
     },
     {
       "surface": "עוז",
-      "english": "fuerza"
+      "gloss": "fuerza"
     },
     {
       "surface": "לו",
-      "english": "⟨su⟩"
+      "gloss": "⟨su⟩"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     },
     {
       "surface": "מסלות",
-      "english": "⟨los⟩ caminos"
+      "gloss": "⟨los⟩ caminos"
     },
     {
       "surface": "בלבבם",
-      "english": "en sus corazones"
+      "gloss": "en sus corazones"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:55.638453078Z",
-  "model": "glm-4.5"
+  ]
 }

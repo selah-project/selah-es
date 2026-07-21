@@ -1,80 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 20:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 551,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28893,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29444
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:17:39.482061211Z",
   "translation": "Y Abraham dijo: Porque dije ⟨solo⟩ ⟨no⟩ ⟨es⟩ el temor de Elohim en este lugar, ⟨y⟩ me matarán sobre ⟨el⟩ asunto de mi mujer.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y Abraham dijo"
+      "gloss": "Y Abraham dijo"
     },
     {
       "surface": "אברהם",
-      "english": "Abraham"
+      "gloss": "Abraham"
     },
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אמרתי",
-      "english": "dije"
+      "gloss": "dije"
     },
     {
       "surface": "רק",
-      "english": "⟨solo⟩"
+      "gloss": "⟨solo⟩"
     },
     {
       "surface": "אין",
-      "english": "⟨no⟩ ⟨es⟩"
+      "gloss": "⟨no⟩ ⟨es⟩"
     },
     {
       "surface": "יראת",
-      "english": "el temor"
+      "gloss": "el temor"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "במקום",
-      "english": "en este lugar"
+      "gloss": "en este lugar"
     },
     {
       "surface": "הזה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "והרגוני",
-      "english": "⟨y⟩ me matarán"
+      "gloss": "⟨y⟩ me matarán"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "דבר",
-      "english": "⟨el⟩ asunto"
+      "gloss": "⟨el⟩ asunto"
     },
     {
       "surface": "אשתי",
-      "english": "de mi mujer"
+      "gloss": "de mi mujer"
     }
-  ],
-  "timestamp": "2026-06-10T05:17:39.482061211Z",
-  "model": "glm-4.5"
+  ]
 }

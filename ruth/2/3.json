@@ -1,82 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "ruth 2:3",
   "book": "ruth",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28710,
-    "prompt_tokens_details": {
-      "cached_tokens": 26952
-    },
-    "total_tokens": 29254
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T21:24:04.096974924Z",
   "translation": "Y fue y vino y recogió ⟨en⟩ el campo después de los segadores, y ⟨fue⟩ su casualidad hallar ⟨la⟩ porción del campo de Boaz, ⟨que era⟩ de la familia de Elimelec",
   "tokens": [
     {
       "surface": "ותלך",
-      "english": "Y fue"
+      "gloss": "Y fue"
     },
     {
       "surface": "ותבוא",
-      "english": "y vino"
+      "gloss": "y vino"
     },
     {
       "surface": "ותלקט",
-      "english": "y recogió"
+      "gloss": "y recogió"
     },
     {
       "surface": "בשדה",
-      "english": "⟨en⟩ el campo",
+      "gloss": "⟨en⟩ el campo",
       "marks": "el campo"
     },
     {
       "surface": "אחרי",
-      "english": "después de"
+      "gloss": "después de"
     },
     {
       "surface": "הקצרים",
-      "english": "los segadores"
+      "gloss": "los segadores"
     },
     {
       "surface": "ויקר",
-      "english": "y ⟨fue⟩"
+      "gloss": "y ⟨fue⟩"
     },
     {
       "surface": "מקרה",
-      "english": "su casualidad"
+      "gloss": "su casualidad"
     },
     {
       "surface": "חלקת",
-      "english": "hallar ⟨la⟩ porción",
+      "gloss": "hallar ⟨la⟩ porción",
       "marks": "la porción del campo"
     },
     {
       "surface": "השדה",
-      "english": "del campo"
+      "gloss": "del campo"
     },
     {
       "surface": "לבעז",
-      "english": "de Boaz"
+      "gloss": "de Boaz"
     },
     {
       "surface": "אשר",
-      "english": "⟨que era⟩"
+      "gloss": "⟨que era⟩"
     },
     {
       "surface": "ממשפחת",
-      "english": "de la familia"
+      "gloss": "de la familia"
     },
     {
       "surface": "אלימלך",
-      "english": "de Elimelec"
+      "gloss": "de Elimelec"
     }
-  ],
-  "timestamp": "2026-06-09T21:24:04.096974924Z",
-  "model": "glm-4.5"
+  ]
 }

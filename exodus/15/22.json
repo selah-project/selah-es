@@ -1,90 +1,82 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "exodus 15:22",
   "book": "exodus",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 551,
-    "prompt_tokens": 24923,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25474
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:16:01.220469734Z",
   "translation": "Y Moshé hizo viajar ⟨a⟩ Israel desde el Mar-Suf, y salieron al desierto de Shur; y caminaron tres días en el desierto, y no hallaron aguas.",
   "tokens": [
     {
       "surface": "ויסע",
-      "english": "Y Moshé hizo viajar"
+      "gloss": "Y Moshé hizo viajar"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Israel"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "מים",
-      "english": "desde el"
+      "gloss": "desde el"
     },
     {
       "surface": "סוף",
-      "english": "Mar-Suf"
+      "gloss": "Mar-Suf"
     },
     {
       "surface": "ויצאו",
-      "english": ", y salieron"
+      "gloss": ", y salieron"
     },
     {
       "surface": "אל",
-      "english": "al"
+      "gloss": "al"
     },
     {
       "surface": "מדבר",
-      "english": "desierto"
+      "gloss": "desierto"
     },
     {
       "surface": "שור",
-      "english": "de Shur"
+      "gloss": "de Shur"
     },
     {
       "surface": "וילכו",
-      "english": "; y caminaron"
+      "gloss": "; y caminaron"
     },
     {
       "surface": "שלשת",
-      "english": "tres"
+      "gloss": "tres"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "במדבר",
-      "english": "en el desierto"
+      "gloss": "en el desierto"
     },
     {
       "surface": "ולא",
-      "english": ", y no"
+      "gloss": ", y no"
     },
     {
       "surface": "מצאו",
-      "english": "hallaron"
+      "gloss": "hallaron"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     }
-  ],
-  "timestamp": "2026-07-16T20:16:01.220469734Z",
-  "model": "glm-4.5"
+  ]
 }

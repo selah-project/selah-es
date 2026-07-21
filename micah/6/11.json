@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "micah 6:11",
   "book": "micah",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22587,
-    "prompt_tokens_details": {
-      "cached_tokens": 21743
-    },
-    "total_tokens": 22965
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:31:43.861169079Z",
   "translation": "¿⟨puedo⟩ ser limpio ⟨con⟩ ⟨balanzas⟩ de maldad y ⟨con⟩ bolsa ⟨de⟩ piedras ⟨de⟩ engaño?",
   "tokens": [
     {
       "surface": "האזכה",
-      "english": "⟨Puedo⟩ ser limpio"
+      "gloss": "⟨Puedo⟩ ser limpio"
     },
     {
       "surface": "במאזני",
-      "english": "⟨con⟩ ⟨balanzas⟩"
+      "gloss": "⟨con⟩ ⟨balanzas⟩"
     },
     {
       "surface": "רשע",
-      "english": "de maldad"
+      "gloss": "de maldad"
     },
     {
       "surface": "ובכיס",
-      "english": "y ⟨con⟩ bolsa"
+      "gloss": "y ⟨con⟩ bolsa"
     },
     {
       "surface": "אבני",
-      "english": "⟨de⟩ piedras"
+      "gloss": "⟨de⟩ piedras"
     },
     {
       "surface": "מרמה",
-      "english": "⟨de⟩ engaño"
+      "gloss": "⟨de⟩ engaño"
     }
-  ],
-  "timestamp": "2026-06-10T00:31:43.861169079Z",
-  "model": "glm-4.5"
+  ]
 }

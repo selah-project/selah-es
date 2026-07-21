@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 37:5",
   "book": "genesis",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 529,
-    "prompt_tokens": 28597,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29126
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:09:40.517176458Z",
   "translation": "Yosef soñó un sueño y ⟨es⟩ lo contó a sus hermanos y añadieron ⟨a⟩ odiar ⟨את⟩ ⟨lo⟩ más",
   "tokens": [
     {
       "surface": "ויחלם",
-      "english": "Yosef soñó"
+      "gloss": "Yosef soñó"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "חלום",
-      "english": "un sueño"
+      "gloss": "un sueño"
     },
     {
       "surface": "ויגד",
-      "english": "y ⟨es⟩ lo contó"
+      "gloss": "y ⟨es⟩ lo contó"
     },
     {
       "surface": "לאחיו",
-      "english": "a sus hermanos"
+      "gloss": "a sus hermanos"
     },
     {
       "surface": "ויוספו",
-      "english": "y añadieron ⟨a⟩ odiar"
+      "gloss": "y añadieron ⟨a⟩ odiar"
     },
     {
       "surface": "עוד",
-      "english": "más"
+      "gloss": "más"
     },
     {
       "surface": "שנא",
-      "english": "odiar"
+      "gloss": "odiar"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ ⟨lo⟩",
+      "gloss": "⟨את⟩ ⟨lo⟩",
       "marks": "odiar"
     }
-  ],
-  "timestamp": "2026-07-16T21:09:40.517176458Z",
-  "model": "glm-4.5"
+  ]
 }

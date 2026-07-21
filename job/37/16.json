@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 37:16",
   "book": "job",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27025,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27383
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:53.173148321Z",
   "translation": "¿Conoces ⟨los⟩ balancings de ⟨las⟩ nubes, ⟨los⟩ prodigios ⟨de⟩ ⟨el⟩ perfecto en conocimiento?",
   "tokens": [
     {
       "surface": "התדע",
-      "english": "¿Conoces"
+      "gloss": "¿Conoces"
     },
     {
       "surface": "על",
-      "english": "⟨los⟩"
+      "gloss": "⟨los⟩"
     },
     {
       "surface": "מפלשי",
-      "english": "balancings"
+      "gloss": "balancings"
     },
     {
       "surface": "עב",
-      "english": "de ⟨las⟩ nubes"
+      "gloss": "de ⟨las⟩ nubes"
     },
     {
       "surface": "מפלאות",
-      "english": "⟨los⟩ prodigios"
+      "gloss": "⟨los⟩ prodigios"
     },
     {
       "surface": "תמים",
-      "english": "⟨de⟩ ⟨el⟩ perfecto"
+      "gloss": "⟨de⟩ ⟨el⟩ perfecto"
     },
     {
       "surface": "דעים",
-      "english": "en conocimiento"
+      "gloss": "en conocimiento"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:53.173148321Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 4,
   "ref": "numbers 2:4",
   "book": "numbers",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25017,
-    "prompt_tokens_details": {
-      "cached_tokens": 23936
-    },
-    "total_tokens": 25402
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:05:19.575931207Z",
   "translation": "Y ⟨את⟩ su ejército y ⟨los⟩ enlistados de ellos ⟨fueron⟩ setenta y cuatro mil y seiscientos.",
   "tokens": [
     {
       "surface": "וצבאו",
-      "english": "Y su ejército"
+      "gloss": "Y su ejército"
     },
     {
       "surface": "ופקדיהם",
-      "english": "y ⟨los⟩ enlistados de ellos"
+      "gloss": "y ⟨los⟩ enlistados de ellos"
     },
     {
       "surface": "ארבעה",
-      "english": "cuatro"
+      "gloss": "cuatro"
     },
     {
       "surface": "ושבעים",
-      "english": "y setenta"
+      "gloss": "y setenta"
     },
     {
       "surface": "אלף",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "ושש",
-      "english": "y seis"
+      "gloss": "y seis"
     },
     {
       "surface": "מאות",
-      "english": "cientos"
+      "gloss": "cientos"
     }
-  ],
-  "timestamp": "2026-06-13T03:05:19.575931207Z",
-  "model": "glm-5.1"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "lamentations 3:45",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38852,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39391
-  },
+  "verse": 45,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:42:24.124230091Z",
   "translation": "Tú nos has hecho ⟨como⟩ ⟨el⟩ desecho y ⟨el⟩ escoria ⟨את⟩ en medio ⟨de⟩ ⟨los⟩ pueblos.",
   "tokens": [
     {
       "surface": "סחי",
-      "english": "Desecho"
+      "gloss": "Desecho"
     },
     {
       "surface": "ומאוס",
-      "english": "escoria"
+      "gloss": "escoria"
     },
     {
       "surface": "תשימנו",
-      "english": "Tú nos has hecho ⟨como⟩ ⟨el⟩"
+      "gloss": "Tú nos has hecho ⟨como⟩ ⟨el⟩"
     },
     {
       "surface": "בקרב",
-      "english": "en medio ⟨de⟩"
+      "gloss": "en medio ⟨de⟩"
     },
     {
       "surface": "העמים",
-      "english": "⟨los⟩ pueblos"
+      "gloss": "⟨los⟩ pueblos"
     }
-  ],
-  "timestamp": "2026-06-09T22:42:24.124230091Z",
-  "model": "glm-4.5"
+  ]
 }

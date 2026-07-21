@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "exodus 7:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 7,
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:30:18.567442547Z",
+  "translation": "Y Paró ⟨se⟩ volvió y entró en su casa, y no ⟨puso⟩ ⟨el⟩ corazón ⟨en⟩ esto tampoco",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Y ⟨se⟩ volvió"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "y entró"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "su casa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "שת",
+      "gloss": "⟨puso⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "⟨el⟩ corazón"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "esto tampoco"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -13,64 +60,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16650,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17085
-  },
-  "translation": "Y Paró ⟨se⟩ volvió y entró en su casa, y no ⟨puso⟩ ⟨el⟩ corazón ⟨en⟩ esto tampoco",
-  "tokens": [
-    {
-      "surface": "ויפן",
-      "english": "Y ⟨se⟩ volvió"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "ויבא",
-      "english": "y entró"
-    },
-    {
-      "surface": "אל",
-      "english": "en"
-    },
-    {
-      "surface": "ביתו",
-      "english": "su casa"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "שת",
-      "english": "⟨puso⟩"
-    },
-    {
-      "surface": "לבו",
-      "english": "⟨el⟩ corazón"
-    },
-    {
-      "surface": "גם",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "לזאת",
-      "english": "esto tampoco"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:30:18.567442547Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

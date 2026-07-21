@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 24:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 428,
-    "prompt_tokens": 25955,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26383
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:25:31.901184367Z",
   "translation": "Es dejada ⟨la⟩ desolación en ⟨la⟩ ciudad, y ⟨la⟩ puerta es golpeada hasta ⟨la⟩ ruina.",
   "tokens": [
     {
       "surface": "נשאר",
-      "english": "Es dejada"
+      "gloss": "Es dejada"
     },
     {
       "surface": "בעיר",
-      "english": "en ⟨la⟩ ciudad"
+      "gloss": "en ⟨la⟩ ciudad"
     },
     {
       "surface": "שמה",
-      "english": "⟨la⟩ desolación"
+      "gloss": "⟨la⟩ desolación"
     },
     {
       "surface": "ושאיה",
-      "english": "y ⟨la⟩ puerta"
+      "gloss": "y ⟨la⟩ puerta"
     },
     {
       "surface": "יכת",
-      "english": "es golpeada"
+      "gloss": "es golpeada"
     },
     {
       "surface": "שער",
-      "english": "hasta ⟨la⟩ ruina"
+      "gloss": "hasta ⟨la⟩ ruina"
     }
-  ],
-  "timestamp": "2026-07-16T21:25:31.901184367Z",
-  "model": "glm-4.5"
+  ]
 }

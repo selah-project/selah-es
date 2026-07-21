@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "genesis 34:27",
   "book": "genesis",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28560,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28955
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:31:44.761377510Z",
   "translation": "Los hijos de Yaakov vinieron ⟨sobre⟩ ⟨los⟩ heridos y despojaron ⟨la⟩ ciudad porque habían contaminado a su hermana.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Los hijos"
+      "gloss": "Los hijos"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     },
     {
       "surface": "באו",
-      "english": "vinieron"
+      "gloss": "vinieron"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "החללים",
-      "english": "⟨los⟩ heridos"
+      "gloss": "⟨los⟩ heridos"
     },
     {
       "surface": "ויבזו",
-      "english": "y despojaron"
+      "gloss": "y despojaron"
     },
     {
       "surface": "העיר",
-      "english": "⟨la⟩ ciudad"
+      "gloss": "⟨la⟩ ciudad"
     },
     {
       "surface": "אשר",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "טמאו",
-      "english": "habían contaminado"
+      "gloss": "habían contaminado"
     },
     {
       "surface": "אחותם",
-      "english": "a su hermana"
+      "gloss": "a su hermana"
     }
-  ],
-  "timestamp": "2026-06-10T05:31:44.761377510Z",
-  "model": "glm-4.5"
+  ]
 }

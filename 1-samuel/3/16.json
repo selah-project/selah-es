@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-samuel 3:16",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 401,
-    "prompt_tokens": 23740,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24141
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:34:49.707739046Z",
   "translation": "Y llamó Eli a Shmuel, y dijo: Shmuel, mi hijo. Y él dijo: Heme aquí.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "Y llamó"
+      "gloss": "Y llamó"
     },
     {
       "surface": "עלי",
-      "english": "Eli"
+      "gloss": "Eli"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Shmuel"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "בני",
-      "english": "mi hijo"
+      "gloss": "mi hijo"
     },
     {
       "surface": "ויאמר",
-      "english": "Y él dijo"
+      "gloss": "Y él dijo"
     },
     {
       "surface": "הנני",
-      "english": "Heme aquí"
+      "gloss": "Heme aquí"
     }
-  ],
-  "timestamp": "2026-07-16T18:34:49.707739046Z",
-  "model": "glm-4.5"
+  ]
 }

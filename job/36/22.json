@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 36:22",
   "book": "job",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27006,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27390
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:16.825292458Z",
   "translation": "He aquí, ⟨el⟩ Poderoso se eleva en su poder, ¿quién ⟨es⟩ como él ⟨como⟩ instructor?",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "אל",
-      "english": "⟨el⟩ Poderoso",
+      "gloss": "⟨el⟩ Poderoso",
       "marks": "Poderoso"
     },
     {
       "surface": "ישגיב",
-      "english": "se eleva"
+      "gloss": "se eleva"
     },
     {
       "surface": "בכחו",
-      "english": "en su poder"
+      "gloss": "en su poder"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "כמהו",
-      "english": "⟨es⟩ como él"
+      "gloss": "⟨es⟩ como él"
     },
     {
       "surface": "מורה",
-      "english": "⟨como⟩ instructor"
+      "gloss": "⟨como⟩ instructor"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:16.825292458Z",
-  "model": "glm-4.5"
+  ]
 }

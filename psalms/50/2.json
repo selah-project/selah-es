@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 50:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 313,
-    "prompt_tokens": 69762,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70075
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:33.856456112Z",
   "translation": "Desde Tzión, la perfección de la belleza, ⟨el⟩ Elohim ha brillado",
   "tokens": [
     {
       "surface": "מציון",
-      "english": "Desde Tzión"
+      "gloss": "Desde Tzión"
     },
     {
       "surface": "מכלל",
-      "english": "la perfección"
+      "gloss": "la perfección"
     },
     {
       "surface": "יפי",
-      "english": "de la belleza"
+      "gloss": "de la belleza"
     },
     {
       "surface": "אלהים",
-      "english": "⟨el⟩ Elohim"
+      "gloss": "⟨el⟩ Elohim"
     },
     {
       "surface": "הופיע",
-      "english": "ha brillado"
+      "gloss": "ha brillado"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:33.856456112Z",
-  "model": "glm-4.5"
+  ]
 }

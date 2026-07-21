@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 30:22",
   "book": "job",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27027,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27430
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:09:57.006151210Z",
   "translation": "Tú me levantas ⟨al⟩ viento; ⟨tú⟩ me haces cabalgar sobre él y ⟨tú⟩ disuelves ⟨mi⟩ sustancia.",
   "tokens": [
     {
       "surface": "תשאני",
-      "english": "Tú me levantas"
+      "gloss": "Tú me levantas"
     },
     {
       "surface": "אל",
-      "english": "⟨al⟩",
+      "gloss": "⟨al⟩",
       "marks": "viento"
     },
     {
       "surface": "רוח",
-      "english": "viento"
+      "gloss": "viento"
     },
     {
       "surface": "תרכיבני",
-      "english": "⟨tú⟩ me haces cabalgar"
+      "gloss": "⟨tú⟩ me haces cabalgar"
     },
     {
       "surface": "ותמגגני",
-      "english": "y ⟨tú⟩ disuelves"
+      "gloss": "y ⟨tú⟩ disuelves"
     },
     {
       "surface": "תשוה",
-      "english": "⟨mi⟩ sustancia",
+      "gloss": "⟨mi⟩ sustancia",
       "marks": "sustancia"
     }
-  ],
-  "timestamp": "2026-06-10T02:09:57.006151210Z",
-  "model": "glm-4.5"
+  ]
 }

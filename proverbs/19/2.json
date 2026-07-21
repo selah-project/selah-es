@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 19:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59980,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60414
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:42:01.565117136Z",
   "translation": "También sin conocimiento ⟨es⟩ ⟨lo⟩ bueno para ⟨el⟩ alma, y ⟨el⟩ que se apresura ⟨con sus⟩ pies peca.",
   "tokens": [
     {
       "surface": "גם",
-      "english": "También"
+      "gloss": "También"
     },
     {
       "surface": "בלא",
-      "english": "sin"
+      "gloss": "sin"
     },
     {
       "surface": "דעת",
-      "english": "conocimiento"
+      "gloss": "conocimiento"
     },
     {
       "surface": "נפש",
-      "english": "alma",
+      "gloss": "alma",
       "marks": "para ⟨el⟩ alma"
     },
     {
       "surface": "לא",
-      "english": "no ⟨es⟩ ⟨lo⟩ bueno"
+      "gloss": "no ⟨es⟩ ⟨lo⟩ bueno"
     },
     {
       "surface": "טוב",
-      "english": "bueno"
+      "gloss": "bueno"
     },
     {
       "surface": "ואץ",
-      "english": "y ⟨el⟩ que se apresura"
+      "gloss": "y ⟨el⟩ que se apresura"
     },
     {
       "surface": "ברגלים",
-      "english": "⟨con sus⟩ pies"
+      "gloss": "⟨con sus⟩ pies"
     },
     {
       "surface": "חוטא",
-      "english": "peca"
+      "gloss": "peca"
     }
-  ],
-  "timestamp": "2026-06-10T01:42:01.565117136Z",
-  "model": "glm-4.5"
+  ]
 }

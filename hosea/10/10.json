@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "hosea 10:10",
   "book": "hosea",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26704,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 27026
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:48:31.314797739Z",
   "translation": "En mi deseo ⟨y⟩ yo los ataré ⟨את⟩, y se reunirán pueblos sobre ellos cuando se aten a sus dos iniquidades.",
   "tokens": [
     {
       "surface": "באותי",
-      "english": "En mi deseo"
+      "gloss": "En mi deseo"
     },
     {
       "surface": "ואסרם",
-      "english": "⟨y⟩ yo los ataré"
+      "gloss": "⟨y⟩ yo los ataré"
     },
     {
       "surface": "ואספו",
-      "english": "y se reunirán"
+      "gloss": "y se reunirán"
     },
     {
       "surface": "עליהם",
-      "english": "sobre ellos"
+      "gloss": "sobre ellos"
     },
     {
       "surface": "עמים",
-      "english": "pueblos"
+      "gloss": "pueblos"
     },
     {
       "surface": "באסרם",
-      "english": "cuando se aten"
+      "gloss": "cuando se aten"
     },
     {
       "surface": "לשתי",
-      "english": "a sus dos"
+      "gloss": "a sus dos"
     },
     {
       "surface": "עינתם",
-      "english": "iniquidades"
+      "gloss": "iniquidades"
     }
-  ],
-  "timestamp": "2026-06-09T22:48:31.314797739Z",
-  "model": "glm-4.5"
+  ]
 }

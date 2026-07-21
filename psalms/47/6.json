@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 47:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69805,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70171
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:09.789633909Z",
   "translation": "asciende Elohim en ⟨una⟩ alabanza ⟨estridente⟩, YHWH en ⟨el⟩ sonido de ⟨la⟩ trompeta",
   "tokens": [
     {
       "surface": "עלה",
-      "english": "Asciende"
+      "gloss": "Asciende"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בתרועה",
-      "english": "en ⟨una⟩ alabanza ⟨estridente⟩"
+      "gloss": "en ⟨una⟩ alabanza ⟨estridente⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בקול",
-      "english": "en ⟨el⟩ sonido"
+      "gloss": "en ⟨el⟩ sonido"
     },
     {
       "surface": "שופר",
-      "english": "de ⟨la⟩ trompeta"
+      "gloss": "de ⟨la⟩ trompeta"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:09.789633909Z",
-  "model": "glm-4.5"
+  ]
 }

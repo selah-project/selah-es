@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "micah 6:9",
   "book": "micah",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 658,
-    "prompt_tokens": 23230,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23888
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:50:25.193415694Z",
   "translation": "La voz de YHWH clama ⟨a⟩ la ciudad, y ⟨el hombre⟩ de sabiduría verá tu nombre: escuchad ⟨la⟩ vara, y quién ⟨la⟩ ha designado.",
   "tokens": [
     {
       "surface": "קול",
-      "english": "La voz"
+      "gloss": "La voz"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "לעיר",
-      "english": "clama ⟨a⟩ la ciudad"
+      "gloss": "clama ⟨a⟩ la ciudad"
     },
     {
       "surface": "וְתוּשִׁיָּה",
-      "english": "y ⟨el hombre⟩ de sabiduría"
+      "gloss": "y ⟨el hombre⟩ de sabiduría"
     },
     {
       "surface": "תִרְאֶה",
-      "english": "verá"
+      "gloss": "verá"
     },
     {
       "surface": "שְׁמֶךָ",
-      "english": "tu nombre"
+      "gloss": "tu nombre"
     },
     {
       "surface": "שִׁמְעוּ",
-      "english": "escuchad"
+      "gloss": "escuchad"
     },
     {
       "surface": "מַטֶּה",
-      "english": "⟨la⟩ vara"
+      "gloss": "⟨la⟩ vara"
     },
     {
       "surface": "וּמִי",
-      "english": "y quién"
+      "gloss": "y quién"
     },
     {
       "surface": "יְעָדָּהּ",
-      "english": "⟨la⟩ ha designado"
+      "gloss": "⟨la⟩ ha designado"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la vara"
     }
-  ],
-  "timestamp": "2026-07-16T22:50:25.193415694Z",
-  "model": "glm-4.5"
+  ]
 }

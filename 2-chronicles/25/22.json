@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "2-chronicles 25:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 25,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:27:48.937075286Z",
+  "translation": "Y Yehudá ⟨fue⟩ derrotado ⟨por⟩ ⟨el⟩ את de ⟨los⟩ hijos de Yisrael, y ⟨cada⟩ hombre huyó ⟨a⟩ ⟨su⟩ tienda",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "Y Judá ⟨fue⟩ derrotado ⟨por⟩ ⟨el⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "de ⟨los⟩ hijos de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "y ⟨cada⟩ hombre huyó"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hombre"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "⟨a⟩ ⟨su⟩ tienda"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,52 +55,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57720,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58201
-  },
-  "translation": "Y Yehudá ⟨fue⟩ derrotado ⟨por⟩ ⟨el⟩ את de ⟨los⟩ hijos de Yisrael, y ⟨cada⟩ hombre huyó ⟨a⟩ ⟨su⟩ tienda",
-  "tokens": [
-    {
-      "surface": "וינגף",
-      "english": "Y Judá ⟨fue⟩ derrotado ⟨por⟩ ⟨el⟩"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "לפני",
-      "english": "de ⟨los⟩ hijos de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וינסו",
-      "english": "y ⟨cada⟩ hombre huyó"
-    },
-    {
-      "surface": "איש",
-      "english": "hombre"
-    },
-    {
-      "surface": "לאהליו",
-      "english": "⟨a⟩ ⟨su⟩ tienda"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:27:48.937075286Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

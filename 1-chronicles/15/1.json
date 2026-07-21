@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 15:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 15,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:43:55.200734165Z",
+  "translation": "Y él ⟨hizo⟩ para sí casas en ⟨la⟩ ciudad ⟨de⟩ Davidd, y preparó un lugar para ⟨el⟩ arca ⟨de⟩ Elohim, y tendió para ⟨él⟩ ⟨una⟩ tienda ⟨de⟩ campaña.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Y él ⟨hizo⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sí"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "casas"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "en ⟨la⟩ ciudad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "⟨de⟩ Davidd"
+    },
+    {
+      "surface": "ויכן",
+      "gloss": "y preparó"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un lugar"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "para ⟨el⟩ arca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ Elohim"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "y tendió"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para ⟨él⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨una⟩ tienda ⟨de⟩ campaña"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,72 +68,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56994,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57523
-  },
-  "translation": "Y él ⟨hizo⟩ para sí casas en ⟨la⟩ ciudad ⟨de⟩ Davidd, y preparó un lugar para ⟨el⟩ arca ⟨de⟩ Elohim, y tendió para ⟨él⟩ ⟨una⟩ tienda ⟨de⟩ campaña.",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "Y él ⟨hizo⟩"
-    },
-    {
-      "surface": "לו",
-      "english": "para sí"
-    },
-    {
-      "surface": "בתים",
-      "english": "casas"
-    },
-    {
-      "surface": "בעיר",
-      "english": "en ⟨la⟩ ciudad"
-    },
-    {
-      "surface": "דויד",
-      "english": "⟨de⟩ Davidd"
-    },
-    {
-      "surface": "ויכן",
-      "english": "y preparó"
-    },
-    {
-      "surface": "מקום",
-      "english": "un lugar"
-    },
-    {
-      "surface": "לארון",
-      "english": "para ⟨el⟩ arca"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨de⟩ Elohim"
-    },
-    {
-      "surface": "ויט",
-      "english": "y tendió"
-    },
-    {
-      "surface": "לו",
-      "english": "para ⟨él⟩"
-    },
-    {
-      "surface": "אהל",
-      "english": "⟨una⟩ tienda ⟨de⟩ campaña"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:43:55.200734165Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

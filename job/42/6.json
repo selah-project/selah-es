@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 6,
   "ref": "job 42:6",
   "book": "job",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 633,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27009,
-    "prompt_tokens_details": {
-      "cached_tokens": 26048
-    },
-    "total_tokens": 27642
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T04:03:10.785752413Z",
   "translation": "Por tanto, desprecio ⟨mis palabras⟩ y me consuelo — sobre el polvo y la ceniza.",
   "tokens": [
     {
       "surface": "עַל",
-      "english": "Por"
+      "gloss": "Por"
     },
     {
       "surface": "כֵּ֭ן",
-      "english": "tanto"
+      "gloss": "tanto"
     },
     {
       "surface": "אֶמְאַ֣ס",
-      "english": "desprecio ⟨mis palabras⟩"
+      "gloss": "desprecio ⟨mis palabras⟩"
     },
     {
       "surface": "וְ\/נִחַ֑מְתִּי",
-      "english": "y me consuelo"
+      "gloss": "y me consuelo"
     },
     {
       "surface": "עַל",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "עָפָ֥ר",
-      "english": "el polvo"
+      "gloss": "el polvo"
     },
     {
       "surface": "וָ\/אֵֽפֶר",
-      "english": "y la ceniza"
+      "gloss": "y la ceniza"
     }
-  ],
-  "timestamp": "2026-06-13T04:03:10.785752413Z",
-  "model": "glm-5.1"
+  ]
 }

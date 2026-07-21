@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "psalms 78:50",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 555,
-    "prompt_tokens": 70283,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70838
-  },
+  "verse": 50,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:34:17.936826351Z",
   "translation": "Él niveló un camino para su ira; no escatimó su alma ⟨de⟩ la muerte, y entregó su vida a la peste.",
   "tokens": [
     {
       "surface": "יפלס",
-      "english": "Él niveló"
+      "gloss": "Él niveló"
     },
     {
       "surface": "נתיב",
-      "english": "un camino"
+      "gloss": "un camino"
     },
     {
       "surface": "לאפו",
-      "english": "para su ira"
+      "gloss": "para su ira"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "חשך",
-      "english": "escatimó"
+      "gloss": "escatimó"
     },
     {
       "surface": "ממות",
-      "english": "⟨de⟩ la muerte"
+      "gloss": "⟨de⟩ la muerte"
     },
     {
       "surface": "נפשם",
-      "english": "su alma"
+      "gloss": "su alma"
     },
     {
       "surface": "וחיתם",
-      "english": "y entregó su vida"
+      "gloss": "y entregó su vida"
     },
     {
       "surface": "לדבר",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "הסגיר",
-      "english": "la peste"
+      "gloss": "la peste"
     }
-  ],
-  "timestamp": "2026-07-16T23:34:17.936826351Z",
-  "model": "glm-4.5"
+  ]
 }

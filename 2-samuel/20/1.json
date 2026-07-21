@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 20:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 20,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:37:15.002090807Z",
+  "translation": "Y allí se encontró un hombre de Belial, y su nombre ⟨es⟩ Seba, hijo de Bicri, un benjamita, y ⟨él⟩ tocó la trompeta y dijo: No tenemos parte en David, ni heredad ⟨tenemos⟩ en ⟨el⟩ hijo de Isaí; cada hombre a sus tiendas, oh Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Y allí"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "se encontró"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un hombre"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "de Belial"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "y su nombre"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "⟨es⟩ Seba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "de Bicri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "benjamita"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "y ⟨él⟩ tocó"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "la trompeta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "No tenemos"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tenemos"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "parte"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "en David"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "heredad ⟨tenemos⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tenemos"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "en ⟨el⟩"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "hijo de Isaí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada hombre"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "a sus tiendas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "oh Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,124 +120,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 742,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18422,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 19164
-  },
-  "translation": "Y allí se encontró un hombre de Belial, y su nombre ⟨es⟩ Seba, hijo de Bicri, un benjamita, y ⟨él⟩ tocó la trompeta y dijo: No tenemos parte en David, ni heredad ⟨tenemos⟩ en ⟨el⟩ hijo de Isaí; cada hombre a sus tiendas, oh Yisrael.",
-  "tokens": [
-    {
-      "surface": "ושם",
-      "english": "Y allí"
-    },
-    {
-      "surface": "נקרא",
-      "english": "se encontró"
-    },
-    {
-      "surface": "איש",
-      "english": "un hombre"
-    },
-    {
-      "surface": "בליעל",
-      "english": "de Belial"
-    },
-    {
-      "surface": "ושמו",
-      "english": "y su nombre"
-    },
-    {
-      "surface": "שבע",
-      "english": "⟨es⟩ Seba"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "בכרי",
-      "english": "de Bicri"
-    },
-    {
-      "surface": "איש",
-      "english": "un"
-    },
-    {
-      "surface": "ימיני",
-      "english": "benjamita"
-    },
-    {
-      "surface": "ויתקע",
-      "english": "y ⟨él⟩ tocó"
-    },
-    {
-      "surface": "בשפר",
-      "english": "la trompeta"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "אין",
-      "english": "No tenemos"
-    },
-    {
-      "surface": "לנו",
-      "english": "tenemos"
-    },
-    {
-      "surface": "חלק",
-      "english": "parte"
-    },
-    {
-      "surface": "בדוד",
-      "english": "en David"
-    },
-    {
-      "surface": "ולא",
-      "english": "ni"
-    },
-    {
-      "surface": "נחלה",
-      "english": "heredad ⟨tenemos⟩"
-    },
-    {
-      "surface": "לנו",
-      "english": "tenemos"
-    },
-    {
-      "surface": "בבן",
-      "english": "en ⟨el⟩"
-    },
-    {
-      "surface": "ישי",
-      "english": "hijo de Isaí"
-    },
-    {
-      "surface": "איש",
-      "english": "cada hombre"
-    },
-    {
-      "surface": "לאהליו",
-      "english": "a sus tiendas"
-    },
-    {
-      "surface": "ישראל",
-      "english": "oh Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:37:15.002090807Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

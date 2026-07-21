@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 147:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 555,
-    "prompt_tokens": 69994,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70549
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:31.274090716Z",
   "translation": "Él envía su palabra y los derrite; ⟨él⟩ hace soplar su viento, y fluyen las aguas.",
   "tokens": [
     {
       "surface": "יִשְׁלַח",
-      "english": "Él envía"
+      "gloss": "Él envía"
     },
     {
       "surface": "דְּבָר֣\/וֹ",
-      "english": "su palabra"
+      "gloss": "su palabra"
     },
     {
       "surface": "וְ\/יַמְסֵ֑\/ם",
-      "english": "y los derrite"
+      "gloss": "y los derrite"
     },
     {
       "surface": "יַשֵּׁ֥ב",
-      "english": "⟨él⟩ hace soplar"
+      "gloss": "⟨él⟩ hace soplar"
     },
     {
       "surface": "ר֝וּח֗\/וֹ",
-      "english": "su viento"
+      "gloss": "su viento"
     },
     {
       "surface": "יִזְּלוּ",
-      "english": "y fluyen"
+      "gloss": "y fluyen"
     },
     {
       "surface": "מָֽיִם",
-      "english": "las aguas"
+      "gloss": "las aguas"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:31.274090716Z",
-  "model": "glm-4.5"
+  ]
 }

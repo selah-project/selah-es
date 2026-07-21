@@ -1,80 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "amos 2:10",
   "book": "amos",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 693,
-    "prompt_tokens": 24420,
-    "prompt_tokens_details": {
-      "cached_tokens": 16384
-    },
-    "total_tokens": 25113
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:32:46.231331314Z",
   "translation": "Y yo hice subir a ⟨ustedes⟩ ⟨את⟩ de la tierra de Mitzráyim y ⟨guié⟩ a ⟨ustedes⟩ ⟨את⟩ en el desierto cuarenta años para poseer ⟨את⟩ ⟨la⟩ tierra del Emori",
   "tokens": [
     {
       "surface": "ואנכי",
-      "english": "Y yo"
+      "gloss": "Y yo"
     },
     {
       "surface": "העליתי",
-      "english": "hice subir"
+      "gloss": "hice subir"
     },
     {
       "surface": "אתכם",
-      "english": "a ⟨ustedes⟩",
+      "gloss": "a ⟨ustedes⟩",
       "marks": "de la tierra de Mitzráyim"
     },
     {
       "surface": "מארץ",
-      "english": "de la tierra"
+      "gloss": "de la tierra"
     },
     {
       "surface": "מצרים",
-      "english": "de Mitzráyim"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "ואולך",
-      "english": "y ⟨guié⟩"
+      "gloss": "y ⟨guié⟩"
     },
     {
       "surface": "אתכם",
-      "english": "a ⟨ustedes⟩",
+      "gloss": "a ⟨ustedes⟩",
       "marks": "en el desierto"
     },
     {
       "surface": "במדבר",
-      "english": "en el desierto"
+      "gloss": "en el desierto"
     },
     {
       "surface": "ארבעים",
-      "english": "cuarenta"
+      "gloss": "cuarenta"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "לרשת",
-      "english": "para poseer"
+      "gloss": "para poseer"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨la⟩ tierra del Emori"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "האמרי",
-      "english": "del Emori"
+      "gloss": "del Emori"
     }
-  ],
-  "timestamp": "2026-07-16T19:32:46.231331314Z",
-  "model": "glm-4.5"
+  ]
 }

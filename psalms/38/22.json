@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 38:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 69928,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70352
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:23.781788193Z",
   "translation": "No me abandones, YHWH Elohim mío; no te alejes de mí",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תעזבני",
-      "english": "me abandones"
+      "gloss": "me abandones"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim mío"
+      "gloss": "Elohim mío"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תרחק",
-      "english": "te alejes"
+      "gloss": "te alejes"
     },
     {
       "surface": "ממני",
-      "english": "de mí"
+      "gloss": "de mí"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:23.781788193Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 66:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70056,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70448
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:35.412583210Z",
   "translation": "Volvió ⟨el⟩ mar en tierra seca ⟨en⟩ ⟨el⟩ río pasaron ⟨a⟩ pie allí nos regocijamos en él",
   "tokens": [
     {
       "surface": "הפך",
-      "english": "Volvió"
+      "gloss": "Volvió"
     },
     {
       "surface": "ים",
-      "english": "⟨el⟩ mar",
+      "gloss": "⟨el⟩ mar",
       "marks": "mar"
     },
     {
       "surface": "ליבשה",
-      "english": "en tierra seca"
+      "gloss": "en tierra seca"
     },
     {
       "surface": "בנהר",
-      "english": "⟨en⟩ ⟨el⟩ río",
+      "gloss": "⟨en⟩ ⟨el⟩ río",
       "marks": "río"
     },
     {
       "surface": "יעברו",
-      "english": "pasaron"
+      "gloss": "pasaron"
     },
     {
       "surface": "ברגל",
-      "english": "⟨a⟩ pie"
+      "gloss": "⟨a⟩ pie"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "נשמחה",
-      "english": "nos regocijamos"
+      "gloss": "nos regocijamos"
     },
     {
       "surface": "בו",
-      "english": "en él"
+      "gloss": "en él"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:35.412583210Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-samuel 27:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 27,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:12:13.360764950Z",
+  "translation": "Y Davidd dijo a Akish: Si, por favor, he encontrado gracia ⟨a⟩ ⟨tus⟩ ojos, que me den ⟨un⟩ lugar en una de ⟨las⟩ ciudades ⟨del⟩ campo, y yo viva allí. ¿Y por qué ⟨el⟩ siervo ⟨de⟩ tu Majestad ⟨debe⟩ vivir en ⟨la⟩ ciudad ⟨de⟩ ⟨el⟩ reino contigo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y David dijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "נא",
+      "gloss": "por favor"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "he encontrado"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gracia"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "⟨a⟩ ⟨tus⟩ ojos"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "que me den"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "⟨un⟩ lugar"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "en una"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "⟨las⟩ ciudades"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨del⟩ campo"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "y yo viva"
+    },
+    {
+      "surface": "שם",
+      "gloss": "allí"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "¿Y por qué"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨debe⟩ vivir"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨el⟩ siervo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "en ⟨la⟩ ciudad"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "⟨de⟩ ⟨el⟩ reino"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "contigo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,116 +112,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 984,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17471,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 18455
-  },
-  "translation": "Y Davidd dijo a Akish: Si, por favor, he encontrado gracia ⟨a⟩ ⟨tus⟩ ojos, que me den ⟨un⟩ lugar en una de ⟨las⟩ ciudades ⟨del⟩ campo, y yo viva allí. ¿Y por qué ⟨el⟩ siervo ⟨de⟩ tu Majestad ⟨debe⟩ vivir en ⟨la⟩ ciudad ⟨de⟩ ⟨el⟩ reino contigo?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y David dijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אכיש",
-      "english": "Akish"
-    },
-    {
-      "surface": "אם",
-      "english": "Si"
-    },
-    {
-      "surface": "נא",
-      "english": "por favor"
-    },
-    {
-      "surface": "מצאתי",
-      "english": "he encontrado"
-    },
-    {
-      "surface": "חן",
-      "english": "gracia"
-    },
-    {
-      "surface": "בעיניך",
-      "english": "⟨a⟩ ⟨tus⟩ ojos"
-    },
-    {
-      "surface": "יתנו",
-      "english": "que me den"
-    },
-    {
-      "surface": "לי",
-      "english": "a mí"
-    },
-    {
-      "surface": "מקום",
-      "english": "⟨un⟩ lugar"
-    },
-    {
-      "surface": "באחת",
-      "english": "en una"
-    },
-    {
-      "surface": "ערי",
-      "english": "⟨las⟩ ciudades"
-    },
-    {
-      "surface": "השדה",
-      "english": "⟨del⟩ campo"
-    },
-    {
-      "surface": "ואשבה",
-      "english": "y yo viva"
-    },
-    {
-      "surface": "שם",
-      "english": "allí"
-    },
-    {
-      "surface": "ולמה",
-      "english": "¿Y por qué"
-    },
-    {
-      "surface": "ישב",
-      "english": "⟨debe⟩ vivir"
-    },
-    {
-      "surface": "עבדך",
-      "english": "⟨el⟩ siervo"
-    },
-    {
-      "surface": "בעיר",
-      "english": "en ⟨la⟩ ciudad"
-    },
-    {
-      "surface": "הממלכה",
-      "english": "⟨de⟩ ⟨el⟩ reino"
-    },
-    {
-      "surface": "עמך",
-      "english": "contigo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:12:13.360764950Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

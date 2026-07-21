@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 3:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70031,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70531
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:58:27.698680591Z",
   "translation": "No ⟨temeré⟩ ⟨del⟩ gran ⟨número⟩ ⟨de⟩ ⟨el⟩ pueblo ⟨que⟩ ⟨alrededor⟩ ⟨de⟩ mí ⟨se⟩ ⟨dispuso⟩ ⟨contra⟩ mí",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "אירא",
-      "english": "⟨temeré⟩"
+      "gloss": "⟨temeré⟩"
     },
     {
       "surface": "מרבבות",
-      "english": "⟨del⟩ gran ⟨número⟩"
+      "gloss": "⟨del⟩ gran ⟨número⟩"
     },
     {
       "surface": "עם",
-      "english": "⟨de⟩ ⟨el⟩ pueblo"
+      "gloss": "⟨de⟩ ⟨el⟩ pueblo"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "סביב",
-      "english": "⟨alrededor⟩ ⟨de⟩"
+      "gloss": "⟨alrededor⟩ ⟨de⟩"
     },
     {
       "surface": "שתו",
-      "english": "⟨se⟩ ⟨dispuso⟩"
+      "gloss": "⟨se⟩ ⟨dispuso⟩"
     },
     {
       "surface": "עלי",
-      "english": "⟨contra⟩ mí"
+      "gloss": "⟨contra⟩ mí"
     }
-  ],
-  "timestamp": "2026-06-09T22:58:27.698680591Z",
-  "model": "glm-4.5"
+  ]
 }

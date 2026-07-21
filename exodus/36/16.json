@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 36:16",
   "book": "exodus",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 24101,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24487
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:26:42.050949386Z",
   "translation": "y unió ⟨את⟩ las cinco cortinas por sí mismo, y ⟨את⟩ las seis cortinas por sí mismo",
   "tokens": [
     {
       "surface": "ויחבר",
-      "english": "y unió"
+      "gloss": "y unió"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las cinco cortinas"
     },
     {
       "surface": "חמש",
-      "english": "cinco"
+      "gloss": "cinco"
     },
     {
       "surface": "היריעת",
-      "english": "cortinas"
+      "gloss": "cortinas"
     },
     {
       "surface": "לבד",
-      "english": "por sí mismo"
+      "gloss": "por sí mismo"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "las seis cortinas"
     },
     {
       "surface": "שש",
-      "english": "seis"
+      "gloss": "seis"
     },
     {
       "surface": "היריעת",
-      "english": "cortinas"
+      "gloss": "cortinas"
     },
     {
       "surface": "לבד",
-      "english": "por sí mismo"
+      "gloss": "por sí mismo"
     }
-  ],
-  "timestamp": "2026-07-16T20:26:42.050949386Z",
-  "model": "glm-4.5"
+  ]
 }

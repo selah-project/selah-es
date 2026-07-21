@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "jeremiah 11:18",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24380,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24817
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:12:22.884765377Z",
   "translation": "Y YHWH ⟨el⟩ informaste y yo supe entonces ⟨tú⟩ me mostraste ⟨los⟩ actos de ellos",
   "tokens": [
     {
       "surface": "ויהוה",
-      "english": "Y YHWH"
+      "gloss": "Y YHWH"
     },
     {
       "surface": "הודיעני",
-      "english": "⟨el⟩ informaste"
+      "gloss": "⟨el⟩ informaste"
     },
     {
       "surface": "ואדעה",
-      "english": "y yo supe"
+      "gloss": "y yo supe"
     },
     {
       "surface": "אז",
-      "english": "entonces"
+      "gloss": "entonces"
     },
     {
       "surface": "הראיתני",
-      "english": "⟨tú⟩ me mostraste"
+      "gloss": "⟨tú⟩ me mostraste"
     },
     {
       "surface": "מעלליהם",
-      "english": "⟨los⟩ actos de ellos"
+      "gloss": "⟨los⟩ actos de ellos"
     }
-  ],
-  "timestamp": "2026-06-10T03:12:22.884765377Z",
-  "model": "glm-4.5"
+  ]
 }

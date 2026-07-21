@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "joshua 22:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 22,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:38:10.230158973Z",
+  "translation": "Y los hijos de Yisrael oyeron ⟨y⟩ se congregó toda la congregación de los hijos de Yisrael en Shiloh para subir contra ellos para ⟨la⟩ guerra.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Y oyeron"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "⟨y⟩ se congregó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "la congregación"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "en Shiloh"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "para subir"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "contra ellos"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "para ⟨la⟩ guerra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,72 +75,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16479,
-    "prompt_tokens_details": {
-      "cached_tokens": 14942
-    },
-    "total_tokens": 16876
-  },
-  "translation": "Y los hijos de Yisrael oyeron ⟨y⟩ se congregó toda la congregación de los hijos de Yisrael en Shiloh para subir contra ellos para ⟨la⟩ guerra.",
-  "tokens": [
-    {
-      "surface": "וישמעו",
-      "english": "Y oyeron"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויקהלו",
-      "english": "⟨y⟩ se congregó"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "עדת",
-      "english": "la congregación"
-    },
-    {
-      "surface": "בני",
-      "english": "de los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "שלה",
-      "english": "en Shiloh"
-    },
-    {
-      "surface": "לעלות",
-      "english": "para subir"
-    },
-    {
-      "surface": "עליהם",
-      "english": "contra ellos"
-    },
-    {
-      "surface": "לצבא",
-      "english": "para ⟨la⟩ guerra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:38:10.230158973Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

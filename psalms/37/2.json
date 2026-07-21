@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 37:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69904,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70238
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:33.016638959Z",
   "translation": "pues como ⟨el⟩ césped presto serán cortados y como ⟨el⟩ verdor de ⟨la⟩ hierba se marchitarán",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pues"
+      "gloss": "Pues"
     },
     {
       "surface": "כחציר",
-      "english": "como ⟨el⟩ césped",
+      "gloss": "como ⟨el⟩ césped",
       "marks": "como ⟨el⟩ césped"
     },
     {
       "surface": "מהרה",
-      "english": "presto"
+      "gloss": "presto"
     },
     {
       "surface": "ימלו",
-      "english": "serán cortados"
+      "gloss": "serán cortados"
     },
     {
       "surface": "וכירק",
-      "english": "y como ⟨el⟩ verdor",
+      "gloss": "y como ⟨el⟩ verdor",
       "marks": "y como ⟨el⟩ verdor"
     },
     {
       "surface": "דשא",
-      "english": "de ⟨la⟩ hierba",
+      "gloss": "de ⟨la⟩ hierba",
       "marks": "de ⟨la⟩ hierba"
     },
     {
       "surface": "יבולון",
-      "english": "se marchitarán"
+      "gloss": "se marchitarán"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:33.016638959Z",
-  "model": "glm-4.5"
+  ]
 }

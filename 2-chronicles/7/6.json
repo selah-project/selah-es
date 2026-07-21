@@ -1,9 +1,120 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 7:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 7,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:07:10.052401571Z",
+  "translation": "Y ⟨los⟩ sacerdotes sobre sus guardias ⟨estaban⟩ de pie, y ⟨los⟩ levitas con instrumentos musicales de YHWH que Davidd ⟨el⟩ rey había hecho para alabar ⟨a⟩ YHWH, porque para siempre ⟨es⟩ su Jésed, en ⟨la⟩ alabanza de Davidd en ⟨la⟩ mano de ellos; y ⟨los⟩ sacerdores hacían sonar trompetas frente ⟨a⟩ ellos, y todo Yisrael ⟨estaba⟩ de pie.",
+  "tokens": [
+    {
+      "surface": "והכהנים",
+      "gloss": "Y ⟨los⟩ sacerdotes"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "משמרותם",
+      "gloss": "sus guardias"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "⟨estaban⟩ de pie"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "y ⟨los⟩ levitas"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "con instrumentos"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "musicales"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "había hecho"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "para alabar ⟨a⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para siempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨es⟩ su Jésed"
+    },
+    {
+      "surface": "בהלל",
+      "gloss": "en ⟨la⟩ alabanza"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "en ⟨la⟩ mano de ellos"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "y ⟨los⟩ sacerdotes"
+    },
+    {
+      "surface": "מחצצרים",
+      "gloss": "hacían sonar trompetas"
+    },
+    {
+      "surface": "נגדם",
+      "gloss": "frente ⟨a⟩ ellos"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "⟨estaba⟩ de pie"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -34,128 +145,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 1078,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59659,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60737
-  },
-  "translation": "Y ⟨los⟩ sacerdotes sobre sus guardias ⟨estaban⟩ de pie, y ⟨los⟩ levitas con instrumentos musicales de YHWH que Davidd ⟨el⟩ rey había hecho para alabar ⟨a⟩ YHWH, porque para siempre ⟨es⟩ su Jésed, en ⟨la⟩ alabanza de Davidd en ⟨la⟩ mano de ellos; y ⟨los⟩ sacerdores hacían sonar trompetas frente ⟨a⟩ ellos, y todo Yisrael ⟨estaba⟩ de pie.",
-  "tokens": [
-    {
-      "surface": "והכהנים",
-      "english": "Y ⟨los⟩ sacerdotes"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "משמרותם",
-      "english": "sus guardias"
-    },
-    {
-      "surface": "עמדים",
-      "english": "⟨estaban⟩ de pie"
-    },
-    {
-      "surface": "והלוים",
-      "english": "y ⟨los⟩ levitas"
-    },
-    {
-      "surface": "בכלי",
-      "english": "con instrumentos"
-    },
-    {
-      "surface": "שיר",
-      "english": "musicales"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "había hecho"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "להדות",
-      "english": "para alabar ⟨a⟩"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לעולם",
-      "english": "para siempre"
-    },
-    {
-      "surface": "חסדו",
-      "english": "⟨es⟩ su Jésed"
-    },
-    {
-      "surface": "בהלל",
-      "english": "en ⟨la⟩ alabanza"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "בידם",
-      "english": "en ⟨la⟩ mano de ellos"
-    },
-    {
-      "surface": "והכהנים",
-      "english": "y ⟨los⟩ sacerdotes"
-    },
-    {
-      "surface": "מחצצרים",
-      "english": "hacían sonar trompetas"
-    },
-    {
-      "surface": "נגדם",
-      "english": "frente ⟨a⟩ ellos"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "עמדים",
-      "english": "⟨estaba⟩ de pie"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:07:10.052401571Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

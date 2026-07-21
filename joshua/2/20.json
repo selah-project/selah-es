@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "joshua 2:20",
   "book": "joshua",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 456,
-    "prompt_tokens": 23838,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 24294
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:07:00.046132054Z",
   "translation": "Y si ⟨tú⟩ relatas ⟨את⟩ este asunto nuestro, entonces estaremos exentos de tu juramento que nos has hecho jurar.",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "Y si"
+      "gloss": "Y si"
     },
     {
       "surface": "תגידי",
-      "english": "relatas"
+      "gloss": "relatas"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "este asunto nuestro"
     },
     {
       "surface": "דברנו",
-      "english": "este asunto nuestro"
+      "gloss": "este asunto nuestro"
     },
     {
       "surface": "זה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "והיינו",
-      "english": "entonces estaremos"
+      "gloss": "entonces estaremos"
     },
     {
       "surface": "נקים",
-      "english": "exentos"
+      "gloss": "exentos"
     },
     {
       "surface": "משבעתך",
-      "english": "de tu juramento"
+      "gloss": "de tu juramento"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "השבעתנו",
-      "english": "nos has hecho jurar"
+      "gloss": "nos has hecho jurar"
     }
-  ],
-  "timestamp": "2026-07-16T22:07:00.046132054Z",
-  "model": "glm-4.5"
+  ]
 }

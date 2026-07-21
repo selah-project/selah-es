@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 89:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69926,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70328
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:42.140068216Z",
   "translation": "Porque ⟨el⟩ ornamento de ⟨su⟩ fortaleza ⟨es⟩ tú, y en ⟨el⟩ favor de ti exaltarás nuestro poderío",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "תפארת",
-      "english": "⟨el⟩ ornamento"
+      "gloss": "⟨el⟩ ornamento"
     },
     {
       "surface": "עזמו",
-      "english": "de ⟨su⟩ fortaleza"
+      "gloss": "de ⟨su⟩ fortaleza"
     },
     {
       "surface": "אתה",
-      "english": "⟨es⟩ tú"
+      "gloss": "⟨es⟩ tú"
     },
     {
       "surface": "וברצנך",
-      "english": "y en ⟨el⟩ favor de ti"
+      "gloss": "y en ⟨el⟩ favor de ti"
     },
     {
       "surface": "תרים",
-      "english": "exaltarás"
+      "gloss": "exaltarás"
     },
     {
       "surface": "קרננו",
-      "english": "nuestro poderío"
+      "gloss": "nuestro poderío"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:42.140068216Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 143:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 685,
-    "prompt_tokens": 70443,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71128
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:33.822025443Z",
   "translation": "Un mizmor de David: YHWH, oye mi oración; presta oído ⟨a⟩ mi súplica; en tu fidelidad respóndeme, en tu justicia.",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "Un mizmor"
+      "gloss": "Un mizmor"
     },
     {
       "surface": "לדוד",
-      "english": "de David"
+      "gloss": "de David"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שמע",
-      "english": "oye"
+      "gloss": "oye"
     },
     {
       "surface": "תפלתי",
-      "english": "mi oración"
+      "gloss": "mi oración"
     },
     {
       "surface": "האזינה",
-      "english": "presta oído"
+      "gloss": "presta oído"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "mi súplica"
     },
     {
       "surface": "תחנוני",
-      "english": "mi súplica"
+      "gloss": "mi súplica"
     },
     {
       "surface": "באמנתך",
-      "english": "en tu fidelidad"
+      "gloss": "en tu fidelidad"
     },
     {
       "surface": "ענני",
-      "english": "respóndeme"
+      "gloss": "respóndeme"
     },
     {
       "surface": "בצדקתך",
-      "english": "en tu justicia"
+      "gloss": "en tu justicia"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:33.822025443Z",
-  "model": "glm-4.5"
+  ]
 }

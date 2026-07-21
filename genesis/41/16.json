@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 41:16",
   "book": "genesis",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 461,
-    "prompt_tokens": 28899,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29360
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:12:11.472004535Z",
   "translation": "Yosef respondió a Paró, diciendo: Sin mí, Elohim dará a Paró una respuesta de ⟨shalom⟩.",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "respondió"
+      "gloss": "respondió"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Paró"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     },
     {
       "surface": "בלעדי",
-      "english": "sin mí"
+      "gloss": "sin mí"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יענה",
-      "english": "dará"
+      "gloss": "dará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "una respuesta de shalom"
     },
     {
       "surface": "שלום",
-      "english": "shalom"
+      "gloss": "shalom"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     }
-  ],
-  "timestamp": "2026-07-16T21:12:11.472004535Z",
-  "model": "glm-4.5"
+  ]
 }

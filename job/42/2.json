@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 42:2",
   "book": "job",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27115,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27512
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:19:04.018779275Z",
   "translation": "Sé que tú puedes todo, y ⟨el⟩ plan ⟨es⟩ irreprimible de ti.",
   "tokens": [
     {
       "surface": "ידעת",
-      "english": "Sé"
+      "gloss": "Sé"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "תוכל",
-      "english": "puedes"
+      "gloss": "puedes"
     },
     {
       "surface": "ולא",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "יבצר",
-      "english": "irreprimible"
+      "gloss": "irreprimible"
     },
     {
       "surface": "ממך",
-      "english": "de ti"
+      "gloss": "de ti"
     },
     {
       "surface": "מזמה",
-      "english": "⟨el⟩ plan"
+      "gloss": "⟨el⟩ plan"
     }
-  ],
-  "timestamp": "2026-06-10T02:19:04.018779275Z",
-  "model": "glm-4.5"
+  ]
 }

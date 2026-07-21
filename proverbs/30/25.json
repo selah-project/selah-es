@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 30:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59791,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60292
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:08.801768274Z",
   "translation": "Las hormigas ⟨son⟩ un pueblo ⟨que⟩ no ⟨es⟩ fuerte, y ⟨sin embargo⟩ preparan ⟨el⟩ alimento en ⟨el⟩ verano para ⟨sí⟩ mismas",
   "tokens": [
     {
       "surface": "הנמלים",
-      "english": "Las hormigas"
+      "gloss": "Las hormigas"
     },
     {
       "surface": "עם",
-      "english": "un pueblo"
+      "gloss": "un pueblo"
     },
     {
       "surface": "לא",
-      "english": "⟨que⟩ no ⟨es⟩"
+      "gloss": "⟨que⟩ no ⟨es⟩"
     },
     {
       "surface": "עז",
-      "english": "fuerte"
+      "gloss": "fuerte"
     },
     {
       "surface": "ויכינו",
-      "english": "y ⟨sin embargo⟩ preparan"
+      "gloss": "y ⟨sin embargo⟩ preparan"
     },
     {
       "surface": "בקיץ",
-      "english": "en ⟨el⟩ verano"
+      "gloss": "en ⟨el⟩ verano"
     },
     {
       "surface": "לחמם",
-      "english": "⟨el⟩ alimento para ⟨sí⟩ mismas"
+      "gloss": "⟨el⟩ alimento para ⟨sí⟩ mismas"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:08.801768274Z",
-  "model": "glm-4.5"
+  ]
 }

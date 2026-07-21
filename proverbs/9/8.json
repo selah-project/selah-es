@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 9:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 389,
-    "prompt_tokens": 60078,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60467
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:18:27.038533417Z",
   "translation": "No reprendas al escarnecedor, ⟨para que⟩ no te aborrezca; reprende al sabio y te amará.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תוכח",
-      "english": "reprendas"
+      "gloss": "reprendas"
     },
     {
       "surface": "לץ",
-      "english": "al escarnecedor"
+      "gloss": "al escarnecedor"
     },
     {
       "surface": "פן",
-      "english": "⟨para que⟩",
+      "gloss": "⟨para que⟩",
       "marks": "no te aborrezca"
     },
     {
       "surface": "ישנאך",
-      "english": "no te aborrezca"
+      "gloss": "no te aborrezca"
     },
     {
       "surface": "הוכח",
-      "english": "reprende"
+      "gloss": "reprende"
     },
     {
       "surface": "לחכם",
-      "english": "al sabio"
+      "gloss": "al sabio"
     },
     {
       "surface": "ויאהבך",
-      "english": "y te amará"
+      "gloss": "y te amará"
     }
-  ],
-  "timestamp": "2026-07-16T23:18:27.038533417Z",
-  "model": "glm-4.5"
+  ]
 }

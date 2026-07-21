@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "jeremiah 15:12",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24151,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24574
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:15:53.431608839Z",
   "translation": "¿⟨Acaso⟩ hierro ⟨con⟩ hierro desde el norte y ⟨con⟩ bronce?",
   "tokens": [
     {
       "surface": "הירע",
-      "english": "¿⟨Acaso⟩"
+      "gloss": "¿⟨Acaso⟩"
     },
     {
       "surface": "ברזל",
-      "english": "hierro"
+      "gloss": "hierro"
     },
     {
       "surface": "ברזל",
-      "english": "⟨con⟩ hierro"
+      "gloss": "⟨con⟩ hierro"
     },
     {
       "surface": "מצפון",
-      "english": "desde el norte"
+      "gloss": "desde el norte"
     },
     {
       "surface": "ונחשת",
-      "english": "y ⟨con⟩ bronce"
+      "gloss": "y ⟨con⟩ bronce"
     }
-  ],
-  "timestamp": "2026-06-10T03:15:53.431608839Z",
-  "model": "glm-4.5"
+  ]
 }

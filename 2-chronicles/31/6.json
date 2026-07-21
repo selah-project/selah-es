@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 31:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 31,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:34:37.210538497Z",
+  "translation": "Y los hijos de Yisrael y de Yehudá, los que habitaban en las ciudades de Yehudá, también ellos trajeron ⟨el⟩ diezmo de ganado vacuno y de ganado ovino, y ⟨el⟩ diezmo de las cosas sagradas, ⟨que⟩ habían consagrado a YHWH su Elohim, y dieron montones, montones.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Y los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "y de Judá"
+    },
+    {
+      "surface": "היושבים",
+      "gloss": "los que habitaban"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "en las ciudades"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "גם",
+      "gloss": "también"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ellos"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "⟨el⟩ diezmo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de ganado vacuno"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "y de ganado ovino"
+    },
+    {
+      "surface": "ומעשר",
+      "gloss": "y ⟨el⟩ diezmo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "de las cosas sagradas"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "⟨que⟩ habían consagrado"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "trajeron"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "y dieron"
+    },
+    {
+      "surface": "ערמות",
+      "gloss": "montones"
+    },
+    {
+      "surface": "ערמות",
+      "gloss": "montones"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,104 +107,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 784,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59006,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 59790
-  },
-  "translation": "Y los hijos de Yisrael y de Yehudá, los que habitaban en las ciudades de Yehudá, también ellos trajeron ⟨el⟩ diezmo de ganado vacuno y de ganado ovino, y ⟨el⟩ diezmo de las cosas sagradas, ⟨que⟩ habían consagrado a YHWH su Elohim, y dieron montones, montones.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "Y los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "y de Judá"
-    },
-    {
-      "surface": "היושבים",
-      "english": "los que habitaban"
-    },
-    {
-      "surface": "בערי",
-      "english": "en las ciudades"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "גם",
-      "english": "también"
-    },
-    {
-      "surface": "הם",
-      "english": "ellos"
-    },
-    {
-      "surface": "מעשר",
-      "english": "⟨el⟩ diezmo"
-    },
-    {
-      "surface": "בקר",
-      "english": "de ganado vacuno"
-    },
-    {
-      "surface": "וצאן",
-      "english": "y de ganado ovino"
-    },
-    {
-      "surface": "ומעשר",
-      "english": "y ⟨el⟩ diezmo"
-    },
-    {
-      "surface": "קדשים",
-      "english": "de las cosas sagradas"
-    },
-    {
-      "surface": "המקדשים",
-      "english": "⟨que⟩ habían consagrado"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "אלהיהם",
-      "english": "su Elohim"
-    },
-    {
-      "surface": "הביאו",
-      "english": "trajeron"
-    },
-    {
-      "surface": "ויתנו",
-      "english": "y dieron"
-    },
-    {
-      "surface": "ערמות",
-      "english": "montones"
-    },
-    {
-      "surface": "ערמות",
-      "english": "montones"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:34:37.210538497Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

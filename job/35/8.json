@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 35:8",
   "book": "job",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26994,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27289
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:13:18.689784854Z",
   "translation": "Para un hombre ⟨como⟩ tú ⟨es⟩ tu maldad, y para un hijo de ⟨hombre⟩ tu rectitud",
   "tokens": [
     {
       "surface": "לאיש",
-      "english": "Para un hombre"
+      "gloss": "Para un hombre"
     },
     {
       "surface": "כמוך",
-      "english": "⟨como⟩ tú"
+      "gloss": "⟨como⟩ tú"
     },
     {
       "surface": "רשעך",
-      "english": "tu maldad"
+      "gloss": "tu maldad"
     },
     {
       "surface": "ולבן",
-      "english": "y para un hijo de"
+      "gloss": "y para un hijo de"
     },
     {
       "surface": "אדם",
-      "english": "⟨hombre⟩"
+      "gloss": "⟨hombre⟩"
     },
     {
       "surface": "צדקתך",
-      "english": "tu rectitud"
+      "gloss": "tu rectitud"
     }
-  ],
-  "timestamp": "2026-06-10T02:13:18.689784854Z",
-  "model": "glm-4.5"
+  ]
 }

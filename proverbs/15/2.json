@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 15:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59934,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60395
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:39:00.912673688Z",
   "translation": "La lengua de ⟨los⟩ sabios hace ⟨lo⟩ bien ⟨al⟩ conocimiento, y ⟨la⟩ boca de ⟨los⟩ insensatos derrama ⟨la⟩ insensatez.",
   "tokens": [
     {
       "surface": "לשון",
-      "english": "La lengua"
+      "gloss": "La lengua"
     },
     {
       "surface": "חכמים",
-      "english": "de ⟨los⟩ sabios"
+      "gloss": "de ⟨los⟩ sabios"
     },
     {
       "surface": "תיטיב",
-      "english": "hace ⟨lo⟩ bien ⟨al⟩"
+      "gloss": "hace ⟨lo⟩ bien ⟨al⟩"
     },
     {
       "surface": "דעת",
-      "english": "conocimiento"
+      "gloss": "conocimiento"
     },
     {
       "surface": "ופי",
-      "english": "y ⟨la⟩ boca"
+      "gloss": "y ⟨la⟩ boca"
     },
     {
       "surface": "כסילים",
-      "english": "de ⟨los⟩ insensatos"
+      "gloss": "de ⟨los⟩ insensatos"
     },
     {
       "surface": "יביע",
-      "english": "derrama ⟨la⟩"
+      "gloss": "derrama ⟨la⟩"
     },
     {
       "surface": "אולת",
-      "english": "insensatez"
+      "gloss": "insensatez"
     }
-  ],
-  "timestamp": "2026-06-10T01:39:00.912673688Z",
-  "model": "glm-4.5"
+  ]
 }

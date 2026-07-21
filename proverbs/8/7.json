@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "proverbs 8:7",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59839,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60291
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:33:50.567561066Z",
   "translation": "porque ⟨el⟩ emet ⟨verdad⟩ murmurará mi paladar y ⟨la⟩ abominación de mis labios ⟨es⟩ ⟨el⟩ resha ⟨hecho malvado⟩",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אמת",
-      "english": "⟨el⟩ emet ⟨verdad⟩"
+      "gloss": "⟨el⟩ emet ⟨verdad⟩"
     },
     {
       "surface": "יהגה",
-      "english": "murmurará"
+      "gloss": "murmurará"
     },
     {
       "surface": "חכי",
-      "english": "mi paladar"
+      "gloss": "mi paladar"
     },
     {
       "surface": "ותועבת",
-      "english": "y ⟨la⟩ abominación"
+      "gloss": "y ⟨la⟩ abominación"
     },
     {
       "surface": "שפתי",
-      "english": "de mis labios"
+      "gloss": "de mis labios"
     },
     {
       "surface": "רשע",
-      "english": "⟨es⟩ ⟨el⟩ resha ⟨hecho malvado⟩"
+      "gloss": "⟨es⟩ ⟨el⟩ resha ⟨hecho malvado⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:33:50.567561066Z",
-  "model": "glm-4.5"
+  ]
 }

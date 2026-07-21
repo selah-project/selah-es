@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 39:13",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27069,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27566
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:16:20.293696117Z",
   "translation": "El ala ⟨de⟩ las avestruces ⟨se⟩ alegra ⟨alegremente⟩, ⟨si⟩ la pluma ⟨de⟩ la cigüeña ⟨y⟩ ⟨la⟩ pluma ⟨de⟩ la garza",
   "tokens": [
     {
       "surface": "כנף",
-      "english": "El ala"
+      "gloss": "El ala"
     },
     {
       "surface": "רננים",
-      "english": "⟨de⟩ las avestruces"
+      "gloss": "⟨de⟩ las avestruces"
     },
     {
       "surface": "נעלסה",
-      "english": "⟨se⟩ alegra ⟨alegremente⟩"
+      "gloss": "⟨se⟩ alegra ⟨alegremente⟩"
     },
     {
       "surface": "אם",
-      "english": "⟨si⟩"
+      "gloss": "⟨si⟩"
     },
     {
       "surface": "אברה",
-      "english": "la pluma ⟨de⟩"
+      "gloss": "la pluma ⟨de⟩"
     },
     {
       "surface": "חסידה",
-      "english": "la cigüeña"
+      "gloss": "la cigüeña"
     },
     {
       "surface": "ונצה",
-      "english": "⟨y⟩ ⟨la⟩ pluma ⟨de⟩ la garza"
+      "gloss": "⟨y⟩ ⟨la⟩ pluma ⟨de⟩ la garza"
     }
-  ],
-  "timestamp": "2026-06-10T02:16:20.293696117Z",
-  "model": "glm-4.5"
+  ]
 }

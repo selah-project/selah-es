@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 104:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69770,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70063
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:51:10.873364766Z",
   "translation": "Él hizo ⟨el⟩ luna para ⟨las⟩ tiempos señalados; ⟨el⟩ sol conoce su puesta",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "Él hizo"
+      "gloss": "Él hizo"
     },
     {
       "surface": "ירח",
-      "english": "⟨el⟩ luna"
+      "gloss": "⟨el⟩ luna"
     },
     {
       "surface": "למועדים",
-      "english": "para ⟨las⟩ tiempos señalados"
+      "gloss": "para ⟨las⟩ tiempos señalados"
     },
     {
       "surface": "שמש",
-      "english": "⟨el⟩ sol"
+      "gloss": "⟨el⟩ sol"
     },
     {
       "surface": "ידע",
-      "english": "conoce"
+      "gloss": "conoce"
     },
     {
       "surface": "מבואו",
-      "english": "su puesta"
+      "gloss": "su puesta"
     }
-  ],
-  "timestamp": "2026-06-09T23:51:10.873364766Z",
-  "model": "glm-4.5"
+  ]
 }

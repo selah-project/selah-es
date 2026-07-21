@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 40:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69963,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70380
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:17:37.343694437Z",
   "translation": "Entonces dije: ⟨He⟩ venido; en ⟨el⟩ rollo ⟨del⟩ libro está escrito sobre mí",
   "tokens": [
     {
       "surface": "אז",
-      "english": "Entonces"
+      "gloss": "Entonces"
     },
     {
       "surface": "אמרתי",
-      "english": "dije"
+      "gloss": "dije"
     },
     {
       "surface": "הנה",
-      "english": "⟨He⟩"
+      "gloss": "⟨He⟩"
     },
     {
       "surface": "באתי",
-      "english": "venido"
+      "gloss": "venido"
     },
     {
       "surface": "במגלת",
-      "english": "en ⟨el⟩ rollo"
+      "gloss": "en ⟨el⟩ rollo"
     },
     {
       "surface": "ספר",
-      "english": "⟨del⟩ libro"
+      "gloss": "⟨del⟩ libro"
     },
     {
       "surface": "כתוב",
-      "english": "está escrito"
+      "gloss": "está escrito"
     },
     {
       "surface": "עלי",
-      "english": "sobre mí"
+      "gloss": "sobre mí"
     }
-  ],
-  "timestamp": "2026-06-09T23:17:37.343694437Z",
-  "model": "glm-4.5"
+  ]
 }

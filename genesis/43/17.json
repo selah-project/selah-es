@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 43:17",
   "book": "genesis",
-  "lang": "es",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28687,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29129
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:40:32.353033904Z",
   "translation": "Y el hombre hizo ⟨como⟩ había dicho Yosef ⟨y⟩ trajo el hombre ⟨a⟩ los hombres ⟨a⟩ ⟨la⟩ casa de Yosef",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "Y el hombre hizo"
+      "gloss": "Y el hombre hizo"
     },
     {
       "surface": "האיש",
-      "english": "el hombre"
+      "gloss": "el hombre"
     },
     {
       "surface": "כאשר",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "אמר",
-      "english": "había dicho"
+      "gloss": "había dicho"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "ויבא",
-      "english": "⟨y⟩ trajo"
+      "gloss": "⟨y⟩ trajo"
     },
     {
       "surface": "האיש",
-      "english": "el hombre"
+      "gloss": "el hombre"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "los hombres"
     },
     {
       "surface": "האנשים",
-      "english": "los hombres"
+      "gloss": "los hombres"
     },
     {
       "surface": "ביתה",
-      "english": "⟨a⟩ ⟨la⟩ casa"
+      "gloss": "⟨a⟩ ⟨la⟩ casa"
     },
     {
       "surface": "יוסף",
-      "english": "de Yosef"
+      "gloss": "de Yosef"
     }
-  ],
-  "timestamp": "2026-06-10T05:40:32.353033904Z",
-  "model": "glm-4.5"
+  ]
 }

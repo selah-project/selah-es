@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 18:24",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69720,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70065
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:24.020781471Z",
   "translation": "Y fui ⟨soy⟩ perfecto ⟨en⟩ con ⟨él⟩ y me guardé ⟨de⟩ mi iniquidad",
   "tokens": [
     {
       "surface": "ואהי",
-      "english": "Y fui"
+      "gloss": "Y fui"
     },
     {
       "surface": "תמים",
-      "english": "⟨soy⟩ perfecto"
+      "gloss": "⟨soy⟩ perfecto"
     },
     {
       "surface": "עמו",
-      "english": "⟨en⟩ con ⟨él⟩"
+      "gloss": "⟨en⟩ con ⟨él⟩"
     },
     {
       "surface": "ואשתמר",
-      "english": "y me guardé"
+      "gloss": "y me guardé"
     },
     {
       "surface": "מעוני",
-      "english": "⟨de⟩ mi iniquidad"
+      "gloss": "⟨de⟩ mi iniquidad"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:24.020781471Z",
-  "model": "glm-4.5"
+  ]
 }

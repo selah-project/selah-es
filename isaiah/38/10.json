@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 38:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26282,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26789
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:44:13.017907864Z",
   "translation": "Yo dije ⟨en⟩ medio de mis días: ⟨yo⟩ iré ⟨a⟩ ⟨las⟩ puertas ⟨del⟩ Seol; ⟨yo⟩ ⟨he⟩ registrado ⟨el⟩ resto ⟨de⟩ mis años.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "אמרתי",
-      "english": "dije"
+      "gloss": "dije"
     },
     {
       "surface": "בדמי",
-      "english": "⟨en⟩ medio de"
+      "gloss": "⟨en⟩ medio de"
     },
     {
       "surface": "ימי",
-      "english": "mis días"
+      "gloss": "mis días"
     },
     {
       "surface": "אלכה",
-      "english": "⟨yo⟩ iré"
+      "gloss": "⟨yo⟩ iré"
     },
     {
       "surface": "בשערי",
-      "english": "⟨a⟩ ⟨las⟩ puertas ⟨del⟩"
+      "gloss": "⟨a⟩ ⟨las⟩ puertas ⟨del⟩"
     },
     {
       "surface": "שאול",
-      "english": "Seol"
+      "gloss": "Seol"
     },
     {
       "surface": "פקדתי",
-      "english": "⟨yo⟩ ⟨he⟩ registrado"
+      "gloss": "⟨yo⟩ ⟨he⟩ registrado"
     },
     {
       "surface": "יתר",
-      "english": "⟨el⟩ resto"
+      "gloss": "⟨el⟩ resto"
     },
     {
       "surface": "שנותי",
-      "english": "⟨de⟩ mis años"
+      "gloss": "⟨de⟩ mis años"
     }
-  ],
-  "timestamp": "2026-06-10T02:44:13.017907864Z",
-  "model": "glm-4.5"
+  ]
 }

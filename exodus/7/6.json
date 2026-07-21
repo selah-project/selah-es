@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 7:6",
   "book": "exodus",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 427,
-    "prompt_tokens": 24155,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24582
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:10:03.419263632Z",
   "translation": "Y Moshé y Aharón hicieron ⟨como⟩ YHWH ⟨את⟩-les mandó, así lo hicieron",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "Y ... hicieron"
+      "gloss": "Y ... hicieron"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ואהרן",
-      "english": "y Aharón"
+      "gloss": "y Aharón"
     },
     {
       "surface": "כאשר",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "צוה",
-      "english": "mandó"
+      "gloss": "mandó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩-les",
+      "gloss": "⟨את⟩-les",
       "marks": "a ellos"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "עשו",
-      "english": "lo hicieron"
+      "gloss": "lo hicieron"
     }
-  ],
-  "timestamp": "2026-07-16T20:10:03.419263632Z",
-  "model": "glm-4.5"
+  ]
 }

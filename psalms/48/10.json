@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 48:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 650,
-    "prompt_tokens": 69879,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70529
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:19.697381474Z",
   "translation": "Como ⟨es⟩ tu nombre, Elohim, así ⟨es⟩ tu alabanza hasta ⟨los⟩ extremos de ⟨la⟩ tierra; tu mano derecha está llena de justicia.",
   "tokens": [
     {
       "surface": "דמינו",
-      "english": "Como"
+      "gloss": "Como"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "חסדך",
-      "english": "tu alabanza"
+      "gloss": "tu alabanza"
     },
     {
       "surface": "בקרב",
-      "english": "hasta ⟨los⟩ extremos de ⟨la⟩ tierra"
+      "gloss": "hasta ⟨los⟩ extremos de ⟨la⟩ tierra"
     },
     {
       "surface": "היכלך",
-      "english": "tu mano derecha está llena de justicia"
+      "gloss": "tu mano derecha está llena de justicia"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:19.697381474Z",
-  "model": "glm-4.5"
+  ]
 }

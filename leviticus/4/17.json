@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "leviticus 4:17",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 526,
-    "prompt_tokens": 25141,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25667
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:32:46.618417320Z",
   "translation": "y el kohen ⟨deberá⟩ mojar su dedo ⟨en⟩ la sangre y ⟨deberá⟩ salpicar ⟨de ello⟩ siete veces ⟨delante de⟩ YHWH ⟨את⟩ la superficie de la cortina",
   "tokens": [
     {
       "surface": "וטבל",
-      "english": "y el kohen ⟨deberá⟩ mojar"
+      "gloss": "y el kohen ⟨deberá⟩ mojar"
     },
     {
       "surface": "הכהן",
-      "english": "kohen"
+      "gloss": "kohen"
     },
     {
       "surface": "אצבעו",
-      "english": "su dedo"
+      "gloss": "su dedo"
     },
     {
       "surface": "מן",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "הדם",
-      "english": "la sangre"
+      "gloss": "la sangre"
     },
     {
       "surface": "והזה",
-      "english": "y ⟨deberá⟩ salpicar"
+      "gloss": "y ⟨deberá⟩ salpicar"
     },
     {
       "surface": "שבע",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "פעמים",
-      "english": "veces"
+      "gloss": "veces"
     },
     {
       "surface": "לפני",
-      "english": "⟨delante de⟩"
+      "gloss": "⟨delante de⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la superficie de la cortina"
     },
     {
       "surface": "פני",
-      "english": "la superficie de"
+      "gloss": "la superficie de"
     },
     {
       "surface": "הפרכת",
-      "english": "la cortina"
+      "gloss": "la cortina"
     }
-  ],
-  "timestamp": "2026-07-16T22:32:46.618417320Z",
-  "model": "glm-4.5"
+  ]
 }

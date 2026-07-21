@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 17:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69968,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70358
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:03:36.141808761Z",
   "translation": "Yo, en justicia, ⟨estaré⟩ contemplando tu rostro; ⟨estaré⟩ saciado ⟨al⟩ despertar con tu imagen.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "בצדק",
-      "english": "en justicia"
+      "gloss": "en justicia"
     },
     {
       "surface": "אחזה",
-      "english": "contemplando"
+      "gloss": "contemplando"
     },
     {
       "surface": "פניך",
-      "english": "tu rostro"
+      "gloss": "tu rostro"
     },
     {
       "surface": "אשבעה",
-      "english": "⟨estaré⟩ saciado"
+      "gloss": "⟨estaré⟩ saciado"
     },
     {
       "surface": "בהקיץ",
-      "english": "⟨al⟩ despertar"
+      "gloss": "⟨al⟩ despertar"
     },
     {
       "surface": "תמונתך",
-      "english": "con tu imagen"
+      "gloss": "con tu imagen"
     }
-  ],
-  "timestamp": "2026-06-09T23:03:36.141808761Z",
-  "model": "glm-4.5"
+  ]
 }

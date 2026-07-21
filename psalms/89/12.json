@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 89:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70021,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70421
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:38.193059792Z",
   "translation": "A ti ⟨los⟩ cielos, y también a ti ⟨la⟩ tierra, ⟨el⟩ mundo y su plenitud, tú ⟨lo⟩ has fundado",
   "tokens": [
     {
       "surface": "לך",
-      "english": "A ti"
+      "gloss": "A ti"
     },
     {
       "surface": "שמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "אף",
-      "english": "y también"
+      "gloss": "y también"
     },
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "תבל",
-      "english": "⟨el⟩ mundo"
+      "gloss": "⟨el⟩ mundo"
     },
     {
       "surface": "ומלאה",
-      "english": "y su plenitud"
+      "gloss": "y su plenitud"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "יסדתם",
-      "english": "⟨lo⟩ has fundado"
+      "gloss": "⟨lo⟩ has fundado"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:38.193059792Z",
-  "model": "glm-4.5"
+  ]
 }

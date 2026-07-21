@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 100:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 100,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70351,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70857
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:07.756282397Z",
   "translation": "Saben que YHWH ⟨es⟩ Elohim, Él ⟨es⟩ quien nos hizo, y no nosotros a nosotros mismos; nosotros ⟨somos⟩ su pueblo y el rebaño de su pastizal.",
   "tokens": [
     {
       "surface": "דעו",
-      "english": "Saben"
+      "gloss": "Saben"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "עשנו",
-      "english": "quien nos hizo"
+      "gloss": "quien nos hizo"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "אנחנו",
-      "english": "nosotros a nosotros mismos"
+      "gloss": "nosotros a nosotros mismos"
     },
     {
       "surface": "עמו",
-      "english": "nosotros ⟨somos⟩"
+      "gloss": "nosotros ⟨somos⟩"
     },
     {
       "surface": "וצאן",
-      "english": "el rebaño de"
+      "gloss": "el rebaño de"
     },
     {
       "surface": "מרעיתו",
-      "english": "su pastizal"
+      "gloss": "su pastizal"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:07.756282397Z",
-  "model": "glm-4.5"
+  ]
 }

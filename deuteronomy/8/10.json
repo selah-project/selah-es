@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "deuteronomy 8:10",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 496,
-    "prompt_tokens": 25192,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25688
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:46:26.317879250Z",
   "translation": "Y comerás y te saciarás, y bendecirás ⟨את⟩ YHWH tu Elohim por ⟨la⟩ buena tierra que ⟨él⟩ dio para ti",
   "tokens": [
     {
       "surface": "ואכלת",
-      "english": "y comerás"
+      "gloss": "y comerás"
     },
     {
       "surface": "ושבעת",
-      "english": "y te saciarás"
+      "gloss": "y te saciarás"
     },
     {
       "surface": "וברכת",
-      "english": "y bendecirás"
+      "gloss": "y bendecirás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH tu Elohim"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיך",
-      "english": "tu Elohim"
+      "gloss": "tu Elohim"
     },
     {
       "surface": "על",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ buena tierra"
+      "gloss": "⟨la⟩ buena tierra"
     },
     {
       "surface": "הטבה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "נתן",
-      "english": "⟨él⟩ dio"
+      "gloss": "⟨él⟩ dio"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     }
-  ],
-  "timestamp": "2026-07-16T19:46:26.317879250Z",
-  "model": "glm-4.5"
+  ]
 }

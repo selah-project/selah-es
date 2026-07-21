@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "exodus 23:10",
   "book": "exodus",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 312,
-    "prompt_tokens": 24173,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24485
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:18:25.440243806Z",
   "translation": "Y seis años sembrarás ⟨את⟩ tu tierra y recogerás ⟨את⟩ su producto",
   "tokens": [
     {
       "surface": "ושש",
-      "english": "Y seis"
+      "gloss": "Y seis"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "תזרע",
-      "english": "sembrarás"
+      "gloss": "sembrarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu tierra"
     },
     {
       "surface": "ארצך",
-      "english": "tu tierra"
+      "gloss": "tu tierra"
     },
     {
       "surface": "ואספת",
-      "english": "y recogerás"
+      "gloss": "y recogerás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su producto"
     },
     {
       "surface": "תבואתה",
-      "english": "su producto"
+      "gloss": "su producto"
     }
-  ],
-  "timestamp": "2026-07-16T20:18:25.440243806Z",
-  "model": "glm-4.5"
+  ]
 }

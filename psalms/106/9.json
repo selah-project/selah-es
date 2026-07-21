@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 106:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 360,
-    "prompt_tokens": 69998,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70358
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:52.677970630Z",
   "translation": "Y reprendió al Yam-Suf y se secó, y ⟨los⟩ hizo caminar por las profundidades como por el desierto",
   "tokens": [
     {
       "surface": "ויגער",
-      "english": "Y reprendió"
+      "gloss": "Y reprendió"
     },
     {
       "surface": "בים",
-      "english": "al Yam-Suf"
+      "gloss": "al Yam-Suf"
     },
     {
       "surface": "סוף",
-      "english": "Yam-Suf"
+      "gloss": "Yam-Suf"
     },
     {
       "surface": "ויחרב",
-      "english": "y se secó"
+      "gloss": "y se secó"
     },
     {
       "surface": "ויוליכם",
-      "english": "y ⟨los⟩ hizo caminar"
+      "gloss": "y ⟨los⟩ hizo caminar"
     },
     {
       "surface": "בתהמות",
-      "english": "por las profundidades"
+      "gloss": "por las profundidades"
     },
     {
       "surface": "כמדבר",
-      "english": "como por el desierto"
+      "gloss": "como por el desierto"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:52.677970630Z",
-  "model": "glm-4.5"
+  ]
 }

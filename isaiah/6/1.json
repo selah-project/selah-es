@@ -1,87 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 6:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 588,
-    "prompt_tokens": 27017,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27605
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:21:54.192090793Z",
   "translation": "En ⟨el⟩ año de ⟨la⟩ muerte del rey Uzías, vi ⟨את⟩ Adonai sentado sobre un trono alto y elevado, y ⟨sus⟩ faldones llenaban ⟨את⟩ el Templo.",
   "tokens": [
     {
       "surface": "בשנת",
-      "english": "En ⟨el⟩ año"
+      "gloss": "En ⟨el⟩ año"
     },
     {
       "surface": "מות",
-      "english": "de ⟨la⟩ muerte"
+      "gloss": "de ⟨la⟩ muerte"
     },
     {
       "surface": "המלך",
-      "english": "del rey"
+      "gloss": "del rey"
     },
     {
       "surface": "עזיהו",
-      "english": "Uzías"
+      "gloss": "Uzías"
     },
     {
       "surface": "ואראה",
-      "english": "vi"
+      "gloss": "vi"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Adonai"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "ישב",
-      "english": "sentado"
+      "gloss": "sentado"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כסא",
-      "english": "un trono"
+      "gloss": "un trono"
     },
     {
       "surface": "רם",
-      "english": "alto"
+      "gloss": "alto"
     },
     {
       "surface": "ונשא",
-      "english": "y elevado"
+      "gloss": "y elevado"
     },
     {
       "surface": "ושוליו",
-      "english": "y ⟨sus⟩ faldones"
+      "gloss": "y ⟨sus⟩ faldones"
     },
     {
       "surface": "מלאים",
-      "english": "llenaban"
+      "gloss": "llenaban"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Templo"
     },
     {
       "surface": "ההיכל",
-      "english": "el Templo"
+      "gloss": "el Templo"
     }
-  ],
-  "timestamp": "2026-07-16T21:21:54.192090793Z",
-  "model": "glm-4.5"
+  ]
 }

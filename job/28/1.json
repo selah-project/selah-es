@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "job 28:1",
   "book": "job",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27003,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27350
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:07:34.621875370Z",
   "translation": "Porque ⟨hay⟩ salida para la plata, y ⟨un⟩ lugar para el oro ⟨donde⟩ lo refinan ⟨את⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יש",
-      "english": "⟨hay⟩"
+      "gloss": "⟨hay⟩"
     },
     {
       "surface": "לכסף",
-      "english": "para la plata"
+      "gloss": "para la plata"
     },
     {
       "surface": "מוצא",
-      "english": "salida"
+      "gloss": "salida"
     },
     {
       "surface": "ומקום",
-      "english": "y ⟨un⟩ lugar"
+      "gloss": "y ⟨un⟩ lugar"
     },
     {
       "surface": "לזהב",
-      "english": "para el oro"
+      "gloss": "para el oro"
     },
     {
       "surface": "יזקו",
-      "english": "⟨donde⟩ lo refinan"
+      "gloss": "⟨donde⟩ lo refinan"
     }
-  ],
-  "timestamp": "2026-06-10T02:07:34.621875370Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-kings 8:10",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 450,
-    "prompt_tokens": 69743,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 70193
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:19:06.044433391Z",
   "translation": "Y sucedió que al salir los sacerdotes del lugar santo, la nube llenó ⟨את⟩ la casa de YHWH",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y sucedió"
+      "gloss": "Y sucedió"
     },
     {
       "surface": "בצאת",
-      "english": "al salir"
+      "gloss": "al salir"
     },
     {
       "surface": "הכהנים",
-      "english": "los sacerdotes"
+      "gloss": "los sacerdotes"
     },
     {
       "surface": "מן",
-      "english": "del"
+      "gloss": "del"
     },
     {
       "surface": "הקדש",
-      "english": "lugar santo"
+      "gloss": "lugar santo"
     },
     {
       "surface": "והענן",
-      "english": "la nube"
+      "gloss": "la nube"
     },
     {
       "surface": "מלא",
-      "english": "llenó"
+      "gloss": "llenó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la casa"
     },
     {
       "surface": "בית",
-      "english": "la casa"
+      "gloss": "la casa"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T18:19:06.044433391Z",
-  "model": "glm-4.5"
+  ]
 }

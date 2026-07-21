@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 12:4",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59913,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60348
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:36:44.304760450Z",
   "translation": "Una mujer ⟨de⟩ vigor ⟨es⟩ corona ⟨de⟩ su dueño, pero ⟨la⟩ caries ⟨es⟩ en sus huesos, avergonzando.",
   "tokens": [
     {
       "surface": "אשת",
-      "english": "Una mujer"
+      "gloss": "Una mujer"
     },
     {
       "surface": "חיל",
-      "english": "⟨de⟩ vigor"
+      "gloss": "⟨de⟩ vigor"
     },
     {
       "surface": "עטרת",
-      "english": "corona"
+      "gloss": "corona"
     },
     {
       "surface": "בעלה",
-      "english": "⟨de⟩ su dueño"
+      "gloss": "⟨de⟩ su dueño"
     },
     {
       "surface": "וכרקב",
-      "english": "pero ⟨la⟩ caries"
+      "gloss": "pero ⟨la⟩ caries"
     },
     {
       "surface": "בעצמותיו",
-      "english": "⟨en⟩ sus huesos"
+      "gloss": "⟨en⟩ sus huesos"
     },
     {
       "surface": "מבישה",
-      "english": "avergonzando"
+      "gloss": "avergonzando"
     }
-  ],
-  "timestamp": "2026-06-10T01:36:44.304760450Z",
-  "model": "glm-4.5"
+  ]
 }

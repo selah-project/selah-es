@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 127:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 127,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69797,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70141
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:05:25.773004450Z",
   "translation": "Como ⟨las⟩ flechas ⟨en⟩ ⟨la⟩ mano de ⟨un⟩ guerrero, ⟨así⟩ ⟨son⟩ ⟨los⟩ hijos de ⟨la⟩ juventud",
   "tokens": [
     {
       "surface": "כחצים",
-      "english": "Como ⟨las⟩ flechas"
+      "gloss": "Como ⟨las⟩ flechas"
     },
     {
       "surface": "ביד",
-      "english": "⟨en⟩ ⟨la⟩ mano",
+      "gloss": "⟨en⟩ ⟨la⟩ mano",
       "marks": "mano"
     },
     {
       "surface": "גבור",
-      "english": "de ⟨un⟩ guerrero"
+      "gloss": "de ⟨un⟩ guerrero"
     },
     {
       "surface": "כן",
-      "english": "⟨así⟩"
+      "gloss": "⟨así⟩"
     },
     {
       "surface": "בני",
-      "english": "⟨son⟩ ⟨los⟩ hijos"
+      "gloss": "⟨son⟩ ⟨los⟩ hijos"
     },
     {
       "surface": "הנעורים",
-      "english": "de ⟨la⟩ juventud"
+      "gloss": "de ⟨la⟩ juventud"
     }
-  ],
-  "timestamp": "2026-06-10T00:05:25.773004450Z",
-  "model": "glm-4.5"
+  ]
 }

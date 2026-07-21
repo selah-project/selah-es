@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 20:20",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27112,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27521
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:25.129281788Z",
   "translation": "Porque ⟨no⟩ conoció ⟨el⟩ bienestar en ⟨su⟩ vientre; ⟨con⟩ su codicia ⟨no⟩ ⟨se⟩ escapará",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ידע",
-      "english": "conoció"
+      "gloss": "conoció"
     },
     {
       "surface": "שלו",
-      "english": "⟨el⟩ bienestar"
+      "gloss": "⟨el⟩ bienestar"
     },
     {
       "surface": "בבטנו",
-      "english": "en ⟨su⟩ vientre"
+      "gloss": "en ⟨su⟩ vientre"
     },
     {
       "surface": "בחמודו",
-      "english": "⟨con⟩ su codicia"
+      "gloss": "⟨con⟩ su codicia"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ימלט",
-      "english": "⟨se⟩ escapará"
+      "gloss": "⟨se⟩ escapará"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:25.129281788Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 10,
   "ref": "psalms 18:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69832,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70319
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:55:44.475358305Z",
   "translation": "Y ⟨se inclinaron⟩ los cielos y descendió, ⟨con⟩ espesa oscuridad debajo de sus pies.",
   "tokens": [
     {
       "surface": "ויט",
-      "english": "y ⟨se inclinaron⟩"
+      "gloss": "y ⟨se inclinaron⟩"
     },
     {
       "surface": "שמים",
-      "english": "los cielos"
+      "gloss": "los cielos"
     },
     {
       "surface": "וירד",
-      "english": "y descendió"
+      "gloss": "y descendió"
     },
     {
       "surface": "וערפל",
-      "english": "⟨con⟩ espesa oscuridad"
+      "gloss": "⟨con⟩ espesa oscuridad"
     },
     {
       "surface": "תחת",
-      "english": "debajo de"
+      "gloss": "debajo de"
     },
     {
       "surface": "רגליו",
-      "english": "sus pies"
+      "gloss": "sus pies"
     }
-  ],
-  "timestamp": "2026-06-13T03:55:44.475358305Z",
-  "model": "glm-5.1"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "malachi 3:6",
   "book": "malachi",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 677,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23864,
-    "prompt_tokens_details": {
-      "cached_tokens": 22590
-    },
-    "total_tokens": 24541
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:32:36.808971210Z",
   "translation": "Porque ⟨es⟩ yo YHWH, ⟨el⟩ que no ⟨ha⟩ cambiado; y ⟨a⟩ vosotros, ⟨los⟩ hijos de Yaakov, ⟨no⟩ ⟨los⟩ he consumido.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אני",
-      "english": "⟨es⟩ yo"
+      "gloss": "⟨es⟩ yo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לא",
-      "english": "⟨el⟩ que no"
+      "gloss": "⟨el⟩ que no"
     },
     {
       "surface": "שניתי",
-      "english": "⟨ha⟩ cambiado"
+      "gloss": "⟨ha⟩ cambiado"
     },
     {
       "surface": "ואתם",
-      "english": "y ⟨a⟩ vosotros"
+      "gloss": "y ⟨a⟩ vosotros"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos de"
+      "gloss": "⟨los⟩ hijos de"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "כליתם",
-      "english": "⟨los⟩ he consumido"
+      "gloss": "⟨los⟩ he consumido"
     }
-  ],
-  "timestamp": "2026-06-09T22:32:36.808971210Z",
-  "model": "glm-4.5"
+  ]
 }

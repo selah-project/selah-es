@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "job 6:30",
   "book": "job",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26989,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27543
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:50.155732569Z",
   "translation": "¿⟨hay⟩ iniquidad ⟨en⟩ ⟨mi⟩ lengua? ⟨Si⟩ ⟨mi⟩ paladar ⟨no⟩ ⟨discierne⟩ ⟨cosas⟩ ⟨perversas⟩?",
   "tokens": [
     {
       "surface": "היש",
-      "english": "¿⟨Hay⟩"
+      "gloss": "¿⟨Hay⟩"
     },
     {
       "surface": "בלשוני",
-      "english": "⟨en⟩ ⟨mi⟩ lengua"
+      "gloss": "⟨en⟩ ⟨mi⟩ lengua"
     },
     {
       "surface": "עולה",
-      "english": "iniquidad"
+      "gloss": "iniquidad"
     },
     {
       "surface": "אם",
-      "english": "⟨Si⟩"
+      "gloss": "⟨Si⟩"
     },
     {
       "surface": "חכי",
-      "english": "⟨mi⟩ paladar"
+      "gloss": "⟨mi⟩ paladar"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "יבין",
-      "english": "⟨discierne⟩"
+      "gloss": "⟨discierne⟩"
     },
     {
       "surface": "הוות",
-      "english": "⟨cosas⟩ ⟨perversas⟩"
+      "gloss": "⟨cosas⟩ ⟨perversas⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:50.155732569Z",
-  "model": "glm-4.5"
+  ]
 }

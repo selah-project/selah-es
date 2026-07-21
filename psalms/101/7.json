@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 101:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 101,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70326,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70814
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:48.893469684Z",
   "translation": "No ⟨את⟩ que hace remisión ⟨estará⟩ en medio de ⟨el⟩ mi casa; ⟨el que⟩ habla mentiras no ⟨estará⟩ firme delante de ⟨las⟩ mis ojos.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "ישב",
-      "english": "⟨estará⟩"
+      "gloss": "⟨estará⟩"
     },
     {
       "surface": "בקרב",
-      "english": "en medio de"
+      "gloss": "en medio de"
     },
     {
       "surface": "ביתי",
-      "english": "⟨el⟩ mi casa"
+      "gloss": "⟨el⟩ mi casa"
     },
     {
       "surface": "עשה",
-      "english": "hace"
+      "gloss": "hace"
     },
     {
       "surface": "רמיה",
-      "english": "remisión"
+      "gloss": "remisión"
     },
     {
       "surface": "דבר",
-      "english": "⟨el que⟩ habla"
+      "gloss": "⟨el que⟩ habla"
     },
     {
       "surface": "שקרים",
-      "english": "mentiras"
+      "gloss": "mentiras"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יכון",
-      "english": "⟨estará⟩ firme"
+      "gloss": "⟨estará⟩ firme"
     },
     {
       "surface": "לנגד",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "עיני",
-      "english": "⟨las⟩ mis ojos"
+      "gloss": "⟨las⟩ mis ojos"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:48.893469684Z",
-  "model": "glm-4.5"
+  ]
 }

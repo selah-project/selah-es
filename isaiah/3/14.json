@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "isaiah 3:14",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 690,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26614,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27304
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:22:56.039854712Z",
   "translation": "YHWH en juicio entrará con los ancianos de ⟨su⟩ pueblo y ⟨sus⟩ príncipes; y vosotros ⟨es que⟩ habéis consumido ⟨el⟩ viñedo, el botín ⟨del⟩ pobre ⟨está⟩ en vuestras casas.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "במשפט",
-      "english": "en juicio"
+      "gloss": "en juicio"
     },
     {
       "surface": "יבוא",
-      "english": "entrará"
+      "gloss": "entrará"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "זקני",
-      "english": "los ancianos"
+      "gloss": "los ancianos"
     },
     {
       "surface": "עמו",
-      "english": "de ⟨su⟩ pueblo"
+      "gloss": "de ⟨su⟩ pueblo"
     },
     {
       "surface": "ושריו",
-      "english": "y ⟨sus⟩ príncipes"
+      "gloss": "y ⟨sus⟩ príncipes"
     },
     {
       "surface": "ואתם",
-      "english": "y vosotros"
+      "gloss": "y vosotros"
     },
     {
       "surface": "בערתם",
-      "english": "⟨es que⟩ habéis consumido"
+      "gloss": "⟨es que⟩ habéis consumido"
     },
     {
       "surface": "הכרם",
-      "english": "⟨el⟩ viñedo"
+      "gloss": "⟨el⟩ viñedo"
     },
     {
       "surface": "גזלת",
-      "english": "el botín ⟨del⟩ pobre"
+      "gloss": "el botín ⟨del⟩ pobre"
     },
     {
       "surface": "העני",
-      "english": "⟨el⟩ pobre"
+      "gloss": "⟨el⟩ pobre"
     },
     {
       "surface": "בבתיכם",
-      "english": "⟨está⟩ en vuestras casas"
+      "gloss": "⟨está⟩ en vuestras casas"
     }
-  ],
-  "timestamp": "2026-06-10T02:22:56.039854712Z",
-  "model": "glm-4.5"
+  ]
 }

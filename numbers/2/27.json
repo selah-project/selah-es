@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "numbers 2:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 2,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:09:36.903566649Z",
+  "translation": "Y los que acampan ⟨junto a⟩ él ⟨son⟩ la tribu de Asher; y el príncipe de ⟨los⟩ hijos de Asher ⟨es⟩ Pagiel hijo de Ocrán",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "Y los que acampan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨junto a⟩ él"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "y el príncipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "de ⟨los⟩ hijos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Pagiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Ocrán"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aser",
@@ -20,64 +67,6 @@
       "hebrew": "אשר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17942,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 18368
-  },
-  "translation": "Y los que acampan ⟨junto a⟩ él ⟨son⟩ la tribu de Asher; y el príncipe de ⟨los⟩ hijos de Asher ⟨es⟩ Pagiel hijo de Ocrán",
-  "tokens": [
-    {
-      "surface": "והחנים",
-      "english": "Y los que acampan"
-    },
-    {
-      "surface": "עליו",
-      "english": "⟨junto a⟩ él"
-    },
-    {
-      "surface": "מטה",
-      "english": "tribu"
-    },
-    {
-      "surface": "אשר",
-      "english": "Asher"
-    },
-    {
-      "surface": "ונשיא",
-      "english": "y el príncipe"
-    },
-    {
-      "surface": "לבני",
-      "english": "de ⟨los⟩ hijos"
-    },
-    {
-      "surface": "אשר",
-      "english": "Asher"
-    },
-    {
-      "surface": "פגעיאל",
-      "english": "Pagiel"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "עכרן",
-      "english": "Ocrán"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:09:36.903566649Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

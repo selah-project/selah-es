@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "numbers 35:13",
   "book": "numbers",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25029,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25362
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:08:44.384283652Z",
   "translation": "Y las ciudades que ⟨déis⟩ ⟨serán⟩ para vosotros seis ⟨את⟩ ciudades de refugio",
   "tokens": [
     {
       "surface": "והערים",
-      "english": "Y las ciudades"
+      "gloss": "Y las ciudades"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "תתנו",
-      "english": "⟨déis⟩"
+      "gloss": "⟨déis⟩"
     },
     {
       "surface": "שש",
-      "english": "seis"
+      "gloss": "seis"
     },
     {
       "surface": "ערי",
-      "english": "ciudades"
+      "gloss": "ciudades"
     },
     {
       "surface": "מקלט",
-      "english": "de refugio"
+      "gloss": "de refugio"
     },
     {
       "surface": "תהיינה",
-      "english": "⟨serán⟩"
+      "gloss": "⟨serán⟩"
     },
     {
       "surface": "לכם",
-      "english": "para vosotros"
+      "gloss": "para vosotros"
     }
-  ],
-  "timestamp": "2026-06-10T05:08:44.384283652Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "exodus 34:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 34,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:13:43.725343387Z",
+  "translation": "Elohimes de fundición ⟨ה⟩ no harás para ti",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimes"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "de fundición"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "harás"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Dios",
@@ -13,44 +40,6 @@
       "hebrew": "אלהים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16238,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 16516
-  },
-  "translation": "Elohimes de fundición ⟨ה⟩ no harás para ti",
-  "tokens": [
-    {
-      "surface": "אלהי",
-      "english": "Elohimes"
-    },
-    {
-      "surface": "מסכה",
-      "english": "de fundición"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "תעשה",
-      "english": "harás"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:13:43.725343387Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

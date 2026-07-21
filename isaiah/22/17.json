@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "isaiah 22:17",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26056,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26451
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:33:49.478309051Z",
   "translation": "Mira, YHWH ⟨está⟩ te lanzando con fuerza, ⟨un⟩ lanzamiento, ⟨un⟩ guerrero, y ⟨tu⟩ manto ⟨está⟩ envuelto ⟨en⟩ ⟨un⟩ velo",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "Mira"
+      "gloss": "Mira"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מטלטלך",
-      "english": "⟨está⟩ te lanzando con fuerza"
+      "gloss": "⟨está⟩ te lanzando con fuerza"
     },
     {
       "surface": "טלטלה",
-      "english": "⟨un⟩ lanzamiento"
+      "gloss": "⟨un⟩ lanzamiento"
     },
     {
       "surface": "גבר",
-      "english": "⟨un⟩ guerrero"
+      "gloss": "⟨un⟩ guerrero"
     },
     {
       "surface": "ועטך",
-      "english": "y ⟨tu⟩ manto"
+      "gloss": "y ⟨tu⟩ manto"
     },
     {
       "surface": "עטה",
-      "english": "⟨está⟩ envuelto ⟨en⟩ ⟨un⟩ velo"
+      "gloss": "⟨está⟩ envuelto ⟨en⟩ ⟨un⟩ velo"
     }
-  ],
-  "timestamp": "2026-06-10T02:33:49.478309051Z",
-  "model": "glm-4.5"
+  ]
 }

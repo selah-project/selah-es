@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 75:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 503,
-    "prompt_tokens": 69883,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70386
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:33.409778955Z",
   "translation": "Y ⟨los⟩ cuernos de ⟨los⟩ malvados ⟨él⟩ cortará; ⟨pero⟩ los cuernos de ⟨el⟩ justo serán exaltados.",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "Y"
+      "gloss": "Y"
     },
     {
       "surface": "קרני",
-      "english": "los cuernos de"
+      "gloss": "los cuernos de"
     },
     {
       "surface": "רשעים",
-      "english": "los malvados"
+      "gloss": "los malvados"
     },
     {
       "surface": "אגדע",
-      "english": "⟨él⟩ cortará"
+      "gloss": "⟨él⟩ cortará"
     },
     {
       "surface": "תרוממנה",
-      "english": "⟨pero⟩ los cuernos de... serán exaltados"
+      "gloss": "⟨pero⟩ los cuernos de... serán exaltados"
     },
     {
       "surface": "קרנות",
-      "english": "los cuernos de"
+      "gloss": "los cuernos de"
     },
     {
       "surface": "צדיק",
-      "english": "el justo"
+      "gloss": "el justo"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:33.409778955Z",
-  "model": "glm-4.5"
+  ]
 }

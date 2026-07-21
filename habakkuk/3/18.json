@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "habakkuk 3:18",
   "book": "habakkuk",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28254,
-    "prompt_tokens_details": {
-      "cached_tokens": 27361
-    },
-    "total_tokens": 28558
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:34:53.194218057Z",
   "translation": "Yet I ⟨will⟩ ⟨be⟩ glad in ⟨YHWH⟩, ⟨I⟩ will exult in ⟨Elohim⟩ of my salvation.",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "Yet I"
+      "gloss": "Yet I"
     },
     {
       "surface": "ביהוה",
-      "english": "in ⟨YHWH⟩"
+      "gloss": "in ⟨YHWH⟩"
     },
     {
       "surface": "אעלוזה",
-      "english": "⟨will⟩ ⟨be⟩ glad"
+      "gloss": "⟨will⟩ ⟨be⟩ glad"
     },
     {
       "surface": "אגילה",
-      "english": "⟨I⟩ will exult"
+      "gloss": "⟨I⟩ will exult"
     },
     {
       "surface": "באלהי",
-      "english": "in ⟨Elohim⟩"
+      "gloss": "in ⟨Elohim⟩"
     },
     {
       "surface": "ישעי",
-      "english": "of my salvation"
+      "gloss": "of my salvation"
     }
-  ],
-  "timestamp": "2026-06-09T22:34:53.194218057Z",
-  "model": "glm-4.5"
+  ]
 }

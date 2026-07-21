@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 2:12",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 340,
-    "prompt_tokens": 64245,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64585
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:02:04.285796076Z",
   "translation": "y Boaz engendró a Obed, y Obed engendró ⟨את⟩ Ishaí",
   "tokens": [
     {
       "surface": "ובעז",
-      "english": "y Boaz"
+      "gloss": "y Boaz"
     },
     {
       "surface": "הוליד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Obed"
     },
     {
       "surface": "עובד",
-      "english": "Obed"
+      "gloss": "Obed"
     },
     {
       "surface": "ועובד",
-      "english": "y Obed"
+      "gloss": "y Obed"
     },
     {
       "surface": "הוליד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Ishaí"
     },
     {
       "surface": "ישי",
-      "english": "Ishaí"
+      "gloss": "Ishaí"
     }
-  ],
-  "timestamp": "2026-07-16T18:02:04.285796076Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 2:13",
   "book": "genesis",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 28707,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29151
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:51:56.191292686Z",
   "translation": "Y el nombre del segundo río ⟨es⟩ Guijón; él ⟨es⟩ el que rodea ⟨את⟩ toda la tierra de Kush.",
   "tokens": [
     {
       "surface": "ושם",
-      "english": "Y el nombre"
+      "gloss": "Y el nombre"
     },
     {
       "surface": "הנהר",
-      "english": "del segundo río"
+      "gloss": "del segundo río"
     },
     {
       "surface": "השני",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "גיחון",
-      "english": "Guijón"
+      "gloss": "Guijón"
     },
     {
       "surface": "הוא",
-      "english": "él"
+      "gloss": "él"
     },
     {
       "surface": "הסובב",
-      "english": "⟨es⟩ el que rodea"
+      "gloss": "⟨es⟩ el que rodea"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda la tierra"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "כוש",
-      "english": "de Kush"
+      "gloss": "de Kush"
     }
-  ],
-  "timestamp": "2026-07-16T20:51:56.191292686Z",
-  "model": "glm-4.5"
+  ]
 }

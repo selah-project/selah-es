@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "daniel 9:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 9,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:06:33.503111173Z",
+  "translation": "En el primer año de Darío, ⟨el⟩ hijo de Ajashverósh, de descendencia meda, ⟨el⟩ cual fue hecho rey sobre ⟨el⟩ reino de los caldeos",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "En el primer año de"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "primero"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "Darío"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajashverósh"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "de descendencia"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "meda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cual"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "fue hecho rey"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "el reino"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "de los caldeos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Asuero",
@@ -13,72 +68,6 @@
       "hebrew": "אחשורוש"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17244,
-    "prompt_tokens_details": {
-      "cached_tokens": 15766
-    },
-    "total_tokens": 17622
-  },
-  "translation": "En el primer año de Darío, ⟨el⟩ hijo de Ajashverósh, de descendencia meda, ⟨el⟩ cual fue hecho rey sobre ⟨el⟩ reino de los caldeos",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "En el primer año de"
-    },
-    {
-      "surface": "אחת",
-      "english": "primero"
-    },
-    {
-      "surface": "לדריוש",
-      "english": "Darío"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "אחשורוש",
-      "english": "Ajashverósh"
-    },
-    {
-      "surface": "מזרע",
-      "english": "de descendencia"
-    },
-    {
-      "surface": "מדי",
-      "english": "meda"
-    },
-    {
-      "surface": "אשר",
-      "english": "cual"
-    },
-    {
-      "surface": "המלך",
-      "english": "fue hecho rey"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "מלכות",
-      "english": "el reino"
-    },
-    {
-      "surface": "כשדים",
-      "english": "de los caldeos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:06:33.503111173Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

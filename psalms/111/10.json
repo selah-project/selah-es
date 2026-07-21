@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 111:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 111,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:22:26.096354877Z",
+  "translation": "El principio ⟨de⟩ Jojmá ⟨es⟩ Yirá ⟨de⟩ YHWH; ⟨un⟩ buen entendimiento tienen todos ⟨los⟩ que ⟨los⟩ hacen ⟨ellos⟩ ⟨los⟩ preceptos ⟨de⟩ Él; ⟨la⟩ alabanza ⟨de⟩ Él ⟨está⟩ firme ⟨hasta⟩ siempre.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "El principio ⟨de⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "Yirá ⟨de⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "⟨un⟩ buen entendimiento"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tienen todos ⟨los⟩ que"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨los⟩"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "hacen ⟨ellos⟩ ⟨los⟩ preceptos ⟨de⟩ Él"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "⟨la⟩ alabanza ⟨de⟩ Él"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "⟨está⟩ firme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "⟨hasta⟩ siempre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "la sabiduría",
@@ -20,68 +71,6 @@
       "hebrew": "יראה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 111,
-  "usage": {
-    "completion_tokens": 625,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62921,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 63546
-  },
-  "translation": "El principio ⟨de⟩ Jojmá ⟨es⟩ Yirá ⟨de⟩ YHWH; ⟨un⟩ buen entendimiento tienen todos ⟨los⟩ que ⟨los⟩ hacen ⟨ellos⟩ ⟨los⟩ preceptos ⟨de⟩ Él; ⟨la⟩ alabanza ⟨de⟩ Él ⟨está⟩ firme ⟨hasta⟩ siempre.",
-  "tokens": [
-    {
-      "surface": "ראשית",
-      "english": "El principio ⟨de⟩"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "יראת",
-      "english": "Yirá ⟨de⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "שכל",
-      "english": "⟨un⟩ buen entendimiento"
-    },
-    {
-      "surface": "טוב",
-      "english": "tienen todos ⟨los⟩ que"
-    },
-    {
-      "surface": "לכל",
-      "english": "⟨los⟩"
-    },
-    {
-      "surface": "עשיהם",
-      "english": "hacen ⟨ellos⟩ ⟨los⟩ preceptos ⟨de⟩ Él"
-    },
-    {
-      "surface": "תהלתו",
-      "english": "⟨la⟩ alabanza ⟨de⟩ Él"
-    },
-    {
-      "surface": "עמדת",
-      "english": "⟨está⟩ firme"
-    },
-    {
-      "surface": "לעד",
-      "english": "⟨hasta⟩ siempre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:22:26.096354877Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

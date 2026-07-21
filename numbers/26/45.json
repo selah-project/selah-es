@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "numbers 26:45",
   "book": "numbers",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 306,
-    "prompt_tokens": 25280,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25586
-  },
+  "verse": 45,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:10:45.047060666Z",
   "translation": "Para los hijos de Beriá: para Jéber, la familia de los jebritas; para Malkiel, la familia de los Malkielitas",
   "tokens": [
     {
       "surface": "לבני",
-      "english": "Para los hijos de"
+      "gloss": "Para los hijos de"
     },
     {
       "surface": "בריעה",
-      "english": "Beriá"
+      "gloss": "Beriá"
     },
     {
       "surface": "לחבר",
-      "english": "para Jéber"
+      "gloss": "para Jéber"
     },
     {
       "surface": "משפחת",
-      "english": "la familia de"
+      "gloss": "la familia de"
     },
     {
       "surface": "החברי",
-      "english": "los jebritas"
+      "gloss": "los jebritas"
     },
     {
       "surface": "למלכיאל",
-      "english": "para Malkiel"
+      "gloss": "para Malkiel"
     },
     {
       "surface": "משפחת",
-      "english": "la familia de"
+      "gloss": "la familia de"
     },
     {
       "surface": "המלכיאלי",
-      "english": "los Malkielitas"
+      "gloss": "los Malkielitas"
     }
-  ],
-  "timestamp": "2026-07-16T23:10:45.047060666Z",
-  "model": "glm-4.5"
+  ]
 }

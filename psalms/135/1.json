@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 135:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 436,
-    "prompt_tokens": 70250,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70686
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:11.814273348Z",
   "translation": "¡Alaben a Yah! ¡Alaben ⟨el⟩ nombre de YHWH! ¡Alaben, siervos de YHWH!",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "¡Alaben"
+      "gloss": "¡Alaben"
     },
     {
       "surface": "יה",
-      "english": "a Yah"
+      "gloss": "a Yah"
     },
     {
       "surface": "הללו",
-      "english": "¡Alaben"
+      "gloss": "¡Alaben"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "nombre de YHWH"
     },
     {
       "surface": "שם",
-      "english": "nombre"
+      "gloss": "nombre"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "הללו",
-      "english": "¡Alaben"
+      "gloss": "¡Alaben"
     },
     {
       "surface": "עבדי",
-      "english": "siervos"
+      "gloss": "siervos"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:11.814273348Z",
-  "model": "glm-4.5"
+  ]
 }

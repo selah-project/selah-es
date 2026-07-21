@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-samuel 8:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 8,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:23:11.860370886Z",
+  "translation": "Y Davidd reinó ⟨sobre⟩ todo Yisrael, y Davidd ⟨estaba⟩ ⟨haciendo⟩ juicio y justicia ⟨para⟩ todo su pueblo.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "Y David reinó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y David ⟨estaba⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨haciendo⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "juicio"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "y justicia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨para⟩ todo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su pueblo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,72 +82,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17198,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17648
-  },
-  "translation": "Y Davidd reinó ⟨sobre⟩ todo Yisrael, y Davidd ⟨estaba⟩ ⟨haciendo⟩ juicio y justicia ⟨para⟩ todo su pueblo.",
-  "tokens": [
-    {
-      "surface": "וימלך",
-      "english": "Y David reinó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y David ⟨estaba⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עשה",
-      "english": "⟨haciendo⟩"
-    },
-    {
-      "surface": "משפט",
-      "english": "juicio"
-    },
-    {
-      "surface": "וצדקה",
-      "english": "y justicia"
-    },
-    {
-      "surface": "לכל",
-      "english": "⟨para⟩ todo"
-    },
-    {
-      "surface": "עמו",
-      "english": "su pueblo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:23:11.860370886Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

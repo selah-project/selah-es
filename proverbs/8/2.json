@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 8:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 621,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59837,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60458
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:33:12.163057454Z",
   "translation": "En ⟨la⟩ cabeza de ⟨los⟩ lugares altos ⟨en⟩ ⟨el⟩ camino, en ⟨las⟩ encrucijadas de ⟨los⟩ senderos ⟨ella⟩ se ⟨ha⟩ puesto ⟨en⟩ pie",
   "tokens": [
     {
       "surface": "בראש",
-      "english": "En ⟨la⟩ cabeza"
+      "gloss": "En ⟨la⟩ cabeza"
     },
     {
       "surface": "מרומים",
-      "english": "de ⟨los⟩ lugares altos"
+      "gloss": "de ⟨los⟩ lugares altos"
     },
     {
       "surface": "עלי",
-      "english": "⟨en⟩ ⟨el⟩ camino"
+      "gloss": "⟨en⟩ ⟨el⟩ camino"
     },
     {
       "surface": "דרך",
-      "english": "⟨el⟩ camino"
+      "gloss": "⟨el⟩ camino"
     },
     {
       "surface": "בית",
-      "english": "en ⟨las⟩ encrucijadas de"
+      "gloss": "en ⟨las⟩ encrucijadas de"
     },
     {
       "surface": "נתיבות",
-      "english": "⟨los⟩ senderos"
+      "gloss": "⟨los⟩ senderos"
     },
     {
       "surface": "נצבה",
-      "english": "⟨ella⟩ se ⟨ha⟩ puesto ⟨en⟩ pie"
+      "gloss": "⟨ella⟩ se ⟨ha⟩ puesto ⟨en⟩ pie"
     }
-  ],
-  "timestamp": "2026-06-10T01:33:12.163057454Z",
-  "model": "glm-4.5"
+  ]
 }

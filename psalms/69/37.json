@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 37,
   "ref": "psalms 69:37",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69688,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70131
-  },
+  "verse": 37,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:24.373311077Z",
   "translation": "Y ⟨el⟩ descendiente de sus siervos ⟨la⟩ heredará, y ⟨los que⟩ aman su nombre ⟨la⟩ habitarán ⟨en⟩ ella.",
   "tokens": [
     {
       "surface": "וזרע",
-      "english": "Y ⟨el⟩ descendiente de sus siervos"
+      "gloss": "Y ⟨el⟩ descendiente de sus siervos"
     },
     {
       "surface": "עבדיו",
-      "english": "sus siervos"
+      "gloss": "sus siervos"
     },
     {
       "surface": "ינחלוה",
-      "english": "⟨la⟩ heredará"
+      "gloss": "⟨la⟩ heredará"
     },
     {
       "surface": "ואהבי",
-      "english": "y ⟨los que⟩ aman"
+      "gloss": "y ⟨los que⟩ aman"
     },
     {
       "surface": "שמו",
-      "english": "su nombre"
+      "gloss": "su nombre"
     },
     {
       "surface": "ישכנו",
-      "english": "⟨la⟩ habitarán ⟨en⟩ ella"
+      "gloss": "⟨la⟩ habitarán ⟨en⟩ ella"
     },
     {
       "surface": "בה",
-      "english": "ella",
+      "gloss": "ella",
       "marks": "la tierra (referida en el contexto anterior)"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:24.373311077Z",
-  "model": "glm-4.5"
+  ]
 }

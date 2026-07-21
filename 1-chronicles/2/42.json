@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "1-chronicles 2:42",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 2,
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:28:37.149175805Z",
+  "translation": "Y los hijos de Kalev hermano de Jerahmeel: Mesha ⟨es⟩ su primogénito, él ⟨es⟩ padre de Zif; y los hijos de Maresa padre de Jevrón.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Y los hijos"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "de Kalev"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hermano"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "de Jerahmeel"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "su primogénito"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "él"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "de Zif"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "y los hijos"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "de Maresa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "de Jevrón"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Caleb",
@@ -20,76 +79,6 @@
       "hebrew": "חברון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57235,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57637
-  },
-  "translation": "Y los hijos de Kalev hermano de Jerahmeel: Mesha ⟨es⟩ su primogénito, él ⟨es⟩ padre de Zif; y los hijos de Maresa padre de Jevrón.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "Y los hijos"
-    },
-    {
-      "surface": "כלב",
-      "english": "de Kalev"
-    },
-    {
-      "surface": "אחי",
-      "english": "hermano"
-    },
-    {
-      "surface": "ירחמאל",
-      "english": "de Jerahmeel"
-    },
-    {
-      "surface": "מישע",
-      "english": "Mesha"
-    },
-    {
-      "surface": "בכרו",
-      "english": "su primogénito"
-    },
-    {
-      "surface": "הוא",
-      "english": "él"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre"
-    },
-    {
-      "surface": "זיף",
-      "english": "de Zif"
-    },
-    {
-      "surface": "ובני",
-      "english": "y los hijos"
-    },
-    {
-      "surface": "מרשה",
-      "english": "de Maresa"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre"
-    },
-    {
-      "surface": "חברון",
-      "english": "de Jevrón"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:28:37.149175805Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

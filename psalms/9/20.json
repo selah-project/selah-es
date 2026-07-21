@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 9:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 627,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70077,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70704
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:01:50.185688813Z",
   "translation": "¡Levántate, YHWH ⟨que⟩ ⟨el⟩ hombre ⟨no⟩ prevalezca; ⟨los⟩ pueblos sean juzgados ante ⟨tu⟩ faz.",
   "tokens": [
     {
       "surface": "קומה",
-      "english": "¡Levántate"
+      "gloss": "¡Levántate"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "יעז",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "אנוש",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "ישפטו",
-      "english": "⟨no⟩ prevalezca"
+      "gloss": "⟨no⟩ prevalezca"
     },
     {
       "surface": "גוים",
-      "english": "⟨los⟩ pueblos"
+      "gloss": "⟨los⟩ pueblos"
     },
     {
       "surface": "על",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "פניך",
-      "english": "⟨tu⟩ faz"
+      "gloss": "⟨tu⟩ faz"
     }
-  ],
-  "timestamp": "2026-06-09T23:01:50.185688813Z",
-  "model": "glm-4.5"
+  ]
 }

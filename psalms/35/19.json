@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 35:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70042,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70577
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:14:31.306251151Z",
   "translation": "No ⟨se⟩ regocijen ⟨de⟩ mis adversarios ⟨de⟩ ⟨la⟩ falsedad; los que ⟨me⟩ odian sin motivo ⟨hagan⟩ guiños ⟨con⟩ ⟨el⟩ ojo.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No",
+      "gloss": "No",
       "marks": "negation qualified"
     },
     {
       "surface": "ישמחו",
-      "english": "⟨se⟩ regocijen ⟨de⟩",
+      "gloss": "⟨se⟩ regocijen ⟨de⟩",
       "marks": "rejoice over"
     },
     {
       "surface": "לי",
-      "english": "mis"
+      "gloss": "mis"
     },
     {
       "surface": "איבי",
-      "english": "adversarios"
+      "gloss": "adversarios"
     },
     {
       "surface": "שקר",
-      "english": "⟨de⟩ ⟨la⟩ falsedad",
+      "gloss": "⟨de⟩ ⟨la⟩ falsedad",
       "marks": "falsehood\/untruth"
     },
     {
       "surface": "שנאי",
-      "english": "los que ⟨me⟩ odian"
+      "gloss": "los que ⟨me⟩ odian"
     },
     {
       "surface": "חנם",
-      "english": "sin motivo",
+      "gloss": "sin motivo",
       "marks": "without cause\/reason"
     },
     {
       "surface": "יקרצו",
-      "english": "⟨hagan⟩ guiños ⟨con⟩",
+      "gloss": "⟨hagan⟩ guiños ⟨con⟩",
       "marks": "wink\/blink the eye"
     },
     {
       "surface": "עין",
-      "english": "⟨el⟩ ojo",
+      "gloss": "⟨el⟩ ojo",
       "marks": "eye"
     }
-  ],
-  "timestamp": "2026-06-09T23:14:31.306251151Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 28:2",
   "book": "job",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26919,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27379
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:16.073790533Z",
   "translation": "El hierro ⟨es⟩ tomado de ⟨el⟩ polvo, y ⟨la⟩ piedra ⟨es⟩ fundida ⟨en⟩ cobre.",
   "tokens": [
     {
       "surface": "ברזל",
-      "english": "El hierro"
+      "gloss": "El hierro"
     },
     {
       "surface": "מעפר",
-      "english": "de ⟨el⟩ polvo"
+      "gloss": "de ⟨el⟩ polvo"
     },
     {
       "surface": "יקח",
-      "english": "⟨es⟩ tomado"
+      "gloss": "⟨es⟩ tomado"
     },
     {
       "surface": "ואבן",
-      "english": "y ⟨la⟩ piedra"
+      "gloss": "y ⟨la⟩ piedra"
     },
     {
       "surface": "יצוק",
-      "english": "⟨es⟩ fundida"
+      "gloss": "⟨es⟩ fundida"
     },
     {
       "surface": "נחושה",
-      "english": "⟨en⟩ cobre"
+      "gloss": "⟨en⟩ cobre"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:16.073790533Z",
-  "model": "glm-4.5"
+  ]
 }

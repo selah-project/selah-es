@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 135:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69887,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70193
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:07:10.016792276Z",
   "translation": "Boca tienen ⟨a⟩ ellos y no hablan; ojos ⟨a⟩ ellos y no ven",
   "tokens": [
     {
       "surface": "פה",
-      "english": "Boca"
+      "gloss": "Boca"
     },
     {
       "surface": "להם",
-      "english": "tienen ⟨a⟩ ellos"
+      "gloss": "tienen ⟨a⟩ ellos"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "ידברו",
-      "english": "hablan"
+      "gloss": "hablan"
     },
     {
       "surface": "עינים",
-      "english": "ojos ⟨a⟩ ellos"
+      "gloss": "ojos ⟨a⟩ ellos"
     },
     {
       "surface": "להם",
-      "english": "⟨a⟩ ellos"
+      "gloss": "⟨a⟩ ellos"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יראו",
-      "english": "ven"
+      "gloss": "ven"
     }
-  ],
-  "timestamp": "2026-06-10T00:07:10.016792276Z",
-  "model": "glm-4.5"
+  ]
 }

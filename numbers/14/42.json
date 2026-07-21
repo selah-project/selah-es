@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "numbers 14:42",
   "book": "numbers",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 510,
-    "prompt_tokens": 25327,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25837
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:03:42.636190892Z",
   "translation": "No subáis, porque YHWH no ⟨está⟩ en ⟨el⟩ medio de vosotros, y no seréis derrotados ante vuestros enemigos.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תעלו",
-      "english": "subáis"
+      "gloss": "subáis"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אין",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בקרבכם",
-      "english": "en ⟨el⟩ medio de vosotros"
+      "gloss": "en ⟨el⟩ medio de vosotros"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "תנגפו",
-      "english": "seréis derrotados"
+      "gloss": "seréis derrotados"
     },
     {
       "surface": "לפני",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "איביכם",
-      "english": "vuestros enemigos"
+      "gloss": "vuestros enemigos"
     }
-  ],
-  "timestamp": "2026-07-16T23:03:42.636190892Z",
-  "model": "glm-4.5"
+  ]
 }

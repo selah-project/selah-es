@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 19:6",
   "book": "genesis",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28239,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28585
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:16:04.303312773Z",
   "translation": "Y salió Lot ⟨a⟩ ellos ⟨a⟩ la apertura, y ⟨la⟩ puerta cerró ⟨ detrás⟩ de él",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "Y salió"
+      "gloss": "Y salió"
     },
     {
       "surface": "אלהם",
-      "english": "⟨a⟩ ellos"
+      "gloss": "⟨a⟩ ellos"
     },
     {
       "surface": "לוט",
-      "english": "Lot"
+      "gloss": "Lot"
     },
     {
       "surface": "הפתחה",
-      "english": "⟨a⟩ la apertura"
+      "gloss": "⟨a⟩ la apertura"
     },
     {
       "surface": "והדלת",
-      "english": "y ⟨la⟩ puerta"
+      "gloss": "y ⟨la⟩ puerta"
     },
     {
       "surface": "סגר",
-      "english": "cerró"
+      "gloss": "cerró"
     },
     {
       "surface": "אחריו",
-      "english": "⟨ detrás⟩ de él"
+      "gloss": "⟨ detrás⟩ de él"
     }
-  ],
-  "timestamp": "2026-06-10T05:16:04.303312773Z",
-  "model": "glm-4.5"
+  ]
 }

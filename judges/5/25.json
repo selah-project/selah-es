@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "judges 5:25",
   "book": "judges",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23209,
-    "prompt_tokens_details": {
-      "cached_tokens": 22160
-    },
-    "total_tokens": 23549
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:51:01.611629944Z",
   "translation": "Agua pidió, ⟨y⟩ leche dio; en ⟨un⟩ magnífico bowl ⟨lo⟩ trajo cerca, manteca.",
   "tokens": [
     {
       "surface": "מים",
-      "english": "Agua"
+      "gloss": "Agua"
     },
     {
       "surface": "שאל",
-      "english": "pidió"
+      "gloss": "pidió"
     },
     {
       "surface": "חלב",
-      "english": "leche"
+      "gloss": "leche"
     },
     {
       "surface": "נתנה",
-      "english": "dio"
+      "gloss": "dio"
     },
     {
       "surface": "בספל",
-      "english": "en ⟨un⟩ magnífico bowl"
+      "gloss": "en ⟨un⟩ magnífico bowl"
     },
     {
       "surface": "אדירים",
-      "english": "magnífico"
+      "gloss": "magnífico"
     },
     {
       "surface": "הקריבה",
-      "english": "⟨lo⟩ trajo cerca"
+      "gloss": "⟨lo⟩ trajo cerca"
     },
     {
       "surface": "חמאה",
-      "english": "manteca"
+      "gloss": "manteca"
     }
-  ],
-  "timestamp": "2026-06-10T00:51:01.611629944Z",
-  "model": "glm-4.5"
+  ]
 }

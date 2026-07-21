@@ -1,9 +1,109 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 7:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 7,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:07:25.611729560Z",
+  "translation": "Y todos los hijos de Yisrael ⟨están⟩ viendo ⟨el⟩ fuego descender y la gloria de YHWH ⟨está⟩ sobre la Casa, y se inclinaron ⟨con sus⟩ rostros ⟨hacia⟩ la tierra sobre el pavimento y se postraron y dieron gracias a YHWH, porque ⟨Él es⟩ bueno, porque para siempre ⟨es⟩ su jesed.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Y todos los"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "⟨están⟩ viendo"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "⟨el⟩ fuego descender"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨el⟩ fuego",
+      "marks": "fuego descender"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "y la gloria de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨la⟩ Casa"
+    },
+    {
+      "surface": "ויכרעו",
+      "gloss": "y se inclinaron"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨con sus⟩ rostros"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨hacia⟩ la tierra"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "el pavimento"
+    },
+    {
+      "surface": "ושתחוו",
+      "gloss": "y se postraron"
+    },
+    {
+      "surface": "והודות",
+      "gloss": "y dieron gracias"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨Él es⟩ bueno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para siempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨es⟩ su jesed"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,117 +113,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 1081,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59244,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60325
-  },
-  "translation": "Y todos los hijos de Yisrael ⟨están⟩ viendo ⟨el⟩ fuego descender y la gloria de YHWH ⟨está⟩ sobre la Casa, y se inclinaron ⟨con sus⟩ rostros ⟨hacia⟩ la tierra sobre el pavimento y se postraron y dieron gracias a YHWH, porque ⟨Él es⟩ bueno, porque para siempre ⟨es⟩ su jesed.",
-  "tokens": [
-    {
-      "surface": "וכל",
-      "english": "Y todos los"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ראים",
-      "english": "⟨están⟩ viendo"
-    },
-    {
-      "surface": "ברדת",
-      "english": "⟨el⟩ fuego descender"
-    },
-    {
-      "surface": "האש",
-      "english": "⟨el⟩ fuego",
-      "marks": "fuego descender"
-    },
-    {
-      "surface": "וכבוד",
-      "english": "y la gloria de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הבית",
-      "english": "⟨la⟩ Casa"
-    },
-    {
-      "surface": "ויכרעו",
-      "english": "y se inclinaron"
-    },
-    {
-      "surface": "אפים",
-      "english": "⟨con sus⟩ rostros"
-    },
-    {
-      "surface": "ארצה",
-      "english": "⟨hacia⟩ la tierra"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הרצפה",
-      "english": "el pavimento"
-    },
-    {
-      "surface": "ושתחוו",
-      "english": "y se postraron"
-    },
-    {
-      "surface": "והודות",
-      "english": "y dieron gracias"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "טוב",
-      "english": "⟨Él es⟩ bueno"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לעולם",
-      "english": "para siempre"
-    },
-    {
-      "surface": "חסדו",
-      "english": "⟨es⟩ su jesed"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:07:25.611729560Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

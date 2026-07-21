@@ -1,68 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "numbers 3:6",
   "book": "numbers",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 25563,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26007
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:56:24.405011518Z",
   "translation": "Ha-kerav ⟨את⟩ mateh Levi ve-ha'amadta oto ⟨את⟩ lifnei Aharón ha-Kohen ve-shereto ⟨את⟩",
   "tokens": [
     {
       "surface": "הקרב",
-      "english": "Ha-kerav"
+      "gloss": "Ha-kerav"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mateh Levi"
     },
     {
       "surface": "מטה",
-      "english": "mateh"
+      "gloss": "mateh"
     },
     {
       "surface": "לוי",
-      "english": "Levi"
+      "gloss": "Levi"
     },
     {
       "surface": "והעמדת",
-      "english": "ve-ha'amadta"
+      "gloss": "ve-ha'amadta"
     },
     {
       "surface": "אתו",
-      "english": "oto",
+      "gloss": "oto",
       "marks": "lifnei"
     },
     {
       "surface": "לפני",
-      "english": "lifnei"
+      "gloss": "lifnei"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "הכהן",
-      "english": "ha-Kohen"
+      "gloss": "ha-Kohen"
     },
     {
       "surface": "ושרתו",
-      "english": "ve-shereto"
+      "gloss": "ve-shereto"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-07-16T22:56:24.405011518Z",
-  "model": "glm-4.5"
+  ]
 }

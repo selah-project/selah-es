@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 2:10",
   "book": "genesis",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 28849,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29223
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:51:25.541761092Z",
   "translation": "Y un río salía de Edén para regar ⟨את⟩ el jardín, y desde allí se dividía y se hacía en cuatro cabezas",
   "tokens": [
     {
       "surface": "ונהר",
-      "english": "Y un río"
+      "gloss": "Y un río"
     },
     {
       "surface": "יצא",
-      "english": "salía"
+      "gloss": "salía"
     },
     {
       "surface": "מעדן",
-      "english": "de Edén"
+      "gloss": "de Edén"
     },
     {
       "surface": "להשקות",
-      "english": "para regar"
+      "gloss": "para regar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el jardín"
     },
     {
       "surface": "הגן",
-      "english": "el jardín"
+      "gloss": "el jardín"
     },
     {
       "surface": "ומשם",
-      "english": "y desde allí"
+      "gloss": "y desde allí"
     },
     {
       "surface": "יפרד",
-      "english": "se dividía"
+      "gloss": "se dividía"
     },
     {
       "surface": "והיה",
-      "english": "y se hacía"
+      "gloss": "y se hacía"
     },
     {
       "surface": "לארבעה",
-      "english": "en cuatro"
+      "gloss": "en cuatro"
     },
     {
       "surface": "ראשים",
-      "english": "cabezas"
+      "gloss": "cabezas"
     }
-  ],
-  "timestamp": "2026-07-16T20:51:25.541761092Z",
-  "model": "glm-4.5"
+  ]
 }

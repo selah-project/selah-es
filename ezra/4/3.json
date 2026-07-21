@@ -1,9 +1,124 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "ezra 4:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 4,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:14:27.402888423Z",
+  "translation": "Y dijo Zerubbabel, y Jeshúa, y ⟨los⟩ demás cabezas de ⟨los⟩ padres de Yisrael a ellos: No ⟨es⟩ para ustedes y para nosotros para edificar ⟨el⟩ palacio a nuestro Elohim, porque nosotros unidos construiremos a YHWH, Elohim de Yisrael, como ⟨lo⟩ mandó el rey Koresh, rey de Persia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a ellos"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "y Jeshúa"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "y ⟨los⟩ demás"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "cabezas"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "de ⟨los⟩ padres"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "de Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "No"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para ustedes"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "y para nosotros"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "para edificar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨el⟩ palacio"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "a nuestro Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nosotros"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "unidos"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "construiremos"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como ⟨lo⟩"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "mandó"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "de Persia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,132 +135,6 @@
       "hebrew": "כורש"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 762,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46366,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 47128
-  },
-  "translation": "Y dijo Zerubbabel, y Jeshúa, y ⟨los⟩ demás cabezas de ⟨los⟩ padres de Yisrael a ellos: No ⟨es⟩ para ustedes y para nosotros para edificar ⟨el⟩ palacio a nuestro Elohim, porque nosotros unidos construiremos a YHWH, Elohim de Yisrael, como ⟨lo⟩ mandó el rey Koresh, rey de Persia.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "להם",
-      "english": "a ellos"
-    },
-    {
-      "surface": "זרבבל",
-      "english": "Zerubbabel"
-    },
-    {
-      "surface": "וישוע",
-      "english": "y Jeshúa"
-    },
-    {
-      "surface": "ושאר",
-      "english": "y ⟨los⟩ demás"
-    },
-    {
-      "surface": "ראשי",
-      "english": "cabezas"
-    },
-    {
-      "surface": "האבות",
-      "english": "de ⟨los⟩ padres"
-    },
-    {
-      "surface": "לישראל",
-      "english": "de Israel"
-    },
-    {
-      "surface": "לא",
-      "english": "No"
-    },
-    {
-      "surface": "לכם",
-      "english": "para ustedes"
-    },
-    {
-      "surface": "ולנו",
-      "english": "y para nosotros"
-    },
-    {
-      "surface": "לבנות",
-      "english": "para edificar"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨el⟩ palacio"
-    },
-    {
-      "surface": "לאלהינו",
-      "english": "a nuestro Elohim"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "nosotros"
-    },
-    {
-      "surface": "יחד",
-      "english": "unidos"
-    },
-    {
-      "surface": "נבנה",
-      "english": "construiremos"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como ⟨lo⟩"
-    },
-    {
-      "surface": "צונו",
-      "english": "mandó"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "כורש",
-      "english": "Koresh"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "פרס",
-      "english": "de Persia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:14:27.402888423Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 47:10",
   "book": "genesis",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 336,
-    "prompt_tokens": 28494,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28830
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:15:33.450911720Z",
   "translation": "Y Yaakov bendijo ⟨את⟩ Paró y salió de delante de Paró",
   "tokens": [
     {
       "surface": "ויברך",
-      "english": "Y bendijo"
+      "gloss": "Y bendijo"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Paró"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "ויצא",
-      "english": "y salió"
+      "gloss": "y salió"
     },
     {
       "surface": "מלפני",
-      "english": "de delante de"
+      "gloss": "de delante de"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     }
-  ],
-  "timestamp": "2026-07-16T21:15:33.450911720Z",
-  "model": "glm-4.5"
+  ]
 }

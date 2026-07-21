@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "judges 5:9",
   "book": "judges",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23179,
-    "prompt_tokens_details": {
-      "cached_tokens": 22160
-    },
-    "total_tokens": 23700
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:50:50.073039070Z",
   "translation": "Mi corazón ⟨está con⟩ los que gobiernan Yisrael ⟨que⟩ ⟨el⟩ ⟨que⟩ se ofrece voluntariamente ⟨entre⟩ ⟨el⟩ pueblo bendecid YHWH",
   "tokens": [
     {
       "surface": "לבי",
-      "english": "Mi corazón"
+      "gloss": "Mi corazón"
     },
     {
       "surface": "לחוקקי",
-      "english": "⟨está con⟩ los que gobiernan"
+      "gloss": "⟨está con⟩ los que gobiernan"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "המתנדבים",
-      "english": "⟨que⟩ ⟨el⟩ ⟨que⟩ se ofrece voluntariamente"
+      "gloss": "⟨que⟩ ⟨el⟩ ⟨que⟩ se ofrece voluntariamente"
     },
     {
       "surface": "בעם",
-      "english": "⟨entre⟩ ⟨el⟩ pueblo"
+      "gloss": "⟨entre⟩ ⟨el⟩ pueblo"
     },
     {
       "surface": "ברכו",
-      "english": "bendecid"
+      "gloss": "bendecid"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T00:50:50.073039070Z",
-  "model": "glm-4.5"
+  ]
 }

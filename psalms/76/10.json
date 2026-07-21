@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 76:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69962,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70421
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:41.084715177Z",
   "translation": "En ⟨el⟩ levantarse para ⟨el⟩ juicio, Elohim ⟨es⟩ para salvar ⟨a⟩ todos los humildes ⟨de la⟩ tierra. Selah",
   "tokens": [
     {
       "surface": "בקום",
-      "english": "En ⟨el⟩ levantarse"
+      "gloss": "En ⟨el⟩ levantarse"
     },
     {
       "surface": "למשפט",
-      "english": "para ⟨el⟩ juicio"
+      "gloss": "para ⟨el⟩ juicio"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "להושיע",
-      "english": "⟨es⟩ para salvar"
+      "gloss": "⟨es⟩ para salvar"
     },
     {
       "surface": "כל",
-      "english": "⟨a⟩ todos"
+      "gloss": "⟨a⟩ todos"
     },
     {
       "surface": "ענוי",
-      "english": "los humildes"
+      "gloss": "los humildes"
     },
     {
       "surface": "ארץ",
-      "english": "⟨de la⟩ tierra"
+      "gloss": "⟨de la⟩ tierra"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:35:41.084715177Z",
-  "model": "glm-4.5"
+  ]
 }

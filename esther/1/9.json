@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "esther 1:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 1,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:48:00.044320460Z",
+  "translation": "También Vashti ⟨la⟩ reina hizo ⟨un⟩ banquete para ⟨las⟩ mujeres ⟨en⟩ ⟨la⟩ casa real ⟨que⟩ ⟨pertenecía⟩ ⟨al⟩ rey Ajashverósh",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "También"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨la⟩ reina"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hizo"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "⟨un⟩ banquete"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "para ⟨las⟩ mujeres"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨en⟩ ⟨la⟩ casa"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "real"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨pertenecía⟩ ⟨al⟩ rey"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajashverósh"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Asuero",
@@ -13,68 +64,6 @@
       "hebrew": "אחשורוש"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17666,
-    "prompt_tokens_details": {
-      "cached_tokens": 16282
-    },
-    "total_tokens": 18196
-  },
-  "translation": "También Vashti ⟨la⟩ reina hizo ⟨un⟩ banquete para ⟨las⟩ mujeres ⟨en⟩ ⟨la⟩ casa real ⟨que⟩ ⟨pertenecía⟩ ⟨al⟩ rey Ajashverósh",
-  "tokens": [
-    {
-      "surface": "גם",
-      "english": "También"
-    },
-    {
-      "surface": "ושתי",
-      "english": "Vashti"
-    },
-    {
-      "surface": "המלכה",
-      "english": "⟨la⟩ reina"
-    },
-    {
-      "surface": "עשתה",
-      "english": "hizo"
-    },
-    {
-      "surface": "משתה",
-      "english": "⟨un⟩ banquete"
-    },
-    {
-      "surface": "נשים",
-      "english": "para ⟨las⟩ mujeres"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨en⟩ ⟨la⟩ casa"
-    },
-    {
-      "surface": "המלכות",
-      "english": "real"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "למלך",
-      "english": "⟨pertenecía⟩ ⟨al⟩ rey"
-    },
-    {
-      "surface": "אחשורוש",
-      "english": "Ajashverósh"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:48:00.044320460Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

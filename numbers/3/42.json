@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "numbers 3:42",
   "book": "numbers",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 390,
-    "prompt_tokens": 25555,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25945
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:56:39.164109958Z",
   "translation": "Y Moshé numeró ⟨como⟩ ⟨el⟩ que YHWH ⟨le⟩ ordenó ⟨a⟩ todo primogénito ⟨entre⟩ los hijos de Yisrael",
   "tokens": [
     {
       "surface": "ויפקד",
-      "english": "Y numeró"
+      "gloss": "Y numeró"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "כאשר",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "צוה",
-      "english": "ordenó"
+      "gloss": "ordenó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אתו",
-      "english": "⟨le⟩"
+      "gloss": "⟨le⟩"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "todo primogénito ⟨entre⟩ los hijos de Yisrael"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "בכר",
-      "english": "primogénito"
+      "gloss": "primogénito"
     },
     {
       "surface": "בבני",
-      "english": "⟨entre⟩ los hijos"
+      "gloss": "⟨entre⟩ los hijos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T22:56:39.164109958Z",
-  "model": "glm-4.5"
+  ]
 }

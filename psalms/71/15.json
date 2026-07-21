@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 71:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70219,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70714
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:56.522325330Z",
   "translation": "Mi boca ⟨contará⟩ tu justicia ⟨את⟩ todos ⟨el⟩ día tu salvación ⟨את⟩ porque no ⟨conozco⟩ las numeraciones ⟨de ella⟩",
   "tokens": [
     {
       "surface": "פי",
-      "english": "Mi boca"
+      "gloss": "Mi boca"
     },
     {
       "surface": "יספר",
-      "english": "⟨contará⟩"
+      "gloss": "⟨contará⟩"
     },
     {
       "surface": "צדקתך",
-      "english": "tu justicia"
+      "gloss": "tu justicia"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "היום",
-      "english": "⟨el⟩ día"
+      "gloss": "⟨el⟩ día"
     },
     {
       "surface": "תשועתך",
-      "english": "tu salvación"
+      "gloss": "tu salvación"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ידעתי",
-      "english": "⟨conozco⟩"
+      "gloss": "⟨conozco⟩"
     },
     {
       "surface": "ספרות",
-      "english": "las numeraciones ⟨de ella⟩",
+      "gloss": "las numeraciones ⟨de ella⟩",
       "marks": "tu salvación y tu justicia"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:56.522325330Z",
-  "model": "glm-4.5"
+  ]
 }

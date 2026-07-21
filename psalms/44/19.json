@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 44:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69950,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70340
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:18.098817264Z",
   "translation": "⟨We⟩ do ⟨not⟩ flinch backward in ⟨our⟩ heart ⟨את⟩, and ⟨our⟩ steps ⟨are⟩ not turned aside from ⟨your⟩ way.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Not"
+      "gloss": "Not"
     },
     {
       "surface": "נסוג",
-      "english": "flinch"
+      "gloss": "flinch"
     },
     {
       "surface": "אחור",
-      "english": "backward"
+      "gloss": "backward"
     },
     {
       "surface": "לבנו",
-      "english": "our heart"
+      "gloss": "our heart"
     },
     {
       "surface": "ותט",
-      "english": "and",
+      "gloss": "and",
       "marks": "our steps"
     },
     {
       "surface": "אשרינו",
-      "english": "steps",
+      "gloss": "steps",
       "marks": "our"
     },
     {
       "surface": "מני",
-      "english": "from"
+      "gloss": "from"
     },
     {
       "surface": "ארחך",
-      "english": "your way"
+      "gloss": "your way"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:18.098817264Z",
-  "model": "glm-4.5"
+  ]
 }

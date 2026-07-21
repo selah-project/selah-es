@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 41:5",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27114,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27539
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:43.807376326Z",
   "translation": "¿Quién descubrirá ⟨el⟩ rostro de su vestido? ⟨Con⟩ doble brida ⟨de su⟩ boca ¿quién vendrá?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "גלה",
-      "english": "descubrirá"
+      "gloss": "descubrirá"
     },
     {
       "surface": "פני",
-      "english": "⟨el⟩ rostro"
+      "gloss": "⟨el⟩ rostro"
     },
     {
       "surface": "לבושו",
-      "english": "de su vestido"
+      "gloss": "de su vestido"
     },
     {
       "surface": "בכפל",
-      "english": "⟨Con⟩ doble"
+      "gloss": "⟨Con⟩ doble"
     },
     {
       "surface": "רסנו",
-      "english": "brida ⟨de su⟩ boca"
+      "gloss": "brida ⟨de su⟩ boca"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "יבוא",
-      "english": "vendrá"
+      "gloss": "vendrá"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:43.807376326Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 67:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 67,
-  "usage": {
-    "completion_tokens": 449,
-    "prompt_tokens": 69970,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70419
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:32:34.386226887Z",
   "translation": "Elohim nos bendiga, y ⟨le⟩ teman ⟨את⟩ ⟨todos⟩ los confines de la tierra",
   "tokens": [
     {
       "surface": "יברכנו",
-      "english": "nos bendiga"
+      "gloss": "nos bendiga"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "וייראו",
-      "english": "y ⟨le⟩ teman"
+      "gloss": "y ⟨le⟩ teman"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨todos⟩ los confines de la tierra"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "אפסי",
-      "english": "los confines de"
+      "gloss": "los confines de"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T23:32:34.386226887Z",
-  "model": "glm-4.5"
+  ]
 }

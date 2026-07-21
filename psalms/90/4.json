@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 90:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70147,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70507
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:12.869187663Z",
   "translation": "Porque mil años ⟨son⟩ a tus ojos como ayer ⟨que⟩ pasó, como una vigil ⟨de⟩ ⟨la⟩ noche",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אלף",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "בעיניך",
-      "english": "a tus ojos"
+      "gloss": "a tus ojos"
     },
     {
       "surface": "כיום",
-      "english": "como ayer"
+      "gloss": "como ayer"
     },
     {
       "surface": "אתמול",
-      "english": "⟨que⟩",
+      "gloss": "⟨que⟩",
       "marks": "ayer"
     },
     {
       "surface": "כי",
-      "english": "pasó"
+      "gloss": "pasó"
     },
     {
       "surface": "יעבר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "ואשמורה",
-      "english": "una vigil ⟨de⟩",
+      "gloss": "una vigil ⟨de⟩",
       "marks": "noche"
     },
     {
       "surface": "בלילה",
-      "english": "⟨la⟩ noche"
+      "gloss": "⟨la⟩ noche"
     }
-  ],
-  "timestamp": "2026-06-09T23:44:12.869187663Z",
-  "model": "glm-4.5"
+  ]
 }

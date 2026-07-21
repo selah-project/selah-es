@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 85:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69856,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70314
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:41:03.479193370Z",
   "translation": "⟨Is⟩ not you, you will turn ⟨back⟩ us to live, and your people will rejoice in you",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "⟨Is⟩ not",
+      "gloss": "⟨Is⟩ not",
       "marks": "the question marker"
     },
     {
       "surface": "אתה",
-      "english": "you",
+      "gloss": "you",
       "marks": "the subject"
     },
     {
       "surface": "תשוב",
-      "english": "will turn ⟨back⟩",
+      "gloss": "will turn ⟨back⟩",
       "marks": "the return action"
     },
     {
       "surface": "תחינו",
-      "english": "us to live",
+      "gloss": "us to live",
       "marks": "the recipients of revival"
     },
     {
       "surface": "ועמך",
-      "english": "and your people",
+      "gloss": "and your people",
       "marks": "the community that rejoices"
     },
     {
       "surface": "ישמחו",
-      "english": "will rejoice",
+      "gloss": "will rejoice",
       "marks": "the joy response"
     },
     {
       "surface": "בך",
-      "english": "in you",
+      "gloss": "in you",
       "marks": "the object of rejoicing"
     }
-  ],
-  "timestamp": "2026-06-09T23:41:03.479193370Z",
-  "model": "glm-4.5"
+  ]
 }

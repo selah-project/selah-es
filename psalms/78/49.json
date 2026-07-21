@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 49,
   "ref": "psalms 78:49",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 606,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70131,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70737
-  },
+  "verse": 49,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:37:31.271504105Z",
   "translation": "El envió sobre ⟨ellos⟩ ⟨el⟩ furor de su nariz, desahogo y furia, y ⟨la⟩ angustia ⟨de⟩ un envío de mensajeros de males.",
   "tokens": [
     {
       "surface": "ישלח",
-      "english": "El envió"
+      "gloss": "El envió"
     },
     {
       "surface": "בם",
-      "english": "sobre ⟨ellos⟩",
+      "gloss": "sobre ⟨ellos⟩",
       "marks": "ellos"
     },
     {
       "surface": "חרון",
-      "english": "⟨el⟩ furor",
+      "gloss": "⟨el⟩ furor",
       "marks": "furor"
     },
     {
       "surface": "אפו",
-      "english": "de su nariz"
+      "gloss": "de su nariz"
     },
     {
       "surface": "עברה",
-      "english": "desahogo"
+      "gloss": "desahogo"
     },
     {
       "surface": "וזעם",
-      "english": "y furia"
+      "gloss": "y furia"
     },
     {
       "surface": "וצרה",
-      "english": "y ⟨la⟩ angustia",
+      "gloss": "y ⟨la⟩ angustia",
       "marks": "angustia"
     },
     {
       "surface": "משלחת",
-      "english": "⟨de⟩ un envío",
+      "gloss": "⟨de⟩ un envío",
       "marks": "un envío"
     },
     {
       "surface": "מלאכי",
-      "english": "de mensajeros"
+      "gloss": "de mensajeros"
     },
     {
       "surface": "רעים",
-      "english": "de males"
+      "gloss": "de males"
     }
-  ],
-  "timestamp": "2026-06-09T23:37:31.271504105Z",
-  "model": "glm-4.5"
+  ]
 }

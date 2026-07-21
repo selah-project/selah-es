@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 63:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69856,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70325
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:18.291712629Z",
   "translation": "⟨por⟩ ⟨is⟩ bueno tu Jésed ⟨que⟩ ⟨las⟩ vidas mis labios te alabarán",
   "tokens": [
     {
       "surface": "כי",
-      "english": "⟨Por⟩"
+      "gloss": "⟨Por⟩"
     },
     {
       "surface": "טוב",
-      "english": "⟨is⟩ bueno"
+      "gloss": "⟨is⟩ bueno"
     },
     {
       "surface": "חסדך",
-      "english": "tu Jésed"
+      "gloss": "tu Jésed"
     },
     {
       "surface": "מחיים",
-      "english": "⟨que⟩ ⟨las⟩ vidas"
+      "gloss": "⟨que⟩ ⟨las⟩ vidas"
     },
     {
       "surface": "שפתי",
-      "english": "mis labios"
+      "gloss": "mis labios"
     },
     {
       "surface": "ישבחונך",
-      "english": "te alabarán"
+      "gloss": "te alabarán"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:18.291712629Z",
-  "model": "glm-4.5"
+  ]
 }

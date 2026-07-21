@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "numbers 28:21",
   "book": "numbers",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24944,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25345
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:02:56.409753476Z",
   "translation": "una décima parte una décima parte harás ⟨para el⟩ cordero ⟨el⟩ uno ⟨para los⟩ siete ⟨de los⟩ corderos",
   "tokens": [
     {
       "surface": "עשרון",
-      "english": "Una décima parte"
+      "gloss": "Una décima parte"
     },
     {
       "surface": "עשרון",
-      "english": "una décima parte"
+      "gloss": "una décima parte"
     },
     {
       "surface": "תעשה",
-      "english": "harás"
+      "gloss": "harás"
     },
     {
       "surface": "לכבש",
-      "english": "⟨para el⟩ cordero",
+      "gloss": "⟨para el⟩ cordero",
       "marks": "cordero"
     },
     {
       "surface": "האחד",
-      "english": "⟨el⟩ uno",
+      "gloss": "⟨el⟩ uno",
       "marks": "uno"
     },
     {
       "surface": "לשבעת",
-      "english": "⟨para los⟩ siete",
+      "gloss": "⟨para los⟩ siete",
       "marks": "siete"
     },
     {
       "surface": "הכבשים",
-      "english": "⟨de los⟩ corderos",
+      "gloss": "⟨de los⟩ corderos",
       "marks": "corderos"
     }
-  ],
-  "timestamp": "2026-06-10T05:02:56.409753476Z",
-  "model": "glm-4.5"
+  ]
 }

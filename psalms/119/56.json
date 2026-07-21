@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 56,
   "ref": "psalms 119:56",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69728,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70131
-  },
+  "verse": 56,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:58:45.504790588Z",
   "translation": "Esto me ha sucedido ⟨porque⟩ yo he guardado ⟨את⟩ tus pikkudim.",
   "tokens": [
     {
       "surface": "זאת",
-      "english": "Esto"
+      "gloss": "Esto"
     },
     {
       "surface": "היתה",
-      "english": "ha sido \/ ha sucedido"
+      "gloss": "ha sido \/ ha sucedido"
     },
     {
       "surface": "לי",
-      "english": "a mí \/ me"
+      "gloss": "a mí \/ me"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "פקדיך",
-      "english": "tus pikkudim (mandatos señalados)"
+      "gloss": "tus pikkudim (mandatos señalados)"
     },
     {
       "surface": "נצרתי",
-      "english": "yo he guardado"
+      "gloss": "yo he guardado"
     }
-  ],
-  "timestamp": "2026-06-13T03:58:45.504790588Z",
-  "model": "glm-5.1"
+  ]
 }

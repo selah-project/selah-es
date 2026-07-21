@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 14,
   "ref": "psalms 77:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69886,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70408
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:57:36.848210927Z",
   "translation": "Elohim, en ⟨el⟩ santo ⟨está⟩ tu camino: ¿quién ⟨es⟩ El grande como Elohim?",
   "tokens": [
     {
       "surface": "אֱ֭לֹהִים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בַּ\/קֹּ֣דֶשׁ",
-      "english": "en ⟨el⟩ santo"
+      "gloss": "en ⟨el⟩ santo"
     },
     {
       "surface": "דַּרְכֶּ֑\/ךָ",
-      "english": "⟨está⟩ tu camino"
+      "gloss": "⟨está⟩ tu camino"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "אֵ֥ל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "גָּ֝ד֗וֹל",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "כֵּֽ\/אלֹהִֽים",
-      "english": "como Elohim"
+      "gloss": "como Elohim"
     }
-  ],
-  "timestamp": "2026-06-13T03:57:36.848210927Z",
-  "model": "glm-5.1"
+  ]
 }

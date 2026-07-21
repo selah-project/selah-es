@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 9:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 418,
-    "prompt_tokens": 69920,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70338
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:52.139727451Z",
   "translation": "Me alegraré y me regocijaré en ti; cantaré salmos ⟨a⟩ tu nombre, ⟨el⟩ Altísimo:",
   "tokens": [
     {
       "surface": "אשמחה",
-      "english": "Me alegraré"
+      "gloss": "Me alegraré"
     },
     {
       "surface": "ואעלצה",
-      "english": "y me regocijaré"
+      "gloss": "y me regocijaré"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     },
     {
       "surface": "אזמרה",
-      "english": "cantaré salmos"
+      "gloss": "cantaré salmos"
     },
     {
       "surface": "שמך",
-      "english": "⟨a⟩ tu nombre"
+      "gloss": "⟨a⟩ tu nombre"
     },
     {
       "surface": "עליון",
-      "english": "⟨el⟩ Altísimo"
+      "gloss": "⟨el⟩ Altísimo"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:52.139727451Z",
-  "model": "glm-4.5"
+  ]
 }

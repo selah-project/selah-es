@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 10:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 10,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:38:28.982229750Z",
+  "translation": "Y los filisteos pelearon contra Yisrael y los hombres de Yisrael huyeron de ⟨el⟩ frente de los filisteos y cayeron ⟨como⟩ heridos en el monte Gilboa",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Y los filisteos"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "pelearon"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contra Israel"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "y los hombres de Israel huyeron"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hombres"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de ⟨el⟩ frente de"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "los filisteos"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "y cayeron"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "⟨como⟩ heridos"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "en el monte"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 620,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57169,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57789
-  },
-  "translation": "Y los filisteos pelearon contra Yisrael y los hombres de Yisrael huyeron de ⟨el⟩ frente de los filisteos y cayeron ⟨como⟩ heridos en el monte Gilboa",
-  "tokens": [
-    {
-      "surface": "ופלשתים",
-      "english": "Y los filisteos"
-    },
-    {
-      "surface": "נלחמו",
-      "english": "pelearon"
-    },
-    {
-      "surface": "בישראל",
-      "english": "contra Israel"
-    },
-    {
-      "surface": "וינס",
-      "english": "y los hombres de Israel huyeron"
-    },
-    {
-      "surface": "איש",
-      "english": "hombres"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מפני",
-      "english": "de ⟨el⟩ frente de"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "los filisteos"
-    },
-    {
-      "surface": "ויפלו",
-      "english": "y cayeron"
-    },
-    {
-      "surface": "חללים",
-      "english": "⟨como⟩ heridos"
-    },
-    {
-      "surface": "בהר",
-      "english": "en el monte"
-    },
-    {
-      "surface": "גלבע",
-      "english": "Gilboa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:38:28.982229750Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

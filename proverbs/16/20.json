@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 16:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59965,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60494
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:39:54.709909252Z",
   "translation": "El ⟨que es⟩ prudente ⟨en⟩ ⟨la⟩ palabra hallará ⟨el⟩ bien y ⟨el⟩ que ⟨se⟩ fia ⟨en⟩ YHWH ⟨es⟩ bienaventurado.",
   "tokens": [
     {
       "surface": "משכיל",
-      "english": "⟨Que es⟩ prudente"
+      "gloss": "⟨Que es⟩ prudente"
     },
     {
       "surface": "על",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "דבר",
-      "english": "⟨la⟩ palabra",
+      "gloss": "⟨la⟩ palabra",
       "marks": "prudente ⟨en⟩ ⟨la⟩ palabra"
     },
     {
       "surface": "ימצא",
-      "english": "hallará"
+      "gloss": "hallará"
     },
     {
       "surface": "טוב",
-      "english": "⟨el⟩ bien"
+      "gloss": "⟨el⟩ bien"
     },
     {
       "surface": "ובוטח",
-      "english": "y ⟨el⟩ que ⟨se⟩ fia"
+      "gloss": "y ⟨el⟩ que ⟨se⟩ fia"
     },
     {
       "surface": "ביהוה",
-      "english": "⟨en⟩ YHWH",
+      "gloss": "⟨en⟩ YHWH",
       "marks": "⟨se⟩ fia ⟨en⟩ YHWH"
     },
     {
       "surface": "אשריו",
-      "english": "⟨es⟩ bienaventurado"
+      "gloss": "⟨es⟩ bienaventurado"
     }
-  ],
-  "timestamp": "2026-06-10T01:39:54.709909252Z",
-  "model": "glm-4.5"
+  ]
 }

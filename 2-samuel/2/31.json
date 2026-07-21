@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "2-samuel 2:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 2,
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:17:30.592344006Z",
+  "translation": "Y ⟨los⟩ siervos de Davidd habían herido ⟨de⟩ Benjamín y ⟨de los⟩ hombres de Abner, trescientos y sesenta hombres murieron",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "Y ⟨los⟩ siervos"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "habían herido"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "⟨de⟩ Benjamín"
+    },
+    {
+      "surface": "ובאנשי",
+      "gloss": "y ⟨de los⟩ hombres"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "de Abner"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trescientos"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "y"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "sesenta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hombres"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "murieron"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,68 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17153,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17520
-  },
-  "translation": "Y ⟨los⟩ siervos de Davidd habían herido ⟨de⟩ Benjamín y ⟨de los⟩ hombres de Abner, trescientos y sesenta hombres murieron",
-  "tokens": [
-    {
-      "surface": "ועבדי",
-      "english": "Y ⟨los⟩ siervos"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "הכו",
-      "english": "habían herido"
-    },
-    {
-      "surface": "מבנימן",
-      "english": "⟨de⟩ Benjamín"
-    },
-    {
-      "surface": "ובאנשי",
-      "english": "y ⟨de los⟩ hombres"
-    },
-    {
-      "surface": "אבנר",
-      "english": "de Abner"
-    },
-    {
-      "surface": "שלש",
-      "english": "trescientos"
-    },
-    {
-      "surface": "מאות",
-      "english": "y"
-    },
-    {
-      "surface": "וששים",
-      "english": "sesenta"
-    },
-    {
-      "surface": "איש",
-      "english": "hombres"
-    },
-    {
-      "surface": "מתו",
-      "english": "murieron"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:17:30.592344006Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

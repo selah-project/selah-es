@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 33:12",
   "book": "genesis",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 392,
-    "prompt_tokens": 28249,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28641
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:08:10.603571379Z",
   "translation": "Y dijo: ⟨Vamos⟩ a partir y vayamos, y yo ⟨iré⟩ delante de ti.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "נסעה",
-      "english": "⟨Vamos⟩ a partir"
+      "gloss": "⟨Vamos⟩ a partir"
     },
     {
       "surface": "ונלכה",
-      "english": "y vayamos"
+      "gloss": "y vayamos"
     },
     {
       "surface": "ואלכה",
-      "english": "y yo ⟨iré⟩"
+      "gloss": "y yo ⟨iré⟩"
     },
     {
       "surface": "לנגדך",
-      "english": "delante de ti"
+      "gloss": "delante de ti"
     }
-  ],
-  "timestamp": "2026-07-16T21:08:10.603571379Z",
-  "model": "glm-4.5"
+  ]
 }

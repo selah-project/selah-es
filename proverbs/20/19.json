@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "proverbs 20:19",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 570,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59996,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60566
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:43:45.533757581Z",
   "translation": "El que revela un ⟨sod⟩ secreto es un ⟨rákil⟩ chismoso ⟨vólej⟩ que camina; con el ⟨ulpaté⟩ lisonjero ⟨shfatáv⟩ con sus labios ⟨lo⟩ no ⟨titárav⟩ te mezcles",
   "tokens": [
     {
       "surface": "גולה",
-      "english": "El que revela un ⟨sod⟩ secreto"
+      "gloss": "El que revela un ⟨sod⟩ secreto"
     },
     {
       "surface": "סוד",
-      "english": "sod",
+      "gloss": "sod",
       "marks": "un secreto"
     },
     {
       "surface": "הולך",
-      "english": "que camina"
+      "gloss": "que camina"
     },
     {
       "surface": "רכיל",
-      "english": "rákil",
+      "gloss": "rákil",
       "marks": "chismoso"
     },
     {
       "surface": "ולפתה",
-      "english": "ulpaté",
+      "gloss": "ulpaté",
       "marks": "lisonjero"
     },
     {
       "surface": "שפתיו",
-      "english": "shfatáv",
+      "gloss": "shfatáv",
       "marks": "con sus labios"
     },
     {
       "surface": "לא",
-      "english": "lo"
+      "gloss": "lo"
     },
     {
       "surface": "תתערב",
-      "english": "titárav",
+      "gloss": "titárav",
       "marks": "te mezcles"
     }
-  ],
-  "timestamp": "2026-06-10T01:43:45.533757581Z",
-  "model": "glm-4.5"
+  ]
 }

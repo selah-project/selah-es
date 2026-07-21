@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 25:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 162,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28084,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28246
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:22:35.498324583Z",
   "translation": "Hadad y Tema, Jetur, Nafish y Qedemá",
   "tokens": [
     {
       "surface": "חדד",
-      "english": "Hadad"
+      "gloss": "Hadad"
     },
     {
       "surface": "ותימא",
-      "english": "y Tema"
+      "gloss": "y Tema"
     },
     {
       "surface": "יטור",
-      "english": "Jetur"
+      "gloss": "Jetur"
     },
     {
       "surface": "נפיש",
-      "english": "Nafish"
+      "gloss": "Nafish"
     },
     {
       "surface": "וקדמה",
-      "english": "y Qedemá"
+      "gloss": "y Qedemá"
     }
-  ],
-  "timestamp": "2026-06-10T05:22:35.498324583Z",
-  "model": "glm-4.5"
+  ]
 }

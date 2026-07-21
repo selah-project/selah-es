@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 86:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69954,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70494
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:41:51.512389883Z",
   "translation": "Te confesaré ⟨את⟩, Adonai Elohim mío, con todo ⟨el⟩ corazón ⟨de⟩ mi ⟨ser⟩ ⟨interior⟩, y glorificaré ⟨el⟩ nombre ⟨de⟩ Tu ⟨ser⟩ ⟨eternamente⟩.",
   "tokens": [
     {
       "surface": "אודך",
-      "english": "Te confesaré"
+      "gloss": "Te confesaré"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim mío"
+      "gloss": "Elohim mío"
     },
     {
       "surface": "בכל",
-      "english": "con todo"
+      "gloss": "con todo"
     },
     {
       "surface": "לבבי",
-      "english": "corazón ⟨de⟩ mi ⟨ser⟩ ⟨interior⟩"
+      "gloss": "corazón ⟨de⟩ mi ⟨ser⟩ ⟨interior⟩"
     },
     {
       "surface": "ואכבדה",
-      "english": "y glorificaré"
+      "gloss": "y glorificaré"
     },
     {
       "surface": "שמך",
-      "english": "⟨el⟩ nombre ⟨de⟩ Tu ⟨ser⟩"
+      "gloss": "⟨el⟩ nombre ⟨de⟩ Tu ⟨ser⟩"
     },
     {
       "surface": "לעולם",
-      "english": "⟨eternamente⟩"
+      "gloss": "⟨eternamente⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:41:51.512389883Z",
-  "model": "glm-4.5"
+  ]
 }

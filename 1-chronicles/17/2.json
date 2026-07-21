@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 17:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 17,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:47:10.892774237Z",
+  "translation": "Y dijo Natán a Davidd: ⟨Es⟩ todo lo que ⟨está⟩ en tu corazón, haz ⟨lo⟩, porque ⟨el⟩ Elohim ⟨está⟩ contigo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo que"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "en tu corazón"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "haz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨el⟩ Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨está⟩ contigo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,68 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56986,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57445
-  },
-  "translation": "Y dijo Natán a Davidd: ⟨Es⟩ todo lo que ⟨está⟩ en tu corazón, haz ⟨lo⟩, porque ⟨el⟩ Elohim ⟨está⟩ contigo.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "נתן",
-      "english": "Natán"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "אשר",
-      "english": "lo que"
-    },
-    {
-      "surface": "בלבבך",
-      "english": "en tu corazón"
-    },
-    {
-      "surface": "עשה",
-      "english": "haz"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨el⟩ Elohim"
-    },
-    {
-      "surface": "עמך",
-      "english": "⟨está⟩ contigo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:47:10.892774237Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

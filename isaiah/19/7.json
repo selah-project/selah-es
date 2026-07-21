@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 19:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 570,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26483,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 27053
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:31:38.181760339Z",
   "translation": "Las parcelas desnudas ⟨al⟩ río, ⟨a⟩ ⟨la⟩ boca ⟨del⟩ río, y toda siembra ⟨del⟩ río se secará, será dispersada y no será más.",
   "tokens": [
     {
       "surface": "ערות",
-      "english": "Las parcelas desnudas"
+      "gloss": "Las parcelas desnudas"
     },
     {
       "surface": "על",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "יאור",
-      "english": "río"
+      "gloss": "río"
     },
     {
       "surface": "על",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "פי",
-      "english": "⟨la⟩ boca"
+      "gloss": "⟨la⟩ boca"
     },
     {
       "surface": "יאור",
-      "english": "⟨del⟩ río"
+      "gloss": "⟨del⟩ río"
     },
     {
       "surface": "וכל",
-      "english": "y toda"
+      "gloss": "y toda"
     },
     {
       "surface": "מזרע",
-      "english": "siembra"
+      "gloss": "siembra"
     },
     {
       "surface": "יאור",
-      "english": "⟨del⟩ río"
+      "gloss": "⟨del⟩ río"
     },
     {
       "surface": "ייבש",
-      "english": "se secará"
+      "gloss": "se secará"
     },
     {
       "surface": "נדף",
-      "english": "será dispersada"
+      "gloss": "será dispersada"
     },
     {
       "surface": "ואיננו",
-      "english": "y no será más"
+      "gloss": "y no será más"
     }
-  ],
-  "timestamp": "2026-06-10T02:31:38.181760339Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 99:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 99,
-  "usage": {
-    "completion_tokens": 751,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70014,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70765
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:13.057377281Z",
   "translation": "YHWH ⟨es⟩ Rey, tiemblen los pueblos; ⟨Él⟩ ⟨está⟩ sentado ⟨sobre⟩ los querubines, tiembla ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מלך",
-      "english": "⟨es⟩ Rey"
+      "gloss": "⟨es⟩ Rey"
     },
     {
       "surface": "ירגזו",
-      "english": "tiemblen"
+      "gloss": "tiemblen"
     },
     {
       "surface": "עמים",
-      "english": "los pueblos"
+      "gloss": "los pueblos"
     },
     {
       "surface": "ישב",
-      "english": "⟨Él⟩ ⟨está⟩ sentado"
+      "gloss": "⟨Él⟩ ⟨está⟩ sentado"
     },
     {
       "surface": "כרובים",
-      "english": "⟨sobre⟩ los querubines"
+      "gloss": "⟨sobre⟩ los querubines"
     },
     {
       "surface": "תנוט",
-      "english": "tiembla"
+      "gloss": "tiembla"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:13.057377281Z",
-  "model": "glm-4.5"
+  ]
 }

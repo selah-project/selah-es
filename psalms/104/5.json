@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 104:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69946,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70294
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:49:36.477087757Z",
   "translation": "Él fundó la tierra sobre ⟨sus⟩ cimientos ⟨no⟩ será movida jamás y para siempre",
   "tokens": [
     {
       "surface": "יסד",
-      "english": "Fundó"
+      "gloss": "Fundó"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מכוניה",
-      "english": "⟨sus⟩ cimientos"
+      "gloss": "⟨sus⟩ cimientos"
     },
     {
       "surface": "בל",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תמוט",
-      "english": "será movida"
+      "gloss": "será movida"
     },
     {
       "surface": "עולם",
-      "english": "jamás"
+      "gloss": "jamás"
     },
     {
       "surface": "ועד",
-      "english": "y para siempre"
+      "gloss": "y para siempre"
     }
-  ],
-  "timestamp": "2026-06-09T23:49:36.477087757Z",
-  "model": "glm-4.5"
+  ]
 }

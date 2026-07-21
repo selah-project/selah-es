@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 114:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 69937,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70372
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:06.778068879Z",
   "translation": "En la salida de Israel de Mitsráyim, la casa de Yaakov de un pueblo de lengua extraña;",
   "tokens": [
     {
       "surface": "בצאת",
-      "english": "En la salida"
+      "gloss": "En la salida"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "ממצרים",
-      "english": "de Mitsráyim"
+      "gloss": "de Mitsráyim"
     },
     {
       "surface": "בית",
-      "english": "la casa"
+      "gloss": "la casa"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     },
     {
       "surface": "מעם",
-      "english": "de un pueblo"
+      "gloss": "de un pueblo"
     },
     {
       "surface": "לעז",
-      "english": "de lengua extraña"
+      "gloss": "de lengua extraña"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:06.778068879Z",
-  "model": "glm-4.5"
+  ]
 }

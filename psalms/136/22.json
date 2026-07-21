@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 136:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69758,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70077
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:07:22.277045526Z",
   "translation": "⟨Un⟩ heredamiento ⟨a⟩ Israel su siervo: porque para siempre ⟨es⟩ su misericordia.",
   "tokens": [
     {
       "surface": "נחלה",
-      "english": "Heredamiento"
+      "gloss": "Heredamiento"
     },
     {
       "surface": "לישראל",
-      "english": "⟨a⟩ Israel"
+      "gloss": "⟨a⟩ Israel"
     },
     {
       "surface": "עבדו",
-      "english": "su siervo"
+      "gloss": "su siervo"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "su misericordia"
+      "gloss": "su misericordia"
     }
-  ],
-  "timestamp": "2026-06-10T00:07:22.277045526Z",
-  "model": "glm-4.5"
+  ]
 }

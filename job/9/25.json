@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 9:25",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27080,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27413
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:14.522631046Z",
   "translation": "Y mis días ⟨son⟩ más ligeros que ⟨un⟩ correo; huyen, y no ven ⟨lo⟩ bueno.",
   "tokens": [
     {
       "surface": "וימי",
-      "english": "Y mis días"
+      "gloss": "Y mis días"
     },
     {
       "surface": "קלו",
-      "english": "⟨son⟩ más ligeros que"
+      "gloss": "⟨son⟩ más ligeros que"
     },
     {
       "surface": "מני",
-      "english": "⟨un⟩ correo"
+      "gloss": "⟨un⟩ correo"
     },
     {
       "surface": "רץ",
-      "english": "correo"
+      "gloss": "correo"
     },
     {
       "surface": "ברחו",
-      "english": "huyen"
+      "gloss": "huyen"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ראו",
-      "english": "ven"
+      "gloss": "ven"
     },
     {
       "surface": "טובה",
-      "english": "⟨lo⟩ bueno"
+      "gloss": "⟨lo⟩ bueno"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:14.522631046Z",
-  "model": "glm-4.5"
+  ]
 }

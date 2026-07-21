@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "2-chronicles 11:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 11,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:11:08.668534153Z",
+  "translation": "Y puso ⟨el⟩ cabeza ⟨de⟩ Rejavam ⟨a⟩ Aviyah ⟨hijo de⟩ Maaká ⟨por⟩ nagid ⟨entre⟩ sus hermanos, porque ⟨para⟩ reinar ⟨a⟩ él.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Y puso"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "⟨el⟩ cabeza"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "⟨de⟩ Rejavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Aviyah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨hijo de⟩"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaká"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "⟨por⟩ nagid"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "⟨entre⟩ sus hermanos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "⟨para⟩ reinar ⟨a⟩ él"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboam",
@@ -13,69 +65,6 @@
       "hebrew": "רחבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 786,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58180,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58966
-  },
-  "translation": "Y puso ⟨el⟩ cabeza ⟨de⟩ Rejavam ⟨a⟩ Aviyah ⟨hijo de⟩ Maaká ⟨por⟩ nagid ⟨entre⟩ sus hermanos, porque ⟨para⟩ reinar ⟨a⟩ él.",
-  "tokens": [
-    {
-      "surface": "ויעמד",
-      "english": "Y puso"
-    },
-    {
-      "surface": "לראש",
-      "english": "⟨el⟩ cabeza"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "⟨de⟩ Rejavam"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Aviyah"
-    },
-    {
-      "surface": "אביה",
-      "english": "Aviyah"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨hijo de⟩"
-    },
-    {
-      "surface": "מעכה",
-      "english": "Maaká"
-    },
-    {
-      "surface": "לנגיד",
-      "english": "⟨por⟩ nagid"
-    },
-    {
-      "surface": "באחיו",
-      "english": "⟨entre⟩ sus hermanos"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "להמליכו",
-      "english": "⟨para⟩ reinar ⟨a⟩ él"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:11:08.668534153Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

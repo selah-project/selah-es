@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-samuel 24:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 24,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:08:32.164325866Z",
+  "translation": "Y dijo Davidd a Saúl: ¿Por qué ⟨es⟩ que ⟨el⟩ oído escuchas ⟨את⟩ las palabras de ⟨los⟩ hombres, diciendo: He aquí, Davidd busca tu mal?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Saúl"
+    },
+    {
+      "surface": "למה",
+      "gloss": "¿Por qué"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "⟨el⟩ oído escuchas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "las palabras de ⟨los⟩ hombres"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "las palabras"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de ⟨los⟩ hombres"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "He aquí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "busca"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "tu mal"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,77 +80,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16785,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17220
-  },
-  "translation": "Y dijo Davidd a Saúl: ¿Por qué ⟨es⟩ que ⟨el⟩ oído escuchas ⟨את⟩ las palabras de ⟨los⟩ hombres, diciendo: He aquí, Davidd busca tu mal?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לשאול",
-      "english": "a Saúl"
-    },
-    {
-      "surface": "למה",
-      "english": "¿Por qué"
-    },
-    {
-      "surface": "תשמע",
-      "english": "⟨el⟩ oído escuchas"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "las palabras de ⟨los⟩ hombres"
-    },
-    {
-      "surface": "דברי",
-      "english": "las palabras"
-    },
-    {
-      "surface": "אדם",
-      "english": "de ⟨los⟩ hombres"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "הנה",
-      "english": "He aquí"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מבקש",
-      "english": "busca"
-    },
-    {
-      "surface": "רעתך",
-      "english": "tu mal"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:08:32.164325866Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

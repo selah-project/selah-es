@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "job 40:21",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26952,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27253
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:15.688489441Z",
   "translation": "bajo los lotos ⟨el⟩ ⟨se⟩ acuesta, en lo oculto de caña y en fango",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "Bajo"
+      "gloss": "Bajo"
     },
     {
       "surface": "צאלים",
-      "english": "los lotos",
+      "gloss": "los lotos",
       "marks": "under which he lies"
     },
     {
       "surface": "ישכב",
-      "english": "⟨se⟩ acuesta"
+      "gloss": "⟨se⟩ acuesta"
     },
     {
       "surface": "בסתר",
-      "english": "en lo oculto"
+      "gloss": "en lo oculto"
     },
     {
       "surface": "קנה",
-      "english": "de caña"
+      "gloss": "de caña"
     },
     {
       "surface": "ובצה",
-      "english": "y en fango"
+      "gloss": "y en fango"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:15.688489441Z",
-  "model": "glm-4.5"
+  ]
 }

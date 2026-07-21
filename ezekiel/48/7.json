@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ezekiel 48:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:57:46.975123300Z",
+  "translation": "Y sobre ⟨el⟩ borde de Reubén, desde ⟨la⟩ extremidad de oriente hasta ⟨la⟩ extremidad del mar: Yehudá, uno.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Y sobre"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨el⟩ borde"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubén"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "desde ⟨la⟩ extremidad de"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "oriente"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨la⟩ extremidad de"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "mar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,64 +60,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17215,
-    "prompt_tokens_details": {
-      "cached_tokens": 15965
-    },
-    "total_tokens": 17585
-  },
-  "translation": "Y sobre ⟨el⟩ borde de Reubén, desde ⟨la⟩ extremidad de oriente hasta ⟨la⟩ extremidad del mar: Yehudá, uno.",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "Y sobre"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨el⟩ borde"
-    },
-    {
-      "surface": "ראובן",
-      "english": "Reubén"
-    },
-    {
-      "surface": "מפאת",
-      "english": "desde ⟨la⟩ extremidad de"
-    },
-    {
-      "surface": "קדים",
-      "english": "oriente"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta"
-    },
-    {
-      "surface": "פאת",
-      "english": "⟨la⟩ extremidad de"
-    },
-    {
-      "surface": "ימה",
-      "english": "mar"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "אחד",
-      "english": "uno"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:57:46.975123300Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

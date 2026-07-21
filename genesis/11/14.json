@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "genesis 11:14",
   "book": "genesis",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 327,
-    "prompt_tokens": 28373,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28700
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:55:26.857398629Z",
   "translation": "Y Shelaj vivió treinta años y engendró ⟨את⟩ Ever.",
   "tokens": [
     {
       "surface": "ושלח",
-      "english": "Y Shelaj"
+      "gloss": "Y Shelaj"
     },
     {
       "surface": "חי",
-      "english": "vivió"
+      "gloss": "vivió"
     },
     {
       "surface": "שלשים",
-      "english": "treinta"
+      "gloss": "treinta"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "ויולד",
-      "english": "y engendró"
+      "gloss": "y engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Ever"
     },
     {
       "surface": "עבר",
-      "english": "Ever"
+      "gloss": "Ever"
     }
-  ],
-  "timestamp": "2026-07-16T20:55:26.857398629Z",
-  "model": "glm-4.5"
+  ]
 }

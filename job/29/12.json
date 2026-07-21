@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 29:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19724,
-    "prompt_tokens_details": {
-      "cached_tokens": 18741
-    },
-    "total_tokens": 20100
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:36:17.134233733Z",
   "translation": "Porque yo libraba ⟨al⟩ pobre que clamaba, y ⟨al⟩ huérfano, y no había helper para él",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אמלט",
-      "english": "yo libraba"
+      "gloss": "yo libraba"
     },
     {
       "surface": "עני",
-      "english": "⟨al⟩ pobre",
+      "gloss": "⟨al⟩ pobre",
       "marks": "pobre que clamaba"
     },
     {
       "surface": "משוע",
-      "english": "que clamaba"
+      "gloss": "que clamaba"
     },
     {
       "surface": "ויתום",
-      "english": "y ⟨al⟩ huérfano",
+      "gloss": "y ⟨al⟩ huérfano",
       "marks": "huérfano"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "עזר",
-      "english": "había helper"
+      "gloss": "había helper"
     },
     {
       "surface": "לו",
-      "english": "para él"
+      "gloss": "para él"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:36:17.134233733Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

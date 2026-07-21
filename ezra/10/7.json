@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ezra 10:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:20:41.618503011Z",
+  "translation": "Y pasaron ⟨un⟩ voz en Judá y Yerushalayim, ⟨para⟩ todos los hijos del exilio, para congregarse en Yerushalayim",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "Y pasaron"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨un⟩ voz"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "en Judá"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "y Jerusalén"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨para⟩ todos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "del exilio"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "para congregarse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "en Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalén",
@@ -13,60 +56,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44774,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 45197
-  },
-  "translation": "Y pasaron ⟨un⟩ voz en Judá y Yerushalayim, ⟨para⟩ todos los hijos del exilio, para congregarse en Yerushalayim",
-  "tokens": [
-    {
-      "surface": "ויעבירו",
-      "english": "Y pasaron"
-    },
-    {
-      "surface": "קול",
-      "english": "⟨un⟩ voz"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "en Judá"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "y Jerusalén"
-    },
-    {
-      "surface": "לכל",
-      "english": "⟨para⟩ todos"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos"
-    },
-    {
-      "surface": "הגולה",
-      "english": "del exilio"
-    },
-    {
-      "surface": "להקבץ",
-      "english": "para congregarse"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "en Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:20:41.618503011Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

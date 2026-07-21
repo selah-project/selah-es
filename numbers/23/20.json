@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "numbers 23:20",
   "book": "numbers",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24908,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25217
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:59:01.276515147Z",
   "translation": "He aquí ⟨que⟩ he recibido ⟨para⟩ bendecir ⟨y⟩ ⟨que⟩ ha bendecido ⟨y⟩ no lo revocaré",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "ברך",
-      "english": "⟨que⟩ he recibido ⟨para⟩ bendecir",
+      "gloss": "⟨que⟩ he recibido ⟨para⟩ bendecir",
       "marks": "he recibido ⟨para⟩ bendecir"
     },
     {
       "surface": "לקחתי",
-      "english": "he recibido"
+      "gloss": "he recibido"
     },
     {
       "surface": "וברך",
-      "english": "⟨y⟩ ⟨que⟩ ha bendecido",
+      "gloss": "⟨y⟩ ⟨que⟩ ha bendecido",
       "marks": "ha bendecido"
     },
     {
       "surface": "ולא",
-      "english": "⟨y⟩ no"
+      "gloss": "⟨y⟩ no"
     },
     {
       "surface": "אשיבנה",
-      "english": "lo revocaré"
+      "gloss": "lo revocaré"
     }
-  ],
-  "timestamp": "2026-06-10T04:59:01.276515147Z",
-  "model": "glm-4.5"
+  ]
 }

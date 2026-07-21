@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 102:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 521,
-    "prompt_tokens": 70187,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70708
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:46.677500992Z",
   "translation": "Tú te levantarás, te compadecerás de Tzión, porque ⟨es⟩ tiempo de tenerle misericordia, porque ha venido ⟨el⟩ tiempo señalado.",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "תקום",
-      "english": "te levantarás"
+      "gloss": "te levantarás"
     },
     {
       "surface": "תרחם",
-      "english": "te compadecerás de"
+      "gloss": "te compadecerás de"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "עת",
-      "english": "tiempo"
+      "gloss": "tiempo"
     },
     {
       "surface": "לחננה",
-      "english": "de tenerle misericordia"
+      "gloss": "de tenerle misericordia"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "בא",
-      "english": "ha venido"
+      "gloss": "ha venido"
     },
     {
       "surface": "מועד",
-      "english": "⟨el⟩ tiempo señalado"
+      "gloss": "⟨el⟩ tiempo señalado"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:46.677500992Z",
-  "model": "glm-4.5"
+  ]
 }

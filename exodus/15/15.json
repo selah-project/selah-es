@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 15:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 15,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:42:35.200088862Z",
+  "translation": "Entonces ⟨los⟩ príncipes de Edom ⟨quedaron⟩ espantados; los jefes de Moav, ⟨el⟩ temblor ⟨los⟩ asaltó; todos los habitantes de Kenaan ⟨quedaron⟩ derretidos",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Entonces"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "⟨los⟩ príncipes de Edom ⟨quedaron⟩ espantados"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "príncipes"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "de Edom"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "los jefes"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "יאחזמו",
+      "gloss": "⟨el⟩ temblor ⟨los⟩ asaltó"
+    },
+    {
+      "surface": "רעד",
+      "gloss": "temblor"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "todos los habitantes de Canaán ⟨quedaron⟩ derretidos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "habitantes de"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moab",
@@ -20,72 +75,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 742,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17032,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17774
-  },
-  "translation": "Entonces ⟨los⟩ príncipes de Edom ⟨quedaron⟩ espantados; los jefes de Moav, ⟨el⟩ temblor ⟨los⟩ asaltó; todos los habitantes de Kenaan ⟨quedaron⟩ derretidos",
-  "tokens": [
-    {
-      "surface": "אז",
-      "english": "Entonces"
-    },
-    {
-      "surface": "נבהלו",
-      "english": "⟨los⟩ príncipes de Edom ⟨quedaron⟩ espantados"
-    },
-    {
-      "surface": "אלופי",
-      "english": "príncipes"
-    },
-    {
-      "surface": "אדום",
-      "english": "de Edom"
-    },
-    {
-      "surface": "אילי",
-      "english": "los jefes"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "יאחזמו",
-      "english": "⟨el⟩ temblor ⟨los⟩ asaltó"
-    },
-    {
-      "surface": "רעד",
-      "english": "temblor"
-    },
-    {
-      "surface": "נמגו",
-      "english": "todos los habitantes de Canaán ⟨quedaron⟩ derretidos"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "ישבי",
-      "english": "habitantes de"
-    },
-    {
-      "surface": "כנען",
-      "english": "Kenaan"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:42:35.200088862Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

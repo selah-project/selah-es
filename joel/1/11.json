@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "joel 1:11",
   "book": "joel",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23755,
-    "prompt_tokens_details": {
-      "cached_tokens": 22278
-    },
-    "total_tokens": 24287
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:27:26.234643134Z",
   "translation": "Los agricultores ⟨están⟩ avergonzados, los viñadores gimen; ⟨por⟩ el trigo y ⟨por⟩ la cebada, porque ⟨la⟩ cosecha ⟨del⟩ campo ⟨está⟩ perdida.",
   "tokens": [
     {
       "surface": "הבישו",
-      "english": "⟨Están⟩ avergonzados"
+      "gloss": "⟨Están⟩ avergonzados"
     },
     {
       "surface": "אכרים",
-      "english": "los agricultores"
+      "gloss": "los agricultores"
     },
     {
       "surface": "הילילו",
-      "english": "los viñadores gimen"
+      "gloss": "los viñadores gimen"
     },
     {
       "surface": "כרמים",
-      "english": "los viñadores"
+      "gloss": "los viñadores"
     },
     {
       "surface": "על",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "חטה",
-      "english": "el trigo"
+      "gloss": "el trigo"
     },
     {
       "surface": "ועל",
-      "english": "y ⟨por⟩"
+      "gloss": "y ⟨por⟩"
     },
     {
       "surface": "שערה",
-      "english": "la cebada"
+      "gloss": "la cebada"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אבד",
-      "english": "⟨está⟩ perdida"
+      "gloss": "⟨está⟩ perdida"
     },
     {
       "surface": "קציר",
-      "english": "⟨la⟩ cosecha"
+      "gloss": "⟨la⟩ cosecha"
     },
     {
       "surface": "שדה",
-      "english": "⟨del⟩ campo"
+      "gloss": "⟨del⟩ campo"
     }
-  ],
-  "timestamp": "2026-06-10T00:27:26.234643134Z",
-  "model": "glm-4.5"
+  ]
 }

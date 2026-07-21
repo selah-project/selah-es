@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "jonah 3:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jonah",
+  "chapter": 3,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:07:11.374023165Z",
+  "translation": "Y se levantó Yoná y fue a Nínive conforme a ⟨el⟩ palabra de YHWH. Y Nínive ⟨era⟩ una ciudad grande ⟨delante de⟩ Elohim, un recorrido de tres días.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Y se levantó"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoná"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "y fue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nínive"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "conforme a ⟨el⟩ palabra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Y Nínive"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "una ciudad"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨delante de⟩ Elohim"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "un recorrido"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "de tres"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "días"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jonás",
@@ -13,84 +80,6 @@
       "hebrew": "יונה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19866,
-    "prompt_tokens_details": {
-      "cached_tokens": 18178
-    },
-    "total_tokens": 20338
-  },
-  "translation": "Y se levantó Yoná y fue a Nínive conforme a ⟨el⟩ palabra de YHWH. Y Nínive ⟨era⟩ una ciudad grande ⟨delante de⟩ Elohim, un recorrido de tres días.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Y se levantó"
-    },
-    {
-      "surface": "יונה",
-      "english": "Yoná"
-    },
-    {
-      "surface": "וילך",
-      "english": "y fue"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "נינוה",
-      "english": "Nínive"
-    },
-    {
-      "surface": "כדבר",
-      "english": "conforme a ⟨el⟩ palabra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ונינוה",
-      "english": "Y Nínive"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "עיר",
-      "english": "una ciudad"
-    },
-    {
-      "surface": "גדולה",
-      "english": "grande"
-    },
-    {
-      "surface": "לאלהים",
-      "english": "⟨delante de⟩ Elohim"
-    },
-    {
-      "surface": "מהלך",
-      "english": "un recorrido"
-    },
-    {
-      "surface": "שלשת",
-      "english": "de tres"
-    },
-    {
-      "surface": "ימים",
-      "english": "días"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:07:11.374023165Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

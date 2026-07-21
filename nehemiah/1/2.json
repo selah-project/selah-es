@@ -1,97 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "nehemiah 1:2",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 746,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57462,
-    "prompt_tokens_details": {
-      "cached_tokens": 55510
-    },
-    "total_tokens": 58208
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:34:04.901000408Z",
   "translation": "Y vino Jananí, uno ⟨de⟩ mis hermanos, él y ⟨unos⟩ hombres ⟨de⟩ Yehudá; y ⟨los⟩ pregunté ⟨por⟩ los yehudím ⟨el⟩ remanente que había quedado ⟨del⟩ cautiverio, y ⟨por⟩ Yerushaláyim.",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "Y vino"
+      "gloss": "Y vino"
     },
     {
       "surface": "חנני",
-      "english": "Jananí"
+      "gloss": "Jananí"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "מאחי",
-      "english": "⟨de⟩ mis hermanos",
+      "gloss": "⟨de⟩ mis hermanos",
       "marks": "mis hermanos"
     },
     {
       "surface": "הוא",
-      "english": "él"
+      "gloss": "él"
     },
     {
       "surface": "ואנשים",
-      "english": "y ⟨unos⟩ hombres",
+      "gloss": "y ⟨unos⟩ hombres",
       "marks": "hombres"
     },
     {
       "surface": "מיהודה",
-      "english": "⟨de⟩ Yehudá",
+      "gloss": "⟨de⟩ Yehudá",
       "marks": "Yehudá"
     },
     {
       "surface": "ואשאלם",
-      "english": "y ⟨los⟩ pregunté"
+      "gloss": "y ⟨los⟩ pregunté"
     },
     {
       "surface": "על",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "היהודים",
-      "english": "los yehudím"
+      "gloss": "los yehudím"
     },
     {
       "surface": "הפליטה",
-      "english": "⟨el⟩ remanente",
+      "gloss": "⟨el⟩ remanente",
       "marks": "el remanente"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "נשארו",
-      "english": "había quedado"
+      "gloss": "había quedado"
     },
     {
       "surface": "מן",
-      "english": "⟨del⟩",
+      "gloss": "⟨del⟩",
       "marks": "cautiverio"
     },
     {
       "surface": "השבי",
-      "english": "cautiverio"
+      "gloss": "cautiverio"
     },
     {
       "surface": "ועל",
-      "english": "y ⟨por⟩"
+      "gloss": "y ⟨por⟩"
     },
     {
       "surface": "ירושלם",
-      "english": "Yerushaláyim"
+      "gloss": "Yerushaláyim"
     }
-  ],
-  "timestamp": "2026-06-10T00:34:04.901000408Z",
-  "model": "glm-4.5"
+  ]
 }

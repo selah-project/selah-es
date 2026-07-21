@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "proverbs 29:24",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 673,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60005,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60678
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:51:30.326124901Z",
   "translation": "El que comparte ⟨con⟩ ⟨un⟩ ladrón ⟨es⟩ ⟨que⟩ aborrece su propia alma; ⟨ella⟩ oye ⟨la⟩ imprecación y ⟨no⟩ ⟨la⟩ declara.",
   "tokens": [
     {
       "surface": "חולק",
-      "english": "El que comparte",
+      "gloss": "El que comparte",
       "marks": "participa"
     },
     {
       "surface": "עם",
-      "english": "⟨con⟩",
+      "gloss": "⟨con⟩",
       "marks": "en compañía de"
     },
     {
       "surface": "גנב",
-      "english": "⟨un⟩ ladrón",
+      "gloss": "⟨un⟩ ladrón",
       "marks": "thief"
     },
     {
       "surface": "שונא",
-      "english": "⟨es⟩ ⟨que⟩ aborrece",
+      "gloss": "⟨es⟩ ⟨que⟩ aborrece",
       "marks": "hates"
     },
     {
       "surface": "נפשו",
-      "english": "su propia alma",
+      "gloss": "su propia alma",
       "marks": "his own soul"
     },
     {
       "surface": "אלה",
-      "english": "⟨ella⟩ oye",
+      "gloss": "⟨ella⟩ oye",
       "marks": "the imprecation"
     },
     {
       "surface": "ישמע",
-      "english": "⟨la⟩ imprecación",
+      "gloss": "⟨la⟩ imprecación",
       "marks": "oath of testimony"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩",
+      "gloss": "y ⟨no⟩",
       "marks": "and not"
     },
     {
       "surface": "יגיד",
-      "english": "⟨la⟩ declara",
+      "gloss": "⟨la⟩ declara",
       "marks": "report it"
     }
-  ],
-  "timestamp": "2026-06-10T01:51:30.326124901Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 35:13",
   "book": "genesis",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 448,
-    "prompt_tokens": 28331,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28779
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:30:54.042928940Z",
   "translation": "Y Elohim subió desde ⟨él⟩ en ⟨el⟩ lugar ⟨donde⟩ había hablado con él",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "Y subió"
+      "gloss": "Y subió"
     },
     {
       "surface": "מעליו",
-      "english": "desde ⟨él⟩"
+      "gloss": "desde ⟨él⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "במקום",
-      "english": "en ⟨el⟩ lugar"
+      "gloss": "en ⟨el⟩ lugar"
     },
     {
       "surface": "אשר",
-      "english": "⟨donde⟩"
+      "gloss": "⟨donde⟩"
     },
     {
       "surface": "דבר",
-      "english": "había hablado"
+      "gloss": "había hablado"
     },
     {
       "surface": "אתו",
-      "english": "con él"
+      "gloss": "con él"
     }
-  ],
-  "timestamp": "2026-07-17T00:30:54.042928940Z",
-  "model": "glm-4.5"
+  ]
 }

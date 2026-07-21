@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "ezra 10:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:21:32.059560779Z",
+  "translation": "Y ⟨los⟩ hijos de Jarem: Eliézer, Isíah, Malquías, Semaías, Shimón",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Y ⟨los⟩ hijos de"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Jarem"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliézer"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Isíah"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Malquías"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Semaías"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimón"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Simeón",
@@ -13,52 +48,6 @@
       "hebrew": "שמעון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44541,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 44918
-  },
-  "translation": "Y ⟨los⟩ hijos de Jarem: Eliézer, Isíah, Malquías, Semaías, Shimón",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "Y ⟨los⟩ hijos de"
-    },
-    {
-      "surface": "חרם",
-      "english": "Jarem"
-    },
-    {
-      "surface": "אליעזר",
-      "english": "Eliézer"
-    },
-    {
-      "surface": "ישיה",
-      "english": "Isíah"
-    },
-    {
-      "surface": "מלכיה",
-      "english": "Malquías"
-    },
-    {
-      "surface": "שמעיה",
-      "english": "Semaías"
-    },
-    {
-      "surface": "שמעון",
-      "english": "Shimón"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:21:32.059560779Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "job 13:17",
   "book": "job",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 348,
-    "prompt_tokens": 26928,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27276
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:58:33.858009090Z",
   "translation": "Escuchad atentamente mi palabra, y ⟨que⟩ mi declaración ⟨sea⟩ en vuestros oídos.",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "Escuchad"
+      "gloss": "Escuchad"
     },
     {
       "surface": "שמוע",
-      "english": "atentamente"
+      "gloss": "atentamente"
     },
     {
       "surface": "מלתי",
-      "english": "mi palabra"
+      "gloss": "mi palabra"
     },
     {
       "surface": "ואחותי",
-      "english": "y mi declaración"
+      "gloss": "y mi declaración"
     },
     {
       "surface": "באזניכם",
-      "english": "en vuestros oídos"
+      "gloss": "en vuestros oídos"
     }
-  ],
-  "timestamp": "2026-07-16T21:58:33.858009090Z",
-  "model": "glm-4.5"
+  ]
 }

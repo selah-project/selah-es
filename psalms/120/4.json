@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 120:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 120,
-  "usage": {
-    "completion_tokens": 412,
-    "prompt_tokens": 69891,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70303
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:58.823091131Z",
   "translation": "Flechas de guerrero, con carbones de retama",
   "tokens": [
     {
       "surface": "חצי",
-      "english": "Flechas"
+      "gloss": "Flechas"
     },
     {
       "surface": "גבור",
-      "english": "de guerrero"
+      "gloss": "de guerrero"
     },
     {
       "surface": "שנונים",
-      "english": "[afiladas]"
+      "gloss": "[afiladas]"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "גחלי",
-      "english": "carbones"
+      "gloss": "carbones"
     },
     {
       "surface": "רתמים",
-      "english": "de retama"
+      "gloss": "de retama"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:58.823091131Z",
-  "model": "glm-4.5"
+  ]
 }

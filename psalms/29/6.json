@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 29:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69991,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70274
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:10:22.905972970Z",
   "translation": "Y los hace saltar como ⟨un⟩ ternero ⟨a⟩ Líbano y ⟨como⟩ ⟨un⟩ hijo de toros salvajes",
   "tokens": [
     {
       "surface": "וירקידם",
-      "english": "Y los hace saltar"
+      "gloss": "Y los hace saltar"
     },
     {
       "surface": "כמו",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "עגל",
-      "english": "⟨un⟩ ternero"
+      "gloss": "⟨un⟩ ternero"
     },
     {
       "surface": "לבנון",
-      "english": "⟨a⟩ Líbano"
+      "gloss": "⟨a⟩ Líbano"
     },
     {
       "surface": "ושרין",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "כמו",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "בן",
-      "english": "⟨un⟩ hijo"
+      "gloss": "⟨un⟩ hijo"
     },
     {
       "surface": "ראמים",
-      "english": "de toros salvajes"
+      "gloss": "de toros salvajes"
     }
-  ],
-  "timestamp": "2026-06-09T23:10:22.905972970Z",
-  "model": "glm-4.5"
+  ]
 }

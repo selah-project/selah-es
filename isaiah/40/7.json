@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 40:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 658,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26385,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27043
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:45:15.551042405Z",
   "translation": "⟨is⟩ seca la hierba, ⟨se⟩ marchita ⟨la⟩ flor, porque ⟨el⟩ Rúaj de YHWH ⟨se⟩ sopló en ⟨ella⟩: ciertamente, hierba ⟨es⟩ ⟨el⟩ pueblo.",
   "tokens": [
     {
       "surface": "יבש",
-      "english": "Seca"
+      "gloss": "Seca"
     },
     {
       "surface": "חציר",
-      "english": "la hierba"
+      "gloss": "la hierba"
     },
     {
       "surface": "נבל",
-      "english": "marchita"
+      "gloss": "marchita"
     },
     {
       "surface": "ציץ",
-      "english": "la flor"
+      "gloss": "la flor"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "רוח",
-      "english": "⟨el⟩ Rúaj"
+      "gloss": "⟨el⟩ Rúaj"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "נשבה",
-      "english": "se sopló"
+      "gloss": "se sopló"
     },
     {
       "surface": "בו",
-      "english": "en ⟨ella⟩"
+      "gloss": "en ⟨ella⟩"
     },
     {
       "surface": "אכן",
-      "english": "ciertamente"
+      "gloss": "ciertamente"
     },
     {
       "surface": "חציר",
-      "english": "hierba"
+      "gloss": "hierba"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     }
-  ],
-  "timestamp": "2026-06-10T02:45:15.551042405Z",
-  "model": "glm-4.5"
+  ]
 }

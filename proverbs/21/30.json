@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "proverbs 21:30",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59820,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60219
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:41.309410904Z",
   "translation": "No hay Jojmá y no hay Biná y no hay plan ⟨ante⟩ YHWH",
   "tokens": [
     {
       "surface": "אין",
-      "english": "No hay"
+      "gloss": "No hay"
     },
     {
       "surface": "חכמה",
-      "english": "Jojmá"
+      "gloss": "Jojmá"
     },
     {
       "surface": "ואין",
-      "english": "y no hay"
+      "gloss": "y no hay"
     },
     {
       "surface": "תבונה",
-      "english": "Biná"
+      "gloss": "Biná"
     },
     {
       "surface": "ואין",
-      "english": "y no hay"
+      "gloss": "y no hay"
     },
     {
       "surface": "עצה",
-      "english": "plan"
+      "gloss": "plan"
     },
     {
       "surface": "לנגד",
-      "english": "⟨ante⟩",
+      "gloss": "⟨ante⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:41.309410904Z",
-  "model": "glm-4.5"
+  ]
 }

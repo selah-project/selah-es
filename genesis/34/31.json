@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "genesis 34:31",
   "book": "genesis",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 351,
-    "prompt_tokens": 28307,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28658
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:08:34.253746740Z",
   "translation": "Y dijeron: «¿Como ⟨a⟩ una prostituta ⟨hará⟩ ⟨a⟩ ⟨nuestra⟩ hermana?»",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "Y dijeron"
+      "gloss": "Y dijeron"
     },
     {
       "surface": "הכזונה",
-      "english": "como ⟨a⟩ una prostituta"
+      "gloss": "como ⟨a⟩ una prostituta"
     },
     {
       "surface": "יעשה",
-      "english": "⟨hará⟩"
+      "gloss": "⟨hará⟩"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "nuestra hermana"
     },
     {
       "surface": "אחותנו",
-      "english": "⟨nuestra⟩ hermana"
+      "gloss": "⟨nuestra⟩ hermana"
     }
-  ],
-  "timestamp": "2026-07-16T21:08:34.253746740Z",
-  "model": "glm-4.5"
+  ]
 }

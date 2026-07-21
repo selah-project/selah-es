@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "numbers 2:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 2,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:09:25.826565344Z",
+  "translation": "Y sobre ⟨él⟩ ⟨está⟩ la tribu de Menashé; y el príncipe de los hijos de Menashé ⟨es⟩ Gamaliel ben Pedahtsur.",
+  "tokens": [
+    {
+      "surface": "וְ\/עָלָ֖י\/ו",
+      "gloss": "Y sobre ⟨él⟩"
+    },
+    {
+      "surface": "מַטֵּ֣ה",
+      "gloss": "⟨está⟩ la tribu"
+    },
+    {
+      "surface": "מְנַשֶּׁ֑ה",
+      "gloss": "de Menashé"
+    },
+    {
+      "surface": "וְ\/נָשִׂיא֙",
+      "gloss": "y el príncipe"
+    },
+    {
+      "surface": "לִ\/בְנֵ֣י",
+      "gloss": "de los hijos"
+    },
+    {
+      "surface": "מְנַשֶּׁ֔ה",
+      "gloss": "de Menashé"
+    },
+    {
+      "surface": "גַּמְלִיאֵ֖ל",
+      "gloss": "Gamaliel"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "פְּדָהצֽוּר",
+      "gloss": "Pedahtsur"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manasés",
@@ -20,60 +63,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17874,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 18421
-  },
-  "translation": "Y sobre ⟨él⟩ ⟨está⟩ la tribu de Menashé; y el príncipe de los hijos de Menashé ⟨es⟩ Gamaliel ben Pedahtsur.",
-  "tokens": [
-    {
-      "surface": "וְ\/עָלָ֖י\/ו",
-      "english": "Y sobre ⟨él⟩"
-    },
-    {
-      "surface": "מַטֵּ֣ה",
-      "english": "⟨está⟩ la tribu"
-    },
-    {
-      "surface": "מְנַשֶּׁ֑ה",
-      "english": "de Menashé"
-    },
-    {
-      "surface": "וְ\/נָשִׂיא֙",
-      "english": "y el príncipe"
-    },
-    {
-      "surface": "לִ\/בְנֵ֣י",
-      "english": "de los hijos"
-    },
-    {
-      "surface": "מְנַשֶּׁ֔ה",
-      "english": "de Menashé"
-    },
-    {
-      "surface": "גַּמְלִיאֵ֖ל",
-      "english": "Gamaliel"
-    },
-    {
-      "surface": "בֶּן",
-      "english": "ben"
-    },
-    {
-      "surface": "פְּדָהצֽוּר",
-      "english": "Pedahtsur"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:09:25.826565344Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

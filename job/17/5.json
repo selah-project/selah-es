@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 17:5",
   "book": "job",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26953,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27291
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:02:38.373712158Z",
   "translation": "Como porción denuncia a ⟨sus⟩ amigos, y los ojos de sus hijos desfallecerán.",
   "tokens": [
     {
       "surface": "לחלק",
-      "english": "Como porción"
+      "gloss": "Como porción"
     },
     {
       "surface": "יגיד",
-      "english": "denuncia"
+      "gloss": "denuncia"
     },
     {
       "surface": "רעים",
-      "english": "a ⟨sus⟩ amigos"
+      "gloss": "a ⟨sus⟩ amigos"
     },
     {
       "surface": "ועיני",
-      "english": "y los ojos"
+      "gloss": "y los ojos"
     },
     {
       "surface": "בניו",
-      "english": "de sus hijos"
+      "gloss": "de sus hijos"
     },
     {
       "surface": "תכלנה",
-      "english": "desfallecerán"
+      "gloss": "desfallecerán"
     }
-  ],
-  "timestamp": "2026-06-10T02:02:38.373712158Z",
-  "model": "glm-4.5"
+  ]
 }

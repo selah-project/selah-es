@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 124:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 124,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70136,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70709
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:03:59.065537363Z",
   "translation": "Nuestra alma ⟨ha⟩ escapado como ⟨un⟩ pájaro del lazo ⟨de los⟩ cazadores ⟨את⟩; ⟨el⟩ lazo ⟨ha⟩ sido roto, y nosotros ⟨hemos⟩ escapado.",
   "tokens": [
     {
       "surface": "נפשנו",
-      "english": "Nuestra alma"
+      "gloss": "Nuestra alma"
     },
     {
       "surface": "כצפור",
-      "english": "como ⟨un⟩ pájaro"
+      "gloss": "como ⟨un⟩ pájaro"
     },
     {
       "surface": "נמלטה",
-      "english": "⟨ha⟩ escapado"
+      "gloss": "⟨ha⟩ escapado"
     },
     {
       "surface": "מפח",
-      "english": "del lazo"
+      "gloss": "del lazo"
     },
     {
       "surface": "יוקשים",
-      "english": "⟨de los⟩ cazadores"
+      "gloss": "⟨de los⟩ cazadores"
     },
     {
       "surface": "הפח",
-      "english": "⟨el⟩ lazo",
+      "gloss": "⟨el⟩ lazo",
       "marks": "⟨el⟩ lazo"
     },
     {
       "surface": "נשבר",
-      "english": "⟨ha⟩ sido roto"
+      "gloss": "⟨ha⟩ sido roto"
     },
     {
       "surface": "ואנחנו",
-      "english": "y nosotros"
+      "gloss": "y nosotros"
     },
     {
       "surface": "נמלטנו",
-      "english": "⟨hemos⟩ escapado"
+      "gloss": "⟨hemos⟩ escapado"
     }
-  ],
-  "timestamp": "2026-06-10T00:03:59.065537363Z",
-  "model": "glm-4.5"
+  ]
 }

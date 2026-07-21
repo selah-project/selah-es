@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "leviticus 1:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 1,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:27:20.328115884Z",
+  "translation": "Y los hijos de Aharón, el kohen, pondrán fuego sobre el altar y arreglarán ⟨el⟩ leña sobre ⟨el⟩ fuego",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Y pondrán"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos de"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "el kohen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuego"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "el altar"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "y arreglarán"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "⟨el⟩ leña"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨el⟩ fuego"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aarón",
@@ -13,68 +64,6 @@
       "hebrew": "אהרן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17314,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 17703
-  },
-  "translation": "Y los hijos de Aharón, el kohen, pondrán fuego sobre el altar y arreglarán ⟨el⟩ leña sobre ⟨el⟩ fuego",
-  "tokens": [
-    {
-      "surface": "ונתנו",
-      "english": "Y pondrán"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos de"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharón"
-    },
-    {
-      "surface": "הכהן",
-      "english": "el kohen"
-    },
-    {
-      "surface": "אש",
-      "english": "fuego"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "המזבח",
-      "english": "el altar"
-    },
-    {
-      "surface": "וערכו",
-      "english": "y arreglarán"
-    },
-    {
-      "surface": "עצים",
-      "english": "⟨el⟩ leña"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "האש",
-      "english": "⟨el⟩ fuego"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:27:20.328115884Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

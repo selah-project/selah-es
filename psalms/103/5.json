@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 103:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69852,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70224
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:49:37.049120904Z",
   "translation": "Quien sacia tu vejez con ⟨lo⟩ bueno, ⟨de modo que⟩ tu juventud se renueva ⟨como⟩ ⟨el⟩ águila.",
   "tokens": [
     {
       "surface": "המשביע",
-      "english": "Quien sacia"
+      "gloss": "Quien sacia"
     },
     {
       "surface": "בטוב",
-      "english": "con ⟨lo⟩ bueno"
+      "gloss": "con ⟨lo⟩ bueno"
     },
     {
       "surface": "עדיך",
-      "english": "tu vejez"
+      "gloss": "tu vejez"
     },
     {
       "surface": "תתחדש",
-      "english": "se renueva"
+      "gloss": "se renueva"
     },
     {
       "surface": "כנשר",
-      "english": "⟨como⟩ ⟨el⟩ águila"
+      "gloss": "⟨como⟩ ⟨el⟩ águila"
     },
     {
       "surface": "נעוריכי",
-      "english": "tu juventud"
+      "gloss": "tu juventud"
     }
-  ],
-  "timestamp": "2026-06-09T23:49:37.049120904Z",
-  "model": "glm-4.5"
+  ]
 }

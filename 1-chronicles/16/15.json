@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-chronicles 16:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 16,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:45:26.180193196Z",
+  "translation": "Recordad ⟨por siempre⟩ su Brit, ⟨la⟩ palabra que ordenó ⟨a⟩ mil generaciones",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Recordad"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨por siempre⟩",
+      "marks": "su pacto"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "su Brit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨la⟩ palabra"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordenó"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mil generaciones"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,53 +49,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56623,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57011
-  },
-  "translation": "Recordad ⟨por siempre⟩ su Brit, ⟨la⟩ palabra que ordenó ⟨a⟩ mil generaciones",
-  "tokens": [
-    {
-      "surface": "זכרו",
-      "english": "Recordad"
-    },
-    {
-      "surface": "לעולם",
-      "english": "⟨por siempre⟩",
-      "marks": "su pacto"
-    },
-    {
-      "surface": "בריתו",
-      "english": "su Brit"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨la⟩ palabra"
-    },
-    {
-      "surface": "צוה",
-      "english": "ordenó"
-    },
-    {
-      "surface": "לאלף",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "דור",
-      "english": "mil generaciones"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:45:26.180193196Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

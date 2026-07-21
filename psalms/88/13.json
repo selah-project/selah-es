@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 88:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 469,
-    "prompt_tokens": 69910,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70379
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:52.220194828Z",
   "translation": "¿Serán conocidas ⟨tus⟩ maravillas en ⟨el⟩ caos, y ⟨tu⟩ justicia en ⟨la⟩ tierra de ⟨el⟩ olvido?",
   "tokens": [
     {
       "surface": "היודע",
-      "english": "¿Serán conocidas"
+      "gloss": "¿Serán conocidas"
     },
     {
       "surface": "בחשך",
-      "english": "en ⟨el⟩ caos"
+      "gloss": "en ⟨el⟩ caos"
     },
     {
       "surface": "פלאך",
-      "english": "⟨tus⟩ maravillas"
+      "gloss": "⟨tus⟩ maravillas"
     },
     {
       "surface": "וצדקתך",
-      "english": "y ⟨tu⟩ justicia"
+      "gloss": "y ⟨tu⟩ justicia"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra de"
+      "gloss": "en ⟨la⟩ tierra de"
     },
     {
       "surface": "נשיה",
-      "english": "⟨el⟩ olvido"
+      "gloss": "⟨el⟩ olvido"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:52.220194828Z",
-  "model": "glm-4.5"
+  ]
 }

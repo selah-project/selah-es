@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 3:2",
   "book": "job",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 209,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26606,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 26815
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:54:19.673356235Z",
   "translation": "Y Job respondió y dijo:",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "Y respondió"
+      "gloss": "Y respondió"
     },
     {
       "surface": "איוב",
-      "english": "Job"
+      "gloss": "Job"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo:"
+      "gloss": "y dijo:"
     }
-  ],
-  "timestamp": "2026-06-10T01:54:19.673356235Z",
-  "model": "glm-4.5"
+  ]
 }

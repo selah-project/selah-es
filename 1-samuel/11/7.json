@@ -1,9 +1,132 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-samuel 11:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 11,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:54:29.017001832Z",
+  "translation": "Y tomó un yugo de bueyes, ⟨y⟩ los cortó en pedazos, y ⟨los⟩ envió por todo el territorio de Yisrael por mano de los mensajeros, diciendo: Cualquiera que no salga en pos de Shaúl ⟨y⟩ en pos de Shemuel, así se hará ⟨a⟩ sus bueyes. Y cayó el temor de YHWH sobre el pueblo, y salieron como un solo hombre.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Y tomó"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "un yoke"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de bueyes"
+    },
+    {
+      "surface": "וינתחהו",
+      "gloss": "⟨y⟩ los cortó en pedazos"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "y ⟨los⟩ envió"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "por todo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "territorio"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "por mano"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "de los mensajeros"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Cualquiera que"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "no"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "salga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "en pos de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "⟨y⟩ en pos de"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "כה",
+      "gloss": "así"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se hará"
+    },
+    {
+      "surface": "לבקרו",
+      "gloss": "⟨a⟩ sus bueyes"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "Y cayó"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "el temor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "העם",
+      "gloss": "el pueblo"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "y salieron"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "como un"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo hombre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,140 +136,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 893,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18170,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 19063
-  },
-  "translation": "Y tomó un yugo de bueyes, ⟨y⟩ los cortó en pedazos, y ⟨los⟩ envió por todo el territorio de Yisrael por mano de los mensajeros, diciendo: Cualquiera que no salga en pos de Shaúl ⟨y⟩ en pos de Shemuel, así se hará ⟨a⟩ sus bueyes. Y cayó el temor de YHWH sobre el pueblo, y salieron como un solo hombre.",
-  "tokens": [
-    {
-      "surface": "ויקח",
-      "english": "Y tomó"
-    },
-    {
-      "surface": "צמד",
-      "english": "un yoke"
-    },
-    {
-      "surface": "בקר",
-      "english": "de bueyes"
-    },
-    {
-      "surface": "וינתחהו",
-      "english": "⟨y⟩ los cortó en pedazos"
-    },
-    {
-      "surface": "וישלח",
-      "english": "y ⟨los⟩ envió"
-    },
-    {
-      "surface": "בכל",
-      "english": "por todo"
-    },
-    {
-      "surface": "גבול",
-      "english": "territorio"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ביד",
-      "english": "por mano"
-    },
-    {
-      "surface": "המלאכים",
-      "english": "de los mensajeros"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "אשר",
-      "english": "Cualquiera que"
-    },
-    {
-      "surface": "איננו",
-      "english": "no"
-    },
-    {
-      "surface": "יצא",
-      "english": "salga"
-    },
-    {
-      "surface": "אחרי",
-      "english": "en pos de"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "ואחר",
-      "english": "⟨y⟩ en pos de"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shemuel"
-    },
-    {
-      "surface": "כה",
-      "english": "así"
-    },
-    {
-      "surface": "יעשה",
-      "english": "se hará"
-    },
-    {
-      "surface": "לבקרו",
-      "english": "⟨a⟩ sus bueyes"
-    },
-    {
-      "surface": "ויפל",
-      "english": "Y cayó"
-    },
-    {
-      "surface": "פחד",
-      "english": "el temor"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "העם",
-      "english": "el pueblo"
-    },
-    {
-      "surface": "ויצאו",
-      "english": "y salieron"
-    },
-    {
-      "surface": "כאיש",
-      "english": "como un"
-    },
-    {
-      "surface": "אחד",
-      "english": "solo hombre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:54:29.017001832Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

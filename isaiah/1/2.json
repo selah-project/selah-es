@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 1:2",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26625,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27138
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:20:37.796885327Z",
   "translation": "Escuchad, cielos, y ⟨vamos⟩ a escuchar, tierra, porque YHWH ⟨está⟩ hablando: hijos crié y ⟨los⟩ enaltecí, pero ellos se rebelaron contra mí",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "Escuchad"
+      "gloss": "Escuchad"
     },
     {
       "surface": "שמים",
-      "english": "cielos"
+      "gloss": "cielos"
     },
     {
       "surface": "והאזיני",
-      "english": "y vamos a escuchar"
+      "gloss": "y vamos a escuchar"
     },
     {
       "surface": "ארץ",
-      "english": "tierra"
+      "gloss": "tierra"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "דבר",
-      "english": "está hablando"
+      "gloss": "está hablando"
     },
     {
       "surface": "בנים",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "גדלתי",
-      "english": "crié"
+      "gloss": "crié"
     },
     {
       "surface": "ורוממתי",
-      "english": "y los enaltecí"
+      "gloss": "y los enaltecí"
     },
     {
       "surface": "והם",
-      "english": "pero ellos"
+      "gloss": "pero ellos"
     },
     {
       "surface": "פשעו",
-      "english": "se rebelaron"
+      "gloss": "se rebelaron"
     },
     {
       "surface": "בי",
-      "english": "contra mí"
+      "gloss": "contra mí"
     }
-  ],
-  "timestamp": "2026-06-10T02:20:37.796885327Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 106:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69858,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70237
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:52:50.976803363Z",
   "translation": "Felices ⟨los que⟩ guardan ⟨el⟩ derecho ⟨y hacen⟩ ⟨la⟩ justicia en todo tiempo",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "Felices"
+      "gloss": "Felices"
     },
     {
       "surface": "שמרי",
-      "english": "⟨los que⟩ guardan"
+      "gloss": "⟨los que⟩ guardan"
     },
     {
       "surface": "משפט",
-      "english": "⟨el⟩ derecho"
+      "gloss": "⟨el⟩ derecho"
     },
     {
       "surface": "עשה",
-      "english": "⟨y hacen⟩"
+      "gloss": "⟨y hacen⟩"
     },
     {
       "surface": "צדקה",
-      "english": "⟨la⟩ justicia"
+      "gloss": "⟨la⟩ justicia"
     },
     {
       "surface": "בכל",
-      "english": "en todo"
+      "gloss": "en todo"
     },
     {
       "surface": "עת",
-      "english": "tiempo"
+      "gloss": "tiempo"
     }
-  ],
-  "timestamp": "2026-06-09T23:52:50.976803363Z",
-  "model": "glm-4.5"
+  ]
 }

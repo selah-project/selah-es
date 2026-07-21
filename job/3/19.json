@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 19,
   "ref": "job 3:19",
   "book": "job",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 608,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26985,
-    "prompt_tokens_details": {
-      "cached_tokens": 26048
-    },
-    "total_tokens": 27593
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T04:01:01.935898747Z",
   "translation": "Pequeño y grande ⟨están⟩ allí, ⟨son lo mismo⟩; y ⟨el⟩ esclavo ⟨está⟩ libre de su amo.",
   "tokens": [
     {
       "surface": "קָטֹ֣ן",
-      "english": "Pequeño"
+      "gloss": "Pequeño"
     },
     {
       "surface": "וְ֭\/גָדוֹל",
-      "english": "y grande"
+      "gloss": "y grande"
     },
     {
       "surface": "שָׁ֣ם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "ה֑וּא",
-      "english": "⟨son lo mismo⟩"
+      "gloss": "⟨son lo mismo⟩"
     },
     {
       "surface": "וְ֝\/עֶ֗בֶד",
-      "english": "y ⟨el⟩ esclavo"
+      "gloss": "y ⟨el⟩ esclavo"
     },
     {
       "surface": "חָפְשִׁ֥י",
-      "english": "⟨está⟩ libre"
+      "gloss": "⟨está⟩ libre"
     },
     {
       "surface": "מֵ\/אֲדֹנָֽי\/ו",
-      "english": "de su amo"
+      "gloss": "de su amo"
     }
-  ],
-  "timestamp": "2026-06-13T04:01:01.935898747Z",
-  "model": "glm-5.1"
+  ]
 }

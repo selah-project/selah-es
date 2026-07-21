@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 18:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 60084,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60459
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:20:25.926492044Z",
   "translation": "Del fruto de la boca de un hombre se saciará su vientre, ⟨estará⟩ satisfecho del producto de sus labios.",
   "tokens": [
     {
       "surface": "מפרי",
-      "english": "Del fruto"
+      "gloss": "Del fruto"
     },
     {
       "surface": "פי",
-      "english": "de la boca"
+      "gloss": "de la boca"
     },
     {
       "surface": "איש",
-      "english": "de un hombre"
+      "gloss": "de un hombre"
     },
     {
       "surface": "תשבע",
-      "english": "se saciará"
+      "gloss": "se saciará"
     },
     {
       "surface": "בטנו",
-      "english": "su vientre"
+      "gloss": "su vientre"
     },
     {
       "surface": "תבואת",
-      "english": "del producto"
+      "gloss": "del producto"
     },
     {
       "surface": "שפתיו",
-      "english": "de sus labios"
+      "gloss": "de sus labios"
     },
     {
       "surface": "ישבע",
-      "english": "⟨estará⟩ satisfecho"
+      "gloss": "⟨estará⟩ satisfecho"
     }
-  ],
-  "timestamp": "2026-07-16T23:20:25.926492044Z",
-  "model": "glm-4.5"
+  ]
 }

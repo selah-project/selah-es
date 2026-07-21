@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "ezekiel 48:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:57:48.632819985Z",
+  "translation": "y ⟨a⟩ el límite de Naftalí ⟨desde⟩ ⟨el⟩ lado ⟨del⟩ este hasta ⟨el⟩ lado ⟨del⟩ mar ⟨la porción de⟩ Menashé una",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Y ⟨a⟩"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨el⟩ límite"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "de Naftalí"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "⟨desde⟩"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "⟨el⟩ lado ⟨del⟩ este"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨el⟩ lado ⟨del⟩"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "mar"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "⟨la porción de⟩ Menashé"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Neftalí",
@@ -20,64 +67,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17201,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17645
-  },
-  "translation": "y ⟨a⟩ el límite de Naftalí ⟨desde⟩ ⟨el⟩ lado ⟨del⟩ este hasta ⟨el⟩ lado ⟨del⟩ mar ⟨la porción de⟩ Menashé una",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "Y ⟨a⟩"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨el⟩ límite"
-    },
-    {
-      "surface": "נפתלי",
-      "english": "de Naftalí"
-    },
-    {
-      "surface": "מפאת",
-      "english": "⟨desde⟩"
-    },
-    {
-      "surface": "קדמה",
-      "english": "⟨el⟩ lado ⟨del⟩ este"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta"
-    },
-    {
-      "surface": "פאת",
-      "english": "⟨el⟩ lado ⟨del⟩"
-    },
-    {
-      "surface": "ימה",
-      "english": "mar"
-    },
-    {
-      "surface": "מנשה",
-      "english": "⟨la porción de⟩ Menashé"
-    },
-    {
-      "surface": "אחד",
-      "english": "una"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:57:48.632819985Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

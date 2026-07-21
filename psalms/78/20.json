@@ -1,84 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 78:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70574,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71131
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:36.301752234Z",
   "translation": "He aquí, ⟨el⟩ golpeó la roca y brotaron aguas, y ⟨los⟩ torrentes se desbordaron; ¿también ⟨el⟩ pan podrá ⟨Él⟩ dar? ¿preparará carne para ⟨su⟩ pueblo?",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "הכה",
-      "english": "golpeó"
+      "gloss": "golpeó"
     },
     {
       "surface": "צור",
-      "english": "la roca"
+      "gloss": "la roca"
     },
     {
       "surface": "ויזובו",
-      "english": "brotaron"
+      "gloss": "brotaron"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "ונחלים",
-      "english": "y ⟨los⟩ torrentes"
+      "gloss": "y ⟨los⟩ torrentes"
     },
     {
       "surface": "ישטפו",
-      "english": "se desbordaron"
+      "gloss": "se desbordaron"
     },
     {
       "surface": "הגם",
-      "english": "¿también"
+      "gloss": "¿también"
     },
     {
       "surface": "לחם",
-      "english": "⟨el⟩ pan"
+      "gloss": "⟨el⟩ pan"
     },
     {
       "surface": "יוכל",
-      "english": "podrá ⟨Él⟩ dar"
+      "gloss": "podrá ⟨Él⟩ dar"
     },
     {
       "surface": "תת",
-      "english": "dar"
+      "gloss": "dar"
     },
     {
       "surface": "אם",
-      "english": "¿"
+      "gloss": "¿"
     },
     {
       "surface": "יכין",
-      "english": "preparará"
+      "gloss": "preparará"
     },
     {
       "surface": "שאר",
-      "english": "carne"
+      "gloss": "carne"
     },
     {
       "surface": "לעמו",
-      "english": "para ⟨su⟩ pueblo"
+      "gloss": "para ⟨su⟩ pueblo"
     }
-  ],
-  "timestamp": "2026-06-09T23:36:36.301752234Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 95:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 95,
-  "usage": {
-    "completion_tokens": 315,
-    "prompt_tokens": 70026,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70341
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:14.569322629Z",
   "translation": "donde ⟨vuestros⟩ padres me tentaron, ⟨me⟩ probaron, y también vieron ⟨mi⟩ obra",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "donde"
+      "gloss": "donde"
     },
     {
       "surface": "נסוני",
-      "english": "me tentaron"
+      "gloss": "me tentaron"
     },
     {
       "surface": "אבותיכם",
-      "english": "⟨vuestros⟩ padres"
+      "gloss": "⟨vuestros⟩ padres"
     },
     {
       "surface": "בחנוני",
-      "english": "⟨me⟩ probaron"
+      "gloss": "⟨me⟩ probaron"
     },
     {
       "surface": "גם",
-      "english": "y también"
+      "gloss": "y también"
     },
     {
       "surface": "ראו",
-      "english": "vieron"
+      "gloss": "vieron"
     },
     {
       "surface": "פעלי",
-      "english": "⟨mi⟩ obra"
+      "gloss": "⟨mi⟩ obra"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:14.569322629Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "job 3:21",
   "book": "job",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26899,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27395
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:54:40.490580133Z",
   "translation": "⟨los que⟩ esperan ⟨a⟩ ⟨la⟩ muerte ⟨y⟩ no ⟨está⟩ ⟨y⟩ cavaron ⟨por⟩ ella ⟨más⟩ ⟨que⟩ ⟨por⟩ ⟨los⟩ tesoros escondidos",
   "tokens": [
     {
       "surface": "המחכים",
-      "english": "⟨Los que⟩ esperan",
+      "gloss": "⟨Los que⟩ esperan",
       "marks": null
     },
     {
       "surface": "למות",
-      "english": "⟨a⟩ ⟨la⟩ muerte",
+      "gloss": "⟨a⟩ ⟨la⟩ muerte",
       "marks": null
     },
     {
       "surface": "ואיננו",
-      "english": "⟨y⟩ no ⟨está⟩",
+      "gloss": "⟨y⟩ no ⟨está⟩",
       "marks": null
     },
     {
       "surface": "ויחפרהו",
-      "english": "⟨y⟩ cavaron ⟨por⟩ ella",
+      "gloss": "⟨y⟩ cavaron ⟨por⟩ ella",
       "marks": "a la muerte"
     },
     {
       "surface": "ממטמונים",
-      "english": "⟨más⟩ ⟨que⟩ ⟨por⟩ ⟨los⟩ tesoros escondidos",
+      "gloss": "⟨más⟩ ⟨que⟩ ⟨por⟩ ⟨los⟩ tesoros escondidos",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-10T01:54:40.490580133Z",
-  "model": "glm-4.5"
+  ]
 }

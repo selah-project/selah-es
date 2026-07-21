@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 140:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 529,
-    "prompt_tokens": 70504,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71033
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:37.389718880Z",
   "translation": "Guárdame, YHWH, ⟨de⟩ ⟨las⟩ manos ⟨del⟩ malvado; protégeme ⟨del⟩ hombre ⟨de⟩ violencia, quienes han planeado hacer tropezar mis pasos.",
   "tokens": [
     {
       "surface": "שמרני",
-      "english": "Guárdame"
+      "gloss": "Guárdame"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מידי",
-      "english": "⟨de⟩ ⟨las⟩ manos"
+      "gloss": "⟨de⟩ ⟨las⟩ manos"
     },
     {
       "surface": "רשע",
-      "english": "⟨del⟩ malvado"
+      "gloss": "⟨del⟩ malvado"
     },
     {
       "surface": "מאיש",
-      "english": "⟨del⟩ hombre"
+      "gloss": "⟨del⟩ hombre"
     },
     {
       "surface": "חמסים",
-      "english": "⟨de⟩ violencia"
+      "gloss": "⟨de⟩ violencia"
     },
     {
       "surface": "תנצרני",
-      "english": "protégeme"
+      "gloss": "protégeme"
     },
     {
       "surface": "אשר",
-      "english": "quienes"
+      "gloss": "quienes"
     },
     {
       "surface": "חשבו",
-      "english": "han planeado"
+      "gloss": "han planeado"
     },
     {
       "surface": "לדחות",
-      "english": "hacer tropezar"
+      "gloss": "hacer tropezar"
     },
     {
       "surface": "פעמי",
-      "english": "mis pasos"
+      "gloss": "mis pasos"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:37.389718880Z",
-  "model": "glm-4.5"
+  ]
 }

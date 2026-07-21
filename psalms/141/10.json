@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 141:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 141,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69835,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70230
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:09:48.173519618Z",
   "translation": "Let ⟨the⟩ wicked fall into their own nets together, ⟨as for⟩ I ⟨shall pass⟩ by.",
   "tokens": [
     {
       "surface": "יפלו",
-      "english": "Let...fall"
+      "gloss": "Let...fall"
     },
     {
       "surface": "במכמריו",
-      "english": "into their own nets"
+      "gloss": "into their own nets"
     },
     {
       "surface": "רשעים",
-      "english": "⟨the⟩ wicked"
+      "gloss": "⟨the⟩ wicked"
     },
     {
       "surface": "יחד",
-      "english": "together"
+      "gloss": "together"
     },
     {
       "surface": "אנכי",
-      "english": "⟨as for⟩ I"
+      "gloss": "⟨as for⟩ I"
     },
     {
       "surface": "עד",
-      "english": "⟨shall pass⟩"
+      "gloss": "⟨shall pass⟩"
     },
     {
       "surface": "אעבור",
-      "english": "by"
+      "gloss": "by"
     }
-  ],
-  "timestamp": "2026-06-10T00:09:48.173519618Z",
-  "model": "glm-4.5"
+  ]
 }

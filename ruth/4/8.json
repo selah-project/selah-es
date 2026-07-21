@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "ruth 4:8",
   "book": "ruth",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 221,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27962,
-    "prompt_tokens_details": {
-      "cached_tokens": 26952
-    },
-    "total_tokens": 28183
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T21:35:19.238757148Z",
   "translation": "Y dijo el redentor a Boaz: Cómpralo para ti. Y ⟨él⟩ quitó su sandalia.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "הגאל",
-      "english": "el redentor"
+      "gloss": "el redentor"
     },
     {
       "surface": "לבעז",
-      "english": "a Boaz"
+      "gloss": "a Boaz"
     },
     {
       "surface": "קנה",
-      "english": "Cómpralo"
+      "gloss": "Cómpralo"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "וישלף",
-      "english": "Y ⟨él⟩ quitó"
+      "gloss": "Y ⟨él⟩ quitó"
     },
     {
       "surface": "נעלו",
-      "english": "su sandalia"
+      "gloss": "su sandalia"
     }
-  ],
-  "timestamp": "2026-06-09T21:35:19.238757148Z",
-  "model": "glm-4.5"
+  ]
 }

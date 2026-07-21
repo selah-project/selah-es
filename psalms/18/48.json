@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 48,
   "ref": "psalms 18:48",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69865,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70260
-  },
+  "verse": 48,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:10.146200154Z",
   "translation": "El Elohim ⟨que⟩ da venganzas por mí, ⟨y⟩ sujetará ⟨a⟩ los pueblos debajo de mí",
   "tokens": [
     {
       "surface": "האל",
-      "english": "El Elohim ⟨que⟩"
+      "gloss": "El Elohim ⟨que⟩"
     },
     {
       "surface": "הנותן",
-      "english": "da venganzas"
+      "gloss": "da venganzas"
     },
     {
       "surface": "נקמות",
-      "english": "por mí"
+      "gloss": "por mí"
     },
     {
       "surface": "לי",
-      "english": "por mí"
+      "gloss": "por mí"
     },
     {
       "surface": "וידבר",
-      "english": "⟨y⟩ sujetará"
+      "gloss": "⟨y⟩ sujetará"
     },
     {
       "surface": "עמים",
-      "english": "⟨a⟩ los pueblos"
+      "gloss": "⟨a⟩ los pueblos"
     },
     {
       "surface": "תחתי",
-      "english": "debajo de mí"
+      "gloss": "debajo de mí"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:10.146200154Z",
-  "model": "glm-4.5"
+  ]
 }

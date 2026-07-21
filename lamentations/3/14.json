@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "lamentations 3:14",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 39010,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39340
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:40:46.663881027Z",
   "translation": "Fui ⟨una⟩ escarnio ⟨para⟩ ⟨todo⟩ mi pueblo ⟨la⟩ melodía de ellos ⟨todo⟩ ⟨el⟩ día",
   "tokens": [
     {
       "surface": "הייתי",
-      "english": "Fui"
+      "gloss": "Fui"
     },
     {
       "surface": "שחק",
-      "english": "⟨una⟩ escarnio"
+      "gloss": "⟨una⟩ escarnio"
     },
     {
       "surface": "לכל",
-      "english": "⟨para⟩ ⟨todo⟩"
+      "gloss": "⟨para⟩ ⟨todo⟩"
     },
     {
       "surface": "עמי",
-      "english": "mi pueblo"
+      "gloss": "mi pueblo"
     },
     {
       "surface": "נגינתם",
-      "english": "⟨la⟩ melodía de ellos"
+      "gloss": "⟨la⟩ melodía de ellos"
     },
     {
       "surface": "כל",
-      "english": "⟨todo⟩"
+      "gloss": "⟨todo⟩"
     },
     {
       "surface": "היום",
-      "english": "⟨el⟩ día"
+      "gloss": "⟨el⟩ día"
     }
-  ],
-  "timestamp": "2026-06-09T22:40:46.663881027Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-kings 3:6",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 24215,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24580
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:04:50.233704722Z",
   "translation": "Y el rey Yehoram salió de Shomrón en ese día, y ⟨el⟩ ⟨את⟩ ⟨todo⟩ Yisrael ⟨lo⟩ contó",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "Y ... salió"
+      "gloss": "Y ... salió"
     },
     {
       "surface": "המלך",
-      "english": "el rey"
+      "gloss": "el rey"
     },
     {
       "surface": "יהורם",
-      "english": "Yehoram"
+      "gloss": "Yehoram"
     },
     {
       "surface": "ביום",
-      "english": "en ... día"
+      "gloss": "en ... día"
     },
     {
       "surface": "ההוא",
-      "english": "ese"
+      "gloss": "ese"
     },
     {
       "surface": "משמרון",
-      "english": "de Shomrón"
+      "gloss": "de Shomrón"
     },
     {
       "surface": "ויפקד",
-      "english": "y ⟨lo⟩ contó"
+      "gloss": "y ⟨lo⟩ contó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨todo⟩ Yisrael"
     },
     {
       "surface": "כל",
-      "english": "⟨todo⟩"
+      "gloss": "⟨todo⟩"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T19:04:50.233704722Z",
-  "model": "glm-4.5"
+  ]
 }

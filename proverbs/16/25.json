@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 16:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59940,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60319
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:40:23.003539484Z",
   "translation": "Hay un camino que parece ⟨correcto⟩ ⟨al⟩ hombre, pero su fin ⟨son⟩ ⟨los⟩ caminos de ⟨la⟩ muerte.",
   "tokens": [
     {
       "surface": "יש",
-      "english": "Hay"
+      "gloss": "Hay"
     },
     {
       "surface": "דרך",
-      "english": "un camino"
+      "gloss": "un camino"
     },
     {
       "surface": "ישר",
-      "english": "que parece ⟨correcto⟩"
+      "gloss": "que parece ⟨correcto⟩"
     },
     {
       "surface": "לפני",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "איש",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "ואחריתה",
-      "english": "pero su fin"
+      "gloss": "pero su fin"
     },
     {
       "surface": "דרכי",
-      "english": "⟨son⟩ ⟨los⟩ caminos"
+      "gloss": "⟨son⟩ ⟨los⟩ caminos"
     },
     {
       "surface": "מות",
-      "english": "de ⟨la⟩ muerte"
+      "gloss": "de ⟨la⟩ muerte"
     }
-  ],
-  "timestamp": "2026-06-10T01:40:23.003539484Z",
-  "model": "glm-4.5"
+  ]
 }

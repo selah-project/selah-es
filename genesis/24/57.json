@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 57,
   "ref": "genesis 24:57",
   "book": "genesis",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28296,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28613
-  },
+  "verse": 57,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:21:35.510113142Z",
   "translation": "Y dijeron: Llamemos a la joven y consultemos ⟨a⟩ ⟨ella⟩ ⟨boca⟩",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "Y dijeron"
+      "gloss": "Y dijeron"
     },
     {
       "surface": "נקרא",
-      "english": "Llamemos"
+      "gloss": "Llamemos"
     },
     {
       "surface": "לנער",
-      "english": "a la joven"
+      "gloss": "a la joven"
     },
     {
       "surface": "ונשאלה",
-      "english": "y consultemos"
+      "gloss": "y consultemos"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "ella boca"
     },
     {
       "surface": "פיה",
-      "english": "⟨boca⟩"
+      "gloss": "⟨boca⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:21:35.510113142Z",
-  "model": "glm-4.5"
+  ]
 }

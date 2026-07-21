@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 7:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69787,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70226
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:13.785739632Z",
   "translation": "Elohim ⟨es⟩ ⟨un⟩ juez justo; ⟨y⟩ ⟨un⟩ Elohim que siente indignación ⟨cada⟩ día.",
   "tokens": [
     {
       "surface": "מגני",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "על",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "אלהים",
-      "english": "⟨un⟩ juez justo"
+      "gloss": "⟨un⟩ juez justo"
     },
     {
       "surface": "מושיע",
-      "english": "⟨y⟩ ⟨un⟩ Elohim que siente indignación"
+      "gloss": "⟨y⟩ ⟨un⟩ Elohim que siente indignación"
     },
     {
       "surface": "ישרי",
-      "english": "⟨cada⟩"
+      "gloss": "⟨cada⟩"
     },
     {
       "surface": "לב",
-      "english": "día"
+      "gloss": "día"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:13.785739632Z",
-  "model": "glm-4.5"
+  ]
 }

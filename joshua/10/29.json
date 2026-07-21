@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "joshua 10:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 10,
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:34:28.956357224Z",
+  "translation": "Yehoshúa pasó con todo Yisrael desde Makkedah ⟨a⟩ Libnah, y luchó contra Libnah",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Pasó"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshúa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "con todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con él"
+    },
+    {
+      "surface": "ממקדה",
+      "gloss": "desde Makkedah"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "⟨a⟩ Libnah",
+      "marks": "Libnah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "y luchó"
+    },
+    {
+      "surface": "עם",
+      "gloss": "contra"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,65 +61,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 274,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16275,
-    "prompt_tokens_details": {
-      "cached_tokens": 14942
-    },
-    "total_tokens": 16549
-  },
-  "translation": "Yehoshúa pasó con todo Yisrael desde Makkedah ⟨a⟩ Libnah, y luchó contra Libnah",
-  "tokens": [
-    {
-      "surface": "ויעבר",
-      "english": "Pasó"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshúa"
-    },
-    {
-      "surface": "וכל",
-      "english": "con todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "עמו",
-      "english": "con él"
-    },
-    {
-      "surface": "ממקדה",
-      "english": "desde Makkedah"
-    },
-    {
-      "surface": "לבנה",
-      "english": "⟨a⟩ Libnah",
-      "marks": "Libnah"
-    },
-    {
-      "surface": "וילחם",
-      "english": "y luchó"
-    },
-    {
-      "surface": "עם",
-      "english": "contra"
-    },
-    {
-      "surface": "לבנה",
-      "english": "Libnah"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:34:28.956357224Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

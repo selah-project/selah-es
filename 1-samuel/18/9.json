@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-samuel 18:9",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 495,
-    "prompt_tokens": 23557,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24052
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:41:01.095408455Z",
   "translation": "Y Shaúl observaba con ⟨malicia⟩ ⟨את⟩ David desde aquel día y en adelante",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y"
+      "gloss": "Y"
     },
     {
       "surface": "שאול",
-      "english": "Shaúl"
+      "gloss": "Shaúl"
     },
     {
       "surface": "עון",
-      "english": "observaba con ⟨malicia⟩"
+      "gloss": "observaba con ⟨malicia⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "David"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "מהיום",
-      "english": "desde aquel día"
+      "gloss": "desde aquel día"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "והלאה",
-      "english": "y en adelante"
+      "gloss": "y en adelante"
     }
-  ],
-  "timestamp": "2026-07-16T18:41:01.095408455Z",
-  "model": "glm-4.5"
+  ]
 }

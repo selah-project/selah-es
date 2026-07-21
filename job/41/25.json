@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 41:25",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26955,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27421
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:58.778756074Z",
   "translation": "⟨There is⟩ upon ⟨the⟩ dust ⟨that⟩ has dominion ⟨that⟩ has been made ⟨to be⟩ without terror.",
   "tokens": [
     {
       "surface": "אין",
-      "english": "⟨There is⟩",
+      "gloss": "⟨There is⟩",
       "marks": "the lack of dominion mentioned later"
     },
     {
       "surface": "על",
-      "english": "upon",
+      "gloss": "upon",
       "marks": "the dust"
     },
     {
       "surface": "עפר",
-      "english": "⟨the⟩ dust",
+      "gloss": "⟨the⟩ dust",
       "marks": ""
     },
     {
       "surface": "משלו",
-      "english": "⟨that⟩ has dominion",
+      "gloss": "⟨that⟩ has dominion",
       "marks": ""
     },
     {
       "surface": "העשו",
-      "english": "⟨that⟩ has been made",
+      "gloss": "⟨that⟩ has been made",
       "marks": ""
     },
     {
       "surface": "לבלי",
-      "english": "⟨to be⟩ without",
+      "gloss": "⟨to be⟩ without",
       "marks": "terror"
     },
     {
       "surface": "חת",
-      "english": "terror",
+      "gloss": "terror",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T02:18:58.778756074Z",
-  "model": "glm-4.5"
+  ]
 }

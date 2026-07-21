@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 38:3",
   "book": "genesis",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 359,
-    "prompt_tokens": 28381,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28740
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:10:33.091979095Z",
   "translation": "Y concibió, y dio a luz un hijo, y llamó ⟨את⟩ su nombre Er",
   "tokens": [
     {
       "surface": "וַ\/תַּ֖הַר",
-      "english": "Y concibió"
+      "gloss": "Y concibió"
     },
     {
       "surface": "וַ\/תֵּ֣לֶד",
-      "english": "y dio a luz"
+      "gloss": "y dio a luz"
     },
     {
       "surface": "בֵּ֑ן",
-      "english": "un hijo"
+      "gloss": "un hijo"
     },
     {
       "surface": "וַ\/יִּקְרָ֥א",
-      "english": "y llamó"
+      "gloss": "y llamó"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su nombre"
     },
     {
       "surface": "שְׁמ֖\/וֹ",
-      "english": "su nombre"
+      "gloss": "su nombre"
     },
     {
       "surface": "עֵֽר",
-      "english": "Er"
+      "gloss": "Er"
     }
-  ],
-  "timestamp": "2026-07-16T21:10:33.091979095Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-kings 18:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 18,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:10:10.795129370Z",
+  "translation": "Y ahora ⟨estás⟩ diciendo: ‘Ve y di a ⟨tu⟩ señor: ¡Mira! ⟨את⟩ Eliyahu ⟨está⟩ aquí’.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Y ahora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨estás⟩",
+      "marks": "el sujeto implícito de 'diciendo'"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "a ⟨tu⟩ señor",
+      "marks": "el objeto indirecto del habla"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "¡Mira!"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Elías",
@@ -13,58 +54,6 @@
       "hebrew": "אליהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61974,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62372
-  },
-  "translation": "Y ahora ⟨estás⟩ diciendo: ‘Ve y di a ⟨tu⟩ señor: ¡Mira! ⟨את⟩ Eliyahu ⟨está⟩ aquí’.",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "Y ahora"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨estás⟩",
-      "marks": "el sujeto implícito de 'diciendo'"
-    },
-    {
-      "surface": "אמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "לך",
-      "english": "Ve"
-    },
-    {
-      "surface": "אמר",
-      "english": "di"
-    },
-    {
-      "surface": "לאדניך",
-      "english": "a ⟨tu⟩ señor",
-      "marks": "el objeto indirecto del habla"
-    },
-    {
-      "surface": "הנה",
-      "english": "¡Mira!"
-    },
-    {
-      "surface": "אליהו",
-      "english": "Eliyahu"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:10:10.795129370Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

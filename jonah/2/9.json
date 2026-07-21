@@ -1,9 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "jonah 2:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jonah",
+  "chapter": 2,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:07:01.765935969Z",
+  "translation": "Observadores ⟨de⟩ vanidades ⟨falsas⟩ abandonarán ⟨su⟩ Jésed.",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "Observadores"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "⟨de⟩ vanidades",
+      "marks": "vanidades"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "⟨falsas⟩",
+      "marks": "vanidades ⟨falsas⟩"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "abandonarán ⟨su⟩ Jésed",
+      "marks": "misericordia"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "abandonarán"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "misericordia",
@@ -13,47 +43,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19039,
-    "prompt_tokens_details": {
-      "cached_tokens": 18178
-    },
-    "total_tokens": 19458
-  },
-  "translation": "Observadores ⟨de⟩ vanidades ⟨falsas⟩ abandonarán ⟨su⟩ Jésed.",
-  "tokens": [
-    {
-      "surface": "משמרים",
-      "english": "Observadores"
-    },
-    {
-      "surface": "הבלי",
-      "english": "⟨de⟩ vanidades",
-      "marks": "vanidades"
-    },
-    {
-      "surface": "שוא",
-      "english": "⟨falsas⟩",
-      "marks": "vanidades ⟨falsas⟩"
-    },
-    {
-      "surface": "חסדם",
-      "english": "abandonarán ⟨su⟩ Jésed",
-      "marks": "misericordia"
-    },
-    {
-      "surface": "יעזבו",
-      "english": "abandonarán"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:07:01.765935969Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

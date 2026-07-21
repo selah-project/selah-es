@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-samuel 25:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 25,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:09:47.362700151Z",
+  "translation": "Y diréis así: ⟨al⟩ que vive, ⟨en⟩ Shalom; ⟨tú⟩, Shalom; y tu casa, Shalom; y todo lo que te pertenece, Shalom.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Y diréis"
+    },
+    {
+      "surface": "כה",
+      "gloss": "así"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "⟨al⟩ que vive"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "⟨tú⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "y tu casa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo que"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te pertenece"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -27,68 +78,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16431,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16888
-  },
-  "translation": "Y diréis así: ⟨al⟩ que vive, ⟨en⟩ Shalom; ⟨tú⟩, Shalom; y tu casa, Shalom; y todo lo que te pertenece, Shalom.",
-  "tokens": [
-    {
-      "surface": "ואמרתם",
-      "english": "Y diréis"
-    },
-    {
-      "surface": "כה",
-      "english": "así"
-    },
-    {
-      "surface": "לחי",
-      "english": "⟨al⟩ que vive"
-    },
-    {
-      "surface": "ואתה",
-      "english": "⟨tú⟩"
-    },
-    {
-      "surface": "שלום",
-      "english": "Shalom"
-    },
-    {
-      "surface": "וביתך",
-      "english": "y tu casa"
-    },
-    {
-      "surface": "שלום",
-      "english": "Shalom"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "אשר",
-      "english": "lo que"
-    },
-    {
-      "surface": "לך",
-      "english": "te pertenece"
-    },
-    {
-      "surface": "שלום",
-      "english": "Shalom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:09:47.362700151Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

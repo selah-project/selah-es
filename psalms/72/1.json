@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 72:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 420,
-    "prompt_tokens": 70071,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70491
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:15.269305489Z",
   "translation": "⟨A⟩ Salomón: da, oh Elohim, tus juicios ⟨al⟩ rey, y tu justicia ⟨al⟩ hijo del rey.",
   "tokens": [
     {
       "surface": "לשלמה",
-      "english": "⟨A⟩ Salomón"
+      "gloss": "⟨A⟩ Salomón"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "משפטיך",
-      "english": "tus juicios"
+      "gloss": "tus juicios"
     },
     {
       "surface": "למלך",
-      "english": "⟨al⟩ rey"
+      "gloss": "⟨al⟩ rey"
     },
     {
       "surface": "תן",
-      "english": "da"
+      "gloss": "da"
     },
     {
       "surface": "וצדקתך",
-      "english": "y tu justicia"
+      "gloss": "y tu justicia"
     },
     {
       "surface": "לבן",
-      "english": "⟨al⟩ hijo"
+      "gloss": "⟨al⟩ hijo"
     },
     {
       "surface": "מלך",
-      "english": "del rey"
+      "gloss": "del rey"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:15.269305489Z",
-  "model": "glm-4.5"
+  ]
 }

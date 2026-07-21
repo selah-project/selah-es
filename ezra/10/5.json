@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ezra 10:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:20:45.304298748Z",
+  "translation": "Y Ezra ⟨se⟩ levantó e hizo jurar ⟨a⟩ ⟨los⟩ jefes ⟨de⟩ los sacerdotes, ⟨los⟩ levitas y todo Yisrael ⟨para⟩ hacer ⟨conforme⟩ ⟨a⟩ esta palabra, y juraron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Y ⟨se⟩ levantó"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "e hizo jurar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "שרי הכהנים"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "⟨los⟩ jefes"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨de⟩ los sacerdotes"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "⟨los⟩ levitas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨para⟩ hacer"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "⟨conforme⟩ ⟨a⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "esta palabra"
+    },
+    {
+      "surface": "ואשבעו",
+      "gloss": "y juraron"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,77 +73,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45176,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 45759
-  },
-  "translation": "Y Ezra ⟨se⟩ levantó e hizo jurar ⟨a⟩ ⟨los⟩ jefes ⟨de⟩ los sacerdotes, ⟨los⟩ levitas y todo Yisrael ⟨para⟩ hacer ⟨conforme⟩ ⟨a⟩ esta palabra, y juraron.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Y ⟨se⟩ levantó"
-    },
-    {
-      "surface": "עזרא",
-      "english": "Ezra"
-    },
-    {
-      "surface": "וישבע",
-      "english": "e hizo jurar"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "שרי הכהנים"
-    },
-    {
-      "surface": "שרי",
-      "english": "⟨los⟩ jefes"
-    },
-    {
-      "surface": "הכהנים",
-      "english": "⟨de⟩ los sacerdotes"
-    },
-    {
-      "surface": "הלוים",
-      "english": "⟨los⟩ levitas"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לעשות",
-      "english": "⟨para⟩ hacer"
-    },
-    {
-      "surface": "כדבר",
-      "english": "⟨conforme⟩ ⟨a⟩"
-    },
-    {
-      "surface": "הזה",
-      "english": "esta palabra"
-    },
-    {
-      "surface": "ואשבעו",
-      "english": "y juraron"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:20:45.304298748Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

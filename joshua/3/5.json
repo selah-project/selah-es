@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "joshua 3:5",
   "book": "joshua",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23681,
-    "prompt_tokens_details": {
-      "cached_tokens": 22288
-    },
-    "total_tokens": 24177
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:08:07.113612195Z",
   "translation": "Y Yehoshúa ⟨dijo⟩ ⟨al⟩ pueblo: ‹¡Santificaos!⟩ porque ⟨el⟩ día siguiente YHWH hará ⟨en medio de⟩ vosotros maravillas",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y Yehoshúa ⟨dijo⟩"
+      "gloss": "Y Yehoshúa ⟨dijo⟩"
     },
     {
       "surface": "יהושע",
-      "english": "Yehoshúa"
+      "gloss": "Yehoshúa"
     },
     {
       "surface": "אל",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "העם",
-      "english": "pueblo"
+      "gloss": "pueblo"
     },
     {
       "surface": "התקדשו",
-      "english": "‹¡Santificaos!›"
+      "gloss": "‹¡Santificaos!›"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "מחר",
-      "english": "⟨el⟩ día siguiente"
+      "gloss": "⟨el⟩ día siguiente"
     },
     {
       "surface": "יעשה",
-      "english": "hará"
+      "gloss": "hará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בקרבכם",
-      "english": "⟨en medio de⟩ vosotros"
+      "gloss": "⟨en medio de⟩ vosotros"
     },
     {
       "surface": "נפלאות",
-      "english": "maravillas"
+      "gloss": "maravillas"
     }
-  ],
-  "timestamp": "2026-06-10T01:08:07.113612195Z",
-  "model": "glm-4.5"
+  ]
 }

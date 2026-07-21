@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "psalms 109:28",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70011,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70460
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:41.293152290Z",
   "translation": "Que ⟨ellos⟩ maldigan, pero tú ⟨dices⟩ ⟨bendecir⟩: ⟨ellos⟩ se levanten y sean avergonzados, y tu siervo se alegrará.",
   "tokens": [
     {
       "surface": "יקללו",
-      "english": "Que ⟨ellos⟩ maldigan"
+      "gloss": "Que ⟨ellos⟩ maldigan"
     },
     {
       "surface": "המה",
-      "english": "⟨ellos⟩"
+      "gloss": "⟨ellos⟩"
     },
     {
       "surface": "ואתה",
-      "english": "pero tú ⟨dices⟩"
+      "gloss": "pero tú ⟨dices⟩"
     },
     {
       "surface": "תברך",
-      "english": "⟨bendecir⟩"
+      "gloss": "⟨bendecir⟩"
     },
     {
       "surface": "קמו",
-      "english": "⟨ellos⟩ se levanten"
+      "gloss": "⟨ellos⟩ se levanten"
     },
     {
       "surface": "ויבשו",
-      "english": "y sean avergonzados"
+      "gloss": "y sean avergonzados"
     },
     {
       "surface": "ועבדך",
-      "english": "y tu siervo"
+      "gloss": "y tu siervo"
     },
     {
       "surface": "ישמח",
-      "english": "se alegrará"
+      "gloss": "se alegrará"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:41.293152290Z",
-  "model": "glm-4.5"
+  ]
 }

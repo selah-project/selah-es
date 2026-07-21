@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 26:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 406,
-    "prompt_tokens": 69943,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70349
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:34.314254788Z",
   "translation": "Porque tu Jésed ⟨está⟩ delante de mis ojos, y he andado en tu Emet.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "חסדך",
-      "english": "tu Jésed"
+      "gloss": "tu Jésed"
     },
     {
       "surface": "לנגד",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "עיני",
-      "english": "mis ojos"
+      "gloss": "mis ojos"
     },
     {
       "surface": "והתהלכתי",
-      "english": "y he andado"
+      "gloss": "y he andado"
     },
     {
       "surface": "באמתך",
-      "english": "en tu Emet"
+      "gloss": "en tu Emet"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:34.314254788Z",
-  "model": "glm-4.5"
+  ]
 }

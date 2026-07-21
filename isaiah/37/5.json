@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 37:5",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 228,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25893,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26121
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:42:39.925215478Z",
   "translation": "Y vinieron ⟨los⟩ sirvientes ⟨del⟩ rey Jizkiyahu a Yeshayahu",
   "tokens": [
     {
       "surface": "ויבאו",
-      "english": "Y vinieron"
+      "gloss": "Y vinieron"
     },
     {
       "surface": "עבדי",
-      "english": "sirvientes"
+      "gloss": "sirvientes"
     },
     {
       "surface": "המלך",
-      "english": "⟨del⟩ rey"
+      "gloss": "⟨del⟩ rey"
     },
     {
       "surface": "חזקיהו",
-      "english": "Jizkiyahu"
+      "gloss": "Jizkiyahu"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "ישעיהו",
-      "english": "Yeshayahu"
+      "gloss": "Yeshayahu"
     }
-  ],
-  "timestamp": "2026-06-10T02:42:39.925215478Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 31:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 770,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70316,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71086
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:11:33.983593821Z",
   "translation": "De todos mis opresores he sido ⟨un⟩ oprobio, y especialmente ⟨a⟩ mis vecinos ⟨una⟩ gran espanto, y ⟨al⟩ que me conoce ⟨un⟩ temor; ⟨los que⟩ me veían ⟨des⟩ fuera huían de mí.",
   "tokens": [
     {
       "surface": "מכל",
-      "english": "De todos",
+      "gloss": "De todos",
       "marks": "mis opresores"
     },
     {
       "surface": "צררי",
-      "english": "mis opresores",
+      "gloss": "mis opresores",
       "marks": "De todos"
     },
     {
       "surface": "הייתי",
-      "english": "he sido"
+      "gloss": "he sido"
     },
     {
       "surface": "חרפה",
-      "english": "⟨un⟩ oprobio"
+      "gloss": "⟨un⟩ oprobio"
     },
     {
       "surface": "ולשכני",
-      "english": "y especialmente ⟨a⟩ mis vecinos"
+      "gloss": "y especialmente ⟨a⟩ mis vecinos"
     },
     {
       "surface": "מאד",
-      "english": "⟨una⟩ gran"
+      "gloss": "⟨una⟩ gran"
     },
     {
       "surface": "ופחד",
-      "english": "espanto"
+      "gloss": "espanto"
     },
     {
       "surface": "למידעי",
-      "english": "y ⟨al⟩ que me conoce"
+      "gloss": "y ⟨al⟩ que me conoce"
     },
     {
       "surface": "ראי",
-      "english": "⟨los que⟩ me veían"
+      "gloss": "⟨los que⟩ me veían"
     },
     {
       "surface": "בחוץ",
-      "english": "⟨des⟩ fuera"
+      "gloss": "⟨des⟩ fuera"
     },
     {
       "surface": "נדדו",
-      "english": "huían"
+      "gloss": "huían"
     },
     {
       "surface": "ממני",
-      "english": "de mí"
+      "gloss": "de mí"
     }
-  ],
-  "timestamp": "2026-06-09T23:11:33.983593821Z",
-  "model": "glm-4.5"
+  ]
 }

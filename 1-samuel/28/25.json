@@ -1,9 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-samuel 28:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 28,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:13:05.802178019Z",
+  "translation": "Y ella ⟨lo⟩ trajo ⟨ante⟩ Shaúl y ⟨ante⟩ sus siervos, y ellos comieron; y se levantaron y se fueron ⟨en⟩ aquella noche.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "Y ella ⟨lo⟩ trajo",
+      "marks": "la comida preparada en el versículo anterior"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨ante⟩",
+      "marks": "Saúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "y ⟨ante⟩",
+      "marks": "sus siervos"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sus siervos"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "y ellos comieron"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "y se levantaron"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "y se fueron"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aquella noche"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -13,67 +63,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16267,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16711
-  },
-  "translation": "Y ella ⟨lo⟩ trajo ⟨ante⟩ Shaúl y ⟨ante⟩ sus siervos, y ellos comieron; y se levantaron y se fueron ⟨en⟩ aquella noche.",
-  "tokens": [
-    {
-      "surface": "ותגש",
-      "english": "Y ella ⟨lo⟩ trajo",
-      "marks": "la comida preparada en el versículo anterior"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨ante⟩",
-      "marks": "Saúl"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "ולפני",
-      "english": "y ⟨ante⟩",
-      "marks": "sus siervos"
-    },
-    {
-      "surface": "עבדיו",
-      "english": "sus siervos"
-    },
-    {
-      "surface": "ויאכלו",
-      "english": "y ellos comieron"
-    },
-    {
-      "surface": "ויקמו",
-      "english": "y se levantaron"
-    },
-    {
-      "surface": "וילכו",
-      "english": "y se fueron"
-    },
-    {
-      "surface": "בלילה",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "ההוא",
-      "english": "aquella noche"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:13:05.802178019Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

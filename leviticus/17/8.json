@@ -1,86 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "leviticus 17:8",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 599,
-    "prompt_tokens": 25356,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25955
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:41:54.948382095Z",
   "translation": "Y dirás a ellos: cualquier varón ⟨de⟩ la casa de Yisrael, y ⟨de⟩ el ger que habite en medio de ellos, que ofrezca ⟨את⟩ olá o korban",
   "tokens": [
     {
       "surface": "ואלהם",
-      "english": "Y dirás a ellos"
+      "gloss": "Y dirás a ellos"
     },
     {
       "surface": "תאמר",
-      "english": "dirás"
+      "gloss": "dirás"
     },
     {
       "surface": "איש",
-      "english": "cualquier varón"
+      "gloss": "cualquier varón"
     },
     {
       "surface": "איש",
-      "english": "cualquier varón"
+      "gloss": "cualquier varón"
     },
     {
       "surface": "מבית",
-      "english": "⟨de⟩ la casa"
+      "gloss": "⟨de⟩ la casa"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ומן",
-      "english": "y ⟨de⟩"
+      "gloss": "y ⟨de⟩"
     },
     {
       "surface": "הגר",
-      "english": "el ger"
+      "gloss": "el ger"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יגור",
-      "english": "habite"
+      "gloss": "habite"
     },
     {
       "surface": "בתוכם",
-      "english": "en medio de ellos"
+      "gloss": "en medio de ellos"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יעלה",
-      "english": "ofrezca"
+      "gloss": "ofrezca"
     },
     {
       "surface": "עלה",
-      "english": "⟨את⟩ olá",
+      "gloss": "⟨את⟩ olá",
       "marks": "olá"
     },
     {
       "surface": "או",
-      "english": "o"
+      "gloss": "o"
     },
     {
       "surface": "זבח",
-      "english": "korban"
+      "gloss": "korban"
     }
-  ],
-  "timestamp": "2026-07-16T22:41:54.948382095Z",
-  "model": "glm-4.5"
+  ]
 }

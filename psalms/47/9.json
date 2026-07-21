@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 47:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 382,
-    "prompt_tokens": 70148,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70530
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:28:35.702963512Z",
   "translation": "Elohim reina sobre las naciones; Elohim ⟨está⟩ sentado sobre ⟨el⟩ trono de su santidad.",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "reina"
+      "gloss": "reina"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "גוים",
-      "english": "las naciones"
+      "gloss": "las naciones"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישב",
-      "english": "⟨está⟩ sentado"
+      "gloss": "⟨está⟩ sentado"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כסא",
-      "english": "⟨el⟩ trono"
+      "gloss": "⟨el⟩ trono"
     },
     {
       "surface": "קדשו",
-      "english": "de su santidad"
+      "gloss": "de su santidad"
     }
-  ],
-  "timestamp": "2026-07-21T02:28:35.702963512Z",
-  "model": "glm-4.5"
+  ]
 }

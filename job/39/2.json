@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 39:2",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27020,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27450
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:16:04.569598454Z",
   "translation": "¿⟨puedes⟩ contar ⟨los⟩ meses que cumplen? ⟨Y⟩ ⟨puedes⟩ saber ⟨la⟩ hora de ⟨su⟩ dar a luz?",
   "tokens": [
     {
       "surface": "תספר",
-      "english": "¿⟨Puedes⟩ contar"
+      "gloss": "¿⟨Puedes⟩ contar"
     },
     {
       "surface": "ירחים",
-      "english": "⟨los⟩ meses"
+      "gloss": "⟨los⟩ meses"
     },
     {
       "surface": "תמלאנה",
-      "english": "que cumplen"
+      "gloss": "que cumplen"
     },
     {
       "surface": "וידעת",
-      "english": "⟨Y⟩ ⟨puedes⟩ saber"
+      "gloss": "⟨Y⟩ ⟨puedes⟩ saber"
     },
     {
       "surface": "עת",
-      "english": "⟨la⟩ hora"
+      "gloss": "⟨la⟩ hora"
     },
     {
       "surface": "לדתנה",
-      "english": "de ⟨su⟩ dar a luz"
+      "gloss": "de ⟨su⟩ dar a luz"
     }
-  ],
-  "timestamp": "2026-06-10T02:16:04.569598454Z",
-  "model": "glm-4.5"
+  ]
 }

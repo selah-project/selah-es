@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 25:5",
   "book": "job",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 442,
-    "prompt_tokens": 27244,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27686
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:00:10.780877726Z",
   "translation": "He aquí, hasta la luna, y no ⟨está⟩ luminosa, y las estrellas no son puras en sus ojos;",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "ירח",
-      "english": "la luna"
+      "gloss": "la luna"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יאהיל",
-      "english": "⟨está⟩ luminosa"
+      "gloss": "⟨está⟩ luminosa"
     },
     {
       "surface": "וכוכבים",
-      "english": "las estrellas"
+      "gloss": "las estrellas"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "זכו",
-      "english": "son puras"
+      "gloss": "son puras"
     },
     {
       "surface": "בעיניו",
-      "english": "en sus ojos"
+      "gloss": "en sus ojos"
     }
-  ],
-  "timestamp": "2026-07-16T22:00:10.780877726Z",
-  "model": "glm-4.5"
+  ]
 }

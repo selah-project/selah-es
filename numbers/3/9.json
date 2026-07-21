@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "numbers 3:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 3,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:10:39.770918447Z",
+  "translation": "Y darás ⟨los⟩ Levitas a Aharón y a sus hijos; dados son ⟨ellos⟩ dados ⟨son⟩ ⟨ellos⟩ a él de entre ⟨los⟩ hijos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Y darás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨los⟩",
+      "marks": "Levitas"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levitas"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "a Aharón"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "y a sus hijos"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "dados"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "son"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ellos⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a él"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de entre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "hijos de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,73 +69,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18166,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 18555
-  },
-  "translation": "Y darás ⟨los⟩ Levitas a Aharón y a sus hijos; dados son ⟨ellos⟩ dados ⟨son⟩ ⟨ellos⟩ a él de entre ⟨los⟩ hijos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ונתתה",
-      "english": "Y darás"
-    },
-    {
-      "surface": "את",
-      "english": "⟨los⟩",
-      "marks": "Levitas"
-    },
-    {
-      "surface": "הלוים",
-      "english": "Levitas"
-    },
-    {
-      "surface": "לאהרן",
-      "english": "a Aharón"
-    },
-    {
-      "surface": "ולבניו",
-      "english": "y a sus hijos"
-    },
-    {
-      "surface": "נתונם",
-      "english": "dados"
-    },
-    {
-      "surface": "נתונם",
-      "english": "son"
-    },
-    {
-      "surface": "המה",
-      "english": "⟨ellos⟩"
-    },
-    {
-      "surface": "לו",
-      "english": "a él"
-    },
-    {
-      "surface": "מאת",
-      "english": "de entre"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "hijos de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:10:39.770918447Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

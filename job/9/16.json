@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 9:16",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 27255,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27641
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:57:39.861153345Z",
   "translation": "Si ⟨yo⟩ hubiera llamado, y Él me hubiera respondido, ⟨yo⟩ no creería que ⟨Él⟩ escuchara ⟨a⟩ mi voz",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "קראתי",
-      "english": "⟨yo⟩ hubiera llamado"
+      "gloss": "⟨yo⟩ hubiera llamado"
     },
     {
       "surface": "ויענני",
-      "english": "y Él me hubiera respondido"
+      "gloss": "y Él me hubiera respondido"
     },
     {
       "surface": "לא",
-      "english": "⟨yo⟩ no"
+      "gloss": "⟨yo⟩ no"
     },
     {
       "surface": "אאמין",
-      "english": "creería"
+      "gloss": "creería"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יאזין",
-      "english": "⟨Él⟩ escuchara"
+      "gloss": "⟨Él⟩ escuchara"
     },
     {
       "surface": "קולי",
-      "english": "⟨a⟩ mi voz"
+      "gloss": "⟨a⟩ mi voz"
     }
-  ],
-  "timestamp": "2026-07-16T21:57:39.861153345Z",
-  "model": "glm-4.5"
+  ]
 }

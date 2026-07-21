@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.1",
-  "verse": 9,
   "ref": "psalms 94:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70051,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70505
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:58:13.160956446Z",
   "translation": "El que plantó ⟨את⟩ la oreja, ¿no escuchará? El que formó ⟨את⟩ el ojo, ¿no mirará?",
   "tokens": [
     {
       "surface": "הנטע",
-      "english": "El que plantó"
+      "gloss": "El que plantó"
     },
     {
       "surface": "אזן",
-      "english": "la oreja"
+      "gloss": "la oreja"
     },
     {
       "surface": "הלא",
-      "english": "¿no"
+      "gloss": "¿no"
     },
     {
       "surface": "ישמע",
-      "english": "escuchará?"
+      "gloss": "escuchará?"
     },
     {
       "surface": "אם",
-      "english": "El que"
+      "gloss": "El que"
     },
     {
       "surface": "יצר",
-      "english": "formó"
+      "gloss": "formó"
     },
     {
       "surface": "עין",
-      "english": "el ojo"
+      "gloss": "el ojo"
     },
     {
       "surface": "הלא",
-      "english": "¿no"
+      "gloss": "¿no"
     },
     {
       "surface": "יביט",
-      "english": "mirará?"
+      "gloss": "mirará?"
     }
-  ],
-  "timestamp": "2026-06-13T03:58:13.160956446Z",
-  "model": "glm-5.1"
+  ]
 }

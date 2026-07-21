@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 7:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59783,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60206
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:32:33.771432734Z",
   "translation": "Con tapices decorados he ⟨he⟩ ⟨preparado⟩ mi lecho, ⟨con⟩ obras entalladas ⟨con⟩ lino fino ⟨de⟩ Egipto.",
   "tokens": [
     {
       "surface": "מרבדים",
-      "english": "Tapices decorados"
+      "gloss": "Tapices decorados"
     },
     {
       "surface": "רבדתי",
-      "english": "he ⟨preparado⟩"
+      "gloss": "he ⟨preparado⟩"
     },
     {
       "surface": "ערשי",
-      "english": "mi lecho"
+      "gloss": "mi lecho"
     },
     {
       "surface": "חטבות",
-      "english": "obras entalladas"
+      "gloss": "obras entalladas"
     },
     {
       "surface": "אטון",
-      "english": "lino fino"
+      "gloss": "lino fino"
     },
     {
       "surface": "מצרים",
-      "english": "de Egipto"
+      "gloss": "de Egipto"
     }
-  ],
-  "timestamp": "2026-06-10T01:32:33.771432734Z",
-  "model": "glm-4.5"
+  ]
 }

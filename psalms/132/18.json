@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 132:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69771,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70109
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:06:23.716081780Z",
   "translation": "Sus enemigos ⟨את⟩ vestiré con vergüenza, pero ⟨sobre⟩ él ⟨florcerá⟩ su corona.",
   "tokens": [
     {
       "surface": "אויביו",
-      "english": "Sus enemigos"
+      "gloss": "Sus enemigos"
     },
     {
       "surface": "אלביש",
-      "english": "vestiré"
+      "gloss": "vestiré"
     },
     {
       "surface": "בשת",
-      "english": "con vergüenza"
+      "gloss": "con vergüenza"
     },
     {
       "surface": "ועליו",
-      "english": "pero ⟨sobre⟩ él"
+      "gloss": "pero ⟨sobre⟩ él"
     },
     {
       "surface": "יציץ",
-      "english": "⟨florcerá⟩"
+      "gloss": "⟨florcerá⟩"
     },
     {
       "surface": "נזרו",
-      "english": "su corona"
+      "gloss": "su corona"
     }
-  ],
-  "timestamp": "2026-06-10T00:06:23.716081780Z",
-  "model": "glm-4.5"
+  ]
 }

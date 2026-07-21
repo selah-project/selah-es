@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "job 30:31",
   "book": "job",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26879,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27185
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:10:08.597891532Z",
   "translation": "Y mi arpa ⟨es⟩ para el luto y mi flauta ⟨es⟩ para ⟨el⟩ sonido de ⟨los⟩ que lloran",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y mi"
+      "gloss": "Y mi"
     },
     {
       "surface": "לאבל",
-      "english": "arpa ⟨es⟩ para el luto"
+      "gloss": "arpa ⟨es⟩ para el luto"
     },
     {
       "surface": "כנרי",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ועגבי",
-      "english": "mi flauta ⟨es⟩ para ⟨el⟩ sonido de"
+      "gloss": "mi flauta ⟨es⟩ para ⟨el⟩ sonido de"
     },
     {
       "surface": "לקול",
-      "english": "⟨los⟩ que"
+      "gloss": "⟨los⟩ que"
     },
     {
       "surface": "בכים",
-      "english": "lloran"
+      "gloss": "lloran"
     }
-  ],
-  "timestamp": "2026-06-10T02:10:08.597891532Z",
-  "model": "glm-4.5"
+  ]
 }

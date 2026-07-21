@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 29:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 396,
-    "prompt_tokens": 70218,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70614
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:53.319981689Z",
   "translation": "YHWH dará fuerza a su pueblo; YHWH bendecirá ⟨את⟩ su pueblo con shalom.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עז",
-      "english": "fuerza"
+      "gloss": "fuerza"
     },
     {
       "surface": "לעמו",
-      "english": "a su pueblo"
+      "gloss": "a su pueblo"
     },
     {
       "surface": "יתן",
-      "english": "dará"
+      "gloss": "dará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יברך",
-      "english": "bendecirá"
+      "gloss": "bendecirá"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su pueblo"
     },
     {
       "surface": "עמו",
-      "english": "su pueblo"
+      "gloss": "su pueblo"
     },
     {
       "surface": "בשלום",
-      "english": "con shalom"
+      "gloss": "con shalom"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:53.319981689Z",
-  "model": "glm-4.5"
+  ]
 }

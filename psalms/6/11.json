@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 6:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69846,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70226
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:34.501611338Z",
   "translation": "se avergonzarán ⟨y⟩ se aterrorizarán vehementemente todos mis enemigos se volverán se avergonzarán ⟨en⟩ un instante",
   "tokens": [
     {
       "surface": "יבשו",
-      "english": "Se avergonzarán"
+      "gloss": "Se avergonzarán"
     },
     {
       "surface": "ויבהלו",
-      "english": "y se aterrorizarán",
+      "gloss": "y se aterrorizarán",
       "marks": "vehementemente"
     },
     {
       "surface": "מאד",
-      "english": "vehementemente"
+      "gloss": "vehementemente"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "איבי",
-      "english": "mis enemigos"
+      "gloss": "mis enemigos"
     },
     {
       "surface": "ישבו",
-      "english": "se volverán"
+      "gloss": "se volverán"
     },
     {
       "surface": "יבשו",
-      "english": "se avergonzarán"
+      "gloss": "se avergonzarán"
     },
     {
       "surface": "רגע",
-      "english": "en un instante"
+      "gloss": "en un instante"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:34.501611338Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 26:3",
   "book": "job",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26994,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27329
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:07:10.962621583Z",
   "translation": "¿Qué has aconsejado ⟨a⟩ sin sabiduría, y abundante conocimiento has declarado plenamente?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "יעצת",
-      "english": "has aconsejado"
+      "gloss": "has aconsejado"
     },
     {
       "surface": "ללא",
-      "english": "⟨a⟩ sin"
+      "gloss": "⟨a⟩ sin"
     },
     {
       "surface": "חכמה",
-      "english": "sabiduría"
+      "gloss": "sabiduría"
     },
     {
       "surface": "ותושיה",
-      "english": "y abundante conocimiento"
+      "gloss": "y abundante conocimiento"
     },
     {
       "surface": "לרב",
-      "english": "has declarado"
+      "gloss": "has declarado"
     },
     {
       "surface": "הודעת",
-      "english": "plenamente"
+      "gloss": "plenamente"
     }
-  ],
-  "timestamp": "2026-06-10T02:07:10.962621583Z",
-  "model": "glm-4.5"
+  ]
 }

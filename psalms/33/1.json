@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 33:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69820,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70161
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:11:54.827505493Z",
   "translation": "Regocijaos ⟨en⟩ YHWH ⟨los⟩ justos ⟨para los⟩ rectos ⟨es⟩ hermosa ⟨la⟩ alabanza",
   "tokens": [
     {
       "surface": "רננו",
-      "english": "Regocijaos"
+      "gloss": "Regocijaos"
     },
     {
       "surface": "צדיקים",
-      "english": "⟨los⟩ justos"
+      "gloss": "⟨los⟩ justos"
     },
     {
       "surface": "ביהוה",
-      "english": "⟨en⟩ YHWH"
+      "gloss": "⟨en⟩ YHWH"
     },
     {
       "surface": "לישרים",
-      "english": "⟨para los⟩ rectos"
+      "gloss": "⟨para los⟩ rectos"
     },
     {
       "surface": "נאוה",
-      "english": "⟨es⟩ hermosa"
+      "gloss": "⟨es⟩ hermosa"
     },
     {
       "surface": "תהלה",
-      "english": "⟨la⟩ alabanza"
+      "gloss": "⟨la⟩ alabanza"
     }
-  ],
-  "timestamp": "2026-06-09T23:11:54.827505493Z",
-  "model": "glm-4.5"
+  ]
 }

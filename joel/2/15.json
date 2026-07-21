@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "joel 2:15",
   "book": "joel",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23281,
-    "prompt_tokens_details": {
-      "cached_tokens": 22278
-    },
-    "total_tokens": 23614
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:27:52.506147183Z",
   "translation": "Tocad ⟨el⟩ shofar en Sión, consagra ⟨un⟩ ayuno, convocad ⟨una⟩ asamblea solemne",
   "tokens": [
     {
       "surface": "תקעו",
-      "english": "Tocad"
+      "gloss": "Tocad"
     },
     {
       "surface": "שופר",
-      "english": "shofar"
+      "gloss": "shofar"
     },
     {
       "surface": "בציון",
-      "english": "en Sión"
+      "gloss": "en Sión"
     },
     {
       "surface": "קדשו",
-      "english": "consagra"
+      "gloss": "consagra"
     },
     {
       "surface": "צום",
-      "english": "ayuno"
+      "gloss": "ayuno"
     },
     {
       "surface": "קראו",
-      "english": "convocad"
+      "gloss": "convocad"
     },
     {
       "surface": "עצרה",
-      "english": "asamblea solemne"
+      "gloss": "asamblea solemne"
     }
-  ],
-  "timestamp": "2026-06-10T00:27:52.506147183Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 19,
   "ref": "psalms 116:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69860,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70371
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:58:44.742269071Z",
   "translation": "En los atrios de la Casa de YHWH, en medio de ti, ⟨oh⟩ Yerushalayim. ¡Hallelu-Yah!",
   "tokens": [
     {
       "surface": "בְּ\/חַצְר֤וֹת",
-      "english": "En los atrios de"
+      "gloss": "En los atrios de"
     },
     {
       "surface": "בֵּ֤ית",
-      "english": "la Casa de"
+      "gloss": "la Casa de"
     },
     {
       "surface": "יְהוָ֗ה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בְּֽ\/ת֘וֹכֵ֤\/כִי",
-      "english": "en medio de ti"
+      "gloss": "en medio de ti"
     },
     {
       "surface": "יְֽרוּשָׁלִָ֗ם",
-      "english": "⟨oh⟩ Yerushalayim"
+      "gloss": "⟨oh⟩ Yerushalayim"
     },
     {
       "surface": "הַֽלְלוּ",
-      "english": "¡Hallelu-"
+      "gloss": "¡Hallelu-"
     },
     {
       "surface": "יָֽהּ",
-      "english": "-Yah!"
+      "gloss": "-Yah!"
     }
-  ],
-  "timestamp": "2026-06-13T03:58:44.742269071Z",
-  "model": "glm-5.1"
+  ]
 }

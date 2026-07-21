@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 26:5",
   "book": "job",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26853,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27262
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:07:15.698147497Z",
   "translation": "⟨Los⟩ Rephaim ⟨son⟩ formados ⟨desde⟩ debajo ⟨de⟩ las aguas y ⟨los⟩ habitantes ⟨de⟩ ellas.",
   "tokens": [
     {
       "surface": "הרפאים",
-      "english": "⟨Los⟩ Rephaim"
+      "gloss": "⟨Los⟩ Rephaim"
     },
     {
       "surface": "יחוללו",
-      "english": "⟨son⟩ formados"
+      "gloss": "⟨son⟩ formados"
     },
     {
       "surface": "מתחת",
-      "english": "⟨desde⟩ debajo"
+      "gloss": "⟨desde⟩ debajo"
     },
     {
       "surface": "מים",
-      "english": "⟨de⟩ las aguas"
+      "gloss": "⟨de⟩ las aguas"
     },
     {
       "surface": "ושכניהם",
-      "english": "y ⟨los⟩ habitantes ⟨de⟩ ellas"
+      "gloss": "y ⟨los⟩ habitantes ⟨de⟩ ellas"
     }
-  ],
-  "timestamp": "2026-06-10T02:07:15.698147497Z",
-  "model": "glm-4.5"
+  ]
 }

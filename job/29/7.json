@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 29:7",
   "book": "job",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27024,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27328
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:34.203295381Z",
   "translation": "Cuando salía ⟨a la⟩ puerta ⟨a la⟩ ciudad, ⟨al⟩ ancho ⟨la⟩ plaza ⟨para⟩ ⟨el⟩ asiento ⟨mío⟩",
   "tokens": [
     {
       "surface": "בצאתי",
-      "english": "Cuando salía"
+      "gloss": "Cuando salía"
     },
     {
       "surface": "שער",
-      "english": "a la puerta"
+      "gloss": "a la puerta"
     },
     {
       "surface": "עלי",
-      "english": "a la"
+      "gloss": "a la"
     },
     {
       "surface": "קרת",
-      "english": "ciudad"
+      "gloss": "ciudad"
     },
     {
       "surface": "ברחוב",
-      "english": "al ancho"
+      "gloss": "al ancho"
     },
     {
       "surface": "אכין",
-      "english": "la plaza"
+      "gloss": "la plaza"
     },
     {
       "surface": "מושבי",
-      "english": "para el asiento mío"
+      "gloss": "para el asiento mío"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:34.203295381Z",
-  "model": "glm-4.5"
+  ]
 }

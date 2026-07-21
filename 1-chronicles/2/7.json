@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-chronicles 2:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 2,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:27:52.343469340Z",
+  "translation": "Y los hijos de Karmi: Akar, ⟨el⟩ perturbador ⟨de⟩ Yisrael, quien ⟨se⟩ comportó pérfidamente ⟨en⟩ ⟨el⟩ anatema.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Y los hijos"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "de Karmi"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "Akar"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "⟨el⟩ perturbador"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quien"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨se⟩ comportó pérfidamente"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "⟨en⟩ ⟨el⟩ anatema"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56763,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57267
-  },
-  "translation": "Y los hijos de Karmi: Akar, ⟨el⟩ perturbador ⟨de⟩ Yisrael, quien ⟨se⟩ comportó pérfidamente ⟨en⟩ ⟨el⟩ anatema.",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "Y los hijos"
-    },
-    {
-      "surface": "כרמי",
-      "english": "de Karmi"
-    },
-    {
-      "surface": "עכר",
-      "english": "Akar"
-    },
-    {
-      "surface": "עוכר",
-      "english": "⟨el⟩ perturbador"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "quien"
-    },
-    {
-      "surface": "מעל",
-      "english": "⟨se⟩ comportó pérfidamente"
-    },
-    {
-      "surface": "בחרם",
-      "english": "⟨en⟩ ⟨el⟩ anatema"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:27:52.343469340Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

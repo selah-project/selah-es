@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "numbers 29:28",
   "book": "numbers",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25103,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25556
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:03:30.530206638Z",
   "translation": "y un macho cabrío ⟨por⟩ el sacrificio por ⟨el⟩ pecado uno además de ⟨el⟩ holocausto continuo y su ofrenda de cereal y su libación",
   "tokens": [
     {
       "surface": "ושעיר",
-      "english": "Y un macho cabrío"
+      "gloss": "Y un macho cabrío"
     },
     {
       "surface": "חטאת",
-      "english": "⟨por⟩ el sacrificio por ⟨el⟩ pecado",
+      "gloss": "⟨por⟩ el sacrificio por ⟨el⟩ pecado",
       "marks": "el sacrificio por el pecado"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "מלבד",
-      "english": "además de"
+      "gloss": "además de"
     },
     {
       "surface": "עלת",
-      "english": "⟨el⟩ holocausto"
+      "gloss": "⟨el⟩ holocausto"
     },
     {
       "surface": "התמיד",
-      "english": "continuo"
+      "gloss": "continuo"
     },
     {
       "surface": "ומנחתה",
-      "english": "y su ofrenda de cereal"
+      "gloss": "y su ofrenda de cereal"
     },
     {
       "surface": "ונסכה",
-      "english": "y su libación"
+      "gloss": "y su libación"
     }
-  ],
-  "timestamp": "2026-06-10T05:03:30.530206638Z",
-  "model": "glm-4.5"
+  ]
 }

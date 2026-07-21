@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "2-samuel 5:7",
   "book": "2-samuel",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 351,
-    "prompt_tokens": 24456,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24807
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:21:12.949322184Z",
   "translation": "Sin embargo, David capturó ⟨את⟩ la fortaleza de Tzión; ella ⟨es⟩ la ciudad de David.",
   "tokens": [
     {
       "surface": "וילכד",
-      "english": "capturó"
+      "gloss": "capturó"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la fortaleza de Tzión"
     },
     {
       "surface": "מצדת",
-      "english": "la fortaleza"
+      "gloss": "la fortaleza"
     },
     {
       "surface": "ציון",
-      "english": "de Tzión"
+      "gloss": "de Tzión"
     },
     {
       "surface": "היא",
-      "english": "ella"
+      "gloss": "ella"
     },
     {
       "surface": "עיר",
-      "english": "la ciudad"
+      "gloss": "la ciudad"
     },
     {
       "surface": "דוד",
-      "english": "de David"
+      "gloss": "de David"
     }
-  ],
-  "timestamp": "2026-07-16T19:21:12.949322184Z",
-  "model": "glm-4.5"
+  ]
 }

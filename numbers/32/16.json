@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 32:16",
   "book": "numbers",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25312,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25812
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:05:50.760308Z",
   "translation": "Y se acercaron ⟨a⟩ él y dijeron: 'Corrales para ⟨el⟩ rebaño construiremos para ⟨nuestro⟩ ganado aquí, y ciudades para ⟨nuestros⟩ pequeños'",
   "tokens": [
     {
       "surface": "ויגשו",
-      "english": "Y se acercaron"
+      "gloss": "Y se acercaron"
     },
     {
       "surface": "אליו",
-      "english": "⟨a⟩ él"
+      "gloss": "⟨a⟩ él"
     },
     {
       "surface": "ויאמרו",
-      "english": "y dijeron:"
+      "gloss": "y dijeron:"
     },
     {
       "surface": "גדרת",
-      "english": "Corrales"
+      "gloss": "Corrales"
     },
     {
       "surface": "צאן",
-      "english": "⟨el⟩ rebaño"
+      "gloss": "⟨el⟩ rebaño"
     },
     {
       "surface": "נבנה",
-      "english": "construiremos"
+      "gloss": "construiremos"
     },
     {
       "surface": "למקננו",
-      "english": "para ⟨nuestro⟩ ganado"
+      "gloss": "para ⟨nuestro⟩ ganado"
     },
     {
       "surface": "פה",
-      "english": "aquí"
+      "gloss": "aquí"
     },
     {
       "surface": "וערים",
-      "english": "y ciudades"
+      "gloss": "y ciudades"
     },
     {
       "surface": "לטפנו",
-      "english": "para ⟨nuestros⟩ pequeños"
+      "gloss": "para ⟨nuestros⟩ pequeños"
     }
-  ],
-  "timestamp": "2026-06-10T05:05:50.760308Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 46:10",
   "book": "genesis",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28624,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28939
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:43:37.298315496Z",
   "translation": "y los hijos de Shimón: Yemuel, y Yamín, y Ohad, y Yakhín, y Tzohar, y Shaúl hijo de ⟨la⟩ cananea",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "Y los hijos de"
+      "gloss": "Y los hijos de"
     },
     {
       "surface": "שמעון",
-      "english": "Shimón"
+      "gloss": "Shimón"
     },
     {
       "surface": "ימואל",
-      "english": "Yemuel"
+      "gloss": "Yemuel"
     },
     {
       "surface": "וימין",
-      "english": "y Yamín"
+      "gloss": "y Yamín"
     },
     {
       "surface": "ואהד",
-      "english": "y Ohad"
+      "gloss": "y Ohad"
     },
     {
       "surface": "ויכין",
-      "english": "y Yakhín"
+      "gloss": "y Yakhín"
     },
     {
       "surface": "וצחר",
-      "english": "y Tzohar"
+      "gloss": "y Tzohar"
     },
     {
       "surface": "ושאול",
-      "english": "y Shaúl"
+      "gloss": "y Shaúl"
     },
     {
       "surface": "בן",
-      "english": "hijo de"
+      "gloss": "hijo de"
     },
     {
       "surface": "הכנענית",
-      "english": "⟨la⟩ cananea"
+      "gloss": "⟨la⟩ cananea"
     }
-  ],
-  "timestamp": "2026-06-10T05:43:37.298315496Z",
-  "model": "glm-4.5"
+  ]
 }

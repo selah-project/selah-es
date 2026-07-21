@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 14:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59847,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60263
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:38:04.107594016Z",
   "translation": "La jojmá ⟨del⟩ arum ⟨es⟩ entender su camino; y ⟨la⟩ ivélet ⟨de⟩ kesilim ⟨es⟩ mirmá.",
   "tokens": [
     {
       "surface": "חכמת",
-      "english": "Jojmá"
+      "gloss": "Jojmá"
     },
     {
       "surface": "ערום",
-      "english": "arum"
+      "gloss": "arum"
     },
     {
       "surface": "הבין",
-      "english": "entender"
+      "gloss": "entender"
     },
     {
       "surface": "דרכו",
-      "english": "su camino"
+      "gloss": "su camino"
     },
     {
       "surface": "ואולת",
-      "english": "ivélet"
+      "gloss": "ivélet"
     },
     {
       "surface": "כסילים",
-      "english": "kesilim"
+      "gloss": "kesilim"
     },
     {
       "surface": "מרמה",
-      "english": "mirmá"
+      "gloss": "mirmá"
     }
-  ],
-  "timestamp": "2026-06-10T01:38:04.107594016Z",
-  "model": "glm-4.5"
+  ]
 }

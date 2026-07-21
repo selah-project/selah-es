@@ -1,83 +1,75 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 20:12",
   "book": "exodus",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 574,
-    "prompt_tokens": 24798,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25372
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:17:50.492772794Z",
   "translation": "Honra ⟨את⟩ tu padre y ⟨את⟩ tu madre, para que se alarguen tus días sobre ⟨la⟩ tierra que YHWH tu Elohim te da",
   "tokens": [
     {
       "surface": "כבד",
-      "english": "Honra"
+      "gloss": "Honra"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu padre"
     },
     {
       "surface": "אביך",
-      "english": "tu padre"
+      "gloss": "tu padre"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "tu madre"
     },
     {
       "surface": "אמך",
-      "english": "tu madre"
+      "gloss": "tu madre"
     },
     {
       "surface": "למען",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "יארכון",
-      "english": "se alarguen"
+      "gloss": "se alarguen"
     },
     {
       "surface": "ימיך",
-      "english": "tus días"
+      "gloss": "tus días"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "האדמה",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיך",
-      "english": "tu Elohim"
+      "gloss": "tu Elohim"
     },
     {
       "surface": "נתן",
-      "english": "da"
+      "gloss": "da"
     },
     {
       "surface": "לך",
-      "english": "te"
+      "gloss": "te"
     }
-  ],
-  "timestamp": "2026-07-16T20:17:50.492772794Z",
-  "model": "glm-4.5"
+  ]
 }

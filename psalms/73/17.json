@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 73:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 433,
-    "prompt_tokens": 69922,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70355
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:22.538013440Z",
   "translation": "Hasta que entré en ⟨el⟩ santuario de Elohim; ⟨entonces⟩ discerní su final.",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Hasta que"
+      "gloss": "Hasta que"
     },
     {
       "surface": "אבוא",
-      "english": "entré"
+      "gloss": "entré"
     },
     {
       "surface": "אל",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "מקדשי",
-      "english": "⟨el⟩ santuario de Elohim"
+      "gloss": "⟨el⟩ santuario de Elohim"
     },
     {
       "surface": "אל",
-      "english": "⟨entonces⟩"
+      "gloss": "⟨entonces⟩"
     },
     {
       "surface": "אבינה",
-      "english": "discerní"
+      "gloss": "discerní"
     },
     {
       "surface": "לאחריתם",
-      "english": "su final"
+      "gloss": "su final"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:22.538013440Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 30:24",
   "book": "genesis",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 393,
-    "prompt_tokens": 28654,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29047
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:05:58.740966601Z",
   "translation": "Y llamó ⟨את⟩ su nombre Yosef, diciendo: YHWH añadirá para mí ⟨un⟩ hijo otro.",
   "tokens": [
     {
       "surface": "ותקרא",
-      "english": "Y llamó"
+      "gloss": "Y llamó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su nombre"
     },
     {
       "surface": "שמו",
-      "english": "su nombre"
+      "gloss": "su nombre"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     },
     {
       "surface": "יסף",
-      "english": "añadirá"
+      "gloss": "añadirá"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "בן",
-      "english": "hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "אחר",
-      "english": "otro"
+      "gloss": "otro"
     }
-  ],
-  "timestamp": "2026-07-16T21:05:58.740966601Z",
-  "model": "glm-4.5"
+  ]
 }

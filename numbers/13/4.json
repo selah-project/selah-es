@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "numbers 13:4",
   "book": "numbers",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24977,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25268
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:48:59.283295691Z",
   "translation": "Y estos ⟨son⟩ sus nombres: para ⟨la⟩ tribu de Reuvén, Shamúa ⟨el⟩ hijo de Zakkur",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "Y estos"
+      "gloss": "Y estos"
     },
     {
       "surface": "שמותם",
-      "english": "⟨son⟩ sus nombres"
+      "gloss": "⟨son⟩ sus nombres"
     },
     {
       "surface": "למטה",
-      "english": "para ⟨la⟩ tribu de"
+      "gloss": "para ⟨la⟩ tribu de"
     },
     {
       "surface": "ראובן",
-      "english": "Reuvén"
+      "gloss": "Reuvén"
     },
     {
       "surface": "שמוע",
-      "english": "Shamúa"
+      "gloss": "Shamúa"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo"
+      "gloss": "⟨el⟩ hijo"
     },
     {
       "surface": "זכור",
-      "english": "de Zakkur"
+      "gloss": "de Zakkur"
     }
-  ],
-  "timestamp": "2026-06-10T04:48:59.283295691Z",
-  "model": "glm-4.5"
+  ]
 }

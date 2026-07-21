@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 106:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69729,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70020
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:52:24.393028855Z",
   "translation": "Ellos hicieron un becerro en Joreb y se inclinaron ⟨a⟩ ⟨un⟩ molde ⟨את⟩ ⟨un⟩ molde fundido",
   "tokens": [
     {
       "surface": "יעשו",
-      "english": "Ellos hicieron"
+      "gloss": "Ellos hicieron"
     },
     {
       "surface": "עגל",
-      "english": "un becerro"
+      "gloss": "un becerro"
     },
     {
       "surface": "בחרב",
-      "english": "en Joreb"
+      "gloss": "en Joreb"
     },
     {
       "surface": "וישתחוו",
-      "english": "y se inclinaron"
+      "gloss": "y se inclinaron"
     },
     {
       "surface": "למסכה",
-      "english": "⟨a⟩ ⟨un⟩ molde",
+      "gloss": "⟨a⟩ ⟨un⟩ molde",
       "marks": "molde fundido"
     }
-  ],
-  "timestamp": "2026-06-09T23:52:24.393028855Z",
-  "model": "glm-4.5"
+  ]
 }

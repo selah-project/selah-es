@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-samuel 18:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 18,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:33:52.264384862Z",
+  "translation": "Y salió ⟨el⟩ pueblo ⟨al⟩ campo para enfrentarse a ⟨el⟩ Yisrael, y ⟨fue⟩ la batalla en ⟨el⟩ bosque de Efráyim",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Y salió"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨el⟩ pueblo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨al⟩ campo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "para enfrentarse a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨el⟩ Yisrael"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "y ⟨fue⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "la batalla"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "en ⟨el⟩ bosque"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,60 +63,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16999,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17351
-  },
-  "translation": "Y salió ⟨el⟩ pueblo ⟨al⟩ campo para enfrentarse a ⟨el⟩ Yisrael, y ⟨fue⟩ la batalla en ⟨el⟩ bosque de Efráyim",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "Y salió"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨el⟩ pueblo"
-    },
-    {
-      "surface": "השדה",
-      "english": "⟨al⟩ campo"
-    },
-    {
-      "surface": "לקראת",
-      "english": "para enfrentarse a"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨el⟩ Yisrael"
-    },
-    {
-      "surface": "ותהי",
-      "english": "y ⟨fue⟩"
-    },
-    {
-      "surface": "המלחמה",
-      "english": "la batalla"
-    },
-    {
-      "surface": "ביער",
-      "english": "en ⟨el⟩ bosque"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:33:52.264384862Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

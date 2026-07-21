@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.1",
-  "verse": 5,
   "ref": "psalms 120:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 120,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70005,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70530
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:58:55.106679177Z",
   "translation": "¡Ay de mí, que he residido como forastero en Méjeq, que he morado con las tiendas de Quedar!",
   "tokens": [
     {
       "surface": "אויה",
-      "english": "¡Ay de"
+      "gloss": "¡Ay de"
     },
     {
       "surface": "לי",
-      "english": "mí"
+      "gloss": "mí"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "גרתי",
-      "english": "he residido como forastero"
+      "gloss": "he residido como forastero"
     },
     {
       "surface": "משך",
-      "english": "en Méjeq"
+      "gloss": "en Méjeq"
     },
     {
       "surface": "שכנתי",
-      "english": "que he morado"
+      "gloss": "que he morado"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "אהלי",
-      "english": "las tiendas de"
+      "gloss": "las tiendas de"
     },
     {
       "surface": "קדר",
-      "english": "Quedar"
+      "gloss": "Quedar"
     }
-  ],
-  "timestamp": "2026-06-13T03:58:55.106679177Z",
-  "model": "glm-5.1"
+  ]
 }

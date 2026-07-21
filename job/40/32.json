@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "job 40:32",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26834,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27232
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:34.512991529Z",
   "translation": "Pon ⟨tu⟩ mano sobre ⟨él⟩; recuerda ⟨la⟩ batalla, no añadas ⟨más⟩.",
   "tokens": [
     {
       "surface": "שים",
-      "english": "Pon"
+      "gloss": "Pon"
     },
     {
       "surface": "עליו",
-      "english": "sobre ⟨él⟩"
+      "gloss": "sobre ⟨él⟩"
     },
     {
       "surface": "כפך",
-      "english": "⟨tu⟩ mano"
+      "gloss": "⟨tu⟩ mano"
     },
     {
       "surface": "זכר",
-      "english": "recuerda"
+      "gloss": "recuerda"
     },
     {
       "surface": "מלחמה",
-      "english": "⟨la⟩ batalla"
+      "gloss": "⟨la⟩ batalla"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תוסף",
-      "english": "añadas ⟨más⟩"
+      "gloss": "añadas ⟨más⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:34.512991529Z",
-  "model": "glm-4.5"
+  ]
 }

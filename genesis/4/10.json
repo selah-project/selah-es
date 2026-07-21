@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 4:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21159,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21607
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:01:14.827385831Z",
   "translation": "Y Él dijo: ¿Qué ⟨has⟩ hecho? ⟨La⟩ voz de ⟨la⟩ sangre de tu hermano está gritando a mí desde ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y Él dijo"
+      "gloss": "Y Él dijo"
     },
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "עשית",
-      "english": "⟨has⟩ hecho"
+      "gloss": "⟨has⟩ hecho"
     },
     {
       "surface": "קול",
-      "english": "⟨La⟩ voz"
+      "gloss": "⟨La⟩ voz"
     },
     {
       "surface": "דמי",
-      "english": "de ⟨la⟩ sangre"
+      "gloss": "de ⟨la⟩ sangre"
     },
     {
       "surface": "אחיך",
-      "english": "de tu hermano"
+      "gloss": "de tu hermano"
     },
     {
       "surface": "צעקים",
-      "english": "está gritando"
+      "gloss": "está gritando"
     },
     {
       "surface": "אלי",
-      "english": "a mí"
+      "gloss": "a mí"
     },
     {
       "surface": "מן",
-      "english": "desde"
+      "gloss": "desde"
     },
     {
       "surface": "האדמה",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:01:14.827385831Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

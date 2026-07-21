@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "isaiah 5:19",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26596,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27181
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:23:51.480176585Z",
   "translation": "A los que dicen: '¡Apúrate ⟨el⟩, apresura ⟨el⟩ ⟨su⟩ obra para que la veamos; y ⟨se⟩ acerque ⟨y⟩ venga ⟨el⟩ plan del ⟨Kadosh⟩ de Yisrael, y lo conozcamos'",
   "tokens": [
     {
       "surface": "האמרים",
-      "english": "A los que dicen"
+      "gloss": "A los que dicen"
     },
     {
       "surface": "ימהר",
-      "english": "¡Apúrate ⟨el⟩"
+      "gloss": "¡Apúrate ⟨el⟩"
     },
     {
       "surface": "יחישה",
-      "english": "apresura ⟨el⟩"
+      "gloss": "apresura ⟨el⟩"
     },
     {
       "surface": "מעשהו",
-      "english": "⟨su⟩ obra",
+      "gloss": "⟨su⟩ obra",
       "marks": "obra"
     },
     {
       "surface": "למען",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "נראה",
-      "english": "la veamos"
+      "gloss": "la veamos"
     },
     {
       "surface": "ותקרב",
-      "english": "y ⟨se⟩ acerque"
+      "gloss": "y ⟨se⟩ acerque"
     },
     {
       "surface": "ותבואה",
-      "english": "⟨y⟩ venga"
+      "gloss": "⟨y⟩ venga"
     },
     {
       "surface": "עצת",
-      "english": "⟨el⟩ plan"
+      "gloss": "⟨el⟩ plan"
     },
     {
       "surface": "קדוש",
-      "english": "del ⟨Kadosh⟩"
+      "gloss": "del ⟨Kadosh⟩"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "ונדעה",
-      "english": "y lo conozcamos"
+      "gloss": "y lo conozcamos"
     }
-  ],
-  "timestamp": "2026-06-10T02:23:51.480176585Z",
-  "model": "glm-4.5"
+  ]
 }

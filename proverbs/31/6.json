@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 31:6",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 708,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59715,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60423
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:13.231939871Z",
   "translation": "Dad ⟨un⟩ licor fuerte ⟨את⟩ ⟨a⟩ ⟨el⟩ que está ⟨a⟩ punto de perecer, y vino ⟨a⟩ ⟨los⟩ amargos ⟨en⟩ alma.",
   "tokens": [
     {
       "surface": "תנו",
-      "english": "Dad",
+      "gloss": "Dad",
       "lemma": 5414,
       "rationale": "imperative plural of 'give'"
     },
     {
       "surface": "שכר",
-      "english": "⟨un⟩ licor fuerte",
+      "gloss": "⟨un⟩ licor fuerte",
       "lemma": 7941,
       "rationale": "intoxicating drink, specifically strong alcoholic liquor"
     },
     {
       "surface": "לאובד",
-      "english": "⟨a⟩ ⟨el⟩ que está ⟨a⟩ punto de perecer",
+      "gloss": "⟨a⟩ ⟨el⟩ que está ⟨a⟩ punto de perecer",
       "lemma": 6,
       "rationale": "prepositional phrase 'to perishing one'"
     },
     {
       "surface": "ויין",
-      "english": "y vino",
+      "gloss": "y vino",
       "lemma": 3196,
       "rationale": "wine (no article needed in Spanish after conjunction)"
     },
     {
       "surface": "למרי",
-      "english": "⟨a⟩ ⟨los⟩ amargos",
+      "gloss": "⟨a⟩ ⟨los⟩ amargos",
       "lemma": 4751,
       "rationale": "prepositional phrase 'to bitter ones'"
     },
     {
       "surface": "נפש",
-      "english": "⟨en⟩ alma",
+      "gloss": "⟨en⟩ alma",
       "lemma": 5315,
       "rationale": "nephesh - properly 'throat\/breath\/life-force', here 'soul' as Spanish idiomatic equivalent for inner being"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:13.231939871Z",
-  "model": "glm-4.5"
+  ]
 }

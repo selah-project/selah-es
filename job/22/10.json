@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 22:10",
   "book": "job",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 531,
-    "prompt_tokens": 27161,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27692
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:59:38.665859684Z",
   "translation": "Por eso ⟨están⟩ trampas ⟨al⟩ rededor de ti, y ⟨te⟩ asusta ⟨un⟩ terror repentinamente",
   "tokens": [
     {
       "surface": "על",
-      "english": "Por eso"
+      "gloss": "Por eso"
     },
     {
       "surface": "כן",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "סביבותיך",
-      "english": "⟨al⟩ rededor de ti"
+      "gloss": "⟨al⟩ rededor de ti"
     },
     {
       "surface": "פחים",
-      "english": "trampas"
+      "gloss": "trampas"
     },
     {
       "surface": "ויבהלך",
-      "english": "y ⟨te⟩ asusta"
+      "gloss": "y ⟨te⟩ asusta"
     },
     {
       "surface": "פחד",
-      "english": "⟨un⟩ terror"
+      "gloss": "⟨un⟩ terror"
     },
     {
       "surface": "פתאם",
-      "english": "repentinamente"
+      "gloss": "repentinamente"
     }
-  ],
-  "timestamp": "2026-07-16T21:59:38.665859684Z",
-  "model": "glm-4.5"
+  ]
 }

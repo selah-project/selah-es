@@ -1,9 +1,129 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-chronicles 15:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 15,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:15:27.489782852Z",
+  "translation": "Y al oír Asa las palabras y la profecía de Oded el profeta, se animó y ⟨fue⟩ quitando ⟨los⟩ ídolos abominables de toda ⟨la⟩ tierra de Yehudá y Benjamín, y de ⟨las⟩ ciudades que había capturado del monte de Efráyim, y renovó ⟨את⟩ el altar de YHWH que ⟨estaba⟩ delante ⟨del⟩ pórtico de YHWH.",
+  "tokens": [
+    {
+      "surface": "וכשמע",
+      "gloss": "Y al oír"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "las palabras"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "y la"
+    },
+    {
+      "surface": "והנבואה",
+      "gloss": "profecía"
+    },
+    {
+      "surface": "עדד",
+      "gloss": "de Oded"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "el profeta"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "se animó"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "y ⟨fue⟩ quitando"
+    },
+    {
+      "surface": "השקוצים",
+      "gloss": "⟨los⟩ ídolos abominables"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de toda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ tierra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "y Benjamín"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "y de"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "⟨las⟩ ciudades"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "había capturado"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "del monte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "ויחדש",
+      "gloss": "y renovó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "el altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "el altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨estaba⟩ delante"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "⟨del⟩ pórtico"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,137 +140,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 941,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59900,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60841
-  },
-  "translation": "Y al oír Asa las palabras y la profecía de Oded el profeta, se animó y ⟨fue⟩ quitando ⟨los⟩ ídolos abominables de toda ⟨la⟩ tierra de Yehudá y Benjamín, y de ⟨las⟩ ciudades que había capturado del monte de Efráyim, y renovó ⟨את⟩ el altar de YHWH que ⟨estaba⟩ delante ⟨del⟩ pórtico de YHWH.",
-  "tokens": [
-    {
-      "surface": "וכשמע",
-      "english": "Y al oír"
-    },
-    {
-      "surface": "אסא",
-      "english": "Asa"
-    },
-    {
-      "surface": "הדברים",
-      "english": "las palabras"
-    },
-    {
-      "surface": "האלה",
-      "english": "y la"
-    },
-    {
-      "surface": "והנבואה",
-      "english": "profecía"
-    },
-    {
-      "surface": "עדד",
-      "english": "de Oded"
-    },
-    {
-      "surface": "הנביא",
-      "english": "el profeta"
-    },
-    {
-      "surface": "התחזק",
-      "english": "se animó"
-    },
-    {
-      "surface": "ויעבר",
-      "english": "y ⟨fue⟩ quitando"
-    },
-    {
-      "surface": "השקוצים",
-      "english": "⟨los⟩ ídolos abominables"
-    },
-    {
-      "surface": "מכל",
-      "english": "de toda"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ובנימן",
-      "english": "y Benjamín"
-    },
-    {
-      "surface": "ומן",
-      "english": "y de"
-    },
-    {
-      "surface": "הערים",
-      "english": "⟨las⟩ ciudades"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לכד",
-      "english": "había capturado"
-    },
-    {
-      "surface": "מהר",
-      "english": "del monte"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "ויחדש",
-      "english": "y renovó"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "el altar"
-    },
-    {
-      "surface": "מזבח",
-      "english": "el altar"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨estaba⟩ delante"
-    },
-    {
-      "surface": "אולם",
-      "english": "⟨del⟩ pórtico"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:15:27.489782852Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

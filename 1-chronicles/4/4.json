@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 4:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 4,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:29:41.398159806Z",
+  "translation": "Y Penuel ⟨es⟩ padre de Gedor, y Ezer ⟨es⟩ padre de Hushah. Estos ⟨son⟩ los hijos de Hur, el primogénito de Efratá, padre ⟨de⟩ Bet-Léjem.",
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "Y Penuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨es⟩ padre"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "de Gedor"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "y Ezer"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨es⟩ padre"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "de Hushah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Estos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨son⟩ los hijos"
+    },
+    {
+      "surface": "חור",
+      "gloss": "de Hur"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "el primogénito"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "de Efratá"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Léjem"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Belén",
@@ -13,80 +76,6 @@
       "hebrew": "בית־לחם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57287,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57758
-  },
-  "translation": "Y Penuel ⟨es⟩ padre de Gedor, y Ezer ⟨es⟩ padre de Hushah. Estos ⟨son⟩ los hijos de Hur, el primogénito de Efratá, padre ⟨de⟩ Bet-Léjem.",
-  "tokens": [
-    {
-      "surface": "ופנואל",
-      "english": "Y Penuel"
-    },
-    {
-      "surface": "אבי",
-      "english": "⟨es⟩ padre"
-    },
-    {
-      "surface": "גדר",
-      "english": "de Gedor"
-    },
-    {
-      "surface": "ועזר",
-      "english": "y Ezer"
-    },
-    {
-      "surface": "אבי",
-      "english": "⟨es⟩ padre"
-    },
-    {
-      "surface": "חושה",
-      "english": "de Hushah"
-    },
-    {
-      "surface": "אלה",
-      "english": "Estos"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨son⟩ los hijos"
-    },
-    {
-      "surface": "חור",
-      "english": "de Hur"
-    },
-    {
-      "surface": "בכור",
-      "english": "el primogénito"
-    },
-    {
-      "surface": "אפרתה",
-      "english": "de Efratá"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "לחם",
-      "english": "Bet-Léjem"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:29:41.398159806Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

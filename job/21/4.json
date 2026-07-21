@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 21:4",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 717,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27103,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27820
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:58.141472929Z",
   "translation": "En cuanto a mí, ⟨es⟩ mi queja ⟨a⟩ ⟨un⟩ hombre? Y ⟨si⟩ ⟨fuera⟩ así, ¿por qué ⟨el⟩ espíritu ⟨de⟩ mí no ⟨sería⟩ acortado?",
   "tokens": [
     {
       "surface": "האנכי",
-      "english": "En cuanto a mí"
+      "gloss": "En cuanto a mí"
     },
     {
       "surface": "לאדם",
-      "english": "⟨a⟩ ⟨un⟩ hombre"
+      "gloss": "⟨a⟩ ⟨un⟩ hombre"
     },
     {
       "surface": "שיחי",
-      "english": "mi queja"
+      "gloss": "mi queja"
     },
     {
       "surface": "ואם",
-      "english": "Y ⟨si⟩"
+      "gloss": "Y ⟨si⟩"
     },
     {
       "surface": "מדוע",
-      "english": "¿por qué"
+      "gloss": "¿por qué"
     },
     {
       "surface": "לא",
-      "english": "no ⟨sería⟩"
+      "gloss": "no ⟨sería⟩"
     },
     {
       "surface": "תקצר",
-      "english": "acortado"
+      "gloss": "acortado"
     },
     {
       "surface": "רוחי",
-      "english": "⟨el⟩ espíritu ⟨de⟩ mí"
+      "gloss": "⟨el⟩ espíritu ⟨de⟩ mí"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:58.141472929Z",
-  "model": "glm-4.5"
+  ]
 }

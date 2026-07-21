@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 73,
   "ref": "psalms 119:73",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69878,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70189
-  },
+  "verse": 73,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:47.072124444Z",
   "translation": "Tus manos me hicieron ⟨y⟩ me fashionaron: dame entendimiento, ⟨y⟩ yo aprenderé tus mandamientos.",
   "tokens": [
     {
       "surface": "ידיך",
-      "english": "Tus manos"
+      "gloss": "Tus manos"
     },
     {
       "surface": "עשוני",
-      "english": "me hicieron"
+      "gloss": "me hicieron"
     },
     {
       "surface": "ויכוננוני",
-      "english": "⟨y⟩ me fashionaron"
+      "gloss": "⟨y⟩ me fashionaron"
     },
     {
       "surface": "הבינני",
-      "english": "dame entendimiento"
+      "gloss": "dame entendimiento"
     },
     {
       "surface": "ואלמדה",
-      "english": "⟨y⟩ yo aprenderé"
+      "gloss": "⟨y⟩ yo aprenderé"
     },
     {
       "surface": "מצותיך",
-      "english": "tus mandamientos"
+      "gloss": "tus mandamientos"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:47.072124444Z",
-  "model": "glm-4.5"
+  ]
 }

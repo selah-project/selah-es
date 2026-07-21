@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 2:1",
   "book": "exodus",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 340,
-    "prompt_tokens": 23974,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24314
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:07:46.833923745Z",
   "translation": "Y fue un hombre de la casa de Leví y tomó ⟨את⟩ ⟨a⟩ hija de Leví",
   "tokens": [
     {
       "surface": "וילך",
-      "english": "Y fue"
+      "gloss": "Y fue"
     },
     {
       "surface": "איש",
-      "english": "un hombre"
+      "gloss": "un hombre"
     },
     {
       "surface": "מבית",
-      "english": "de la casa"
+      "gloss": "de la casa"
     },
     {
       "surface": "לוי",
-      "english": "de Leví"
+      "gloss": "de Leví"
     },
     {
       "surface": "ויקח",
-      "english": "y tomó"
+      "gloss": "y tomó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a hija de Leví"
     },
     {
       "surface": "בת",
-      "english": "hija"
+      "gloss": "hija"
     },
     {
       "surface": "לוי",
-      "english": "de Leví"
+      "gloss": "de Leví"
     }
-  ],
-  "timestamp": "2026-07-16T20:07:46.833923745Z",
-  "model": "glm-4.5"
+  ]
 }

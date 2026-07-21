@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 132:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70297,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70728
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:06:37.909038775Z",
   "translation": "YHWH ha jurado ⟨es⟩ verdad a David, ⟨él⟩ no se volverá de ella: ⟨el⟩ fruto de tu cuerpo pondré sobre tu trono para ti.",
   "tokens": [
     {
       "surface": "נשבע",
-      "english": "Ha jurado"
+      "gloss": "Ha jurado"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לדוד",
-      "english": "a David"
+      "gloss": "a David"
     },
     {
       "surface": "אמת",
-      "english": "verdad"
+      "gloss": "verdad"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ישוב",
-      "english": "se volverá"
+      "gloss": "se volverá"
     },
     {
       "surface": "ממנה",
-      "english": "de ella"
+      "gloss": "de ella"
     },
     {
       "surface": "מפרי",
-      "english": "fruto"
+      "gloss": "fruto"
     },
     {
       "surface": "בטנך",
-      "english": "de tu cuerpo"
+      "gloss": "de tu cuerpo"
     },
     {
       "surface": "אשית",
-      "english": "pondré"
+      "gloss": "pondré"
     },
     {
       "surface": "לכסא",
-      "english": "sobre tu trono"
+      "gloss": "sobre tu trono"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     }
-  ],
-  "timestamp": "2026-06-10T00:06:37.909038775Z",
-  "model": "glm-4.5"
+  ]
 }

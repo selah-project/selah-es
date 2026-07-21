@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 80:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69876,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70440
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:51.273798129Z",
   "translation": "Una vid ⟨de⟩ Egipto ⟨la⟩ hiciste partir; ⟨a⟩ ⟨las⟩ naciones ⟨las⟩ echaste fuera, y ⟨la⟩ plantaste.",
   "tokens": [
     {
       "surface": "גפן",
-      "english": "Una vid"
+      "gloss": "Una vid"
     },
     {
       "surface": "ממצרים",
-      "english": "⟨de⟩ Egipto"
+      "gloss": "⟨de⟩ Egipto"
     },
     {
       "surface": "תסיע",
-      "english": "⟨la⟩ hiciste partir"
+      "gloss": "⟨la⟩ hiciste partir"
     },
     {
       "surface": "תגרש",
-      "english": "⟨a⟩ ⟨las⟩ naciones ⟨las⟩ echaste fuera"
+      "gloss": "⟨a⟩ ⟨las⟩ naciones ⟨las⟩ echaste fuera"
     },
     {
       "surface": "גוים",
-      "english": "⟨las⟩ naciones"
+      "gloss": "⟨las⟩ naciones"
     },
     {
       "surface": "ותטעה",
-      "english": "y ⟨la⟩ plantaste"
+      "gloss": "y ⟨la⟩ plantaste"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:51.273798129Z",
-  "model": "glm-4.5"
+  ]
 }

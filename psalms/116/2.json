@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 116:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 338,
-    "prompt_tokens": 69859,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70197
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:32.225391279Z",
   "translation": "Porque Él inclinó ⟨su⟩ oído hacia mí, y en ⟨mis⟩ días invocaré.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "הטה",
-      "english": "inclinó"
+      "gloss": "inclinó"
     },
     {
       "surface": "אזנו",
-      "english": "⟨su⟩ oído"
+      "gloss": "⟨su⟩ oído"
     },
     {
       "surface": "לי",
-      "english": "hacia mí"
+      "gloss": "hacia mí"
     },
     {
       "surface": "ובימי",
-      "english": "y en ⟨mis⟩ días"
+      "gloss": "y en ⟨mis⟩ días"
     },
     {
       "surface": "אקרא",
-      "english": "invocaré"
+      "gloss": "invocaré"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:32.225391279Z",
-  "model": "glm-4.5"
+  ]
 }

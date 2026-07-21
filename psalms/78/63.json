@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 63,
   "ref": "psalms 78:63",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69747,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70267
-  },
+  "verse": 63,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:13.211094189Z",
   "translation": "Su juventud ⟨el⟩ fuego devoró, y sus vírgenes no ⟨fue⟩ celebrada ⟨en⟩ matrimonio.",
   "tokens": [
     {
       "surface": "בחוריו",
-      "english": "Su juventud"
+      "gloss": "Su juventud"
     },
     {
       "surface": "אכלה",
-      "english": "⟨el⟩ fuego devoró"
+      "gloss": "⟨el⟩ fuego devoró"
     },
     {
       "surface": "אש",
-      "english": "⟨el⟩ fuego"
+      "gloss": "⟨el⟩ fuego"
     },
     {
       "surface": "ובתולתיו",
-      "english": "y sus vírgenes"
+      "gloss": "y sus vírgenes"
     },
     {
       "surface": "לא",
-      "english": "no ⟨fue⟩"
+      "gloss": "no ⟨fue⟩"
     },
     {
       "surface": "הוללו",
-      "english": "celebrada ⟨en⟩ matrimonio"
+      "gloss": "celebrada ⟨en⟩ matrimonio"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:13.211094189Z",
-  "model": "glm-4.5"
+  ]
 }

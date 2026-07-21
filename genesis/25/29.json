@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "genesis 25:29",
   "book": "genesis",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 575,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28385,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28960
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:22:58.253334315Z",
   "translation": "Y Jacob ⟨hizo⟩ ⟨un⟩ guiso ⟨de⟩ lentejas, y vino Esau ⟨de⟩ ⟨el⟩ campo, y ⟨él⟩ ⟨estaba⟩ desfallecido.",
   "tokens": [
     {
       "surface": "ויזד",
-      "english": "Y Jacob ⟨hizo⟩"
+      "gloss": "Y Jacob ⟨hizo⟩"
     },
     {
       "surface": "יעקב",
-      "english": "Jacob"
+      "gloss": "Jacob"
     },
     {
       "surface": "נזיד",
-      "english": "⟨un⟩ guiso ⟨de⟩ lentejas"
+      "gloss": "⟨un⟩ guiso ⟨de⟩ lentejas"
     },
     {
       "surface": "ויבא",
-      "english": "y vino"
+      "gloss": "y vino"
     },
     {
       "surface": "עשו",
-      "english": "Esau"
+      "gloss": "Esau"
     },
     {
       "surface": "מן",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "השדה",
-      "english": "⟨el⟩ campo"
+      "gloss": "⟨el⟩ campo"
     },
     {
       "surface": "והוא",
-      "english": "y ⟨él⟩"
+      "gloss": "y ⟨él⟩"
     },
     {
       "surface": "עיף",
-      "english": "⟨estaba⟩ desfallecido"
+      "gloss": "⟨estaba⟩ desfallecido"
     }
-  ],
-  "timestamp": "2026-06-10T05:22:58.253334315Z",
-  "model": "glm-4.5"
+  ]
 }

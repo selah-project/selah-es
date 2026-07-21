@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 76:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 294,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69819,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70113
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:46.540923868Z",
   "translation": "from ⟨the⟩ heavens ⟨you⟩ heard judgment; ⟨the⟩ earth feared and ⟨was⟩ still",
   "tokens": [
     {
       "surface": "משמים",
-      "english": "From ⟨the⟩ heavens"
+      "gloss": "From ⟨the⟩ heavens"
     },
     {
       "surface": "השמעת",
-      "english": "⟨you⟩ heard"
+      "gloss": "⟨you⟩ heard"
     },
     {
       "surface": "דין",
-      "english": "judgment"
+      "gloss": "judgment"
     },
     {
       "surface": "ארץ",
-      "english": "⟨the⟩ earth"
+      "gloss": "⟨the⟩ earth"
     },
     {
       "surface": "יראה",
-      "english": "feared"
+      "gloss": "feared"
     },
     {
       "surface": "ושקטה",
-      "english": "and ⟨was⟩ still"
+      "gloss": "and ⟨was⟩ still"
     }
-  ],
-  "timestamp": "2026-06-09T23:35:46.540923868Z",
-  "model": "glm-4.5"
+  ]
 }

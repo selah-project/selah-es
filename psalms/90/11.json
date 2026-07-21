@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 90:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69857,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70331
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:45:04.757061951Z",
   "translation": "Quién ⟨conoce⟩ ⟨el⟩ poder de tu furia ⟨y⟩ según tu temor ⟨es⟩ tu ira",
   "tokens": [
     {
       "surface": "מי",
-      "english": "Quién"
+      "gloss": "Quién"
     },
     {
       "surface": "יודע",
-      "english": "⟨conoce⟩"
+      "gloss": "⟨conoce⟩"
     },
     {
       "surface": "עז",
-      "english": "⟨el⟩ poder"
+      "gloss": "⟨el⟩ poder"
     },
     {
       "surface": "אפך",
-      "english": "de tu furia"
+      "gloss": "de tu furia"
     },
     {
       "surface": "וכיראתך",
-      "english": "⟨y⟩ según tu temor"
+      "gloss": "⟨y⟩ según tu temor"
     },
     {
       "surface": "עברתך",
-      "english": "⟨es⟩ tu ira"
+      "gloss": "⟨es⟩ tu ira"
     }
-  ],
-  "timestamp": "2026-06-09T23:45:04.757061951Z",
-  "model": "glm-4.5"
+  ]
 }

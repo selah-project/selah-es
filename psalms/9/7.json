@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 9:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 70165,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70540
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:54.323140372Z",
   "translation": "Pero los enemigos han perecido perpetuamente; y ⟨has⟩ destruido ⟨las⟩ ciudades; su memoria ⟨ha⟩ perecido con ellos.",
   "tokens": [
     {
       "surface": "האויב",
-      "english": "los enemigos"
+      "gloss": "los enemigos"
     },
     {
       "surface": "תמו",
-      "english": "han perecido"
+      "gloss": "han perecido"
     },
     {
       "surface": "חרבות",
-      "english": "perpetuamente"
+      "gloss": "perpetuamente"
     },
     {
       "surface": "לנצח",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "וערים",
-      "english": "y ⟨has⟩ destruido ⟨las⟩ ciudades"
+      "gloss": "y ⟨has⟩ destruido ⟨las⟩ ciudades"
     },
     {
       "surface": "נתשת",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אבד",
-      "english": "su memoria ⟨ha⟩ perecido"
+      "gloss": "su memoria ⟨ha⟩ perecido"
     },
     {
       "surface": "זכרם",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "המה",
-      "english": "con ellos"
+      "gloss": "con ellos"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:54.323140372Z",
-  "model": "glm-4.5"
+  ]
 }

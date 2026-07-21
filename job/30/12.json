@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 30:12",
   "book": "job",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27366,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27927
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:09:18.955648424Z",
   "translation": "Contra ⟨el⟩ mío ⟨el⟩ derecho ⟨el⟩ deseo ⟨se⟩ levanta mis pies ⟨ellos⟩ envían y ⟨ellos⟩ levantan contra mí ⟨los⟩ caminos de ⟨su⟩ calamidad",
   "tokens": [
     {
       "surface": "על",
-      "english": "Contra"
+      "gloss": "Contra"
     },
     {
       "surface": "ימין",
-      "english": "⟨el⟩ mío ⟨el⟩ derecho"
+      "gloss": "⟨el⟩ mío ⟨el⟩ derecho"
     },
     {
       "surface": "פרחח",
-      "english": "⟨el⟩ deseo"
+      "gloss": "⟨el⟩ deseo"
     },
     {
       "surface": "יקומו",
-      "english": "⟨se⟩ levanta"
+      "gloss": "⟨se⟩ levanta"
     },
     {
       "surface": "רגלי",
-      "english": "mis pies"
+      "gloss": "mis pies"
     },
     {
       "surface": "שלחו",
-      "english": "⟨ellos⟩ envían"
+      "gloss": "⟨ellos⟩ envían"
     },
     {
       "surface": "ויסלו",
-      "english": "y ⟨ellos⟩ levantan"
+      "gloss": "y ⟨ellos⟩ levantan"
     },
     {
       "surface": "עלי",
-      "english": "contra mí"
+      "gloss": "contra mí"
     },
     {
       "surface": "ארחות",
-      "english": "⟨los⟩ caminos"
+      "gloss": "⟨los⟩ caminos"
     },
     {
       "surface": "אידם",
-      "english": "de ⟨su⟩ calamidad"
+      "gloss": "de ⟨su⟩ calamidad"
     }
-  ],
-  "timestamp": "2026-06-10T02:09:18.955648424Z",
-  "model": "glm-4.5"
+  ]
 }

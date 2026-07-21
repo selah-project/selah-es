@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 125:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 125,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69806,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70129
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:03:36.061923284Z",
   "translation": "Haz ⟨el⟩ bien, oh YHWH, ⟨a⟩ ⟨los⟩ que ⟨son⟩ buenos y ⟨a⟩ ⟨los⟩ rectos en sus corazones",
   "tokens": [
     {
       "surface": "היטיבה",
-      "english": "Haz ⟨el⟩ bien"
+      "gloss": "Haz ⟨el⟩ bien"
     },
     {
       "surface": "יהוה",
-      "english": "oh YHWH"
+      "gloss": "oh YHWH"
     },
     {
       "surface": "לטובים",
-      "english": "⟨a⟩ ⟨los⟩ que ⟨son⟩ buenos"
+      "gloss": "⟨a⟩ ⟨los⟩ que ⟨son⟩ buenos"
     },
     {
       "surface": "ולישרים",
-      "english": "y ⟨a⟩ ⟨los⟩ rectos"
+      "gloss": "y ⟨a⟩ ⟨los⟩ rectos"
     },
     {
       "surface": "בלבותם",
-      "english": "en sus corazones"
+      "gloss": "en sus corazones"
     }
-  ],
-  "timestamp": "2026-06-10T00:03:36.061923284Z",
-  "model": "glm-4.5"
+  ]
 }

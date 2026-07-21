@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 14:6",
   "book": "exodus",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 348,
-    "prompt_tokens": 24052,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24400
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:15:11.489647670Z",
   "translation": "Y ⟨hizo estar listo⟩ ⟨את⟩ su carro y ⟨את⟩ su pueblo, tomó consigo",
   "tokens": [
     {
       "surface": "ויאסר",
-      "english": "Y ⟨hizo estar listo⟩"
+      "gloss": "Y ⟨hizo estar listo⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su carro"
     },
     {
       "surface": "רכבו",
-      "english": "su carro"
+      "gloss": "su carro"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su pueblo"
     },
     {
       "surface": "עמו",
-      "english": "su pueblo"
+      "gloss": "su pueblo"
     },
     {
       "surface": "לקח",
-      "english": "tomó"
+      "gloss": "tomó"
     },
     {
       "surface": "עמו",
-      "english": "consigo"
+      "gloss": "consigo"
     }
-  ],
-  "timestamp": "2026-07-16T20:15:11.489647670Z",
-  "model": "glm-4.5"
+  ]
 }

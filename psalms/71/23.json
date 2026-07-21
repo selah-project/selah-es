@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 71:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70016,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70433
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:09.424264808Z",
   "translation": "Mis labios ⟨se⟩ gritarán de alegría cuando cante alabanzas ⟨a⟩ ti, y mi alma, ⟨la cual⟩ tú has redimido.",
   "tokens": [
     {
       "surface": "תרננה",
-      "english": "⟨Se⟩ gritarán de alegría"
+      "gloss": "⟨Se⟩ gritarán de alegría"
     },
     {
       "surface": "שפתי",
-      "english": "Mis labios"
+      "gloss": "Mis labios"
     },
     {
       "surface": "כי",
-      "english": "cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "אזמרה",
-      "english": "cante alabanzas ⟨a⟩"
+      "gloss": "cante alabanzas ⟨a⟩"
     },
     {
       "surface": "לך",
-      "english": "ti"
+      "gloss": "ti"
     },
     {
       "surface": "ונפשי",
-      "english": "y mi alma"
+      "gloss": "y mi alma"
     },
     {
       "surface": "אשר",
-      "english": "⟨la cual⟩"
+      "gloss": "⟨la cual⟩"
     },
     {
       "surface": "פדית",
-      "english": "tú has redimido"
+      "gloss": "tú has redimido"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:09.424264808Z",
-  "model": "glm-4.5"
+  ]
 }

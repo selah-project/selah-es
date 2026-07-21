@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 68:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70066,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70555
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:10.572282998Z",
   "translation": "⟨el⟩ aguacero de espontanea donación ⟨tú⟩ moverás agitando, Elohim; ⟨tu⟩ heredad ⟨es⟩ adonde ⟨está⟩ fatigada, y ⟨tú⟩ ⟨la⟩ confirmaste ⟨como⟩ erigida.",
   "tokens": [
     {
       "surface": "גשם",
-      "english": "⟨El⟩ aguacero"
+      "gloss": "⟨El⟩ aguacero"
     },
     {
       "surface": "נדבות",
-      "english": "de espontanea donación"
+      "gloss": "de espontanea donación"
     },
     {
       "surface": "תניף",
-      "english": "⟨tú⟩ moverás agitando"
+      "gloss": "⟨tú⟩ moverás agitando"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "נחלתך",
-      "english": "⟨tu⟩ heredad"
+      "gloss": "⟨tu⟩ heredad"
     },
     {
       "surface": "ונלאה",
-      "english": "⟨es⟩ adonde ⟨está⟩ fatigada"
+      "gloss": "⟨es⟩ adonde ⟨está⟩ fatigada"
     },
     {
       "surface": "אתה",
-      "english": "y ⟨tú⟩"
+      "gloss": "y ⟨tú⟩"
     },
     {
       "surface": "כוננתה",
-      "english": "⟨la⟩ confirmaste ⟨como⟩ erigida"
+      "gloss": "⟨la⟩ confirmaste ⟨como⟩ erigida"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:10.572282998Z",
-  "model": "glm-4.5"
+  ]
 }

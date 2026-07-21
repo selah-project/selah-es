@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "jonah 4:4",
   "book": "jonah",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26258,
-    "prompt_tokens_details": {
-      "cached_tokens": 25526
-    },
-    "total_tokens": 26638
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:26:18.197150681Z",
   "translation": "Y dijo YHWH: ¿Estás ⟨haciendo⟩ bien ⟨en⟩ estar ⟨airado⟩ para ⟨ti⟩?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ההיטב",
-      "english": "¿Estás ⟨haciendo⟩ bien"
+      "gloss": "¿Estás ⟨haciendo⟩ bien"
     },
     {
       "surface": "חרה",
-      "english": "⟨en⟩ estar ⟨airado⟩"
+      "gloss": "⟨en⟩ estar ⟨airado⟩"
     },
     {
       "surface": "לך",
-      "english": "para ⟨ti⟩"
+      "gloss": "para ⟨ti⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:26:18.197150681Z",
-  "model": "glm-4.5"
+  ]
 }

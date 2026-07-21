@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 68:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70144,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70676
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:54.043793215Z",
   "translation": "⟨El⟩ carro de Elohim miríadas, millares de alegría; Adonai ⟨está⟩ en ellos, ⟨como⟩ en Sinai, ⟨en el⟩ lugar santo.",
   "tokens": [
     {
       "surface": "רכב",
-      "english": "⟨El⟩ carro"
+      "gloss": "⟨El⟩ carro"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "רבתים",
-      "english": "miríadas"
+      "gloss": "miríadas"
     },
     {
       "surface": "אלפי",
-      "english": "millares"
+      "gloss": "millares"
     },
     {
       "surface": "שנאן",
-      "english": "de alegría"
+      "gloss": "de alegría"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "בם",
-      "english": "⟨está⟩ en ellos"
+      "gloss": "⟨está⟩ en ellos"
     },
     {
       "surface": "סיני",
-      "english": "⟨como⟩ en Sinai"
+      "gloss": "⟨como⟩ en Sinai"
     },
     {
       "surface": "בקדש",
-      "english": "⟨en el⟩ lugar santo"
+      "gloss": "⟨en el⟩ lugar santo"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:54.043793215Z",
-  "model": "glm-4.5"
+  ]
 }

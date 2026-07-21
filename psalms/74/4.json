@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 74:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 451,
-    "prompt_tokens": 70043,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70494
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:47.000802676Z",
   "translation": "Rugieron ⟨los⟩ adversarios en medio de tu asamblea; pusieron ⟨sus⟩ señales ⟨como⟩ señales.",
   "tokens": [
     {
       "surface": "שאגו",
-      "english": "Rugieron"
+      "gloss": "Rugieron"
     },
     {
       "surface": "צרריך",
-      "english": "⟨los⟩ adversarios"
+      "gloss": "⟨los⟩ adversarios"
     },
     {
       "surface": "בקרב",
-      "english": "en medio de"
+      "gloss": "en medio de"
     },
     {
       "surface": "מועדך",
-      "english": "tu asamblea"
+      "gloss": "tu asamblea"
     },
     {
       "surface": "שמו",
-      "english": "pusieron"
+      "gloss": "pusieron"
     },
     {
       "surface": "אותתם",
-      "english": "⟨sus⟩ señales"
+      "gloss": "⟨sus⟩ señales"
     },
     {
       "surface": "אתות",
-      "english": "⟨como⟩ señales"
+      "gloss": "⟨como⟩ señales"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:47.000802676Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 47:16",
   "book": "genesis",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28616,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29058
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:44:54.674639693Z",
   "translation": "Y Yosef dijo: ⟨Dad⟩ vuestras ⟨posesiones⟩ ⟨y⟩ yo ⟨daré⟩ ⟨a⟩ vosotros ⟨en⟩ vuestras ⟨posesiones⟩ ⟨si⟩ ⟨cesa⟩ ⟨la plata⟩",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y Yosef dijo"
+      "gloss": "Y Yosef dijo"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "הבו",
-      "english": "⟨Dad⟩"
+      "gloss": "⟨Dad⟩"
     },
     {
       "surface": "מקניכם",
-      "english": "vuestras ⟨posesiones⟩"
+      "gloss": "vuestras ⟨posesiones⟩"
     },
     {
       "surface": "ואתנה",
-      "english": "⟨y⟩ yo ⟨daré⟩"
+      "gloss": "⟨y⟩ yo ⟨daré⟩"
     },
     {
       "surface": "לכם",
-      "english": "⟨a⟩ vosotros"
+      "gloss": "⟨a⟩ vosotros"
     },
     {
       "surface": "במקניכם",
-      "english": "⟨en⟩ vuestras ⟨posesiones⟩"
+      "gloss": "⟨en⟩ vuestras ⟨posesiones⟩"
     },
     {
       "surface": "אם",
-      "english": "⟨si⟩"
+      "gloss": "⟨si⟩"
     },
     {
       "surface": "אפס",
-      "english": "⟨cesa⟩"
+      "gloss": "⟨cesa⟩"
     },
     {
       "surface": "כסף",
-      "english": "⟨la⟩ plata"
+      "gloss": "⟨la⟩ plata"
     }
-  ],
-  "timestamp": "2026-06-10T05:44:54.674639693Z",
-  "model": "glm-4.5"
+  ]
 }

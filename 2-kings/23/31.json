@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "2-kings 23:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 23,
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:46:15.161896426Z",
+  "translation": "Jehoachaz ⟨was⟩ hijo de veinte y tres años cuando comenzó a reinar, y reinó tres meses en Jerusalén. ⟨El⟩ nombre de su madre ⟨era⟩ Jamutal, hija de Yirmeyahu, de Libná.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Hijo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "veinte"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "y tres"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "cuando comenzó a reinar"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "tres"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "meses"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "en Jerusalén"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "⟨El⟩ nombre"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de su madre"
+    },
+    {
+      "surface": "חמוטל",
+      "gloss": "Jamutal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hija"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "de Yirmeyahu"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "de Libná"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeremías",
@@ -13,88 +84,6 @@
       "hebrew": "ירמיה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17348,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17893
-  },
-  "translation": "Jehoachaz ⟨was⟩ hijo de veinte y tres años cuando comenzó a reinar, y reinó tres meses en Jerusalén. ⟨El⟩ nombre de su madre ⟨era⟩ Jamutal, hija de Yirmeyahu, de Libná.",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Hijo"
-    },
-    {
-      "surface": "עשרים",
-      "english": "veinte"
-    },
-    {
-      "surface": "ושלש",
-      "english": "y tres"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "יהואחז",
-      "english": "Jehoachaz"
-    },
-    {
-      "surface": "במלכו",
-      "english": "cuando comenzó a reinar"
-    },
-    {
-      "surface": "ושלשה",
-      "english": "tres"
-    },
-    {
-      "surface": "חדשים",
-      "english": "meses"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "en Jerusalén"
-    },
-    {
-      "surface": "ושם",
-      "english": "⟨El⟩ nombre"
-    },
-    {
-      "surface": "אמו",
-      "english": "de su madre"
-    },
-    {
-      "surface": "חמוטל",
-      "english": "Jamutal"
-    },
-    {
-      "surface": "בת",
-      "english": "hija"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "de Yirmeyahu"
-    },
-    {
-      "surface": "מלבנה",
-      "english": "de Libná"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:46:15.161896426Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

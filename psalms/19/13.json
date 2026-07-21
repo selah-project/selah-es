@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 19:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 348,
-    "prompt_tokens": 69903,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70251
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:27.759070155Z",
   "translation": "¿Quien ⟨puede⟩ discernir ⟨los⟩ errores? purifícame de ⟨las⟩ faltas secretas.",
   "tokens": [
     {
       "surface": "שגיאות",
-      "english": "errores"
+      "gloss": "errores"
     },
     {
       "surface": "מי",
-      "english": "¿Quien"
+      "gloss": "¿Quien"
     },
     {
       "surface": "יבין",
-      "english": "⟨puede⟩ discernir"
+      "gloss": "⟨puede⟩ discernir"
     },
     {
       "surface": "מנסתרות",
-      "english": "de ⟨las⟩ faltas secretas"
+      "gloss": "de ⟨las⟩ faltas secretas"
     },
     {
       "surface": "נקני",
-      "english": "purifícame"
+      "gloss": "purifícame"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:27.759070155Z",
-  "model": "glm-4.5"
+  ]
 }

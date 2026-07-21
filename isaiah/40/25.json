@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "isaiah 40:25",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 469,
-    "prompt_tokens": 26033,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26502
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:28:43.037709119Z",
   "translation": "Y ¿a quién me ⟨compararéis⟩ y ⟨haréis⟩ igual? —dirá ⟨el⟩ Santo.",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "Y ¿a"
+      "gloss": "Y ¿a"
     },
     {
       "surface": "מי",
-      "english": "quién"
+      "gloss": "quién"
     },
     {
       "surface": "תדמיוני",
-      "english": "me ⟨compararéis⟩"
+      "gloss": "me ⟨compararéis⟩"
     },
     {
       "surface": "ואשוה",
-      "english": "y ⟨haréis⟩ igual?"
+      "gloss": "y ⟨haréis⟩ igual?"
     },
     {
       "surface": "יאמר",
-      "english": "—dirá"
+      "gloss": "—dirá"
     },
     {
       "surface": "קדוש",
-      "english": "⟨el⟩ Santo."
+      "gloss": "⟨el⟩ Santo."
     }
-  ],
-  "timestamp": "2026-07-16T21:28:43.037709119Z",
-  "model": "glm-4.5"
+  ]
 }

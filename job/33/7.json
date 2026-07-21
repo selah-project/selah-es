@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 33:7",
   "book": "job",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27117,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27523
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:11:57.874991698Z",
   "translation": "He aquí ⟨את⟩ mi pesadilla ⟨es⟩ lo que ⟨está⟩ sobre ti: ⟨aunque⟩ ⟨la⟩ mano ⟨está⟩ sobre ti, ⟨no⟩ ⟨es⟩ pesada.",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "אמתי",
-      "english": "mi pesadilla"
+      "gloss": "mi pesadilla"
     },
     {
       "surface": "לא",
-      "english": "⟨aunque⟩"
+      "gloss": "⟨aunque⟩"
     },
     {
       "surface": "תבעתך",
-      "english": "lo que ⟨está⟩ sobre ti"
+      "gloss": "lo que ⟨está⟩ sobre ti"
     },
     {
       "surface": "ואכפי",
-      "english": "y ⟨la⟩ mano"
+      "gloss": "y ⟨la⟩ mano"
     },
     {
       "surface": "עליך",
-      "english": "⟨está⟩ sobre ti"
+      "gloss": "⟨está⟩ sobre ti"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "יכבד",
-      "english": "⟨es⟩ pesada"
+      "gloss": "⟨es⟩ pesada"
     }
-  ],
-  "timestamp": "2026-06-10T02:11:57.874991698Z",
-  "model": "glm-4.5"
+  ]
 }

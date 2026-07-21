@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "jeremiah 42:7",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24506,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24909
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:37:56.891665778Z",
   "translation": "Y sucedió ⟨al⟩ cabo de diez días y ⟨fue⟩ ⟨el⟩ davar de YHWH ⟨hacia⟩ Yirmeyahu",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y sucedió"
+      "gloss": "Y sucedió"
     },
     {
       "surface": "מקץ",
-      "english": "⟨al⟩ cabo"
+      "gloss": "⟨al⟩ cabo"
     },
     {
       "surface": "עשרת",
-      "english": "diez"
+      "gloss": "diez"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "ויהי",
-      "english": "y ⟨fue⟩"
+      "gloss": "y ⟨fue⟩"
     },
     {
       "surface": "דבר",
-      "english": "⟨el⟩ davar"
+      "gloss": "⟨el⟩ davar"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨hacia⟩"
+      "gloss": "⟨hacia⟩"
     },
     {
       "surface": "ירמיהו",
-      "english": "Yirmeyahu"
+      "gloss": "Yirmeyahu"
     }
-  ],
-  "timestamp": "2026-06-10T03:37:56.891665778Z",
-  "model": "glm-4.5"
+  ]
 }

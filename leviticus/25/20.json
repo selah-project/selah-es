@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "leviticus 25:20",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 503,
-    "prompt_tokens": 25105,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25608
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:46:03.851481224Z",
   "translation": "Y si dijeren: '¿Qué comeremos ⟨en⟩ el año séptimo? He aquí, no sembraremos y no recogeremos ⟨את⟩ ⟨el⟩ producto nuestro'",
   "tokens": [
     {
       "surface": "וכי",
-      "english": "Y si"
+      "gloss": "Y si"
     },
     {
       "surface": "תאמרו",
-      "english": "dijeren"
+      "gloss": "dijeren"
     },
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "נאכל",
-      "english": "comeremos"
+      "gloss": "comeremos"
     },
     {
       "surface": "בשנה",
-      "english": "⟨en⟩ el año"
+      "gloss": "⟨en⟩ el año"
     },
     {
       "surface": "השביעת",
-      "english": "séptimo"
+      "gloss": "séptimo"
     },
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "נזרע",
-      "english": "sembraremos"
+      "gloss": "sembraremos"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "נאסף",
-      "english": "recogeremos"
+      "gloss": "recogeremos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨el⟩ producto nuestro"
     },
     {
       "surface": "תבואתנו",
-      "english": "⟨el⟩ producto nuestro"
+      "gloss": "⟨el⟩ producto nuestro"
     }
-  ],
-  "timestamp": "2026-07-16T22:46:03.851481224Z",
-  "model": "glm-4.5"
+  ]
 }

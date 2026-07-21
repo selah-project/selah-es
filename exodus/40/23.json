@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "exodus 40:23",
   "book": "exodus",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 485,
-    "prompt_tokens": 24325,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24810
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T01:04:29.413406425Z",
   "translation": "Y ordenó sobre él ⟨el⟩ arreglo de pan ante YHWH, como YHWH ⟨את⟩ Moshé había ordenado.",
   "tokens": [
     {
       "surface": "ויערך",
-      "english": "Y ordenó"
+      "gloss": "Y ordenó"
     },
     {
       "surface": "עליו",
-      "english": "sobre él"
+      "gloss": "sobre él"
     },
     {
       "surface": "ערך",
-      "english": "⟨el⟩ arreglo"
+      "gloss": "⟨el⟩ arreglo"
     },
     {
       "surface": "לחם",
-      "english": "de pan"
+      "gloss": "de pan"
     },
     {
       "surface": "לפני",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "english": "había ordenado"
+      "gloss": "había ordenado"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     }
-  ],
-  "timestamp": "2026-07-17T01:04:29.413406425Z",
-  "model": "glm-4.5"
+  ]
 }

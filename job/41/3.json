@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 41:3",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27082,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27661
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:45.777423576Z",
   "translation": "¿Quién ⟨ha⟩ anticipado ⟨a⟩ mí y ⟨yo⟩ pagaré? ⟨Todo⟩ lo que ⟨está⟩ debajo de ⟨los⟩ cielos ⟨es⟩ mío",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "הקדימני",
-      "english": "⟨ha⟩ anticipado ⟨a⟩ mí"
+      "gloss": "⟨ha⟩ anticipado ⟨a⟩ mí"
     },
     {
       "surface": "ואשלם",
-      "english": "y ⟨yo⟩ pagaré"
+      "gloss": "y ⟨yo⟩ pagaré"
     },
     {
       "surface": "תחת",
-      "english": "debajo de"
+      "gloss": "debajo de"
     },
     {
       "surface": "כל",
-      "english": "⟨Todo⟩"
+      "gloss": "⟨Todo⟩"
     },
     {
       "surface": "השמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "לי",
-      "english": "mío"
+      "gloss": "mío"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:45.777423576Z",
-  "model": "glm-4.5"
+  ]
 }

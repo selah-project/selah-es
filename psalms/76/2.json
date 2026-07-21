@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 76:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69782,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70067
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:44.910610150Z",
   "translation": "⟨Es⟩ conocido en Judá Elohim ⟨es⟩ grande ⟨su⟩ nombre en Israel",
   "tokens": [
     {
       "surface": "נודע",
-      "english": "⟨Es⟩ conocido"
+      "gloss": "⟨Es⟩ conocido"
     },
     {
       "surface": "ביהודה",
-      "english": "en Judá"
+      "gloss": "en Judá"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בישראל",
-      "english": "en Israel"
+      "gloss": "en Israel"
     },
     {
       "surface": "גדול",
-      "english": "⟨es⟩ grande"
+      "gloss": "⟨es⟩ grande"
     },
     {
       "surface": "שמו",
-      "english": "⟨su⟩ nombre"
+      "gloss": "⟨su⟩ nombre"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:44.910610150Z",
-  "model": "glm-4.5"
+  ]
 }

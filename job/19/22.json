@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 19:22",
   "book": "job",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27007,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27324
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:50.456756584Z",
   "translation": "¿Por qué ⟨me⟩ persiguen ⟨como⟩ a Elohim ⟨y⟩ ⟨con⟩ mi carne no ⟨se⟩ sacian?",
   "tokens": [
     {
       "surface": "למה",
-      "english": "¿Por qué"
+      "gloss": "¿Por qué"
     },
     {
       "surface": "תרדפני",
-      "english": "⟨me⟩ persiguen"
+      "gloss": "⟨me⟩ persiguen"
     },
     {
       "surface": "כמו",
-      "english": "⟨como⟩ a"
+      "gloss": "⟨como⟩ a"
     },
     {
       "surface": "אל",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ומבשרי",
-      "english": "⟨y⟩ ⟨con⟩ mi carne"
+      "gloss": "⟨y⟩ ⟨con⟩ mi carne"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תשבעו",
-      "english": "⟨se⟩ sacian"
+      "gloss": "⟨se⟩ sacian"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:50.456756584Z",
-  "model": "glm-4.5"
+  ]
 }

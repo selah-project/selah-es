@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 96:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 288,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69817,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70105
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:37.730404052Z",
   "translation": "Proclamad ⟨entre⟩ las naciones su gloria, ⟨entre⟩ todos ⟨los⟩ pueblos sus maravillas.",
   "tokens": [
     {
       "surface": "ספרו",
-      "english": "Proclamad"
+      "gloss": "Proclamad"
     },
     {
       "surface": "בגוים",
-      "english": "⟨entre⟩ las naciones"
+      "gloss": "⟨entre⟩ las naciones"
     },
     {
       "surface": "כבודו",
-      "english": "su gloria"
+      "gloss": "su gloria"
     },
     {
       "surface": "בכל",
-      "english": "⟨entre⟩ todos"
+      "gloss": "⟨entre⟩ todos"
     },
     {
       "surface": "העמים",
-      "english": "⟨los⟩ pueblos"
+      "gloss": "⟨los⟩ pueblos"
     },
     {
       "surface": "נפלאותיו",
-      "english": "sus maravillas"
+      "gloss": "sus maravillas"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:37.730404052Z",
-  "model": "glm-4.5"
+  ]
 }

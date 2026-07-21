@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 3:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69959,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70303
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:58:24.467977012Z",
   "translation": "Yo ⟨me⟩ acosté y dormí; ⟨yo⟩ desperté, porque ⟨YHWH⟩ ⟨me⟩ sostiene.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "שכבתי",
-      "english": "⟨me⟩ acosté"
+      "gloss": "⟨me⟩ acosté"
     },
     {
       "surface": "ואישנה",
-      "english": "y dormí"
+      "gloss": "y dormí"
     },
     {
       "surface": "הקיצותי",
-      "english": "⟨yo⟩ desperté"
+      "gloss": "⟨yo⟩ desperté"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "יהוה",
-      "english": "⟨YHWH⟩"
+      "gloss": "⟨YHWH⟩"
     },
     {
       "surface": "יסמכני",
-      "english": "⟨me⟩ sostiene"
+      "gloss": "⟨me⟩ sostiene"
     }
-  ],
-  "timestamp": "2026-06-09T22:58:24.467977012Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 3:9",
   "book": "genesis",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 369,
-    "prompt_tokens": 28382,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28751
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:52:18.470216308Z",
   "translation": "Y llamó YHWH Elohim ⟨al⟩ Adam y le dijo: ¿Dónde estás?",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "Y llamó"
+      "gloss": "Y llamó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אל",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "האדם",
-      "english": "Adam"
+      "gloss": "Adam"
     },
     {
       "surface": "ויאמר",
-      "english": "y le dijo"
+      "gloss": "y le dijo"
     },
     {
       "surface": "לו",
-      "english": "⟨le⟩"
+      "gloss": "⟨le⟩"
     },
     {
       "surface": "איכה",
-      "english": "¿Dónde estás?"
+      "gloss": "¿Dónde estás?"
     }
-  ],
-  "timestamp": "2026-07-16T20:52:18.470216308Z",
-  "model": "glm-4.5"
+  ]
 }

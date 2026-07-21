@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 6:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59821,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60392
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:31:31.864762525Z",
   "translation": "Seis ⟨hay⟩ ⟨que⟩ YHWH aborrece ⟨y⟩ ⟨que⟩ ⟨son⟩ abominación para su alma:",
   "tokens": [
     {
       "surface": "שש",
-      "english": "Seis"
+      "gloss": "Seis"
     },
     {
       "surface": "הנה",
-      "english": "⟨hay⟩",
+      "gloss": "⟨hay⟩",
       "marks": "que"
     },
     {
       "surface": "שנא",
-      "english": "aborrece"
+      "gloss": "aborrece"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ושבע",
-      "english": "⟨y⟩ ⟨que⟩"
+      "gloss": "⟨y⟩ ⟨que⟩"
     },
     {
       "surface": "תועבות",
-      "english": "⟨son⟩ abominación"
+      "gloss": "⟨son⟩ abominación"
     },
     {
       "surface": "נפשו",
-      "english": "para su alma"
+      "gloss": "para su alma"
     }
-  ],
-  "timestamp": "2026-06-10T01:31:31.864762525Z",
-  "model": "glm-4.5"
+  ]
 }

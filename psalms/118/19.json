@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 118:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69865,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70308
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:58:36.164912621Z",
   "translation": "Abran ⟨para⟩ ⟨mí⟩ las puertas de ⟨la⟩ justicia: entraré ⟨en⟩ ⟨ellas⟩ y alabaré a Yah",
   "tokens": [
     {
       "surface": "פתחו",
-      "english": "Abran"
+      "gloss": "Abran"
     },
     {
       "surface": "לי",
-      "english": "⟨para⟩ ⟨mí⟩",
+      "gloss": "⟨para⟩ ⟨mí⟩",
       "marks": "mí"
     },
     {
       "surface": "שערי",
-      "english": "las puertas"
+      "gloss": "las puertas"
     },
     {
       "surface": "צדק",
-      "english": "de ⟨la⟩ justicia"
+      "gloss": "de ⟨la⟩ justicia"
     },
     {
       "surface": "אבא",
-      "english": "entraré"
+      "gloss": "entraré"
     },
     {
       "surface": "בם",
-      "english": "⟨en⟩ ⟨ellas⟩",
+      "gloss": "⟨en⟩ ⟨ellas⟩",
       "marks": "ellas"
     },
     {
       "surface": "אודה",
-      "english": "y alabaré"
+      "gloss": "y alabaré"
     },
     {
       "surface": "יה",
-      "english": "a Yah"
+      "gloss": "a Yah"
     }
-  ],
-  "timestamp": "2026-06-09T23:58:36.164912621Z",
-  "model": "glm-4.5"
+  ]
 }

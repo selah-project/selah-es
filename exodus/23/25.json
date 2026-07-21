@@ -1,72 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "exodus 23:25",
   "book": "exodus",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 586,
-    "prompt_tokens": 24652,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25238
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:19:07.916551811Z",
   "translation": "Y ⟨serviréis⟩ ⟨a⟩ YHWH vuestro Elohim, y ⟨él⟩ bendecirá ⟨את⟩ vuestro pan y ⟨את⟩ vuestra agua, y ⟨yo⟩ quitaré la enfermedad de ⟨tu⟩ medio.",
   "tokens": [
     {
       "surface": "ועבדתם",
-      "english": "Y ⟨serviréis⟩"
+      "gloss": "Y ⟨serviréis⟩"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיכם",
-      "english": "vuestro Elohim"
+      "gloss": "vuestro Elohim"
     },
     {
       "surface": "וברך",
-      "english": "y ⟨él⟩ bendecirá"
+      "gloss": "y ⟨él⟩ bendecirá"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vuestro pan"
     },
     {
       "surface": "לחמך",
-      "english": "vuestro pan"
+      "gloss": "vuestro pan"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "vuestra agua"
     },
     {
       "surface": "מימיך",
-      "english": "vuestra agua"
+      "gloss": "vuestra agua"
     },
     {
       "surface": "והסרתי",
-      "english": "y ⟨yo⟩ quitaré"
+      "gloss": "y ⟨yo⟩ quitaré"
     },
     {
       "surface": "מחלה",
-      "english": "la enfermedad"
+      "gloss": "la enfermedad"
     },
     {
       "surface": "מקרבך",
-      "english": "de ⟨tu⟩ medio"
+      "gloss": "de ⟨tu⟩ medio"
     }
-  ],
-  "timestamp": "2026-07-16T20:19:07.916551811Z",
-  "model": "glm-4.5"
+  ]
 }

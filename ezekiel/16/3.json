@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "ezekiel 16:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 16,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:23:29.214216893Z",
+  "translation": "Y dirás: así ⟨dice⟩ Adonai YHWH a Jerusalem: tu origen y tu nacimiento ⟨son⟩ de la tierra del cananeo; tu padre ⟨era⟩ el amorreo y tu madre ⟨era⟩ la Jitita.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Y dirás"
+    },
+    {
+      "surface": "כה",
+      "gloss": "así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "a Jerusalem"
+    },
+    {
+      "surface": "מכרתיך",
+      "gloss": "tu origen"
+    },
+    {
+      "surface": "ומלדתיך",
+      "gloss": "y tu nacimiento"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de la tierra"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "del cananeo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tu padre"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "el amorreo"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "y tu madre"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "la Jitita"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "hitita",
@@ -13,80 +76,6 @@
       "hebrew": "חתי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17672,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 18153
-  },
-  "translation": "Y dirás: así ⟨dice⟩ Adonai YHWH a Jerusalem: tu origen y tu nacimiento ⟨son⟩ de la tierra del cananeo; tu padre ⟨era⟩ el amorreo y tu madre ⟨era⟩ la Jitita.",
-  "tokens": [
-    {
-      "surface": "ואמרת",
-      "english": "Y dirás"
-    },
-    {
-      "surface": "כה",
-      "english": "así"
-    },
-    {
-      "surface": "אמר",
-      "english": "dice"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לירושלם",
-      "english": "a Jerusalem"
-    },
-    {
-      "surface": "מכרתיך",
-      "english": "tu origen"
-    },
-    {
-      "surface": "ומלדתיך",
-      "english": "y tu nacimiento"
-    },
-    {
-      "surface": "מארץ",
-      "english": "de la tierra"
-    },
-    {
-      "surface": "הכנעני",
-      "english": "del cananeo"
-    },
-    {
-      "surface": "אביך",
-      "english": "tu padre"
-    },
-    {
-      "surface": "האמרי",
-      "english": "el amorreo"
-    },
-    {
-      "surface": "ואמך",
-      "english": "y tu madre"
-    },
-    {
-      "surface": "חתית",
-      "english": "la Jitita"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:23:29.214216893Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 8:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 480,
-    "prompt_tokens": 70351,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70831
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:33:30.058371753Z",
   "translation": "De la boca de ⟨los⟩ niños y de ⟨los⟩ que maman ⟨tú⟩ has fundado fuerza por causa de tus adversarios, para hacer cesar al enemigo y al vengador.",
   "tokens": [
     {
       "surface": "מפי",
-      "english": "De la boca de"
+      "gloss": "De la boca de"
     },
     {
       "surface": "עוללים",
-      "english": "⟨los⟩ niños"
+      "gloss": "⟨los⟩ niños"
     },
     {
       "surface": "וינקים",
-      "english": "y de ⟨los⟩ que maman"
+      "gloss": "y de ⟨los⟩ que maman"
     },
     {
       "surface": "יסדת",
-      "english": "⟨tú⟩ has fundado"
+      "gloss": "⟨tú⟩ has fundado"
     },
     {
       "surface": "עז",
-      "english": "fuerza"
+      "gloss": "fuerza"
     },
     {
       "surface": "למען",
-      "english": "por causa de"
+      "gloss": "por causa de"
     },
     {
       "surface": "צורריך",
-      "english": "tus adversarios"
+      "gloss": "tus adversarios"
     },
     {
       "surface": "להשבית",
-      "english": "para hacer cesar"
+      "gloss": "para hacer cesar"
     },
     {
       "surface": "אויב",
-      "english": "al enemigo"
+      "gloss": "al enemigo"
     },
     {
       "surface": "ומתנקם",
-      "english": "y al vengador"
+      "gloss": "y al vengador"
     }
-  ],
-  "timestamp": "2026-07-17T00:33:30.058371753Z",
-  "model": "glm-4.5"
+  ]
 }

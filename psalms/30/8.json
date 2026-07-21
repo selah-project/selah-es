@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 30:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 608,
-    "prompt_tokens": 70310,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70918
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:27:27.774063753Z",
   "translation": "YHWH, en tu buena voluntad ⟨has hecho⟩ que mi monte se mantenga firme; ⟨tú⟩ escondiste tu rostro, y estuve turbado.",
   "tokens": [
     {
       "surface": "יְֽהוָ֗ה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בִּ\/רְצוֹנְ\/ךָ֮",
-      "english": "en tu buena voluntad"
+      "gloss": "en tu buena voluntad"
     },
     {
       "surface": "הֶעֱמַ֪דְתָּה",
-      "english": "⟨has hecho⟩ que mi monte se mantenga firme"
+      "gloss": "⟨has hecho⟩ que mi monte se mantenga firme"
     },
     {
       "surface": "לְֽ\/הַרְרִ֫\/י",
-      "english": "mi monte"
+      "gloss": "mi monte"
     },
     {
       "surface": "עֹ֥ז",
-      "english": "firme"
+      "gloss": "firme"
     },
     {
       "surface": "הִסְתַּ֥רְתָּ",
-      "english": "⟨tú⟩ escondiste"
+      "gloss": "⟨tú⟩ escondiste"
     },
     {
       "surface": "פָנֶ֗י\/ךָ",
-      "english": "tu rostro"
+      "gloss": "tu rostro"
     },
     {
       "surface": "הָיִ֥יתִי",
-      "english": "y estuve"
+      "gloss": "y estuve"
     },
     {
       "surface": "נִבְהָֽל",
-      "english": "turbado"
+      "gloss": "turbado"
     }
-  ],
-  "timestamp": "2026-07-21T02:27:27.774063753Z",
-  "model": "glm-4.5"
+  ]
 }

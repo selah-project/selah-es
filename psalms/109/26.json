@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 109:26",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69738,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70067
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:50.760088251Z",
   "translation": "Ayúdame, YHWH mi Elohim; ⟨es⟩ ⟨el⟩ que ⟨se⟩ ⟨el⟩ que salva según tu jésed",
   "tokens": [
     {
       "surface": "עזרני",
-      "english": "Ayúdame"
+      "gloss": "Ayúdame"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "mi Elohim"
+      "gloss": "mi Elohim"
     },
     {
       "surface": "הושיעני",
-      "english": "⟨es⟩ ⟨el⟩ que ⟨se⟩ ⟨el⟩ que salva"
+      "gloss": "⟨es⟩ ⟨el⟩ que ⟨se⟩ ⟨el⟩ que salva"
     },
     {
       "surface": "כחסדך",
-      "english": "según tu jésed"
+      "gloss": "según tu jésed"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:50.760088251Z",
-  "model": "glm-4.5"
+  ]
 }

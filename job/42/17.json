@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "job 42:17",
   "book": "job",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26740,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27046
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:19:26.469583715Z",
   "translation": "Y murió Iyov, ⟨el⟩ anciano y ⟨estaba⟩ satisfecho ⟨de⟩ días",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "Y murió"
+      "gloss": "Y murió"
     },
     {
       "surface": "איוב",
-      "english": "Iyov"
+      "gloss": "Iyov"
     },
     {
       "surface": "זקן",
-      "english": "⟨el⟩ anciano"
+      "gloss": "⟨el⟩ anciano"
     },
     {
       "surface": "ושבע",
-      "english": "⟨estaba⟩ satisfecho"
+      "gloss": "⟨estaba⟩ satisfecho"
     },
     {
       "surface": "ימים",
-      "english": "⟨de⟩ días"
+      "gloss": "⟨de⟩ días"
     }
-  ],
-  "timestamp": "2026-06-10T02:19:26.469583715Z",
-  "model": "glm-4.5"
+  ]
 }

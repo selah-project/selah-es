@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "nahum 3:12",
   "book": "nahum",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23734,
-    "prompt_tokens_details": {
-      "cached_tokens": 22373
-    },
-    "total_tokens": 24223
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:24:39.502515870Z",
   "translation": "Todos ⟨los⟩ fortalezas tuyas ⟨son⟩ higueras con ⟨los⟩ primeros frutos; si ⟨ellos⟩ son sacudidos, entonces han caído en ⟨la⟩ boca ⟨del⟩ que come",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todos"
+      "gloss": "Todos"
     },
     {
       "surface": "מבצריך",
-      "english": "⟨los⟩ fortalezas tuyas"
+      "gloss": "⟨los⟩ fortalezas tuyas"
     },
     {
       "surface": "תאנים",
-      "english": "higueras"
+      "gloss": "higueras"
     },
     {
       "surface": "עם",
-      "english": "con ⟨los⟩"
+      "gloss": "con ⟨los⟩"
     },
     {
       "surface": "בכורים",
-      "english": "primeros frutos"
+      "gloss": "primeros frutos"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "ינועו",
-      "english": "⟨ellos⟩ son sacudidos"
+      "gloss": "⟨ellos⟩ son sacudidos"
     },
     {
       "surface": "ונפלו",
-      "english": "entonces han caído"
+      "gloss": "entonces han caído"
     },
     {
       "surface": "על",
-      "english": "en ⟨la⟩"
+      "gloss": "en ⟨la⟩"
     },
     {
       "surface": "פי",
-      "english": "boca ⟨del⟩"
+      "gloss": "boca ⟨del⟩"
     },
     {
       "surface": "אוכל",
-      "english": "que come"
+      "gloss": "que come"
     }
-  ],
-  "timestamp": "2026-06-10T00:24:39.502515870Z",
-  "model": "glm-4.5"
+  ]
 }

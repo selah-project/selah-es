@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 69:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69895,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70228
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:58.153284328Z",
   "translation": "⟨You have⟩ drawn near ⟨to⟩ my soul and redeemed ⟨it⟩; ransom me because of ⟨my⟩ enemies.",
   "tokens": [
     {
       "surface": "קרבה",
-      "english": "Drawn near"
+      "gloss": "Drawn near"
     },
     {
       "surface": "אל",
-      "english": "to"
+      "gloss": "to"
     },
     {
       "surface": "נפשי",
-      "english": "my soul"
+      "gloss": "my soul"
     },
     {
       "surface": "גאלה",
-      "english": "redeemed"
+      "gloss": "redeemed"
     },
     {
       "surface": "למען",
-      "english": "because of"
+      "gloss": "because of"
     },
     {
       "surface": "איבי",
-      "english": "my enemies"
+      "gloss": "my enemies"
     },
     {
       "surface": "פדני",
-      "english": "ransom me"
+      "gloss": "ransom me"
     }
-  ],
-  "timestamp": "2026-06-09T23:31:58.153284328Z",
-  "model": "glm-4.5"
+  ]
 }

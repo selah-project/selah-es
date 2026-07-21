@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 9:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 344,
-    "prompt_tokens": 26240,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26584
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:23:31.920192047Z",
   "translation": "Una palabra ⟨ha⟩ enviado Adonai en Yaakov, y caerá en Yisrael",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "Una palabra"
+      "gloss": "Una palabra"
     },
     {
       "surface": "שלח",
-      "english": "enviado"
+      "gloss": "enviado"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "ביעקב",
-      "english": "en Yaakov"
+      "gloss": "en Yaakov"
     },
     {
       "surface": "ונפל",
-      "english": "y caerá"
+      "gloss": "y caerá"
     },
     {
       "surface": "בישראל",
-      "english": "en Yisrael"
+      "gloss": "en Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T21:23:31.920192047Z",
-  "model": "glm-4.5"
+  ]
 }

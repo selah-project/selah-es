@@ -1,83 +1,75 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "numbers 35:30",
   "book": "numbers",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 509,
-    "prompt_tokens": 25774,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 26283
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:39:39.205890987Z",
   "translation": "Todo el que hiera ⟨את⟩ nefesh por boca de testigos, matará ⟨את⟩ el asesino; pero un solo testigo no responderá sobre nefesh para morir.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo el que"
+      "gloss": "Todo el que"
     },
     {
       "surface": "מכה",
-      "english": "hiere"
+      "gloss": "hiere"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "nefesh"
     },
     {
       "surface": "נפש",
-      "english": "nefesh"
+      "gloss": "nefesh"
     },
     {
       "surface": "לפי",
-      "english": "por boca de"
+      "gloss": "por boca de"
     },
     {
       "surface": "עדים",
-      "english": "testigos"
+      "gloss": "testigos"
     },
     {
       "surface": "ירצח",
-      "english": "matará"
+      "gloss": "matará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el asesino"
     },
     {
       "surface": "הרצח",
-      "english": "el asesino"
+      "gloss": "el asesino"
     },
     {
       "surface": "ועד",
-      "english": "pero"
+      "gloss": "pero"
     },
     {
       "surface": "אחד",
-      "english": "un solo"
+      "gloss": "un solo"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יענה",
-      "english": "responderá"
+      "gloss": "responderá"
     },
     {
       "surface": "בנפש",
-      "english": "sobre nefesh"
+      "gloss": "sobre nefesh"
     },
     {
       "surface": "למות",
-      "english": "para morir"
+      "gloss": "para morir"
     }
-  ],
-  "timestamp": "2026-07-17T00:39:39.205890987Z",
-  "model": "glm-4.5"
+  ]
 }

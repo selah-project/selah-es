@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 44:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 424,
-    "prompt_tokens": 70087,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70511
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:17.619205640Z",
   "translation": "¿⟨No⟩ escudriñará Elohim esto? porque ⟨él⟩ conoce ⟨los⟩ secretos del corazón.",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "¿⟨No⟩"
+      "gloss": "¿⟨No⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יחקר",
-      "english": "escudriñará"
+      "gloss": "escudriñará"
     },
     {
       "surface": "זאת",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "הוא",
-      "english": "⟨él⟩"
+      "gloss": "⟨él⟩"
     },
     {
       "surface": "ידע",
-      "english": "conoce"
+      "gloss": "conoce"
     },
     {
       "surface": "תעלמות",
-      "english": "⟨los⟩ secretos"
+      "gloss": "⟨los⟩ secretos"
     },
     {
       "surface": "לב",
-      "english": "del corazón"
+      "gloss": "del corazón"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:17.619205640Z",
-  "model": "glm-4.5"
+  ]
 }

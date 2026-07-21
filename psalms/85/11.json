@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 85:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 321,
-    "prompt_tokens": 69929,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70250
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:04.433829903Z",
   "translation": "Jésed y emet se han encontrado, tzédak y shalom se han besado.",
   "tokens": [
     {
       "surface": "חסד",
-      "english": "Jésed"
+      "gloss": "Jésed"
     },
     {
       "surface": "ואמת",
-      "english": "y emet"
+      "gloss": "y emet"
     },
     {
       "surface": "נפגשו",
-      "english": "se han encontrado"
+      "gloss": "se han encontrado"
     },
     {
       "surface": "צדק",
-      "english": "tzédak"
+      "gloss": "tzédak"
     },
     {
       "surface": "ושלום",
-      "english": "y shalom"
+      "gloss": "y shalom"
     },
     {
       "surface": "נשקו",
-      "english": "se han besado"
+      "gloss": "se han besado"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:04.433829903Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 24:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59801,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60239
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:46:17.876215035Z",
   "translation": "No ⟨estés⟩ celoso ⟨de⟩ los hombres malos, ni ⟨te⟩ desees ⟨de⟩ estar ⟨con⟩ ⟨ellos⟩",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תקנא",
-      "english": "⟨estés⟩ celoso"
+      "gloss": "⟨estés⟩ celoso"
     },
     {
       "surface": "באנשי",
-      "english": "⟨de⟩ los hombres"
+      "gloss": "⟨de⟩ los hombres"
     },
     {
       "surface": "רעה",
-      "english": "malos"
+      "gloss": "malos"
     },
     {
       "surface": "ואל",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "תתאו",
-      "english": "⟨te⟩ desees"
+      "gloss": "⟨te⟩ desees"
     },
     {
       "surface": "להיות",
-      "english": "⟨de⟩ estar"
+      "gloss": "⟨de⟩ estar"
     },
     {
       "surface": "אתם",
-      "english": "⟨con⟩ ⟨ellos⟩",
+      "gloss": "⟨con⟩ ⟨ellos⟩",
       "marks": "los hombres malos"
     }
-  ],
-  "timestamp": "2026-06-10T01:46:17.876215035Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 21:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 334,
-    "prompt_tokens": 69801,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70135
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:52.294105504Z",
   "translation": "Ensálzate, YHWH, en tu fuerza; y cantaremos y entonaremos tu poder.",
   "tokens": [
     {
       "surface": "רומה",
-      "english": "Ensálzate"
+      "gloss": "Ensálzate"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בעזך",
-      "english": "en tu fuerza"
+      "gloss": "en tu fuerza"
     },
     {
       "surface": "נשירה",
-      "english": "y cantaremos"
+      "gloss": "y cantaremos"
     },
     {
       "surface": "ונזמרה",
-      "english": "y entonaremos"
+      "gloss": "y entonaremos"
     },
     {
       "surface": "גבורתך",
-      "english": "tu poder"
+      "gloss": "tu poder"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:52.294105504Z",
-  "model": "glm-4.5"
+  ]
 }

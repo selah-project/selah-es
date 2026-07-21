@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 85,
   "ref": "psalms 119:85",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69802,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70200
-  },
+  "verse": 85,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:38.105398111Z",
   "translation": "⟨The⟩ arrogant ⟨have⟩ dug pits for me ⟨which are⟩ not according to ⟨the⟩ instruction ⟨of⟩ you",
   "tokens": [
     {
       "surface": "כרו",
-      "english": "⟨Have⟩ dug",
+      "gloss": "⟨Have⟩ dug",
       "marks": "pits"
     },
     {
       "surface": "לי",
-      "english": "for me"
+      "gloss": "for me"
     },
     {
       "surface": "זדים",
-      "english": "⟨The⟩ arrogant"
+      "gloss": "⟨The⟩ arrogant"
     },
     {
       "surface": "שיחות",
-      "english": "pits"
+      "gloss": "pits"
     },
     {
       "surface": "אשר",
-      "english": "⟨which are⟩"
+      "gloss": "⟨which are⟩"
     },
     {
       "surface": "לא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "כתורתך",
-      "english": "according to ⟨the⟩ instruction ⟨of⟩ you"
+      "gloss": "according to ⟨the⟩ instruction ⟨of⟩ you"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:38.105398111Z",
-  "model": "glm-4.5"
+  ]
 }

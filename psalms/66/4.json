@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 66:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 359,
-    "prompt_tokens": 70154,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70513
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:32:41.034497986Z",
   "translation": "Toda la tierra se prosternará ante ti y cantará para ti, cantarán ⟨a⟩ tu Nombre. Selah",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Toda"
+      "gloss": "Toda"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "ישתחוו",
-      "english": "se prosternará"
+      "gloss": "se prosternará"
     },
     {
       "surface": "לך",
-      "english": "ante ti"
+      "gloss": "ante ti"
     },
     {
       "surface": "ויזמרו",
-      "english": "y cantará"
+      "gloss": "y cantará"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "יזמרו",
-      "english": "cantarán"
+      "gloss": "cantarán"
     },
     {
       "surface": "שמך",
-      "english": "⟨a⟩ tu Nombre"
+      "gloss": "⟨a⟩ tu Nombre"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-07-16T23:32:41.034497986Z",
-  "model": "glm-4.5"
+  ]
 }

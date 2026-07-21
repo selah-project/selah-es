@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "joel 2:9",
   "book": "joel",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23585,
-    "prompt_tokens_details": {
-      "cached_tokens": 22276
-    },
-    "total_tokens": 24022
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:27:08.438165809Z",
   "translation": "En ⟨la⟩ ciudad correrán a ⟨la⟩ muralla ⟨irán⟩ corriendo ⟨en⟩ ⟨las⟩ casas subirán ⟨por⟩ ⟨las⟩ ventanas entrarán como ladrón",
   "tokens": [
     {
       "surface": "בעיר",
-      "english": "En ⟨la⟩ ciudad"
+      "gloss": "En ⟨la⟩ ciudad"
     },
     {
       "surface": "ישקו",
-      "english": "correrán"
+      "gloss": "correrán"
     },
     {
       "surface": "בחומה",
-      "english": "a ⟨la⟩ muralla"
+      "gloss": "a ⟨la⟩ muralla"
     },
     {
       "surface": "ירצון",
-      "english": "⟨irán⟩ corriendo"
+      "gloss": "⟨irán⟩ corriendo"
     },
     {
       "surface": "בבתים",
-      "english": "⟨en⟩ ⟨las⟩ casas"
+      "gloss": "⟨en⟩ ⟨las⟩ casas"
     },
     {
       "surface": "יעלו",
-      "english": "subirán"
+      "gloss": "subirán"
     },
     {
       "surface": "בעד",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "החלונים",
-      "english": "⟨las⟩ ventanas"
+      "gloss": "⟨las⟩ ventanas"
     },
     {
       "surface": "יבאו",
-      "english": "entrarán"
+      "gloss": "entrarán"
     },
     {
       "surface": "כגנב",
-      "english": "como ladrón"
+      "gloss": "como ladrón"
     }
-  ],
-  "timestamp": "2026-06-10T00:27:08.438165809Z",
-  "model": "glm-4.5"
+  ]
 }

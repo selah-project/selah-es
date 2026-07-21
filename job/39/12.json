@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 39:12",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27070,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27534
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:16:38.222650592Z",
   "translation": "¿⟨acaso⟩ confías ⟨en⟩ ⟨él⟩ ⟨את⟩ que ⟨él⟩ devolverá tu semilla ⟨את⟩ y ⟨a⟩ tu era ⟨él⟩ juntará?",
   "tokens": [
     {
       "surface": "התאמין",
-      "english": "⟨Acaso⟩ confías ⟨en⟩ ⟨él⟩"
+      "gloss": "⟨Acaso⟩ confías ⟨en⟩ ⟨él⟩"
     },
     {
       "surface": "בו",
-      "english": "⟨en⟩ ⟨él⟩"
+      "gloss": "⟨en⟩ ⟨él⟩"
     },
     {
       "surface": "כי",
-      "english": "⟨את⟩ que"
+      "gloss": "⟨את⟩ que"
     },
     {
       "surface": "ישוב",
-      "english": "⟨él⟩ devolverá"
+      "gloss": "⟨él⟩ devolverá"
     },
     {
       "surface": "זרעך",
-      "english": "tu semilla ⟨את⟩"
+      "gloss": "tu semilla ⟨את⟩"
     },
     {
       "surface": "וגרנך",
-      "english": "⟨y⟩ ⟨a⟩ tu era"
+      "gloss": "⟨y⟩ ⟨a⟩ tu era"
     },
     {
       "surface": "יאסף",
-      "english": "⟨él⟩ juntará"
+      "gloss": "⟨él⟩ juntará"
     }
-  ],
-  "timestamp": "2026-06-10T02:16:38.222650592Z",
-  "model": "glm-4.5"
+  ]
 }

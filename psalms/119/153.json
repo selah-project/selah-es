@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 153,
   "ref": "psalms 119:153",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69875,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70253
-  },
+  "verse": 153,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:25.370208098Z",
   "translation": "Mira ⟨mi⟩ aflicción y rescátame ⟨את⟩; porque no ⟨he⟩ olvidado tu Torá.",
   "tokens": [
     {
       "surface": "ראה",
-      "english": "Mira"
+      "gloss": "Mira"
     },
     {
       "surface": "עניי",
-      "english": "⟨mi⟩ aflicción"
+      "gloss": "⟨mi⟩ aflicción"
     },
     {
       "surface": "וחלצני",
-      "english": "y rescátame"
+      "gloss": "y rescátame"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "תורתך",
-      "english": "tu Torá"
+      "gloss": "tu Torá"
     },
     {
       "surface": "לא",
-      "english": "no ⟨he⟩"
+      "gloss": "no ⟨he⟩"
     },
     {
       "surface": "שכחתי",
-      "english": "olvidado"
+      "gloss": "olvidado"
     }
-  ],
-  "timestamp": "2026-06-10T00:02:25.370208098Z",
-  "model": "glm-4.5"
+  ]
 }

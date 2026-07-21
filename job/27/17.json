@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "job 27:17",
   "book": "job",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27001,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27334
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:07:30.387163555Z",
   "translation": "Él prepara ⟨y⟩ ⟨el⟩ justo ⟨se⟩ vistirá, ⟨y⟩ ⟨la⟩ plata inocente ⟨se⟩ repartirá.",
   "tokens": [
     {
       "surface": "יכין",
-      "english": "Él prepara"
+      "gloss": "Él prepara"
     },
     {
       "surface": "וצדיק",
-      "english": "⟨y⟩ ⟨el⟩ justo"
+      "gloss": "⟨y⟩ ⟨el⟩ justo"
     },
     {
       "surface": "ילבש",
-      "english": "⟨se⟩ vistirá"
+      "gloss": "⟨se⟩ vistirá"
     },
     {
       "surface": "וכסף",
-      "english": "⟨y⟩ ⟨la⟩ plata"
+      "gloss": "⟨y⟩ ⟨la⟩ plata"
     },
     {
       "surface": "נקי",
-      "english": "inocente"
+      "gloss": "inocente"
     },
     {
       "surface": "יחלק",
-      "english": "⟨se⟩ repartirá"
+      "gloss": "⟨se⟩ repartirá"
     }
-  ],
-  "timestamp": "2026-06-10T02:07:30.387163555Z",
-  "model": "glm-4.5"
+  ]
 }

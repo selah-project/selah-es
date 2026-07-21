@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 13:6",
   "book": "job",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26958,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27332
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:00:19.833338012Z",
   "translation": "Oíd ⟨ahora⟩ mi ⟨razonamiento⟩ y ⟨a⟩ las súplicas de mis labios ⟨atended⟩",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "Oíd"
+      "gloss": "Oíd"
     },
     {
       "surface": "נא",
-      "english": "⟨ahora⟩"
+      "gloss": "⟨ahora⟩"
     },
     {
       "surface": "תוכחתי",
-      "english": "mi ⟨razonamiento⟩"
+      "gloss": "mi ⟨razonamiento⟩"
     },
     {
       "surface": "ורבות",
-      "english": "y ⟨a⟩"
+      "gloss": "y ⟨a⟩"
     },
     {
       "surface": "שפתי",
-      "english": "las súplicas de mis labios"
+      "gloss": "las súplicas de mis labios"
     },
     {
       "surface": "הקשיבו",
-      "english": "⟨atended⟩"
+      "gloss": "⟨atended⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:00:19.833338012Z",
-  "model": "glm-4.5"
+  ]
 }

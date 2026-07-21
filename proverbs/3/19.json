@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "proverbs 3:19",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59835,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60190
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:30:00.623280447Z",
   "translation": "YHWH ⟨en⟩ sabiduría fundó ⟨la⟩ tierra, ⟨El⟩ estableció ⟨los⟩ cielos ⟨con⟩ entendimiento.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בחכמה",
-      "english": "⟨en⟩ sabiduría"
+      "gloss": "⟨en⟩ sabiduría"
     },
     {
       "surface": "יסד",
-      "english": "fundó"
+      "gloss": "fundó"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "כונן",
-      "english": "⟨El⟩ estableció"
+      "gloss": "⟨El⟩ estableció"
     },
     {
       "surface": "שמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "בתבונה",
-      "english": "⟨con⟩ entendimiento"
+      "gloss": "⟨con⟩ entendimiento"
     }
-  ],
-  "timestamp": "2026-06-10T01:30:00.623280447Z",
-  "model": "glm-4.5"
+  ]
 }

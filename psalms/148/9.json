@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 148:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69783,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70083
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:10.490542086Z",
   "translation": "Los montes y todas las colinas, árboles frutales ⟨y⟩ todos los cedros",
   "tokens": [
     {
       "surface": "ההרים",
-      "english": "Los montes"
+      "gloss": "Los montes"
     },
     {
       "surface": "וכל",
-      "english": "y todas"
+      "gloss": "y todas"
     },
     {
       "surface": "גבעות",
-      "english": "colinas"
+      "gloss": "colinas"
     },
     {
       "surface": "עץ",
-      "english": "árboles frutales"
+      "gloss": "árboles frutales"
     },
     {
       "surface": "פרי",
-      "english": "⟨y⟩"
+      "gloss": "⟨y⟩"
     },
     {
       "surface": "וכל",
-      "english": "y todos"
+      "gloss": "y todos"
     },
     {
       "surface": "ארזים",
-      "english": "cedros"
+      "gloss": "cedros"
     }
-  ],
-  "timestamp": "2026-06-10T00:12:10.490542086Z",
-  "model": "glm-4.5"
+  ]
 }

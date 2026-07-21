@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 102:26",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 345,
-    "prompt_tokens": 69949,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70294
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:06.411650982Z",
   "translation": "Desde antiguo fundaste ⟨la⟩ tierra, y ⟨los⟩ cielos son ⟨la⟩ obra de tus manos",
   "tokens": [
     {
       "surface": "לפנים",
-      "english": "Desde antiguo"
+      "gloss": "Desde antiguo"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "יסדת",
-      "english": "fundaste"
+      "gloss": "fundaste"
     },
     {
       "surface": "ומעשה",
-      "english": "y ⟨la⟩ obra"
+      "gloss": "y ⟨la⟩ obra"
     },
     {
       "surface": "ידיך",
-      "english": "de tus manos"
+      "gloss": "de tus manos"
     },
     {
       "surface": "שמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:06.411650982Z",
-  "model": "glm-4.5"
+  ]
 }

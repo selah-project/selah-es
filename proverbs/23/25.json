@@ -1,47 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 23:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59700,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60029
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:46:54.622087080Z",
   "translation": "Se alegrará tu padre ⟨y⟩ tu madre ⟨y⟩ se gozará ⟨la⟩ que ⟨te⟩ dio ⟨a luz⟩",
   "tokens": [
     {
       "surface": "ישמח",
-      "english": "Se alegrará"
+      "gloss": "Se alegrará"
     },
     {
       "surface": "אביך",
-      "english": "tu padre"
+      "gloss": "tu padre"
     },
     {
       "surface": "ואמך",
-      "english": "⟨y⟩ tu madre",
+      "gloss": "⟨y⟩ tu madre",
       "marks": "conjunction"
     },
     {
       "surface": "ותגל",
-      "english": "⟨y⟩ se gozará",
+      "gloss": "⟨y⟩ se gozará",
       "marks": "conjunction"
     },
     {
       "surface": "יולדתך",
-      "english": "⟨la⟩ que ⟨te⟩ dio ⟨a luz⟩",
+      "gloss": "⟨la⟩ que ⟨te⟩ dio ⟨a luz⟩",
       "marks": "she that bore thee"
     }
-  ],
-  "timestamp": "2026-06-10T01:46:54.622087080Z",
-  "model": "glm-4.5"
+  ]
 }

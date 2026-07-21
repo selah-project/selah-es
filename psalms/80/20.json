@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 80:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 325,
-    "prompt_tokens": 69847,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70172
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:00.203794474Z",
   "translation": "YHWH Elohim Tzevaot, hazévenu; haér panéja venivashéa.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "השיבנו",
-      "english": "hazévenu"
+      "gloss": "hazévenu"
     },
     {
       "surface": "האר",
-      "english": "haér"
+      "gloss": "haér"
     },
     {
       "surface": "פניך",
-      "english": "panéja"
+      "gloss": "panéja"
     },
     {
       "surface": "ונושעה",
-      "english": "venivashéa"
+      "gloss": "venivashéa"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:00.203794474Z",
-  "model": "glm-4.5"
+  ]
 }

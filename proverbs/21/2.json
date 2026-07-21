@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 21:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59906,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60342
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:00.478181174Z",
   "translation": "Todo camino ⟨del⟩ hombre ⟨es⟩ recto ⟨en⟩ sus propios ojos, ⟨pero⟩ YHWH ⟨pesa⟩ ⟨los⟩ corazones",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "דרך",
-      "english": "camino ⟨del⟩"
+      "gloss": "camino ⟨del⟩"
     },
     {
       "surface": "איש",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "ישר",
-      "english": "⟨es⟩ recto"
+      "gloss": "⟨es⟩ recto"
     },
     {
       "surface": "בעיניו",
-      "english": "⟨en⟩ sus propios ojos"
+      "gloss": "⟨en⟩ sus propios ojos"
     },
     {
       "surface": "ותכן",
-      "english": "⟨pero⟩"
+      "gloss": "⟨pero⟩"
     },
     {
       "surface": "לבות",
-      "english": "⟨los⟩ corazones"
+      "gloss": "⟨los⟩ corazones"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH ⟨pesa⟩"
+      "gloss": "YHWH ⟨pesa⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:00.478181174Z",
-  "model": "glm-4.5"
+  ]
 }

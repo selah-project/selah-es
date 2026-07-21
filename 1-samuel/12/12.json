@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-samuel 12:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 12,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:54:48.666921407Z",
+  "translation": "Y visteis que Nachash, rey de ⟨los⟩ hijos de Ammón, venía contra vosotros; y dijisteis a mí: No, ⟨sino⟩ que un rey reinará sobre nosotros, ⟨cuando⟩ YHWH vuestro Elohim ⟨era⟩ vuestro rey.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "Y visteis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammón"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venía"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "contra vosotros"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "y dijisteis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "No"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨sino⟩ que"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un rey"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "reinará"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sobre nosotros"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vuestro Elohim"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "vuestro rey"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amón",
@@ -13,96 +92,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 588,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17084,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17672
-  },
-  "translation": "Y visteis que Nachash, rey de ⟨los⟩ hijos de Ammón, venía contra vosotros; y dijisteis a mí: No, ⟨sino⟩ que un rey reinará sobre nosotros, ⟨cuando⟩ YHWH vuestro Elohim ⟨era⟩ vuestro rey.",
-  "tokens": [
-    {
-      "surface": "ותראו",
-      "english": "Y visteis"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "נחש",
-      "english": "Nachash"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammón"
-    },
-    {
-      "surface": "בא",
-      "english": "venía"
-    },
-    {
-      "surface": "עליכם",
-      "english": "contra vosotros"
-    },
-    {
-      "surface": "ותאמרו",
-      "english": "y dijisteis"
-    },
-    {
-      "surface": "לי",
-      "english": "a mí"
-    },
-    {
-      "surface": "לא",
-      "english": "No"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨sino⟩ que"
-    },
-    {
-      "surface": "מלך",
-      "english": "un rey"
-    },
-    {
-      "surface": "ימלך",
-      "english": "reinará"
-    },
-    {
-      "surface": "עלינו",
-      "english": "sobre nosotros"
-    },
-    {
-      "surface": "ויהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיכם",
-      "english": "vuestro Elohim"
-    },
-    {
-      "surface": "מלככם",
-      "english": "vuestro rey"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:54:48.666921407Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

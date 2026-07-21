@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 77:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69877,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70419
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:00.534429896Z",
   "translation": "⟨I⟩ will remember ⟨the⟩ acts of YHWH; for ⟨I⟩ will remember ⟨the⟩ wonders of old, Your miracle.",
   "tokens": [
     {
       "surface": "אזכיר",
-      "english": "⟨I⟩ will remember",
+      "gloss": "⟨I⟩ will remember",
       "rationale": "The verb form implies 'I will remember'; English requires pronoun."
     },
     {
       "surface": "מעללי",
-      "english": "⟨the⟩ acts",
+      "gloss": "⟨the⟩ acts",
       "rationale": "Literally 'acts' or 'deeds'; Hebrew lacks definite article, so added."
     },
     {
       "surface": "יה",
-      "english": "of YHWH",
+      "gloss": "of YHWH",
       "rationale": "Shortened form of the sacred name; rendered as YHWH."
     },
     {
       "surface": "כי",
-      "english": "for",
+      "gloss": "for",
       "rationale": "Conjunction indicating causal or explanatory relationship."
     },
     {
       "surface": "אזכרה",
-      "english": "⟨I⟩ will remember",
+      "gloss": "⟨I⟩ will remember",
       "rationale": "Repeated verb form; English requires pronoun."
     },
     {
       "surface": "מקדם",
-      "english": "of old",
+      "gloss": "of old",
       "rationale": "Adverb meaning 'from of old' or 'formerly'."
     },
     {
       "surface": "פלאך",
-      "english": "Your miracle",
+      "gloss": "Your miracle",
       "rationale": "Literally 'Your wonder\/act'; context suggests 'miracle' fits best."
     }
-  ],
-  "timestamp": "2026-06-09T23:36:00.534429896Z",
-  "model": "glm-4.5"
+  ]
 }

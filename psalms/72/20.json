@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 72:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69624,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70056
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:48.485794967Z",
   "translation": "concluyen las oraciones de ⟨el⟩ David ⟨hijo⟩ ⟨de⟩ Yesai",
   "tokens": [
     {
       "surface": "כלו",
-      "english": "Concluyen",
+      "gloss": "Concluyen",
       "rationale": "The root כלה means to end, finish, or be completed; here in the כלו form indicating the prayers are finished\/concluded"
     },
     {
       "surface": "תפלות",
-      "english": "las oraciones",
+      "gloss": "las oraciones",
       "rationale": "From תפלה (prayer), here in plural construct form meaning 'prayers of'"
     },
     {
       "surface": "דוד",
-      "english": "David",
+      "gloss": "David",
       "rationale": "Canonical name for David"
     },
     {
       "surface": "בן",
-      "english": "⟨hijo⟩",
+      "gloss": "⟨hijo⟩",
       "rationale": "The Hebrew בן (son) is omitted in English when it's part of a patronymic construction"
     },
     {
       "surface": "ישי",
-      "english": "Yesai",
+      "gloss": "Yesai",
       "rationale": "Canonical form for Jesse, David's father"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:48.485794967Z",
-  "model": "glm-4.5"
+  ]
 }

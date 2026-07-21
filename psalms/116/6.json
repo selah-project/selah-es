@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 116:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 789,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69797,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70586
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:43.096183078Z",
   "translation": "El que guarda ⟨a los⟩ simples ⟨es⟩ YHWH; yo fui humillado ⟨y⟩ él me salvó.",
   "tokens": [
     {
       "surface": "שמר",
-      "english": "El que guarda",
+      "gloss": "El que guarda",
       "lemma": "8104",
       "gv": 540,
       "freq": 67,
@@ -30,7 +21,7 @@
     },
     {
       "surface": "פתאים",
-      "english": "⟨a los⟩ simples",
+      "gloss": "⟨a los⟩ simples",
       "lemma": "6612",
       "gv": 531,
       "freq": 5,
@@ -40,7 +31,7 @@
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "lemma": "3068",
       "gv": 26,
       "freq": 6007,
@@ -50,7 +41,7 @@
     },
     {
       "surface": "דלותי",
-      "english": "yo fui humillado",
+      "gloss": "yo fui humillado",
       "lemma": "1809",
       "gv": 450,
       "freq": 2,
@@ -60,7 +51,7 @@
     },
     {
       "surface": "ולי",
-      "english": "⟨y⟩",
+      "gloss": "⟨y⟩",
       "lemma": "c\/l",
       "gv": 46,
       "freq": 8,
@@ -70,7 +61,7 @@
     },
     {
       "surface": "יהושיע",
-      "english": "él me salvó",
+      "gloss": "él me salvó",
       "lemma": "3467",
       "gv": 401,
       "freq": 2,
@@ -78,7 +69,5 @@
       "anagram_room": "הוייעש",
       "room_members": 3
     }
-  ],
-  "timestamp": "2026-06-09T23:57:43.096183078Z",
-  "model": "glm-4.5"
+  ]
 }

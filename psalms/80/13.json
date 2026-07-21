@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 80:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69932,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70415
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T06:34:37.030738217Z",
   "translation": "¿Por qué ⟨has⟩ derribado ⟨sus⟩ vallados, ⟨y⟩ ⟨la⟩ ⟨todo⟩ ⟨el que⟩ pasa ⟨por el⟩ camino ⟨la⟩ saquea?",
   "tokens": [
     {
       "surface": "למה",
-      "english": "¿Por qué"
+      "gloss": "¿Por qué"
     },
     {
       "surface": "פרצת",
-      "english": "⟨has⟩ derribado"
+      "gloss": "⟨has⟩ derribado"
     },
     {
       "surface": "גדריה",
-      "english": "⟨sus⟩ vallados"
+      "gloss": "⟨sus⟩ vallados"
     },
     {
       "surface": "וארוה",
-      "english": "⟨y⟩ ⟨la⟩"
+      "gloss": "⟨y⟩ ⟨la⟩"
     },
     {
       "surface": "כל",
-      "english": "⟨todo⟩"
+      "gloss": "⟨todo⟩"
     },
     {
       "surface": "עברי",
-      "english": "⟨el que⟩ pasa"
+      "gloss": "⟨el que⟩ pasa"
     },
     {
       "surface": "דרך",
-      "english": "⟨por el⟩ camino ⟨la⟩ saquea"
+      "gloss": "⟨por el⟩ camino ⟨la⟩ saquea"
     }
-  ],
-  "timestamp": "2026-06-10T06:34:37.030738217Z",
-  "model": "glm-4.5"
+  ]
 }

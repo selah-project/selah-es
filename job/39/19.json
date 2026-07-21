@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "job 39:19",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26993,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27519
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:17:21.012471487Z",
   "translation": "¿⟨le das⟩ al caballo ⟨el⟩ poder? ¿⟨le vistes⟩ su cuello ⟨con⟩ ⟨una⟩ crin?",
   "tokens": [
     {
       "surface": "התתן",
-      "english": "¿⟨Le das⟩",
+      "gloss": "¿⟨Le das⟩",
       "marks": "al caballo ⟨el⟩ poder"
     },
     {
       "surface": "לסוס",
-      "english": "al caballo",
+      "gloss": "al caballo",
       "marks": ""
     },
     {
       "surface": "גבורה",
-      "english": "⟨el⟩ poder",
+      "gloss": "⟨el⟩ poder",
       "marks": ""
     },
     {
       "surface": "התלביש",
-      "english": "¿⟨le vistes⟩",
+      "gloss": "¿⟨le vistes⟩",
       "marks": "su cuello ⟨con⟩ ⟨una⟩ crin"
     },
     {
       "surface": "צוארו",
-      "english": "su cuello",
+      "gloss": "su cuello",
       "marks": ""
     },
     {
       "surface": "רעמה",
-      "english": "⟨una⟩ crin",
+      "gloss": "⟨una⟩ crin",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T02:17:21.012471487Z",
-  "model": "glm-4.5"
+  ]
 }

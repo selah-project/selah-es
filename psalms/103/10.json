@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 103:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69976,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70491
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:49:54.127938022Z",
   "translation": "No ⟨ha hecho⟩ ⟨con⟩ nosotros según nuestras transgresiones, ni ⟨ha recompensado⟩ ⟨sobre⟩ nosotros según nuestras iniquidades.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "כחטאינו",
-      "english": "según nuestras transgresiones"
+      "gloss": "según nuestras transgresiones"
     },
     {
       "surface": "עשה",
-      "english": "⟨ha hecho⟩"
+      "gloss": "⟨ha hecho⟩"
     },
     {
       "surface": "לנו",
-      "english": "⟨con⟩ nosotros"
+      "gloss": "⟨con⟩ nosotros"
     },
     {
       "surface": "ולא",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "כעונתינו",
-      "english": "según nuestras iniquidades"
+      "gloss": "según nuestras iniquidades"
     },
     {
       "surface": "גמל",
-      "english": "⟨ha recompensado⟩"
+      "gloss": "⟨ha recompensado⟩"
     },
     {
       "surface": "עלינו",
-      "english": "⟨sobre⟩ nosotros"
+      "gloss": "⟨sobre⟩ nosotros"
     }
-  ],
-  "timestamp": "2026-06-09T23:49:54.127938022Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "habakkuk 1:7",
   "book": "habakkuk",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28343,
-    "prompt_tokens_details": {
-      "cached_tokens": 27359
-    },
-    "total_tokens": 28764
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:33:34.444676379Z",
   "translation": "Temible y temido ⟨es⟩ ⟨את⟩; ⟨desde⟩ ⟨él⟩ su pronunciamiento y ⟨su⟩ majestuosidad saldrán",
   "tokens": [
     {
       "surface": "אים",
-      "english": "Temible"
+      "gloss": "Temible"
     },
     {
       "surface": "ונורא",
-      "english": "y temido"
+      "gloss": "y temido"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "ממנו",
-      "english": "⟨desde⟩ ⟨él⟩"
+      "gloss": "⟨desde⟩ ⟨él⟩"
     },
     {
       "surface": "משפטו",
-      "english": "su pronunciamiento"
+      "gloss": "su pronunciamiento"
     },
     {
       "surface": "ושאתו",
-      "english": "⟨su⟩ majestuosidad",
+      "gloss": "⟨su⟩ majestuosidad",
       "marks": "majestuosidad"
     },
     {
       "surface": "יצא",
-      "english": "saldrán"
+      "gloss": "saldrán"
     }
-  ],
-  "timestamp": "2026-06-09T22:33:34.444676379Z",
-  "model": "glm-4.5"
+  ]
 }

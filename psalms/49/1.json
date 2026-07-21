@@ -1,43 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 49:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69609,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69930
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:21:26.716739829Z",
   "translation": "⟨al⟩ director ⟨de⟩ ⟨los⟩ hijos ⟨de⟩ Coré un salmo",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Al⟩ director",
+      "gloss": "⟨Al⟩ director",
       "marks": "director"
     },
     {
       "surface": "לבני",
-      "english": "⟨de⟩ ⟨los⟩ hijos",
+      "gloss": "⟨de⟩ ⟨los⟩ hijos",
       "marks": "hijos"
     },
     {
       "surface": "קרח",
-      "english": "⟨de⟩ Coré",
+      "gloss": "⟨de⟩ Coré",
       "marks": "Coré"
     },
     {
       "surface": "מזמור",
-      "english": "un salmo"
+      "gloss": "un salmo"
     }
-  ],
-  "timestamp": "2026-06-09T23:21:26.716739829Z",
-  "model": "glm-4.5"
+  ]
 }

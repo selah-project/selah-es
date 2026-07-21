@@ -1,71 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 27:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 570,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26415,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26985
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:36:51.297616782Z",
   "translation": "Yo ⟨soy⟩ YHWH ⟨el⟩ que ⟨la⟩ guarda ⟨את⟩; momentáneamente ⟨la⟩ regaré ⟨את⟩ ⟨a⟩ ella, no ⟨sea⟩ que ⟨la⟩ visite ⟨con⟩ castigo noche y día ⟨la⟩ guardaré ⟨את⟩.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "נצרה",
-      "english": "⟨el⟩ que ⟨la⟩ guarda",
+      "gloss": "⟨el⟩ que ⟨la⟩ guarda",
       "marks": "ella (la viña)"
     },
     {
       "surface": "לרגעים",
-      "english": "momentáneamente"
+      "gloss": "momentáneamente"
     },
     {
       "surface": "אשקנה",
-      "english": "⟨la⟩ regaré",
+      "gloss": "⟨la⟩ regaré",
       "marks": "a ella (la viña)"
     },
     {
       "surface": "פן",
-      "english": "no ⟨sea⟩ que"
+      "gloss": "no ⟨sea⟩ que"
     },
     {
       "surface": "יפקד",
-      "english": "⟨la⟩ visite ⟨con⟩ castigo"
+      "gloss": "⟨la⟩ visite ⟨con⟩ castigo"
     },
     {
       "surface": "עליה",
-      "english": "a ella"
+      "gloss": "a ella"
     },
     {
       "surface": "לילה",
-      "english": "noche"
+      "gloss": "noche"
     },
     {
       "surface": "ויום",
-      "english": "y día"
+      "gloss": "y día"
     },
     {
       "surface": "אצרנה",
-      "english": "⟨la⟩ guardaré",
+      "gloss": "⟨la⟩ guardaré",
       "marks": "ella (la viña)"
     }
-  ],
-  "timestamp": "2026-06-10T02:36:51.297616782Z",
-  "model": "glm-4.5"
+  ]
 }

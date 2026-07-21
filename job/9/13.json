@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 9:13",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27094,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27577
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:03.939065681Z",
   "translation": "Elohim ⟨את⟩ no ⟨is⟩ devolviendo ⟨el⟩ furor de él; ⟨los⟩ ayudantes de Rahab se inclinan ⟨are⟩ bajo él",
   "tokens": [
     {
       "surface": "אלוה",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ישיב",
-      "english": "⟨está⟩ devolviendo"
+      "gloss": "⟨está⟩ devolviendo"
     },
     {
       "surface": "אפו",
-      "english": "⟨el⟩ furor de él",
+      "gloss": "⟨el⟩ furor de él",
       "marks": "⟨el⟩ furor de él"
     },
     {
       "surface": "תחתו",
-      "english": "bajo él"
+      "gloss": "bajo él"
     },
     {
       "surface": "שחחו",
-      "english": "se inclinan ⟨are⟩"
+      "gloss": "se inclinan ⟨are⟩"
     },
     {
       "surface": "עזרי",
-      "english": "⟨los⟩ ayudantes de"
+      "gloss": "⟨los⟩ ayudantes de"
     },
     {
       "surface": "רהב",
-      "english": "Rahab"
+      "gloss": "Rahab"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:03.939065681Z",
-  "model": "glm-4.5"
+  ]
 }

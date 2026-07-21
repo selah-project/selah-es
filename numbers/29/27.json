@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "numbers 29:27",
   "book": "numbers",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25130,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25535
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:03:52.767179771Z",
   "translation": "y su ofrenda de cereales ⟨es⟩ y sus libaciones para ⟨los⟩ toros para ⟨los⟩ carneros y para ⟨los⟩ corderos según su número ⟨de⟩ acuerdo ⟨con⟩ ⟨el⟩ juicio",
   "tokens": [
     {
       "surface": "ומנחתם",
-      "english": "Y su ofrenda de cereales"
+      "gloss": "Y su ofrenda de cereales"
     },
     {
       "surface": "ונסכיהם",
-      "english": "y sus libaciones"
+      "gloss": "y sus libaciones"
     },
     {
       "surface": "לפרים",
-      "english": "para los toros"
+      "gloss": "para los toros"
     },
     {
       "surface": "לאילם",
-      "english": "para los carneros"
+      "gloss": "para los carneros"
     },
     {
       "surface": "ולכבשים",
-      "english": "y para los corderos"
+      "gloss": "y para los corderos"
     },
     {
       "surface": "במספרם",
-      "english": "según su número"
+      "gloss": "según su número"
     },
     {
       "surface": "כמשפט",
-      "english": "de acuerdo con el juicio"
+      "gloss": "de acuerdo con el juicio"
     }
-  ],
-  "timestamp": "2026-06-10T05:03:52.767179771Z",
-  "model": "glm-4.5"
+  ]
 }

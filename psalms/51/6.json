@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 51:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 851,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70315,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71166
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:23:03.052517408Z",
   "translation": "A ti, a ti ⟨solo⟩ ⟨he⟩ pecado, y ⟨lo⟩ malo ⟨en⟩ tus ojos he hecho; para que ⟨tú⟩ ⟨seas⟩ justificado ⟨en⟩ tu palabra, ⟨tú⟩ ⟨seas⟩ puro ⟨en⟩ tu juicio",
   "tokens": [
     {
       "surface": "לך",
-      "english": "A ti"
+      "gloss": "A ti"
     },
     {
       "surface": "לבדך",
-      "english": "a ti ⟨solo⟩"
+      "gloss": "a ti ⟨solo⟩"
     },
     {
       "surface": "חטאתי",
-      "english": "⟨he⟩ pecado"
+      "gloss": "⟨he⟩ pecado"
     },
     {
       "surface": "והרע",
-      "english": "y ⟨lo⟩ malo"
+      "gloss": "y ⟨lo⟩ malo"
     },
     {
       "surface": "בעיניך",
-      "english": "⟨en⟩ tus ojos"
+      "gloss": "⟨en⟩ tus ojos"
     },
     {
       "surface": "עשיתי",
-      "english": "he hecho"
+      "gloss": "he hecho"
     },
     {
       "surface": "למען",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "תצדק",
-      "english": "⟨tú⟩ ⟨seas⟩ justificado"
+      "gloss": "⟨tú⟩ ⟨seas⟩ justificado"
     },
     {
       "surface": "בדברך",
-      "english": "⟨en⟩ tu palabra"
+      "gloss": "⟨en⟩ tu palabra"
     },
     {
       "surface": "תזכה",
-      "english": "⟨tú⟩ ⟨seas⟩ puro"
+      "gloss": "⟨tú⟩ ⟨seas⟩ puro"
     },
     {
       "surface": "בשפטך",
-      "english": "⟨en⟩ tu juicio"
+      "gloss": "⟨en⟩ tu juicio"
     }
-  ],
-  "timestamp": "2026-06-09T23:23:03.052517408Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "numbers 9:11",
   "book": "numbers",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 700,
-    "prompt_tokens": 25745,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26445
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:01:09.015531908Z",
   "translation": "En ⟨el⟩ mes segundo, a ⟨los⟩ catorce días, entre ⟨las⟩ tardes ⟨lo⟩ harán; sobre matzá y amargos ⟨lo⟩ comerán.",
   "tokens": [
     {
       "surface": "בחדש",
-      "english": "En ⟨el⟩ mes"
+      "gloss": "En ⟨el⟩ mes"
     },
     {
       "surface": "השני",
-      "english": "segundo"
+      "gloss": "segundo"
     },
     {
       "surface": "בארבעה",
-      "english": "a ⟨los⟩ catorce"
+      "gloss": "a ⟨los⟩ catorce"
     },
     {
       "surface": "עשר",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "יום",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "בין",
-      "english": "entre"
+      "gloss": "entre"
     },
     {
       "surface": "הערבים",
-      "english": "⟨las⟩ tardes"
+      "gloss": "⟨las⟩ tardes"
     },
     {
       "surface": "יעשו",
-      "english": "⟨lo⟩ harán"
+      "gloss": "⟨lo⟩ harán"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "על (sobre)"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מצות",
-      "english": "matzá"
+      "gloss": "matzá"
     },
     {
       "surface": "ומררים",
-      "english": "y amargos"
+      "gloss": "y amargos"
     },
     {
       "surface": "יאכלהו",
-      "english": "⟨lo⟩ comerán"
+      "gloss": "⟨lo⟩ comerán"
     }
-  ],
-  "timestamp": "2026-07-16T23:01:09.015531908Z",
-  "model": "glm-4.5"
+  ]
 }

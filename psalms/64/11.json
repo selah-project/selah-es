@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 64:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69866,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70295
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:20.602880447Z",
   "translation": "⟨El⟩ justo se alegrará ⟨en⟩ YHWH y confiará ⟨en⟩ él, y ⟨los⟩ de corazón recto se gloriarán",
   "tokens": [
     {
       "surface": "ישמח",
-      "english": "Se alegrará"
+      "gloss": "Se alegrará"
     },
     {
       "surface": "צדיק",
-      "english": "⟨El⟩ justo"
+      "gloss": "⟨El⟩ justo"
     },
     {
       "surface": "ביהוה",
-      "english": "⟨en⟩ YHWH"
+      "gloss": "⟨en⟩ YHWH"
     },
     {
       "surface": "וחסה",
-      "english": "y confiará"
+      "gloss": "y confiará"
     },
     {
       "surface": "בו",
-      "english": "⟨en⟩ él"
+      "gloss": "⟨en⟩ él"
     },
     {
       "surface": "ויתהללו",
-      "english": "se gloriarán"
+      "gloss": "se gloriarán"
     },
     {
       "surface": "כל",
-      "english": "⟨Los⟩"
+      "gloss": "⟨Los⟩"
     },
     {
       "surface": "ישרי",
-      "english": "de corazón recto"
+      "gloss": "de corazón recto"
     },
     {
       "surface": "לב",
-      "english": "corazón"
+      "gloss": "corazón"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:20.602880447Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-chronicles 5:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 5,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:04:33.163245039Z",
+  "translation": "Y los levitas, ⟨los⟩ cantores, todos ellos: a Asaf, a Hemán, a Yedutún, y a sus hijos y a sus hermanos, vestidos de lino fino, con címbalos y con nebelim y con kinnorot, estaban de pie ⟨al⟩ oriente ⟨del⟩ altar, y con ellos ciento veinte Kohens, ⟨que⟩ tocaban ⟨con⟩ trompetas.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "Y los levitas"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "⟨los⟩ cantores"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "todos ellos"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "a Asaf"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "a Hemán"
+    },
+    {
+      "surface": "לידתון",
+      "gloss": "a Yedutún"
+    },
+    {
+      "surface": "ולבניהם",
+      "gloss": "y a sus hijos"
+    },
+    {
+      "surface": "ולאחיהם",
+      "gloss": "y a sus hermanos"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "vestidos"
+    },
+    {
+      "surface": "בוץ",
+      "gloss": "de lino fino"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "con címbalos"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "y con nebelim"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "y con kinnorot"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "estaban de pie"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "⟨al⟩ oriente"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "⟨del⟩ altar"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "y con ellos"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "Kohens"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "ciento"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "veinte"
+    },
+    {
+      "surface": "מחצררים",
+      "gloss": "⟨que⟩ tocaban"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "⟨con⟩ trompetas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,112 +108,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 879,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59448,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60327
-  },
-  "translation": "Y los levitas, ⟨los⟩ cantores, todos ellos: a Asaf, a Hemán, a Yedutún, y a sus hijos y a sus hermanos, vestidos de lino fino, con címbalos y con nebelim y con kinnorot, estaban de pie ⟨al⟩ oriente ⟨del⟩ altar, y con ellos ciento veinte Kohens, ⟨que⟩ tocaban ⟨con⟩ trompetas.",
-  "tokens": [
-    {
-      "surface": "והלוים",
-      "english": "Y los levitas"
-    },
-    {
-      "surface": "המשררים",
-      "english": "⟨los⟩ cantores"
-    },
-    {
-      "surface": "לכלם",
-      "english": "todos ellos"
-    },
-    {
-      "surface": "לאסף",
-      "english": "a Asaf"
-    },
-    {
-      "surface": "להימן",
-      "english": "a Hemán"
-    },
-    {
-      "surface": "לידתון",
-      "english": "a Yedutún"
-    },
-    {
-      "surface": "ולבניהם",
-      "english": "y a sus hijos"
-    },
-    {
-      "surface": "ולאחיהם",
-      "english": "y a sus hermanos"
-    },
-    {
-      "surface": "מלבשים",
-      "english": "vestidos"
-    },
-    {
-      "surface": "בוץ",
-      "english": "de lino fino"
-    },
-    {
-      "surface": "במצלתים",
-      "english": "con címbalos"
-    },
-    {
-      "surface": "ובנבלים",
-      "english": "y con nebelim"
-    },
-    {
-      "surface": "וכנרות",
-      "english": "y con kinnorot"
-    },
-    {
-      "surface": "עמדים",
-      "english": "estaban de pie"
-    },
-    {
-      "surface": "מזרח",
-      "english": "⟨al⟩ oriente"
-    },
-    {
-      "surface": "למזבח",
-      "english": "⟨del⟩ altar"
-    },
-    {
-      "surface": "ועמהם",
-      "english": "y con ellos"
-    },
-    {
-      "surface": "כהנים",
-      "english": "Kohens"
-    },
-    {
-      "surface": "למאה",
-      "english": "ciento"
-    },
-    {
-      "surface": "ועשרים",
-      "english": "veinte"
-    },
-    {
-      "surface": "מחצררים",
-      "english": "⟨que⟩ tocaban"
-    },
-    {
-      "surface": "בחצצרות",
-      "english": "⟨con⟩ trompetas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:04:33.163245039Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

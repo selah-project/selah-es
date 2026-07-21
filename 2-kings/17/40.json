@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "2-kings 17:40",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 450,
-    "prompt_tokens": 23878,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24328
-  },
+  "verse": 40,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:14:49.771970600Z",
   "translation": "pero no escucharon, ⟨sino⟩ según su juicio anterior ellos hacían",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "pero no"
+      "gloss": "pero no"
     },
     {
       "surface": "שמעו",
-      "english": "escucharon"
+      "gloss": "escucharon"
     },
     {
       "surface": "כי",
-      "english": "⟨sino⟩"
+      "gloss": "⟨sino⟩"
     },
     {
       "surface": "אם",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "כמשפטם",
-      "english": "según su juicio"
+      "gloss": "según su juicio"
     },
     {
       "surface": "הראשון",
-      "english": "anterior"
+      "gloss": "anterior"
     },
     {
       "surface": "הם",
-      "english": "ellos"
+      "gloss": "ellos"
     },
     {
       "surface": "עשים",
-      "english": "hacían"
+      "gloss": "hacían"
     }
-  ],
-  "timestamp": "2026-07-16T19:14:49.771970600Z",
-  "model": "glm-4.5"
+  ]
 }

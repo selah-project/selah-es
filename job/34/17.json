@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "job 34:17",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 627,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27123,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27750
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:13:08.901623396Z",
   "translation": "¿⟨De veras⟩ el que odia ⟨el⟩ juicio gobernará? y ⟨si es⟩ ⟨un⟩ justo ⟨y⟩ poderoso ⟨¿lo⟩ condenarás?",
   "tokens": [
     {
       "surface": "האף",
-      "english": "⟨De veras⟩"
+      "gloss": "⟨De veras⟩"
     },
     {
       "surface": "שונא",
-      "english": "odia"
+      "gloss": "odia"
     },
     {
       "surface": "משפט",
-      "english": "⟨el⟩ juicio",
+      "gloss": "⟨el⟩ juicio",
       "marks": "juicio"
     },
     {
       "surface": "יחבוש",
-      "english": "gobernará"
+      "gloss": "gobernará"
     },
     {
       "surface": "ואם",
-      "english": "y ⟨si es⟩"
+      "gloss": "y ⟨si es⟩"
     },
     {
       "surface": "צדיק",
-      "english": "⟨un⟩ justo"
+      "gloss": "⟨un⟩ justo"
     },
     {
       "surface": "כביר",
-      "english": "⟨y⟩ poderoso"
+      "gloss": "⟨y⟩ poderoso"
     },
     {
       "surface": "תרשיע",
-      "english": "⟨¿lo⟩ condenarás"
+      "gloss": "⟨¿lo⟩ condenarás"
     }
-  ],
-  "timestamp": "2026-06-10T02:13:08.901623396Z",
-  "model": "glm-4.5"
+  ]
 }

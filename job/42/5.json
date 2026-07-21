@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 42:5",
   "book": "job",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26971,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27296
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:19:02.696893471Z",
   "translation": "De oído ⟨el⟩ oído, oí ⟨a⟩ ti, y ⟨en⟩ este ⟨momento⟩ mi ojo ⟨te⟩ ve",
   "tokens": [
     {
       "surface": "לשמע",
-      "english": "De oído"
+      "gloss": "De oído"
     },
     {
       "surface": "אזן",
-      "english": "⟨el⟩ oído"
+      "gloss": "⟨el⟩ oído"
     },
     {
       "surface": "שמעתיך",
-      "english": "oí ⟨a⟩ ti"
+      "gloss": "oí ⟨a⟩ ti"
     },
     {
       "surface": "ועתה",
-      "english": "y ⟨en⟩ este ⟨momento⟩"
+      "gloss": "y ⟨en⟩ este ⟨momento⟩"
     },
     {
       "surface": "עיני",
-      "english": "mi ojo"
+      "gloss": "mi ojo"
     },
     {
       "surface": "ראתך",
-      "english": "⟨te⟩ ve"
+      "gloss": "⟨te⟩ ve"
     }
-  ],
-  "timestamp": "2026-06-10T02:19:02.696893471Z",
-  "model": "glm-4.5"
+  ]
 }

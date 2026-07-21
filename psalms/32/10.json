@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 32:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70006,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70393
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:12:08.507223477Z",
   "translation": "Muchos ⟨son⟩ los dolores del malvado ⟨y⟩ el que ⟨se⟩ fía en YHWH, ⟨la⟩ misericordia ⟨lo⟩ rodeará",
   "tokens": [
     {
       "surface": "רבים",
-      "english": "Muchos"
+      "gloss": "Muchos"
     },
     {
       "surface": "מכאובים",
-      "english": "dolores"
+      "gloss": "dolores"
     },
     {
       "surface": "לרשע",
-      "english": "del malvado"
+      "gloss": "del malvado"
     },
     {
       "surface": "והבוטח",
-      "english": "⟨y⟩ el que ⟨se⟩ fía"
+      "gloss": "⟨y⟩ el que ⟨se⟩ fía"
     },
     {
       "surface": "ביהוה",
-      "english": "en YHWH"
+      "gloss": "en YHWH"
     },
     {
       "surface": "חסד",
-      "english": "⟨la⟩ misericordia"
+      "gloss": "⟨la⟩ misericordia"
     },
     {
       "surface": "יסובבנו",
-      "english": "⟨lo⟩ rodeará"
+      "gloss": "⟨lo⟩ rodeará"
     }
-  ],
-  "timestamp": "2026-06-09T23:12:08.507223477Z",
-  "model": "glm-4.5"
+  ]
 }

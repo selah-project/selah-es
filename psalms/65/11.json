@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 65:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 497,
-    "prompt_tokens": 70246,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70743
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:28:52.625004606Z",
   "translation": "Haces descender ⟨la⟩ lluvia ⟨en⟩ sus surcos abundantes; ⟨la⟩ ablandas ⟨con⟩ lluvias, bendices ⟨el⟩ brote ⟨de ella⟩.",
   "tokens": [
     {
       "surface": "תלמיה",
-      "english": "sus surcos"
+      "gloss": "sus surcos"
     },
     {
       "surface": "רוה",
-      "english": "Haces descender ⟨la⟩ lluvia"
+      "gloss": "Haces descender ⟨la⟩ lluvia"
     },
     {
       "surface": "נחת",
-      "english": "abundantes"
+      "gloss": "abundantes"
     },
     {
       "surface": "גדודיה",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "ברביבים",
-      "english": "⟨la⟩ ablandas ⟨con⟩ lluvias"
+      "gloss": "⟨la⟩ ablandas ⟨con⟩ lluvias"
     },
     {
       "surface": "תמגגנה",
-      "english": "bendices"
+      "gloss": "bendices"
     },
     {
       "surface": "צמחה",
-      "english": "⟨el⟩ brote"
+      "gloss": "⟨el⟩ brote"
     },
     {
       "surface": "תברך",
-      "english": "⟨de ella⟩"
+      "gloss": "⟨de ella⟩"
     }
-  ],
-  "timestamp": "2026-07-21T02:28:52.625004606Z",
-  "model": "glm-4.5"
+  ]
 }

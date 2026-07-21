@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-kings 9:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 9,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:28:32.240712521Z",
+  "translation": "Y ellos dijeron: ⟨Es⟩ mentira ⟨el⟩ relato ⟨a⟩ nosotros. Y él dijo: Así y así dijo él a mí diciendo: Así dice YHWH: ⟨He⟩ ungido ⟨a⟩ ti ⟨como⟩ rey ⟨sobre⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Y ellos dijeron"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mentira"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "⟨el⟩ relato"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nosotros"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y él dijo"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Así"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "y así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "⟨He⟩ ungido ⟨a⟩ ti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨como⟩ rey"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 703,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17440,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 18143
-  },
-  "translation": "Y ellos dijeron: ⟨Es⟩ mentira ⟨el⟩ relato ⟨a⟩ nosotros. Y él dijo: Así y así dijo él a mí diciendo: Así dice YHWH: ⟨He⟩ ungido ⟨a⟩ ti ⟨como⟩ rey ⟨sobre⟩ Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "Y ellos dijeron"
-    },
-    {
-      "surface": "שקר",
-      "english": "mentira"
-    },
-    {
-      "surface": "הגד",
-      "english": "⟨el⟩ relato"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "לנו",
-      "english": "nosotros"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y él dijo"
-    },
-    {
-      "surface": "כזאת",
-      "english": "Así"
-    },
-    {
-      "surface": "וכזאת",
-      "english": "y así"
-    },
-    {
-      "surface": "אמר",
-      "english": "dijo"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mí"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "כה",
-      "english": "Así"
-    },
-    {
-      "surface": "אמר",
-      "english": "dice"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "משחתיך",
-      "english": "⟨He⟩ ungido ⟨a⟩ ti"
-    },
-    {
-      "surface": "למלך",
-      "english": "⟨como⟩ rey"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:28:32.240712521Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

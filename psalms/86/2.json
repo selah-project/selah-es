@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 86:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 700,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70237,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70937
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:14.437975687Z",
   "translation": "Guarda mi alma, pues ⟨es⟩ ⟨un⟩ piadoso ⟨quien⟩ ⟨yo⟩ soy; salva ⟨a⟩ tu siervo que ⟨se⟩ fía en ti, oh Elohim ⟨el que⟩ ⟨está⟩ confiando en ti.",
   "tokens": [
     {
       "surface": "שמרה",
-      "english": "Guarda"
+      "gloss": "Guarda"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "חסיד",
-      "english": "⟨un⟩ piadoso"
+      "gloss": "⟨un⟩ piadoso"
     },
     {
       "surface": "אני",
-      "english": "⟨quien⟩ ⟨yo⟩"
+      "gloss": "⟨quien⟩ ⟨yo⟩"
     },
     {
       "surface": "הושע",
-      "english": "salva"
+      "gloss": "salva"
     },
     {
       "surface": "עבדך",
-      "english": "⟨a⟩ tu siervo"
+      "gloss": "⟨a⟩ tu siervo"
     },
     {
       "surface": "אתה",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אלהי",
-      "english": "⟨se⟩ fía en ti, oh Elohim"
+      "gloss": "⟨se⟩ fía en ti, oh Elohim"
     },
     {
       "surface": "הבוטח",
-      "english": "⟨el que⟩ ⟨está⟩ confiando en ti"
+      "gloss": "⟨el que⟩ ⟨está⟩ confiando en ti"
     },
     {
       "surface": "אליך",
-      "english": "en ti"
+      "gloss": "en ti"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:14.437975687Z",
-  "model": "glm-4.5"
+  ]
 }

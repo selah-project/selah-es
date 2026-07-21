@@ -1,78 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "exodus 8:11",
   "book": "exodus",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 709,
-    "prompt_tokens": 24645,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25354
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:11:27.189314534Z",
   "translation": "Y Paró vio que ⟨había⟩ ⟨la⟩ respiro y ⟨se⟩ endureció ⟨את⟩ su corazón y no escuchó ⟨a⟩ ellos como ⟨el⟩ que ⟨habló⟩ YHWH",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y Paró vio"
+      "gloss": "Y Paró vio"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "היתה",
-      "english": "⟨había⟩"
+      "gloss": "⟨había⟩"
     },
     {
       "surface": "הרוחה",
-      "english": "⟨la⟩ respiro"
+      "gloss": "⟨la⟩ respiro"
     },
     {
       "surface": "והכבד",
-      "english": "y ⟨se⟩ endureció"
+      "gloss": "y ⟨se⟩ endureció"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su corazón"
     },
     {
       "surface": "לבו",
-      "english": "su corazón"
+      "gloss": "su corazón"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "שמע",
-      "english": "escuchó"
+      "gloss": "escuchó"
     },
     {
       "surface": "אלהם",
-      "english": "⟨a⟩ ellos"
+      "gloss": "⟨a⟩ ellos"
     },
     {
       "surface": "כאשר",
-      "english": "como ⟨el⟩ que"
+      "gloss": "como ⟨el⟩ que"
     },
     {
       "surface": "דבר",
-      "english": "⟨habló⟩"
+      "gloss": "⟨habló⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T20:11:27.189314534Z",
-  "model": "glm-4.5"
+  ]
 }

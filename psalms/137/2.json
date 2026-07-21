@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 137:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69757,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70085
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:08:10.526057021Z",
   "translation": "Sobre ⟨los⟩ sauces en medio ⟨de ella⟩ colgamos nuestras arpas",
   "tokens": [
     {
       "surface": "על",
-      "english": "Sobre"
+      "gloss": "Sobre"
     },
     {
       "surface": "ערבים",
-      "english": "⟨los⟩ sauces"
+      "gloss": "⟨los⟩ sauces"
     },
     {
       "surface": "בתוכה",
-      "english": "en medio ⟨de ella⟩"
+      "gloss": "en medio ⟨de ella⟩"
     },
     {
       "surface": "תלינו",
-      "english": "colgamos"
+      "gloss": "colgamos"
     },
     {
       "surface": "כנרותינו",
-      "english": "nuestras arpas"
+      "gloss": "nuestras arpas"
     }
-  ],
-  "timestamp": "2026-06-10T00:08:10.526057021Z",
-  "model": "glm-4.5"
+  ]
 }

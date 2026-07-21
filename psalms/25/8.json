@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 25:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 497,
-    "prompt_tokens": 70059,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70556
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:48.370720684Z",
   "translation": "Bueno y recto ⟨es⟩ YHWH; por ello, él instruye a los pecadores en el camino.",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "Bueno"
+      "gloss": "Bueno"
     },
     {
       "surface": "וישר",
-      "english": "y recto"
+      "gloss": "y recto"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "על",
-      "english": "por ello"
+      "gloss": "por ello"
     },
     {
       "surface": "כן",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יורה",
-      "english": "él instruye"
+      "gloss": "él instruye"
     },
     {
       "surface": "חטאים",
-      "english": "a los pecadores"
+      "gloss": "a los pecadores"
     },
     {
       "surface": "בדרך",
-      "english": "en el camino"
+      "gloss": "en el camino"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:48.370720684Z",
-  "model": "glm-4.5"
+  ]
 }

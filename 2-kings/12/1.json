@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-kings 12:1",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 282,
-    "prompt_tokens": 23746,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24028
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:10:33.651547728Z",
   "translation": "Ben siete años Yehoash en su reinado",
   "tokens": [
     {
       "surface": "בן",
-      "english": "Ben"
+      "gloss": "Ben"
     },
     {
       "surface": "שבע",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "יהואש",
-      "english": "Yehoash"
+      "gloss": "Yehoash"
     },
     {
       "surface": "במלכו",
-      "english": "en su reinado"
+      "gloss": "en su reinado"
     }
-  ],
-  "timestamp": "2026-07-16T19:10:33.651547728Z",
-  "model": "glm-4.5"
+  ]
 }

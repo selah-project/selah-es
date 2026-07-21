@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 34:10",
   "book": "genesis",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28538,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28995
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:31:55.106021511Z",
   "translation": "y ⟨con⟩ nosotros ⟨vosotros⟩ os sentaréis, y la tierra ⟨es⟩ delante de vosotros: sentaos ⟨y⟩ ⟨la⟩ comerciéis ⟨y⟩ la poseáis ⟨en ella⟩.",
   "tokens": [
     {
       "surface": "ואתנו",
-      "english": "Y ⟨con⟩ nosotros",
+      "gloss": "Y ⟨con⟩ nosotros",
       "marks": "nosotros"
     },
     {
       "surface": "תשבו",
-      "english": "⟨vosotros⟩ os sentaréis"
+      "gloss": "⟨vosotros⟩ os sentaréis"
     },
     {
       "surface": "והארץ",
-      "english": "y la tierra"
+      "gloss": "y la tierra"
     },
     {
       "surface": "תהיה",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "לפניכם",
-      "english": "delante de vosotros"
+      "gloss": "delante de vosotros"
     },
     {
       "surface": "שבו",
-      "english": "sentaos"
+      "gloss": "sentaos"
     },
     {
       "surface": "וסחרוה",
-      "english": "⟨y⟩ ⟨la⟩ comerciéis",
+      "gloss": "⟨y⟩ ⟨la⟩ comerciéis",
       "marks": "la tierra"
     },
     {
       "surface": "והאחזו",
-      "english": "⟨y⟩ la poseáis",
+      "gloss": "⟨y⟩ la poseáis",
       "marks": "la tierra"
     },
     {
       "surface": "בה",
-      "english": "⟨en ella⟩"
+      "gloss": "⟨en ella⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:31:55.106021511Z",
-  "model": "glm-4.5"
+  ]
 }

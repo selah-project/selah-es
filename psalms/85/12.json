@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 85:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69815,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70243
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:41:58.240413578Z",
   "translation": "Cierto ⟨es⟩ ⟨el que⟩ brota de ⟨la⟩ tierra, y ⟨la⟩ justicia ⟨que⟩ mira desde ⟨los⟩ cielos.",
   "tokens": [
     {
       "surface": "אמת",
-      "english": "Cierto",
+      "gloss": "Cierto",
       "marks": ""
     },
     {
       "surface": "מארץ",
-      "english": "de ⟨la⟩ tierra",
+      "gloss": "de ⟨la⟩ tierra",
       "marks": "tierra"
     },
     {
       "surface": "תצמח",
-      "english": "brota",
+      "gloss": "brota",
       "marks": ""
     },
     {
       "surface": "וצדק",
-      "english": "y ⟨la⟩ justicia",
+      "gloss": "y ⟨la⟩ justicia",
       "marks": "justicia"
     },
     {
       "surface": "משמים",
-      "english": "desde ⟨los⟩ cielos",
+      "gloss": "desde ⟨los⟩ cielos",
       "marks": "cielos"
     },
     {
       "surface": "נשקף",
-      "english": "⟨que⟩ mira",
+      "gloss": "⟨que⟩ mira",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:41:58.240413578Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "proverbs 27:14",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60033,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60410
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:49:44.027787566Z",
   "translation": "Quien ⟨es⟩ bendiciendo a su amigo ⟨את⟩ con una voz grande en la mañana, temprano, ⟨es⟩ una maldición ⟨que será⟩ contada para él",
   "tokens": [
     {
       "surface": "מברך",
-      "english": "Quien ⟨es⟩ bendiciendo"
+      "gloss": "Quien ⟨es⟩ bendiciendo"
     },
     {
       "surface": "רעהו",
-      "english": "a su amigo"
+      "gloss": "a su amigo"
     },
     {
       "surface": "בקול",
-      "english": "con una voz"
+      "gloss": "con una voz"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "בבקר",
-      "english": "en la mañana"
+      "gloss": "en la mañana"
     },
     {
       "surface": "השכים",
-      "english": "temprano"
+      "gloss": "temprano"
     },
     {
       "surface": "קללה",
-      "english": "una maldición"
+      "gloss": "una maldición"
     },
     {
       "surface": "תחשב",
-      "english": "⟨que será⟩ contada"
+      "gloss": "⟨que será⟩ contada"
     },
     {
       "surface": "לו",
-      "english": "para él"
+      "gloss": "para él"
     }
-  ],
-  "timestamp": "2026-06-10T01:49:44.027787566Z",
-  "model": "glm-4.5"
+  ]
 }

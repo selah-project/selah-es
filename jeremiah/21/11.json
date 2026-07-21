@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "jeremiah 21:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 21,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:04:18.514581804Z",
+  "translation": "Y ⟨a⟩ ⟨la⟩ casa del rey de Yehudá: escuchen ⟨la⟩ palabra ⟨de⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "Y ⟨a⟩ ⟨la⟩ casa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "escuchen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨la⟩ palabra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,48 +44,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16988,
-    "prompt_tokens_details": {
-      "cached_tokens": 16046
-    },
-    "total_tokens": 17287
-  },
-  "translation": "Y ⟨a⟩ ⟨la⟩ casa del rey de Yehudá: escuchen ⟨la⟩ palabra ⟨de⟩ YHWH",
-  "tokens": [
-    {
-      "surface": "ולבית",
-      "english": "Y ⟨a⟩ ⟨la⟩ casa"
-    },
-    {
-      "surface": "מלך",
-      "english": "del rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "שמעו",
-      "english": "escuchen"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨la⟩ palabra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:04:18.514581804Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

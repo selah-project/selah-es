@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.1",
-  "verse": 4,
   "ref": "psalms 69:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70094,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70541
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:57:15.118748471Z",
   "translation": "Estoy exhausto ⟨de⟩ ⟨el⟩ llamar; ⟨mi⟩ garganta ⟨está⟩ abrasada, ⟨mis⟩ ojos se consumen esperando a mi Elohim.",
   "tokens": [
     {
       "surface": "יגעתי",
-      "english": "Estoy exhausto"
+      "gloss": "Estoy exhausto"
     },
     {
       "surface": "בקראי",
-      "english": "⟨de⟩ ⟨el⟩ llamar"
+      "gloss": "⟨de⟩ ⟨el⟩ llamar"
     },
     {
       "surface": "נחר",
-      "english": "⟨está⟩ abrasada"
+      "gloss": "⟨está⟩ abrasada"
     },
     {
       "surface": "גרוני",
-      "english": "⟨mi⟩ garganta"
+      "gloss": "⟨mi⟩ garganta"
     },
     {
       "surface": "כלו",
-      "english": "se consumen"
+      "gloss": "se consumen"
     },
     {
       "surface": "עיני",
-      "english": "⟨mis⟩ ojos"
+      "gloss": "⟨mis⟩ ojos"
     },
     {
       "surface": "מיחל",
-      "english": "esperando"
+      "gloss": "esperando"
     },
     {
       "surface": "לאלהי",
-      "english": "a mi Elohim"
+      "gloss": "a mi Elohim"
     }
-  ],
-  "timestamp": "2026-06-13T03:57:15.118748471Z",
-  "model": "glm-5.1"
+  ]
 }

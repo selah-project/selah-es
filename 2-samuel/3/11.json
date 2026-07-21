@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-samuel 3:11",
   "book": "2-samuel",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 462,
-    "prompt_tokens": 24518,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24980
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:20:51.448371306Z",
   "translation": "Y no pudo ⟨ya⟩ responder ⟨את⟩ a Avner una palabra por temor de ⟨él⟩",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "Y no"
+      "gloss": "Y no"
     },
     {
       "surface": "יכל",
-      "english": "pudo"
+      "gloss": "pudo"
     },
     {
       "surface": "עוד",
-      "english": "⟨ya⟩"
+      "gloss": "⟨ya⟩"
     },
     {
       "surface": "להשיב",
-      "english": "responder"
+      "gloss": "responder"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Avner"
     },
     {
       "surface": "אבנר",
-      "english": "Avner"
+      "gloss": "Avner"
     },
     {
       "surface": "דבר",
-      "english": "una palabra"
+      "gloss": "una palabra"
     },
     {
       "surface": "מיראתו",
-      "english": "por temor de"
+      "gloss": "por temor de"
     },
     {
       "surface": "אתו",
-      "english": "⟨él⟩"
+      "gloss": "⟨él⟩"
     }
-  ],
-  "timestamp": "2026-07-16T19:20:51.448371306Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 4:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59875,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60489
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:29:54.875382749Z",
   "translation": "Porque ⟨un⟩ hijo ⟨fui⟩ ⟨para⟩ ⟨mi⟩ padre, ⟨el⟩ tierno y único ⟨a⟩ ⟨la⟩ vista ⟨de⟩ ⟨mi⟩ madre",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "בן",
-      "english": "⟨un⟩ hijo"
+      "gloss": "⟨un⟩ hijo"
     },
     {
       "surface": "הייתי",
-      "english": "⟨fui⟩"
+      "gloss": "⟨fui⟩"
     },
     {
       "surface": "לאבי",
-      "english": "⟨para⟩ ⟨mi⟩ padre"
+      "gloss": "⟨para⟩ ⟨mi⟩ padre"
     },
     {
       "surface": "רך",
-      "english": "⟨el⟩ tierno"
+      "gloss": "⟨el⟩ tierno"
     },
     {
       "surface": "ויחיד",
-      "english": "y único"
+      "gloss": "y único"
     },
     {
       "surface": "לפני",
-      "english": "⟨a⟩ ⟨la⟩ vista ⟨de⟩"
+      "gloss": "⟨a⟩ ⟨la⟩ vista ⟨de⟩"
     },
     {
       "surface": "אמי",
-      "english": "⟨mi⟩ madre"
+      "gloss": "⟨mi⟩ madre"
     }
-  ],
-  "timestamp": "2026-06-10T01:29:54.875382749Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 56:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 584,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26395,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26979
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:56:18.460977318Z",
   "translation": "Venid ⟨yo⟩ tomaré ⟨את⟩ vino y nos embriagaremos ⟨con⟩ bebida fuerte y será como este día mañana grande ⟨en⟩ abundancia ⟨muy⟩ grande",
   "tokens": [
     {
       "surface": "אתיו",
-      "english": "Venid",
+      "gloss": "Venid",
       "marks": "yo"
     },
     {
       "surface": "אקחה",
-      "english": "tomaré",
+      "gloss": "tomaré",
       "marks": "vino"
     },
     {
       "surface": "יין",
-      "english": "vino"
+      "gloss": "vino"
     },
     {
       "surface": "ונסבאה",
-      "english": "y nos embriagaremos",
+      "gloss": "y nos embriagaremos",
       "marks": "con bebida fuerte"
     },
     {
       "surface": "שכר",
-      "english": "bebida fuerte"
+      "gloss": "bebida fuerte"
     },
     {
       "surface": "והיה",
-      "english": "y será"
+      "gloss": "y será"
     },
     {
       "surface": "כזה",
-      "english": "como este"
+      "gloss": "como este"
     },
     {
       "surface": "יום",
-      "english": "día"
+      "gloss": "día"
     },
     {
       "surface": "מחר",
-      "english": "mañana"
+      "gloss": "mañana"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "יתר",
-      "english": "⟨en⟩ abundancia",
+      "gloss": "⟨en⟩ abundancia",
       "marks": "grande"
     },
     {
       "surface": "מאד",
-      "english": "⟨muy⟩ grande"
+      "gloss": "⟨muy⟩ grande"
     }
-  ],
-  "timestamp": "2026-06-10T02:56:18.460977318Z",
-  "model": "glm-4.5"
+  ]
 }

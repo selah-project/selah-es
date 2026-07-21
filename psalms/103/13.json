@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 103:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69939,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70305
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:49:34.645350956Z",
   "translation": "⟨As⟩ a father ⟨has⟩ compassion ⟨on⟩ ⟨the⟩ children, ⟨so⟩ YHWH ⟨has⟩ compassion ⟨on⟩ those fearing Him.",
   "tokens": [
     {
       "surface": "כרחם",
-      "english": "⟨As⟩ a father ⟨has⟩ compassion"
+      "gloss": "⟨As⟩ a father ⟨has⟩ compassion"
     },
     {
       "surface": "אב",
-      "english": "a father"
+      "gloss": "a father"
     },
     {
       "surface": "על",
-      "english": "⟨on⟩"
+      "gloss": "⟨on⟩"
     },
     {
       "surface": "בנים",
-      "english": "⟨the⟩ children"
+      "gloss": "⟨the⟩ children"
     },
     {
       "surface": "רחם",
-      "english": "⟨so⟩ YHWH ⟨has⟩ compassion"
+      "gloss": "⟨so⟩ YHWH ⟨has⟩ compassion"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "על",
-      "english": "⟨on⟩"
+      "gloss": "⟨on⟩"
     },
     {
       "surface": "יראיו",
-      "english": "those fearing Him"
+      "gloss": "those fearing Him"
     }
-  ],
-  "timestamp": "2026-06-09T23:49:34.645350956Z",
-  "model": "glm-4.5"
+  ]
 }

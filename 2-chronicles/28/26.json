@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-chronicles 28:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 28,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:30:51.141219113Z",
+  "translation": "Y lo demás ⟨de⟩ ⟨las⟩ palabras ⟨de⟩ él y ⟨todos⟩ ⟨los⟩ caminos ⟨de⟩ él, los primeros y los postreros, he aquí están escritos en Séfer ⟨de⟩ ⟨los⟩ reyes ⟨de⟩ Yehudá ⟨y⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Y lo demás"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "de ⟨las⟩ palabras ⟨de⟩ él"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y ⟨todos⟩"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "de ⟨los⟩ caminos ⟨de⟩ él"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "los primeros"
+    },
+    {
+      "surface": "והאחרונים",
+      "gloss": "y los postreros"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "he aquí"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "están escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "en"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de ⟨los⟩ reyes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "y Israel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el libro",
@@ -20,76 +79,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58313,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58880
-  },
-  "translation": "Y lo demás ⟨de⟩ ⟨las⟩ palabras ⟨de⟩ él y ⟨todos⟩ ⟨los⟩ caminos ⟨de⟩ él, los primeros y los postreros, he aquí están escritos en Séfer ⟨de⟩ ⟨los⟩ reyes ⟨de⟩ Yehudá ⟨y⟩ Israel.",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "Y lo demás"
-    },
-    {
-      "surface": "דבריו",
-      "english": "de ⟨las⟩ palabras ⟨de⟩ él"
-    },
-    {
-      "surface": "וכל",
-      "english": "y ⟨todos⟩"
-    },
-    {
-      "surface": "דרכיו",
-      "english": "de ⟨los⟩ caminos ⟨de⟩ él"
-    },
-    {
-      "surface": "הראשנים",
-      "english": "los primeros"
-    },
-    {
-      "surface": "והאחרונים",
-      "english": "y los postreros"
-    },
-    {
-      "surface": "הנם",
-      "english": "he aquí"
-    },
-    {
-      "surface": "כתובים",
-      "english": "están escritos"
-    },
-    {
-      "surface": "על",
-      "english": "en"
-    },
-    {
-      "surface": "ספר",
-      "english": "Séfer"
-    },
-    {
-      "surface": "מלכי",
-      "english": "de ⟨los⟩ reyes"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "וישראל",
-      "english": "y Israel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:30:51.141219113Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

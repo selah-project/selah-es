@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 151,
   "ref": "psalms 119:151",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69732,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70012
-  },
+  "verse": 151,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:19.937491666Z",
   "translation": "Cercano ⟨estás⟩ Tú, YHWH, y ⟨todos⟩ ⟨los⟩ mandamientos tuyos ⟨son⟩ verdad.",
   "tokens": [
     {
       "surface": "קרוב",
-      "english": "Cercano"
+      "gloss": "Cercano"
     },
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וכל",
-      "english": "y ⟨todos⟩ ⟨los⟩"
+      "gloss": "y ⟨todos⟩ ⟨los⟩"
     },
     {
       "surface": "מצותיך",
-      "english": "mandamientos tuyos"
+      "gloss": "mandamientos tuyos"
     },
     {
       "surface": "אמת",
-      "english": "verdad"
+      "gloss": "verdad"
     }
-  ],
-  "timestamp": "2026-06-10T00:02:19.937491666Z",
-  "model": "glm-4.5"
+  ]
 }

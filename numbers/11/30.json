@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "numbers 11:30",
   "book": "numbers",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24955,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25285
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:48:14.064467404Z",
   "translation": "Y Moshé ⟨fue⟩ recogido ⟨hacia⟩ el campamento ⟨él⟩ y los ancianos de Yisrael",
   "tokens": [
     {
       "surface": "ויאסף",
-      "english": "Y ⟨fue⟩ recogido"
+      "gloss": "Y ⟨fue⟩ recogido"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "אל",
-      "english": "⟨hacia⟩"
+      "gloss": "⟨hacia⟩"
     },
     {
       "surface": "המחנה",
-      "english": "el campamento"
+      "gloss": "el campamento"
     },
     {
       "surface": "הוא",
-      "english": "⟨él⟩"
+      "gloss": "⟨él⟩"
     },
     {
       "surface": "וזקני",
-      "english": "y los ancianos"
+      "gloss": "y los ancianos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-06-10T04:48:14.064467404Z",
-  "model": "glm-4.5"
+  ]
 }

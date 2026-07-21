@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 38:10",
   "book": "genesis",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 498,
-    "prompt_tokens": 28587,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29085
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:10:36.894685483Z",
   "translation": "Y lo que hizo ⟨fue⟩ malo ⟨a⟩ los ojos de YHWH, y ⟨lo⟩ puso ⟨a⟩ muerte también ⟨את⟩ él.",
   "tokens": [
     {
       "surface": "וירע",
-      "english": "Y lo que hizo ⟨fue⟩ malo"
+      "gloss": "Y lo que hizo ⟨fue⟩ malo"
     },
     {
       "surface": "בעיני",
-      "english": "⟨a⟩ los ojos de"
+      "gloss": "⟨a⟩ los ojos de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "עשה",
-      "english": "hizo"
+      "gloss": "hizo"
     },
     {
       "surface": "וימת",
-      "english": "y ⟨lo⟩ puso ⟨a⟩ muerte"
+      "gloss": "y ⟨lo⟩ puso ⟨a⟩ muerte"
     },
     {
       "surface": "גם",
-      "english": "también"
+      "gloss": "también"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ él",
+      "gloss": "⟨את⟩ él",
       "marks": "él"
     }
-  ],
-  "timestamp": "2026-07-16T21:10:36.894685483Z",
-  "model": "glm-4.5"
+  ]
 }

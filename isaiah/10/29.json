@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "isaiah 10:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 10,
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:49:42.782101854Z",
+  "translation": "Ellos han cruzado ⟨el⟩ vado: Han pasado la noche en ⟨el⟩ albergue ⟨de⟩ Geba. Ramah tiembla; Gibeah ⟨de⟩ Shaúl huye.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "Ellos han cruzado"
+    },
+    {
+      "surface": "מעברה",
+      "gloss": "⟨el⟩ vado"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "⟨la⟩ Geba"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "⟨el⟩ albergue"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "tiembla"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramah"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibeah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "⟨de⟩ Shaúl"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "huye"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -13,64 +60,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 534,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18912,
-    "prompt_tokens_details": {
-      "cached_tokens": 17660
-    },
-    "total_tokens": 19446
-  },
-  "translation": "Ellos han cruzado ⟨el⟩ vado: Han pasado la noche en ⟨el⟩ albergue ⟨de⟩ Geba. Ramah tiembla; Gibeah ⟨de⟩ Shaúl huye.",
-  "tokens": [
-    {
-      "surface": "עברו",
-      "english": "Ellos han cruzado"
-    },
-    {
-      "surface": "מעברה",
-      "english": "⟨el⟩ vado"
-    },
-    {
-      "surface": "גבע",
-      "english": "⟨la⟩ Geba"
-    },
-    {
-      "surface": "מלון",
-      "english": "⟨el⟩ albergue"
-    },
-    {
-      "surface": "לנו",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "חרדה",
-      "english": "tiembla"
-    },
-    {
-      "surface": "הרמה",
-      "english": "Ramah"
-    },
-    {
-      "surface": "גבעת",
-      "english": "Gibeah"
-    },
-    {
-      "surface": "שאול",
-      "english": "⟨de⟩ Shaúl"
-    },
-    {
-      "surface": "נסה",
-      "english": "huye"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:49:42.782101854Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 1:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 172,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17298,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 17470
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:06:35.069940647Z",
   "translation": "Para Issachar, Natanel ⟨es⟩ ⟨el⟩ hijo de Zuar",
   "tokens": [
     {
       "surface": "ליששכר",
-      "english": "Para Issachar"
+      "gloss": "Para Issachar"
     },
     {
       "surface": "נתנאל",
-      "english": "Natanel"
+      "gloss": "Natanel"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo"
+      "gloss": "⟨el⟩ hijo"
     },
     {
       "surface": "צוער",
-      "english": "de Zuar"
+      "gloss": "de Zuar"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:06:35.069940647Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

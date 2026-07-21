@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-chronicles 22:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 22,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:51:27.409222760Z",
+  "translation": "Y Davidd también ordenó a todos los príncipes de Yisrael que ayudasen ⟨a⟩ Salomón su hijo:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Y también ordenó"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a todos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "los príncipes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "que ayudasen"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "⟨a⟩ Salomón"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su hijo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,56 +59,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56709,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57084
-  },
-  "translation": "Y Davidd también ordenó a todos los príncipes de Yisrael que ayudasen ⟨a⟩ Salomón su hijo:",
-  "tokens": [
-    {
-      "surface": "ויצו",
-      "english": "Y también ordenó"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לכל",
-      "english": "a todos"
-    },
-    {
-      "surface": "שרי",
-      "english": "los príncipes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לעזר",
-      "english": "que ayudasen"
-    },
-    {
-      "surface": "לשלמה",
-      "english": "⟨a⟩ Salomón"
-    },
-    {
-      "surface": "בנו",
-      "english": "su hijo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:51:27.409222760Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

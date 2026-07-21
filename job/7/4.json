@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 7:4",
   "book": "job",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27476,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 28012
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:52:47.147575790Z",
   "translation": "Si ⟨me⟩ acuesto, ⟨y⟩ digo: ¿Cuándo me levantaré? ⟨y⟩ mido ⟨la⟩ noche, ⟨y⟩ estoy lleno de revolcaderos hasta ⟨el⟩ amanecer.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "שכבתי",
-      "english": "⟨me⟩ acuesto"
+      "gloss": "⟨me⟩ acuesto"
     },
     {
       "surface": "ואמרתי",
-      "english": "⟨y⟩ digo"
+      "gloss": "⟨y⟩ digo"
     },
     {
       "surface": "מתי",
-      "english": "¿Cuándo"
+      "gloss": "¿Cuándo"
     },
     {
       "surface": "אקום",
-      "english": "me levantaré?"
+      "gloss": "me levantaré?"
     },
     {
       "surface": "ומדד",
-      "english": "⟨y⟩ mido"
+      "gloss": "⟨y⟩ mido"
     },
     {
       "surface": "ערב",
-      "english": "⟨la⟩ noche"
+      "gloss": "⟨la⟩ noche"
     },
     {
       "surface": "ושבעתי",
-      "english": "⟨y⟩ estoy lleno"
+      "gloss": "⟨y⟩ estoy lleno"
     },
     {
       "surface": "נדדים",
-      "english": "de revolcaderos"
+      "gloss": "de revolcaderos"
     },
     {
       "surface": "עדי",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "נשף",
-      "english": "⟨el⟩ amanecer"
+      "gloss": "⟨el⟩ amanecer"
     }
-  ],
-  "timestamp": "2026-06-10T03:52:47.147575790Z",
-  "model": "glm-4.5"
+  ]
 }

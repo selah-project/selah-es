@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 63:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70140,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70684
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:17.723346744Z",
   "translation": "Y el rey se alegrará en Elohim; todo ⟨el que⟩ jura ⟨por él⟩ se gloriará; ⟨porque⟩ será cerrada ⟨la⟩ boca de ⟨los que⟩ hablan mentira.",
   "tokens": [
     {
       "surface": "והמלך",
-      "english": "Y el rey"
+      "gloss": "Y el rey"
     },
     {
       "surface": "ישמח",
-      "english": "se alegrará"
+      "gloss": "se alegrará"
     },
     {
       "surface": "באלהים",
-      "english": "en Elohim"
+      "gloss": "en Elohim"
     },
     {
       "surface": "יתהלל",
-      "english": "se gloriará"
+      "gloss": "se gloriará"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "הנשבע",
-      "english": "⟨el que⟩ jura"
+      "gloss": "⟨el que⟩ jura"
     },
     {
       "surface": "בו",
-      "english": "⟨por él⟩",
+      "gloss": "⟨por él⟩",
       "marks": "por él"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "יסכר",
-      "english": "será cerrada"
+      "gloss": "será cerrada"
     },
     {
       "surface": "פי",
-      "english": "⟨la⟩ boca",
+      "gloss": "⟨la⟩ boca",
       "marks": "boca"
     },
     {
       "surface": "דוברי",
-      "english": "⟨los que⟩ hablan"
+      "gloss": "⟨los que⟩ hablan"
     },
     {
       "surface": "שקר",
-      "english": "mentira"
+      "gloss": "mentira"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:17.723346744Z",
-  "model": "glm-4.5"
+  ]
 }

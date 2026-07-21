@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 17:8",
   "book": "numbers",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 369,
-    "prompt_tokens": 25160,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25529
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:04:56.267325090Z",
   "translation": "Y vino Moshé y Aharón a la presencia de ⟨el⟩ Ohel Moed.",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "Y vino"
+      "gloss": "Y vino"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ואהרן",
-      "english": "y Aharón"
+      "gloss": "y Aharón"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "פני",
-      "english": "la presencia de"
+      "gloss": "la presencia de"
     },
     {
       "surface": "אהל",
-      "english": "Ohel"
+      "gloss": "Ohel"
     },
     {
       "surface": "מועד",
-      "english": "Moed"
+      "gloss": "Moed"
     }
-  ],
-  "timestamp": "2026-07-16T23:04:56.267325090Z",
-  "model": "glm-4.5"
+  ]
 }

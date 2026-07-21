@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 10:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 516,
-    "prompt_tokens": 25022,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25538
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:01:05.885002754Z",
   "translation": "Cuando toquéis ⟨el⟩ alarma, las campamentos que acampan ⟨hacia⟩ el oriente partirán.",
   "tokens": [
     {
       "surface": "ותקעתם",
-      "english": "Cuando toquéis"
+      "gloss": "Cuando toquéis"
     },
     {
       "surface": "תרועה",
-      "english": "⟨el⟩ alarma"
+      "gloss": "⟨el⟩ alarma"
     },
     {
       "surface": "ונסעו",
-      "english": "partirán"
+      "gloss": "partirán"
     },
     {
       "surface": "המחנות",
-      "english": "las campamentos"
+      "gloss": "las campamentos"
     },
     {
       "surface": "החנים",
-      "english": "que acampan"
+      "gloss": "que acampan"
     },
     {
       "surface": "קדמה",
-      "english": "⟨hacia⟩ el oriente"
+      "gloss": "⟨hacia⟩ el oriente"
     }
-  ],
-  "timestamp": "2026-07-16T23:01:05.885002754Z",
-  "model": "glm-4.5"
+  ]
 }

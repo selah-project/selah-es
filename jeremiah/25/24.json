@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "jeremiah 25:24",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 567,
-    "prompt_tokens": 24794,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25361
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:42:52.603804775Z",
   "translation": "y ⟨את⟩ todos los reyes de *Arab*, y ⟨את⟩ todos los reyes del ⟨⟩ que habitan en el desierto",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "todos los reyes de Arab"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "מלכי",
-      "english": "los reyes de"
+      "gloss": "los reyes de"
     },
     {
       "surface": "ערב",
-      "english": "*Arab*"
+      "gloss": "*Arab*"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "todos los reyes del"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "מלכי",
-      "english": "los reyes del"
+      "gloss": "los reyes del"
     },
     {
       "surface": "הערב",
-      "english": "⟨⟩"
+      "gloss": "⟨⟩"
     },
     {
       "surface": "השכנים",
-      "english": "que habitan"
+      "gloss": "que habitan"
     },
     {
       "surface": "במדבר",
-      "english": "en el desierto"
+      "gloss": "en el desierto"
     }
-  ],
-  "timestamp": "2026-07-16T21:42:52.603804775Z",
-  "model": "glm-4.5"
+  ]
 }

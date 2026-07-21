@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "song-of-songs 1:17",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27180,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27569
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:35:57.402377949Z",
   "translation": "Las vigas de nuestra casa ⟨son⟩ cedros, y nuestros paneles ⟨son⟩ cipreses ⟨את⟩.",
   "tokens": [
     {
       "surface": "קרות",
-      "english": "Vigas"
+      "gloss": "Vigas"
     },
     {
       "surface": "בתינו",
-      "english": "de nuestra casa"
+      "gloss": "de nuestra casa"
     },
     {
       "surface": "ארזים",
-      "english": "cedros"
+      "gloss": "cedros"
     },
     {
       "surface": "רחיטנו",
-      "english": "nuestros paneles"
+      "gloss": "nuestros paneles"
     },
     {
       "surface": "ברותים",
-      "english": "cipreses"
+      "gloss": "cipreses"
     }
-  ],
-  "timestamp": "2026-06-09T22:35:57.402377949Z",
-  "model": "glm-4.5"
+  ]
 }

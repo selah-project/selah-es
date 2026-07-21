@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "2-kings 19:17",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 531,
-    "prompt_tokens": 24209,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24740
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:15:44.045057807Z",
   "translation": "De verdad, YHWH, los reyes de Ashur han devastado ⟨את⟩ las naciones y ⟨את⟩ sus tierras",
   "tokens": [
     {
       "surface": "אמנם",
-      "english": "De verdad"
+      "gloss": "De verdad"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "החריבו",
-      "english": "han devastado"
+      "gloss": "han devastado"
     },
     {
       "surface": "מלכי",
-      "english": "los reyes"
+      "gloss": "los reyes"
     },
     {
       "surface": "אשור",
-      "english": "de Ashur"
+      "gloss": "de Ashur"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las naciones"
     },
     {
       "surface": "הגוים",
-      "english": "las naciones"
+      "gloss": "las naciones"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "sus tierras"
     },
     {
       "surface": "ארצם",
-      "english": "sus tierras"
+      "gloss": "sus tierras"
     }
-  ],
-  "timestamp": "2026-07-16T19:15:44.045057807Z",
-  "model": "glm-4.5"
+  ]
 }

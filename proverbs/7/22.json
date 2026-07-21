@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "proverbs 7:22",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 622,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60205,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60827
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:33:06.177607262Z",
   "translation": "yendo ⟨por⟩ ella de repente ⟨como⟩ un buey ⟨al⟩ degollino viene y ⟨como⟩ ⟨un⟩ cepo ⟨al⟩ castigo del necio",
   "tokens": [
     {
       "surface": "הולך",
-      "english": "Yendo"
+      "gloss": "Yendo"
     },
     {
       "surface": "אחריה",
-      "english": "⟨por⟩ ella",
+      "gloss": "⟨por⟩ ella",
       "marks": "ella"
     },
     {
       "surface": "פתאם",
-      "english": "de repente"
+      "gloss": "de repente"
     },
     {
       "surface": "כשור",
-      "english": "⟨como⟩ un buey"
+      "gloss": "⟨como⟩ un buey"
     },
     {
       "surface": "אל",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "טבח",
-      "english": "degollino"
+      "gloss": "degollino"
     },
     {
       "surface": "יבוא",
-      "english": "viene"
+      "gloss": "viene"
     },
     {
       "surface": "וכעכס",
-      "english": "y ⟨como⟩ ⟨un⟩ cepo"
+      "gloss": "y ⟨como⟩ ⟨un⟩ cepo"
     },
     {
       "surface": "אל",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "מוסר",
-      "english": "castigo"
+      "gloss": "castigo"
     },
     {
       "surface": "אויל",
-      "english": "del necio"
+      "gloss": "del necio"
     }
-  ],
-  "timestamp": "2026-06-10T01:33:06.177607262Z",
-  "model": "glm-4.5"
+  ]
 }

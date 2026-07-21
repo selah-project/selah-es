@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 11:5",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26045,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26461
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:27:58.370257449Z",
   "translation": "y será ⟨el⟩ tzédek ⟨el⟩ cinturón de sus lomos y ⟨la⟩ emuná ⟨el⟩ cinturón de sus caderas",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "Y será"
+      "gloss": "Y será"
     },
     {
       "surface": "צדק",
-      "english": "⟨el⟩ tzédek"
+      "gloss": "⟨el⟩ tzédek"
     },
     {
       "surface": "אזור",
-      "english": "⟨el⟩ cinturón"
+      "gloss": "⟨el⟩ cinturón"
     },
     {
       "surface": "מתניו",
-      "english": "de sus lomos",
+      "gloss": "de sus lomos",
       "marks": "sus lomos"
     },
     {
       "surface": "והאמונה",
-      "english": "y ⟨la⟩ emuná"
+      "gloss": "y ⟨la⟩ emuná"
     },
     {
       "surface": "אזור",
-      "english": "⟨el⟩ cinturón"
+      "gloss": "⟨el⟩ cinturón"
     },
     {
       "surface": "חלציו",
-      "english": "de sus caderas",
+      "gloss": "de sus caderas",
       "marks": "sus caderas"
     }
-  ],
-  "timestamp": "2026-06-10T02:27:58.370257449Z",
-  "model": "glm-4.5"
+  ]
 }

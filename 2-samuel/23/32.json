@@ -1,9 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "2-samuel 23:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 23,
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:40:25.897611777Z",
+  "translation": "Eljachba ⟨el⟩ Shaalbonita, ⟨los⟩ hijos de Jashen, Yonatán,",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "Eljachba"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "⟨el⟩ Shaalbonita",
+      "marks": "Eljachba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos de",
+      "marks": "Jashen"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "Jashen"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatán"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jonatán",
@@ -13,46 +42,6 @@
       "hebrew": "יונתן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16630,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 16910
-  },
-  "translation": "Eljachba ⟨el⟩ Shaalbonita, ⟨los⟩ hijos de Jashen, Yonatán,",
-  "tokens": [
-    {
-      "surface": "אליחבא",
-      "english": "Eljachba"
-    },
-    {
-      "surface": "השעלבני",
-      "english": "⟨el⟩ Shaalbonita",
-      "marks": "Eljachba"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos de",
-      "marks": "Jashen"
-    },
-    {
-      "surface": "ישן",
-      "english": "Jashen"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yonatán"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:40:25.897611777Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

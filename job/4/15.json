@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 4:15",
   "book": "job",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27035,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27383
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:26.838450021Z",
   "translation": "Y un espíritu pasó ante ⟨mi⟩ rostro, se erizó ⟨el⟩ vello de ⟨mi⟩ carne:",
   "tokens": [
     {
       "surface": "ורוח",
-      "english": "Y un espíritu"
+      "gloss": "Y un espíritu"
     },
     {
       "surface": "על",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "פני",
-      "english": "⟨mi⟩ rostro"
+      "gloss": "⟨mi⟩ rostro"
     },
     {
       "surface": "יחלף",
-      "english": "pasó"
+      "gloss": "pasó"
     },
     {
       "surface": "תסמר",
-      "english": "se erizó"
+      "gloss": "se erizó"
     },
     {
       "surface": "שערת",
-      "english": "⟨el⟩ vello"
+      "gloss": "⟨el⟩ vello"
     },
     {
       "surface": "בשרי",
-      "english": "de ⟨mi⟩ carne"
+      "gloss": "de ⟨mi⟩ carne"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:26.838450021Z",
-  "model": "glm-4.5"
+  ]
 }

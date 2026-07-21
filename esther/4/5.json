@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "esther 4:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 4,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:50:53.016032046Z",
+  "translation": "Y ⟨está⟩ Ester llamando a Hataj ⟨el⟩ de los eunucos ⟨del⟩ rey, que ⟨está⟩ colocado delante de ella; y ⟨le⟩ ordenó sobre Mordejai para saber qué ⟨es⟩ esto y sobre qué ⟨es⟩ esto.",
+  "tokens": [
+    {
+      "surface": "וַ\/תִּקְרָא֩",
+      "gloss": "Y ⟨está⟩"
+    },
+    {
+      "surface": "אֶסְתֵּ֨ר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "לַ\/הֲתָ֜ךְ",
+      "gloss": "llamando a Hataj"
+    },
+    {
+      "surface": "מִ\/סָּרִיסֵ֤י",
+      "gloss": "⟨el⟩ de los eunucos"
+    },
+    {
+      "surface": "הַ\/מֶּ֨לֶךְ֙",
+      "gloss": "⟨del⟩ rey"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הֶעֱמִ֣יד",
+      "gloss": "⟨está⟩"
+    },
+    {
+      "surface": "לְ\/פָנֶ֔י\/הָ",
+      "gloss": "colocado delante de ella"
+    },
+    {
+      "surface": "וַ\/תְּצַוֵּ֖\/הוּ",
+      "gloss": "y ⟨le⟩ ordenó"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "מָרְדֳּכָ֑י",
+      "gloss": "Mordejai"
+    },
+    {
+      "surface": "לָ\/דַ֥עַת",
+      "gloss": "para saber"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "qué"
+    },
+    {
+      "surface": "זֶּ֖ה",
+      "gloss": "⟨es⟩ esto"
+    },
+    {
+      "surface": "וְ\/עַל",
+      "gloss": "y sobre"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "qué"
+    },
+    {
+      "surface": "זֶּֽה",
+      "gloss": "⟨es⟩ esto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mardoqueo",
@@ -13,92 +88,6 @@
       "hebrew": "מרדכי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 858,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18206,
-    "prompt_tokens_details": {
-      "cached_tokens": 16282
-    },
-    "total_tokens": 19064
-  },
-  "translation": "Y ⟨está⟩ Ester llamando a Hataj ⟨el⟩ de los eunucos ⟨del⟩ rey, que ⟨está⟩ colocado delante de ella; y ⟨le⟩ ordenó sobre Mordejai para saber qué ⟨es⟩ esto y sobre qué ⟨es⟩ esto.",
-  "tokens": [
-    {
-      "surface": "וַ\/תִּקְרָא֩",
-      "english": "Y ⟨está⟩"
-    },
-    {
-      "surface": "אֶסְתֵּ֨ר",
-      "english": "Ester"
-    },
-    {
-      "surface": "לַ\/הֲתָ֜ךְ",
-      "english": "llamando a Hataj"
-    },
-    {
-      "surface": "מִ\/סָּרִיסֵ֤י",
-      "english": "⟨el⟩ de los eunucos"
-    },
-    {
-      "surface": "הַ\/מֶּ֨לֶךְ֙",
-      "english": "⟨del⟩ rey"
-    },
-    {
-      "surface": "אֲשֶׁ֣ר",
-      "english": "que"
-    },
-    {
-      "surface": "הֶעֱמִ֣יד",
-      "english": "⟨está⟩"
-    },
-    {
-      "surface": "לְ\/פָנֶ֔י\/הָ",
-      "english": "colocado delante de ella"
-    },
-    {
-      "surface": "וַ\/תְּצַוֵּ֖\/הוּ",
-      "english": "y ⟨le⟩ ordenó"
-    },
-    {
-      "surface": "עַֽל",
-      "english": "sobre"
-    },
-    {
-      "surface": "מָרְדֳּכָ֑י",
-      "english": "Mordejai"
-    },
-    {
-      "surface": "לָ\/דַ֥עַת",
-      "english": "para saber"
-    },
-    {
-      "surface": "מַה",
-      "english": "qué"
-    },
-    {
-      "surface": "זֶּ֖ה",
-      "english": "⟨es⟩ esto"
-    },
-    {
-      "surface": "וְ\/עַל",
-      "english": "y sobre"
-    },
-    {
-      "surface": "מַה",
-      "english": "qué"
-    },
-    {
-      "surface": "זֶּֽה",
-      "english": "⟨es⟩ esto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:50:53.016032046Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

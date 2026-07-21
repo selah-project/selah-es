@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 68:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70032,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70513
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:34.102277720Z",
   "translation": "y los ⟨los⟩ justos se alegrarán ⟨se alegrarán⟩, gritarán de júbilo ⟨gritarán de júbilo⟩ ante ⟨ante⟩ la presencia de ⟨la presencia de⟩ Elohim, ⟨Elohim⟩, y ⟨y⟩ se regocijarán con gozo ⟨con gozo⟩",
   "tokens": [
     {
       "surface": "וצדיקים",
-      "english": "Y los ⟨los⟩ justos"
+      "gloss": "Y los ⟨los⟩ justos"
     },
     {
       "surface": "ישמחו",
-      "english": "se alegrarán ⟨se alegrarán⟩"
+      "gloss": "se alegrarán ⟨se alegrarán⟩"
     },
     {
       "surface": "יעלצו",
-      "english": "gritarán de júbilo ⟨gritarán de júbilo⟩"
+      "gloss": "gritarán de júbilo ⟨gritarán de júbilo⟩"
     },
     {
       "surface": "לפני",
-      "english": "ante ⟨ante⟩"
+      "gloss": "ante ⟨ante⟩"
     },
     {
       "surface": "אלהים",
-      "english": "la presencia de ⟨la presencia de⟩ Elohim"
+      "gloss": "la presencia de ⟨la presencia de⟩ Elohim"
     },
     {
       "surface": "וישישו",
-      "english": "y ⟨y⟩ se regocijarán"
+      "gloss": "y ⟨y⟩ se regocijarán"
     },
     {
       "surface": "בשמחה",
-      "english": "con gozo ⟨con gozo⟩"
+      "gloss": "con gozo ⟨con gozo⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:34.102277720Z",
-  "model": "glm-4.5"
+  ]
 }

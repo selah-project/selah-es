@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "judges 13:18",
   "book": "judges",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23322,
-    "prompt_tokens_details": {
-      "cached_tokens": 22160
-    },
-    "total_tokens": 23828
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:58:31.804921118Z",
   "translation": "Y el mensajero de YHWH le dijo: ¿Por qué ⟨es⟩ esto que preguntas por ⟨el⟩ ⟨nombre⟩ mío, ⟨puesto que⟩ ⟨es⟩ maravilloso?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y"
+      "gloss": "Y"
     },
     {
       "surface": "לו",
-      "english": "el mensajero de YHWH le dijo"
+      "gloss": "el mensajero de YHWH le dijo"
     },
     {
       "surface": "מלאך",
-      "english": "el mensajero de YHWH le dijo"
+      "gloss": "el mensajero de YHWH le dijo"
     },
     {
       "surface": "יהוה",
-      "english": "el mensajero de YHWH le dijo"
+      "gloss": "el mensajero de YHWH le dijo"
     },
     {
       "surface": "למה",
-      "english": "¿Por qué"
+      "gloss": "¿Por qué"
     },
     {
       "surface": "זה",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "תשאל",
-      "english": "que preguntas"
+      "gloss": "que preguntas"
     },
     {
       "surface": "לשמי",
-      "english": "por ⟨el⟩ ⟨nombre⟩ mío"
+      "gloss": "por ⟨el⟩ ⟨nombre⟩ mío"
     },
     {
       "surface": "והוא",
-      "english": "⟨puesto que⟩ ⟨es⟩"
+      "gloss": "⟨puesto que⟩ ⟨es⟩"
     },
     {
       "surface": "פלאי",
-      "english": "maravilloso"
+      "gloss": "maravilloso"
     }
-  ],
-  "timestamp": "2026-06-10T00:58:31.804921118Z",
-  "model": "glm-4.5"
+  ]
 }

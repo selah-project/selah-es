@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 20:2",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26950,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27404
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:52.240527262Z",
   "translation": "Por ⟨lo⟩ tanto mis ⟨diversos⟩ pensamientos ⟨me⟩ hacen responder ⟨את⟩ ⟨esto⟩, y ⟨por⟩ mi ⟨prisa⟩ que ⟨está⟩ en mí",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "Por ⟨lo⟩ tanto"
+      "gloss": "Por ⟨lo⟩ tanto"
     },
     {
       "surface": "שעפי",
-      "english": "mis ⟨diversos⟩ pensamientos"
+      "gloss": "mis ⟨diversos⟩ pensamientos"
     },
     {
       "surface": "ישיבוני",
-      "english": "⟨me⟩ hacen responder"
+      "gloss": "⟨me⟩ hacen responder"
     },
     {
       "surface": "ובעבור",
-      "english": "⟨y por⟩"
+      "gloss": "⟨y por⟩"
     },
     {
       "surface": "חושי",
-      "english": "mi ⟨prisa⟩"
+      "gloss": "mi ⟨prisa⟩"
     },
     {
       "surface": "בי",
-      "english": "que ⟨está⟩ en mí"
+      "gloss": "que ⟨está⟩ en mí"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:52.240527262Z",
-  "model": "glm-4.5"
+  ]
 }

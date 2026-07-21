@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 77:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69944,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70296
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:55.793403953Z",
   "translation": "¿ha olvidado ⟨el⟩ Todopoderoso ⟨el⟩ favor? ¿⟨o⟩ en ⟨su⟩ enojo ha cerrado ⟨sus⟩ compasiones? Selah",
   "tokens": [
     {
       "surface": "השכח",
-      "english": "Ha olvidado"
+      "gloss": "Ha olvidado"
     },
     {
       "surface": "חנות",
-      "english": "⟨el⟩ favor",
+      "gloss": "⟨el⟩ favor",
       "marks": "compasiones"
     },
     {
       "surface": "אל",
-      "english": "⟨el⟩ Todopoderoso"
+      "gloss": "⟨el⟩ Todopoderoso"
     },
     {
       "surface": "אם",
-      "english": "¿⟨o⟩"
+      "gloss": "¿⟨o⟩"
     },
     {
       "surface": "קפץ",
-      "english": "ha cerrado"
+      "gloss": "ha cerrado"
     },
     {
       "surface": "באף",
-      "english": "en ⟨su⟩ enojo",
+      "gloss": "en ⟨su⟩ enojo",
       "marks": "enojo"
     },
     {
       "surface": "רחמיו",
-      "english": "⟨sus⟩ compasiones"
+      "gloss": "⟨sus⟩ compasiones"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:35:55.793403953Z",
-  "model": "glm-4.5"
+  ]
 }

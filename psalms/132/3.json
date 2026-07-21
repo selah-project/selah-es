@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 132:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70009,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70475
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:05:32.663509787Z",
   "translation": "Si entro ⟨en⟩ ⟨la⟩ tienda ⟨de⟩ mi casa, si subo ⟨al⟩ estrado ⟨de⟩ mi lecho",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si",
+      "gloss": "Si",
       "marks": ""
     },
     {
       "surface": "אבא",
-      "english": "entro",
+      "gloss": "entro",
       "marks": ""
     },
     {
       "surface": "באהל",
-      "english": "⟨en⟩ ⟨la⟩ tienda",
+      "gloss": "⟨en⟩ ⟨la⟩ tienda",
       "marks": "mi casa"
     },
     {
       "surface": "ביתי",
-      "english": "⟨de⟩ mi casa",
+      "gloss": "⟨de⟩ mi casa",
       "marks": ""
     },
     {
       "surface": "אם",
-      "english": "si",
+      "gloss": "si",
       "marks": ""
     },
     {
       "surface": "אעלה",
-      "english": "subo",
+      "gloss": "subo",
       "marks": ""
     },
     {
       "surface": "על",
-      "english": "⟨al⟩",
+      "gloss": "⟨al⟩",
       "marks": "estrado ⟨de⟩ mi lecho"
     },
     {
       "surface": "ערש",
-      "english": "estrado",
+      "gloss": "estrado",
       "marks": ""
     },
     {
       "surface": "יצועי",
-      "english": "⟨de⟩ mi lecho",
+      "gloss": "⟨de⟩ mi lecho",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T00:05:32.663509787Z",
-  "model": "glm-4.5"
+  ]
 }

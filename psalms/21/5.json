@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 21:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70017,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70474
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:25.744169932Z",
   "translation": "Vida pidió de ti, se ⟨la⟩ diste a él, longitud de días ⟨el⟩ mundo y ⟨para⟩ siempre.",
   "tokens": [
     {
       "surface": "חיים",
-      "english": "Vida"
+      "gloss": "Vida"
     },
     {
       "surface": "שאל",
-      "english": "pidió"
+      "gloss": "pidió"
     },
     {
       "surface": "ממך",
-      "english": "de ti"
+      "gloss": "de ti"
     },
     {
       "surface": "נתתה",
-      "english": "se ⟨la⟩ diste",
+      "gloss": "se ⟨la⟩ diste",
       "marks": "vida"
     },
     {
       "surface": "לו",
-      "english": "a él"
+      "gloss": "a él"
     },
     {
       "surface": "ארך",
-      "english": "longitud"
+      "gloss": "longitud"
     },
     {
       "surface": "ימים",
-      "english": "de días"
+      "gloss": "de días"
     },
     {
       "surface": "עולם",
-      "english": "⟨el⟩ mundo",
+      "gloss": "⟨el⟩ mundo",
       "marks": "duración"
     },
     {
       "surface": "ועד",
-      "english": "⟨para⟩ siempre"
+      "gloss": "⟨para⟩ siempre"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:25.744169932Z",
-  "model": "glm-4.5"
+  ]
 }

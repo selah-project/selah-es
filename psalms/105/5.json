@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 105:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69951,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70340
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:36.792426907Z",
   "translation": "Recordad ⟨sus⟩ maravillas ⟨que⟩ hizo, ⟨sus⟩ portentos y los juicios de ⟨su⟩ boca",
   "tokens": [
     {
       "surface": "זכרו",
-      "english": "Recordad"
+      "gloss": "Recordad"
     },
     {
       "surface": "נפלאותיו",
-      "english": "⟨sus⟩ maravillas",
+      "gloss": "⟨sus⟩ maravillas",
       "marks": "maravillas"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "עשה",
-      "english": "hizo"
+      "gloss": "hizo"
     },
     {
       "surface": "מפתיו",
-      "english": "⟨sus⟩ portentos",
+      "gloss": "⟨sus⟩ portentos",
       "marks": "portentos"
     },
     {
       "surface": "ומשפטי",
-      "english": "y los juicios"
+      "gloss": "y los juicios"
     },
     {
       "surface": "פיו",
-      "english": "de ⟨su⟩ boca",
+      "gloss": "de ⟨su⟩ boca",
       "marks": "boca"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:36.792426907Z",
-  "model": "glm-4.5"
+  ]
 }

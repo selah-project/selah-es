@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 130,
   "ref": "psalms 119:130",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 655,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69684,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70339
-  },
+  "verse": 130,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:06.673033584Z",
   "translation": "La apertura ⟨de⟩ tus palabras ⟨da⟩ luz; ⟨ella⟩ ⟨da⟩ entendimiento ⟨a⟩ los ingenuos.",
   "tokens": [
     {
       "surface": "פתח",
-      "english": "La apertura",
+      "gloss": "La apertura",
       "notes": [
         {
           "kind": "substitution",
@@ -31,12 +22,12 @@
     },
     {
       "surface": "דבריך",
-      "english": "⟨de⟩ tus palabras",
+      "gloss": "⟨de⟩ tus palabras",
       "marks": "tus palabras"
     },
     {
       "surface": "יאיר",
-      "english": "⟨da⟩ luz",
+      "gloss": "⟨da⟩ luz",
       "notes": [
         {
           "kind": "addition",
@@ -47,7 +38,7 @@
     },
     {
       "surface": "מבין",
-      "english": "⟨ella⟩ ⟨da⟩ entendimiento",
+      "gloss": "⟨ella⟩ ⟨da⟩ entendimiento",
       "notes": [
         {
           "kind": "elision",
@@ -58,7 +49,7 @@
     },
     {
       "surface": "פתיים",
-      "english": "⟨a⟩ los ingenuos",
+      "gloss": "⟨a⟩ los ingenuos",
       "notes": [
         {
           "kind": "substitution",
@@ -72,7 +63,5 @@
         }
       ]
     }
-  ],
-  "timestamp": "2026-06-10T00:02:06.673033584Z",
-  "model": "glm-4.5"
+  ]
 }

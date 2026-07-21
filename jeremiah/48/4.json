@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "jeremiah 48:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 48,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:09:20.036428589Z",
+  "translation": "Moav ⟨is⟩ shattered, ⟨the⟩ little ones have caused a cry to be heard.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "Shattered"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "have caused to be heard"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "a cry"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "her little ones"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moab",
@@ -13,44 +40,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 241,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16850,
-    "prompt_tokens_details": {
-      "cached_tokens": 16046
-    },
-    "total_tokens": 17091
-  },
-  "translation": "Moav ⟨is⟩ shattered, ⟨the⟩ little ones have caused a cry to be heard.",
-  "tokens": [
-    {
-      "surface": "נשברה",
-      "english": "Shattered"
-    },
-    {
-      "surface": "מואב",
-      "english": "Moav"
-    },
-    {
-      "surface": "השמיעו",
-      "english": "have caused to be heard"
-    },
-    {
-      "surface": "זעקה",
-      "english": "a cry"
-    },
-    {
-      "surface": "צעוריה",
-      "english": "her little ones"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:09:20.036428589Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

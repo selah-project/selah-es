@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 23:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 436,
-    "prompt_tokens": 26442,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26878
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:25:09.366002798Z",
   "translation": "Y en muchas aguas ⟨está⟩ la semilla de Shijor, la cosecha del Yeor ⟨es⟩ su ingreso, y ⟨fue⟩ el comercio ⟨de⟩ las naciones.",
   "tokens": [
     {
       "surface": "ובמים",
-      "english": "Y en muchas aguas"
+      "gloss": "Y en muchas aguas"
     },
     {
       "surface": "רבים",
-      "english": "muchas"
+      "gloss": "muchas"
     },
     {
       "surface": "זרע",
-      "english": "semilla"
+      "gloss": "semilla"
     },
     {
       "surface": "שחר",
-      "english": "Shijor"
+      "gloss": "Shijor"
     },
     {
       "surface": "קציר",
-      "english": "cosecha"
+      "gloss": "cosecha"
     },
     {
       "surface": "יאור",
-      "english": "Yeor"
+      "gloss": "Yeor"
     },
     {
       "surface": "תבואתה",
-      "english": "su ingreso"
+      "gloss": "su ingreso"
     },
     {
       "surface": "ותהי",
-      "english": "y ⟨fue⟩"
+      "gloss": "y ⟨fue⟩"
     },
     {
       "surface": "סחר",
-      "english": "comercio ⟨de⟩"
+      "gloss": "comercio ⟨de⟩"
     },
     {
       "surface": "גוים",
-      "english": "las naciones"
+      "gloss": "las naciones"
     }
-  ],
-  "timestamp": "2026-07-16T21:25:09.366002798Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 91:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 340,
-    "prompt_tokens": 70035,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70375
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:36.427981199Z",
   "translation": "Sobre león y áspid ⟨tú⟩ pisarás; ⟨tú⟩ aplastarás al león joven y al dragón",
   "tokens": [
     {
       "surface": "על",
-      "english": "Sobre"
+      "gloss": "Sobre"
     },
     {
       "surface": "שחל",
-      "english": "león"
+      "gloss": "león"
     },
     {
       "surface": "ופתן",
-      "english": "y áspid"
+      "gloss": "y áspid"
     },
     {
       "surface": "תדרך",
-      "english": "⟨tú⟩ pisarás"
+      "gloss": "⟨tú⟩ pisarás"
     },
     {
       "surface": "תרמס",
-      "english": "⟨tú⟩ aplastarás"
+      "gloss": "⟨tú⟩ aplastarás"
     },
     {
       "surface": "כפיר",
-      "english": "al león joven"
+      "gloss": "al león joven"
     },
     {
       "surface": "ותנין",
-      "english": "y al dragón"
+      "gloss": "y al dragón"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:36.427981199Z",
-  "model": "glm-4.5"
+  ]
 }

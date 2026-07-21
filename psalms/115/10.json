@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 115:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69850,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70166
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:13.669826797Z",
   "translation": "⟨La⟩ casa de Aharón, confiad ⟨en⟩ YHWH; ⟨Él es⟩ su ayuda y su escudo.",
   "tokens": [
     {
       "surface": "בית",
-      "english": "Casa"
+      "gloss": "Casa"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "בטחו",
-      "english": "confiad"
+      "gloss": "confiad"
     },
     {
       "surface": "ביהוה",
-      "english": "⟨en⟩ YHWH"
+      "gloss": "⟨en⟩ YHWH"
     },
     {
       "surface": "עזרם",
-      "english": "ayuda"
+      "gloss": "ayuda"
     },
     {
       "surface": "ומגנם",
-      "english": "escudo"
+      "gloss": "escudo"
     },
     {
       "surface": "הוא",
-      "english": "⟨Él es⟩"
+      "gloss": "⟨Él es⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:13.669826797Z",
-  "model": "glm-4.5"
+  ]
 }

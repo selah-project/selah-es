@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "isaiah 37:35",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26149,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26420
-  },
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:44:17.285187385Z",
   "translation": "Y ⟨is⟩ ⟨el⟩ que cubre ⟨sobre⟩ esta ciudad para salvarla, por mi causa y por causa de David mi siervo",
   "tokens": [
     {
       "surface": "וגנותי",
-      "english": "Y ⟨is⟩ ⟨el⟩ que cubre"
+      "gloss": "Y ⟨is⟩ ⟨el⟩ que cubre"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "העיר",
-      "english": "esta ciudad"
+      "gloss": "esta ciudad"
     },
     {
       "surface": "הזאת",
-      "english": "esta"
+      "gloss": "esta"
     },
     {
       "surface": "להושיעה",
-      "english": "para salvarla"
+      "gloss": "para salvarla"
     },
     {
       "surface": "למעני",
-      "english": "por mi causa"
+      "gloss": "por mi causa"
     },
     {
       "surface": "ולמען",
-      "english": "y por causa de"
+      "gloss": "y por causa de"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "עבדי",
-      "english": "mi siervo"
+      "gloss": "mi siervo"
     }
-  ],
-  "timestamp": "2026-06-10T02:44:17.285187385Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "daniel 11:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 11,
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:08:33.624263789Z",
+  "translation": "Y los que obran impíamente ⟨por⟩ Brit ⟨serán⟩ contaminados con lisonjas; pero el pueblo que conoce a sus Elohim ⟨será⟩ fuerte y ⟨hará⟩ ⟨grandes cosas⟩.",
+  "tokens": [
+    {
+      "surface": "ומרשיעי",
+      "gloss": "Y los que obran impíamente"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨por⟩ Brit"
+    },
+    {
+      "surface": "יחניף",
+      "gloss": "⟨serán⟩ contaminados con lisonjas"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "con lisonjas"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "pero el pueblo"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "que conoce"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "a sus Elohim"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "⟨será⟩ fuerte"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "y ⟨hará⟩ ⟨grandes cosas⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el pacto",
@@ -13,60 +56,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17018,
-    "prompt_tokens_details": {
-      "cached_tokens": 15766
-    },
-    "total_tokens": 17596
-  },
-  "translation": "Y los que obran impíamente ⟨por⟩ Brit ⟨serán⟩ contaminados con lisonjas; pero el pueblo que conoce a sus Elohim ⟨será⟩ fuerte y ⟨hará⟩ ⟨grandes cosas⟩.",
-  "tokens": [
-    {
-      "surface": "ומרשיעי",
-      "english": "Y los que obran impíamente"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨por⟩ Brit"
-    },
-    {
-      "surface": "יחניף",
-      "english": "⟨serán⟩ contaminados con lisonjas"
-    },
-    {
-      "surface": "בחלקות",
-      "english": "con lisonjas"
-    },
-    {
-      "surface": "ועם",
-      "english": "pero el pueblo"
-    },
-    {
-      "surface": "ידעי",
-      "english": "que conoce"
-    },
-    {
-      "surface": "אלהיו",
-      "english": "a sus Elohim"
-    },
-    {
-      "surface": "יחזקו",
-      "english": "⟨será⟩ fuerte"
-    },
-    {
-      "surface": "ועשו",
-      "english": "y ⟨hará⟩ ⟨grandes cosas⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:08:33.624263789Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

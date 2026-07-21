@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 17:15",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60020,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60533
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:41:24.018135730Z",
   "translation": "⟨El que⟩ justifica ⟨al⟩ malvado ⟨y⟩ ⟨el que⟩ condena ⟨al⟩ justo — ⟨son⟩ ⟨abominación⟩ ⟨a⟩ YHWH, ⟨ambos⟩ ⟨son⟩ ⟨iguales⟩",
   "tokens": [
     {
       "surface": "מצדיק",
-      "english": "⟨El que⟩ justifica"
+      "gloss": "⟨El que⟩ justifica"
     },
     {
       "surface": "רשע",
-      "english": "⟨al⟩ malvado"
+      "gloss": "⟨al⟩ malvado"
     },
     {
       "surface": "וּ\/מַרְשִׁיע",
-      "english": "⟨y⟩ ⟨el que⟩ condena"
+      "gloss": "⟨y⟩ ⟨el que⟩ condena"
     },
     {
       "surface": "צַדִּיק",
-      "english": "⟨al⟩ justo"
+      "gloss": "⟨al⟩ justo"
     },
     {
       "surface": "תּוֹעֲבַת",
-      "english": "⟨son⟩ ⟨abominación⟩"
+      "gloss": "⟨son⟩ ⟨abominación⟩"
     },
     {
       "surface": "יְהוָה",
-      "english": "⟨a⟩ YHWH"
+      "gloss": "⟨a⟩ YHWH"
     },
     {
       "surface": "גַּם",
-      "english": "⟨ambos⟩"
+      "gloss": "⟨ambos⟩"
     },
     {
       "surface": "שְׁנֵי\/הֶֽם",
-      "english": "⟨son⟩ ⟨iguales⟩"
+      "gloss": "⟨son⟩ ⟨iguales⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:41:24.018135730Z",
-  "model": "glm-4.5"
+  ]
 }

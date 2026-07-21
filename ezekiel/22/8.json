@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "ezekiel 22:8",
   "book": "ezekiel",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 360,
-    "prompt_tokens": 24315,
-    "prompt_tokens_details": {
-      "cached_tokens": 23296
-    },
-    "total_tokens": 24675
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:36:41.199609709Z",
   "translation": "Mi santuario ⟨has⟩ despreciado y ⟨את⟩ mis Shabbats ⟨has⟩ profanado",
   "tokens": [
     {
       "surface": "קדשי",
-      "english": "Mi santuario"
+      "gloss": "Mi santuario"
     },
     {
       "surface": "בזית",
-      "english": "⟨has⟩ despreciado"
+      "gloss": "⟨has⟩ despreciado"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "mis Shabbats"
     },
     {
       "surface": "שבתתי",
-      "english": "mis Shabbats"
+      "gloss": "mis Shabbats"
     },
     {
       "surface": "חללת",
-      "english": "⟨has⟩ profanado"
+      "gloss": "⟨has⟩ profanado"
     }
-  ],
-  "timestamp": "2026-07-16T20:36:41.199609709Z",
-  "model": "glm-4.5"
+  ]
 }

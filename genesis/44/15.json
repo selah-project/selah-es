@@ -1,88 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 44:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 29107,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29611
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:41:27.334790398Z",
   "translation": "Y Yosef dijo a ellos: ¿Qué es este hecho que ⟨han⟩ ⟨hecho⟩? ¿No sabían ⟨ustedes⟩ que ⟨un⟩ hombre como ⟨mí⟩ ⟨puede⟩ ⟨adivinar⟩ ⟨ciertamente⟩?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y Yosef dijo"
+      "gloss": "Y Yosef dijo"
     },
     {
       "surface": "להם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "מה",
-      "english": "¿Qué es"
+      "gloss": "¿Qué es"
     },
     {
       "surface": "המעשה",
-      "english": "este hecho"
+      "gloss": "este hecho"
     },
     {
       "surface": "הזה",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "עשיתם",
-      "english": "⟨han⟩ ⟨hecho⟩"
+      "gloss": "⟨han⟩ ⟨hecho⟩"
     },
     {
       "surface": "הלוא",
-      "english": "¿No"
+      "gloss": "¿No"
     },
     {
       "surface": "ידעתם",
-      "english": "sabían ⟨ustedes⟩"
+      "gloss": "sabían ⟨ustedes⟩"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "נחש",
-      "english": "⟨puede⟩ ⟨adivinar⟩"
+      "gloss": "⟨puede⟩ ⟨adivinar⟩"
     },
     {
       "surface": "ינחש",
-      "english": "⟨ciertamente⟩"
+      "gloss": "⟨ciertamente⟩"
     },
     {
       "surface": "איש",
-      "english": "⟨un⟩ hombre"
+      "gloss": "⟨un⟩ hombre"
     },
     {
       "surface": "אשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "כמני",
-      "english": "⟨mí⟩"
+      "gloss": "⟨mí⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:41:27.334790398Z",
-  "model": "glm-4.5"
+  ]
 }

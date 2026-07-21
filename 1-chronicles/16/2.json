@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 16:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 16,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:45:29.580342126Z",
+  "translation": "Y Davidd ⟨terminó⟩ ⟨de⟩ subir ⟨el⟩ holocausto y ⟨las⟩ ofrendas de paz, y bendijo ⟨a⟩ ⟨el⟩ pueblo ⟨con⟩ ⟨el⟩ nombre ⟨de⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Y David ⟨terminó⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "⟨de⟩ subir"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "⟨el⟩ holocausto"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "y ⟨las⟩ ofrendas de paz"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "y bendijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "⟨el⟩ pueblo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨el⟩ pueblo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨con⟩ ⟨el⟩ nombre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,65 +61,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57064,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57552
-  },
-  "translation": "Y Davidd ⟨terminó⟩ ⟨de⟩ subir ⟨el⟩ holocausto y ⟨las⟩ ofrendas de paz, y bendijo ⟨a⟩ ⟨el⟩ pueblo ⟨con⟩ ⟨el⟩ nombre ⟨de⟩ YHWH.",
-  "tokens": [
-    {
-      "surface": "ויכל",
-      "english": "Y David ⟨terminó⟩"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מהעלות",
-      "english": "⟨de⟩ subir"
-    },
-    {
-      "surface": "העלה",
-      "english": "⟨el⟩ holocausto"
-    },
-    {
-      "surface": "והשלמים",
-      "english": "y ⟨las⟩ ofrendas de paz"
-    },
-    {
-      "surface": "ויברך",
-      "english": "y bendijo"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "⟨el⟩ pueblo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨el⟩ pueblo"
-    },
-    {
-      "surface": "בשם",
-      "english": "⟨con⟩ ⟨el⟩ nombre"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:45:29.580342126Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

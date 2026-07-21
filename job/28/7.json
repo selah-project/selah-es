@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 28:7",
   "book": "job",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 606,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27095,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27701
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:12.763270735Z",
   "translation": "Un camino ⟨no⟩ ⟨conoció⟩ ⟨את⟩ ⟨el halcón⟩ y ⟨no⟩ ⟨escudriñó⟩ ⟨el ojo⟩ ⟨del milano⟩",
   "tokens": [
     {
       "surface": "נתיב",
-      "english": "Un camino"
+      "gloss": "Un camino"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ידעו",
-      "english": "⟨conoció⟩"
+      "gloss": "⟨conoció⟩"
     },
     {
       "surface": "עיט",
-      "english": "⟨el halcón⟩",
+      "gloss": "⟨el halcón⟩",
       "marks": "Un camino"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "שזפתו",
-      "english": "⟨escudriñó⟩"
+      "gloss": "⟨escudriñó⟩"
     },
     {
       "surface": "עין",
-      "english": "⟨el ojo⟩"
+      "gloss": "⟨el ojo⟩"
     },
     {
       "surface": "איה",
-      "english": "⟨del milano⟩"
+      "gloss": "⟨del milano⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:12.763270735Z",
-  "model": "glm-4.5"
+  ]
 }

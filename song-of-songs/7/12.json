@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "song-of-songs 7:12",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27487,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27865
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:38:57.479624719Z",
   "translation": "Ven amado mío, salgamos ⟨al⟩ campo, pernoctemos ⟨en⟩ ⟨las⟩ aldeas.",
   "tokens": [
     {
       "surface": "לכה",
-      "english": "Ven"
+      "gloss": "Ven"
     },
     {
       "surface": "דודי",
-      "english": "amado mío"
+      "gloss": "amado mío"
     },
     {
       "surface": "נצא",
-      "english": "salgamos"
+      "gloss": "salgamos"
     },
     {
       "surface": "השדה",
-      "english": "⟨al⟩ campo"
+      "gloss": "⟨al⟩ campo"
     },
     {
       "surface": "נלינה",
-      "english": "pernoctemos"
+      "gloss": "pernoctemos"
     },
     {
       "surface": "בכפרים",
-      "english": "⟨en⟩ ⟨las⟩ aldeas"
+      "gloss": "⟨en⟩ ⟨las⟩ aldeas"
     }
-  ],
-  "timestamp": "2026-06-09T22:38:57.479624719Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 89:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70035,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70463
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:59.993496075Z",
   "translation": "Tú ⟨que⟩ aplastaste ⟨a⟩ Rahab ⟨como⟩ ⟨a⟩ ⟨un⟩ herido; tú dispersaste ⟨a⟩ tus enemigos ⟨con⟩ ⟨el⟩ brazo ⟨de⟩ tu fortaleza",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "דכאת",
-      "english": "⟨que⟩ aplastaste"
+      "gloss": "⟨que⟩ aplastaste"
     },
     {
       "surface": "כחלל",
-      "english": "⟨a⟩ Rahab"
+      "gloss": "⟨a⟩ Rahab"
     },
     {
       "surface": "רהב",
-      "english": "Rahab"
+      "gloss": "Rahab"
     },
     {
       "surface": "בזרוע",
-      "english": "⟨como⟩ ⟨a⟩ ⟨un⟩ herido"
+      "gloss": "⟨como⟩ ⟨a⟩ ⟨un⟩ herido"
     },
     {
       "surface": "עזך",
-      "english": "tú dispersaste ⟨a⟩ tus enemigos ⟨con⟩ ⟨el⟩ brazo ⟨de⟩ tu fortaleza"
+      "gloss": "tú dispersaste ⟨a⟩ tus enemigos ⟨con⟩ ⟨el⟩ brazo ⟨de⟩ tu fortaleza"
     },
     {
       "surface": "פזרת",
-      "english": "tú dispersaste ⟨a⟩ tus enemigos ⟨con⟩ ⟨el⟩ brazo ⟨de⟩ tu fortaleza"
+      "gloss": "tú dispersaste ⟨a⟩ tus enemigos ⟨con⟩ ⟨el⟩ brazo ⟨de⟩ tu fortaleza"
     },
     {
       "surface": "אויביך",
-      "english": "⟨a⟩ tus enemigos"
+      "gloss": "⟨a⟩ tus enemigos"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:59.993496075Z",
-  "model": "glm-4.5"
+  ]
 }

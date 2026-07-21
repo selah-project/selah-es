@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 31:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60021,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60465
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:50.073243311Z",
   "translation": "No sea que ⟨el⟩ beba y olvide ⟨la⟩ estatu ⟨a⟩ y cambie ⟨el⟩ juicio de todos ⟨los⟩ hijos de ⟨el⟩ pobre.",
   "tokens": [
     {
       "surface": "פן",
-      "english": "No sea que"
+      "gloss": "No sea que"
     },
     {
       "surface": "ישתה",
-      "english": "beba"
+      "gloss": "beba"
     },
     {
       "surface": "וישכח",
-      "english": "y olvide"
+      "gloss": "y olvide"
     },
     {
       "surface": "מחקק",
-      "english": "⟨la⟩ estatu⟨a⟩"
+      "gloss": "⟨la⟩ estatu⟨a⟩"
     },
     {
       "surface": "וישנה",
-      "english": "y cambie"
+      "gloss": "y cambie"
     },
     {
       "surface": "דין",
-      "english": "⟨el⟩ juicio"
+      "gloss": "⟨el⟩ juicio"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨los⟩"
+      "gloss": "todos ⟨los⟩"
     },
     {
       "surface": "בני",
-      "english": "hijos de"
+      "gloss": "hijos de"
     },
     {
       "surface": "עני",
-      "english": "⟨el⟩ pobre"
+      "gloss": "⟨el⟩ pobre"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:50.073243311Z",
-  "model": "glm-4.5"
+  ]
 }

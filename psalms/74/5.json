@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 74:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 430,
-    "prompt_tokens": 69891,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70321
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:44.183352457Z",
   "translation": "Han sido conocidos ⟨como los que⟩ alzan ⟨el⟩ hacha ⟨sobre⟩ un espeso bosque de árboles.",
   "tokens": [
     {
       "surface": "יודע",
-      "english": "Han sido conocidos"
+      "gloss": "Han sido conocidos"
     },
     {
       "surface": "כמביא",
-      "english": "como los que"
+      "gloss": "como los que"
     },
     {
       "surface": "למעלה",
-      "english": "alzan"
+      "gloss": "alzan"
     },
     {
       "surface": "בסבך",
-      "english": "sobre un espeso bosque"
+      "gloss": "sobre un espeso bosque"
     },
     {
       "surface": "עץ",
-      "english": "de árboles"
+      "gloss": "de árboles"
     },
     {
       "surface": "קרדמות",
-      "english": "hacha"
+      "gloss": "hacha"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:44.183352457Z",
-  "model": "glm-4.5"
+  ]
 }

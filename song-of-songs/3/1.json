@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "song-of-songs 3:1",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 514,
-    "prompt_tokens": 27933,
-    "prompt_tokens_details": {
-      "cached_tokens": 16384
-    },
-    "total_tokens": 28447
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:48:21.871559157Z",
   "translation": "Sobre mi cama ⟨en las⟩ noches, busqué ⟨את⟩ quien ama mi alma: lo busqué, pero no lo encontré.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Sobre"
+      "gloss": "Sobre"
     },
     {
       "surface": "משכבי",
-      "english": "mi cama"
+      "gloss": "mi cama"
     },
     {
       "surface": "בלילות",
-      "english": "⟨en las⟩ noches"
+      "gloss": "⟨en las⟩ noches"
     },
     {
       "surface": "בקשתי",
-      "english": "busqué"
+      "gloss": "busqué"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "quien ama mi alma"
     },
     {
       "surface": "שאהבה",
-      "english": "quien ama"
+      "gloss": "quien ama"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "בקשתיו",
-      "english": "lo busqué"
+      "gloss": "lo busqué"
     },
     {
       "surface": "ולא",
-      "english": "pero no"
+      "gloss": "pero no"
     },
     {
       "surface": "מצאתיו",
-      "english": "lo encontré"
+      "gloss": "lo encontré"
     }
-  ],
-  "timestamp": "2026-07-16T23:48:21.871559157Z",
-  "model": "glm-4.5"
+  ]
 }

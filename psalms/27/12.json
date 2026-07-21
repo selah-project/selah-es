@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 27:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70182,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70808
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:10:08.739295200Z",
   "translation": "Do not ⟨give⟩ me ⟨to⟩ ⟨the⟩ soul of my adversaries ⟨for⟩ ⟨there have⟩ risen up against me ⟨as⟩ false witnesses ⟨and⟩ ⟨those who⟩ breathe out violence.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Do not"
+      "gloss": "Do not"
     },
     {
       "surface": "תתנני",
-      "english": "⟨give⟩ me"
+      "gloss": "⟨give⟩ me"
     },
     {
       "surface": "בנפש",
-      "english": "⟨to⟩ ⟨the⟩ soul"
+      "gloss": "⟨to⟩ ⟨the⟩ soul"
     },
     {
       "surface": "צרי",
-      "english": "of my adversaries"
+      "gloss": "of my adversaries"
     },
     {
       "surface": "כי",
-      "english": "⟨for⟩"
+      "gloss": "⟨for⟩"
     },
     {
       "surface": "קמו",
-      "english": "⟨there have⟩ risen up"
+      "gloss": "⟨there have⟩ risen up"
     },
     {
       "surface": "בי",
-      "english": "against me"
+      "gloss": "against me"
     },
     {
       "surface": "עדי",
-      "english": "⟨as⟩ false witnesses"
+      "gloss": "⟨as⟩ false witnesses"
     },
     {
       "surface": "שקר",
-      "english": "false"
+      "gloss": "false"
     },
     {
       "surface": "ויפח",
-      "english": "⟨and⟩ ⟨those who⟩ breathe out"
+      "gloss": "⟨and⟩ ⟨those who⟩ breathe out"
     },
     {
       "surface": "חמס",
-      "english": "violence"
+      "gloss": "violence"
     }
-  ],
-  "timestamp": "2026-06-09T23:10:08.739295200Z",
-  "model": "glm-4.5"
+  ]
 }

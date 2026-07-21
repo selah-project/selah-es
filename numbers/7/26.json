@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "numbers 7:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:19:20.503401452Z",
+  "translation": "una palma ⟨de⟩ diez ⟨de⟩ oro, llena de Ketoret",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "Una palma"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "diez"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨de⟩ oro"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "llena"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "de Ketoret"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "incienso",
@@ -13,48 +44,6 @@
       "hebrew": "קטרת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 288,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17491,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 17779
-  },
-  "translation": "una palma ⟨de⟩ diez ⟨de⟩ oro, llena de Ketoret",
-  "tokens": [
-    {
-      "surface": "כף",
-      "english": "Una palma"
-    },
-    {
-      "surface": "אחת",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "עשרה",
-      "english": "diez"
-    },
-    {
-      "surface": "זהב",
-      "english": "⟨de⟩ oro"
-    },
-    {
-      "surface": "מלאה",
-      "english": "llena"
-    },
-    {
-      "surface": "קטרת",
-      "english": "de Ketoret"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:19:20.503401452Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

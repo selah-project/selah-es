@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 90:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 438,
-    "prompt_tokens": 70070,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70508
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:40.109590050Z",
   "translation": "Tú haces retornar al mortal al polvo, y dices: «Volved, hijos de Adam».",
   "tokens": [
     {
       "surface": "תשב",
-      "english": "haces retornar"
+      "gloss": "haces retornar"
     },
     {
       "surface": "אנוש",
-      "english": "al mortal"
+      "gloss": "al mortal"
     },
     {
       "surface": "עד",
-      "english": "al"
+      "gloss": "al"
     },
     {
       "surface": "דכא",
-      "english": "polvo"
+      "gloss": "polvo"
     },
     {
       "surface": "ותאמר",
-      "english": "y dices"
+      "gloss": "y dices"
     },
     {
       "surface": "שובו",
-      "english": "Volved"
+      "gloss": "Volved"
     },
     {
       "surface": "בני",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:40.109590050Z",
-  "model": "glm-4.5"
+  ]
 }

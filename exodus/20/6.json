@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 20:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 20,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:49:33.987796885Z",
+  "translation": "y hace ⟨el⟩ jésed a ⟨los⟩ millares, ⟨a⟩ los que me aman y ⟨a⟩ los que guardan mis Mitzvás",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Y hace"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "⟨el⟩ jésed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "⟨a los⟩ millares"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "⟨a⟩ los que me aman"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "y ⟨a⟩ los que guardan"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mis Mitzvás"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamiento",
@@ -13,48 +44,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16440,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 16807
-  },
-  "translation": "y hace ⟨el⟩ jésed a ⟨los⟩ millares, ⟨a⟩ los que me aman y ⟨a⟩ los que guardan mis Mitzvás",
-  "tokens": [
-    {
-      "surface": "ועשה",
-      "english": "Y hace"
-    },
-    {
-      "surface": "חסד",
-      "english": "⟨el⟩ jésed"
-    },
-    {
-      "surface": "לאלפים",
-      "english": "⟨a los⟩ millares"
-    },
-    {
-      "surface": "לאהבי",
-      "english": "⟨a⟩ los que me aman"
-    },
-    {
-      "surface": "ולשמרי",
-      "english": "y ⟨a⟩ los que guardan"
-    },
-    {
-      "surface": "מצותי",
-      "english": "mis Mitzvás"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:49:33.987796885Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-chronicles 14:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 14,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:43:11.196408044Z",
+  "translation": "Y Davidd tomó ⟨a⟩ más mujeres en Jerusalén, y Davidd engendró ⟨a⟩ más hijos e hijas.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Y tomó"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "más"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mujeres"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "en Jerusalén"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "y engendró"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "más"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e hijas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,64 +67,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56868,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57201
-  },
-  "translation": "Y Davidd tomó ⟨a⟩ más mujeres en Jerusalén, y Davidd engendró ⟨a⟩ más hijos e hijas.",
-  "tokens": [
-    {
-      "surface": "ויקח",
-      "english": "Y tomó"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עוד",
-      "english": "más"
-    },
-    {
-      "surface": "נשים",
-      "english": "mujeres"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "en Jerusalén"
-    },
-    {
-      "surface": "ויולד",
-      "english": "y engendró"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עוד",
-      "english": "más"
-    },
-    {
-      "surface": "בנים",
-      "english": "hijos"
-    },
-    {
-      "surface": "ובנות",
-      "english": "e hijas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:43:11.196408044Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

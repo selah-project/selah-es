@@ -1,78 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "genesis 25:7",
   "book": "genesis",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28722,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 29202
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:22:02.024866484Z",
   "translation": "Y ⟨éstos son⟩ los días de los años de ⟨la⟩ vida de Avraham que ⟨él⟩ vivió: ⟨de⟩ ciento y setenta y cinco años.",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "Y ⟨éstos son⟩",
+      "gloss": "Y ⟨éstos son⟩",
       "marks": "los días de los años de ⟨la⟩ vida de Avraham"
     },
     {
       "surface": "ימי",
-      "english": "los días"
+      "gloss": "los días"
     },
     {
       "surface": "שני",
-      "english": "de los años"
+      "gloss": "de los años"
     },
     {
       "surface": "חיי",
-      "english": "de ⟨la⟩ vida"
+      "gloss": "de ⟨la⟩ vida"
     },
     {
       "surface": "אברהם",
-      "english": "de Avraham"
+      "gloss": "de Avraham"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "חי",
-      "english": "⟨él⟩ vivió"
+      "gloss": "⟨él⟩ vivió"
     },
     {
       "surface": "מאת",
-      "english": "⟨de⟩",
+      "gloss": "⟨de⟩",
       "marks": "ciento"
     },
     {
       "surface": "שנה",
-      "english": "ciento"
+      "gloss": "ciento"
     },
     {
       "surface": "ושבעים",
-      "english": "y setenta"
+      "gloss": "y setenta"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "וחמש",
-      "english": "y cinco"
+      "gloss": "y cinco"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     }
-  ],
-  "timestamp": "2026-06-10T05:22:02.024866484Z",
-  "model": "glm-4.5"
+  ]
 }

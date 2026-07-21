@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 6:15",
   "book": "job",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27060,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27556
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:45.271389990Z",
   "translation": "Mis hermanos ⟨han⟩ traicionado ⟨como⟩ ⟨un⟩ torrente, ⟨como⟩ ⟨el⟩ cauce de torrentes que ⟨se⟩ pasan.",
   "tokens": [
     {
       "surface": "אחי",
-      "english": "Mis hermanos",
+      "gloss": "Mis hermanos",
       "marks": "brothers"
     },
     {
       "surface": "בגדו",
-      "english": "⟨han⟩ traicionado",
+      "gloss": "⟨han⟩ traicionado",
       "marks": "deceitful act"
     },
     {
       "surface": "כמו",
-      "english": "⟨como⟩",
+      "gloss": "⟨como⟩",
       "marks": "comparison"
     },
     {
       "surface": "נחל",
-      "english": "⟨un⟩ torrente",
+      "gloss": "⟨un⟩ torrente",
       "marks": "brook\/stream"
     },
     {
       "surface": "כאפיק",
-      "english": "⟨como⟩ ⟨el⟩ cauce",
+      "gloss": "⟨como⟩ ⟨el⟩ cauce",
       "marks": "channel"
     },
     {
       "surface": "נחלים",
-      "english": "de torrentes",
+      "gloss": "de torrentes",
       "marks": "streams"
     },
     {
       "surface": "יעברו",
-      "english": "que ⟨se⟩ pasan",
+      "gloss": "que ⟨se⟩ pasan",
       "marks": "pass away"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:45.271389990Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.1",
-  "verse": 5,
   "ref": "psalms 12:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70189,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70703
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:55:38.178156043Z",
   "translation": "que dijeron: «Por nuestra lengua prevaleceremos; nuestros labios ⟨están⟩ con nosotros: ¿quién ⟨es⟩ soberano sobre nosotros?»",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אמרו",
-      "english": "dijeron:"
+      "gloss": "dijeron:"
     },
     {
       "surface": "ללשננו",
-      "english": "Por nuestra lengua"
+      "gloss": "Por nuestra lengua"
     },
     {
       "surface": "נגביר",
-      "english": "prevaleceremos;"
+      "gloss": "prevaleceremos;"
     },
     {
       "surface": "שפתינו",
-      "english": "nuestros labios"
+      "gloss": "nuestros labios"
     },
     {
       "surface": "אתנו",
-      "english": "⟨están⟩ con nosotros:"
+      "gloss": "⟨están⟩ con nosotros:"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "אדון",
-      "english": "⟨es⟩ soberano"
+      "gloss": "⟨es⟩ soberano"
     },
     {
       "surface": "לנו",
-      "english": "sobre nosotros?»"
+      "gloss": "sobre nosotros?»"
     }
-  ],
-  "timestamp": "2026-06-13T03:55:38.178156043Z",
-  "model": "glm-5.1"
+  ]
 }

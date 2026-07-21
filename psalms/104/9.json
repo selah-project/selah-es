@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 104:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69986,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70387
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:26.139056704Z",
   "translation": "⟨Un⟩ límite estableciste, no ⟨lo⟩ traspasarán; no volverán ⟨a⟩ cubrir ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "גבול",
-      "english": "⟨Un⟩ límite",
+      "gloss": "⟨Un⟩ límite",
       "marks": "límestableciste"
     },
     {
       "surface": "שמת",
-      "english": "estableciste"
+      "gloss": "estableciste"
     },
     {
       "surface": "בל",
-      "english": "no ⟨lo⟩"
+      "gloss": "no ⟨lo⟩"
     },
     {
       "surface": "יעברון",
-      "english": "traspasarán"
+      "gloss": "traspasarán"
     },
     {
       "surface": "בל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ישובון",
-      "english": "volverán"
+      "gloss": "volverán"
     },
     {
       "surface": "לכסות",
-      "english": "⟨a⟩ cubrir"
+      "gloss": "⟨a⟩ cubrir"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:26.139056704Z",
-  "model": "glm-4.5"
+  ]
 }

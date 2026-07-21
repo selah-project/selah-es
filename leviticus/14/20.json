@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "leviticus 14:20",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 656,
-    "prompt_tokens": 25023,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25679
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:39:09.600703323Z",
   "translation": "Y hará subir el kohen ⟨el⟩ ⟨olah⟩ y ⟨el⟩ minjá ⟨al⟩ mizbéaj, y hará kapará sobre él el kohen, y será tahor.",
   "tokens": [
     {
       "surface": "והעלה",
-      "english": "Y hará subir"
+      "gloss": "Y hará subir"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el ⟨olah⟩"
     },
     {
       "surface": "העלה",
-      "english": "⟨olah⟩"
+      "gloss": "⟨olah⟩"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el minjá"
     },
     {
       "surface": "המנחה",
-      "english": "minjá"
+      "gloss": "minjá"
     },
     {
       "surface": "המזבחה",
-      "english": "⟨al⟩ mizbéaj"
+      "gloss": "⟨al⟩ mizbéaj"
     },
     {
       "surface": "וכפר",
-      "english": "y hará kapará"
+      "gloss": "y hará kapará"
     },
     {
       "surface": "עליו",
-      "english": "sobre él"
+      "gloss": "sobre él"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "וטהר",
-      "english": "y será tahor"
+      "gloss": "y será tahor"
     }
-  ],
-  "timestamp": "2026-07-16T22:39:09.600703323Z",
-  "model": "glm-4.5"
+  ]
 }

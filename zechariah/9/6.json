@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "zechariah 9:6",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23054,
-    "prompt_tokens_details": {
-      "cached_tokens": 22082
-    },
-    "total_tokens": 23506
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:53:58.650698146Z",
   "translation": "Y un ⟨bastardo⟩ morará ⟨en⟩ Ashdod y ⟨yo⟩ cortaré ⟨la⟩ soberanía ⟨de los⟩ filisteos",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "Y un ⟨bastardo⟩ morará"
+      "gloss": "Y un ⟨bastardo⟩ morará"
     },
     {
       "surface": "ממזר",
-      "english": "⟨bastardo⟩"
+      "gloss": "⟨bastardo⟩"
     },
     {
       "surface": "באשדוד",
-      "english": "⟨en⟩ Ashdod"
+      "gloss": "⟨en⟩ Ashdod"
     },
     {
       "surface": "והכרתי",
-      "english": "y ⟨yo⟩ cortaré"
+      "gloss": "y ⟨yo⟩ cortaré"
     },
     {
       "surface": "גאון",
-      "english": "⟨la⟩ soberanía"
+      "gloss": "⟨la⟩ soberanía"
     },
     {
       "surface": "פלשתים",
-      "english": "⟨de los⟩ filisteos"
+      "gloss": "⟨de los⟩ filisteos"
     }
-  ],
-  "timestamp": "2026-06-09T22:53:58.650698146Z",
-  "model": "glm-4.5"
+  ]
 }

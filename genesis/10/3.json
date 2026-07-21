@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 10:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 242,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20803,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21045
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:08:30.696576574Z",
   "translation": "Y ⟨los⟩ hijos de Gomer ⟨son⟩ Ashkenaz y Rifat y Togarma.",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "Y ⟨los⟩ hijos"
+      "gloss": "Y ⟨los⟩ hijos"
     },
     {
       "surface": "גמר",
-      "english": "de Gomer"
+      "gloss": "de Gomer"
     },
     {
       "surface": "אשכנז",
-      "english": "Ashkenaz"
+      "gloss": "Ashkenaz"
     },
     {
       "surface": "וריפת",
-      "english": "y Rifat"
+      "gloss": "y Rifat"
     },
     {
       "surface": "ותגרמה",
-      "english": "y Togarma"
+      "gloss": "y Togarma"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:08:30.696576574Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

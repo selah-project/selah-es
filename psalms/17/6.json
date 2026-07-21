@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 17:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 526,
-    "prompt_tokens": 70266,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70792
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:27.566821999Z",
   "translation": "Yo te he invocado, porque tú me responderás, O Elohim: inclina ⟨tu⟩ oído hacia mí, y oye mi dicho",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "קראתיך",
-      "english": "te he invocado"
+      "gloss": "te he invocado"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "תענני",
-      "english": "tú me responderás"
+      "gloss": "tú me responderás"
     },
     {
       "surface": "אל",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "הט",
-      "english": "inclina"
+      "gloss": "inclina"
     },
     {
       "surface": "אזנך",
-      "english": "⟨tu⟩ oído"
+      "gloss": "⟨tu⟩ oído"
     },
     {
       "surface": "לי",
-      "english": "hacia mí"
+      "gloss": "hacia mí"
     },
     {
       "surface": "שמע",
-      "english": "oye"
+      "gloss": "oye"
     },
     {
       "surface": "אמרתי",
-      "english": "mi dicho"
+      "gloss": "mi dicho"
     }
-  ],
-  "timestamp": "2026-07-16T23:25:27.566821999Z",
-  "model": "glm-4.5"
+  ]
 }

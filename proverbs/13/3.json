@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 13:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 796,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59969,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60765
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:37:39.543340168Z",
   "translation": "El que ⟨guarda⟩ su boca ⟨guarda⟩ su ⟨alma⟩; ⟨el⟩ que ⟨abre⟩ ⟨sus⟩ labios ⟨será⟩ para ⟨él⟩ ⟨ruina⟩.",
   "tokens": [
     {
       "surface": "נצר",
-      "english": "⟨Guarda⟩",
+      "gloss": "⟨Guarda⟩",
       "notes": "The verb נצר can mean 'guard' in a protective sense (obey, maintain) or in a restrictive sense (restrain, keep from danger). Context favors the protective sense here."
     },
     {
       "surface": "פיו",
-      "english": "su boca",
+      "gloss": "su boca",
       "notes": "Literally 'his mouth'. The form is singular construct with 3ms suffix. Figuratively can refer to speech or words."
     },
     {
       "surface": "שמר",
-      "english": "⟨guarda⟩",
+      "gloss": "⟨guarda⟩",
       "notes": "Parallel verb to נצר, reinforcing the protective sense. The repetition emphasizes the cause-effect relationship."
     },
     {
       "surface": "נפשו",
-      "english": "su ⟨alma⟩",
+      "gloss": "su ⟨alma⟩",
       "notes": "נפש primarily means 'throat\/breath\/life-force' rather than an immortal soul. Here it represents one's physical life or being."
     },
     {
       "surface": "פשק",
-      "english": "⟨abre⟩",
+      "gloss": "⟨abre⟩",
       "notes": "Hapax legomenon (appears only here in Tanakh). Literally means 'to dispart' (open widely), often with licentious connotations."
     },
     {
       "surface": "שפתיו",
-      "english": "⟨sus⟩ labios",
+      "gloss": "⟨sus⟩ labios",
       "notes": "Literally 'his lips'. Often used figuratively for speech or language. The verb's intensity suggests unrestrained speech."
     },
     {
       "surface": "מחתה",
-      "english": "⟨ruina⟩",
+      "gloss": "⟨ruina⟩",
       "notes": "From a root meaning 'dissolution' or 'destruction'. Can refer to physical ruin or calamity. The definite article implies 'the ruin' as a known consequence."
     },
     {
       "surface": "לו",
-      "english": "⟨para⟩ ⟨él⟩",
+      "gloss": "⟨para⟩ ⟨él⟩",
       "notes": "The preposition ל indicates direction or result. The pronoun refers back to the one who opens his lips."
     }
-  ],
-  "timestamp": "2026-06-10T01:37:39.543340168Z",
-  "model": "glm-4.5"
+  ]
 }

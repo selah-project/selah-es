@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "isaiah 32:20",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26124,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26635
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:40:46.025499060Z",
   "translation": "Felices ⟨son⟩ ⟨los⟩ que siembran sobre todas las aguas, ⟨que⟩ envían ⟨ allí ⟩ ⟨el⟩ pie ⟨de⟩ el buey y ⟨el⟩ asno",
   "tokens": [
     {
       "surface": "אשריכם",
-      "english": "Felices ⟨los⟩"
+      "gloss": "Felices ⟨los⟩"
     },
     {
       "surface": "זרעי",
-      "english": "que siembran"
+      "gloss": "que siembran"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "משלחי",
-      "english": "⟨que⟩ envían ⟨ allí ⟩"
+      "gloss": "⟨que⟩ envían ⟨ allí ⟩"
     },
     {
       "surface": "רגל",
-      "english": "⟨el⟩ pie"
+      "gloss": "⟨el⟩ pie"
     },
     {
       "surface": "השור",
-      "english": "⟨de⟩ el buey"
+      "gloss": "⟨de⟩ el buey"
     },
     {
       "surface": "והחמור",
-      "english": "y ⟨el⟩ asno"
+      "gloss": "y ⟨el⟩ asno"
     }
-  ],
-  "timestamp": "2026-06-10T02:40:46.025499060Z",
-  "model": "glm-4.5"
+  ]
 }

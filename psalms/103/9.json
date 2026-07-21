@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 103:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 290,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69743,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70033
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:20.454556174Z",
   "translation": "Not ⟨to⟩ perpetuity will ⟨He⟩ contend, and not ⟨to⟩ forever will ⟨He⟩ keep ⟨anger⟩",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Not"
+      "gloss": "Not"
     },
     {
       "surface": "לנצח",
-      "english": "⟨to⟩ perpetuity"
+      "gloss": "⟨to⟩ perpetuity"
     },
     {
       "surface": "יריב",
-      "english": "will ⟨He⟩ contend"
+      "gloss": "will ⟨He⟩ contend"
     },
     {
       "surface": "ולא",
-      "english": "and not"
+      "gloss": "and not"
     },
     {
       "surface": "לעולם",
-      "english": "⟨to⟩ forever"
+      "gloss": "⟨to⟩ forever"
     },
     {
       "surface": "יטור",
-      "english": "will ⟨He⟩ keep ⟨anger⟩"
+      "gloss": "will ⟨He⟩ keep ⟨anger⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:20.454556174Z",
-  "model": "glm-4.5"
+  ]
 }

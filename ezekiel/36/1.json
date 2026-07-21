@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "ezekiel 36:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 36,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:44:44.254066986Z",
+  "translation": "Y tú, hijo del hombre, profetiza a ⟨los⟩ montes de Yisrael y dirás: Montes de Yisrael, ⟨oíd⟩ la palabra de YHWH.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Y tú"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "del hombre"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "profetiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "⟨los⟩ montes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "y dirás"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "Montes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "⟨oíd⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la palabra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,76 +79,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17444,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17840
-  },
-  "translation": "Y tú, hijo del hombre, profetiza a ⟨los⟩ montes de Yisrael y dirás: Montes de Yisrael, ⟨oíd⟩ la palabra de YHWH.",
-  "tokens": [
-    {
-      "surface": "ואתה",
-      "english": "Y tú"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "אדם",
-      "english": "del hombre"
-    },
-    {
-      "surface": "הנבא",
-      "english": "profetiza"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "הרי",
-      "english": "⟨los⟩ montes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "y dirás"
-    },
-    {
-      "surface": "הרי",
-      "english": "Montes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "שמעו",
-      "english": "⟨oíd⟩"
-    },
-    {
-      "surface": "דבר",
-      "english": "la palabra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:44:44.254066986Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

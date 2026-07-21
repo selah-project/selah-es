@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "genesis 47:25",
   "book": "genesis",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 598,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28560,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29158
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:44:42.558337221Z",
   "translation": "Y dijeron: '⟨Has⟩ revivido ⟨nuestras⟩ vidas; ⟨hayamos⟩ hallado gracia en ⟨los⟩ ojos de mi señor, y seamos ⟨los⟩ siervos de Faraón'",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "Y dijeron"
+      "gloss": "Y dijeron"
     },
     {
       "surface": "החיתנו",
-      "english": "revivido ⟨nuestras⟩ vidas"
+      "gloss": "revivido ⟨nuestras⟩ vidas"
     },
     {
       "surface": "נמצא",
-      "english": "⟨hayamos⟩ hallado"
+      "gloss": "⟨hayamos⟩ hallado"
     },
     {
       "surface": "חן",
-      "english": "gracia"
+      "gloss": "gracia"
     },
     {
       "surface": "בעיני",
-      "english": "en ⟨los⟩ ojos"
+      "gloss": "en ⟨los⟩ ojos"
     },
     {
       "surface": "אדני",
-      "english": "de mi señor"
+      "gloss": "de mi señor"
     },
     {
       "surface": "והיינו",
-      "english": "y seamos"
+      "gloss": "y seamos"
     },
     {
       "surface": "עבדים",
-      "english": "⟨los⟩ siervos"
+      "gloss": "⟨los⟩ siervos"
     },
     {
       "surface": "לפרעה",
-      "english": "de Faraón"
+      "gloss": "de Faraón"
     }
-  ],
-  "timestamp": "2026-06-10T05:44:42.558337221Z",
-  "model": "glm-4.5"
+  ]
 }

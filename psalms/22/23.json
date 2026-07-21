@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 22:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69868,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70161
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:06:14.905585511Z",
   "translation": "I will declare ⟨את⟩ Your name to my brothers; in ⟨the⟩ midst of ⟨the⟩ congregation I will praise You.",
   "tokens": [
     {
       "surface": "אספרה",
-      "english": "I will declare"
+      "gloss": "I will declare"
     },
     {
       "surface": "שמך",
-      "english": "Your name"
+      "gloss": "Your name"
     },
     {
       "surface": "לאחי",
-      "english": "to my brothers"
+      "gloss": "to my brothers"
     },
     {
       "surface": "בתוך",
-      "english": "in ⟨the⟩ midst"
+      "gloss": "in ⟨the⟩ midst"
     },
     {
       "surface": "קהל",
-      "english": "of ⟨the⟩ congregation"
+      "gloss": "of ⟨the⟩ congregation"
     },
     {
       "surface": "אהללך",
-      "english": "I will praise You",
+      "gloss": "I will praise You",
       "marks": "praise"
     }
-  ],
-  "timestamp": "2026-06-09T23:06:14.905585511Z",
-  "model": "glm-4.5"
+  ]
 }

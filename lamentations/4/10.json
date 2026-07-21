@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "lamentations 4:10",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 39436,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39945
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:43:01.577327583Z",
   "translation": "Las manos de las mujeres compasivas cocieron ⟨a⟩ sus hijos; ellos fueron ⟨como⟩ su comida ⟨en⟩ la destrucción ⟨de⟩ la hija de mi pueblo.",
   "tokens": [
     {
       "surface": "ידי",
-      "english": "Las manos de"
+      "gloss": "Las manos de"
     },
     {
       "surface": "נשים",
-      "english": "las mujeres"
+      "gloss": "las mujeres"
     },
     {
       "surface": "רחמניות",
-      "english": "compasivas"
+      "gloss": "compasivas"
     },
     {
       "surface": "בשלו",
-      "english": "cocieron"
+      "gloss": "cocieron"
     },
     {
       "surface": "ילדיהן",
-      "english": "a sus hijos",
+      "gloss": "a sus hijos",
       "marks": "sus hijos"
     },
     {
       "surface": "היו",
-      "english": "ellos fueron"
+      "gloss": "ellos fueron"
     },
     {
       "surface": "לברות",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "למו",
-      "english": "su comida"
+      "gloss": "su comida"
     },
     {
       "surface": "בשבר",
-      "english": "⟨en⟩ la destrucción"
+      "gloss": "⟨en⟩ la destrucción"
     },
     {
       "surface": "בת",
-      "english": "⟨de⟩ la hija"
+      "gloss": "⟨de⟩ la hija"
     },
     {
       "surface": "עמי",
-      "english": "de mi pueblo"
+      "gloss": "de mi pueblo"
     }
-  ],
-  "timestamp": "2026-06-09T22:43:01.577327583Z",
-  "model": "glm-4.5"
+  ]
 }

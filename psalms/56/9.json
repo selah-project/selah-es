@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 56:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69998,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 70498
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T06:34:30.730729995Z",
   "translation": "Tú has contado ⟨mis⟩ deambulaciones; pon ⟨mis⟩ lágrimas en tu odre; ¿no ⟨están⟩ en tu registro?",
   "tokens": [
     {
       "surface": "נדי",
-      "english": "Deambulaciones"
+      "gloss": "Deambulaciones"
     },
     {
       "surface": "ספרתה",
-      "english": "has contado"
+      "gloss": "has contado"
     },
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "שימה",
-      "english": "pon"
+      "gloss": "pon"
     },
     {
       "surface": "דמעתי",
-      "english": "lágrimas"
+      "gloss": "lágrimas"
     },
     {
       "surface": "בנאדך",
-      "english": "en tu odre"
+      "gloss": "en tu odre"
     },
     {
       "surface": "הלא",
-      "english": "¿no"
+      "gloss": "¿no"
     },
     {
       "surface": "בספרתך",
-      "english": "en tu registro"
+      "gloss": "en tu registro"
     }
-  ],
-  "timestamp": "2026-06-10T06:34:30.730729995Z",
-  "model": "glm-4.5"
+  ]
 }

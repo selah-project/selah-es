@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "numbers 21:15",
   "book": "numbers",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 544,
-    "prompt_tokens": 25229,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25773
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:08:01.416755784Z",
   "translation": "y ⟨el⟩ declive ⟨de⟩ los valles que se inclina hacia ⟨la⟩ morada de Ar, y se apoya en ⟨el⟩ límite de Moab",
   "tokens": [
     {
       "surface": "ואשד",
-      "english": "y ⟨el⟩ declive"
+      "gloss": "y ⟨el⟩ declive"
     },
     {
       "surface": "הנחלים",
-      "english": "⟨de⟩ los valles"
+      "gloss": "⟨de⟩ los valles"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "נטה",
-      "english": "se inclina"
+      "gloss": "se inclina"
     },
     {
       "surface": "לשבת",
-      "english": "hacia ⟨la⟩ morada"
+      "gloss": "hacia ⟨la⟩ morada"
     },
     {
       "surface": "ער",
-      "english": "de Ar"
+      "gloss": "de Ar"
     },
     {
       "surface": "ונשען",
-      "english": "y se apoya"
+      "gloss": "y se apoya"
     },
     {
       "surface": "לגבול",
-      "english": "en ⟨el⟩ límite"
+      "gloss": "en ⟨el⟩ límite"
     },
     {
       "surface": "מואב",
-      "english": "de Moab"
+      "gloss": "de Moab"
     }
-  ],
-  "timestamp": "2026-07-16T23:08:01.416755784Z",
-  "model": "glm-4.5"
+  ]
 }

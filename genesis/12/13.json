@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 12:13",
   "book": "genesis",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 477,
-    "prompt_tokens": 28896,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29373
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:56:16.817238470Z",
   "translation": "Di, por favor: 'Mi hermana eres ⟨tú⟩', para que me vaya bien por tu causa, y viva mi alma por causa tuya.",
   "tokens": [
     {
       "surface": "אמרי",
-      "english": "Di"
+      "gloss": "Di"
     },
     {
       "surface": "נא",
-      "english": "por favor"
+      "gloss": "por favor"
     },
     {
       "surface": "אחתי",
-      "english": "mi hermana"
+      "gloss": "mi hermana"
     },
     {
       "surface": "את",
-      "english": "⟨tú⟩",
+      "gloss": "⟨tú⟩",
       "marks": "mi hermana"
     },
     {
       "surface": "למען",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "ייטב",
-      "english": "me vaya bien"
+      "gloss": "me vaya bien"
     },
     {
       "surface": "לי",
-      "english": "a mí"
+      "gloss": "a mí"
     },
     {
       "surface": "בעבורך",
-      "english": "por tu causa"
+      "gloss": "por tu causa"
     },
     {
       "surface": "וחיתה",
-      "english": "y viva"
+      "gloss": "y viva"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "בגללך",
-      "english": "por causa tuya"
+      "gloss": "por causa tuya"
     }
-  ],
-  "timestamp": "2026-07-16T20:56:16.817238470Z",
-  "model": "glm-4.5"
+  ]
 }

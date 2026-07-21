@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 145:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69940,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70330
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:11:35.074677961Z",
   "translation": "Cerca ⟨está⟩ YHWH a todos los que ⟨lo⟩ invocan, a todos los que ⟨lo⟩ invocan ⟨en⟩ verdad.",
   "tokens": [
     {
       "surface": "קרוב",
-      "english": "Cerca"
+      "gloss": "Cerca"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לכל",
-      "english": "a todos los"
+      "gloss": "a todos los"
     },
     {
       "surface": "קראיו",
-      "english": "que ⟨lo⟩ invocan",
+      "gloss": "que ⟨lo⟩ invocan",
       "marks": "a todos los que ⟨lo⟩ invocan"
     },
     {
       "surface": "לכל",
-      "english": "a todos los"
+      "gloss": "a todos los"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יקראהו",
-      "english": "⟨lo⟩ invocan",
+      "gloss": "⟨lo⟩ invocan",
       "marks": "los que ⟨lo⟩ invocan ⟨en⟩ verdad"
     },
     {
       "surface": "באמת",
-      "english": "⟨en⟩ verdad"
+      "gloss": "⟨en⟩ verdad"
     }
-  ],
-  "timestamp": "2026-06-10T00:11:35.074677961Z",
-  "model": "glm-4.5"
+  ]
 }

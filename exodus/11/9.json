@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "exodus 11:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 11,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:36:11.986175857Z",
+  "translation": "Y dijo YHWH a Moshé: 'Paró no ⟨oirá⟩ ⟨a⟩ ustedes, para ⟨que⟩ se multipliquen mis maravillas en ⟨la⟩ tierra de Mitzráim'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "⟨oirá⟩"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨a⟩ ustedes"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "למען",
+      "gloss": "para ⟨que⟩"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "se multipliquen"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mis maravillas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "en ⟨la⟩ tierra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -13,76 +72,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17050,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17594
-  },
-  "translation": "Y dijo YHWH a Moshé: 'Paró no ⟨oirá⟩ ⟨a⟩ ustedes, para ⟨que⟩ se multipliquen mis maravillas en ⟨la⟩ tierra de Mitzráim'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "ישמע",
-      "english": "⟨oirá⟩"
-    },
-    {
-      "surface": "אליכם",
-      "english": "⟨a⟩ ustedes"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "למען",
-      "english": "para ⟨que⟩"
-    },
-    {
-      "surface": "רבות",
-      "english": "se multipliquen"
-    },
-    {
-      "surface": "מופתי",
-      "english": "mis maravillas"
-    },
-    {
-      "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:36:11.986175857Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

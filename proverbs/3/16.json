@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 3:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 382,
-    "prompt_tokens": 59840,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60222
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:17:28.096688667Z",
   "translation": "Largo de días ⟨está⟩ en su mano derecha, y en su mano izquierda riquezas y honor (kavod).",
   "tokens": [
     {
       "surface": "ארך",
-      "english": "Largo de días"
+      "gloss": "Largo de días"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "בימינה",
-      "english": "en su mano derecha"
+      "gloss": "en su mano derecha"
     },
     {
       "surface": "בשמאולה",
-      "english": "en su mano izquierda"
+      "gloss": "en su mano izquierda"
     },
     {
       "surface": "עשר",
-      "english": "riquezas"
+      "gloss": "riquezas"
     },
     {
       "surface": "וכבוד",
-      "english": "y honor (kavod)"
+      "gloss": "y honor (kavod)"
     }
-  ],
-  "timestamp": "2026-07-16T23:17:28.096688667Z",
-  "model": "glm-4.5"
+  ]
 }

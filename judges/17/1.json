@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "judges 17:1",
   "book": "judges",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22989,
-    "prompt_tokens_details": {
-      "cached_tokens": 22158
-    },
-    "total_tokens": 23478
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:01:21.763470446Z",
   "translation": "Y hubo un hombre ⟨de⟩ ⟨el⟩ monte ⟨de⟩ Efráyim y ⟨el⟩ nombre ⟨de⟩ él ⟨es⟩ Mijáhu",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y hubo"
+      "gloss": "Y hubo"
     },
     {
       "surface": "איש",
-      "english": "un hombre"
+      "gloss": "un hombre"
     },
     {
       "surface": "מהר",
-      "english": "⟨de⟩ ⟨el⟩ monte"
+      "gloss": "⟨de⟩ ⟨el⟩ monte"
     },
     {
       "surface": "אפרים",
-      "english": "⟨de⟩ Efráyim"
+      "gloss": "⟨de⟩ Efráyim"
     },
     {
       "surface": "ושמו",
-      "english": "y ⟨el⟩ nombre ⟨de⟩ él"
+      "gloss": "y ⟨el⟩ nombre ⟨de⟩ él"
     },
     {
       "surface": "מיכיהו",
-      "english": "⟨es⟩ Mijáhu"
+      "gloss": "⟨es⟩ Mijáhu"
     }
-  ],
-  "timestamp": "2026-06-10T01:01:21.763470446Z",
-  "model": "glm-4.5"
+  ]
 }

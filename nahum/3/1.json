@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "nahum 3:1",
   "book": "nahum",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23557,
-    "prompt_tokens_details": {
-      "cached_tokens": 22371
-    },
-    "total_tokens": 24025
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:24:27.731628893Z",
   "translation": "¡Ay! ⟨de la⟩ ciudad de sangre, toda ⟨está⟩ llena de engaño, de rapiña y de abundancia; ⟨el⟩ botín ⟨no⟩ ⟨se⟩ retirará.",
   "tokens": [
     {
       "surface": "הוי",
-      "english": "¡Ay!"
+      "gloss": "¡Ay!"
     },
     {
       "surface": "עיר",
-      "english": "ciudad"
+      "gloss": "ciudad"
     },
     {
       "surface": "דמים",
-      "english": "de sangre"
+      "gloss": "de sangre"
     },
     {
       "surface": "כלה",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "כחש",
-      "english": "llena de engaño"
+      "gloss": "llena de engaño"
     },
     {
       "surface": "פרק",
-      "english": "de rapiña"
+      "gloss": "de rapiña"
     },
     {
       "surface": "מלאה",
-      "english": "y de abundancia"
+      "gloss": "y de abundancia"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ימיש",
-      "english": "se retirará"
+      "gloss": "se retirará"
     },
     {
       "surface": "טרף",
-      "english": "botín"
+      "gloss": "botín"
     }
-  ],
-  "timestamp": "2026-06-10T00:24:27.731628893Z",
-  "model": "glm-4.5"
+  ]
 }

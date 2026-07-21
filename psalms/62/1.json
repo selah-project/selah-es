@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 62:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 308,
-    "prompt_tokens": 69804,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70112
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:42.001796085Z",
   "translation": "Al director, ⟨por⟩ Yedutún. Un mizmor de David.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Al director"
+      "gloss": "Al director"
     },
     {
       "surface": "על",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "ידותון",
-      "english": "Yedutún"
+      "gloss": "Yedutún"
     },
     {
       "surface": "מזמור",
-      "english": "un mizmor"
+      "gloss": "un mizmor"
     },
     {
       "surface": "לדוד",
-      "english": "de David"
+      "gloss": "de David"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:42.001796085Z",
-  "model": "glm-4.5"
+  ]
 }

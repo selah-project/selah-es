@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 4:9",
   "book": "job",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26966,
-    "prompt_tokens_details": {
-      "cached_tokens": 26058
-    },
-    "total_tokens": 27312
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:14.288576875Z",
   "translation": "Desde ⟨el⟩ soplo de Elohim perecen y ⟨por⟩ ⟨el⟩ espíritu de su nariz son consumidos",
   "tokens": [
     {
       "surface": "מנשמת",
-      "english": "Desde ⟨el⟩ soplo de"
+      "gloss": "Desde ⟨el⟩ soplo de"
     },
     {
       "surface": "אלוה",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יאבדו",
-      "english": "perecen"
+      "gloss": "perecen"
     },
     {
       "surface": "ומרוח",
-      "english": "y ⟨por⟩ ⟨el⟩ espíritu de"
+      "gloss": "y ⟨por⟩ ⟨el⟩ espíritu de"
     },
     {
       "surface": "אפו",
-      "english": "su nariz"
+      "gloss": "su nariz"
     },
     {
       "surface": "יכלו",
-      "english": "son consumidos"
+      "gloss": "son consumidos"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:14.288576875Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 107:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69782,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70097
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:27.394547359Z",
   "translation": "y ⟨they⟩ sacrifiquen ⟨los⟩ sacrificios de agradecimiento y ⟨ellos⟩ narren sus obras con gozo",
   "tokens": [
     {
       "surface": "ויזבחו",
-      "english": "Y ⟨they⟩ sacrifiquen"
+      "gloss": "Y ⟨they⟩ sacrifiquen"
     },
     {
       "surface": "זבחי",
-      "english": "⟨los⟩ sacrificios"
+      "gloss": "⟨los⟩ sacrificios"
     },
     {
       "surface": "תודה",
-      "english": "de agradecimiento"
+      "gloss": "de agradecimiento"
     },
     {
       "surface": "ויספרו",
-      "english": "y ⟨ellos⟩ narren"
+      "gloss": "y ⟨ellos⟩ narren"
     },
     {
       "surface": "מעשיו",
-      "english": "sus obras"
+      "gloss": "sus obras"
     },
     {
       "surface": "ברנה",
-      "english": "con gozo"
+      "gloss": "con gozo"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:27.394547359Z",
-  "model": "glm-4.5"
+  ]
 }

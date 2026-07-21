@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 54:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69919,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70295
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:23:15.604278486Z",
   "translation": "⟨en⟩ venir ⟨los⟩ zifeos y dijeron ⟨a⟩ Saúl: '¿No ⟨está⟩ David escondido ⟨con⟩ nosotros?'",
   "tokens": [
     {
       "surface": "בבוא",
-      "english": "⟨En⟩ venir"
+      "gloss": "⟨En⟩ venir"
     },
     {
       "surface": "הזיפים",
-      "english": "⟨los⟩ zifeos"
+      "gloss": "⟨los⟩ zifeos"
     },
     {
       "surface": "ויאמרו",
-      "english": "y dijeron"
+      "gloss": "y dijeron"
     },
     {
       "surface": "לשאול",
-      "english": "⟨a⟩ Saúl"
+      "gloss": "⟨a⟩ Saúl"
     },
     {
       "surface": "הלא",
-      "english": "¿No"
+      "gloss": "¿No"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "מסתתר",
-      "english": "escondido"
+      "gloss": "escondido"
     },
     {
       "surface": "עמנו",
-      "english": "⟨con⟩ nosotros?"
+      "gloss": "⟨con⟩ nosotros?"
     }
-  ],
-  "timestamp": "2026-06-09T23:23:15.604278486Z",
-  "model": "glm-4.5"
+  ]
 }

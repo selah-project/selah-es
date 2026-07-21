@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 4:12",
   "book": "job",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27019,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27580
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:21.343744888Z",
   "translation": "Y ⟨a mí⟩ ⟨un⟩ davar ⟨fue⟩ yagunab ⟨y⟩ ⟨la⟩ azni ⟨de mí⟩ shématz mimenhú.",
   "tokens": [
     {
       "surface": "ואלי",
-      "english": "Y ⟨a mí⟩"
+      "gloss": "Y ⟨a mí⟩"
     },
     {
       "surface": "דבר",
-      "english": "⟨un⟩ davar"
+      "gloss": "⟨un⟩ davar"
     },
     {
       "surface": "יגנב",
-      "english": "⟨fue⟩ yagunab"
+      "gloss": "⟨fue⟩ yagunab"
     },
     {
       "surface": "ותקח",
-      "english": "⟨y⟩"
+      "gloss": "⟨y⟩"
     },
     {
       "surface": "אזני",
-      "english": "⟨la⟩ azni ⟨de mí⟩"
+      "gloss": "⟨la⟩ azni ⟨de mí⟩"
     },
     {
       "surface": "שמץ",
-      "english": "shématz"
+      "gloss": "shématz"
     },
     {
       "surface": "מנהו",
-      "english": "mimenhú"
+      "gloss": "mimenhú"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:21.343744888Z",
-  "model": "glm-4.5"
+  ]
 }

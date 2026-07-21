@@ -1,78 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "numbers 24:2",
   "book": "numbers",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25709,
-    "prompt_tokens_details": {
-      "cached_tokens": 23998
-    },
-    "total_tokens": 26221
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:59:05.862824759Z",
   "translation": "Y Balaam alzó sus ojos y vio ⟨a⟩ Israel acampando ⟨según⟩ sus tribus, y ⟨el⟩ Espíritu de Elohim vino ⟨sobre⟩ él",
   "tokens": [
     {
       "surface": "וישא",
-      "english": "Y alzó"
+      "gloss": "Y alzó"
     },
     {
       "surface": "בלעם",
-      "english": "Balaam"
+      "gloss": "Balaam"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "sus ojos"
     },
     {
       "surface": "עיניו",
-      "english": "sus ojos"
+      "gloss": "sus ojos"
     },
     {
       "surface": "וירא",
-      "english": "y vio"
+      "gloss": "y vio"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Israel"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "שכן",
-      "english": "acampando"
+      "gloss": "acampando"
     },
     {
       "surface": "לשבטיו",
-      "english": "⟨según⟩ sus tribus"
+      "gloss": "⟨según⟩ sus tribus"
     },
     {
       "surface": "ותהי",
-      "english": "y vino"
+      "gloss": "y vino"
     },
     {
       "surface": "עליו",
-      "english": "⟨sobre⟩ él"
+      "gloss": "⟨sobre⟩ él"
     },
     {
       "surface": "רוח",
-      "english": "⟨el⟩ Espíritu"
+      "gloss": "⟨el⟩ Espíritu"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     }
-  ],
-  "timestamp": "2026-06-10T04:59:05.862824759Z",
-  "model": "glm-4.5"
+  ]
 }

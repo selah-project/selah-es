@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 109:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 257,
-    "prompt_tokens": 69750,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70007
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:42.142592496Z",
   "translation": "Que sus hijos queden huérfanos y su esposa ⟨esté⟩ viuda.",
   "tokens": [
     {
       "surface": "יהיו",
-      "english": "Que queden"
+      "gloss": "Que queden"
     },
     {
       "surface": "בניו",
-      "english": "sus hijos"
+      "gloss": "sus hijos"
     },
     {
       "surface": "יתומים",
-      "english": "huérfanos"
+      "gloss": "huérfanos"
     },
     {
       "surface": "ואשתו",
-      "english": "y su esposa"
+      "gloss": "y su esposa"
     },
     {
       "surface": "אלמנה",
-      "english": "viuda"
+      "gloss": "viuda"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:42.142592496Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "exodus 40:11",
   "book": "exodus",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 491,
-    "prompt_tokens": 24074,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24565
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:29:13.155629465Z",
   "translation": "y ungirás ⟨el⟩ Kiyor y ⟨su⟩ base y consagrarás ⟨את⟩",
   "tokens": [
     {
       "surface": "וּ\/מָשַׁחְתָּ֥",
-      "english": "y ungirás"
+      "gloss": "y ungirás"
     },
     {
       "surface": "אֶת",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "el Kiyor"
     },
     {
       "surface": "הַ\/כִּיֹּ֖ר",
-      "english": "Kiyor"
+      "gloss": "Kiyor"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "y ⟨su⟩",
+      "gloss": "y ⟨su⟩",
       "marks": "su base"
     },
     {
       "surface": "כַּנּ֑\/וֹ",
-      "english": "base"
+      "gloss": "base"
     },
     {
       "surface": "וְ\/קִדַּשְׁתָּ֖",
-      "english": "y consagrarás"
+      "gloss": "y consagrarás"
     },
     {
       "surface": "אֹתֽ\/וֹ",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el objeto del acto de consagración"
     }
-  ],
-  "timestamp": "2026-07-16T20:29:13.155629465Z",
-  "model": "glm-4.5"
+  ]
 }

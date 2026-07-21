@@ -1,9 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 9:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 9,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:14:26.244921871Z",
+  "translation": "El que temía ⟨את⟩ palabra de YHWH de ⟨los⟩ siervos de Paró, hizo huir ⟨את⟩ sus siervos y ⟨את⟩ su ganado a ⟨las⟩ casas",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "El que temía"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palabra de YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "palabra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "de ⟨los⟩ siervos"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Paró"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "hizo huir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sus siervos"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sus siervos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "y ⟨את⟩",
+      "marks": "su ganado"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "su ganado"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "⟨las⟩ casas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -13,79 +75,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17187,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 17646
-  },
-  "translation": "El que temía ⟨את⟩ palabra de YHWH de ⟨los⟩ siervos de Paró, hizo huir ⟨את⟩ sus siervos y ⟨את⟩ su ganado a ⟨las⟩ casas",
-  "tokens": [
-    {
-      "surface": "הירא",
-      "english": "El que temía"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "palabra de YHWH"
-    },
-    {
-      "surface": "דבר",
-      "english": "palabra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "מעבדי",
-      "english": "de ⟨los⟩ siervos"
-    },
-    {
-      "surface": "פרעה",
-      "english": "de Paró"
-    },
-    {
-      "surface": "הניס",
-      "english": "hizo huir"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "sus siervos"
-    },
-    {
-      "surface": "עבדיו",
-      "english": "sus siervos"
-    },
-    {
-      "surface": "ואת",
-      "english": "y ⟨את⟩",
-      "marks": "su ganado"
-    },
-    {
-      "surface": "מקנהו",
-      "english": "su ganado"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "הבתים",
-      "english": "⟨las⟩ casas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:14:26.244921871Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

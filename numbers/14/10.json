@@ -1,82 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 14:10",
   "book": "numbers",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 531,
-    "prompt_tokens": 25944,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26475
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:02:47.809112401Z",
   "translation": "Y toda la asamblea dijo ⟨para⟩ apedrear ⟨את⟩ con piedras, y la gloria de YHWH apareció en ⟨el⟩ Ohel Moed ante todos ⟨los⟩ hijos de Israel.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "Y toda la asamblea dijo"
+      "gloss": "Y toda la asamblea dijo"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "העדה",
-      "english": "la asamblea"
+      "gloss": "la asamblea"
     },
     {
       "surface": "לרגום",
-      "english": "⟨para⟩ apedrear"
+      "gloss": "⟨para⟩ apedrear"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "con piedras"
     },
     {
       "surface": "באבנים",
-      "english": "con piedras"
+      "gloss": "con piedras"
     },
     {
       "surface": "וכבוד",
-      "english": "y la gloria"
+      "gloss": "y la gloria"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "נראה",
-      "english": "apareció"
+      "gloss": "apareció"
     },
     {
       "surface": "באהל",
-      "english": "en ⟨el⟩ Ohel Moed"
+      "gloss": "en ⟨el⟩ Ohel Moed"
     },
     {
       "surface": "מועד",
-      "english": "Ohel Moed"
+      "gloss": "Ohel Moed"
     },
     {
       "surface": "אל",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     }
-  ],
-  "timestamp": "2026-07-16T23:02:47.809112401Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 36:1",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 443,
-    "prompt_tokens": 65602,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 66045
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:04:37.566302903Z",
   "translation": "Y el pueblo de la tierra tomó ⟨את⟩ Yehoajaz ben Yoshiyahu y lo hicieron rey en lugar de su padre en Yerushalayim",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "Y"
+      "gloss": "Y"
     },
     {
       "surface": "עם",
-      "english": "el pueblo de"
+      "gloss": "el pueblo de"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yehoajaz"
     },
     {
       "surface": "יהואחז",
-      "english": "Yehoajaz"
+      "gloss": "Yehoajaz"
     },
     {
       "surface": "בן",
-      "english": "ben"
+      "gloss": "ben"
     },
     {
       "surface": "יאשיהו",
-      "english": "Yoshiyahu"
+      "gloss": "Yoshiyahu"
     },
     {
       "surface": "וימליכהו",
-      "english": "y lo hicieron rey"
+      "gloss": "y lo hicieron rey"
     },
     {
       "surface": "תחת",
-      "english": "en lugar de"
+      "gloss": "en lugar de"
     },
     {
       "surface": "אביו",
-      "english": "su padre"
+      "gloss": "su padre"
     },
     {
       "surface": "בירושלם",
-      "english": "en Yerushalayim"
+      "gloss": "en Yerushalayim"
     }
-  ],
-  "timestamp": "2026-07-16T19:04:37.566302903Z",
-  "model": "glm-4.5"
+  ]
 }

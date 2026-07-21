@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-samuel 31:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 31,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:15:06.702411982Z",
+  "translation": "Y murió Shaúl ⟨y⟩ sus tres hijos, ⟨y⟩ quien llevaba sus armas ⟨junto con⟩ todos sus hombres, en aquel día ⟨todos⟩ juntos.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Y murió"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "⟨y⟩ sus tres"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "⟨y⟩ quien llevaba"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sus armas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨junto con⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "sus hombres"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en aquel día"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨todos⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "juntos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -13,72 +68,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16461,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17000
-  },
-  "translation": "Y murió Shaúl ⟨y⟩ sus tres hijos, ⟨y⟩ quien llevaba sus armas ⟨junto con⟩ todos sus hombres, en aquel día ⟨todos⟩ juntos.",
-  "tokens": [
-    {
-      "surface": "וימת",
-      "english": "Y murió"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "ושלשת",
-      "english": "⟨y⟩ sus tres"
-    },
-    {
-      "surface": "בניו",
-      "english": "hijos"
-    },
-    {
-      "surface": "ונשא",
-      "english": "⟨y⟩ quien llevaba"
-    },
-    {
-      "surface": "כליו",
-      "english": "sus armas"
-    },
-    {
-      "surface": "גם",
-      "english": "⟨junto con⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "אנשיו",
-      "english": "sus hombres"
-    },
-    {
-      "surface": "ביום",
-      "english": "en aquel día"
-    },
-    {
-      "surface": "ההוא",
-      "english": "⟨todos⟩"
-    },
-    {
-      "surface": "יחדו",
-      "english": "juntos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:15:06.702411982Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

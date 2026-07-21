@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 78:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 246,
-    "prompt_tokens": 69891,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70137
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:34:48.666759777Z",
   "translation": "Porque no creyeron en Elohim, ni confiaron en su salvación:",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "האמינו",
-      "english": "creyeron"
+      "gloss": "creyeron"
     },
     {
       "surface": "באלהים",
-      "english": "en Elohim"
+      "gloss": "en Elohim"
     },
     {
       "surface": "ולא",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "בטחו",
-      "english": "confiaron"
+      "gloss": "confiaron"
     },
     {
       "surface": "בישועתו",
-      "english": "en su salvación"
+      "gloss": "en su salvación"
     }
-  ],
-  "timestamp": "2026-07-16T23:34:48.666759777Z",
-  "model": "glm-4.5"
+  ]
 }

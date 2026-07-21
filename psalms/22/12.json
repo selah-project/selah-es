@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 22:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 477,
-    "prompt_tokens": 70081,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70558
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:18.711987123Z",
   "translation": "No te alejes de mí, porque la angustia ⟨está⟩ cerca, porque no hay quien ayude.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תרחק",
-      "english": "te alejes"
+      "gloss": "te alejes"
     },
     {
       "surface": "ממני",
-      "english": "de mí"
+      "gloss": "de mí"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "צרה",
-      "english": "la angustia"
+      "gloss": "la angustia"
     },
     {
       "surface": "קרובה",
-      "english": "⟨está⟩ cerca"
+      "gloss": "⟨está⟩ cerca"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אין",
-      "english": "no hay"
+      "gloss": "no hay"
     },
     {
       "surface": "עוזר",
-      "english": "quien ayude"
+      "gloss": "quien ayude"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:18.711987123Z",
-  "model": "glm-4.5"
+  ]
 }

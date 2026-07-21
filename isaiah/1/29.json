@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "isaiah 1:29",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26259,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26667
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:20:22.626186383Z",
   "translation": "Porque ⟨se avergonzarán⟩ de los iconos que ⟨han⟩ deseado ⟨את⟩ y ⟨serán⟩ avergonzados ⟨את⟩ de los jardines que ⟨han⟩ elegido",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יבשו",
-      "english": "se avergonzarán"
+      "gloss": "se avergonzarán"
     },
     {
       "surface": "מאילים",
-      "english": "de los iconos",
+      "gloss": "de los iconos",
       "marks": "iconos que han deseado"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "חמדתם",
-      "english": "han deseado"
+      "gloss": "han deseado"
     },
     {
       "surface": "ותחפרו",
-      "english": "y serán avergonzados"
+      "gloss": "y serán avergonzados"
     },
     {
       "surface": "מהגנות",
-      "english": "de los jardines",
+      "gloss": "de los jardines",
       "marks": "jardines que han elegido"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בחרתם",
-      "english": "han elegido"
+      "gloss": "han elegido"
     }
-  ],
-  "timestamp": "2026-06-10T02:20:22.626186383Z",
-  "model": "glm-4.5"
+  ]
 }

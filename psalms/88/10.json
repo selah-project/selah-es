@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 88:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 662,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70252,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70914
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:43:19.809552481Z",
   "translation": "Mis ⟨ojos⟩ ⟨se⟩ consumen ⟨por⟩ aflicción; YHWH, ⟨he⟩ llamado ⟨a⟩ ti ⟨todos⟩ ⟨los⟩ días, ⟨he⟩ extendido ⟨hacia⟩ ti ⟨mis⟩ manos",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "⟨Ojos⟩"
+      "gloss": "⟨Ojos⟩"
     },
     {
       "surface": "דאבה",
-      "english": "⟨se⟩ consumen"
+      "gloss": "⟨se⟩ consumen"
     },
     {
       "surface": "מני",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "עני",
-      "english": "aflicción"
+      "gloss": "aflicción"
     },
     {
       "surface": "קראתיך",
-      "english": "⟨he⟩ llamado ⟨a⟩ ti"
+      "gloss": "⟨he⟩ llamado ⟨a⟩ ti"
     },
     {
       "surface": "י�הוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בכל",
-      "english": "⟨todos⟩ ⟨los⟩"
+      "gloss": "⟨todos⟩ ⟨los⟩"
     },
     {
       "surface": "יום",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "שטחתי",
-      "english": "⟨he⟩ extendido"
+      "gloss": "⟨he⟩ extendido"
     },
     {
       "surface": "אליך",
-      "english": "⟨hacia⟩ ti"
+      "gloss": "⟨hacia⟩ ti"
     },
     {
       "surface": "כפי",
-      "english": "⟨mis⟩ manos"
+      "gloss": "⟨mis⟩ manos"
     }
-  ],
-  "timestamp": "2026-06-09T23:43:19.809552481Z",
-  "model": "glm-4.5"
+  ]
 }

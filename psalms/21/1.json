@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 21:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 222,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69562,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69784
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:38.983669066Z",
   "translation": "⟨To⟩ ⟨el⟩ director de música ⟨un⟩ salmo ⟨de⟩ David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ ⟨el⟩ director de música"
+      "gloss": "⟨To⟩ ⟨el⟩ director de música"
     },
     {
       "surface": "מזמור",
-      "english": "⟨un⟩ salmo"
+      "gloss": "⟨un⟩ salmo"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:38.983669066Z",
-  "model": "glm-4.5"
+  ]
 }

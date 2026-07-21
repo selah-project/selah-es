@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 28:8",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26066,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26497
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:37:32.449937318Z",
   "translation": "Porque todas ⟨sus⟩ mesas están llenas de ⟨vómito⟩ ⟨y⟩ ⟨excremento⟩, sin ⟨un⟩ ⟨lugar⟩ ⟨limpio⟩",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "שלחנות",
-      "english": "⟨sus⟩ mesas"
+      "gloss": "⟨sus⟩ mesas"
     },
     {
       "surface": "מלאו",
-      "english": "están llenas"
+      "gloss": "están llenas"
     },
     {
       "surface": "קיא",
-      "english": "⟨vómito⟩",
+      "gloss": "⟨vómito⟩",
       "marks": "vómito"
     },
     {
       "surface": "צאה",
-      "english": "⟨excremento⟩"
+      "gloss": "⟨excremento⟩"
     },
     {
       "surface": "בלי",
-      "english": "sin"
+      "gloss": "sin"
     },
     {
       "surface": "מקום",
-      "english": "⟨un⟩ ⟨lugar⟩"
+      "gloss": "⟨un⟩ ⟨lugar⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:37:32.449937318Z",
-  "model": "glm-4.5"
+  ]
 }

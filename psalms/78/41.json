@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 41,
   "ref": "psalms 78:41",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69748,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70186
-  },
+  "verse": 41,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:37:38.538191014Z",
   "translation": "Y volvieron y tentaron a Elohim ⟨y⟩ al Santo de Israel ⟨lo⟩ entristecieron",
   "tokens": [
     {
       "surface": "וישובו",
-      "english": "Y volvieron"
+      "gloss": "Y volvieron"
     },
     {
       "surface": "וינסו",
-      "english": "y tentaron"
+      "gloss": "y tentaron"
     },
     {
       "surface": "אל",
-      "english": "a Elohim"
+      "gloss": "a Elohim"
     },
     {
       "surface": "וקדוש",
-      "english": "⟨y⟩ al Santo",
+      "gloss": "⟨y⟩ al Santo",
       "marks": "Santo de Israel"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     },
     {
       "surface": "התוו",
-      "english": "⟨lo⟩ entristecieron",
+      "gloss": "⟨lo⟩ entristecieron",
       "marks": "al Santo de Israel"
     }
-  ],
-  "timestamp": "2026-06-09T23:37:38.538191014Z",
-  "model": "glm-4.5"
+  ]
 }

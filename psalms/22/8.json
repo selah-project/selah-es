@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 22:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69983,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70516
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:06:41.126353467Z",
   "translation": "Todo ⟨el⟩ que ve ⟨a⟩ mí ⟨se⟩ burla ⟨de⟩ mí, ⟨se⟩ enseña ⟨con⟩ ⟨la⟩ boca ⟨y⟩ ⟨lo⟩ niega ⟨con⟩ ⟨la⟩ cabeza",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo ⟨el⟩ que"
+      "gloss": "Todo ⟨el⟩ que"
     },
     {
       "surface": "ראי",
-      "english": "ve ⟨a⟩"
+      "gloss": "ve ⟨a⟩"
     },
     {
       "surface": "ילעגו",
-      "english": "mí ⟨se⟩ burla ⟨de⟩"
+      "gloss": "mí ⟨se⟩ burla ⟨de⟩"
     },
     {
       "surface": "לי",
-      "english": "mí"
+      "gloss": "mí"
     },
     {
       "surface": "יפטירו",
-      "english": "⟨se⟩ enseña ⟨con⟩ ⟨la⟩"
+      "gloss": "⟨se⟩ enseña ⟨con⟩ ⟨la⟩"
     },
     {
       "surface": "בשפה",
-      "english": "boca"
+      "gloss": "boca"
     },
     {
       "surface": "יניעו",
-      "english": "⟨y⟩ ⟨lo⟩ niega ⟨con⟩ ⟨la⟩"
+      "gloss": "⟨y⟩ ⟨lo⟩ niega ⟨con⟩ ⟨la⟩"
     },
     {
       "surface": "ראש",
-      "english": "cabeza"
+      "gloss": "cabeza"
     }
-  ],
-  "timestamp": "2026-06-09T23:06:41.126353467Z",
-  "model": "glm-4.5"
+  ]
 }

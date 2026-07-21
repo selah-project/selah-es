@@ -1,80 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "isaiah 54:16",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26654,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27174
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:55:48.355216136Z",
   "translation": "He aquí que yo ⟨he⟩ creado al herrero que sopla en el fuego ⟨de⟩ carbones ⟨y⟩ ⟨que⟩ saca un instrumento para su obra; ⟨y⟩ yo ⟨he⟩ creado al devastador para destruir.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "אנכי",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "בראתי",
-      "english": "⟨he⟩ creado"
+      "gloss": "⟨he⟩ creado"
     },
     {
       "surface": "חרש",
-      "english": "al herrero"
+      "gloss": "al herrero"
     },
     {
       "surface": "נפח",
-      "english": "que sopla"
+      "gloss": "que sopla"
     },
     {
       "surface": "באש",
-      "english": "en el fuego"
+      "gloss": "en el fuego"
     },
     {
       "surface": "פחם",
-      "english": "⟨de⟩ carbones"
+      "gloss": "⟨de⟩ carbones"
     },
     {
       "surface": "ומוציא",
-      "english": "⟨y⟩ ⟨que⟩ saca"
+      "gloss": "⟨y⟩ ⟨que⟩ saca"
     },
     {
       "surface": "כלי",
-      "english": "un instrumento"
+      "gloss": "un instrumento"
     },
     {
       "surface": "למעשהו",
-      "english": "para su obra"
+      "gloss": "para su obra"
     },
     {
       "surface": "ואנכי",
-      "english": "⟨y⟩ yo"
+      "gloss": "⟨y⟩ yo"
     },
     {
       "surface": "בראתי",
-      "english": "⟨he⟩ creado"
+      "gloss": "⟨he⟩ creado"
     },
     {
       "surface": "משחית",
-      "english": "al devastador"
+      "gloss": "al devastador"
     },
     {
       "surface": "לחבל",
-      "english": "para destruir"
+      "gloss": "para destruir"
     }
-  ],
-  "timestamp": "2026-06-10T02:55:48.355216136Z",
-  "model": "glm-4.5"
+  ]
 }

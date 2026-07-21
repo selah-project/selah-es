@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "genesis 30:23",
   "book": "genesis",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 304,
-    "prompt_tokens": 28567,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28871
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:05:41.259962562Z",
   "translation": "Y concibió y dio a luz un hijo, y dijo: Elohim ha quitado ⟨el⟩ oprobio ⟨את⟩ de mí.",
   "tokens": [
     {
       "surface": "ותהר",
-      "english": "Y concibió"
+      "gloss": "Y concibió"
     },
     {
       "surface": "ותלד",
-      "english": "y dio a luz"
+      "gloss": "y dio a luz"
     },
     {
       "surface": "בן",
-      "english": "un hijo"
+      "gloss": "un hijo"
     },
     {
       "surface": "ותאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "אסף",
-      "english": "ha quitado"
+      "gloss": "ha quitado"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el oprobio"
     },
     {
       "surface": "חרפתי",
-      "english": "de mí"
+      "gloss": "de mí"
     }
-  ],
-  "timestamp": "2026-07-16T21:05:41.259962562Z",
-  "model": "glm-4.5"
+  ]
 }

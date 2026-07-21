@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "psalms 107:42",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69853,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70315
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:08.466741081Z",
   "translation": "Los rectos ⟨verán⟩ y se alegrarán, y toda ⟨la⟩ maldad cerrará ⟨la⟩ ⟨boca⟩ ⟨de ella⟩",
   "tokens": [
     {
       "surface": "יראו",
-      "english": "⟨Verán⟩"
+      "gloss": "⟨Verán⟩"
     },
     {
       "surface": "ישרים",
-      "english": "Los rectos"
+      "gloss": "Los rectos"
     },
     {
       "surface": "וישמחו",
-      "english": "y se alegrarán"
+      "gloss": "y se alegrarán"
     },
     {
       "surface": "וכל",
-      "english": "y toda ⟨la⟩"
+      "gloss": "y toda ⟨la⟩"
     },
     {
       "surface": "עולה",
-      "english": "maldad"
+      "gloss": "maldad"
     },
     {
       "surface": "קפצה",
-      "english": "cerrará"
+      "gloss": "cerrará"
     },
     {
       "surface": "פיה",
-      "english": "⟨la⟩ ⟨boca⟩ ⟨de ella⟩"
+      "gloss": "⟨la⟩ ⟨boca⟩ ⟨de ella⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:08.466741081Z",
-  "model": "glm-4.5"
+  ]
 }

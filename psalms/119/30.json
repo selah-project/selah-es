@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 119:30",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69711,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70072
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:41.145641770Z",
   "translation": "el camino de fidelidad ⟨he⟩ elegido, tus juicios ⟨he⟩ colocado ⟨את⟩ ⟨delante de mí⟩",
   "tokens": [
     {
       "surface": "דרך",
-      "english": "El camino"
+      "gloss": "El camino"
     },
     {
       "surface": "אמונה",
-      "english": "de fidelidad"
+      "gloss": "de fidelidad"
     },
     {
       "surface": "בחרתי",
-      "english": "⟨he⟩ elegido"
+      "gloss": "⟨he⟩ elegido"
     },
     {
       "surface": "משפטיך",
-      "english": "tus juicios"
+      "gloss": "tus juicios"
     },
     {
       "surface": "שויתי",
-      "english": "⟨he⟩ colocado",
+      "gloss": "⟨he⟩ colocado",
       "marks": "⟨delante de mí⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:41.145641770Z",
-  "model": "glm-4.5"
+  ]
 }

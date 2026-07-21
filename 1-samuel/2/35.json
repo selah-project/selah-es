@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "1-samuel 2:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 2,
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:46:22.783341611Z",
+  "translation": "Y me levantaré para mí un Kohen fiel, que hará ⟨como⟩ ⟨en⟩ mi corazón y ⟨en⟩ mi alma; y ⟨le⟩ edificaré una casa fiel, y andará ⟨delante de⟩ mi ungido todos los días.",
+  "tokens": [
+    {
+      "surface": "והקימתי",
+      "gloss": "Y me levantaré"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para mí"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "un Kohen"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "fiel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "que hará ⟨como⟩"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "⟨en⟩ mi corazón"
+    },
+    {
+      "surface": "ובנפשי",
+      "gloss": "y ⟨en⟩ mi alma"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hará"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "y ⟨le⟩ edificaré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para él"
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "fiel"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "y andará"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨delante de⟩"
+    },
+    {
+      "surface": "משיחי",
+      "gloss": "mi ungido"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "los días"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,92 +88,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 660,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17053,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17713
-  },
-  "translation": "Y me levantaré para mí un Kohen fiel, que hará ⟨como⟩ ⟨en⟩ mi corazón y ⟨en⟩ mi alma; y ⟨le⟩ edificaré una casa fiel, y andará ⟨delante de⟩ mi ungido todos los días.",
-  "tokens": [
-    {
-      "surface": "והקימתי",
-      "english": "Y me levantaré"
-    },
-    {
-      "surface": "לי",
-      "english": "para mí"
-    },
-    {
-      "surface": "כהן",
-      "english": "un Kohen"
-    },
-    {
-      "surface": "נאמן",
-      "english": "fiel"
-    },
-    {
-      "surface": "כאשר",
-      "english": "que hará ⟨como⟩"
-    },
-    {
-      "surface": "בלבבי",
-      "english": "⟨en⟩ mi corazón"
-    },
-    {
-      "surface": "ובנפשי",
-      "english": "y ⟨en⟩ mi alma"
-    },
-    {
-      "surface": "יעשה",
-      "english": "hará"
-    },
-    {
-      "surface": "ובניתי",
-      "english": "y ⟨le⟩ edificaré"
-    },
-    {
-      "surface": "לו",
-      "english": "para él"
-    },
-    {
-      "surface": "בית",
-      "english": "una casa"
-    },
-    {
-      "surface": "נאמן",
-      "english": "fiel"
-    },
-    {
-      "surface": "והתהלך",
-      "english": "y andará"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨delante de⟩"
-    },
-    {
-      "surface": "משיחי",
-      "english": "mi ungido"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "הימים",
-      "english": "los días"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:46:22.783341611Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

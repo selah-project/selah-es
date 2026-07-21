@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 107:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69796,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70121
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:17.122830975Z",
   "translation": "Y ⟨el⟩ humilló con ⟨el⟩ trabajo su corazón, tropezaron y ⟨no⟩ hubo ⟨un⟩ ayudador.",
   "tokens": [
     {
       "surface": "ויכנע",
-      "english": "Y ⟨el⟩ humilló"
+      "gloss": "Y ⟨el⟩ humilló"
     },
     {
       "surface": "בעמל",
-      "english": "con ⟨el⟩ trabajo"
+      "gloss": "con ⟨el⟩ trabajo"
     },
     {
       "surface": "לבם",
-      "english": "su corazón"
+      "gloss": "su corazón"
     },
     {
       "surface": "כשלו",
-      "english": "tropezaron"
+      "gloss": "tropezaron"
     },
     {
       "surface": "ואין",
-      "english": "y ⟨no⟩ hubo"
+      "gloss": "y ⟨no⟩ hubo"
     },
     {
       "surface": "עזר",
-      "english": "⟨un⟩ ayudador"
+      "gloss": "⟨un⟩ ayudador"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:17.122830975Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 42:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 732,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70365,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 71097
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:18:28.122600685Z",
   "translation": "Estas cosas ⟨han sido⟩ mi ⟨el⟩ pan ⟨de⟩ mis lágrimas día y noche, cuando ⟨se⟩ dice ⟨a⟩ mí ⟨todo⟩ el día: '¿Dónde ⟨está⟩ tu Elohim?'",
   "tokens": [
     {
       "surface": "היתה",
-      "english": "⟨Han sido⟩"
+      "gloss": "⟨Han sido⟩"
     },
     {
       "surface": "לי",
-      "english": "mi ⟨el⟩"
+      "gloss": "mi ⟨el⟩"
     },
     {
       "surface": "דמעתי",
-      "english": "pan ⟨de⟩ mis lágrimas"
+      "gloss": "pan ⟨de⟩ mis lágrimas"
     },
     {
       "surface": "לחם",
-      "english": "pan"
+      "gloss": "pan"
     },
     {
       "surface": "יומם",
-      "english": "día"
+      "gloss": "día"
     },
     {
       "surface": "ולילה",
-      "english": "y noche"
+      "gloss": "y noche"
     },
     {
       "surface": "באמר",
-      "english": "cuando ⟨se⟩ dice"
+      "gloss": "cuando ⟨se⟩ dice"
     },
     {
       "surface": "אלי",
-      "english": "⟨a⟩ mí"
+      "gloss": "⟨a⟩ mí"
     },
     {
       "surface": "כל",
-      "english": "⟨todo⟩"
+      "gloss": "⟨todo⟩"
     },
     {
       "surface": "היום",
-      "english": "el día"
+      "gloss": "el día"
     },
     {
       "surface": "איה",
-      "english": "'¿Dónde ⟨está⟩'"
+      "gloss": "'¿Dónde ⟨está⟩'"
     },
     {
       "surface": "אלהיך",
-      "english": "tu Elohim"
+      "gloss": "tu Elohim"
     }
-  ],
-  "timestamp": "2026-06-09T23:18:28.122600685Z",
-  "model": "glm-4.5"
+  ]
 }

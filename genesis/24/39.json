@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 39,
   "ref": "genesis 24:39",
   "book": "genesis",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28283,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28667
-  },
+  "verse": 39,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:21:18.340096680Z",
   "translation": "Y dije ⟨a⟩ mi señor: Quizás ⟨la⟩ mujer no irá ⟨en⟩ pos de mí",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "Y dije"
+      "gloss": "Y dije"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "mi señor"
     },
     {
       "surface": "אדני",
-      "english": "mi señor"
+      "gloss": "mi señor"
     },
     {
       "surface": "אלי",
-      "english": "Quizás"
+      "gloss": "Quizás"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תלך",
-      "english": "irá"
+      "gloss": "irá"
     },
     {
       "surface": "האשה",
-      "english": "⟨la⟩ mujer",
+      "gloss": "⟨la⟩ mujer",
       "marks": "irá"
     },
     {
       "surface": "אחרי",
-      "english": "⟨en⟩ pos de mí",
+      "gloss": "⟨en⟩ pos de mí",
       "marks": "irá"
     }
-  ],
-  "timestamp": "2026-06-10T05:21:18.340096680Z",
-  "model": "glm-4.5"
+  ]
 }

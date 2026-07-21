@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 25:24",
   "book": "genesis",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28214,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28537
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:22:51.115116861Z",
   "translation": "Y sus días para dar a luz se cumplieron y he aquí twins ⟨estaban⟩ en su vientre",
   "tokens": [
     {
       "surface": "וימלאו",
-      "english": "Y sus días se cumplieron"
+      "gloss": "Y sus días se cumplieron"
     },
     {
       "surface": "ימיה",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "ללדת",
-      "english": "para dar a luz"
+      "gloss": "para dar a luz"
     },
     {
       "surface": "והנה",
-      "english": "y he aquí"
+      "gloss": "y he aquí"
     },
     {
       "surface": "תומם",
-      "english": "twins",
+      "gloss": "twins",
       "marks": "en su vientre"
     },
     {
       "surface": "בבטנה",
-      "english": "en su vientre"
+      "gloss": "en su vientre"
     }
-  ],
-  "timestamp": "2026-06-10T05:22:51.115116861Z",
-  "model": "glm-4.5"
+  ]
 }

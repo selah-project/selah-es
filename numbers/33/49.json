@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 49,
   "ref": "numbers 33:49",
   "book": "numbers",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25199,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25692
-  },
+  "verse": 49,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:07:49.777527755Z",
   "translation": "Y acamparon ⟨en⟩ el Jordán desde Bet-ha-Jeshimot ⟨hasta⟩ Abel-ha-Shittim ⟨en⟩ ⟨las⟩ llanuras de Moab",
   "tokens": [
     {
       "surface": "ויחנו",
-      "english": "Y acamparon"
+      "gloss": "Y acamparon"
     },
     {
       "surface": "על",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "הירדן",
-      "english": "el Jordán"
+      "gloss": "el Jordán"
     },
     {
       "surface": "מבית",
-      "english": "desde"
+      "gloss": "desde"
     },
     {
       "surface": "הישמת",
-      "english": "Bet-ha-Jeshimot"
+      "gloss": "Bet-ha-Jeshimot"
     },
     {
       "surface": "עד",
-      "english": "⟨hasta⟩"
+      "gloss": "⟨hasta⟩"
     },
     {
       "surface": "אבל",
-      "english": "Abel-ha-Shittim"
+      "gloss": "Abel-ha-Shittim"
     },
     {
       "surface": "השטים",
-      "english": "Abel-ha-Shittim"
+      "gloss": "Abel-ha-Shittim"
     },
     {
       "surface": "בערבת",
-      "english": "⟨en⟩ ⟨las⟩ llanuras"
+      "gloss": "⟨en⟩ ⟨las⟩ llanuras"
     },
     {
       "surface": "מואב",
-      "english": "de Moab"
+      "gloss": "de Moab"
     }
-  ],
-  "timestamp": "2026-06-10T05:07:49.777527755Z",
-  "model": "glm-4.5"
+  ]
 }

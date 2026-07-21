@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 3:4",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59788,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60183
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:28:45.653240224Z",
   "translation": "y encontrarás ⟨el⟩ favor ⟨y⟩ ⟨el⟩ buen entendimiento ⟨en⟩ ⟨los⟩ ojos ⟨de⟩ Elohim ⟨y⟩ ⟨de⟩ ⟨el⟩ ser humano",
   "tokens": [
     {
       "surface": "ומצא",
-      "english": "Y encontrarás"
+      "gloss": "Y encontrarás"
     },
     {
       "surface": "חן",
-      "english": "⟨el⟩ favor"
+      "gloss": "⟨el⟩ favor"
     },
     {
       "surface": "ושכל",
-      "english": "⟨y⟩ ⟨el⟩ buen entendimiento"
+      "gloss": "⟨y⟩ ⟨el⟩ buen entendimiento"
     },
     {
       "surface": "טוב",
-      "english": "buen"
+      "gloss": "buen"
     },
     {
       "surface": "בעיני",
-      "english": "⟨en⟩ ⟨los⟩ ojos"
+      "gloss": "⟨en⟩ ⟨los⟩ ojos"
     },
     {
       "surface": "אלהים",
-      "english": "⟨de⟩ Elohim"
+      "gloss": "⟨de⟩ Elohim"
     },
     {
       "surface": "ואדם",
-      "english": "⟨y⟩ ⟨de⟩ ⟨el⟩ ser humano"
+      "gloss": "⟨y⟩ ⟨de⟩ ⟨el⟩ ser humano"
     }
-  ],
-  "timestamp": "2026-06-10T01:28:45.653240224Z",
-  "model": "glm-4.5"
+  ]
 }

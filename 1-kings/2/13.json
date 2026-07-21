@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-kings 2:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 2,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:44:57.408555783Z",
+  "translation": "Y vino Adonías hijo de Haguit a ⟨la⟩ Bat-Sheva, madre de Shelomó, y ⟨ella⟩ dijo: ¿Vienes en Shalom? Y ⟨él⟩ dijo: En Shalom.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Y vino"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonías"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "de Haguit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a ⟨la⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-Sheva"
+    },
+    {
+      "surface": "שבע",
+      "gloss": ", madre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "de"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomó"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "y ⟨ella⟩ dijo"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "¿Vienes en paz?"
+    },
+    {
+      "surface": "באך",
+      "gloss": "Vienes"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y ⟨él⟩ dijo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "En Shalom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,80 +76,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62524,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63097
-  },
-  "translation": "Y vino Adonías hijo de Haguit a ⟨la⟩ Bat-Sheva, madre de Shelomó, y ⟨ella⟩ dijo: ¿Vienes en Shalom? Y ⟨él⟩ dijo: En Shalom.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "Y vino"
-    },
-    {
-      "surface": "אדניהו",
-      "english": "Adonías"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "חגית",
-      "english": "de Haguit"
-    },
-    {
-      "surface": "אל",
-      "english": "a ⟨la⟩"
-    },
-    {
-      "surface": "בת",
-      "english": "Bat-Sheva"
-    },
-    {
-      "surface": "שבע",
-      "english": ", madre"
-    },
-    {
-      "surface": "אם",
-      "english": "de"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomó"
-    },
-    {
-      "surface": "ותאמר",
-      "english": "y ⟨ella⟩ dijo"
-    },
-    {
-      "surface": "השלום",
-      "english": "¿Vienes en paz?"
-    },
-    {
-      "surface": "באך",
-      "english": "Vienes"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y ⟨él⟩ dijo"
-    },
-    {
-      "surface": "שלום",
-      "english": "En Shalom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:44:57.408555783Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

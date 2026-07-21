@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 74:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 436,
-    "prompt_tokens": 69924,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70360
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:53.790221315Z",
   "translation": "Y ahora, las tallas de él juntamente ⟨con⟩ hacha y cincel las derriban",
   "tokens": [
     {
       "surface": "ועת",
-      "english": "Y ahora"
+      "gloss": "Y ahora"
     },
     {
       "surface": "פתוחיה",
-      "english": "las tallas de él"
+      "gloss": "las tallas de él"
     },
     {
       "surface": "יחד",
-      "english": "juntamente"
+      "gloss": "juntamente"
     },
     {
       "surface": "בכשיל",
-      "english": "⟨con⟩ hacha"
+      "gloss": "⟨con⟩ hacha"
     },
     {
       "surface": "וכילפת",
-      "english": "y cincel"
+      "gloss": "y cincel"
     },
     {
       "surface": "יהלמון",
-      "english": "las derriban"
+      "gloss": "las derriban"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:53.790221315Z",
-  "model": "glm-4.5"
+  ]
 }

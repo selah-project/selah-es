@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 37:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28295,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28685
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:34:00.753949362Z",
   "translation": "Y Yaakov habitó ⟨en⟩ ⟨la⟩ tierra de las moradas de su padre, ⟨en⟩ ⟨la⟩ tierra de Kenaan.",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "Y habitó"
+      "gloss": "Y habitó"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "בארץ",
-      "english": "⟨en⟩ ⟨la⟩ tierra"
+      "gloss": "⟨en⟩ ⟨la⟩ tierra"
     },
     {
       "surface": "מגורי",
-      "english": "de las moradas"
+      "gloss": "de las moradas"
     },
     {
       "surface": "אביו",
-      "english": "de su padre"
+      "gloss": "de su padre"
     },
     {
       "surface": "בארץ",
-      "english": "⟨en⟩ ⟨la⟩ tierra"
+      "gloss": "⟨en⟩ ⟨la⟩ tierra"
     },
     {
       "surface": "כנען",
-      "english": "de Kenaan"
+      "gloss": "de Kenaan"
     }
-  ],
-  "timestamp": "2026-06-10T05:34:00.753949362Z",
-  "model": "glm-4.5"
+  ]
 }

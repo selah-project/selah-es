@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 67:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 67,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69680,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70066
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:17.828599192Z",
   "translation": "Para ⟨el⟩ maestro de coro ⟨con⟩ instrumentos de cuerda. Un salmo, ⟨un⟩ cántico. Que Elohim nos sea ⟨ser⟩ ⟨el⟩ propicio y ⟨el⟩ que nos bendiga, ⟨y⟩ ⟨que⟩ ⟨el⟩ que haga ⟨el⟩ resplandecer ⟨el⟩ de su rostro ⟨sobre⟩ nosotros. Selah.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Para ⟨el⟩ maestro de coro"
+      "gloss": "Para ⟨el⟩ maestro de coro"
     },
     {
       "surface": "בנגינת",
-      "english": "⟨con⟩ instrumentos de cuerda"
+      "gloss": "⟨con⟩ instrumentos de cuerda"
     },
     {
       "surface": "מזמור",
-      "english": "Un salmo"
+      "gloss": "Un salmo"
     },
     {
       "surface": "שיר",
-      "english": "⟨un⟩ cántico"
+      "gloss": "⟨un⟩ cántico"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:17.828599192Z",
-  "model": "glm-4.5"
+  ]
 }

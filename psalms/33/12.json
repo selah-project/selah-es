@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 33:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69985,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70481
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:12:23.284780255Z",
   "translation": "¡Feliz ⟨es⟩ ⟨el⟩ gói cuyo Elohim ⟨es⟩ YHWH; ⟨el⟩ pueblo que él ⟨ha⟩ elegido como herencia para él.",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Feliz"
+      "gloss": "¡Feliz"
     },
     {
       "surface": "הגוי",
-      "english": "⟨el⟩ gói"
+      "gloss": "⟨el⟩ gói"
     },
     {
       "surface": "אשר",
-      "english": "cuyo"
+      "gloss": "cuyo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיו",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "בחר",
-      "english": "⟨ha⟩ elegido"
+      "gloss": "⟨ha⟩ elegido"
     },
     {
       "surface": "לנחלה",
-      "english": "como herencia"
+      "gloss": "como herencia"
     },
     {
       "surface": "לו",
-      "english": "para él"
+      "gloss": "para él"
     }
-  ],
-  "timestamp": "2026-06-09T23:12:23.284780255Z",
-  "model": "glm-4.5"
+  ]
 }

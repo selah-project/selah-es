@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 45:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 711,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70307,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71018
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:44.788627470Z",
   "translation": "Y tu majestad ⟨es⟩ cabalgante ⟨a⟩ caballo ⟨en⟩ palabra ⟨de⟩ verdad y ⟨de⟩ humildad ⟨y⟩ justicia ⟨y⟩ tu instrucción ⟨es⟩ temible ⟨a⟩ ⟨tu⟩ derecha",
   "tokens": [
     {
       "surface": "והדרך",
-      "english": "Y tu majestad"
+      "gloss": "Y tu majestad"
     },
     {
       "surface": "צלח",
-      "english": "⟨es⟩ cabalgante"
+      "gloss": "⟨es⟩ cabalgante"
     },
     {
       "surface": "רכב",
-      "english": "⟨a⟩ caballo"
+      "gloss": "⟨a⟩ caballo"
     },
     {
       "surface": "על",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "דבר",
-      "english": "palabra"
+      "gloss": "palabra"
     },
     {
       "surface": "אמת",
-      "english": "⟨de⟩ verdad"
+      "gloss": "⟨de⟩ verdad"
     },
     {
       "surface": "וענוה",
-      "english": "y ⟨de⟩ humildad"
+      "gloss": "y ⟨de⟩ humildad"
     },
     {
       "surface": "צדק",
-      "english": "⟨y⟩ justicia"
+      "gloss": "⟨y⟩ justicia"
     },
     {
       "surface": "ותורך",
-      "english": "⟨y⟩ tu instrucción ⟨es⟩"
+      "gloss": "⟨y⟩ tu instrucción ⟨es⟩"
     },
     {
       "surface": "נוראות",
-      "english": "temible"
+      "gloss": "temible"
     },
     {
       "surface": "ימינך",
-      "english": "⟨a⟩ ⟨tu⟩ derecha"
+      "gloss": "⟨a⟩ ⟨tu⟩ derecha"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:44.788627470Z",
-  "model": "glm-4.5"
+  ]
 }

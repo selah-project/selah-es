@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-samuel 30:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 30,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:14:28.994600101Z",
+  "translation": "Y se apretó ⟨por⟩ Davidd ⟨con⟩ vehemencia porque dijo el pueblo ⟨para⟩ apedrearlo porque ⟨se⟩ amargó ⟨el⟩ alma de todo el pueblo cada hombre ⟨sobre⟩ sus hijos y ⟨sobre⟩ sus hijas y se fortaleció Davidd ⟨en⟩ YHWH ⟨el⟩ Elohim de él",
+  "tokens": [
+    {
+      "surface": "ותצר",
+      "gloss": "Y se apretó"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨por⟩ David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨con⟩ vehemencia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "el pueblo"
+    },
+    {
+      "surface": "לסקלו",
+      "gloss": "⟨para⟩ apedrearlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "⟨se⟩ amargó"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨el⟩ alma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "el pueblo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada hombre"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sus hijos"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "y ⟨sobre⟩"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "sus hijas"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "y se fortaleció"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "⟨en⟩ YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "⟨el⟩ Elohim de él"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,108 +104,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 825,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17267,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 18092
-  },
-  "translation": "Y se apretó ⟨por⟩ Davidd ⟨con⟩ vehemencia porque dijo el pueblo ⟨para⟩ apedrearlo porque ⟨se⟩ amargó ⟨el⟩ alma de todo el pueblo cada hombre ⟨sobre⟩ sus hijos y ⟨sobre⟩ sus hijas y se fortaleció Davidd ⟨en⟩ YHWH ⟨el⟩ Elohim de él",
-  "tokens": [
-    {
-      "surface": "ותצר",
-      "english": "Y se apretó"
-    },
-    {
-      "surface": "לדוד",
-      "english": "⟨por⟩ David"
-    },
-    {
-      "surface": "מאד",
-      "english": "⟨con⟩ vehemencia"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "אמרו",
-      "english": "dijo"
-    },
-    {
-      "surface": "העם",
-      "english": "el pueblo"
-    },
-    {
-      "surface": "לסקלו",
-      "english": "⟨para⟩ apedrearlo"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "מרה",
-      "english": "⟨se⟩ amargó"
-    },
-    {
-      "surface": "נפש",
-      "english": "⟨el⟩ alma"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "העם",
-      "english": "el pueblo"
-    },
-    {
-      "surface": "איש",
-      "english": "cada hombre"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "בנו",
-      "english": "sus hijos"
-    },
-    {
-      "surface": "ועל",
-      "english": "y ⟨sobre⟩"
-    },
-    {
-      "surface": "בנתיו",
-      "english": "sus hijas"
-    },
-    {
-      "surface": "ויתחזק",
-      "english": "y se fortaleció"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ביהוה",
-      "english": "⟨en⟩ YHWH"
-    },
-    {
-      "surface": "אלהיו",
-      "english": "⟨el⟩ Elohim de él"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:14:28.994600101Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

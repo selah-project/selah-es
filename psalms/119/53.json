@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 53,
   "ref": "psalms 119:53",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 409,
-    "prompt_tokens": 69818,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70227
-  },
+  "verse": 53,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:43.583627076Z",
   "translation": "El ardor de ⟨la⟩ ira se apoderó de mí por ⟨los⟩ malvados ⟨que⟩ abandonan tu Torá.",
   "tokens": [
     {
       "surface": "זלעפה",
-      "english": "El ardor de ⟨la⟩ ira"
+      "gloss": "El ardor de ⟨la⟩ ira"
     },
     {
       "surface": "אחזתני",
-      "english": "se apoderó de mí"
+      "gloss": "se apoderó de mí"
     },
     {
       "surface": "מרשעים",
-      "english": "por ⟨los⟩ malvados"
+      "gloss": "por ⟨los⟩ malvados"
     },
     {
       "surface": "עזבי",
-      "english": "⟨que⟩ abandonan"
+      "gloss": "⟨que⟩ abandonan"
     },
     {
       "surface": "תורתך",
-      "english": "tu Torá"
+      "gloss": "tu Torá"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:43.583627076Z",
-  "model": "glm-4.5"
+  ]
 }

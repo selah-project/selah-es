@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "psalms 78:42",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 396,
-    "prompt_tokens": 70190,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70586
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:34:22.567038258Z",
   "translation": "No recordaron ⟨את⟩ su mano, el día en que los redimió del adversario.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "זכרו",
-      "english": "recordaron"
+      "gloss": "recordaron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su mano"
     },
     {
       "surface": "ידו",
-      "english": "su mano"
+      "gloss": "su mano"
     },
     {
       "surface": "יום",
-      "english": "el día"
+      "gloss": "el día"
     },
     {
       "surface": "אשר",
-      "english": "en que"
+      "gloss": "en que"
     },
     {
       "surface": "פדם",
-      "english": "los redimió"
+      "gloss": "los redimió"
     },
     {
       "surface": "מני",
-      "english": "del"
+      "gloss": "del"
     },
     {
       "surface": "צר",
-      "english": "adversario"
+      "gloss": "adversario"
     }
-  ],
-  "timestamp": "2026-07-16T23:34:22.567038258Z",
-  "model": "glm-4.5"
+  ]
 }

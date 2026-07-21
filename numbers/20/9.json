@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "numbers 20:9",
   "book": "numbers",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 421,
-    "prompt_tokens": 25222,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25643
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:07:19.659376597Z",
   "translation": "Y Moshé tomó ⟨el⟩ bastón ⟨de⟩ delante de YHWH, ⟨tal⟩ como ⟨lo⟩ había ordenado ⟨a él⟩",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "Y Moshé tomó"
+      "gloss": "Y Moshé tomó"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "bastón"
     },
     {
       "surface": "המטה",
-      "english": "bastón"
+      "gloss": "bastón"
     },
     {
       "surface": "מלפני",
-      "english": "⟨de⟩ delante de"
+      "gloss": "⟨de⟩ delante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כאשר",
-      "english": "⟨tal⟩ como"
+      "gloss": "⟨tal⟩ como"
     },
     {
       "surface": "צוהו",
-      "english": "⟨lo⟩ había ordenado ⟨a él⟩"
+      "gloss": "⟨lo⟩ había ordenado ⟨a él⟩"
     }
-  ],
-  "timestamp": "2026-07-16T23:07:19.659376597Z",
-  "model": "glm-4.5"
+  ]
 }

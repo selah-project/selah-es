@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "exodus 37:4",
   "book": "exodus",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 380,
-    "prompt_tokens": 24004,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24384
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:26:44.083038109Z",
   "translation": "E hizo ⟨las⟩ varas de madera de acacia y las cubrió ⟨את⟩ con oro",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E hizo"
+      "gloss": "E hizo"
     },
     {
       "surface": "בדי",
-      "english": "⟨las⟩ varas"
+      "gloss": "⟨las⟩ varas"
     },
     {
       "surface": "עצי",
-      "english": "de madera"
+      "gloss": "de madera"
     },
     {
       "surface": "שטים",
-      "english": "de acacia"
+      "gloss": "de acacia"
     },
     {
       "surface": "ויצף",
-      "english": "y las cubrió"
+      "gloss": "y las cubrió"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "con oro"
     },
     {
       "surface": "זהב",
-      "english": "oro"
+      "gloss": "oro"
     }
-  ],
-  "timestamp": "2026-07-16T20:26:44.083038109Z",
-  "model": "glm-4.5"
+  ]
 }

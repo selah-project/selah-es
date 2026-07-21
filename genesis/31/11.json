@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 31:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28403,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28819
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:28:11.803603466Z",
   "translation": "Y ⟨dijo⟩ a mí ⟨el⟩ malaj de ⟨Elohim⟩ en ⟨el⟩ sueño, Yaakov: y ⟨dijo⟩: ¡Hineni!",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y ⟨dijo⟩"
+      "gloss": "Y ⟨dijo⟩"
     },
     {
       "surface": "אלי",
-      "english": "a mí"
+      "gloss": "a mí"
     },
     {
       "surface": "מלאך",
-      "english": "⟨el⟩ malaj"
+      "gloss": "⟨el⟩ malaj"
     },
     {
       "surface": "האלהים",
-      "english": "de ⟨Elohim⟩"
+      "gloss": "de ⟨Elohim⟩"
     },
     {
       "surface": "בחלום",
-      "english": "en ⟨el⟩ sueño"
+      "gloss": "en ⟨el⟩ sueño"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "ואמר",
-      "english": "y ⟨dijo⟩"
+      "gloss": "y ⟨dijo⟩"
     },
     {
       "surface": "הנני",
-      "english": "¡Hineni!"
+      "gloss": "¡Hineni!"
     }
-  ],
-  "timestamp": "2026-06-10T05:28:11.803603466Z",
-  "model": "glm-4.5"
+  ]
 }

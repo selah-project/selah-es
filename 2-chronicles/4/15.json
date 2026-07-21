@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-chronicles 4:15",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 504,
-    "prompt_tokens": 65224,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 65728
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:49:01.226872535Z",
   "translation": "el Yamar (el Mar) uno, y ⟨את⟩ el ganado doce debajo de él",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Yamar"
     },
     {
       "surface": "הים",
-      "english": "el Yamar (el Mar)"
+      "gloss": "el Yamar (el Mar)"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el ganado"
     },
     {
       "surface": "הבקר",
-      "english": "el ganado"
+      "gloss": "el ganado"
     },
     {
       "surface": "שנים",
-      "english": "doce"
+      "gloss": "doce"
     },
     {
       "surface": "עשר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "תחתיו",
-      "english": "debajo de él"
+      "gloss": "debajo de él"
     }
-  ],
-  "timestamp": "2026-07-16T18:49:01.226872535Z",
-  "model": "glm-4.5"
+  ]
 }

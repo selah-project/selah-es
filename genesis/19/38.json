@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 38,
   "ref": "genesis 19:38",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 19,
+  "verse": 38,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:11:21.340566699Z",
+  "translation": "Y la más joven ⟨aun⟩ ⟨ella⟩ dio a luz un hijo y llamó su nombre Ben Ammi: él ⟨es⟩ el padre de ⟨los⟩ hijos de Ammón hasta ⟨el⟩ día.",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "Y la más joven"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨aun⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ella⟩"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dio a luz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un hijo"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "y llamó"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "su nombre"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "él"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammón"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨el⟩ día"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amón",
@@ -13,84 +80,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21606,
-    "prompt_tokens_details": {
-      "cached_tokens": 19977
-    },
-    "total_tokens": 22132
-  },
-  "translation": "Y la más joven ⟨aun⟩ ⟨ella⟩ dio a luz un hijo y llamó su nombre Ben Ammi: él ⟨es⟩ el padre de ⟨los⟩ hijos de Ammón hasta ⟨el⟩ día.",
-  "tokens": [
-    {
-      "surface": "והצעירה",
-      "english": "Y la más joven"
-    },
-    {
-      "surface": "גם",
-      "english": "⟨aun⟩"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨ella⟩"
-    },
-    {
-      "surface": "ילדה",
-      "english": "dio a luz"
-    },
-    {
-      "surface": "בן",
-      "english": "un hijo"
-    },
-    {
-      "surface": "ותקרא",
-      "english": "y llamó"
-    },
-    {
-      "surface": "שמו",
-      "english": "su nombre"
-    },
-    {
-      "surface": "בן",
-      "english": "Ben"
-    },
-    {
-      "surface": "עמי",
-      "english": "Ammi"
-    },
-    {
-      "surface": "הוא",
-      "english": "él"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos"
-    },
-    {
-      "surface": "עמון",
-      "english": "Ammón"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta"
-    },
-    {
-      "surface": "היום",
-      "english": "⟨el⟩ día"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:11:21.340566699Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

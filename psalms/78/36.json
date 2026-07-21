@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "psalms 78:36",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 201,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69698,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69899
-  },
+  "verse": 36,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:44.259672194Z",
   "translation": "Y lo engañaron con su boca ⟨את⟩, y con su lengua mintieron a él.",
   "tokens": [
     {
       "surface": "ויפתוהו",
-      "english": "Y lo engañaron"
+      "gloss": "Y lo engañaron"
     },
     {
       "surface": "בפיהם",
-      "english": "con su boca"
+      "gloss": "con su boca"
     },
     {
       "surface": "ובלשונם",
-      "english": "y con su lengua"
+      "gloss": "y con su lengua"
     },
     {
       "surface": "יכזבו",
-      "english": "mintieron"
+      "gloss": "mintieron"
     },
     {
       "surface": "לו",
-      "english": "a él"
+      "gloss": "a él"
     }
-  ],
-  "timestamp": "2026-06-09T23:36:44.259672194Z",
-  "model": "glm-4.5"
+  ]
 }

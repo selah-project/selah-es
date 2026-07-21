@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 18:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69873,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70288
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:13.030116215Z",
   "translation": "Porque ⟨he⟩ guardado ⟨los⟩ caminos de YHWH y ⟨no⟩ me ⟨he⟩ desviado perversamente de ⟨mi⟩ Elohim",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "שמרתי",
-      "english": "⟨he⟩ guardado"
+      "gloss": "⟨he⟩ guardado"
     },
     {
       "surface": "דרכי",
-      "english": "⟨los⟩ caminos"
+      "gloss": "⟨los⟩ caminos"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "רשעתי",
-      "english": "me ⟨he⟩ desviado perversamente"
+      "gloss": "me ⟨he⟩ desviado perversamente"
     },
     {
       "surface": "מאלהי",
-      "english": "de ⟨mi⟩ Elohim"
+      "gloss": "de ⟨mi⟩ Elohim"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:13.030116215Z",
-  "model": "glm-4.5"
+  ]
 }

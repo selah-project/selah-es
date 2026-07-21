@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "2-chronicles 20:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 20,
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:21:43.034868302Z",
+  "translation": "y ⟨estuvo⟩ en reposo ⟨el⟩ reino ⟨de⟩ Yehoshafat ⟨⟨את⟩⟩ ⟨y⟩ su Elohim ⟨dio⟩ descanso ⟨a⟩ él ⟨desde⟩ alrededor",
+  "tokens": [
+    {
+      "surface": "ותשקט",
+      "gloss": "Y ⟨estuvo⟩ en reposo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "⟨el⟩ reino ⟨de⟩"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "⟨y⟩ su Elohim ⟨dio⟩ descanso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a⟩ él"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "⟨y⟩ su Elohim"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "⟨desde⟩ alrededor"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josafat",
@@ -13,52 +48,6 @@
       "hebrew": "יהושפט"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57672,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58134
-  },
-  "translation": "y ⟨estuvo⟩ en reposo ⟨el⟩ reino ⟨de⟩ Yehoshafat ⟨⟨את⟩⟩ ⟨y⟩ su Elohim ⟨dio⟩ descanso ⟨a⟩ él ⟨desde⟩ alrededor",
-  "tokens": [
-    {
-      "surface": "ותשקט",
-      "english": "Y ⟨estuvo⟩ en reposo"
-    },
-    {
-      "surface": "מלכות",
-      "english": "⟨el⟩ reino ⟨de⟩"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "וינח",
-      "english": "⟨y⟩ su Elohim ⟨dio⟩ descanso"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨a⟩ él"
-    },
-    {
-      "surface": "אלהיו",
-      "english": "⟨y⟩ su Elohim"
-    },
-    {
-      "surface": "מסביב",
-      "english": "⟨desde⟩ alrededor"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:21:43.034868302Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 119:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69791,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70075
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:05.169038810Z",
   "translation": "Beneficia a tu siervo ⟨para⟩ que ⟨yo⟩ viva ⟨y⟩ guarde tu davar ⟨palabra⟩",
   "tokens": [
     {
       "surface": "גמל",
-      "english": "Beneficia"
+      "gloss": "Beneficia"
     },
     {
       "surface": "על",
-      "english": "a tu siervo"
+      "gloss": "a tu siervo"
     },
     {
       "surface": "עבדך",
-      "english": "siervo"
+      "gloss": "siervo"
     },
     {
       "surface": "אחיה",
-      "english": "⟨para⟩ que ⟨yo⟩ viva"
+      "gloss": "⟨para⟩ que ⟨yo⟩ viva"
     },
     {
       "surface": "ואשמרה",
-      "english": "⟨y⟩ guarde"
+      "gloss": "⟨y⟩ guarde"
     },
     {
       "surface": "דברך",
-      "english": "tu davar ⟨palabra⟩"
+      "gloss": "tu davar ⟨palabra⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:05.169038810Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-chronicles 13:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 13,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:42:36.676932139Z",
+  "translation": "Y Davidd congregó ⟨a⟩ todo Yisrael desde Shijor ⟨de⟩ Mitzráyim hasta ⟨la⟩ entrada de Jamat para traer ⟨el⟩ Arón ⟨de⟩ Elohim ⟨de⟩ Quiriat-jearim",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "Y congregó"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "todo Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "desde"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shijor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "⟨la⟩ entrada"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Jamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "para traer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨el⟩",
+      "marks": "el arca"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arón"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Quiriat-jearim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -34,94 +111,6 @@
       "hebrew": "ארון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 582,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57713,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 58295
-  },
-  "translation": "Y Davidd congregó ⟨a⟩ todo Yisrael desde Shijor ⟨de⟩ Mitzráyim hasta ⟨la⟩ entrada de Jamat para traer ⟨el⟩ Arón ⟨de⟩ Elohim ⟨de⟩ Quiriat-jearim",
-  "tokens": [
-    {
-      "surface": "ויקהל",
-      "english": "Y congregó"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "todo Israel"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מן",
-      "english": "desde"
-    },
-    {
-      "surface": "שיחור",
-      "english": "Shijor"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "ועד",
-      "english": "hasta"
-    },
-    {
-      "surface": "לבוא",
-      "english": "⟨la⟩ entrada"
-    },
-    {
-      "surface": "חמת",
-      "english": "Jamat"
-    },
-    {
-      "surface": "להביא",
-      "english": "para traer"
-    },
-    {
-      "surface": "את",
-      "english": "⟨el⟩",
-      "marks": "el arca"
-    },
-    {
-      "surface": "ארון",
-      "english": "Arón"
-    },
-    {
-      "surface": "האלהים",
-      "english": "de Elohim"
-    },
-    {
-      "surface": "מקרית",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "יערים",
-      "english": "Quiriat-jearim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:42:36.676932139Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

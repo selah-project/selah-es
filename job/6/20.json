@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 6:20",
   "book": "job",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26938,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27280
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:33.897663349Z",
   "translation": "Están avergonzados ⟨porque⟩ ⟨el que⟩ esperó; llegaron hasta ⟨aquí⟩ y quedaron avergonzados.",
   "tokens": [
     {
       "surface": "בשו",
-      "english": "Están avergonzados"
+      "gloss": "Están avergonzados"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "בטח",
-      "english": "⟨el que⟩ esperó"
+      "gloss": "⟨el que⟩ esperó"
     },
     {
       "surface": "באו",
-      "english": "llegaron"
+      "gloss": "llegaron"
     },
     {
       "surface": "עדיה",
-      "english": "hasta ⟨aquí⟩"
+      "gloss": "hasta ⟨aquí⟩"
     },
     {
       "surface": "ו�יחפרו",
-      "english": "y quedaron avergonzados"
+      "gloss": "y quedaron avergonzados"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:33.897663349Z",
-  "model": "glm-4.5"
+  ]
 }

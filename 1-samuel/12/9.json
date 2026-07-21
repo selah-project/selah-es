@@ -1,9 +1,90 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-samuel 12:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 12,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:54:47.919923767Z",
+  "translation": "Y olvidaron ⟨a⟩ YHWH su Elohim, y los vendió ⟨a⟩ en mano de Sisera, comandante del ejército de Hazor, y en mano de los filisteos, y en mano del rey de Moav, y pelearon contra ellos.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Y olvidaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "y los vendió"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨a⟩",
+      "marks": "en mano"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "en mano"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "comandante"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ejército"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "de Hazor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "y en mano"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de los filisteos"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "y en mano"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del rey"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "y pelearon"
+    },
+    {
+      "surface": "בם",
+      "gloss": "contra ellos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moab",
@@ -13,98 +94,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17344,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17898
-  },
-  "translation": "Y olvidaron ⟨a⟩ YHWH su Elohim, y los vendió ⟨a⟩ en mano de Sisera, comandante del ejército de Hazor, y en mano de los filisteos, y en mano del rey de Moav, y pelearon contra ellos.",
-  "tokens": [
-    {
-      "surface": "וישכחו",
-      "english": "Y olvidaron"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "YHWH"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיהם",
-      "english": "su Elohim"
-    },
-    {
-      "surface": "וימכר",
-      "english": "y los vendió"
-    },
-    {
-      "surface": "אתם",
-      "english": "⟨a⟩",
-      "marks": "en mano"
-    },
-    {
-      "surface": "ביד",
-      "english": "en mano"
-    },
-    {
-      "surface": "סיסרא",
-      "english": "Sisera"
-    },
-    {
-      "surface": "שר",
-      "english": "comandante"
-    },
-    {
-      "surface": "צבא",
-      "english": "ejército"
-    },
-    {
-      "surface": "חצור",
-      "english": "de Hazor"
-    },
-    {
-      "surface": "וביד",
-      "english": "y en mano"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "de los filisteos"
-    },
-    {
-      "surface": "וביד",
-      "english": "y en mano"
-    },
-    {
-      "surface": "מלך",
-      "english": "del rey"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "וילחמו",
-      "english": "y pelearon"
-    },
-    {
-      "surface": "בם",
-      "english": "contra ellos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:54:47.919923767Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

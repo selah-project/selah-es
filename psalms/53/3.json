@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 53:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 53,
-  "usage": {
-    "completion_tokens": 532,
-    "prompt_tokens": 70552,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71084
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:08.757633551Z",
   "translation": "Elohim ⟨ha⟩ miró desde los cielos sobre los hijos de Adam, para ver si ⟨hay⟩ ⟨un⟩ prudente que busque a ⟨את⟩ Elohim.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "משמים",
-      "english": "desde los cielos"
+      "gloss": "desde los cielos"
     },
     {
       "surface": "השקיף",
-      "english": "miró"
+      "gloss": "miró"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "בני",
-      "english": "los hijos"
+      "gloss": "los hijos"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     },
     {
       "surface": "לראות",
-      "english": "para ver"
+      "gloss": "para ver"
     },
     {
       "surface": "היש",
-      "english": "si ⟨hay⟩"
+      "gloss": "si ⟨hay⟩"
     },
     {
       "surface": "משכיל",
-      "english": "⟨un⟩ prudente"
+      "gloss": "⟨un⟩ prudente"
     },
     {
       "surface": "דרש",
-      "english": "que busque a"
+      "gloss": "que busque a"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Elohim"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:08.757633551Z",
-  "model": "glm-4.5"
+  ]
 }

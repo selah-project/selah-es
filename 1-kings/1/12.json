@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-kings 1:12",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 432,
-    "prompt_tokens": 70091,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 70523
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:13:40.021556468Z",
   "translation": "Y ahora, ven, te ruego, ⟨te⟩ dé consejo, y libra ⟨את⟩ tu vida y ⟨את⟩ la vida de tu hijo Shlomó",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "Y ahora"
+      "gloss": "Y ahora"
     },
     {
       "surface": "לכי",
-      "english": "ven"
+      "gloss": "ven"
     },
     {
       "surface": "איעצך",
-      "english": "⟨te⟩ dé consejo"
+      "gloss": "⟨te⟩ dé consejo"
     },
     {
       "surface": "נא",
-      "english": "te ruego"
+      "gloss": "te ruego"
     },
     {
       "surface": "עצה",
-      "english": "consejo"
+      "gloss": "consejo"
     },
     {
       "surface": "ומלטי",
-      "english": "y libra"
+      "gloss": "y libra"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu vida"
     },
     {
       "surface": "נפשך",
-      "english": "tu vida"
+      "gloss": "tu vida"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la vida"
     },
     {
       "surface": "נפש",
-      "english": "vida"
+      "gloss": "vida"
     },
     {
       "surface": "בנך",
-      "english": "tu hijo"
+      "gloss": "tu hijo"
     },
     {
       "surface": "שלמה",
-      "english": "Shlomó"
+      "gloss": "Shlomó"
     }
-  ],
-  "timestamp": "2026-07-16T18:13:40.021556468Z",
-  "model": "glm-4.5"
+  ]
 }

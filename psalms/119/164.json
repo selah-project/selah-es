@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 164,
   "ref": "psalms 119:164",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69790,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70204
-  },
+  "verse": 164,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:57.438555925Z",
   "translation": "Siete veces ⟨al⟩ día ⟨te⟩ he alabado ⟨por⟩ las justas sentencias ⟨de tu⟩ justicia.",
   "tokens": [
     {
       "surface": "שבע",
-      "english": "Siete veces"
+      "gloss": "Siete veces"
     },
     {
       "surface": "ביום",
-      "english": "⟨al⟩ día"
+      "gloss": "⟨al⟩ día"
     },
     {
       "surface": "הללתיך",
-      "english": "⟨te⟩ he alabado"
+      "gloss": "⟨te⟩ he alabado"
     },
     {
       "surface": "על",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "משפטי",
-      "english": "las justas sentencias"
+      "gloss": "las justas sentencias"
     },
     {
       "surface": "צדקך",
-      "english": "⟨de tu⟩ justicia"
+      "gloss": "⟨de tu⟩ justicia"
     }
-  ],
-  "timestamp": "2026-06-10T00:02:57.438555925Z",
-  "model": "glm-4.5"
+  ]
 }

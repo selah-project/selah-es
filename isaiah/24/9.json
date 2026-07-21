@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 24:9",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25913,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26225
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:35:28.376493507Z",
   "translation": "⟨In⟩ song ⟨they⟩ ⟨will⟩ not drink wine; ⟨a⟩ bitter ⟨thing⟩ shall be ⟨to⟩ ⟨those⟩ drinking strong drink.",
   "tokens": [
     {
       "surface": "בשיר",
-      "english": "⟨In⟩ song"
+      "gloss": "⟨In⟩ song"
     },
     {
       "surface": "לא",
-      "english": "⟨they⟩ ⟨will⟩ not"
+      "gloss": "⟨they⟩ ⟨will⟩ not"
     },
     {
       "surface": "ישתו",
-      "english": "drink"
+      "gloss": "drink"
     },
     {
       "surface": "יין",
-      "english": "wine"
+      "gloss": "wine"
     },
     {
       "surface": "ימר",
-      "english": "⟨a⟩ bitter ⟨thing⟩ shall be"
+      "gloss": "⟨a⟩ bitter ⟨thing⟩ shall be"
     },
     {
       "surface": "שכר",
-      "english": "strong drink"
+      "gloss": "strong drink"
     },
     {
       "surface": "לשתיו",
-      "english": "⟨to⟩ ⟨those⟩ drinking"
+      "gloss": "⟨to⟩ ⟨those⟩ drinking"
     }
-  ],
-  "timestamp": "2026-06-10T02:35:28.376493507Z",
-  "model": "glm-4.5"
+  ]
 }

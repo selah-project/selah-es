@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "leviticus 11:8",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 431,
-    "prompt_tokens": 24659,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25090
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:37:27.700144032Z",
   "translation": "De su carne no comeréis, ⟨y⟩ a sus cadáveres no tocaréis; ⟨están⟩ inmundos ⟨a⟩ vosotros.",
   "tokens": [
     {
       "surface": "מבשרם",
-      "english": "De su carne"
+      "gloss": "De su carne"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תאכלו",
-      "english": "comeréis"
+      "gloss": "comeréis"
     },
     {
       "surface": "ובנבלתם",
-      "english": "⟨y⟩ a sus cadáveres",
+      "gloss": "⟨y⟩ a sus cadáveres",
       "marks": "sus cadáveres"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תגעו",
-      "english": "tocaréis"
+      "gloss": "tocaréis"
     },
     {
       "surface": "טמאים",
-      "english": "inmundos"
+      "gloss": "inmundos"
     },
     {
       "surface": "הם",
-      "english": "⟨están⟩"
+      "gloss": "⟨están⟩"
     },
     {
       "surface": "לכם",
-      "english": "⟨a⟩ vosotros"
+      "gloss": "⟨a⟩ vosotros"
     }
-  ],
-  "timestamp": "2026-07-16T22:37:27.700144032Z",
-  "model": "glm-4.5"
+  ]
 }

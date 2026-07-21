@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 27:3",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 587,
-    "prompt_tokens": 65483,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 66070
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:58:17.831018129Z",
   "translation": "Él ⟨es quien⟩ construyó ⟨את⟩ la puerta Alta de la casa de YHWH, y en el muro de ⟨el⟩ Ophel construyó ⟨para⟩ mucho.",
   "tokens": [
     {
       "surface": "הוא",
-      "english": "Él ⟨es quien⟩"
+      "gloss": "Él ⟨es quien⟩"
     },
     {
       "surface": "בנה",
-      "english": "construyó"
+      "gloss": "construyó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la puerta Alta de la casa de YHWH"
     },
     {
       "surface": "שער",
-      "english": "la puerta"
+      "gloss": "la puerta"
     },
     {
       "surface": "בית",
-      "english": "de la casa"
+      "gloss": "de la casa"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "העליון",
-      "english": "Alta"
+      "gloss": "Alta"
     },
     {
       "surface": "ובחומת",
-      "english": "y en el muro de"
+      "gloss": "y en el muro de"
     },
     {
       "surface": "העפל",
-      "english": "Ophel"
+      "gloss": "Ophel"
     },
     {
       "surface": "בנה",
-      "english": "construyó"
+      "gloss": "construyó"
     },
     {
       "surface": "לרב",
-      "english": "⟨para⟩ mucho"
+      "gloss": "⟨para⟩ mucho"
     }
-  ],
-  "timestamp": "2026-07-16T18:58:17.831018129Z",
-  "model": "glm-4.5"
+  ]
 }

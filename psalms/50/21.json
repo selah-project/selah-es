@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 50:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 610,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70314,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70924
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:22:46.831289426Z",
   "translation": "Estas cosas ⟨has⟩ hecho, y yo guardé ⟨el⟩ silencio; pensaste que ⟨yo era⟩ como tú: ⟨pero⟩ yo te reprenderé y ⟨las⟩ expondré ⟨en⟩ orden ante tus ojos.",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "Estas cosas"
+      "gloss": "Estas cosas"
     },
     {
       "surface": "עשית",
-      "english": "⟨has⟩ hecho"
+      "gloss": "⟨has⟩ hecho"
     },
     {
       "surface": "והחרשתי",
-      "english": "y yo guardé ⟨el⟩ silencio"
+      "gloss": "y yo guardé ⟨el⟩ silencio"
     },
     {
       "surface": "דמית",
-      "english": "pensaste que"
+      "gloss": "pensaste que"
     },
     {
       "surface": "היות",
-      "english": "⟨yo era⟩"
+      "gloss": "⟨yo era⟩"
     },
     {
       "surface": "אהיה",
-      "english": "como tú"
+      "gloss": "como tú"
     },
     {
       "surface": "כמוך",
-      "english": "como tú"
+      "gloss": "como tú"
     },
     {
       "surface": "אוכיחך",
-      "english": "⟨pero⟩ yo te reprenderé"
+      "gloss": "⟨pero⟩ yo te reprenderé"
     },
     {
       "surface": "ואערכה",
-      "english": "y ⟨las⟩ expondré ⟨en⟩ orden"
+      "gloss": "y ⟨las⟩ expondré ⟨en⟩ orden"
     },
     {
       "surface": "לעיניך",
-      "english": "ante tus ojos"
+      "gloss": "ante tus ojos"
     }
-  ],
-  "timestamp": "2026-06-09T23:22:46.831289426Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "amos 2:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 2,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:01:30.503922146Z",
+  "translation": "Y ⟨haré⟩ enviar fuego sobre Moav, y ⟨el⟩ fuego consumirá ⟨את⟩ ⟨las⟩ fortalezas de Keriot, y morirá Moav con estruendo, con alarido, con ⟨el⟩ sonido de ⟨la⟩ trompeta",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Y ⟨haré⟩ enviar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuego"
+    },
+    {
+      "surface": "במואב",
+      "gloss": "sobre Moab"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "y ⟨el⟩ fuego consumirá"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "⟨las⟩ fortalezas"
+    },
+    {
+      "surface": "הקריות",
+      "gloss": "de Keriot"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "y morirá"
+    },
+    {
+      "surface": "בשאון",
+      "gloss": "con estruendo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "con alarido"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "con ⟨el⟩ sonido de"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "⟨la⟩ trompeta"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moab",
@@ -13,72 +68,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 621,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16538,
-    "prompt_tokens_details": {
-      "cached_tokens": 15066
-    },
-    "total_tokens": 17159
-  },
-  "translation": "Y ⟨haré⟩ enviar fuego sobre Moav, y ⟨el⟩ fuego consumirá ⟨את⟩ ⟨las⟩ fortalezas de Keriot, y morirá Moav con estruendo, con alarido, con ⟨el⟩ sonido de ⟨la⟩ trompeta",
-  "tokens": [
-    {
-      "surface": "ושלחתי",
-      "english": "Y ⟨haré⟩ enviar"
-    },
-    {
-      "surface": "אש",
-      "english": "fuego"
-    },
-    {
-      "surface": "במואב",
-      "english": "sobre Moab"
-    },
-    {
-      "surface": "ואכלה",
-      "english": "y ⟨el⟩ fuego consumirá"
-    },
-    {
-      "surface": "ארמנות",
-      "english": "⟨las⟩ fortalezas"
-    },
-    {
-      "surface": "הקריות",
-      "english": "de Keriot"
-    },
-    {
-      "surface": "ומת",
-      "english": "y morirá"
-    },
-    {
-      "surface": "בשאון",
-      "english": "con estruendo"
-    },
-    {
-      "surface": "מואב",
-      "english": "Moav"
-    },
-    {
-      "surface": "בתרועה",
-      "english": "con alarido"
-    },
-    {
-      "surface": "בקול",
-      "english": "con ⟨el⟩ sonido de"
-    },
-    {
-      "surface": "שופר",
-      "english": "⟨la⟩ trompeta"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:01:30.503922146Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

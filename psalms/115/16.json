@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 115:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69838,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70154
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:25.290603321Z",
   "translation": "Los cielos ⟨son⟩ ⟨los⟩ cielos de YHWH, y ⟨la⟩ tierra ⟨la⟩ ha dado a ⟨los⟩ hijos de Adam.",
   "tokens": [
     {
       "surface": "השמים",
-      "english": "Los cielos"
+      "gloss": "Los cielos"
     },
     {
       "surface": "שמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "ליהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "והארץ",
-      "english": "y ⟨la⟩ tierra"
+      "gloss": "y ⟨la⟩ tierra"
     },
     {
       "surface": "נתן",
-      "english": "⟨la⟩ ha dado"
+      "gloss": "⟨la⟩ ha dado"
     },
     {
       "surface": "לבני",
-      "english": "a ⟨los⟩ hijos"
+      "gloss": "a ⟨los⟩ hijos"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:25.290603321Z",
-  "model": "glm-4.5"
+  ]
 }

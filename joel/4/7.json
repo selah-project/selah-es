@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "joel 4:7",
   "book": "joel",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 441,
-    "prompt_tokens": 23592,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 24033
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:04:34.771337373Z",
   "translation": "He aquí, yo ⟨los⟩ despertaré del lugar donde ⟨los⟩ vendisteis allí, y haré volver vuestra retribución sobre vuestra propia cabeza.",
   "tokens": [
     {
       "surface": "הנני",
-      "english": "He aquí, yo"
+      "gloss": "He aquí, yo"
     },
     {
       "surface": "מעירם",
-      "english": "despertaré"
+      "gloss": "despertaré"
     },
     {
       "surface": "מן",
-      "english": "del"
+      "gloss": "del"
     },
     {
       "surface": "המקום",
-      "english": "lugar"
+      "gloss": "lugar"
     },
     {
       "surface": "אשר",
-      "english": "donde"
+      "gloss": "donde"
     },
     {
       "surface": "מכרתם",
-      "english": "vendisteis"
+      "gloss": "vendisteis"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los"
     },
     {
       "surface": "שמה",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "והשבתי",
-      "english": "y haré volver"
+      "gloss": "y haré volver"
     },
     {
       "surface": "גמלכם",
-      "english": "vuestra retribución"
+      "gloss": "vuestra retribución"
     },
     {
       "surface": "בראשכם",
-      "english": "sobre vuestra propia cabeza"
+      "gloss": "sobre vuestra propia cabeza"
     }
-  ],
-  "timestamp": "2026-07-16T22:04:34.771337373Z",
-  "model": "glm-4.5"
+  ]
 }

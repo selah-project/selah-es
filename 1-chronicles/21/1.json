@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 21:1",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 499,
-    "prompt_tokens": 64475,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64974
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:10:28.158274407Z",
   "translation": "Y HaSatán se alzó contra Israel y provocó a David para que contara ⟨a⟩ Israel",
   "tokens": [
     {
       "surface": "ויעמד",
-      "english": "Y HaSatán se alzó"
+      "gloss": "Y HaSatán se alzó"
     },
     {
       "surface": "שטן",
-      "english": "HaSatán"
+      "gloss": "HaSatán"
     },
     {
       "surface": "על",
-      "english": "contra"
+      "gloss": "contra"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "ויסת",
-      "english": "y provocó"
+      "gloss": "y provocó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "David"
     },
     {
       "surface": "דויד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "למנות",
-      "english": "para que contara"
+      "gloss": "para que contara"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Israel"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     }
-  ],
-  "timestamp": "2026-07-16T18:10:28.158274407Z",
-  "model": "glm-4.5"
+  ]
 }

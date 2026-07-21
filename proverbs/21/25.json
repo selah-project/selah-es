@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 21:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59820,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60210
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:50.294718983Z",
   "translation": "El deseo ⟨del⟩ perezoso ⟨es⟩ ⟨el que⟩ mata, porque sus manos ⟨se⟩ niegan a trabajar.",
   "tokens": [
     {
       "surface": "תאות",
-      "english": "Deseo"
+      "gloss": "Deseo"
     },
     {
       "surface": "עצל",
-      "english": "perezoso"
+      "gloss": "perezoso"
     },
     {
       "surface": "תמיתנו",
-      "english": "⟨el que⟩ mata"
+      "gloss": "⟨el que⟩ mata"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "מאנו",
-      "english": "⟨se⟩ niegan"
+      "gloss": "⟨se⟩ niegan"
     },
     {
       "surface": "ידיו",
-      "english": "sus manos"
+      "gloss": "sus manos"
     },
     {
       "surface": "לעשות",
-      "english": "a trabajar"
+      "gloss": "a trabajar"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:50.294718983Z",
-  "model": "glm-4.5"
+  ]
 }

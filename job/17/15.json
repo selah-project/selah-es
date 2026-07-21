@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 17:15",
   "book": "job",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 418,
-    "prompt_tokens": 27062,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27480
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:58:49.088267542Z",
   "translation": "Y ¿dónde ⟨está⟩ ahora mi esperanza? Y mi esperanza, ¿quién ⟨la⟩ contemplará?",
   "tokens": [
     {
       "surface": "ואיה",
-      "english": "Y ¿dónde"
+      "gloss": "Y ¿dónde"
     },
     {
       "surface": "אפו",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "תקותי",
-      "english": "mi esperanza"
+      "gloss": "mi esperanza"
     },
     {
       "surface": "ותקותי",
-      "english": "Y mi esperanza"
+      "gloss": "Y mi esperanza"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "ישורנה",
-      "english": "⟨la⟩ contemplará"
+      "gloss": "⟨la⟩ contemplará"
     }
-  ],
-  "timestamp": "2026-07-16T21:58:49.088267542Z",
-  "model": "glm-4.5"
+  ]
 }

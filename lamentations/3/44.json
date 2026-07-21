@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "lamentations 3:44",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 256,
-    "prompt_tokens": 38939,
-    "prompt_tokens_details": {
-      "cached_tokens": 38144
-    },
-    "total_tokens": 39195
-  },
+  "verse": 44,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:30:44.093405451Z",
   "translation": "Te has cubierto con una nube para que no pase ⟨la⟩ oración",
   "tokens": [
     {
       "surface": "סכותה",
-      "english": "Te has cubierto"
+      "gloss": "Te has cubierto"
     },
     {
       "surface": "בענן",
-      "english": "con una nube"
+      "gloss": "con una nube"
     },
     {
       "surface": "לך",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "מעבור",
-      "english": "pase"
+      "gloss": "pase"
     },
     {
       "surface": "תפלה",
-      "english": "oración"
+      "gloss": "oración"
     }
-  ],
-  "timestamp": "2026-07-16T22:30:44.093405451Z",
-  "model": "glm-4.5"
+  ]
 }

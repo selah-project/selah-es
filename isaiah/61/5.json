@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 61:5",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 61,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26165,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26631
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:58:50.252012492Z",
   "translation": "Y extranjeros estarán ⟨⟩ y apacentarán ⟨⟩ vuestras ovejas; ⟨⟩ y ⟨⟩ los hijos del extranjero ⟨⟩ serán vuestros labradores ⟨⟩ y ⟨⟩ vuestros viñadores.",
   "tokens": [
     {
       "surface": "ועמדו",
-      "english": "Y extranjeros estarán ⟨⟩"
+      "gloss": "Y extranjeros estarán ⟨⟩"
     },
     {
       "surface": "זרים",
-      "english": "extranjeros"
+      "gloss": "extranjeros"
     },
     {
       "surface": "ורעו",
-      "english": "y apacentarán ⟨⟩"
+      "gloss": "y apacentarán ⟨⟩"
     },
     {
       "surface": "צאנכם",
-      "english": "vuestras ovejas"
+      "gloss": "vuestras ovejas"
     },
     {
       "surface": "ובני",
-      "english": "⟨⟩ y ⟨⟩ los hijos"
+      "gloss": "⟨⟩ y ⟨⟩ los hijos"
     },
     {
       "surface": "נכר",
-      "english": "del extranjero"
+      "gloss": "del extranjero"
     },
     {
       "surface": "אכריכם",
-      "english": "⟨⟩ serán vuestros labradores"
+      "gloss": "⟨⟩ serán vuestros labradores"
     },
     {
       "surface": "וכרמיכם",
-      "english": "⟨⟩ y ⟨⟩ vuestros viñadores"
+      "gloss": "⟨⟩ y ⟨⟩ vuestros viñadores"
     }
-  ],
-  "timestamp": "2026-06-10T02:58:50.252012492Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-chronicles 15:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56562,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 56901
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:44:07.830123083Z",
   "translation": "De los ⟨hijos⟩ de Elitsafán ⟨el⟩ jefe: Shemayá ⟨el⟩ jefe y sus hermanos doscientos",
   "tokens": [
     {
       "surface": "לבני",
-      "english": "De los ⟨hijos⟩ de"
+      "gloss": "De los ⟨hijos⟩ de"
     },
     {
       "surface": "אליצפן",
-      "english": "Elitsafán"
+      "gloss": "Elitsafán"
     },
     {
       "surface": "שמעיה",
-      "english": "Shemayá ⟨el⟩ jefe"
+      "gloss": "Shemayá ⟨el⟩ jefe"
     },
     {
       "surface": "השר",
-      "english": "⟨el⟩ jefe"
+      "gloss": "⟨el⟩ jefe"
     },
     {
       "surface": "ואחיו",
-      "english": "y sus hermanos"
+      "gloss": "y sus hermanos"
     },
     {
       "surface": "מאתים",
-      "english": "doscientos"
+      "gloss": "doscientos"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:44:07.830123083Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "exodus 2:25",
   "book": "exodus",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 271,
-    "prompt_tokens": 23926,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24197
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:07:51.032861769Z",
   "translation": "Y vio Elohim ⟨את⟩ los hijos de Israel, y conoció Elohim",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y vio"
+      "gloss": "Y vio"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los hijos"
     },
     {
       "surface": "בני",
-      "english": "los hijos"
+      "gloss": "los hijos"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     },
     {
       "surface": "וידע",
-      "english": "y conoció"
+      "gloss": "y conoció"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T20:07:51.032861769Z",
-  "model": "glm-4.5"
+  ]
 }

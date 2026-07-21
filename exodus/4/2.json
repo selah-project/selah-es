@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 4:2",
   "book": "exodus",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 23916,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24289
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:08:39.110349494Z",
   "translation": "Y dijo a él YHWH: ¿Qué ⟨es⟩ esto en tu mano? Y él dijo: Una vara.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "אליו",
-      "english": "a él"
+      "gloss": "a él"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מזה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "בידך",
-      "english": "en tu mano"
+      "gloss": "en tu mano"
     },
     {
       "surface": "ויאמר",
-      "english": "Y él dijo"
+      "gloss": "Y él dijo"
     },
     {
       "surface": "מטה",
-      "english": "Una vara"
+      "gloss": "Una vara"
     }
-  ],
-  "timestamp": "2026-07-16T20:08:39.110349494Z",
-  "model": "glm-4.5"
+  ]
 }

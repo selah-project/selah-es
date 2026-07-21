@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 3,
   "ref": "psalms 78:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69817,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70225
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:57:34.443551602Z",
   "translation": "lo que oímos y conocimos, y nuestros padres nos relataron.",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "שמענו",
-      "english": "oímos"
+      "gloss": "oímos"
     },
     {
       "surface": "ונדעם",
-      "english": "y ⟨lo⟩ conocimos"
+      "gloss": "y ⟨lo⟩ conocimos"
     },
     {
       "surface": "ואבותינו",
-      "english": "y nuestros padres"
+      "gloss": "y nuestros padres"
     },
     {
       "surface": "ספרו",
-      "english": "relataron"
+      "gloss": "relataron"
     },
     {
       "surface": "לנו",
-      "english": "nos"
+      "gloss": "nos"
     }
-  ],
-  "timestamp": "2026-06-13T03:57:34.443551602Z",
-  "model": "glm-5.1"
+  ]
 }

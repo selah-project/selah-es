@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "psalms 89:27",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69854,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70187
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:43:33.205273737Z",
   "translation": "Él me llamará: ⟨tú eres⟩ mi padre, ⟨tú eres⟩ mi Elohim, y ⟨la⟩ roca ⟨de⟩ mi salvación.",
   "tokens": [
     {
       "surface": "הוא",
-      "english": "Él"
+      "gloss": "Él"
     },
     {
       "surface": "יקראני",
-      "english": "me llamará"
+      "gloss": "me llamará"
     },
     {
       "surface": "אבי",
-      "english": "mi padre"
+      "gloss": "mi padre"
     },
     {
       "surface": "אתה",
-      "english": "⟨tú eres⟩"
+      "gloss": "⟨tú eres⟩"
     },
     {
       "surface": "אלי",
-      "english": "mi Elohim"
+      "gloss": "mi Elohim"
     },
     {
       "surface": "וצור",
-      "english": "y ⟨la⟩ roca"
+      "gloss": "y ⟨la⟩ roca"
     },
     {
       "surface": "ישועתי",
-      "english": "⟨de⟩ mi salvación"
+      "gloss": "⟨de⟩ mi salvación"
     }
-  ],
-  "timestamp": "2026-06-09T23:43:33.205273737Z",
-  "model": "glm-4.5"
+  ]
 }

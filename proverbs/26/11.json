@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "proverbs 26:11",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 392,
-    "prompt_tokens": 59915,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60307
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:22:29.419276852Z",
   "translation": "Como un perro que vuelve ⟨a⟩ su vómito, ⟨así es⟩ un necio que repite ⟨en⟩ su necedad.",
   "tokens": [
     {
       "surface": "ככלב",
-      "english": "Como un perro"
+      "gloss": "Como un perro"
     },
     {
       "surface": "שב",
-      "english": "que vuelve"
+      "gloss": "que vuelve"
     },
     {
       "surface": "על",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "קאו",
-      "english": "su vómito"
+      "gloss": "su vómito"
     },
     {
       "surface": "כסיל",
-      "english": "así es un necio"
+      "gloss": "así es un necio"
     },
     {
       "surface": "שונה",
-      "english": "que repite"
+      "gloss": "que repite"
     },
     {
       "surface": "באולתו",
-      "english": "⟨en⟩ su necedad"
+      "gloss": "⟨en⟩ su necedad"
     }
-  ],
-  "timestamp": "2026-07-16T23:22:29.419276852Z",
-  "model": "glm-4.5"
+  ]
 }

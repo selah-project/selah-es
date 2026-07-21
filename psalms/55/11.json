@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 55:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69993,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70572
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:24:40.794937706Z",
   "translation": "Día y noche ⟨ellos⟩ rodean ⟨sobre⟩ sus muros; también la iniquidad ⟨y⟩ el ⟨dolor⟩ ⟨están⟩ en ⟨el⟩ medio de ⟨ella⟩",
   "tokens": [
     {
       "surface": "יומם",
-      "english": "Día"
+      "gloss": "Día"
     },
     {
       "surface": "ולילה",
-      "english": "y noche"
+      "gloss": "y noche"
     },
     {
       "surface": "יסובבה",
-      "english": "⟨ellos⟩ rodean"
+      "gloss": "⟨ellos⟩ rodean"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "חומתיה",
-      "english": "sus muros"
+      "gloss": "sus muros"
     },
     {
       "surface": "ואון",
-      "english": "también la iniquidad"
+      "gloss": "también la iniquidad"
     },
     {
       "surface": "ועמל",
-      "english": "⟨y⟩ el ⟨dolor⟩"
+      "gloss": "⟨y⟩ el ⟨dolor⟩"
     },
     {
       "surface": "בקרבה",
-      "english": "⟨en⟩ ⟨el⟩ medio de ⟨ella⟩"
+      "gloss": "⟨en⟩ ⟨el⟩ medio de ⟨ella⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:24:40.794937706Z",
-  "model": "glm-4.5"
+  ]
 }

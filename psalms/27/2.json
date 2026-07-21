@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 27:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 502,
-    "prompt_tokens": 70511,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71013
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:31.306819312Z",
   "translation": "Cuando se acercaron ⟨los⟩ malhechores ⟨a⟩ mí para devorar ⟨את⟩ mi carne, mis adversarios y ⟨mis⟩ enemigos, ellos tropezaron y cayeron",
   "tokens": [
     {
       "surface": "בקרב",
-      "english": "Cuando se acercaron"
+      "gloss": "Cuando se acercaron"
     },
     {
       "surface": "עלי",
-      "english": "⟨a⟩ mí"
+      "gloss": "⟨a⟩ mí"
     },
     {
       "surface": "מרעים",
-      "english": "⟨los⟩ malhechores"
+      "gloss": "⟨los⟩ malhechores"
     },
     {
       "surface": "לאכל",
-      "english": "para devorar"
+      "gloss": "para devorar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mi carne"
     },
     {
       "surface": "בשרי",
-      "english": "mi carne"
+      "gloss": "mi carne"
     },
     {
       "surface": "צרי",
-      "english": "mis adversarios"
+      "gloss": "mis adversarios"
     },
     {
       "surface": "ואיבי",
-      "english": "y ⟨mis⟩ enemigos"
+      "gloss": "y ⟨mis⟩ enemigos"
     },
     {
       "surface": "לי",
-      "english": "⟨a mí⟩"
+      "gloss": "⟨a mí⟩"
     },
     {
       "surface": "המה",
-      "english": "ellos"
+      "gloss": "ellos"
     },
     {
       "surface": "כשלו",
-      "english": "tropezaron"
+      "gloss": "tropezaron"
     },
     {
       "surface": "ונפלו",
-      "english": "y cayeron"
+      "gloss": "y cayeron"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:31.306819312Z",
-  "model": "glm-4.5"
+  ]
 }

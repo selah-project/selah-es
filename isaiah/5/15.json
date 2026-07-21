@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "isaiah 5:15",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 26144,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26521
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:22:16.744941047Z",
   "translation": "Y el hombre ⟨es⟩ humillado, y el varón ⟨es⟩ abatido, y los ojos de los altivos serán abatidos",
   "tokens": [
     {
       "surface": "וישח",
-      "english": "Y el hombre ⟨es⟩ humillado"
+      "gloss": "Y el hombre ⟨es⟩ humillado"
     },
     {
       "surface": "אדם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el hombre"
     },
     {
       "surface": "ואיש",
-      "english": "y el varón ⟨es⟩ abatido"
+      "gloss": "y el varón ⟨es⟩ abatido"
     },
     {
       "surface": "ועיני",
-      "english": "y los ojos"
+      "gloss": "y los ojos"
     },
     {
       "surface": "גבהים",
-      "english": "⟨de⟩ los altivos"
+      "gloss": "⟨de⟩ los altivos"
     },
     {
       "surface": "תשפלנה",
-      "english": "serán abatidos"
+      "gloss": "serán abatidos"
     }
-  ],
-  "timestamp": "2026-07-16T21:22:16.744941047Z",
-  "model": "glm-4.5"
+  ]
 }

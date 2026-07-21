@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "hosea 14:2",
   "book": "hosea",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26665,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26975
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:49:47.302305056Z",
   "translation": "¡Vuelve, Israel, ⟨a⟩ YHWH tu Elohim, porque has tropezado en tu iniquidad.",
   "tokens": [
     {
       "surface": "שובה",
-      "english": "¡Vuelve"
+      "gloss": "¡Vuelve"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "עד",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיך",
-      "english": "tu Elohim"
+      "gloss": "tu Elohim"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "כשלת",
-      "english": "has tropezado"
+      "gloss": "has tropezado"
     },
     {
       "surface": "בעונך",
-      "english": "en tu iniquidad"
+      "gloss": "en tu iniquidad"
     }
-  ],
-  "timestamp": "2026-06-09T22:49:47.302305056Z",
-  "model": "glm-4.5"
+  ]
 }

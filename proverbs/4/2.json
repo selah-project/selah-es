@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 4:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 451,
-    "prompt_tokens": 59980,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60431
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:17:11.972396089Z",
   "translation": "Porque una buena instrucción ⟨he⟩ dado a vosotros, mi Torá, no ⟨la⟩ abandonéis.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לקח",
-      "english": "instrucción"
+      "gloss": "instrucción"
     },
     {
       "surface": "טוב",
-      "english": "buena"
+      "gloss": "buena"
     },
     {
       "surface": "נתתי",
-      "english": "⟨he⟩ dado"
+      "gloss": "⟨he⟩ dado"
     },
     {
       "surface": "לכם",
-      "english": "a vosotros"
+      "gloss": "a vosotros"
     },
     {
       "surface": "תורתי",
-      "english": "mi Torá"
+      "gloss": "mi Torá"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תעזבו",
-      "english": "⟨la⟩ abandonéis"
+      "gloss": "⟨la⟩ abandonéis"
     }
-  ],
-  "timestamp": "2026-07-16T23:17:11.972396089Z",
-  "model": "glm-4.5"
+  ]
 }

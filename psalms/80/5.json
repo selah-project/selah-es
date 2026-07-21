@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 80:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70008,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70568
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:57.559287219Z",
   "translation": "YHWH Elohim Tzevaot ¿hasta cuándo ⟨estarás⟩ enojado ⟨con⟩ ⟨la⟩ oración de tu pueblo?",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "gv": 26
     },
     {
       "surface": "אלהים",
-      "english": "Elohim",
+      "gloss": "Elohim",
       "gv": 86
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot",
+      "gloss": "Tzevaot",
       "gv": 499
     },
     {
       "surface": "עד",
-      "english": "¿hasta cuándo",
+      "gloss": "¿hasta cuándo",
       "gv": 74
     },
     {
       "surface": "מתי",
-      "english": "¿hasta cuándo",
+      "gloss": "¿hasta cuándo",
       "gv": 450
     },
     {
       "surface": "עשנת",
-      "english": "⟨estarás⟩ enojado",
+      "gloss": "⟨estarás⟩ enojado",
       "gv": 820
     },
     {
       "surface": "בתפלת",
-      "english": "⟨con⟩ ⟨la⟩ oración",
+      "gloss": "⟨con⟩ ⟨la⟩ oración",
       "gv": 912
     },
     {
       "surface": "עמך",
-      "english": "de tu pueblo",
+      "gloss": "de tu pueblo",
       "gv": 130
     }
-  ],
-  "timestamp": "2026-06-09T23:38:57.559287219Z",
-  "model": "glm-4.5"
+  ]
 }

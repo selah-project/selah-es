@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 73:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 281,
-    "prompt_tokens": 69860,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70141
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:44.090634509Z",
   "translation": "Y yo ⟨estoy⟩ siempre contigo; tú has asido ⟨con⟩ mi mano derecha.",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "Y yo"
+      "gloss": "Y yo"
     },
     {
       "surface": "תמיד",
-      "english": "siempre"
+      "gloss": "siempre"
     },
     {
       "surface": "עמך",
-      "english": "contigo"
+      "gloss": "contigo"
     },
     {
       "surface": "אחזת",
-      "english": "tú has asido"
+      "gloss": "tú has asido"
     },
     {
       "surface": "ביד",
-      "english": "⟨con⟩ mi mano"
+      "gloss": "⟨con⟩ mi mano"
     },
     {
       "surface": "ימיני",
-      "english": "derecha"
+      "gloss": "derecha"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:44.090634509Z",
-  "model": "glm-4.5"
+  ]
 }

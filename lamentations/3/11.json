@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "lamentations 3:11",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38916,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39381
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:40:58.247247561Z",
   "translation": "Él ⟨ha⟩ torcido mis caminos y ⟨me⟩ ha hecho pedazos, ⟨me⟩ ha puesto ⟨como⟩ ⟨un⟩ desierto.",
   "tokens": [
     {
       "surface": "דרכי",
-      "english": "Mis caminos"
+      "gloss": "Mis caminos"
     },
     {
       "surface": "סורר",
-      "english": "torcido"
+      "gloss": "torcido"
     },
     {
       "surface": "ויפשחני",
-      "english": "y ⟨me⟩ ha hecho pedazos"
+      "gloss": "y ⟨me⟩ ha hecho pedazos"
     },
     {
       "surface": "שמני",
-      "english": "⟨me⟩ ha puesto"
+      "gloss": "⟨me⟩ ha puesto"
     },
     {
       "surface": "שמם",
-      "english": "⟨como⟩ ⟨un⟩ desierto"
+      "gloss": "⟨como⟩ ⟨un⟩ desierto"
     }
-  ],
-  "timestamp": "2026-06-09T22:40:58.247247561Z",
-  "model": "glm-4.5"
+  ]
 }

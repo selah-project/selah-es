@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "leviticus 18:2",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24533,
-    "prompt_tokens_details": {
-      "cached_tokens": 23415
-    },
-    "total_tokens": 24875
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:35:50.917387994Z",
   "translation": "Habla ⟨a los⟩ hijos de Israel y diles: Yo ⟨soy⟩ YHWH vuestro Elohim.",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "Habla"
+      "gloss": "Habla"
     },
     {
       "surface": "אל",
-      "english": "⟨a los⟩"
+      "gloss": "⟨a los⟩"
     },
     {
       "surface": "בני",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     },
     {
       "surface": "ואמרת",
-      "english": "y diles"
+      "gloss": "y diles"
     },
     {
       "surface": "אלהם",
-      "english": "⟨a⟩ ellos"
+      "gloss": "⟨a⟩ ellos"
     },
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיכם",
-      "english": "vuestro Elohim"
+      "gloss": "vuestro Elohim"
     }
-  ],
-  "timestamp": "2026-06-10T04:35:50.917387994Z",
-  "model": "glm-4.5"
+  ]
 }

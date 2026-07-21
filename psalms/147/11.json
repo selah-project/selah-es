@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 147:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 616,
-    "prompt_tokens": 70090,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70706
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:22.797551902Z",
   "translation": "YHWH ⟨es⟩ complacido ⟨con⟩ ⟨los que⟩ le temen ⟨את⟩ ⟨los que⟩ esperan ⟨en⟩ su Jésed",
   "tokens": [
     {
       "surface": "רוצה",
-      "english": "⟨es⟩ complacido ⟨con⟩"
+      "gloss": "⟨es⟩ complacido ⟨con⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "יְרֵאָ֑י\/ו (⟨los que⟩ le temen)"
     },
     {
       "surface": "יראיו",
-      "english": "⟨los que⟩ le temen"
+      "gloss": "⟨los que⟩ le temen"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הַֽ\/מְיַחֲלִ֥ים (⟨los que⟩ esperan ⟨en⟩ su Jésed)"
     },
     {
       "surface": "המיחלים",
-      "english": "⟨los que⟩ esperan ⟨en⟩ su Jésed"
+      "gloss": "⟨los que⟩ esperan ⟨en⟩ su Jésed"
     },
     {
       "surface": "לחסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:22.797551902Z",
-  "model": "glm-4.5"
+  ]
 }

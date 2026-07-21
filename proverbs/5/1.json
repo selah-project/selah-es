@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 5:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59756,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60194
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:30:19.888676355Z",
   "translation": "Hijo mío ⟨para⟩ mi Jojmá, ⟨está atento⟩; ⟨para⟩ mi Biná, ⟨inclina⟩ tu oreja",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Hijo mío"
+      "gloss": "Hijo mío"
     },
     {
       "surface": "לחכמתי",
-      "english": "⟨para⟩ mi Jojmá"
+      "gloss": "⟨para⟩ mi Jojmá"
     },
     {
       "surface": "הקשיבה",
-      "english": "⟨está atento⟩"
+      "gloss": "⟨está atento⟩"
     },
     {
       "surface": "לתבונתי",
-      "english": "⟨para⟩ mi Biná"
+      "gloss": "⟨para⟩ mi Biná"
     },
     {
       "surface": "הט",
-      "english": "⟨inclina⟩"
+      "gloss": "⟨inclina⟩"
     },
     {
       "surface": "אזנך",
-      "english": "tu oreja"
+      "gloss": "tu oreja"
     }
-  ],
-  "timestamp": "2026-06-10T01:30:19.888676355Z",
-  "model": "glm-4.5"
+  ]
 }

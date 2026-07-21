@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "proverbs 3:33",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59867,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60330
-  },
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:29:22.842947537Z",
   "translation": "La maldición de YHWH ⟨está⟩ en la casa ⟨del⟩ malvado, pero ⟨el⟩ hábitat ⟨de los⟩ justos ⟨es⟩ bendecido por Él",
   "tokens": [
     {
       "surface": "מארת",
-      "english": "La maldición"
+      "gloss": "La maldición"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בבית",
-      "english": "en la casa"
+      "gloss": "en la casa"
     },
     {
       "surface": "רשע",
-      "english": "⟨del⟩ malvado"
+      "gloss": "⟨del⟩ malvado"
     },
     {
       "surface": "ונוה",
-      "english": "pero ⟨el⟩ hábitat"
+      "gloss": "pero ⟨el⟩ hábitat"
     },
     {
       "surface": "צדיקים",
-      "english": "⟨de los⟩ justos"
+      "gloss": "⟨de los⟩ justos"
     },
     {
       "surface": "י�ברך",
-      "english": "⟨es⟩ bendecido por Él"
+      "gloss": "⟨es⟩ bendecido por Él"
     }
-  ],
-  "timestamp": "2026-06-10T01:29:22.842947537Z",
-  "model": "glm-4.5"
+  ]
 }

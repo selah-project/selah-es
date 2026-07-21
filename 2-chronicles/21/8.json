@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-chronicles 21:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 21,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:22:35.336709172Z",
+  "translation": "En sus días ⟨el⟩ Edom se rebeló de debajo de ⟨la⟩ mano de Yehudá, y nombraron un rey sobre ellos ⟨ellos mismos⟩",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "En sus días"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "se rebeló"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "⟨el⟩ Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de debajo de"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨la⟩ mano"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "y nombraron"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sobre ellos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un rey"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,60 +56,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57871,
-    "prompt_tokens_details": {
-      "cached_tokens": 56680
-    },
-    "total_tokens": 58214
-  },
-  "translation": "En sus días ⟨el⟩ Edom se rebeló de debajo de ⟨la⟩ mano de Yehudá, y nombraron un rey sobre ellos ⟨ellos mismos⟩",
-  "tokens": [
-    {
-      "surface": "בימיו",
-      "english": "En sus días"
-    },
-    {
-      "surface": "פשע",
-      "english": "se rebeló"
-    },
-    {
-      "surface": "אדום",
-      "english": "⟨el⟩ Edom"
-    },
-    {
-      "surface": "מתחת",
-      "english": "de debajo de"
-    },
-    {
-      "surface": "יד",
-      "english": "⟨la⟩ mano"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "וימליכו",
-      "english": "y nombraron"
-    },
-    {
-      "surface": "עליהם",
-      "english": "sobre ellos"
-    },
-    {
-      "surface": "מלך",
-      "english": "un rey"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:22:35.336709172Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

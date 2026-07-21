@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 103:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 243,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69842,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70085
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:20.300342537Z",
   "translation": "Hizo conocer ⟨sus⟩ caminos a Moshé ⟨sus⟩ hechos a los hijos de Yisrael",
   "tokens": [
     {
       "surface": "יודיע",
-      "english": "Hizo conocer"
+      "gloss": "Hizo conocer"
     },
     {
       "surface": "דרכיו",
-      "english": "⟨sus⟩ caminos"
+      "gloss": "⟨sus⟩ caminos"
     },
     {
       "surface": "למשה",
-      "english": "a Moshé"
+      "gloss": "a Moshé"
     },
     {
       "surface": "לבני",
-      "english": "a los hijos"
+      "gloss": "a los hijos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "עלילותיו",
-      "english": "⟨sus⟩ hechos"
+      "gloss": "⟨sus⟩ hechos"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:20.300342537Z",
-  "model": "glm-4.5"
+  ]
 }

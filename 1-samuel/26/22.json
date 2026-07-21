@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-samuel 26:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 26,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:11:39.063010491Z",
+  "translation": "Y Davidd respondió y dijo: ¡He aquí ⟨el⟩ lanza del rey! ⟨Y⟩ pase uno de ⟨los⟩ jóvenes ⟨y⟩ la tome.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Y respondió",
+      "marks": null
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd",
+      "marks": null
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo",
+      "marks": null
+    },
+    {
+      "surface": "הנה",
+      "gloss": "¡He aquí",
+      "marks": null
+    },
+    {
+      "surface": "החנית",
+      "gloss": "⟨el⟩ lanza",
+      "marks": null
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del rey",
+      "marks": null
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "⟨Y⟩ pase",
+      "marks": null
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno",
+      "marks": null
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "de ⟨los⟩ jóvenes",
+      "marks": null
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "⟨y⟩ la tome",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,74 +70,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 602,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16311,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16913
-  },
-  "translation": "Y Davidd respondió y dijo: ¡He aquí ⟨el⟩ lanza del rey! ⟨Y⟩ pase uno de ⟨los⟩ jóvenes ⟨y⟩ la tome.",
-  "tokens": [
-    {
-      "surface": "ויען",
-      "english": "Y respondió",
-      "marks": null
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd",
-      "marks": null
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo",
-      "marks": null
-    },
-    {
-      "surface": "הנה",
-      "english": "¡He aquí",
-      "marks": null
-    },
-    {
-      "surface": "החנית",
-      "english": "⟨el⟩ lanza",
-      "marks": null
-    },
-    {
-      "surface": "המלך",
-      "english": "del rey",
-      "marks": null
-    },
-    {
-      "surface": "ויעבר",
-      "english": "⟨Y⟩ pase",
-      "marks": null
-    },
-    {
-      "surface": "אחד",
-      "english": "uno",
-      "marks": null
-    },
-    {
-      "surface": "מהנערים",
-      "english": "de ⟨los⟩ jóvenes",
-      "marks": null
-    },
-    {
-      "surface": "ויקחה",
-      "english": "⟨y⟩ la tome",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:11:39.063010491Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

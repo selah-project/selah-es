@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 94:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69896,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70286
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:02.786763959Z",
   "translation": "Si ⟨no⟩ ⟨fuese⟩ YHWH ⟨el⟩ auxilio para mí, casi ⟨ habría⟩ habitado ⟨en⟩ silencio mi alma.",
   "tokens": [
     {
       "surface": "לולי",
-      "english": "Si ⟨no⟩ ⟨fuese⟩"
+      "gloss": "Si ⟨no⟩ ⟨fuese⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עזרתה",
-      "english": "⟨el⟩ auxilio"
+      "gloss": "⟨el⟩ auxilio"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "כמעט",
-      "english": "casi"
+      "gloss": "casi"
     },
     {
       "surface": "שכנה",
-      "english": "⟨ habría⟩ habitado"
+      "gloss": "⟨ habría⟩ habitado"
     },
     {
       "surface": "דומה",
-      "english": "⟨en⟩ silencio"
+      "gloss": "⟨en⟩ silencio"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:02.786763959Z",
-  "model": "glm-4.5"
+  ]
 }

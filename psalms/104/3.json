@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 104:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 572,
-    "prompt_tokens": 70325,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70897
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:36.613545008Z",
   "translation": "Quien coloca ⟨las⟩ vigas de ⟨sus⟩ alturas en las aguas, quien hace de las nubes su carruaje, quien camina sobre las alas de la Rúaj:",
   "tokens": [
     {
       "surface": "המקרה",
-      "english": "Quien coloca"
+      "gloss": "Quien coloca"
     },
     {
       "surface": "במים",
-      "english": "en las aguas"
+      "gloss": "en las aguas"
     },
     {
       "surface": "עליותיו",
-      "english": "⟨las⟩ vigas de ⟨sus⟩ alturas"
+      "gloss": "⟨las⟩ vigas de ⟨sus⟩ alturas"
     },
     {
       "surface": "השם",
-      "english": "quien hace"
+      "gloss": "quien hace"
     },
     {
       "surface": "עבים",
-      "english": "de las nubes"
+      "gloss": "de las nubes"
     },
     {
       "surface": "רכובו",
-      "english": "su carruaje"
+      "gloss": "su carruaje"
     },
     {
       "surface": "המהלך",
-      "english": "quien camina"
+      "gloss": "quien camina"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כנפי",
-      "english": "las alas de la"
+      "gloss": "las alas de la"
     },
     {
       "surface": "רוח",
-      "english": "Rúaj"
+      "gloss": "Rúaj"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:36.613545008Z",
-  "model": "glm-4.5"
+  ]
 }

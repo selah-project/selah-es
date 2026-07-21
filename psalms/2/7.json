@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 2:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70213,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70612
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:58:10.122283982Z",
   "translation": "Declararé ⟨el⟩ decreto: YHWH me dijo: 'Tú eres mi hijo; hoy te he engendrado'",
   "tokens": [
     {
       "surface": "אספרה",
-      "english": "Declararé"
+      "gloss": "Declararé"
     },
     {
       "surface": "אל",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "חק",
-      "english": "decreto"
+      "gloss": "decreto"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אמר",
-      "english": "dijo"
+      "gloss": "dijo"
     },
     {
       "surface": "אלי",
-      "english": "a mí"
+      "gloss": "a mí"
     },
     {
       "surface": "בני",
-      "english": "'Tú eres mi hijo"
+      "gloss": "'Tú eres mi hijo"
     },
     {
       "surface": "אתה",
-      "english": "'Tú eres mi hijo"
+      "gloss": "'Tú eres mi hijo"
     },
     {
       "surface": "אני",
-      "english": "he"
+      "gloss": "he"
     },
     {
       "surface": "היום",
-      "english": "hoy"
+      "gloss": "hoy"
     },
     {
       "surface": "ילדתיך",
-      "english": "te he engendrado'"
+      "gloss": "te he engendrado'"
     }
-  ],
-  "timestamp": "2026-06-09T22:58:10.122283982Z",
-  "model": "glm-4.5"
+  ]
 }

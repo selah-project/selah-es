@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 113:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 113,
-  "usage": {
-    "completion_tokens": 413,
-    "prompt_tokens": 70239,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70652
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:03.021407060Z",
   "translation": "¡Aleluya! ¡Alaben, siervos de YHWH, alaben el nombre de YHWH!",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "¡Alaben"
+      "gloss": "¡Alaben"
     },
     {
       "surface": "יה",
-      "english": "Aleluya"
+      "gloss": "Aleluya"
     },
     {
       "surface": "הללו",
-      "english": "¡alaben"
+      "gloss": "¡alaben"
     },
     {
       "surface": "עבדי",
-      "english": "siervos de"
+      "gloss": "siervos de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הללו",
-      "english": "alaben"
+      "gloss": "alaben"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el nombre de YHWH"
     },
     {
       "surface": "שם",
-      "english": "el nombre de"
+      "gloss": "el nombre de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:03.021407060Z",
-  "model": "glm-4.5"
+  ]
 }

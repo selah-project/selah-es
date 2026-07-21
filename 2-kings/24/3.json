@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-kings 24:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 24,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:46:44.014108871Z",
+  "translation": "Ciertamente por ⟨el⟩ mandato de YHWH ⟨esto⟩ ⟨fue⟩ contra Judá para ⟨los⟩ remover de ⟨el⟩ rostro de él, ⟨por⟩ ⟨los⟩ pecados de Menashé, conforme a todo lo que hizo",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ciertamente"
+    },
+    {
+      "surface": "על",
+      "gloss": "por"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨el⟩ mandato de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨esto⟩ ⟨fue⟩"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "contra Judá"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "para ⟨los⟩ remover"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de ⟨el⟩"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rostro de él"
+    },
+    {
+      "surface": "בחטאת",
+      "gloss": "⟨por⟩ ⟨los⟩ pecados"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "de Menashé"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "conforme a todo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manasés",
@@ -13,80 +76,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 594,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17081,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17675
-  },
-  "translation": "Ciertamente por ⟨el⟩ mandato de YHWH ⟨esto⟩ ⟨fue⟩ contra Judá para ⟨los⟩ remover de ⟨el⟩ rostro de él, ⟨por⟩ ⟨los⟩ pecados de Menashé, conforme a todo lo que hizo",
-  "tokens": [
-    {
-      "surface": "אך",
-      "english": "Ciertamente"
-    },
-    {
-      "surface": "על",
-      "english": "por"
-    },
-    {
-      "surface": "פי",
-      "english": "⟨el⟩ mandato de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨esto⟩ ⟨fue⟩"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "contra Judá"
-    },
-    {
-      "surface": "להסיר",
-      "english": "para ⟨los⟩ remover"
-    },
-    {
-      "surface": "מעל",
-      "english": "de ⟨el⟩"
-    },
-    {
-      "surface": "פניו",
-      "english": "rostro de él"
-    },
-    {
-      "surface": "בחטאת",
-      "english": "⟨por⟩ ⟨los⟩ pecados"
-    },
-    {
-      "surface": "מנשה",
-      "english": "de Menashé"
-    },
-    {
-      "surface": "ככל",
-      "english": "conforme a todo"
-    },
-    {
-      "surface": "אשר",
-      "english": "lo que"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:46:44.014108871Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

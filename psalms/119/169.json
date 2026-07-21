@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 169,
   "ref": "psalms 119:169",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69815,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70166
-  },
+  "verse": 169,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:48.380310834Z",
   "translation": "Que ⟨se acerque⟩ mi grito ⟨a⟩ tu presencia, YHWH; ⟨según⟩ tu palabra, hazme entender.",
   "tokens": [
     {
       "surface": "תקרב",
-      "english": "⟨Se acerque⟩",
+      "gloss": "⟨Se acerque⟩",
       "marks": "mi grito"
     },
     {
       "surface": "רנתי",
-      "english": "mi grito"
+      "gloss": "mi grito"
     },
     {
       "surface": "לפניך",
-      "english": "⟨a⟩ tu presencia"
+      "gloss": "⟨a⟩ tu presencia"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כדברך",
-      "english": "⟨según⟩ tu palabra"
+      "gloss": "⟨según⟩ tu palabra"
     },
     {
       "surface": "הבינני",
-      "english": "hazme entender"
+      "gloss": "hazme entender"
     }
-  ],
-  "timestamp": "2026-06-10T00:02:48.380310834Z",
-  "model": "glm-4.5"
+  ]
 }

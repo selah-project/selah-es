@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 12:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25463,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25929
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:48:48.821104877Z",
   "translation": "Y YHWH descendió en columna de nube y ⟨se⟩ puso ⟨a⟩ ⟨la⟩ entrada del Ohel y ⟨él⟩ llamó a Aharón y a Miriam y ⟨ellos⟩ salieron los dos",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "Y descendió"
+      "gloss": "Y descendió"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בעמוד",
-      "english": "en columna"
+      "gloss": "en columna"
     },
     {
       "surface": "ענן",
-      "english": "de nube"
+      "gloss": "de nube"
     },
     {
       "surface": "ויעמד",
-      "english": "y ⟨se⟩ puso"
+      "gloss": "y ⟨se⟩ puso"
     },
     {
       "surface": "פתח",
-      "english": "⟨a⟩ ⟨la⟩ entrada"
+      "gloss": "⟨a⟩ ⟨la⟩ entrada"
     },
     {
       "surface": "האהל",
-      "english": "del Ohel"
+      "gloss": "del Ohel"
     },
     {
       "surface": "ויקרא",
-      "english": "y ⟨él⟩ llamó"
+      "gloss": "y ⟨él⟩ llamó"
     },
     {
       "surface": "אהרן",
-      "english": "a Aharón"
+      "gloss": "a Aharón"
     },
     {
       "surface": "ומרים",
-      "english": "y a Miriam"
+      "gloss": "y a Miriam"
     },
     {
       "surface": "ויצאו",
-      "english": "y ⟨ellos⟩ salieron"
+      "gloss": "y ⟨ellos⟩ salieron"
     },
     {
       "surface": "שניהם",
-      "english": "los dos"
+      "gloss": "los dos"
     }
-  ],
-  "timestamp": "2026-06-10T04:48:48.821104877Z",
-  "model": "glm-4.5"
+  ]
 }

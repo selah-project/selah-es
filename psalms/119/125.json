@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 125,
   "ref": "psalms 119:125",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 347,
-    "prompt_tokens": 69738,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70085
-  },
+  "verse": 125,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:27.328419571Z",
   "translation": "Tu servidor ⟨es⟩ yo; hazme entender, y conoceré tus testimonios.",
   "tokens": [
     {
       "surface": "עבדך",
-      "english": "Tu servidor"
+      "gloss": "Tu servidor"
     },
     {
       "surface": "אני",
-      "english": "⟨es⟩ yo"
+      "gloss": "⟨es⟩ yo"
     },
     {
       "surface": "הבינני",
-      "english": "hazme entender"
+      "gloss": "hazme entender"
     },
     {
       "surface": "ואדעה",
-      "english": "y conoceré"
+      "gloss": "y conoceré"
     },
     {
       "surface": "עדתיך",
-      "english": "tus testimonios"
+      "gloss": "tus testimonios"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:27.328419571Z",
-  "model": "glm-4.5"
+  ]
 }

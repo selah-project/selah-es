@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "numbers 16:4",
   "book": "numbers",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24779,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25071
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:52:13.017159967Z",
   "translation": "Y cuando Moshé ⟨escuchó⟩, cayó sobre ⟨el⟩ rostro de él.",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "Y cuando ⟨escuchó⟩"
+      "gloss": "Y cuando ⟨escuchó⟩"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ויפל",
-      "english": "cayó"
+      "gloss": "cayó"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פניו",
-      "english": "⟨el⟩ rostro de él"
+      "gloss": "⟨el⟩ rostro de él"
     }
-  ],
-  "timestamp": "2026-06-10T04:52:13.017159967Z",
-  "model": "glm-4.5"
+  ]
 }

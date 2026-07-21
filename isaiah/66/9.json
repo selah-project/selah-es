@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 66:9",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 618,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26475,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27093
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:02:05.174136565Z",
   "translation": "¿Yo ⟨el que⟩ hace nacer y no ⟨el que⟩ da a luz? ⟨lo⟩ dijo YHWH. ¿Yo ⟨el que⟩ conciba y ⟨lo⟩ retenga? ⟨lo⟩ dijo tu Elohim.",
   "tokens": [
     {
       "surface": "האני",
-      "english": "Yo ⟨el que⟩"
+      "gloss": "Yo ⟨el que⟩"
     },
     {
       "surface": "אשביר",
-      "english": "hace nacer"
+      "gloss": "hace nacer"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "אוליד",
-      "english": "⟨el que⟩ da a luz"
+      "gloss": "⟨el que⟩ da a luz"
     },
     {
       "surface": "יאמר",
-      "english": "⟨lo⟩ dijo"
+      "gloss": "⟨lo⟩ dijo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אם",
-      "english": "¿Yo"
+      "gloss": "¿Yo"
     },
     {
       "surface": "אני",
-      "english": "⟨el que⟩"
+      "gloss": "⟨el que⟩"
     },
     {
       "surface": "המוליד",
-      "english": "conciba"
+      "gloss": "conciba"
     },
     {
       "surface": "ועצרתי",
-      "english": "y ⟨lo⟩ retenga"
+      "gloss": "y ⟨lo⟩ retenga"
     },
     {
       "surface": "אמר",
-      "english": "⟨lo⟩ dijo"
+      "gloss": "⟨lo⟩ dijo"
     },
     {
       "surface": "אלהיך",
-      "english": "tu Elohim"
+      "gloss": "tu Elohim"
     }
-  ],
-  "timestamp": "2026-06-10T03:02:05.174136565Z",
-  "model": "glm-4.5"
+  ]
 }

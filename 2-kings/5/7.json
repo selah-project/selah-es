@@ -1,9 +1,133 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "2-kings 5:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 5,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:24:31.413227485Z",
+  "translation": "Y aconteció, cuando el rey de Yisrael leyó ⟨את⟩ el escrito, que rasgó sus vestidos y dijo: ¿Soy yo Elohim para matar y dar vida? Porque este envía a mí para recoger ⟨את⟩ un hombre de su lepra. Pues conozcan ahora y vean, porque él ⟨es⟩ hostil contra mí.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y aconteció"
+    },
+    {
+      "surface": "כקרא",
+      "gloss": "cuando"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "el escrito"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "el escrito"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "que rasgó"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sus vestidos"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "¿Soy yo"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "para matar"
+    },
+    {
+      "surface": "ולהחיות",
+      "gloss": "y dar vida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "זה",
+      "gloss": "este"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envía"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "para recoger"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un hombre"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "de su lepra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Pues"
+    },
+    {
+      "surface": "אך",
+      "gloss": "conozcan"
+    },
+    {
+      "surface": "דעו",
+      "gloss": "conozcan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ahora"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "y vean"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "מתאנה",
+      "gloss": "hostil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "él"
+    },
+    {
+      "surface": "לי",
+      "gloss": "contra mí"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,141 +137,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 790,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18584,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 19374
-  },
-  "translation": "Y aconteció, cuando el rey de Yisrael leyó ⟨את⟩ el escrito, que rasgó sus vestidos y dijo: ¿Soy yo Elohim para matar y dar vida? Porque este envía a mí para recoger ⟨את⟩ un hombre de su lepra. Pues conozcan ahora y vean, porque él ⟨es⟩ hostil contra mí.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y aconteció"
-    },
-    {
-      "surface": "כקרא",
-      "english": "cuando"
-    },
-    {
-      "surface": "מלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "el escrito"
-    },
-    {
-      "surface": "הספר",
-      "english": "el escrito"
-    },
-    {
-      "surface": "ויקרע",
-      "english": "que rasgó"
-    },
-    {
-      "surface": "בגדיו",
-      "english": "sus vestidos"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "האלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "אני",
-      "english": "¿Soy yo"
-    },
-    {
-      "surface": "להמית",
-      "english": "para matar"
-    },
-    {
-      "surface": "ולהחיות",
-      "english": "y dar vida"
-    },
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "זה",
-      "english": "este"
-    },
-    {
-      "surface": "שלח",
-      "english": "envía"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mí"
-    },
-    {
-      "surface": "לאסף",
-      "english": "para recoger"
-    },
-    {
-      "surface": "איש",
-      "english": "un hombre"
-    },
-    {
-      "surface": "מצרעתו",
-      "english": "de su lepra"
-    },
-    {
-      "surface": "כי",
-      "english": "Pues"
-    },
-    {
-      "surface": "אך",
-      "english": "conozcan"
-    },
-    {
-      "surface": "דעו",
-      "english": "conozcan"
-    },
-    {
-      "surface": "נא",
-      "english": "ahora"
-    },
-    {
-      "surface": "וראו",
-      "english": "y vean"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "מתאנה",
-      "english": "hostil"
-    },
-    {
-      "surface": "הוא",
-      "english": "él"
-    },
-    {
-      "surface": "לי",
-      "english": "contra mí"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:24:31.413227485Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

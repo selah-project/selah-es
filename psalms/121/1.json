@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 121:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 648,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69987,
-    "prompt_tokens_details": {
-      "cached_tokens": 5
-    },
-    "total_tokens": 70635
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:03:31.389507239Z",
   "translation": "Una canción ⟨de las⟩ subidas. ⟨Yo⟩ levantaré mis ojos ⟨a⟩ las colinas: ⟨¿⟩de dónde ⟨⟩vendrá ⟨⟩mi ayuda? ⟨⟩",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Una canción",
+      "gloss": "Una canción",
       "marks": null
     },
     {
       "surface": "למעלות",
-      "english": "⟨de las⟩ subidas",
+      "gloss": "⟨de las⟩ subidas",
       "marks": null
     },
     {
       "surface": "אשא",
-      "english": "⟨Yo⟩ levantaré",
+      "gloss": "⟨Yo⟩ levantaré",
       "marks": null
     },
     {
       "surface": "עיני",
-      "english": "mis ojos",
+      "gloss": "mis ojos",
       "marks": null
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "las colinas"
     },
     {
       "surface": "ההרים",
-      "english": "las colinas",
+      "gloss": "las colinas",
       "marks": null
     },
     {
       "surface": "מאין",
-      "english": "⟨¿⟩de dónde",
+      "gloss": "⟨¿⟩de dónde",
       "marks": null
     },
     {
       "surface": "יבא",
-      "english": "⟨⟩vendrá ⟨⟩",
+      "gloss": "⟨⟩vendrá ⟨⟩",
       "marks": null
     },
     {
       "surface": "עזרי",
-      "english": "mi ayuda",
+      "gloss": "mi ayuda",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-10T00:03:31.389507239Z",
-  "model": "glm-4.5"
+  ]
 }

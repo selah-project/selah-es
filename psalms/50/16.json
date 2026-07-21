@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 50:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 451,
-    "prompt_tokens": 70322,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70773
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:49.540502766Z",
   "translation": "Pero al malvado ⟨le⟩ dice Elohim: ¿Qué ⟨tienes⟩ tú con recitar mis estatutos, y tomar mi pacto en tu boca?",
   "tokens": [
     {
       "surface": "ולרשע",
-      "english": "Pero al malvado ⟨le⟩"
+      "gloss": "Pero al malvado ⟨le⟩"
     },
     {
       "surface": "אמר",
-      "english": "dice"
+      "gloss": "dice"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "לך",
-      "english": "⟨tienes⟩ tú"
+      "gloss": "⟨tienes⟩ tú"
     },
     {
       "surface": "לספר",
-      "english": "con recitar"
+      "gloss": "con recitar"
     },
     {
       "surface": "חקי",
-      "english": "mis estatutos"
+      "gloss": "mis estatutos"
     },
     {
       "surface": "ותשא",
-      "english": "y tomar"
+      "gloss": "y tomar"
     },
     {
       "surface": "בריתי",
-      "english": "mi pacto"
+      "gloss": "mi pacto"
     },
     {
       "surface": "עלי",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "פיך",
-      "english": "tu boca"
+      "gloss": "tu boca"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:49.540502766Z",
-  "model": "glm-4.5"
+  ]
 }

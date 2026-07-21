@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 77:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69823,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70253
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:00.743149630Z",
   "translation": "y diré ⟨es⟩ mi enfermedad: ⟨es⟩ ⟨el⟩ años de ⟨la⟩ mano derecha ⟨del⟩ Altísimo ⟨את⟩",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "Y diré"
+      "gloss": "Y diré"
     },
     {
       "surface": "חלותי",
-      "english": "mi enfermedad"
+      "gloss": "mi enfermedad"
     },
     {
       "surface": "היא",
-      "english": "⟨es⟩",
+      "gloss": "⟨es⟩",
       "marks": "mi enfermedad ⟨es⟩ ⟨el⟩ años de ⟨la⟩ mano derecha ⟨del⟩ Altísimo"
     },
     {
       "surface": "שנות",
-      "english": "⟨el⟩ años"
+      "gloss": "⟨el⟩ años"
     },
     {
       "surface": "ימין",
-      "english": "⟨la⟩ mano derecha"
+      "gloss": "⟨la⟩ mano derecha"
     },
     {
       "surface": "עליון",
-      "english": "⟨del⟩ Altísimo",
+      "gloss": "⟨del⟩ Altísimo",
       "marks": "Altísimo"
     }
-  ],
-  "timestamp": "2026-06-09T23:36:00.743149630Z",
-  "model": "glm-4.5"
+  ]
 }

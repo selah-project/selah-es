@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "exodus 5:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 5,
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:26:53.497689942Z",
+  "translation": "Y fueron golpeados ⟨los⟩ oficiales de ⟨los⟩ hijos de Yisrael que ⟨el⟩ Paró había puesto sobre ellos, ⟨los⟩ exactores del Paró, diciendo: ¿Por qué ⟨los⟩ no habéis completado ⟨vuestra⟩ tarea de ⟨hacer⟩ ladrillos como ayer y antes de ayer, también ayer y también hoy?",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Y fueron golpeados"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "⟨los⟩ oficiales"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de ⟨los⟩ hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨el⟩ Faraón había puesto"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "sobre ellos"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "⟨los⟩ exactores"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "del Paró"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "¿Por qué"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨los⟩ no"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "habéis completado"
+    },
+    {
+      "surface": "חקכם",
+      "gloss": "⟨vuestra⟩ tarea"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "de ⟨hacer⟩ ladrillos"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "como ayer"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "y antes de ayer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "también"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "ayer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "también"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,108 +111,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 731,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17901,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 18632
-  },
-  "translation": "Y fueron golpeados ⟨los⟩ oficiales de ⟨los⟩ hijos de Yisrael que ⟨el⟩ Paró había puesto sobre ellos, ⟨los⟩ exactores del Paró, diciendo: ¿Por qué ⟨los⟩ no habéis completado ⟨vuestra⟩ tarea de ⟨hacer⟩ ladrillos como ayer y antes de ayer, también ayer y también hoy?",
-  "tokens": [
-    {
-      "surface": "ויכו",
-      "english": "Y fueron golpeados"
-    },
-    {
-      "surface": "שטרי",
-      "english": "⟨los⟩ oficiales"
-    },
-    {
-      "surface": "בני",
-      "english": "de ⟨los⟩ hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "שמו",
-      "english": "⟨el⟩ Faraón había puesto"
-    },
-    {
-      "surface": "עלהם",
-      "english": "sobre ellos"
-    },
-    {
-      "surface": "נגשי",
-      "english": "⟨los⟩ exactores"
-    },
-    {
-      "surface": "פרעה",
-      "english": "del Paró"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "מדוע",
-      "english": "¿Por qué"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨los⟩ no"
-    },
-    {
-      "surface": "כליתם",
-      "english": "habéis completado"
-    },
-    {
-      "surface": "חקכם",
-      "english": "⟨vuestra⟩ tarea"
-    },
-    {
-      "surface": "ללבן",
-      "english": "de ⟨hacer⟩ ladrillos"
-    },
-    {
-      "surface": "כתמול",
-      "english": "como ayer"
-    },
-    {
-      "surface": "שלשם",
-      "english": "y antes de ayer"
-    },
-    {
-      "surface": "גם",
-      "english": "también"
-    },
-    {
-      "surface": "תמול",
-      "english": "ayer"
-    },
-    {
-      "surface": "גם",
-      "english": "también"
-    },
-    {
-      "surface": "היום",
-      "english": "hoy"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:26:53.497689942Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

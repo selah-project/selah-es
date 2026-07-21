@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "leviticus 9:11",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 24571,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24973
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:36:24.092272799Z",
   "translation": "y ⟨את⟩ la carne y ⟨את⟩ la piel quemó en el fuego fuera del campamento",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la carne"
     },
     {
       "surface": "הבשר",
-      "english": "la carne"
+      "gloss": "la carne"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la piel"
     },
     {
       "surface": "העור",
-      "english": "la piel"
+      "gloss": "la piel"
     },
     {
       "surface": "שרף",
-      "english": "quemó"
+      "gloss": "quemó"
     },
     {
       "surface": "באש",
-      "english": "en el fuego"
+      "gloss": "en el fuego"
     },
     {
       "surface": "מחוץ",
-      "english": "fuera"
+      "gloss": "fuera"
     },
     {
       "surface": "למחנה",
-      "english": "del campamento"
+      "gloss": "del campamento"
     }
-  ],
-  "timestamp": "2026-07-16T22:36:24.092272799Z",
-  "model": "glm-4.5"
+  ]
 }

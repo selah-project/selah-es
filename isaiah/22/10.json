@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 22:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 534,
-    "prompt_tokens": 26319,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26853
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:25:16.800099404Z",
   "translation": "y ⟨את⟩ ⟨las⟩ casas de Yerushalayim contasteis y derribasteis ⟨las⟩ casas para fortificar ⟨el⟩ muro",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "las casas"
     },
     {
       "surface": "בתי",
-      "english": "las casas"
+      "gloss": "las casas"
     },
     {
       "surface": "ירושלם",
-      "english": "de Yerushalayim"
+      "gloss": "de Yerushalayim"
     },
     {
       "surface": "ספרתם",
-      "english": "contasteis"
+      "gloss": "contasteis"
     },
     {
       "surface": "ותתצו",
-      "english": "y derribasteis"
+      "gloss": "y derribasteis"
     },
     {
       "surface": "הבתים",
-      "english": "las casas"
+      "gloss": "las casas"
     },
     {
       "surface": "לבצר",
-      "english": "para fortificar"
+      "gloss": "para fortificar"
     },
     {
       "surface": "החומה",
-      "english": "el muro"
+      "gloss": "el muro"
     }
-  ],
-  "timestamp": "2026-07-16T21:25:16.800099404Z",
-  "model": "glm-4.5"
+  ]
 }

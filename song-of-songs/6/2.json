@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "song-of-songs 6:2",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27627,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27968
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:38:15.268563963Z",
   "translation": "Mi amado ha descendido a su jardín, a ⟨las⟩ eras de ⟨especias⟩, para apacentar en ⟨los⟩ jardines, y para recoger lirios",
   "tokens": [
     {
       "surface": "דודי",
-      "english": "Mi amado"
+      "gloss": "Mi amado"
     },
     {
       "surface": "ירד",
-      "english": "ha descendido"
+      "gloss": "ha descendido"
     },
     {
       "surface": "לגנו",
-      "english": "a su jardín"
+      "gloss": "a su jardín"
     },
     {
       "surface": "לערוגות",
-      "english": "a ⟨las⟩ eras"
+      "gloss": "a ⟨las⟩ eras"
     },
     {
       "surface": "הבשם",
-      "english": "de ⟨especias⟩"
+      "gloss": "de ⟨especias⟩"
     },
     {
       "surface": "לרעות",
-      "english": "para apacentar"
+      "gloss": "para apacentar"
     },
     {
       "surface": "בגנים",
-      "english": "en ⟨los⟩ jardines"
+      "gloss": "en ⟨los⟩ jardines"
     },
     {
       "surface": "וללקט",
-      "english": "y para recoger"
+      "gloss": "y para recoger"
     },
     {
       "surface": "שושנים",
-      "english": "lirios"
+      "gloss": "lirios"
     }
-  ],
-  "timestamp": "2026-06-09T22:38:15.268563963Z",
-  "model": "glm-4.5"
+  ]
 }

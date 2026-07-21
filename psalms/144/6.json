@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 144:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 372,
-    "prompt_tokens": 69926,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70298
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:18.345280612Z",
   "translation": "Envía relámpagos y disper⟨sá⟩los; lanza tus flechas y confúnde⟨los⟩",
   "tokens": [
     {
       "surface": "ברוק",
-      "english": "Envía relámpagos"
+      "gloss": "Envía relámpagos"
     },
     {
       "surface": "ברק",
-      "english": "relámpagos"
+      "gloss": "relámpagos"
     },
     {
       "surface": "ותפיצם",
-      "english": "y disper⟨sá⟩los"
+      "gloss": "y disper⟨sá⟩los"
     },
     {
       "surface": "שלח",
-      "english": "lanza"
+      "gloss": "lanza"
     },
     {
       "surface": "חציך",
-      "english": "tus flechas"
+      "gloss": "tus flechas"
     },
     {
       "surface": "ותהמם",
-      "english": "y confúnde⟨los⟩"
+      "gloss": "y confúnde⟨los⟩"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:18.345280612Z",
-  "model": "glm-4.5"
+  ]
 }

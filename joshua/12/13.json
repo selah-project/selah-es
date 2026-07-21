@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "joshua 12:13",
   "book": "joshua",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 212,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23051,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23263
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:16:36.431576032Z",
   "translation": "rey de Debir, uno; rey de Geder, uno",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "Rey"
+      "gloss": "Rey"
     },
     {
       "surface": "דבר",
-      "english": "de Debir"
+      "gloss": "de Debir"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "מלך",
-      "english": "rey"
+      "gloss": "rey"
     },
     {
       "surface": "גדר",
-      "english": "de Geder"
+      "gloss": "de Geder"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     }
-  ],
-  "timestamp": "2026-06-10T01:16:36.431576032Z",
-  "model": "glm-4.5"
+  ]
 }

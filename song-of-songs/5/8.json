@@ -1,82 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "song-of-songs 5:8",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 570,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28238,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 28808
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:37:39.198027519Z",
   "translation": "Yo ⟨he⟩ jurado ⟨a⟩ vosotras, ⟨las⟩ hijas de Yerushalayim, si encontráis ⟨a⟩ mi amado, ¿qué ⟨le⟩ diréis? ⟨que⟩ ⟨estoy⟩ enferma ⟨de⟩ amor, yo.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "english": "Yo ⟨he⟩ jurado"
+      "gloss": "Yo ⟨he⟩ jurado"
     },
     {
       "surface": "אתכם",
-      "english": "⟨a⟩ vosotras",
+      "gloss": "⟨a⟩ vosotras",
       "marks": "הנות"
     },
     {
       "surface": "בנות",
-      "english": "⟨las⟩ hijas"
+      "gloss": "⟨las⟩ hijas"
     },
     {
       "surface": "ירושלם",
-      "english": "de Yerushalayim"
+      "gloss": "de Yerushalayim"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "תמצאו",
-      "english": "encontráis"
+      "gloss": "encontráis"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "דודי"
     },
     {
       "surface": "דודי",
-      "english": "mi amado"
+      "gloss": "mi amado"
     },
     {
       "surface": "מה",
-      "english": "¿qué"
+      "gloss": "¿qué"
     },
     {
       "surface": "תגידו",
-      "english": "diréis"
+      "gloss": "diréis"
     },
     {
       "surface": "לו",
-      "english": "⟨le⟩"
+      "gloss": "⟨le⟩"
     },
     {
       "surface": "שחולת",
-      "english": "⟨que⟩ ⟨estoy⟩ enferma ⟨de⟩"
+      "gloss": "⟨que⟩ ⟨estoy⟩ enferma ⟨de⟩"
     },
     {
       "surface": "אהבה",
-      "english": "amor"
+      "gloss": "amor"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     }
-  ],
-  "timestamp": "2026-06-09T22:37:39.198027519Z",
-  "model": "glm-4.5"
+  ]
 }

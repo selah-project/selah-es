@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "numbers 15:12",
   "book": "numbers",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 25071,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25456
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:04:23.500287721Z",
   "translation": "Según el número que ⟨vosotros⟩ hagáis, así ⟨lo⟩ haréis para ⟨el⟩ uno según su número",
   "tokens": [
     {
       "surface": "כמספר",
-      "english": "Según el número"
+      "gloss": "Según el número"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "תעשו",
-      "english": "⟨vosotros⟩ hagáis"
+      "gloss": "⟨vosotros⟩ hagáis"
     },
     {
       "surface": "ככה",
-      "english": "así ⟨lo⟩ haréis"
+      "gloss": "así ⟨lo⟩ haréis"
     },
     {
       "surface": "תעשו",
-      "english": "haréis"
+      "gloss": "haréis"
     },
     {
       "surface": "לאחד",
-      "english": "para ⟨el⟩ uno"
+      "gloss": "para ⟨el⟩ uno"
     },
     {
       "surface": "כמספרם",
-      "english": "según su número"
+      "gloss": "según su número"
     }
-  ],
-  "timestamp": "2026-07-16T23:04:23.500287721Z",
-  "model": "glm-4.5"
+  ]
 }

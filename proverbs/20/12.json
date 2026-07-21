@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 20:12",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59899,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60355
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:43:05.109667231Z",
   "translation": "El oído que oye ⟨y⟩ ⟨el⟩ ojo que ve, YHWH ⟨es⟩ quien ⟨los⟩ hizo ⟨también⟩ ⟨ambos⟩",
   "tokens": [
     {
       "surface": "אזן",
-      "english": "El oído"
+      "gloss": "El oído"
     },
     {
       "surface": "שמעת",
-      "english": "que oye"
+      "gloss": "que oye"
     },
     {
       "surface": "ועין",
-      "english": "⟨y⟩ ⟨el⟩ ojo"
+      "gloss": "⟨y⟩ ⟨el⟩ ojo"
     },
     {
       "surface": "ראה",
-      "english": "que ve"
+      "gloss": "que ve"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עשה",
-      "english": "⟨es⟩ quien ⟨los⟩ hizo"
+      "gloss": "⟨es⟩ quien ⟨los⟩ hizo"
     },
     {
       "surface": "גם",
-      "english": "⟨también⟩"
+      "gloss": "⟨también⟩"
     },
     {
       "surface": "שניהם",
-      "english": "⟨ambos⟩"
+      "gloss": "⟨ambos⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:43:05.109667231Z",
-  "model": "glm-4.5"
+  ]
 }

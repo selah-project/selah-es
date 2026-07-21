@@ -1,9 +1,107 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "amos 4:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 4,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:03:01.055304148Z",
+  "translation": "Porque he aquí, el que forma ⟨את⟩ los montes, y crea ⟨el⟩ viento, y declara a ⟨el⟩ hombre lo que ⟨es⟩ su meditación, que hace ⟨el⟩ alba ⟨un⟩ velo ⟨de⟩ oscuridad, y anda sobre ⟨las⟩ alturas de ⟨la⟩ tierra: YHWH, ⟨el⟩ Elohim de ⟨los⟩ ejércitos ⟨es⟩ su nombre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "he aquí"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "el que forma"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "los montes",
+      "marks": "los montes"
+    },
+    {
+      "surface": "וברא",
+      "gloss": "y crea"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "el viento",
+      "marks": "el viento"
+    },
+    {
+      "surface": "ומגיד",
+      "gloss": "y declara"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "a el hombre",
+      "marks": "el hombre"
+    },
+    {
+      "surface": "מה",
+      "gloss": "lo que"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "es su meditación"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "que hace"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "el alba",
+      "marks": "el alba"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "un velo de oscuridad"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "y anda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "las alturas",
+      "marks": "las alturas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la tierra",
+      "marks": "la tierra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "el Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot",
+      "marks": "los ejércitos"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "es su nombre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "de los ejércitos",
@@ -13,115 +111,6 @@
       "hebrew": "צבאות"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 1065,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17274,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 18339
-  },
-  "translation": "Porque he aquí, el que forma ⟨את⟩ los montes, y crea ⟨el⟩ viento, y declara a ⟨el⟩ hombre lo que ⟨es⟩ su meditación, que hace ⟨el⟩ alba ⟨un⟩ velo ⟨de⟩ oscuridad, y anda sobre ⟨las⟩ alturas de ⟨la⟩ tierra: YHWH, ⟨el⟩ Elohim de ⟨los⟩ ejércitos ⟨es⟩ su nombre.",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "הנה",
-      "english": "he aquí"
-    },
-    {
-      "surface": "יוצר",
-      "english": "el que forma"
-    },
-    {
-      "surface": "הרים",
-      "english": "los montes",
-      "marks": "los montes"
-    },
-    {
-      "surface": "וברא",
-      "english": "y crea"
-    },
-    {
-      "surface": "רוח",
-      "english": "el viento",
-      "marks": "el viento"
-    },
-    {
-      "surface": "ומגיד",
-      "english": "y declara"
-    },
-    {
-      "surface": "לאדם",
-      "english": "a el hombre",
-      "marks": "el hombre"
-    },
-    {
-      "surface": "מה",
-      "english": "lo que"
-    },
-    {
-      "surface": "שחו",
-      "english": "es su meditación"
-    },
-    {
-      "surface": "עשה",
-      "english": "que hace"
-    },
-    {
-      "surface": "שחר",
-      "english": "el alba",
-      "marks": "el alba"
-    },
-    {
-      "surface": "עיפה",
-      "english": "un velo de oscuridad"
-    },
-    {
-      "surface": "ודרך",
-      "english": "y anda"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "במתי",
-      "english": "las alturas",
-      "marks": "las alturas"
-    },
-    {
-      "surface": "ארץ",
-      "english": "de la tierra",
-      "marks": "la tierra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "el Elohim"
-    },
-    {
-      "surface": "צבאות",
-      "english": "Tzevaot",
-      "marks": "los ejércitos"
-    },
-    {
-      "surface": "שמו",
-      "english": "es su nombre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:03:01.055304148Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

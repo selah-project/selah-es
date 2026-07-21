@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-samuel 27:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 27,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:12:06.230403011Z",
+  "translation": "Y Davidd y sus hombres subieron y despojaron ⟨a los⟩ gesuritas y ⟨a los⟩ guezeos y ⟨a los⟩ amalecitas, porque ⟨los⟩ habitantes ⟨de la⟩ tierra desde ⟨la⟩ antigüedad ⟨estaban⟩ ⟨hasta⟩ llegar a Shur y hasta ⟨la⟩ tierra de Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Y"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "y sus hombres"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "subieron y despojaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "⟨a los⟩ gesuritas"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "y ⟨a los⟩ guezeos"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "y ⟨a los⟩ amalecitas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨los⟩"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "habitantes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨de la⟩ tierra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "desde"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "⟨la⟩ antigüedad"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "⟨estaban⟩ ⟨hasta⟩ llegar"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "a Shur"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "y hasta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ tierra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,100 +103,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 690,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17252,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17942
-  },
-  "translation": "Y Davidd y sus hombres subieron y despojaron ⟨a los⟩ gesuritas y ⟨a los⟩ guezeos y ⟨a los⟩ amalecitas, porque ⟨los⟩ habitantes ⟨de la⟩ tierra desde ⟨la⟩ antigüedad ⟨estaban⟩ ⟨hasta⟩ llegar a Shur y hasta ⟨la⟩ tierra de Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "Y"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ואנשיו",
-      "english": "y sus hombres"
-    },
-    {
-      "surface": "ויפשטו",
-      "english": "subieron y despojaron"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "הגשורי",
-      "english": "⟨a los⟩ gesuritas"
-    },
-    {
-      "surface": "והגרזי",
-      "english": "y ⟨a los⟩ guezeos"
-    },
-    {
-      "surface": "והעמלקי",
-      "english": "y ⟨a los⟩ amalecitas"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "הנה",
-      "english": "⟨los⟩"
-    },
-    {
-      "surface": "ישבות",
-      "english": "habitantes"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨de la⟩ tierra"
-    },
-    {
-      "surface": "אשר",
-      "english": "desde"
-    },
-    {
-      "surface": "מעולם",
-      "english": "⟨la⟩ antigüedad"
-    },
-    {
-      "surface": "בואך",
-      "english": "⟨estaban⟩ ⟨hasta⟩ llegar"
-    },
-    {
-      "surface": "שורה",
-      "english": "a Shur"
-    },
-    {
-      "surface": "ועד",
-      "english": "y hasta"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:12:06.230403011Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

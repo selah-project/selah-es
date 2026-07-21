@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 135:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 632,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70230,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70862
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:07:00.395553101Z",
   "translation": "Él ⟨hace⟩ ascender las nieblas desde ⟨el⟩ extremo de ⟨la⟩ tierra, relámpagos para ⟨la⟩ lluvia ⟨את⟩, ⟨el que⟩ saca ⟨el⟩ viento de sus tesoros",
   "tokens": [
     {
       "surface": "מעלה",
-      "english": "Hace ascender",
+      "gloss": "Hace ascender",
       "marks": ""
     },
     {
       "surface": "נשאים",
-      "english": "nieblas",
+      "gloss": "nieblas",
       "marks": ""
     },
     {
       "surface": "מקצה",
-      "english": "desde",
+      "gloss": "desde",
       "marks": ""
     },
     {
       "surface": "הארץ",
-      "english": "⟨el⟩ extremo de ⟨la⟩ tierra",
+      "gloss": "⟨el⟩ extremo de ⟨la⟩ tierra",
       "marks": ""
     },
     {
       "surface": "ברקים",
-      "english": "relámpagos",
+      "gloss": "relámpagos",
       "marks": ""
     },
     {
       "surface": "למטר",
-      "english": "para ⟨la⟩ lluvia",
+      "gloss": "para ⟨la⟩ lluvia",
       "marks": ""
     },
     {
       "surface": "עשה",
-      "english": "⟨el que⟩ saca",
+      "gloss": "⟨el que⟩ saca",
       "marks": ""
     },
     {
       "surface": "מוצא",
-      "english": "saca",
+      "gloss": "saca",
       "marks": ""
     },
     {
       "surface": "רוח",
-      "english": "⟨el⟩ viento",
+      "gloss": "⟨el⟩ viento",
       "marks": ""
     },
     {
       "surface": "מאוצרותיו",
-      "english": "de sus tesoros",
+      "gloss": "de sus tesoros",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T00:07:00.395553101Z",
-  "model": "glm-4.5"
+  ]
 }

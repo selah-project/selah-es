@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 42:12",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 28430,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28815
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:12:42.681141791Z",
   "translation": "Y él dijo a ellos: No, ⟨sino que⟩ ⟨para ver⟩ la desnudez ⟨de⟩ la tierra habéis venido.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y él dijo"
+      "gloss": "Y él dijo"
     },
     {
       "surface": "אלהם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "כי",
-      "english": "⟨sino que⟩"
+      "gloss": "⟨sino que⟩"
     },
     {
       "surface": "ערות",
-      "english": "la desnudez"
+      "gloss": "la desnudez"
     },
     {
       "surface": "הארץ",
-      "english": "⟨de⟩ la tierra"
+      "gloss": "⟨de⟩ la tierra"
     },
     {
       "surface": "באתם",
-      "english": "habéis venido"
+      "gloss": "habéis venido"
     },
     {
       "surface": "לראות",
-      "english": "⟨para ver⟩"
+      "gloss": "⟨para ver⟩"
     }
-  ],
-  "timestamp": "2026-07-16T21:12:42.681141791Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 84:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 84,
-  "usage": {
-    "completion_tokens": 846,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69834,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70680
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:50.778635424Z",
   "translation": "¡Cuán felices ⟨son⟩ ⟨los⟩ que moran en tu casa; ⟨ellos⟩ todavía ⟨te⟩ alabarán, Selá.",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Cuán felices",
+      "gloss": "¡Cuán felices",
       "lemma": "835",
       "gv": "511",
       "freq": "40",
@@ -28,7 +19,7 @@
     },
     {
       "surface": "יושבי",
-      "english": "⟨los⟩ que moran",
+      "gloss": "⟨los⟩ que moran",
       "lemma": "3427",
       "gv": "328",
       "freq": "26",
@@ -36,7 +27,7 @@
     },
     {
       "surface": "ביתך",
-      "english": "en tu casa",
+      "gloss": "en tu casa",
       "lemma": "1004 b",
       "gv": "432",
       "freq": "39",
@@ -44,7 +35,7 @@
     },
     {
       "surface": "עוד",
-      "english": "todavía",
+      "gloss": "todavía",
       "lemma": "5750",
       "gv": "80",
       "freq": "395",
@@ -52,7 +43,7 @@
     },
     {
       "surface": "יהללוך",
-      "english": "⟨ellos⟩ ⟨te⟩ alabarán",
+      "gloss": "⟨ellos⟩ ⟨te⟩ alabarán",
       "lemma": "1984 b",
       "gv": "101",
       "freq": "1",
@@ -60,13 +51,11 @@
     },
     {
       "surface": "סלה",
-      "english": "Selá",
+      "gloss": "Selá",
       "lemma": "5542",
       "gv": "95",
       "freq": "75",
       "rationale": "Término musical de pausa\/reflexión, no traducible"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:50.778635424Z",
-  "model": "glm-4.5"
+  ]
 }

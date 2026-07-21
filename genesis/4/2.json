@@ -1,79 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 4:2",
   "book": "genesis",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 588,
-    "prompt_tokens": 29072,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29660
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:52:00.271613162Z",
   "translation": "Y ella siguió dando a luz ⟨את⟩ su hermano ⟨את⟩ Hevel; y Hevel fue pastor de ganado, y Kayin fue siervo de la tierra.",
   "tokens": [
     {
       "surface": "ותסף",
-      "english": "Y ella siguió"
+      "gloss": "Y ella siguió"
     },
     {
       "surface": "ללדת",
-      "english": "dando a luz"
+      "gloss": "dando a luz"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su hermano"
     },
     {
       "surface": "אחיו",
-      "english": "su hermano"
+      "gloss": "su hermano"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Hevel"
     },
     {
       "surface": "הבל",
-      "english": "Hevel"
+      "gloss": "Hevel"
     },
     {
       "surface": "ויהי",
-      "english": "y Hevel fue"
+      "gloss": "y Hevel fue"
     },
     {
       "surface": "הבל",
-      "english": "Hevel"
+      "gloss": "Hevel"
     },
     {
       "surface": "רעה",
-      "english": "pastor"
+      "gloss": "pastor"
     },
     {
       "surface": "צאן",
-      "english": "de ganado"
+      "gloss": "de ganado"
     },
     {
       "surface": "וקין",
-      "english": "y Kayin"
+      "gloss": "y Kayin"
     },
     {
       "surface": "היה",
-      "english": "fue"
+      "gloss": "fue"
     },
     {
       "surface": "עבד",
-      "english": "siervo"
+      "gloss": "siervo"
     },
     {
       "surface": "אדמה",
-      "english": "de la tierra"
+      "gloss": "de la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T20:52:00.271613162Z",
-  "model": "glm-4.5"
+  ]
 }

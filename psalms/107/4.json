@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 107:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62649,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 63009
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:21:54.292258891Z",
   "translation": "Se extraviaron ⟨en⟩ el desierto, ⟨en⟩ un camino solitario; ⟨una⟩ ciudad de habitación no hallaron",
   "tokens": [
     {
       "surface": "תעו",
-      "english": "Se extraviaron"
+      "gloss": "Se extraviaron"
     },
     {
       "surface": "במדבר",
-      "english": "⟨en⟩ el desierto"
+      "gloss": "⟨en⟩ el desierto"
     },
     {
       "surface": "בישימון",
-      "english": "⟨en⟩ un camino solitario"
+      "gloss": "⟨en⟩ un camino solitario"
     },
     {
       "surface": "דרך",
-      "english": "camino"
+      "gloss": "camino"
     },
     {
       "surface": "עיר",
-      "english": "⟨una⟩ ciudad"
+      "gloss": "⟨una⟩ ciudad"
     },
     {
       "surface": "מושב",
-      "english": "de habitación"
+      "gloss": "de habitación"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "מצאו",
-      "english": "hallaron"
+      "gloss": "hallaron"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:21:54.292258891Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

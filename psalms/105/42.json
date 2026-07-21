@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "psalms 105:42",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 355,
-    "prompt_tokens": 70173,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70528
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:46.566347390Z",
   "translation": "Porque ⟨él⟩ recordó ⟨את⟩ palabra santa de Él ⟨את⟩ Avraham su servidor",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "זכר",
-      "english": "recordó"
+      "gloss": "recordó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "palabra"
     },
     {
       "surface": "דבר",
-      "english": "palabra"
+      "gloss": "palabra"
     },
     {
       "surface": "קדשו",
-      "english": "santa de Él"
+      "gloss": "santa de Él"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avraham"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "עבדו",
-      "english": "su servidor"
+      "gloss": "su servidor"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:46.566347390Z",
-  "model": "glm-4.5"
+  ]
 }

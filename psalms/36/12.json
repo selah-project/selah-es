@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 36:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69968,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70315
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:14:55.412294081Z",
   "translation": "¡No ⟨venga⟩ ⟨a⟩ mí el pie ⟨de⟩ arrogancia y ⟨la⟩ mano ⟨de⟩ los malvados no ⟨me⟩ haga vacilar",
   "tokens": [
     {
       "surface": "אל",
-      "english": "¡No"
+      "gloss": "¡No"
     },
     {
       "surface": "תבואני",
-      "english": "⟨venga⟩ ⟨a⟩ mí"
+      "gloss": "⟨venga⟩ ⟨a⟩ mí"
     },
     {
       "surface": "רגל",
-      "english": "el pie ⟨de⟩"
+      "gloss": "el pie ⟨de⟩"
     },
     {
       "surface": "גאוה",
-      "english": "arrogancia"
+      "gloss": "arrogancia"
     },
     {
       "surface": "ויד",
-      "english": "y ⟨la⟩ mano ⟨de⟩"
+      "gloss": "y ⟨la⟩ mano ⟨de⟩"
     },
     {
       "surface": "רשעים",
-      "english": "los malvados"
+      "gloss": "los malvados"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תנדני",
-      "english": "⟨me⟩ haga vacilar"
+      "gloss": "⟨me⟩ haga vacilar"
     }
-  ],
-  "timestamp": "2026-06-09T23:14:55.412294081Z",
-  "model": "glm-4.5"
+  ]
 }

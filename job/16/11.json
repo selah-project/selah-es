@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 16:11",
   "book": "job",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 27271,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27706
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:58:41.778950514Z",
   "translation": "El me entrega ⟨את⟩ al perverso, y a las manos de los impíos ⟨me⟩ hace precipitar.",
   "tokens": [
     {
       "surface": "יסגירני",
-      "english": "me entrega"
+      "gloss": "me entrega"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "אל",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "al perverso"
     },
     {
       "surface": "עויל",
-      "english": "al perverso"
+      "gloss": "al perverso"
     },
     {
       "surface": "ועל",
-      "english": "y a"
+      "gloss": "y a"
     },
     {
       "surface": "ידי",
-      "english": "las manos"
+      "gloss": "las manos"
     },
     {
       "surface": "רשעים",
-      "english": "de los impíos"
+      "gloss": "de los impíos"
     },
     {
       "surface": "ירטני",
-      "english": "⟨me⟩ hace precipitar"
+      "gloss": "⟨me⟩ hace precipitar"
     }
-  ],
-  "timestamp": "2026-07-16T21:58:41.778950514Z",
-  "model": "glm-4.5"
+  ]
 }

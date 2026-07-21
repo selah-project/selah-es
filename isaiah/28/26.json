@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "isaiah 28:26",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25753,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26031
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:37:14.063792232Z",
   "translation": "Y su ⟨el⟩ Dios ⟨es⟩ quien ⟨lo⟩ instruye en ⟨el⟩ juicio, ⟨y⟩ lo ⟨lo⟩ enseña.",
   "tokens": [
     {
       "surface": "ויסרו",
-      "english": "Y su ⟨el⟩ Dios ⟨es⟩ quien ⟨lo⟩ instruye"
+      "gloss": "Y su ⟨el⟩ Dios ⟨es⟩ quien ⟨lo⟩ instruye"
     },
     {
       "surface": "למשפט",
-      "english": "en ⟨el⟩ juicio"
+      "gloss": "en ⟨el⟩ juicio"
     },
     {
       "surface": "אלהיו",
-      "english": "⟨y⟩ lo"
+      "gloss": "⟨y⟩ lo"
     },
     {
       "surface": "יורנו",
-      "english": "⟨lo⟩ enseña"
+      "gloss": "⟨lo⟩ enseña"
     }
-  ],
-  "timestamp": "2026-06-10T02:37:14.063792232Z",
-  "model": "glm-4.5"
+  ]
 }

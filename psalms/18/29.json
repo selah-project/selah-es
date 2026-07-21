@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "psalms 18:29",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69959,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70385
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:26.604197497Z",
   "translation": "Porque tú ⟨is⟩ ⟨el⟩ ⟨que⟩ hace brillar mi lámpara, YHWH mi Elohim ⟨את⟩ ⟨mi⟩ oscuridad ⟨está⟩ iluminada",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אתה",
-      "english": "tú ⟨is⟩ ⟨el⟩ ⟨que⟩"
+      "gloss": "tú ⟨is⟩ ⟨el⟩ ⟨que⟩"
     },
     {
       "surface": "תאיר",
-      "english": "hace brillar"
+      "gloss": "hace brillar"
     },
     {
       "surface": "נרי",
-      "english": "mi lámpara"
+      "gloss": "mi lámpara"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "mi Elohim"
+      "gloss": "mi Elohim"
     },
     {
       "surface": "יגיה",
-      "english": "iluminada"
+      "gloss": "iluminada"
     },
     {
       "surface": "חשכי",
-      "english": "⟨mi⟩ oscuridad ⟨está⟩",
+      "gloss": "⟨mi⟩ oscuridad ⟨está⟩",
       "marks": "mi oscuridad"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:26.604197497Z",
-  "model": "glm-4.5"
+  ]
 }

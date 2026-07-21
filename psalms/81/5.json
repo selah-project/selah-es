@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 81:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69941,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70314
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:23.309554026Z",
   "translation": "Porque ⟨es⟩ estatuto para Yisrael ⟨el⟩ ⟨que⟩, y juicio para ⟨el⟩ Elohim de Yaakov",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "חק",
-      "english": "estatuto"
+      "gloss": "estatuto"
     },
     {
       "surface": "לישראל",
-      "english": "para Yisrael"
+      "gloss": "para Yisrael"
     },
     {
       "surface": "הוא",
-      "english": "⟨el⟩ ⟨que⟩",
+      "gloss": "⟨el⟩ ⟨que⟩",
       "marks": "estatuto"
     },
     {
       "surface": "משפט",
-      "english": "y juicio"
+      "gloss": "y juicio"
     },
     {
       "surface": "לאלהי",
-      "english": "para ⟨el⟩ Elohim"
+      "gloss": "para ⟨el⟩ Elohim"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:23.309554026Z",
-  "model": "glm-4.5"
+  ]
 }

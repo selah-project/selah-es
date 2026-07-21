@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 21:2",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 547,
-    "prompt_tokens": 28821,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29368
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:59:48.086583550Z",
   "translation": "Y concibió, y parió Sará a Avraham ⟨un⟩ hijo en su vejez, en el tiempo señalado que Elohim ⟨le⟩ había hablado",
   "tokens": [
     {
       "surface": "ותהר",
-      "english": "Y concibió"
+      "gloss": "Y concibió"
     },
     {
       "surface": "ותלד",
-      "english": "y parió"
+      "gloss": "y parió"
     },
     {
       "surface": "שרה",
-      "english": "Sará"
+      "gloss": "Sará"
     },
     {
       "surface": "לאברהם",
-      "english": "a Avraham"
+      "gloss": "a Avraham"
     },
     {
       "surface": "בן",
-      "english": "⟨un⟩ hijo"
+      "gloss": "⟨un⟩ hijo"
     },
     {
       "surface": "לזקניו",
-      "english": "en su vejez"
+      "gloss": "en su vejez"
     },
     {
       "surface": "למועד",
-      "english": "en el tiempo señalado"
+      "gloss": "en el tiempo señalado"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "דבר",
-      "english": "había hablado"
+      "gloss": "había hablado"
     },
     {
       "surface": "אתו",
-      "english": "⟨le⟩",
+      "gloss": "⟨le⟩",
       "marks": "Avraham (sujeto implícito de 'hablar')"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T20:59:48.086583550Z",
-  "model": "glm-4.5"
+  ]
 }

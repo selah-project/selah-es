@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 34:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69835,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70203
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:13:50.578291815Z",
   "translation": "Miren hacia ⟨el⟩ y serán iluminados, y sus rostros ⟨את⟩ no serán avergonzados.",
   "tokens": [
     {
       "surface": "הביטו",
-      "english": "Miren"
+      "gloss": "Miren"
     },
     {
       "surface": "אליו",
-      "english": "hacia ⟨el⟩"
+      "gloss": "hacia ⟨el⟩"
     },
     {
       "surface": "ונהרו",
-      "english": "y serán iluminados"
+      "gloss": "y serán iluminados"
     },
     {
       "surface": "ופניהם",
-      "english": "y sus rostros"
+      "gloss": "y sus rostros"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יחפרו",
-      "english": "serán avergonzados"
+      "gloss": "serán avergonzados"
     }
-  ],
-  "timestamp": "2026-06-09T23:13:50.578291815Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 84:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 84,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69945,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70326
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:41:18.696368326Z",
   "translation": "He aquí ⟨el⟩ escudo nuestro, mira, Elohim, y ⟨el⟩ rostro de tu Mashíaj.",
   "tokens": [
     {
       "surface": "מגננו",
-      "english": "⟨El⟩ escudo nuestro"
+      "gloss": "⟨El⟩ escudo nuestro"
     },
     {
       "surface": "ראה",
-      "english": "mira"
+      "gloss": "mira"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "והבט",
-      "english": "y ⟨el⟩"
+      "gloss": "y ⟨el⟩"
     },
     {
       "surface": "פני",
-      "english": "rostro de"
+      "gloss": "rostro de"
     },
     {
       "surface": "משיחך",
-      "english": "tu Mashíaj"
+      "gloss": "tu Mashíaj"
     }
-  ],
-  "timestamp": "2026-06-09T23:41:18.696368326Z",
-  "model": "glm-4.5"
+  ]
 }

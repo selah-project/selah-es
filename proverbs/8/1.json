@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 8:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59669,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 59999
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:33:35.222924094Z",
   "translation": "¿⟨no⟩ clama la Jojmá y ⟨la⟩ Biná da su voz?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "¿⟨No⟩"
+      "gloss": "¿⟨No⟩"
     },
     {
       "surface": "חכמה",
-      "english": "la Jojmá"
+      "gloss": "la Jojmá"
     },
     {
       "surface": "תקרא",
-      "english": "clama"
+      "gloss": "clama"
     },
     {
       "surface": "ותבונה",
-      "english": "y ⟨la⟩ Biná"
+      "gloss": "y ⟨la⟩ Biná"
     },
     {
       "surface": "תתן",
-      "english": "da"
+      "gloss": "da"
     },
     {
       "surface": "קולה",
-      "english": "su voz"
+      "gloss": "su voz"
     }
-  ],
-  "timestamp": "2026-06-10T01:33:35.222924094Z",
-  "model": "glm-4.5"
+  ]
 }

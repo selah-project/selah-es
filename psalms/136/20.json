@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 136:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69733,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70065
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:07:46.803535994Z",
   "translation": "Y Og el rey ⟨de⟩ Bashán porque para siempre ⟨es⟩ su Jésed",
   "tokens": [
     {
       "surface": "ולעוג",
-      "english": "Y Og",
+      "gloss": "Y Og",
       "marks": ""
     },
     {
       "surface": "מלך",
-      "english": "el rey",
+      "gloss": "el rey",
       "marks": ""
     },
     {
       "surface": "הבשן",
-      "english": "⟨de⟩ Bashán",
+      "gloss": "⟨de⟩ Bashán",
       "marks": "Bashán"
     },
     {
       "surface": "כי",
-      "english": "porque",
+      "gloss": "porque",
       "marks": ""
     },
     {
       "surface": "לעולם",
-      "english": "para siempre",
+      "gloss": "para siempre",
       "marks": ""
     },
     {
       "surface": "חסדו",
-      "english": "⟨es⟩ su Jésed",
+      "gloss": "⟨es⟩ su Jésed",
       "marks": "su Jésed"
     }
-  ],
-  "timestamp": "2026-06-10T00:07:46.803535994Z",
-  "model": "glm-4.5"
+  ]
 }

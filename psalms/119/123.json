@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 123,
   "ref": "psalms 119:123",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69710,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70092
-  },
+  "verse": 123,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:36.914596893Z",
   "translation": "Mis ojos ⟨se consumen⟩ en espera de tu salvación y ⟨en⟩ ⟨el⟩ dicho ⟨de⟩ tu justicia",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "Mis ojos"
+      "gloss": "Mis ojos"
     },
     {
       "surface": "כלו",
-      "english": "⟨se consumen⟩"
+      "gloss": "⟨se consumen⟩"
     },
     {
       "surface": "לישועתך",
-      "english": "en espera de tu salvación"
+      "gloss": "en espera de tu salvación"
     },
     {
       "surface": "ולאמרת",
-      "english": "y ⟨en⟩ ⟨el⟩ dicho ⟨de⟩"
+      "gloss": "y ⟨en⟩ ⟨el⟩ dicho ⟨de⟩"
     },
     {
       "surface": "צדקך",
-      "english": "tu justicia"
+      "gloss": "tu justicia"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:36.914596893Z",
-  "model": "glm-4.5"
+  ]
 }

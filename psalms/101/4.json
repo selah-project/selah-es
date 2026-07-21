@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 101:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 101,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69842,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70402
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:26.607727563Z",
   "translation": "Un corazón ⟨que es⟩ pervertido se apartará de mí; ⟨a lo⟩ malo ⟨lo⟩ no ⟨conoceré⟩",
   "tokens": [
     {
       "surface": "לבב",
-      "english": "Un corazón ⟨que es⟩ pervertido",
+      "gloss": "Un corazón ⟨que es⟩ pervertido",
       "lemma": 3824
     },
     {
       "surface": "עקש",
-      "english": "pervertido",
+      "gloss": "pervertido",
       "lemma": 6141
     },
     {
       "surface": "יסור",
-      "english": "se apartará",
+      "gloss": "se apartará",
       "lemma": 5493
     },
     {
       "surface": "ממני",
-      "english": "de mí",
+      "gloss": "de mí",
       "lemma": 4480
     },
     {
       "surface": "רע",
-      "english": "⟨a lo⟩ malo",
-      "lemma": 7451,
-      "marks": "⟨lo⟩"
+      "gloss": "⟨a lo⟩ malo",
+      "marks": "⟨lo⟩",
+      "lemma": 7451
     },
     {
       "surface": "לא",
-      "english": "⟨lo⟩ no",
-      "lemma": 3808,
-      "marks": "conoceré"
+      "gloss": "⟨lo⟩ no",
+      "marks": "conoceré",
+      "lemma": 3808
     },
     {
       "surface": "אדע",
-      "english": "conoceré",
+      "gloss": "conoceré",
       "lemma": 3045
     }
-  ],
-  "timestamp": "2026-06-09T23:48:26.607727563Z",
-  "model": "glm-4.5"
+  ]
 }

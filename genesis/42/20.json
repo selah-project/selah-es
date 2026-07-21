@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 42:20",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 530,
-    "prompt_tokens": 28909,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29439
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:12:39.882370009Z",
   "translation": "y traigan ⟨את⟩ su hermano el pequeño a mí, y serán probadas sus palabras, y no morirán; y lo hicieron así",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y traigan ⟨את⟩",
+      "gloss": "y traigan ⟨את⟩",
       "marks": "su hermano el pequeño"
     },
     {
       "surface": "אחיכם",
-      "english": "su hermano"
+      "gloss": "su hermano"
     },
     {
       "surface": "הקטן",
-      "english": "el pequeño"
+      "gloss": "el pequeño"
     },
     {
       "surface": "תביאו",
-      "english": "traigan"
+      "gloss": "traigan"
     },
     {
       "surface": "אלי",
-      "english": "a mí"
+      "gloss": "a mí"
     },
     {
       "surface": "ויאמנו",
-      "english": "y serán probadas"
+      "gloss": "y serán probadas"
     },
     {
       "surface": "דבריכם",
-      "english": "sus palabras"
+      "gloss": "sus palabras"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "תמותו",
-      "english": "morirán"
+      "gloss": "morirán"
     },
     {
       "surface": "ויעשו",
-      "english": "y lo hicieron"
+      "gloss": "y lo hicieron"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     }
-  ],
-  "timestamp": "2026-07-16T21:12:39.882370009Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 107:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69755,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70145
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:18.362745042Z",
   "translation": "Él envía su davar ⟨y⟩ los sana, ⟨y⟩ los libera ⟨de⟩ sus destrucciones",
   "tokens": [
     {
       "surface": "ישלח",
-      "english": "Él envía"
+      "gloss": "Él envía"
     },
     {
       "surface": "דברו",
-      "english": "su davar"
+      "gloss": "su davar"
     },
     {
       "surface": "וירפאם",
-      "english": "⟨y⟩ los sana"
+      "gloss": "⟨y⟩ los sana"
     },
     {
       "surface": "וימלט",
-      "english": "⟨y⟩ los libera"
+      "gloss": "⟨y⟩ los libera"
     },
     {
       "surface": "משחיתותם",
-      "english": "⟨de⟩ sus destrucciones"
+      "gloss": "⟨de⟩ sus destrucciones"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:18.362745042Z",
-  "model": "glm-4.5"
+  ]
 }

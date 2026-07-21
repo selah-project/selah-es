@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 141:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 141,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70182,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70588
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:09:42.115023027Z",
   "translation": "Porque a ti, oh YHWH, Adonai, ⟨son⟩ mis ojos: en ti he confiado, no ⟨dejes⟩ desamparada mi alma.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "יהוה",
-      "english": "oh YHWH"
+      "gloss": "oh YHWH"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "עיני",
-      "english": "mis ojos"
+      "gloss": "mis ojos"
     },
     {
       "surface": "בכה",
-      "english": "en ti"
+      "gloss": "en ti"
     },
     {
       "surface": "חסיתי",
-      "english": "he confiado"
+      "gloss": "he confiado"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תער",
-      "english": "⟨dejes⟩"
+      "gloss": "⟨dejes⟩"
     },
     {
       "surface": "נפשי",
-      "english": "desamparada mi alma"
+      "gloss": "desamparada mi alma"
     }
-  ],
-  "timestamp": "2026-06-10T00:09:42.115023027Z",
-  "model": "glm-4.5"
+  ]
 }

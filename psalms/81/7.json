@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 81:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69921,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70394
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:03.922540648Z",
   "translation": "¿⟨Se⟩ levantaron ⟨de⟩ ⟨el⟩ fardo ⟨de⟩ su hombro ⟨y⟩ ⟨la⟩ palma ⟨de⟩ su mano ⟨de⟩ ⟨el⟩ recipiente? ⟨¿⟩ ⟨no⟩ ⟨pasarán⟩",
   "tokens": [
     {
       "surface": "הסירותי",
-      "english": "⟨Se⟩ levantaron"
+      "gloss": "⟨Se⟩ levantaron"
     },
     {
       "surface": "מסבל",
-      "english": "⟨de⟩ ⟨el⟩ fardo"
+      "gloss": "⟨de⟩ ⟨el⟩ fardo"
     },
     {
       "surface": "שכמו",
-      "english": "⟨de⟩ su hombro"
+      "gloss": "⟨de⟩ su hombro"
     },
     {
       "surface": "כפיו",
-      "english": "⟨y⟩ ⟨la⟩ palma ⟨de⟩ su mano"
+      "gloss": "⟨y⟩ ⟨la⟩ palma ⟨de⟩ su mano"
     },
     {
       "surface": "מדוד",
-      "english": "⟨de⟩ ⟨el⟩ recipiente"
+      "gloss": "⟨de⟩ ⟨el⟩ recipiente"
     },
     {
       "surface": "תעברנה",
-      "english": "⟨¿⟩ ⟨no⟩ ⟨pasarán⟩"
+      "gloss": "⟨¿⟩ ⟨no⟩ ⟨pasarán⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:03.922540648Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "proverbs 19:19",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59973,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60466
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:43:02.148675927Z",
   "translation": "Un hombre de gran ⟨ira⟩ ⟨carga⟩ ⟨un⟩ ⟨castigo⟩ porque si ⟨lo⟩ ⟨rescatas⟩ ⟨y⟩ ⟨aún⟩ ⟨añades⟩",
   "tokens": [
     {
       "surface": "גרל",
-      "english": "Un hombre de gran",
+      "gloss": "Un hombre de gran",
       "marks": "חמה"
     },
     {
       "surface": "חמה",
-      "english": "ira"
+      "gloss": "ira"
     },
     {
       "surface": "נשא",
-      "english": "carga"
+      "gloss": "carga"
     },
     {
       "surface": "ענש",
-      "english": "un"
+      "gloss": "un"
     },
     {
       "surface": "כי",
-      "english": "castigo"
+      "gloss": "castigo"
     },
     {
       "surface": "אם",
-      "english": "porque si ⟨lo⟩"
+      "gloss": "porque si ⟨lo⟩"
     },
     {
       "surface": "תציל",
-      "english": "rescatas"
+      "gloss": "rescatas"
     },
     {
       "surface": "ועוד",
-      "english": "⟨y⟩ ⟨aún⟩"
+      "gloss": "⟨y⟩ ⟨aún⟩"
     },
     {
       "surface": "תוסף",
-      "english": "añades"
+      "gloss": "añades"
     }
-  ],
-  "timestamp": "2026-06-10T01:43:02.148675927Z",
-  "model": "glm-4.5"
+  ]
 }

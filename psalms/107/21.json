@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 107:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69796,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70375
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:10.663340070Z",
   "translation": "¡Den gracias a YHWH por su jésed ⟨y⟩ sus maravillas ⟨hacia⟩ los hijos de Adam!",
   "tokens": [
     {
       "surface": "יודו",
-      "english": "¡Den gracias",
+      "gloss": "¡Den gracias",
       "lemma": "3034",
       "gv": 26,
       "gv_sig": true,
@@ -28,40 +19,38 @@
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH",
+      "gloss": "a YHWH",
       "lemma": "l\/3068",
       "gv": 56,
       "frequency": 577
     },
     {
       "surface": "חסדו",
-      "english": "por su jésed",
+      "gloss": "por su jésed",
       "lemma": "2617",
       "gv": 78,
       "frequency": 61
     },
     {
       "surface": "ונפלאותיו",
-      "english": "⟨y⟩ sus maravillas",
+      "gloss": "⟨y⟩ sus maravillas",
       "lemma": "c\/6381",
       "gv": 589,
       "frequency": 7
     },
     {
       "surface": "לבני",
-      "english": "⟨hacia⟩ los hijos de",
+      "gloss": "⟨hacia⟩ los hijos de",
       "lemma": "l\/1121",
       "gv": 92,
       "frequency": 205
     },
     {
       "surface": "אדם",
-      "english": "Adam",
+      "gloss": "Adam",
       "lemma": "120",
       "gv": 45,
       "frequency": 367
     }
-  ],
-  "timestamp": "2026-06-09T23:54:10.663340070Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 2:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 674,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69820,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70494
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:58:32.694135398Z",
   "translation": "Y ahora ⟨los⟩ reyes, ⟨sed⟩ prudentes; ⟨sed⟩ instruidos, ⟨los⟩ jueces de ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "וְעַתָּה",
-      "english": "Y ahora",
+      "gloss": "Y ahora",
       "lemma": "c\/6258"
     },
     {
       "surface": "מְלָכִים",
-      "english": "⟨los⟩ reyes",
+      "gloss": "⟨los⟩ reyes",
       "lemma": "4428",
       "rationale": "article added for natural English; Hebrew has no definite article but context implies it"
     },
     {
       "surface": "הַשְׂכִּילוּ",
-      "english": "⟨sed⟩ prudentes",
+      "gloss": "⟨sed⟩ prudentes",
       "lemma": "7919",
       "rationale": "verb rendered as adjective phrase; 'be circumspect\/act wisely'"
     },
     {
       "surface": "הִוָּסְרוּ",
-      "english": "⟨sed⟩ instruidos",
+      "gloss": "⟨sed⟩ instruidos",
       "lemma": "3256",
       "rationale": "causative verb 'be instructed\/admonished'; rendered as passive participle"
     },
     {
       "surface": "שֹׁ֣פְטֵי",
-      "english": "⟨los⟩ jueces",
+      "gloss": "⟨los⟩ jueces",
       "lemma": "8199",
       "rationale": "article added; 'judges' as those who pronounce judgment"
     },
     {
       "surface": "אָֽרֶץ",
-      "english": "de ⟨la⟩ tierra",
+      "gloss": "de ⟨la⟩ tierra",
       "lemma": "776",
       "rationale": "article added"
     }
-  ],
-  "timestamp": "2026-06-09T22:58:32.694135398Z",
-  "model": "glm-4.5"
+  ]
 }

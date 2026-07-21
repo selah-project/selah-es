@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "1-kings 8:34",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 8,
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:55:50.619720844Z",
+  "translation": "Y tú ⟨oíras⟩ en los cielos y ⟨hayas⟩ perdonado la transgresión de tu pueblo Yisrael y ⟨los⟩ hayas traído de vuelta a la tierra que ⟨diste⟩ a sus padres",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Y tú"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "⟨oíras⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "en los cielos"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "y ⟨hayas⟩ perdonado"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "la transgresión"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "de tu pueblo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "y ⟨los⟩ hayas traído de vuelta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la tierra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "⟨diste⟩"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "a sus padres"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 618,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62575,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63193
-  },
-  "translation": "Y tú ⟨oíras⟩ en los cielos y ⟨hayas⟩ perdonado la transgresión de tu pueblo Yisrael y ⟨los⟩ hayas traído de vuelta a la tierra que ⟨diste⟩ a sus padres",
-  "tokens": [
-    {
-      "surface": "ואתה",
-      "english": "Y tú"
-    },
-    {
-      "surface": "תשמע",
-      "english": "⟨oíras⟩"
-    },
-    {
-      "surface": "השמים",
-      "english": "en los cielos"
-    },
-    {
-      "surface": "וסלחת",
-      "english": "y ⟨hayas⟩ perdonado"
-    },
-    {
-      "surface": "לחטאת",
-      "english": "la transgresión"
-    },
-    {
-      "surface": "עמך",
-      "english": "de tu pueblo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "והשבתם",
-      "english": "y ⟨los⟩ hayas traído de vuelta"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "האדמה",
-      "english": "la tierra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "נתת",
-      "english": "⟨diste⟩"
-    },
-    {
-      "surface": "לאבותם",
-      "english": "a sus padres"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:55:50.619720844Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

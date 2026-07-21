@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 31:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 494,
-    "prompt_tokens": 70128,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70622
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:28:29.821180084Z",
   "translation": "Bendito sea YHWH, pues ha hecho maravilloso su Jésed conmigo en ⟨una⟩ ciudad cercada.",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "Bendito sea"
+      "gloss": "Bendito sea"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "הפליא",
-      "english": "ha hecho maravilloso"
+      "gloss": "ha hecho maravilloso"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     },
     {
       "surface": "לי",
-      "english": "conmigo"
+      "gloss": "conmigo"
     },
     {
       "surface": "בעיר",
-      "english": "en ⟨una⟩ ciudad"
+      "gloss": "en ⟨una⟩ ciudad"
     },
     {
       "surface": "מצור",
-      "english": "cercada"
+      "gloss": "cercada"
     }
-  ],
-  "timestamp": "2026-07-16T23:28:29.821180084Z",
-  "model": "glm-4.5"
+  ]
 }

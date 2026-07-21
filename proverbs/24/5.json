@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 24:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59780,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60108
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:46:09.018681422Z",
   "translation": "Un varón sabio ⟨está⟩ en ⟨el⟩ vigor y un varón de conocimiento aumenta ⟨el⟩ poder",
   "tokens": [
     {
       "surface": "גבר",
-      "english": "Un varón"
+      "gloss": "Un varón"
     },
     {
       "surface": "חכם",
-      "english": "sabio"
+      "gloss": "sabio"
     },
     {
       "surface": "בעוז",
-      "english": "en ⟨el⟩ vigor"
+      "gloss": "en ⟨el⟩ vigor"
     },
     {
       "surface": "ואיש",
-      "english": "y un varón"
+      "gloss": "y un varón"
     },
     {
       "surface": "דעת",
-      "english": "de conocimiento"
+      "gloss": "de conocimiento"
     },
     {
       "surface": "מאמץ",
-      "english": "aumenta"
+      "gloss": "aumenta"
     },
     {
       "surface": "כח",
-      "english": "⟨el⟩ poder"
+      "gloss": "⟨el⟩ poder"
     }
-  ],
-  "timestamp": "2026-06-10T01:46:09.018681422Z",
-  "model": "glm-4.5"
+  ]
 }

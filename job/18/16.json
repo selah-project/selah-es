@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 18:16",
   "book": "job",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26967,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27275
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:10.553500092Z",
   "translation": "Debajo ⟨de⟩ sus raíces ⟨se⟩ secarán y ⟨de⟩ encima ⟨su⟩ cosecha ⟨será⟩ cortada",
   "tokens": [
     {
       "surface": "מתחת",
-      "english": "Debajo"
+      "gloss": "Debajo"
     },
     {
       "surface": "שרשיו",
-      "english": "sus raíces"
+      "gloss": "sus raíces"
     },
     {
       "surface": "יבשו",
-      "english": "⟨se⟩ secarán"
+      "gloss": "⟨se⟩ secarán"
     },
     {
       "surface": "וממעל",
-      "english": "y ⟨de⟩ encima"
+      "gloss": "y ⟨de⟩ encima"
     },
     {
       "surface": "ימל",
-      "english": "⟨su⟩ cosecha ⟨será⟩ cortada"
+      "gloss": "⟨su⟩ cosecha ⟨será⟩ cortada"
     },
     {
       "surface": "קצירו",
-      "english": "cosecha"
+      "gloss": "cosecha"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:10.553500092Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "numbers 2:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 2,
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:09:40.438829872Z",
+  "translation": "Todo ⟨los⟩ registrados ⟨del⟩ campamento ⟨de⟩ Efráyim ⟨eran⟩ ciento ocho mil cien, ⟨según⟩ sus ejércitos; y marcharán ⟨en⟩ tercer lugar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Todo"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "⟨los⟩ registrados"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "⟨del⟩ campamento ⟨de⟩"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ciento"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ocho mil"
+    },
+    {
+      "surface": "ושמנת",
+      "gloss": "y"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ciento"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "cien"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "⟨según⟩ sus ejércitos"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "y marcharán ⟨en⟩"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "tercer lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraín",
@@ -13,72 +68,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 602,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18158,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 18760
-  },
-  "translation": "Todo ⟨los⟩ registrados ⟨del⟩ campamento ⟨de⟩ Efráyim ⟨eran⟩ ciento ocho mil cien, ⟨según⟩ sus ejércitos; y marcharán ⟨en⟩ tercer lugar.",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Todo"
-    },
-    {
-      "surface": "הפקדים",
-      "english": "⟨los⟩ registrados"
-    },
-    {
-      "surface": "למחנה",
-      "english": "⟨del⟩ campamento ⟨de⟩"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "מאת",
-      "english": "ciento"
-    },
-    {
-      "surface": "אלף",
-      "english": "ocho mil"
-    },
-    {
-      "surface": "ושמנת",
-      "english": "y"
-    },
-    {
-      "surface": "אלפים",
-      "english": "ciento"
-    },
-    {
-      "surface": "ומאה",
-      "english": "cien"
-    },
-    {
-      "surface": "לצבאתם",
-      "english": "⟨según⟩ sus ejércitos"
-    },
-    {
-      "surface": "ושלשים",
-      "english": "y marcharán ⟨en⟩"
-    },
-    {
-      "surface": "יסעו",
-      "english": "tercer lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:09:40.438829872Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

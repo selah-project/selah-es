@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 25:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 463,
-    "prompt_tokens": 70049,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70512
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:14.320081727Z",
   "translation": "Guarda ⟨la⟩ nefesh de mí y rescátame; no sea avergonzado, pues en ti he buscado refugio.",
   "tokens": [
     {
       "surface": "שמרה",
-      "english": "Guarda"
+      "gloss": "Guarda"
     },
     {
       "surface": "נפשי",
-      "english": "⟨la⟩ nefesh de mí"
+      "gloss": "⟨la⟩ nefesh de mí"
     },
     {
       "surface": "והצילני",
-      "english": "y rescátame"
+      "gloss": "y rescátame"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אבוש",
-      "english": "sea avergonzado"
+      "gloss": "sea avergonzado"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "חסיתי",
-      "english": "he buscado refugio"
+      "gloss": "he buscado refugio"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:14.320081727Z",
-  "model": "glm-4.5"
+  ]
 }

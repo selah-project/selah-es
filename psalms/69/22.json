@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 69:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69824,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70280
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:19.210542618Z",
   "translation": "Y dieron ⟨en⟩ mis comidas ⟨como⟩ veneno ⟨y⟩ ⟨para⟩ mi sed me dieron de beber vinagre",
   "tokens": [
     {
       "surface": "ויתנו",
-      "english": "Y dieron"
+      "gloss": "Y dieron"
     },
     {
       "surface": "בברותי",
-      "english": "⟨en⟩ mis comidas"
+      "gloss": "⟨en⟩ mis comidas"
     },
     {
       "surface": "ראש",
-      "english": "⟨como⟩ veneno"
+      "gloss": "⟨como⟩ veneno"
     },
     {
       "surface": "ולצמאי",
-      "english": "⟨y⟩ ⟨para⟩ mi sed"
+      "gloss": "⟨y⟩ ⟨para⟩ mi sed"
     },
     {
       "surface": "ישקוני",
-      "english": "me dieron de beber"
+      "gloss": "me dieron de beber"
     },
     {
       "surface": "חמץ",
-      "english": "vinagre"
+      "gloss": "vinagre"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:19.210542618Z",
-  "model": "glm-4.5"
+  ]
 }

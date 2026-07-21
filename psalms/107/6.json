@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 107:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69900,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70486
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:53:42.418167517Z",
   "translation": "Y clamaron ⟨a⟩ YHWH ⟨en⟩ ⟨su⟩ aprieto; desde ⟨las⟩ angustias de ⟨ellos⟩, ⟨Él⟩ los libró.",
   "tokens": [
     {
       "surface": "ויצעקו",
-      "english": "Y clamaron"
+      "gloss": "Y clamaron"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בצר",
-      "english": "⟨en⟩ ⟨su⟩ aprieto"
+      "gloss": "⟨en⟩ ⟨su⟩ aprieto"
     },
     {
       "surface": "להם",
-      "english": "⟨ellos⟩"
+      "gloss": "⟨ellos⟩"
     },
     {
       "surface": "ממצוקותיהם",
-      "english": "desde ⟨las⟩ angustias de ⟨ellos⟩"
+      "gloss": "desde ⟨las⟩ angustias de ⟨ellos⟩"
     },
     {
       "surface": "יצילם",
-      "english": "⟨Él⟩ los libró"
+      "gloss": "⟨Él⟩ los libró"
     }
-  ],
-  "timestamp": "2026-06-09T23:53:42.418167517Z",
-  "model": "glm-4.5"
+  ]
 }

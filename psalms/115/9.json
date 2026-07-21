@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 115:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69808,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70212
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:14.681425976Z",
   "translation": "Yisrael, ⟨is⟩ trusting en ⟨el⟩ Eterno: ⟨el⟩ ayuda de ellos y ⟨el⟩ escudo de ellos ⟨is⟩ él.",
   "tokens": [
     {
       "surface": "יִשְׂרָאֵל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "בְּטַח",
-      "english": "⟨is⟩ trusting"
+      "gloss": "⟨is⟩ trusting"
     },
     {
       "surface": "בַּ\/יהוָה",
-      "english": "en ⟨el⟩ Eterno"
+      "gloss": "en ⟨el⟩ Eterno"
     },
     {
       "surface": "עֶזְרָ֖\/ם",
-      "english": "⟨el⟩ ayuda de ellos"
+      "gloss": "⟨el⟩ ayuda de ellos"
     },
     {
       "surface": "וּ\/מָגִנָּ֣\/ם",
-      "english": "y ⟨el⟩ escudo de ellos"
+      "gloss": "y ⟨el⟩ escudo de ellos"
     },
     {
       "surface": "הֽוּא",
-      "english": "⟨is⟩ él"
+      "gloss": "⟨is⟩ él"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:14.681425976Z",
-  "model": "glm-4.5"
+  ]
 }

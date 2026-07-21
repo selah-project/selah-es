@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 15:9",
   "book": "job",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27071,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27376
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:21.139603425Z",
   "translation": "¿Qué sabes tú que nosotros no sabemos? ¿Qué entiendes tú que ⟨no⟩ ⟨está⟩ ⟨con⟩ nosotros?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "ידעת",
-      "english": "sabes tú"
+      "gloss": "sabes tú"
     },
     {
       "surface": "ולא",
-      "english": "que nosotros"
+      "gloss": "que nosotros"
     },
     {
       "surface": "נדע",
-      "english": "no sabemos"
+      "gloss": "no sabemos"
     },
     {
       "surface": "תבין",
-      "english": "¿Qué entiendes tú"
+      "gloss": "¿Qué entiendes tú"
     },
     {
       "surface": "ולא",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "עמנו",
-      "english": "⟨con⟩ nosotros"
+      "gloss": "⟨con⟩ nosotros"
     },
     {
       "surface": "הוא",
-      "english": "⟨está⟩"
+      "gloss": "⟨está⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:21.139603425Z",
-  "model": "glm-4.5"
+  ]
 }

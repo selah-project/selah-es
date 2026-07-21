@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "daniel 8:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 8,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:05:04.110021210Z",
+  "translation": "Y ⟨el⟩ príncipe ⟨de⟩ ⟨el⟩ ejército ⟨fue⟩ engrandecido y ⟨de⟩ él ⟨fue⟩ quitado ⟨el⟩ continuo ⟨y⟩ ⟨fue⟩ derribado ⟨el⟩ lugar ⟨de⟩ su Mikdash",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "Y"
+    },
+    {
+      "surface": "שר",
+      "gloss": "príncipe"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "de el ejército"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "fue engrandecido"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "y de él"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "fue quitado"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "el continuo"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "y fue derribado"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "el lugar"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "de su Mikdash"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "santuario",
@@ -13,64 +60,6 @@
       "hebrew": "מקדש"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17086,
-    "prompt_tokens_details": {
-      "cached_tokens": 15766
-    },
-    "total_tokens": 17492
-  },
-  "translation": "Y ⟨el⟩ príncipe ⟨de⟩ ⟨el⟩ ejército ⟨fue⟩ engrandecido y ⟨de⟩ él ⟨fue⟩ quitado ⟨el⟩ continuo ⟨y⟩ ⟨fue⟩ derribado ⟨el⟩ lugar ⟨de⟩ su Mikdash",
-  "tokens": [
-    {
-      "surface": "ועד",
-      "english": "Y"
-    },
-    {
-      "surface": "שר",
-      "english": "príncipe"
-    },
-    {
-      "surface": "הצבא",
-      "english": "de el ejército"
-    },
-    {
-      "surface": "הגדיל",
-      "english": "fue engrandecido"
-    },
-    {
-      "surface": "וממנו",
-      "english": "y de él"
-    },
-    {
-      "surface": "הרים",
-      "english": "fue quitado"
-    },
-    {
-      "surface": "התמיד",
-      "english": "el continuo"
-    },
-    {
-      "surface": "והשלך",
-      "english": "y fue derribado"
-    },
-    {
-      "surface": "מכון",
-      "english": "el lugar"
-    },
-    {
-      "surface": "מקדשו",
-      "english": "de su Mikdash"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:05:04.110021210Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

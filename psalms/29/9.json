@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 29:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 609,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70241,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70850
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:11:01.246056269Z",
   "translation": "⟨La⟩ voz de YHWH hace parir a las ciervas, y desvela ⟨los⟩ bosques; y en su Templo todo ⟨lo⟩ dice: '¡Kavod!'",
   "tokens": [
     {
       "surface": "קול",
-      "english": "⟨La⟩ voz"
+      "gloss": "⟨La⟩ voz"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "יחולל",
-      "english": "hace parir"
+      "gloss": "hace parir"
     },
     {
       "surface": "אילות",
-      "english": "a las ciervas"
+      "gloss": "a las ciervas"
     },
     {
       "surface": "ויחשף",
-      "english": "y desvela"
+      "gloss": "y desvela"
     },
     {
       "surface": "יערות",
-      "english": "⟨los⟩ bosques"
+      "gloss": "⟨los⟩ bosques"
     },
     {
       "surface": "ובהיכלו",
-      "english": "y en su Templo"
+      "gloss": "y en su Templo"
     },
     {
       "surface": "כלו",
-      "english": "todo ⟨lo⟩"
+      "gloss": "todo ⟨lo⟩"
     },
     {
       "surface": "אמר",
-      "english": "dice"
+      "gloss": "dice"
     },
     {
       "surface": "כבוד",
-      "english": "'¡Kavod!'"
+      "gloss": "'¡Kavod!'"
     }
-  ],
-  "timestamp": "2026-06-09T23:11:01.246056269Z",
-  "model": "glm-4.5"
+  ]
 }

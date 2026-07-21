@@ -1,100 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-samuel 12:10",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 629,
-    "prompt_tokens": 24956,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 25585
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:38:02.182308255Z",
   "translation": "Y clamaron a YHWH y dijeron: hemos pecado, porque hemos abandonado ⟨a⟩ YHWH y hemos servido ⟨a⟩ los Baales y ⟨a⟩ las Astarot; y ahora líbranos de la mano de nuestros enemigos, y te serviremos.",
   "tokens": [
     {
       "surface": "ויזעקו",
-      "english": "Y clamaron"
+      "gloss": "Y clamaron"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijimos"
+      "gloss": "y dijimos"
     },
     {
       "surface": "חטאנו",
-      "english": "hemos pecado"
+      "gloss": "hemos pecado"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "עזבנו",
-      "english": "hemos abandonado"
+      "gloss": "hemos abandonado"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ונעבד",
-      "english": "y hemos servido"
+      "gloss": "y hemos servido"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "los Baales"
     },
     {
       "surface": "הבעלים",
-      "english": "los Baales"
+      "gloss": "los Baales"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨a⟩",
+      "gloss": "y ⟨a⟩",
       "marks": "las Astarot"
     },
     {
       "surface": "העשתרות",
-      "english": "las Astarot"
+      "gloss": "las Astarot"
     },
     {
       "surface": "ועתה",
-      "english": "y ahora"
+      "gloss": "y ahora"
     },
     {
       "surface": "הצילנו",
-      "english": "líbranos"
+      "gloss": "líbranos"
     },
     {
       "surface": "מיד",
-      "english": "de la mano"
+      "gloss": "de la mano"
     },
     {
       "surface": "איבינו",
-      "english": "de nuestros enemigos"
+      "gloss": "de nuestros enemigos"
     },
     {
       "surface": "ונעבדך",
-      "english": "y te serviremos"
+      "gloss": "y te serviremos"
     }
-  ],
-  "timestamp": "2026-07-16T18:38:02.182308255Z",
-  "model": "glm-4.5"
+  ]
 }

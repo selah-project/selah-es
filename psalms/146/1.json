@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 146:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 347,
-    "prompt_tokens": 69972,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70319
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:45:38.377691950Z",
   "translation": "¡Halelu YHWH! ¡Alaba, ⟨oh⟩ alma mía, a YHWH!",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "¡Halelu"
+      "gloss": "¡Halelu"
     },
     {
       "surface": "יה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הללי",
-      "english": "¡Alaba"
+      "gloss": "¡Alaba"
     },
     {
       "surface": "נפשי",
-      "english": "alma mía"
+      "gloss": "alma mía"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:45:38.377691950Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 19:15",
   "book": "job",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27217,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27674
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:40.293501465Z",
   "translation": "Los residentes de ⟨mi⟩ casa y ⟨mis⟩ siervas me consideran ⟨un⟩ extranjero: ⟨soy⟩ un extraño ⟨a⟩ ⟨sus⟩ ojos.",
   "tokens": [
     {
       "surface": "גרי",
-      "english": "Residentes"
+      "gloss": "Residentes"
     },
     {
       "surface": "ביתי",
-      "english": "⟨mi⟩ casa"
+      "gloss": "⟨mi⟩ casa"
     },
     {
       "surface": "ואמהתי",
-      "english": "y ⟨mis⟩ siervas"
+      "gloss": "y ⟨mis⟩ siervas"
     },
     {
       "surface": "לזר",
-      "english": "⟨un⟩ extranjero"
+      "gloss": "⟨un⟩ extranjero"
     },
     {
       "surface": "תחשבני",
-      "english": "me consideran"
+      "gloss": "me consideran"
     },
     {
       "surface": "נכרי",
-      "english": "extraño"
+      "gloss": "extraño"
     },
     {
       "surface": "הייתי",
-      "english": "⟨soy⟩"
+      "gloss": "⟨soy⟩"
     },
     {
       "surface": "בעיניהם",
-      "english": "⟨a⟩ ⟨sus⟩ ojos"
+      "gloss": "⟨a⟩ ⟨sus⟩ ojos"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:40.293501465Z",
-  "model": "glm-4.5"
+  ]
 }

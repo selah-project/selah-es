@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 25:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 233,
-    "prompt_tokens": 69925,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70158
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:31.175331832Z",
   "translation": "Redime, Elohim, ⟨את⟩ Israel de todas sus angustias.",
   "tokens": [
     {
       "surface": "פדה",
-      "english": "Redime"
+      "gloss": "Redime"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Israel"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "מכל",
-      "english": "de todas"
+      "gloss": "de todas"
     },
     {
       "surface": "צרותיו",
-      "english": "sus angustias"
+      "gloss": "sus angustias"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:31.175331832Z",
-  "model": "glm-4.5"
+  ]
 }

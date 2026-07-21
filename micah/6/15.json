@@ -1,80 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "micah 6:15",
   "book": "micah",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23422,
-    "prompt_tokens_details": {
-      "cached_tokens": 21745
-    },
-    "total_tokens": 23907
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:31:46.698913372Z",
   "translation": "Tú sembrarás y ⟨no⟩ cosecharás tú ⟨caminarás sobre⟩ las olivas y ⟨no⟩ ungirás ⟨con⟩ aceite y mosto y ⟨no⟩ beberás vino",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "תזרע",
-      "english": "sembrarás"
+      "gloss": "sembrarás"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "תקצור",
-      "english": "cosecharás"
+      "gloss": "cosecharás"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "תדרך",
-      "english": "⟨caminarás sobre⟩"
+      "gloss": "⟨caminarás sobre⟩"
     },
     {
       "surface": "זית",
-      "english": "las olivas"
+      "gloss": "las olivas"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "תסוך",
-      "english": "ungirás"
+      "gloss": "ungirás"
     },
     {
       "surface": "שמן",
-      "english": "⟨con⟩ aceite"
+      "gloss": "⟨con⟩ aceite"
     },
     {
       "surface": "ותירוש",
-      "english": "y mosto"
+      "gloss": "y mosto"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "תשתה",
-      "english": "beberás"
+      "gloss": "beberás"
     },
     {
       "surface": "יין",
-      "english": "vino"
+      "gloss": "vino"
     }
-  ],
-  "timestamp": "2026-06-10T00:31:46.698913372Z",
-  "model": "glm-4.5"
+  ]
 }

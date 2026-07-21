@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 29:24",
   "book": "job",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27161,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27687
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:09:18.310037944Z",
   "translation": "Si ⟨yo⟩⟩ reía ⟨את⟩ ⟨ellos⟩, no creían; y ⟨la⟩ luz ⟨de⟩ ⟨mi⟩ rostro ⟨el⟩ ⟨ellos⟩ no hacían caer ⟨a⟩ tierra",
   "tokens": [
     {
       "surface": "אשחק",
-      "english": "Reía"
+      "gloss": "Reía"
     },
     {
       "surface": "אלהם",
-      "english": "⟨ellos⟩"
+      "gloss": "⟨ellos⟩"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יאמינו",
-      "english": "creían"
+      "gloss": "creían"
     },
     {
       "surface": "ואור",
-      "english": "y ⟨la⟩ luz"
+      "gloss": "y ⟨la⟩ luz"
     },
     {
       "surface": "פני",
-      "english": "⟨de⟩ ⟨mi⟩ rostro"
+      "gloss": "⟨de⟩ ⟨mi⟩ rostro"
     },
     {
       "surface": "לא",
-      "english": "⟨el⟩ ⟨ellos⟩ no"
+      "gloss": "⟨el⟩ ⟨ellos⟩ no"
     },
     {
       "surface": "יפילון",
-      "english": "hacían caer ⟨a⟩ tierra"
+      "gloss": "hacían caer ⟨a⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-10T02:09:18.310037944Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "1-samuel 24:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 24,
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:08:59.190493134Z",
+  "translation": "Y Davidd ⟨juró⟩ a Shaúl, y Shaúl fue a su casa, y Davidd y sus hombres subieron a ⟨la⟩ fortaleza",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Y David ⟨juró⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Saúl"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "y Saúl fue"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "su casa"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "y David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "y sus hombres"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "subieron"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "⟨la⟩ fortaleza"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,72 +75,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16209,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16547
-  },
-  "translation": "Y Davidd ⟨juró⟩ a Shaúl, y Shaúl fue a su casa, y Davidd y sus hombres subieron a ⟨la⟩ fortaleza",
-  "tokens": [
-    {
-      "surface": "וישבע",
-      "english": "Y David ⟨juró⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לשאול",
-      "english": "a Saúl"
-    },
-    {
-      "surface": "וילך",
-      "english": "y Saúl fue"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "ביתו",
-      "english": "su casa"
-    },
-    {
-      "surface": "ודוד",
-      "english": "y David"
-    },
-    {
-      "surface": "ואנשיו",
-      "english": "y sus hombres"
-    },
-    {
-      "surface": "עלו",
-      "english": "subieron"
-    },
-    {
-      "surface": "על",
-      "english": "a"
-    },
-    {
-      "surface": "המצודה",
-      "english": "⟨la⟩ fortaleza"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:08:59.190493134Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

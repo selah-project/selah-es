@@ -1,51 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 78:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69686,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70033
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:28.283950923Z",
   "translation": "Y probaron ⟨a⟩ Elohim en ⟨su⟩ corazón al pedir comida para ⟨su⟩ apetito",
   "tokens": [
     {
       "surface": "וינסו",
-      "english": "Y probaron"
+      "gloss": "Y probaron"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩ Elohim",
+      "gloss": "⟨a⟩ Elohim",
       "marks": "Elohim"
     },
     {
       "surface": "בלבבם",
-      "english": "en ⟨su⟩ corazón",
+      "gloss": "en ⟨su⟩ corazón",
       "marks": "ellos"
     },
     {
       "surface": "לשאל",
-      "english": "al pedir"
+      "gloss": "al pedir"
     },
     {
       "surface": "אכל",
-      "english": "comida"
+      "gloss": "comida"
     },
     {
       "surface": "לנפשם",
-      "english": "para ⟨su⟩ apetito",
+      "gloss": "para ⟨su⟩ apetito",
       "marks": "ellos"
     }
-  ],
-  "timestamp": "2026-06-09T23:36:28.283950923Z",
-  "model": "glm-4.5"
+  ]
 }

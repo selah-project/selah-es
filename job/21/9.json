@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 21:9",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27028,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27367
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:45.104199179Z",
   "translation": "Las ⟨casa⟩s de ellos ⟨están⟩ ⟨en⟩ paz sin ⟨temor⟩, y ⟨no⟩ ⟨está⟩ ⟨la⟩ vara de Elohim sobre ellos",
   "tokens": [
     {
       "surface": "בתיהם",
-      "english": "Las ⟨casa⟩s de ellos"
+      "gloss": "Las ⟨casa⟩s de ellos"
     },
     {
       "surface": "שלום",
-      "english": "⟨en⟩ paz"
+      "gloss": "⟨en⟩ paz"
     },
     {
       "surface": "מפחד",
-      "english": "sin ⟨temor⟩"
+      "gloss": "sin ⟨temor⟩"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "שבט",
-      "english": "⟨la⟩ vara"
+      "gloss": "⟨la⟩ vara"
     },
     {
       "surface": "אלוה",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "עליהם",
-      "english": "sobre ellos"
+      "gloss": "sobre ellos"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:45.104199179Z",
-  "model": "glm-4.5"
+  ]
 }

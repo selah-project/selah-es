@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 108:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70144,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70700
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:05.509493517Z",
   "translation": "Moab ⟨is⟩ ⟨the⟩ pot ⟨for⟩ washing; over Edom ⟨I⟩ cast ⟨my⟩ shoe; over Philistia ⟨I⟩ shout ⟨in⟩ triumph.",
   "tokens": [
     {
       "surface": "מואב",
-      "english": "Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "סיר",
-      "english": "⟨the⟩ pot ⟨for⟩ washing"
+      "gloss": "⟨the⟩ pot ⟨for⟩ washing"
     },
     {
       "surface": "רחצי",
-      "english": "⟨for⟩ washing"
+      "gloss": "⟨for⟩ washing"
     },
     {
       "surface": "על",
-      "english": "over"
+      "gloss": "over"
     },
     {
       "surface": "אדום",
-      "english": "Edom"
+      "gloss": "Edom"
     },
     {
       "surface": "אשליך",
-      "english": "⟨I⟩ cast"
+      "gloss": "⟨I⟩ cast"
     },
     {
       "surface": "נעלי",
-      "english": "⟨my⟩ shoe"
+      "gloss": "⟨my⟩ shoe"
     },
     {
       "surface": "עלי",
-      "english": "over"
+      "gloss": "over"
     },
     {
       "surface": "פלשת",
-      "english": "Philistia"
+      "gloss": "Philistia"
     },
     {
       "surface": "אתרועע",
-      "english": "⟨I⟩ shout ⟨in⟩ triumph"
+      "gloss": "⟨I⟩ shout ⟨in⟩ triumph"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:05.509493517Z",
-  "model": "glm-4.5"
+  ]
 }

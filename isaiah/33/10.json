@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 33:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26092,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26482
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:41:11.744993504Z",
   "translation": "Ahora ⟨me⟩ levantaré, dice YHWH, ahora ⟨me⟩ exaltaré, ahora ⟨me⟩ levantaré ⟨en alto⟩",
   "tokens": [
     {
       "surface": "עתה",
-      "english": "Ahora"
+      "gloss": "Ahora"
     },
     {
       "surface": "אקום",
-      "english": "⟨me⟩ levantaré",
+      "gloss": "⟨me⟩ levantaré",
       "marks": "yo"
     },
     {
       "surface": "יאמר",
-      "english": "dice"
+      "gloss": "dice"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עתה",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "ארומם",
-      "english": "⟨me⟩ exaltaré",
+      "gloss": "⟨me⟩ exaltaré",
       "marks": "yo"
     },
     {
       "surface": "עתה",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "אנשא",
-      "english": "⟨me⟩ levantaré ⟨en alto⟩",
+      "gloss": "⟨me⟩ levantaré ⟨en alto⟩",
       "marks": "yo"
     }
-  ],
-  "timestamp": "2026-06-10T02:41:11.744993504Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-kings 15:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:06:19.713154698Z",
+  "translation": "Y Nadab hijo de Yarovám reinó ⟨sobre⟩ Yisrael en el año segundo de Asa, rey de Yehudá; y reinó ⟨sobre⟩ Yisrael dos años.",
+  "tokens": [
+    {
+      "surface": "ונדב",
+      "gloss": "Y Nadab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "de Yarovám"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "en el año"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "segundo"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "de Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "y reinó"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dos años"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeroboam",
@@ -34,84 +101,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62716,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63092
-  },
-  "translation": "Y Nadab hijo de Yarovám reinó ⟨sobre⟩ Yisrael en el año segundo de Asa, rey de Yehudá; y reinó ⟨sobre⟩ Yisrael dos años.",
-  "tokens": [
-    {
-      "surface": "ונדב",
-      "english": "Y Nadab"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "de Yarovám"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בשנת",
-      "english": "en el año"
-    },
-    {
-      "surface": "שתים",
-      "english": "segundo"
-    },
-    {
-      "surface": "לאסא",
-      "english": "de Asa"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "וימלך",
-      "english": "y reinó"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "שנתים",
-      "english": "dos años"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:06:19.713154698Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

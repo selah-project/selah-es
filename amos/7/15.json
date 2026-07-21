@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "amos 7:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 7,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:04:57.843164014Z",
+  "translation": "Y YHWH tomó ⟨a⟩ mí desde tras el rebaño, y YHWH dijo a mí: Ve, profetiza ⟨a⟩ mi pueblo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקחני",
+      "gloss": "Y tomó ⟨a⟩ mí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "desde tras"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "el rebaño"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "profetiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mi pueblo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16497,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 16911
-  },
-  "translation": "Y YHWH tomó ⟨a⟩ mí desde tras el rebaño, y YHWH dijo a mí: Ve, profetiza ⟨a⟩ mi pueblo Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויקחני",
-      "english": "Y tomó ⟨a⟩ mí"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "מאחרי",
-      "english": "desde tras"
-    },
-    {
-      "surface": "הצאן",
-      "english": "el rebaño"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mí"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לך",
-      "english": "Ve"
-    },
-    {
-      "surface": "הנבא",
-      "english": "profetiza"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "עמי",
-      "english": "mi pueblo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:04:57.843164014Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

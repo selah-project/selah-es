@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 69:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 516,
-    "prompt_tokens": 70104,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70620
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:15.161539009Z",
   "translation": "Porque el celo de tu casa me ⟨ha⟩ consumido, y las afrentas de los que te afrentan ⟨han⟩ caído sobre mí",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "קנאת",
-      "english": "el celo"
+      "gloss": "el celo"
     },
     {
       "surface": "ביתך",
-      "english": "de tu casa"
+      "gloss": "de tu casa"
     },
     {
       "surface": "אכלתני",
-      "english": "me ⟨ha⟩ consumido"
+      "gloss": "me ⟨ha⟩ consumido"
     },
     {
       "surface": "וחרפות",
-      "english": "y las afrentas"
+      "gloss": "y las afrentas"
     },
     {
       "surface": "חורפיך",
-      "english": "de los que te afrentan"
+      "gloss": "de los que te afrentan"
     },
     {
       "surface": "נפלו",
-      "english": "⟨han⟩ caído"
+      "gloss": "⟨han⟩ caído"
     },
     {
       "surface": "עלי",
-      "english": "sobre mí"
+      "gloss": "sobre mí"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:15.161539009Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 2:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 406,
-    "prompt_tokens": 69952,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70358
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:32.798592045Z",
   "translation": "Pero yo ⟨he⟩ ungido ⟨a⟩ mi rey sobre Tzión, ⟨el⟩ monte de mi santidad.",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "Pero yo"
+      "gloss": "Pero yo"
     },
     {
       "surface": "נסכתי",
-      "english": "⟨he⟩ ungido"
+      "gloss": "⟨he⟩ ungido"
     },
     {
       "surface": "מלכי",
-      "english": "⟨a⟩ mi rey"
+      "gloss": "⟨a⟩ mi rey"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     },
     {
       "surface": "הר",
-      "english": "⟨el⟩ monte"
+      "gloss": "⟨el⟩ monte"
     },
     {
       "surface": "קדשי",
-      "english": "de mi santidad"
+      "gloss": "de mi santidad"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:32.798592045Z",
-  "model": "glm-4.5"
+  ]
 }

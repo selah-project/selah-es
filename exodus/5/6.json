@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 5:6",
   "book": "exodus",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 587,
-    "prompt_tokens": 24284,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24871
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:09:47.156944647Z",
   "translation": "Y Paró ordenó en el día aquel ⟨a⟩ ⟨los⟩ que oprimen ⟨al⟩ pueblo y ⟨a⟩ ⟨sus⟩ oficiales, diciendo",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "Y ordenó"
+      "gloss": "Y ordenó"
     },
     {
       "surface": "פרעה",
-      "english": "Paró"
+      "gloss": "Paró"
     },
     {
       "surface": "ביום",
-      "english": "en el día"
+      "gloss": "en el día"
     },
     {
       "surface": "ההוא",
-      "english": "aquél"
+      "gloss": "aquél"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "los que oprimen"
     },
     {
       "surface": "הנגשים",
-      "english": "⟨los⟩ que oprimen"
+      "gloss": "⟨los⟩ que oprimen"
     },
     {
       "surface": "בעם",
-      "english": "⟨al⟩ pueblo"
+      "gloss": "⟨al⟩ pueblo"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨a⟩",
+      "gloss": "y ⟨a⟩",
       "marks": "sus oficiales"
     },
     {
       "surface": "שטריו",
-      "english": "⟨sus⟩ oficiales"
+      "gloss": "⟨sus⟩ oficiales"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     }
-  ],
-  "timestamp": "2026-07-16T20:09:47.156944647Z",
-  "model": "glm-4.5"
+  ]
 }

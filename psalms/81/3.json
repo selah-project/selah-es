@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 81:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69921,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70422
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:49.333284672Z",
   "translation": "⟨Levanten⟩ un canto y ⟨toquen⟩ ⟨el⟩ pandero, ⟨la⟩ dulce lira con ⟨el⟩ nébel.",
   "tokens": [
     {
       "surface": "שאו",
-      "english": "⟨Levanten⟩"
+      "gloss": "⟨Levanten⟩"
     },
     {
       "surface": "זמרה",
-      "english": "un canto"
+      "gloss": "un canto"
     },
     {
       "surface": "ותנו",
-      "english": "y ⟨toquen⟩"
+      "gloss": "y ⟨toquen⟩"
     },
     {
       "surface": "תף",
-      "english": "⟨el⟩ pandero"
+      "gloss": "⟨el⟩ pandero"
     },
     {
       "surface": "כנור",
-      "english": "⟨la⟩ dulce lira"
+      "gloss": "⟨la⟩ dulce lira"
     },
     {
       "surface": "נעים",
-      "english": "dulce"
+      "gloss": "dulce"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "נבל",
-      "english": "⟨el⟩ nébel"
+      "gloss": "⟨el⟩ nébel"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:49.333284672Z",
-  "model": "glm-4.5"
+  ]
 }

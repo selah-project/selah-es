@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 13:5",
   "book": "job",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27011,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27504
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:00:19.915243902Z",
   "translation": "¡Quien diera ⟨que⟩ callaran ⟨en⟩ silencio, y ⟨esto⟩ sería para ustedes ⟨como⟩ sabiduría",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¡Quien diera"
+      "gloss": "¡Quien diera"
     },
     {
       "surface": "יתן",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "החרש",
-      "english": "callaran"
+      "gloss": "callaran"
     },
     {
       "surface": "תחרישון",
-      "english": "⟨en⟩ silencio"
+      "gloss": "⟨en⟩ silencio"
     },
     {
       "surface": "ותהי",
-      "english": "y ⟨esto⟩ sería"
+      "gloss": "y ⟨esto⟩ sería"
     },
     {
       "surface": "לכם",
-      "english": "para ustedes"
+      "gloss": "para ustedes"
     },
     {
       "surface": "לחכמה",
-      "english": "⟨como⟩ sabiduría"
+      "gloss": "⟨como⟩ sabiduría"
     }
-  ],
-  "timestamp": "2026-06-10T02:00:19.915243902Z",
-  "model": "glm-4.5"
+  ]
 }

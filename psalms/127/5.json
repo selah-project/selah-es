@@ -1,79 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 127:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 127,
-  "usage": {
-    "completion_tokens": 483,
-    "prompt_tokens": 70734,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71217
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:41.942559289Z",
   "translation": "¡Dichoso ⟨el⟩ varón que ha llenado ⟨את⟩ su aljaba con ellos! No serán avergonzados, cuando hablen con ⟨los⟩ adversarios ⟨en⟩ la puerta.",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Dichoso"
+      "gloss": "¡Dichoso"
     },
     {
       "surface": "הגבר",
-      "english": "⟨el⟩ varón"
+      "gloss": "⟨el⟩ varón"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "מלא",
-      "english": "ha llenado"
+      "gloss": "ha llenado"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su aljaba"
     },
     {
       "surface": "אשפתו",
-      "english": "su aljaba"
+      "gloss": "su aljaba"
     },
     {
       "surface": "מהם",
-      "english": "con ellos"
+      "gloss": "con ellos"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "יבשו",
-      "english": "serán avergonzados"
+      "gloss": "serán avergonzados"
     },
     {
       "surface": "כי",
-      "english": "cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "ידברו",
-      "english": "hablen"
+      "gloss": "hablen"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los adversarios"
     },
     {
       "surface": "אויבים",
-      "english": "⟨los⟩ adversarios"
+      "gloss": "⟨los⟩ adversarios"
     },
     {
       "surface": "בשער",
-      "english": "⟨en⟩ la puerta"
+      "gloss": "⟨en⟩ la puerta"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:41.942559289Z",
-  "model": "glm-4.5"
+  ]
 }

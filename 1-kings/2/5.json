@@ -1,9 +1,161 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-kings 2:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 2,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:45:12.021934397Z",
+  "translation": "Y también tú sabes ⟨lo que⟩ ⟨את⟩ hizo a mí Yoav ⟨el⟩ hijo de Tzruyá, ⟨lo que⟩ hizo a dos jefes ⟨de⟩ ⟨los⟩ ejércitos de Yisrael, a Avner ⟨el⟩ hijo de Ner y a Amasá ⟨el⟩ hijo de Yéter, a quienes mató, y puso ⟨la⟩ sangre ⟨de⟩ guerra en ⟨el⟩ shalom, y puso ⟨la⟩ sangre ⟨de⟩ guerra en ⟨su⟩ faldón que ⟨estaba⟩ sobre sus lomos, y en ⟨su⟩ sandalia que ⟨estaba⟩ sobre ⟨sus⟩ pies",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Y también"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tú"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sabes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨lo que⟩",
+      "marks": "lo que hizo a mí Yoav ⟨el⟩ hijo de Tzruyá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨lo que⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨el⟩ hijo"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "de Tzruyá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨lo que⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "a dos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "jefes"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "⟨de⟩ ⟨los⟩ ejércitos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "a Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨el⟩ hijo"
+    },
+    {
+      "surface": "נר",
+      "gloss": "de Ner"
+    },
+    {
+      "surface": "ולעמשא",
+      "gloss": "y a Amasá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨el⟩ hijo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "de Yéter"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "a quienes mató"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "y puso"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "⟨la⟩ sangre"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨de⟩ guerra"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "en ⟨el⟩ shalom"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "y puso"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "⟨la⟩ sangre"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨de⟩ guerra"
+    },
+    {
+      "surface": "בחגרתו",
+      "gloss": "en ⟨su⟩ faldón"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que ⟨estaba⟩"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "sobre sus lomos"
+    },
+    {
+      "surface": "ובנעלו",
+      "gloss": "y en ⟨su⟩ sandalia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que ⟨estaba⟩"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sobre ⟨sus⟩ pies"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,169 +165,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 1122,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64937,
-    "prompt_tokens_details": {
-      "cached_tokens": 60967
-    },
-    "total_tokens": 66059
-  },
-  "translation": "Y también tú sabes ⟨lo que⟩ ⟨את⟩ hizo a mí Yoav ⟨el⟩ hijo de Tzruyá, ⟨lo que⟩ hizo a dos jefes ⟨de⟩ ⟨los⟩ ejércitos de Yisrael, a Avner ⟨el⟩ hijo de Ner y a Amasá ⟨el⟩ hijo de Yéter, a quienes mató, y puso ⟨la⟩ sangre ⟨de⟩ guerra en ⟨el⟩ shalom, y puso ⟨la⟩ sangre ⟨de⟩ guerra en ⟨su⟩ faldón que ⟨estaba⟩ sobre sus lomos, y en ⟨su⟩ sandalia que ⟨estaba⟩ sobre ⟨sus⟩ pies",
-  "tokens": [
-    {
-      "surface": "וגם",
-      "english": "Y también"
-    },
-    {
-      "surface": "אתה",
-      "english": "tú"
-    },
-    {
-      "surface": "ידעת",
-      "english": "sabes"
-    },
-    {
-      "surface": "את",
-      "english": "⟨lo que⟩",
-      "marks": "lo que hizo a mí Yoav ⟨el⟩ hijo de Tzruyá"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨lo que⟩"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo"
-    },
-    {
-      "surface": "לי",
-      "english": "a mí"
-    },
-    {
-      "surface": "יואב",
-      "english": "Yoav"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨el⟩ hijo"
-    },
-    {
-      "surface": "צרויה",
-      "english": "de Tzruyá"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨lo que⟩"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo"
-    },
-    {
-      "surface": "לשני",
-      "english": "a dos"
-    },
-    {
-      "surface": "שרי",
-      "english": "jefes"
-    },
-    {
-      "surface": "צבאות",
-      "english": "⟨de⟩ ⟨los⟩ ejércitos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לאבנר",
-      "english": "a Avner"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨el⟩ hijo"
-    },
-    {
-      "surface": "נר",
-      "english": "de Ner"
-    },
-    {
-      "surface": "ולעמשא",
-      "english": "y a Amasá"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨el⟩ hijo"
-    },
-    {
-      "surface": "יתר",
-      "english": "de Yéter"
-    },
-    {
-      "surface": "ויהרגם",
-      "english": "a quienes mató"
-    },
-    {
-      "surface": "וישם",
-      "english": "y puso"
-    },
-    {
-      "surface": "דמי",
-      "english": "⟨la⟩ sangre"
-    },
-    {
-      "surface": "מלחמה",
-      "english": "⟨de⟩ guerra"
-    },
-    {
-      "surface": "בשלם",
-      "english": "en ⟨el⟩ shalom"
-    },
-    {
-      "surface": "ויתן",
-      "english": "y puso"
-    },
-    {
-      "surface": "דמי",
-      "english": "⟨la⟩ sangre"
-    },
-    {
-      "surface": "מלחמה",
-      "english": "⟨de⟩ guerra"
-    },
-    {
-      "surface": "בחגרתו",
-      "english": "en ⟨su⟩ faldón"
-    },
-    {
-      "surface": "אשר",
-      "english": "que ⟨estaba⟩"
-    },
-    {
-      "surface": "במתניו",
-      "english": "sobre sus lomos"
-    },
-    {
-      "surface": "ובנעלו",
-      "english": "y en ⟨su⟩ sandalia"
-    },
-    {
-      "surface": "אשר",
-      "english": "que ⟨estaba⟩"
-    },
-    {
-      "surface": "ברגליו",
-      "english": "sobre ⟨sus⟩ pies"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:45:12.021934397Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

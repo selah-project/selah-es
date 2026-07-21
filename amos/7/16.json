@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "amos 7:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 7,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:05:02.120685621Z",
+  "translation": "Y ahora ⟨escucha⟩ ⟨la⟩ palabra de YHWH: Tú dices: 'No profetices contra Yisrael y no gotees ⟨palabra⟩ contra ⟨la⟩ casa de Itzjak'.",
+  "tokens": [
+    {
+      "surface": "וְ\/עַתָּ֖ה",
+      "gloss": "Y ahora"
+    },
+    {
+      "surface": "שְׁמַ֣ע",
+      "gloss": "⟨escucha⟩"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "⟨la⟩ palabra"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "Tú"
+    },
+    {
+      "surface": "אֹמֵ֗ר",
+      "gloss": "dices"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "No"
+    },
+    {
+      "surface": "תִנָּבֵא֙",
+      "gloss": "profetices"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וְ\/לֹ֥א",
+      "gloss": "y no"
+    },
+    {
+      "surface": "תַטִּ֖יף",
+      "gloss": "gotees"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "⟨la⟩ casa"
+    },
+    {
+      "surface": "יִשְׂחָֽק",
+      "gloss": "de Itzjak"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16756,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 17349
-  },
-  "translation": "Y ahora ⟨escucha⟩ ⟨la⟩ palabra de YHWH: Tú dices: 'No profetices contra Yisrael y no gotees ⟨palabra⟩ contra ⟨la⟩ casa de Itzjak'.",
-  "tokens": [
-    {
-      "surface": "וְ\/עַתָּ֖ה",
-      "english": "Y ahora"
-    },
-    {
-      "surface": "שְׁמַ֣ע",
-      "english": "⟨escucha⟩"
-    },
-    {
-      "surface": "דְּבַר",
-      "english": "⟨la⟩ palabra"
-    },
-    {
-      "surface": "יְהוָ֑ה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אַתָּ֣ה",
-      "english": "Tú"
-    },
-    {
-      "surface": "אֹמֵ֗ר",
-      "english": "dices"
-    },
-    {
-      "surface": "לֹ֤א",
-      "english": "No"
-    },
-    {
-      "surface": "תִנָּבֵא֙",
-      "english": "profetices"
-    },
-    {
-      "surface": "עַל",
-      "english": "contra"
-    },
-    {
-      "surface": "יִשְׂרָאֵ֔ל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וְ\/לֹ֥א",
-      "english": "y no"
-    },
-    {
-      "surface": "תַטִּ֖יף",
-      "english": "gotees"
-    },
-    {
-      "surface": "עַל",
-      "english": "contra"
-    },
-    {
-      "surface": "בֵּ֥ית",
-      "english": "⟨la⟩ casa"
-    },
-    {
-      "surface": "יִשְׂחָֽק",
-      "english": "de Itzjak"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:05:02.120685621Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

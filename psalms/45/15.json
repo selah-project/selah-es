@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 45:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 430,
-    "prompt_tokens": 70110,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70540
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:28:02.240016218Z",
   "translation": "En bordados ⟨es⟩ traída ⟨al⟩ rey; las vírgenes, sus compañeras ⟨que están⟩ tras ella, ⟨son⟩ traídas a ti.",
   "tokens": [
     {
       "surface": "לרקמות",
-      "english": "en bordados"
+      "gloss": "en bordados"
     },
     {
       "surface": "תובל",
-      "english": "traída"
+      "gloss": "traída"
     },
     {
       "surface": "למלך",
-      "english": "⟨al⟩ rey"
+      "gloss": "⟨al⟩ rey"
     },
     {
       "surface": "בתולות",
-      "english": "las vírgenes"
+      "gloss": "las vírgenes"
     },
     {
       "surface": "אחריה",
-      "english": "tras ella"
+      "gloss": "tras ella"
     },
     {
       "surface": "רעותיה",
-      "english": "sus compañeras"
+      "gloss": "sus compañeras"
     },
     {
       "surface": "מובאות",
-      "english": "traídas"
+      "gloss": "traídas"
     },
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     }
-  ],
-  "timestamp": "2026-07-21T02:28:02.240016218Z",
-  "model": "glm-4.5"
+  ]
 }

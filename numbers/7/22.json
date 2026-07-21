@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "numbers 7:22",
   "book": "numbers",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24655,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 24926
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:44:37.195352740Z",
   "translation": "un macho ⟨de⟩ cabra ⟨como⟩ ⟨una⟩ ofrenda por ⟨el⟩ pecado",
   "tokens": [
     {
       "surface": "שעיר",
-      "english": "Un macho de cabra"
+      "gloss": "Un macho de cabra"
     },
     {
       "surface": "עזים",
-      "english": "de cabra"
+      "gloss": "de cabra"
     },
     {
       "surface": "אחד",
-      "english": "⟨como⟩ una"
+      "gloss": "⟨como⟩ una"
     },
     {
       "surface": "לחטאת",
-      "english": "ofrenda por el pecado"
+      "gloss": "ofrenda por el pecado"
     }
-  ],
-  "timestamp": "2026-06-10T04:44:37.195352740Z",
-  "model": "glm-4.5"
+  ]
 }

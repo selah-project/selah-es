@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "1-kings 13:19",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 287,
-    "prompt_tokens": 69368,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 69655
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:41:52.544457343Z",
   "translation": "Y volvió con él, y comió pan en su casa, y bebió agua.",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "Y volvió"
+      "gloss": "Y volvió"
     },
     {
       "surface": "אתו",
-      "english": "con él",
+      "gloss": "con él",
       "marks": "con él"
     },
     {
       "surface": "ויאכל",
-      "english": "y comió"
+      "gloss": "y comió"
     },
     {
       "surface": "לחם",
-      "english": "pan"
+      "gloss": "pan"
     },
     {
       "surface": "בביתו",
-      "english": "en su casa"
+      "gloss": "en su casa"
     },
     {
       "surface": "וישת",
-      "english": "y bebió"
+      "gloss": "y bebió"
     },
     {
       "surface": "מים",
-      "english": "agua"
+      "gloss": "agua"
     }
-  ],
-  "timestamp": "2026-07-17T00:41:52.544457343Z",
-  "model": "glm-4.5"
+  ]
 }

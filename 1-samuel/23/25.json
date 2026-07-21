@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-samuel 23:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 23,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:08:09.090644351Z",
+  "translation": "Y Shaul fue ⟨con⟩ sus hombres a buscar, y ⟨lo⟩ comunicaron a Davidd; y él descendió ⟨al⟩ peñasco y se sentó en ⟨el⟩ desierto de Maón. Y Shaul oyó, y persiguió tras Davidd en ⟨el⟩ desierto de Maón.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Y"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "⟨con⟩ sus hombres"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "a buscar"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "y ⟨lo⟩ comunicaron"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "y él descendió"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "⟨al⟩ peñasco"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "y se sentó"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "en ⟨el⟩ desierto"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "de Maón"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Y Shaul oyó"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "y persiguió"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "tras"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "en ⟨el⟩ desierto"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "de Maón"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,96 +92,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 672,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17125,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17797
-  },
-  "translation": "Y Shaul fue ⟨con⟩ sus hombres a buscar, y ⟨lo⟩ comunicaron a Davidd; y él descendió ⟨al⟩ peñasco y se sentó en ⟨el⟩ desierto de Maón. Y Shaul oyó, y persiguió tras Davidd en ⟨el⟩ desierto de Maón.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "Y"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "ואנשיו",
-      "english": "⟨con⟩ sus hombres"
-    },
-    {
-      "surface": "לבקש",
-      "english": "a buscar"
-    },
-    {
-      "surface": "ויגדו",
-      "english": "y ⟨lo⟩ comunicaron"
-    },
-    {
-      "surface": "לדוד",
-      "english": "a David"
-    },
-    {
-      "surface": "וירד",
-      "english": "y él descendió"
-    },
-    {
-      "surface": "הסלע",
-      "english": "⟨al⟩ peñasco"
-    },
-    {
-      "surface": "ואשב",
-      "english": "y se sentó"
-    },
-    {
-      "surface": "במדבר",
-      "english": "en ⟨el⟩ desierto"
-    },
-    {
-      "surface": "מעון",
-      "english": "de Maón"
-    },
-    {
-      "surface": "וישמע",
-      "english": "Y Shaul oyó"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "וירדף",
-      "english": "y persiguió"
-    },
-    {
-      "surface": "אחרי",
-      "english": "tras"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מדבר",
-      "english": "en ⟨el⟩ desierto"
-    },
-    {
-      "surface": "מעון",
-      "english": "de Maón"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:08:09.090644351Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

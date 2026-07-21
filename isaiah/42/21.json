@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 42:21",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26055,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26578
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:47:10.705127427Z",
   "translation": "YHWH ha elegido ⟨por⟩ causa de su justicia ⟨para⟩ magnificar ⟨la⟩ Torá y ⟨la⟩ hacer gloriosa.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חפץ",
-      "english": "ha elegido"
+      "gloss": "ha elegido"
     },
     {
       "surface": "למען",
-      "english": "⟨por⟩ causa de"
+      "gloss": "⟨por⟩ causa de"
     },
     {
       "surface": "צדקו",
-      "english": "su justicia"
+      "gloss": "su justicia"
     },
     {
       "surface": "יגדיל",
-      "english": "⟨para⟩ magnificar"
+      "gloss": "⟨para⟩ magnificar"
     },
     {
       "surface": "תורה",
-      "english": "⟨la⟩ Torá"
+      "gloss": "⟨la⟩ Torá"
     },
     {
       "surface": "ויאדיר",
-      "english": "y ⟨la⟩ hacer gloriosa"
+      "gloss": "y ⟨la⟩ hacer gloriosa"
     }
-  ],
-  "timestamp": "2026-06-10T02:47:10.705127427Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 8:2",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 26660,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27033
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:23:11.181918024Z",
   "translation": "Y tomaré para mí testigos fieles ⟨para que testifiquen⟩: a Uriyá el kohen, ⟨את⟩ y a Zekharyá hijo de Yeverekyahu.",
   "tokens": [
     {
       "surface": "ואעידה",
-      "english": "Y tomaré"
+      "gloss": "Y tomaré"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "עדים",
-      "english": "testigos"
+      "gloss": "testigos"
     },
     {
       "surface": "נאמנים",
-      "english": "fieles"
+      "gloss": "fieles"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Uriyá"
     },
     {
       "surface": "אוריה",
-      "english": "Uriyá"
+      "gloss": "Uriyá"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Zekharyá"
     },
     {
       "surface": "זכריהו",
-      "english": "Zekharyá"
+      "gloss": "Zekharyá"
     },
     {
       "surface": "בן",
-      "english": "hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "יברכיהו",
-      "english": "de Yeverekyahu"
+      "gloss": "de Yeverekyahu"
     }
-  ],
-  "timestamp": "2026-07-16T21:23:11.181918024Z",
-  "model": "glm-4.5"
+  ]
 }

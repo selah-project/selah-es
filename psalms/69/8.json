@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 69:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69876,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70329
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:31.717423440Z",
   "translation": "Porque por tu causa ⟨את⟩ ⟨la⟩ vergüenza he cargado, ⟨el⟩ oprobio ⟨ha⟩ cubierto ⟨mi⟩ rostro.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "עליך",
-      "english": "por tu causa"
+      "gloss": "por tu causa"
     },
     {
       "surface": "נשאתי",
-      "english": "⟨he⟩ cargado"
+      "gloss": "⟨he⟩ cargado"
     },
     {
       "surface": "חרפה",
-      "english": "vergüenza",
+      "gloss": "vergüenza",
       "marks": "vergüenza"
     },
     {
       "surface": "כסתה",
-      "english": "⟨ha⟩ cubierto"
+      "gloss": "⟨ha⟩ cubierto"
     },
     {
       "surface": "כלמה",
-      "english": "oprobio"
+      "gloss": "oprobio"
     },
     {
       "surface": "פני",
-      "english": "⟨mi⟩ rostro"
+      "gloss": "⟨mi⟩ rostro"
     }
-  ],
-  "timestamp": "2026-06-09T23:31:31.717423440Z",
-  "model": "glm-4.5"
+  ]
 }

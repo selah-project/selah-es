@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 41:24",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26968,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27317
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:19:20.649426894Z",
   "translation": "Tras él hace brillar ⟨el⟩ camino; ⟨el⟩ abismo ⟨está⟩ como cana ⟨para⟩ vejez.",
   "tokens": [
     {
       "surface": "אחריו",
-      "english": "Tras él"
+      "gloss": "Tras él"
     },
     {
       "surface": "יאיר",
-      "english": "hace brillar"
+      "gloss": "hace brillar"
     },
     {
       "surface": "נתיב",
-      "english": "⟨el⟩ camino"
+      "gloss": "⟨el⟩ camino"
     },
     {
       "surface": "יחשב",
-      "english": "⟨el⟩ abismo"
+      "gloss": "⟨el⟩ abismo"
     },
     {
       "surface": "תהום",
-      "english": "⟨está⟩ como cana"
+      "gloss": "⟨está⟩ como cana"
     },
     {
       "surface": "לשיבה",
-      "english": "⟨para⟩ vejez"
+      "gloss": "⟨para⟩ vejez"
     }
-  ],
-  "timestamp": "2026-06-10T02:19:20.649426894Z",
-  "model": "glm-4.5"
+  ]
 }

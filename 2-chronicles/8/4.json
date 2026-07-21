@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 8:4",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 494,
-    "prompt_tokens": 65555,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 66049
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:51:21.097805611Z",
   "translation": "Y ⟨את⟩ construyó Tadmor en el desierto, y ⟨את⟩ todas las ciudades de las provisiones que ⟨él⟩ construyó en Jamat",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "Y ⟨את⟩ construyó"
+      "gloss": "Y ⟨את⟩ construyó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Tadmor"
     },
     {
       "surface": "תדמר",
-      "english": "Tadmor"
+      "gloss": "Tadmor"
     },
     {
       "surface": "במדבר",
-      "english": "en el desierto"
+      "gloss": "en el desierto"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩"
+      "gloss": "y ⟨את⟩"
     },
     {
       "surface": "כל",
-      "english": "todas",
+      "gloss": "todas",
       "marks": "las ciudades de las provisiones"
     },
     {
       "surface": "ערי",
-      "english": "las ciudades"
+      "gloss": "las ciudades"
     },
     {
       "surface": "המסכנות",
-      "english": "de las provisiones"
+      "gloss": "de las provisiones"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בנה",
-      "english": "construyó"
+      "gloss": "construyó"
     },
     {
       "surface": "בחמת",
-      "english": "en Jamat"
+      "gloss": "en Jamat"
     }
-  ],
-  "timestamp": "2026-07-16T18:51:21.097805611Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 49:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 532,
-    "prompt_tokens": 70122,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70654
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:22.527868004Z",
   "translation": "pues no en su muerte tomará ⟨את⟩ lo todo; no descenderá tras él su gloria",
   "tokens": [
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "במותו",
-      "english": "en su muerte"
+      "gloss": "en su muerte"
     },
     {
       "surface": "יקח",
-      "english": "tomará"
+      "gloss": "tomará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lo todo"
     },
     {
       "surface": "הכל",
-      "english": "lo todo"
+      "gloss": "lo todo"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ירד",
-      "english": "descenderá"
+      "gloss": "descenderá"
     },
     {
       "surface": "אחריו",
-      "english": "tras él"
+      "gloss": "tras él"
     },
     {
       "surface": "כבודו",
-      "english": "su gloria"
+      "gloss": "su gloria"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:22.527868004Z",
-  "model": "glm-4.5"
+  ]
 }

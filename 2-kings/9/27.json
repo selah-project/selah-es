@@ -1,9 +1,122 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "2-kings 9:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 9,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:29:37.165144386Z",
+  "translation": "Y Ocozías, ⟨el⟩ rey de Yehudá, ⟨esto⟩ vio, y huyó ⟨el⟩ camino de ⟨la⟩ casa del jardín; y Yehu ⟨lo⟩ persiguió después de él, y dijo: '⟨También⟩ a ⟨este⟩ ⟨את⟩ hiyan en el carro.' ⟨Y⟩ ⟨lo⟩ hirieron en ⟨el⟩ ascenso de Gur, que ⟨está⟩ cerca de Ibleam ⟨את⟩. Y huyó a Meguido, y murió allí.",
+  "tokens": [
+    {
+      "surface": "ואחזיה",
+      "gloss": "Y Ocozías"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "⟨esto⟩ vio"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "y huyó"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨el⟩ camino"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de ⟨la⟩ casa"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "del jardín"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "y Jehú ⟨lo⟩ persiguió"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "después de él"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "y Yehu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "'⟨También⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "a ⟨este⟩ ⟨את⟩",
+      "marks": "הכהו"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "hiyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "⟨el⟩ carro"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "en ⟨el⟩ ascenso"
+    },
+    {
+      "surface": "גור",
+      "gloss": "de Gur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que ⟨está⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "cerca de ⟨את⟩",
+      "marks": "יבלעם"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "Ibleam"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "Y huyó"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "a Meguido"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "y murió"
+    },
+    {
+      "surface": "שם",
+      "gloss": "allí"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,130 +133,6 @@
       "hebrew": "יהוא"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 865,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18481,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 19346
-  },
-  "translation": "Y Ocozías, ⟨el⟩ rey de Yehudá, ⟨esto⟩ vio, y huyó ⟨el⟩ camino de ⟨la⟩ casa del jardín; y Yehu ⟨lo⟩ persiguió después de él, y dijo: '⟨También⟩ a ⟨este⟩ ⟨את⟩ hiyan en el carro.' ⟨Y⟩ ⟨lo⟩ hirieron en ⟨el⟩ ascenso de Gur, que ⟨está⟩ cerca de Ibleam ⟨את⟩. Y huyó a Meguido, y murió allí.",
-  "tokens": [
-    {
-      "surface": "ואחזיה",
-      "english": "Y Ocozías"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ראה",
-      "english": "⟨esto⟩ vio"
-    },
-    {
-      "surface": "וינס",
-      "english": "y huyó"
-    },
-    {
-      "surface": "דרך",
-      "english": "⟨el⟩ camino"
-    },
-    {
-      "surface": "בית",
-      "english": "de ⟨la⟩ casa"
-    },
-    {
-      "surface": "הגן",
-      "english": "del jardín"
-    },
-    {
-      "surface": "וירדף",
-      "english": "y Jehú ⟨lo⟩ persiguió"
-    },
-    {
-      "surface": "אחריו",
-      "english": "después de él"
-    },
-    {
-      "surface": "יהוא",
-      "english": "y Yehu"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "dijo"
-    },
-    {
-      "surface": "גם",
-      "english": "'⟨También⟩"
-    },
-    {
-      "surface": "אתו",
-      "english": "a ⟨este⟩ ⟨את⟩",
-      "marks": "הכהו"
-    },
-    {
-      "surface": "הכהו",
-      "english": "hiyan"
-    },
-    {
-      "surface": "אל",
-      "english": "en"
-    },
-    {
-      "surface": "המרכבה",
-      "english": "⟨el⟩ carro"
-    },
-    {
-      "surface": "במעלה",
-      "english": "en ⟨el⟩ ascenso"
-    },
-    {
-      "surface": "גור",
-      "english": "de Gur"
-    },
-    {
-      "surface": "אשר",
-      "english": "que ⟨está⟩"
-    },
-    {
-      "surface": "את",
-      "english": "cerca de ⟨את⟩",
-      "marks": "יבלעם"
-    },
-    {
-      "surface": "יבלעם",
-      "english": "Ibleam"
-    },
-    {
-      "surface": "וינס",
-      "english": "Y huyó"
-    },
-    {
-      "surface": "מגדו",
-      "english": "a Meguido"
-    },
-    {
-      "surface": "וימת",
-      "english": "y murió"
-    },
-    {
-      "surface": "שם",
-      "english": "allí"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:29:37.165144386Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

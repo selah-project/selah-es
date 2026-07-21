@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 14:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 14,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:56:35.566353434Z",
+  "translation": "Y Ahías, hijo de Ajitub, hermano de Icabod, hijo de Fineas, hijo de Elí, Kohen de YHWH en Silo, llevando ⟨el⟩ Efod; y ⟨el⟩ pueblo no sabía que Jonatán se había ido.",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "Y Ahías"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo de"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ajitub"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hermano de"
+    },
+    {
+      "surface": "איכבוד",
+      "gloss": "Icabod"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo de"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Fineas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo de"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elí"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "Kohen de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "en Silo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "llevando"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "⟨el⟩ Efod"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "y ⟨el⟩ pueblo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sabía"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "se había ido"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatán"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -20,104 +107,6 @@
       "hebrew": "אפוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 623,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17323,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17946
-  },
-  "translation": "Y Ahías, hijo de Ajitub, hermano de Icabod, hijo de Fineas, hijo de Elí, Kohen de YHWH en Silo, llevando ⟨el⟩ Efod; y ⟨el⟩ pueblo no sabía que Jonatán se había ido.",
-  "tokens": [
-    {
-      "surface": "ואחיה",
-      "english": "Y Ahías"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo de"
-    },
-    {
-      "surface": "אחטוב",
-      "english": "Ajitub"
-    },
-    {
-      "surface": "אחי",
-      "english": "hermano de"
-    },
-    {
-      "surface": "איכבוד",
-      "english": "Icabod"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo de"
-    },
-    {
-      "surface": "פינחס",
-      "english": "Fineas"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo de"
-    },
-    {
-      "surface": "עלי",
-      "english": "Elí"
-    },
-    {
-      "surface": "כהן",
-      "english": "Kohen de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "בשלו",
-      "english": "en Silo"
-    },
-    {
-      "surface": "נשא",
-      "english": "llevando"
-    },
-    {
-      "surface": "אפוד",
-      "english": "⟨el⟩ Efod"
-    },
-    {
-      "surface": "והעם",
-      "english": "y ⟨el⟩ pueblo"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "ידע",
-      "english": "sabía"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "הלך",
-      "english": "se había ido"
-    },
-    {
-      "surface": "יונתן",
-      "english": "Jonatán"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:56:35.566353434Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

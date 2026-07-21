@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 72:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69895,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70285
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:08.365353738Z",
   "translation": "Te temerán ⟨como⟩ el sol ⟨y⟩ ⟨en⟩ ⟨la⟩ presencia de ⟨la⟩ luna, ⟨por⟩ generaciones ⟨de⟩ generaciones.",
   "tokens": [
     {
       "surface": "ייראוך",
-      "english": "Te temerán"
+      "gloss": "Te temerán"
     },
     {
       "surface": "עם",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "שמש",
-      "english": "el sol"
+      "gloss": "el sol"
     },
     {
       "surface": "ולפני",
-      "english": "⟨y⟩ ⟨en⟩ ⟨la⟩ presencia de"
+      "gloss": "⟨y⟩ ⟨en⟩ ⟨la⟩ presencia de"
     },
     {
       "surface": "ירח",
-      "english": "⟨la⟩ luna"
+      "gloss": "⟨la⟩ luna"
     },
     {
       "surface": "דור",
-      "english": "⟨por⟩ generaciones"
+      "gloss": "⟨por⟩ generaciones"
     },
     {
       "surface": "דורים",
-      "english": "⟨de⟩ generaciones"
+      "gloss": "⟨de⟩ generaciones"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:08.365353738Z",
-  "model": "glm-4.5"
+  ]
 }

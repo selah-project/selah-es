@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 34:8",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26041,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26538
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:42:00.987558332Z",
   "translation": "Porque ⟨es⟩ día de venganza para YHWH, año de recompensas ⟨por⟩ la controversia de Tzión.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יום",
-      "english": "día"
+      "gloss": "día"
     },
     {
       "surface": "נקם",
-      "english": "de venganza"
+      "gloss": "de venganza"
     },
     {
       "surface": "ליהוה",
-      "english": "para YHWH"
+      "gloss": "para YHWH"
     },
     {
       "surface": "שנת",
-      "english": "año"
+      "gloss": "año"
     },
     {
       "surface": "שלומים",
-      "english": "de recompensas"
+      "gloss": "de recompensas"
     },
     {
       "surface": "לריב",
-      "english": "⟨por⟩ la controversia",
+      "gloss": "⟨por⟩ la controversia",
       "marks": "la controversia de Tzión"
     },
     {
       "surface": "ציון",
-      "english": "de Tzión"
+      "gloss": "de Tzión"
     }
-  ],
-  "timestamp": "2026-06-10T02:42:00.987558332Z",
-  "model": "glm-4.5"
+  ]
 }

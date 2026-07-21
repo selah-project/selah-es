@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "exodus 9:5",
   "book": "exodus",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 539,
-    "prompt_tokens": 24152,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24691
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:33:42.114609239Z",
   "translation": "Y YHWH puso una cita ⟨para⟩ decir: mañana YHWH hará ⟨el⟩ davar este en ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "וישם",
-      "english": "Y YHWH puso"
+      "gloss": "Y YHWH puso"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מועד",
-      "english": "una cita"
+      "gloss": "una cita"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ decir"
+      "gloss": "⟨para⟩ decir"
     },
     {
       "surface": "מחר",
-      "english": "mañana"
+      "gloss": "mañana"
     },
     {
       "surface": "יעשה",
-      "english": "YHWH hará"
+      "gloss": "YHWH hará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הדבר",
-      "english": "⟨el⟩ davar"
+      "gloss": "⟨el⟩ davar"
     },
     {
       "surface": "הזה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-07-17T00:33:42.114609239Z",
-  "model": "glm-4.5"
+  ]
 }

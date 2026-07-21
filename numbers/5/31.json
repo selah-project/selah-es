@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "numbers 5:31",
   "book": "numbers",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 25158,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25581
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:58:15.042652451Z",
   "translation": "y el hombre será absuelto de ⟨la⟩ iniquidad, y aquella mujer cargará ⟨את⟩ su iniquidad",
   "tokens": [
     {
       "surface": "ונקה",
-      "english": "y el hombre será absuelto"
+      "gloss": "y el hombre será absuelto"
     },
     {
       "surface": "האיש",
-      "english": "el hombre"
+      "gloss": "el hombre"
     },
     {
       "surface": "מעון",
-      "english": "de ⟨la⟩ iniquidad"
+      "gloss": "de ⟨la⟩ iniquidad"
     },
     {
       "surface": "והאשה",
-      "english": "y aquella mujer"
+      "gloss": "y aquella mujer"
     },
     {
       "surface": "ההוא",
-      "english": "aquella"
+      "gloss": "aquella"
     },
     {
       "surface": "תשא",
-      "english": "cargará"
+      "gloss": "cargará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su iniquidad"
     },
     {
       "surface": "עונה",
-      "english": "su iniquidad"
+      "gloss": "su iniquidad"
     }
-  ],
-  "timestamp": "2026-07-16T22:58:15.042652451Z",
-  "model": "glm-4.5"
+  ]
 }

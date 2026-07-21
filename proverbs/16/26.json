@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "proverbs 16:26",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59897,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60265
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:40:34.087616004Z",
   "translation": "El alma del trabajador trabaja para ⟨él mismo⟩ porque su ⟨boca⟩ lo compele",
   "tokens": [
     {
       "surface": "נפש",
-      "english": "El alma"
+      "gloss": "El alma"
     },
     {
       "surface": "עמל",
-      "english": "del trabajador"
+      "gloss": "del trabajador"
     },
     {
       "surface": "עמלה",
-      "english": "trabaja"
+      "gloss": "trabaja"
     },
     {
       "surface": "לו",
-      "english": "para ⟨él mismo⟩"
+      "gloss": "para ⟨él mismo⟩"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אכף",
-      "english": "compela"
+      "gloss": "compela"
     },
     {
       "surface": "עליו",
-      "english": "lo"
+      "gloss": "lo"
     },
     {
       "surface": "פיהו",
-      "english": "su ⟨boca⟩"
+      "gloss": "su ⟨boca⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:40:34.087616004Z",
-  "model": "glm-4.5"
+  ]
 }

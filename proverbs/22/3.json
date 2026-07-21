@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 22:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59853,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60353
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:45:08.833267761Z",
   "translation": "El prudente ve ⟨el⟩ mal y se esconde, pero ⟨los⟩ simples pasan ⟨por⟩ ⟨el⟩ peligro y son castigados.",
   "tokens": [
     {
       "surface": "ערום",
-      "english": "El prudente"
+      "gloss": "El prudente"
     },
     {
       "surface": "ראה",
-      "english": "ve"
+      "gloss": "ve"
     },
     {
       "surface": "רעה",
-      "english": "⟨el⟩ mal"
+      "gloss": "⟨el⟩ mal"
     },
     {
       "surface": "ויסתר",
-      "english": "y se esconde"
+      "gloss": "y se esconde"
     },
     {
       "surface": "ופתיים",
-      "english": "pero ⟨los⟩ simples"
+      "gloss": "pero ⟨los⟩ simples"
     },
     {
       "surface": "עברו",
-      "english": "pasan ⟨por⟩ ⟨el⟩ peligro"
+      "gloss": "pasan ⟨por⟩ ⟨el⟩ peligro"
     },
     {
       "surface": "ונענשו",
-      "english": "y son castigados"
+      "gloss": "y son castigados"
     }
-  ],
-  "timestamp": "2026-06-10T01:45:08.833267761Z",
-  "model": "glm-4.5"
+  ]
 }

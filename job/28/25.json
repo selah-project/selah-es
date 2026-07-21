@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 28:25",
   "book": "job",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26892,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27219
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:34.761823590Z",
   "translation": "para hacer ⟨para⟩ el viento ⟨un⟩ peso y ⟨las⟩ aguas ⟨Él⟩ midió en medida",
   "tokens": [
     {
       "surface": "לעשות",
-      "english": "Para hacer"
+      "gloss": "Para hacer"
     },
     {
       "surface": "לרוח",
-      "english": "⟨para⟩ el viento"
+      "gloss": "⟨para⟩ el viento"
     },
     {
       "surface": "משקל",
-      "english": "⟨un⟩ peso"
+      "gloss": "⟨un⟩ peso"
     },
     {
       "surface": "ומים",
-      "english": "y ⟨las⟩ aguas"
+      "gloss": "y ⟨las⟩ aguas"
     },
     {
       "surface": "תכן",
-      "english": "⟨Él⟩ midió"
+      "gloss": "⟨Él⟩ midió"
     },
     {
       "surface": "במדה",
-      "english": "en medida"
+      "gloss": "en medida"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:34.761823590Z",
-  "model": "glm-4.5"
+  ]
 }

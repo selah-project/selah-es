@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 12:18",
   "book": "job",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26952,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27270
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:54.507096116Z",
   "translation": "Él ⟨את⟩ el ceñidor de los reyes ⟨afloja⟩, y ⟨con⟩ un cinturón ⟨ciñe⟩ sus lomos",
   "tokens": [
     {
       "surface": "מוסר",
-      "english": "Ceñidor"
+      "gloss": "Ceñidor"
     },
     {
       "surface": "מלכים",
-      "english": "de los reyes"
+      "gloss": "de los reyes"
     },
     {
       "surface": "פתח",
-      "english": "afloja"
+      "gloss": "afloja"
     },
     {
       "surface": "ויאסר",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "אזור",
-      "english": "cinturón"
+      "gloss": "cinturón"
     },
     {
       "surface": "במתניהם",
-      "english": "sus lomos"
+      "gloss": "sus lomos"
     }
-  ],
-  "timestamp": "2026-06-10T01:59:54.507096116Z",
-  "model": "glm-4.5"
+  ]
 }

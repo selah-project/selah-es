@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 54,
   "ref": "numbers 7:54",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 54,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:20:28.975561373Z",
+  "translation": "En el día octavo, el príncipe de los hijos de Menashé, Gamaliel hijo de Pedatzur:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "En el día"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "octavo"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "el príncipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "de los hijos"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "de Menashé"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamaliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "de Peda"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tzur"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manasés",
@@ -13,60 +56,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 249,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17812,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 18061
-  },
-  "translation": "En el día octavo, el príncipe de los hijos de Menashé, Gamaliel hijo de Pedatzur:",
-  "tokens": [
-    {
-      "surface": "ביום",
-      "english": "En el día"
-    },
-    {
-      "surface": "השמיני",
-      "english": "octavo"
-    },
-    {
-      "surface": "נשיא",
-      "english": "el príncipe"
-    },
-    {
-      "surface": "לבני",
-      "english": "de los hijos"
-    },
-    {
-      "surface": "מנשה",
-      "english": "de Menashé"
-    },
-    {
-      "surface": "גמליאל",
-      "english": "Gamaliel"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "פדה",
-      "english": "de Peda"
-    },
-    {
-      "surface": "צור",
-      "english": "Tzur"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:20:28.975561373Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

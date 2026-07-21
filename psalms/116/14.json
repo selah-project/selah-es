@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 116:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69847,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70202
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:41.295498275Z",
   "translation": "⟨I will⟩ pay my vow ⟨to⟩ YHWH ⟨in⟩ ⟨the⟩ presence of all his people, ⟨I pray⟩.",
   "tokens": [
     {
       "surface": "נדרי",
-      "english": "My vow"
+      "gloss": "My vow"
     },
     {
       "surface": "ליהוה",
-      "english": "to YHWH"
+      "gloss": "to YHWH"
     },
     {
       "surface": "אשלם",
-      "english": "pay"
+      "gloss": "pay"
     },
     {
       "surface": "נגדה",
-      "english": "in the presence"
+      "gloss": "in the presence"
     },
     {
       "surface": "נא",
-      "english": "⟨I pray⟩"
+      "gloss": "⟨I pray⟩"
     },
     {
       "surface": "לכל",
-      "english": "of all"
+      "gloss": "of all"
     },
     {
       "surface": "עמו",
-      "english": "his people"
+      "gloss": "his people"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:41.295498275Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 34:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69866,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70208
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:13:39.613074334Z",
   "translation": "⟨El⟩ ángel de YHWH acampa alrededor de ⟨los que⟩ le temen ⟨y⟩ los rescata.",
   "tokens": [
     {
       "surface": "חנה",
-      "english": "Acampa"
+      "gloss": "Acampa"
     },
     {
       "surface": "מלאך",
-      "english": "⟨El⟩ ángel"
+      "gloss": "⟨El⟩ ángel"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "סביב",
-      "english": "alrededor de"
+      "gloss": "alrededor de"
     },
     {
       "surface": "ליראיו",
-      "english": "⟨los que⟩ le temen"
+      "gloss": "⟨los que⟩ le temen"
     },
     {
       "surface": "ויחלצם",
-      "english": "⟨y⟩ los rescata"
+      "gloss": "⟨y⟩ los rescata"
     }
-  ],
-  "timestamp": "2026-06-09T23:13:39.613074334Z",
-  "model": "glm-4.5"
+  ]
 }

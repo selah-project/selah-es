@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 4,
   "ref": "ezra 2:4",
   "book": "ezra",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 298,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51648,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 51946
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.2",
+  "timestamp": "2026-06-14T04:28:15.025704936Z",
   "translation": "Los hijos de Shefatyá: trescientos setenta y dos.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Los hijos de"
+      "gloss": "Los hijos de"
     },
     {
       "surface": "שפטיה",
-      "english": "Shefatyá"
+      "gloss": "Shefatyá"
     },
     {
       "surface": "שלש",
-      "english": "trescientos"
+      "gloss": "trescientos"
     },
     {
       "surface": "מאות",
-      "english": "⟨cientos⟩"
+      "gloss": "⟨cientos⟩"
     },
     {
       "surface": "שבעים",
-      "english": "setenta"
+      "gloss": "setenta"
     },
     {
       "surface": "ושנים",
-      "english": "y dos"
+      "gloss": "y dos"
     }
-  ],
-  "timestamp": "2026-06-14T04:28:15.025704936Z",
-  "model": "glm-5.2"
+  ]
 }

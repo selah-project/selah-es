@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-samuel 7:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 7,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:50:21.175743114Z",
+  "translation": "Y ⟨los⟩ filisteos fueron humillados, y no añadieron a venir ⟨al⟩ territorio de Yisrael. Y ⟨la⟩ mano de YHWH ⟨estuvo⟩ contra ⟨los⟩ filisteos todos ⟨los⟩ días de Shmuel.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "Y fueron humillados"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "los filisteos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "añadieron"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "a"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "venir"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "al territorio"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "Y estuvo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "contra los filisteos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "los días"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "de Shmuel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,84 +87,6 @@
       "hebrew": "שמואל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16838,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17355
-  },
-  "translation": "Y ⟨los⟩ filisteos fueron humillados, y no añadieron a venir ⟨al⟩ territorio de Yisrael. Y ⟨la⟩ mano de YHWH ⟨estuvo⟩ contra ⟨los⟩ filisteos todos ⟨los⟩ días de Shmuel.",
-  "tokens": [
-    {
-      "surface": "ויכנעו",
-      "english": "Y fueron humillados"
-    },
-    {
-      "surface": "הפלשתים",
-      "english": "los filisteos"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "יספו",
-      "english": "añadieron"
-    },
-    {
-      "surface": "עוד",
-      "english": "a"
-    },
-    {
-      "surface": "לבוא",
-      "english": "venir"
-    },
-    {
-      "surface": "בגבול",
-      "english": "al territorio"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ותהי",
-      "english": "Y estuvo"
-    },
-    {
-      "surface": "יד",
-      "english": "la mano"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "בפלשתים",
-      "english": "contra los filisteos"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "ימי",
-      "english": "los días"
-    },
-    {
-      "surface": "שמואל",
-      "english": "de Shmuel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:50:21.175743114Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

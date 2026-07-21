@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 10:14",
   "book": "job",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 392,
-    "prompt_tokens": 27143,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27535
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:58:23.556480228Z",
   "translation": "Si peco, ⟨tú⟩ me observas, y de mi iniquidad no ⟨me⟩ absuelves",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "חטאתי",
-      "english": "peco"
+      "gloss": "peco"
     },
     {
       "surface": "ושמרתני",
-      "english": "⟨tú⟩ me observas"
+      "gloss": "⟨tú⟩ me observas"
     },
     {
       "surface": "ומעוני",
-      "english": "y de mi iniquidad"
+      "gloss": "y de mi iniquidad"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תנקני",
-      "english": "⟨me⟩ absuelves"
+      "gloss": "⟨me⟩ absuelves"
     }
-  ],
-  "timestamp": "2026-07-16T21:58:23.556480228Z",
-  "model": "glm-4.5"
+  ]
 }

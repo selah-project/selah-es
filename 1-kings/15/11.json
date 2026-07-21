@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-kings 15:11",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 415,
-    "prompt_tokens": 69341,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 69756
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:27:11.872858156Z",
   "translation": "Y Asa hizo ⟨lo que era⟩ recto ⟨a los⟩ ojos de YHWH, como David su padre",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "Y Asa hizo"
+      "gloss": "Y Asa hizo"
     },
     {
       "surface": "אסא",
-      "english": "Asa"
+      "gloss": "Asa"
     },
     {
       "surface": "הישר",
-      "english": "⟨lo que era⟩ recto"
+      "gloss": "⟨lo que era⟩ recto"
     },
     {
       "surface": "בעיני",
-      "english": "⟨a los⟩ ojos"
+      "gloss": "⟨a los⟩ ojos"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כדוד",
-      "english": "como David"
+      "gloss": "como David"
     },
     {
       "surface": "אביו",
-      "english": "su padre"
+      "gloss": "su padre"
     }
-  ],
-  "timestamp": "2026-07-16T18:27:11.872858156Z",
-  "model": "glm-4.5"
+  ]
 }

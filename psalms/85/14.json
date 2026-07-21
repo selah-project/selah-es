@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 85:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 264,
-    "prompt_tokens": 69759,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70023
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:52.634538652Z",
   "translation": "La justicia irá delante de él, y pondrá ⟨para⟩ el camino de sus pasos.",
   "tokens": [
     {
       "surface": "צדק",
-      "english": "La justicia"
+      "gloss": "La justicia"
     },
     {
       "surface": "לפניו",
-      "english": "delante de él"
+      "gloss": "delante de él"
     },
     {
       "surface": "יהלך",
-      "english": "irá"
+      "gloss": "irá"
     },
     {
       "surface": "וישם",
-      "english": "y pondrá"
+      "gloss": "y pondrá"
     },
     {
       "surface": "לדרך",
-      "english": "⟨para⟩ el camino"
+      "gloss": "⟨para⟩ el camino"
     },
     {
       "surface": "פעמיו",
-      "english": "de sus pasos"
+      "gloss": "de sus pasos"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:52.634538652Z",
-  "model": "glm-4.5"
+  ]
 }

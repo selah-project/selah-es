@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 52,
   "ref": "psalms 78:52",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 471,
-    "prompt_tokens": 69868,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70339
-  },
+  "verse": 52,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:34:48.501418275Z",
   "translation": "Y los hizo salir como ovejas, y los guió como rebaño en el desierto",
   "tokens": [
     {
       "surface": "ויסע",
-      "english": "Y los hizo salir"
+      "gloss": "Y los hizo salir"
     },
     {
       "surface": "כצאן",
-      "english": "como ovejas"
+      "gloss": "como ovejas"
     },
     {
       "surface": "עמו",
-      "english": "a su pueblo"
+      "gloss": "a su pueblo"
     },
     {
       "surface": "וינהגם",
-      "english": "y los guió"
+      "gloss": "y los guió"
     },
     {
       "surface": "כעדר",
-      "english": "como rebaño"
+      "gloss": "como rebaño"
     },
     {
       "surface": "במדבר",
-      "english": "en el desierto"
+      "gloss": "en el desierto"
     }
-  ],
-  "timestamp": "2026-07-16T23:34:48.501418275Z",
-  "model": "glm-4.5"
+  ]
 }

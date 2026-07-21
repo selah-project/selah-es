@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 19:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 19,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:48:46.273645804Z",
+  "translation": "Y YHWH descendió sobre el monte Sinai a la cumbre del monte y llamó YHWH a Moshé a la cumbre del monte y subió Moshé",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Y descendió"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הר",
+      "gloss": "el monte"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la cumbre"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "del monte"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "y llamó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "a Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la cumbre"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "del monte"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "y subió"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sinaí",
@@ -13,88 +84,6 @@
       "hebrew": "סיני"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17145,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17484
-  },
-  "translation": "Y YHWH descendió sobre el monte Sinai a la cumbre del monte y llamó YHWH a Moshé a la cumbre del monte y subió Moshé",
-  "tokens": [
-    {
-      "surface": "וירד",
-      "english": "Y descendió"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הר",
-      "english": "el monte"
-    },
-    {
-      "surface": "סיני",
-      "english": "Sinai"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "ראש",
-      "english": "la cumbre"
-    },
-    {
-      "surface": "ההר",
-      "english": "del monte"
-    },
-    {
-      "surface": "ויקרא",
-      "english": "y llamó"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "למשה",
-      "english": "a Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "ראש",
-      "english": "la cumbre"
-    },
-    {
-      "surface": "ההר",
-      "english": "del monte"
-    },
-    {
-      "surface": "ויעל",
-      "english": "y subió"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:48:46.273645804Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

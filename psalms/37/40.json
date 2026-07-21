@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "psalms 37:40",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70115,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70618
-  },
+  "verse": 40,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:16:45.819587202Z",
   "translation": "Y ⟨the⟩ Eterno ⟨es⟩ su ayuda y ⟨el⟩ salvador, ⟨Él⟩ los salvará ⟨de⟩ ⟨los⟩ malvados y los rescatará porque en Él ⟨se⟩ refugiaron.",
   "tokens": [
     {
       "surface": "ויעזרם",
-      "english": "Y ⟨el⟩ Eterno ⟨es⟩ su ayuda"
+      "gloss": "Y ⟨el⟩ Eterno ⟨es⟩ su ayuda"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויפלטם",
-      "english": "y ⟨el⟩ salvador"
+      "gloss": "y ⟨el⟩ salvador"
     },
     {
       "surface": "יפלטם",
-      "english": "los salvará"
+      "gloss": "los salvará"
     },
     {
       "surface": "מרשעים",
-      "english": "⟨de⟩ ⟨los⟩ malvados"
+      "gloss": "⟨de⟩ ⟨los⟩ malvados"
     },
     {
       "surface": "ויושיעם",
-      "english": "y los rescatará"
+      "gloss": "y los rescatará"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "חסו",
-      "english": "en Él ⟨se⟩ refugiaron"
+      "gloss": "en Él ⟨se⟩ refugiaron"
     },
     {
       "surface": "בו",
-      "english": "en Él"
+      "gloss": "en Él"
     }
-  ],
-  "timestamp": "2026-06-09T23:16:45.819587202Z",
-  "model": "glm-4.5"
+  ]
 }

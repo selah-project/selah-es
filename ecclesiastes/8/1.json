@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "ecclesiastes 8:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 8,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:44:28.891712999Z",
+  "translation": "¿Quién ⟨es⟩ como ⟨el⟩ sabio? ¿Y quién conoce ⟨la⟩ interpretación de ⟨una⟩ palabra? ⟨La⟩ Jojmá de ⟨un⟩ hombre hace brillar su rostro, y ⟨la⟩ dureza de su rostro será cambiada.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "¿Quién"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "⟨es⟩ como ⟨el⟩ sabio?"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "¿Y quién"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "conoce"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "⟨la⟩ interpretación"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "de ⟨una⟩ palabra?"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "⟨La⟩ Jojmá"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de ⟨un⟩ hombre"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "hace brillar"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "su rostro,"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "y ⟨la⟩ dureza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "de su rostro"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "será cambiada."
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabiduría",
@@ -13,76 +72,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17535,
-    "prompt_tokens_details": {
-      "cached_tokens": 16042
-    },
-    "total_tokens": 18087
-  },
-  "translation": "¿Quién ⟨es⟩ como ⟨el⟩ sabio? ¿Y quién conoce ⟨la⟩ interpretación de ⟨una⟩ palabra? ⟨La⟩ Jojmá de ⟨un⟩ hombre hace brillar su rostro, y ⟨la⟩ dureza de su rostro será cambiada.",
-  "tokens": [
-    {
-      "surface": "מי",
-      "english": "¿Quién"
-    },
-    {
-      "surface": "כהחכם",
-      "english": "⟨es⟩ como ⟨el⟩ sabio?"
-    },
-    {
-      "surface": "ומי",
-      "english": "¿Y quién"
-    },
-    {
-      "surface": "יודע",
-      "english": "conoce"
-    },
-    {
-      "surface": "פשר",
-      "english": "⟨la⟩ interpretación"
-    },
-    {
-      "surface": "דבר",
-      "english": "de ⟨una⟩ palabra?"
-    },
-    {
-      "surface": "חכמת",
-      "english": "⟨La⟩ Jojmá"
-    },
-    {
-      "surface": "אדם",
-      "english": "de ⟨un⟩ hombre"
-    },
-    {
-      "surface": "תאיר",
-      "english": "hace brillar"
-    },
-    {
-      "surface": "פניו",
-      "english": "su rostro,"
-    },
-    {
-      "surface": "ועז",
-      "english": "y ⟨la⟩ dureza"
-    },
-    {
-      "surface": "פניו",
-      "english": "de su rostro"
-    },
-    {
-      "surface": "ישנא",
-      "english": "será cambiada."
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:44:28.891712999Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

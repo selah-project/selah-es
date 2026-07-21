@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 13:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 391,
-    "prompt_tokens": 60050,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60441
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:20:07.820161125Z",
   "translation": "El que ⟨anda⟩ con ⟨los⟩ sabios será sabio; mas el compañero ⟨de⟩ los necios será destruido.",
   "tokens": [
     {
       "surface": "הלוך",
-      "english": "El que ⟨anda⟩"
+      "gloss": "El que ⟨anda⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los sabios"
     },
     {
       "surface": "חכמים",
-      "english": "sabios"
+      "gloss": "sabios"
     },
     {
       "surface": "וחכם",
-      "english": "será sabio"
+      "gloss": "será sabio"
     },
     {
       "surface": "ורעה",
-      "english": "mas el compañero"
+      "gloss": "mas el compañero"
     },
     {
       "surface": "כסילים",
-      "english": "de los necios"
+      "gloss": "de los necios"
     },
     {
       "surface": "ירוע",
-      "english": "será destruido"
+      "gloss": "será destruido"
     }
-  ],
-  "timestamp": "2026-07-16T23:20:07.820161125Z",
-  "model": "glm-4.5"
+  ]
 }

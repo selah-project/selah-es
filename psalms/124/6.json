@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 124:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 124,
-  "usage": {
-    "completion_tokens": 335,
-    "prompt_tokens": 69879,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70214
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:49.106502007Z",
   "translation": "Bendito ⟨es⟩ YHWH, que no nos ha dado como presa ⟨a⟩ sus dientes",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "Bendito"
+      "gloss": "Bendito"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שלא",
-      "english": "que no"
+      "gloss": "que no"
     },
     {
       "surface": "נתננו",
-      "english": "nos ha dado"
+      "gloss": "nos ha dado"
     },
     {
       "surface": "טרף",
-      "english": "como presa"
+      "gloss": "como presa"
     },
     {
       "surface": "לשניהם",
-      "english": "⟨a⟩ sus dientes"
+      "gloss": "⟨a⟩ sus dientes"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:49.106502007Z",
-  "model": "glm-4.5"
+  ]
 }

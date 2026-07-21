@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 9:7",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 478,
-    "prompt_tokens": 27108,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27586
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:57:42.643384348Z",
   "translation": "Quien ⟨ha⟩-dicho al sol, y no ⟨se⟩-levanta; y ⟨por⟩ ⟨las⟩ estrellas ⟨las⟩-sella.",
   "tokens": [
     {
       "surface": "האמר",
-      "english": "Quien ⟨ha⟩-dicho"
+      "gloss": "Quien ⟨ha⟩-dicho"
     },
     {
       "surface": "לחרס",
-      "english": "al sol"
+      "gloss": "al sol"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יזרח",
-      "english": "⟨se⟩-levanta"
+      "gloss": "⟨se⟩-levanta"
     },
     {
       "surface": "ובעד",
-      "english": "y ⟨por⟩"
+      "gloss": "y ⟨por⟩"
     },
     {
       "surface": "כוכבים",
-      "english": "⟨las⟩ estrellas"
+      "gloss": "⟨las⟩ estrellas"
     },
     {
       "surface": "יחתם",
-      "english": "⟨las⟩-sella"
+      "gloss": "⟨las⟩-sella"
     }
-  ],
-  "timestamp": "2026-07-16T21:57:42.643384348Z",
-  "model": "glm-4.5"
+  ]
 }

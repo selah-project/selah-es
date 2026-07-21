@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "genesis 32:25",
   "book": "genesis",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28523,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29079
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:30:29.391160162Z",
   "translation": "Y ⟨fue⟩ dejado Yaakov ⟨en⟩ soledad ⟨את⟩, y ⟨se⟩ luchó ⟨el⟩ hombre con él hasta ⟨el⟩ ascenso del ⟨el⟩ alba.",
   "tokens": [
     {
       "surface": "ויותר",
-      "english": "Y ⟨fue⟩ dejado"
+      "gloss": "Y ⟨fue⟩ dejado"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "לבדו",
-      "english": "⟨en⟩ soledad"
+      "gloss": "⟨en⟩ soledad"
     },
     {
       "surface": "ויאבק",
-      "english": "y ⟨se⟩ luchó"
+      "gloss": "y ⟨se⟩ luchó"
     },
     {
       "surface": "איש",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "עמו",
-      "english": "con él"
+      "gloss": "con él"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "עלות",
-      "english": "⟨el⟩ ascenso"
+      "gloss": "⟨el⟩ ascenso"
     },
     {
       "surface": "השחר",
-      "english": "del ⟨el⟩ alba"
+      "gloss": "del ⟨el⟩ alba"
     }
-  ],
-  "timestamp": "2026-06-10T05:30:29.391160162Z",
-  "model": "glm-4.5"
+  ]
 }

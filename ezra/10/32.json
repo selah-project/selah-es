@@ -1,9 +1,30 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "ezra 10:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:21:27.911999136Z",
+  "translation": "Binyamín ⟨el⟩ Malkúy ⟨el⟩ Shemaryá",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamín"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "⟨el⟩ Malkúy",
+      "marks": "Benjamín"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "⟨el⟩ Shemaryá",
+      "marks": "Malkúy"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Benjamín",
@@ -13,38 +34,6 @@
       "hebrew": "בנימן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 162,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44127,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 44289
-  },
-  "translation": "Binyamín ⟨el⟩ Malkúy ⟨el⟩ Shemaryá",
-  "tokens": [
-    {
-      "surface": "בנימן",
-      "english": "Binyamín"
-    },
-    {
-      "surface": "מלוך",
-      "english": "⟨el⟩ Malkúy",
-      "marks": "Benjamín"
-    },
-    {
-      "surface": "שמריה",
-      "english": "⟨el⟩ Shemaryá",
-      "marks": "Malkúy"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:21:27.911999136Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

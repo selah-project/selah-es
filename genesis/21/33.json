@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "genesis 21:33",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28579,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29009
-  },
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:18:21.713728563Z",
   "translation": "Y plantó ⟨un⟩ tamarisco ⟨en⟩ Beer-Sheva, y llamó allí ⟨en el⟩ nombre de YHWH, ⟨el⟩ Elohim eterno",
   "tokens": [
     {
       "surface": "ויטע",
-      "english": "Y plantó"
+      "gloss": "Y plantó"
     },
     {
       "surface": "אשל",
-      "english": "⟨un⟩ tamarisco"
+      "gloss": "⟨un⟩ tamarisco"
     },
     {
       "surface": "בבאר",
-      "english": "⟨en⟩ Beer-Sheva"
+      "gloss": "⟨en⟩ Beer-Sheva"
     },
     {
       "surface": "שבע",
-      "english": "Beer-Sheva"
+      "gloss": "Beer-Sheva"
     },
     {
       "surface": "ויקרא",
-      "english": "y llamó"
+      "gloss": "y llamó"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "בשם",
-      "english": "⟨en el⟩ nombre"
+      "gloss": "⟨en el⟩ nombre"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨el⟩ Elohim"
+      "gloss": "⟨el⟩ Elohim"
     },
     {
       "surface": "עולם",
-      "english": "eterno"
+      "gloss": "eterno"
     }
-  ],
-  "timestamp": "2026-06-10T05:18:21.713728563Z",
-  "model": "glm-4.5"
+  ]
 }

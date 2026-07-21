@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 31:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 59948,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60352
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:23:32.530456502Z",
   "translation": "Abre tu boca por el mudo, ⟨en⟩ la causa de todos los hijos del paso.",
   "tokens": [
     {
       "surface": "פתח",
-      "english": "Abre"
+      "gloss": "Abre"
     },
     {
       "surface": "פיך",
-      "english": "tu boca"
+      "gloss": "tu boca"
     },
     {
       "surface": "לאלם",
-      "english": "por el mudo",
+      "gloss": "por el mudo",
       "marks": "el mudo"
     },
     {
       "surface": "אל",
-      "english": "⟨en⟩",
+      "gloss": "⟨en⟩",
       "marks": "la causa"
     },
     {
       "surface": "דין",
-      "english": "la causa"
+      "gloss": "la causa"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "בני",
-      "english": "los hijos"
+      "gloss": "los hijos"
     },
     {
       "surface": "חלוף",
-      "english": "del paso"
+      "gloss": "del paso"
     }
-  ],
-  "timestamp": "2026-07-16T23:23:32.530456502Z",
-  "model": "glm-4.5"
+  ]
 }

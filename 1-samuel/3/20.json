@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-samuel 3:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 3,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:47:09.438306294Z",
+  "translation": "Y todo Yisrael desde Dan hasta Beer-Sheba supo que Shmuel ⟨es⟩ confirmado como naví de YHWH.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Y supo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "desde Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "confirmado"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "como naví"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,72 +75,6 @@
       "hebrew": "שמואל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16349,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16695
-  },
-  "translation": "Y todo Yisrael desde Dan hasta Beer-Sheba supo que Shmuel ⟨es⟩ confirmado como naví de YHWH.",
-  "tokens": [
-    {
-      "surface": "וידע",
-      "english": "Y supo"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מדן",
-      "english": "desde Dan"
-    },
-    {
-      "surface": "ועד",
-      "english": "hasta"
-    },
-    {
-      "surface": "באר",
-      "english": "Beer-"
-    },
-    {
-      "surface": "שבע",
-      "english": "Sheba"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "נאמן",
-      "english": "confirmado"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shmuel"
-    },
-    {
-      "surface": "לנביא",
-      "english": "como naví"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:47:09.438306294Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

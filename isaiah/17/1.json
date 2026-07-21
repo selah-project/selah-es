@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 17:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26113,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26561
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:30:29.519980582Z",
   "translation": "La profecía ⟨concerniente⟩ a Damasco. He aquí, Damasco ⟨es⟩ quitada de ser ciudad, y será un montón de ruinas.",
   "tokens": [
     {
       "surface": "משא",
-      "english": "La profecía ⟨concerniente⟩ a"
+      "gloss": "La profecía ⟨concerniente⟩ a"
     },
     {
       "surface": "דמשק",
-      "english": "Damasco"
+      "gloss": "Damasco"
     },
     {
       "surface": "הנה",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "דמשק",
-      "english": "Damasco"
+      "gloss": "Damasco"
     },
     {
       "surface": "מוסר",
-      "english": "⟨es⟩ quitada"
+      "gloss": "⟨es⟩ quitada"
     },
     {
       "surface": "מעיר",
-      "english": "de ser ciudad"
+      "gloss": "de ser ciudad"
     },
     {
       "surface": "והיתה",
-      "english": "y será"
+      "gloss": "y será"
     },
     {
       "surface": "מעי",
-      "english": "un montón"
+      "gloss": "un montón"
     },
     {
       "surface": "מפלה",
-      "english": "de ruinas"
+      "gloss": "de ruinas"
     }
-  ],
-  "timestamp": "2026-06-10T02:30:29.519980582Z",
-  "model": "glm-4.5"
+  ]
 }

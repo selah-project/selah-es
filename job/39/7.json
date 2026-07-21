@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 39:7",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27034,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27510
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:16:08.021199832Z",
   "translation": "Se ríe ⟨de⟩ ⟨el⟩ tumulto ⟨de⟩ la ciudad, ⟨los⟩ gritos ⟨del⟩ conductor no oye.",
   "tokens": [
     {
       "surface": "ישחק",
-      "english": "Se ríe"
+      "gloss": "Se ríe"
     },
     {
       "surface": "להמון",
-      "english": "⟨de⟩ ⟨el⟩ tumulto",
+      "gloss": "⟨de⟩ ⟨el⟩ tumulto",
       "marks": "el tumulto de la ciudad"
     },
     {
       "surface": "קריה",
-      "english": "⟨de⟩ la ciudad"
+      "gloss": "⟨de⟩ la ciudad"
     },
     {
       "surface": "תשאות",
-      "english": "⟨los⟩ gritos"
+      "gloss": "⟨los⟩ gritos"
     },
     {
       "surface": "נוגש",
-      "english": "⟨del⟩ conductor"
+      "gloss": "⟨del⟩ conductor"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ישמע",
-      "english": "oye"
+      "gloss": "oye"
     }
-  ],
-  "timestamp": "2026-06-10T02:16:08.021199832Z",
-  "model": "glm-4.5"
+  ]
 }

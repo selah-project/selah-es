@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "genesis 42:14",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28574,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28938
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:39:34.689277795Z",
   "translation": "Y Yosef dijo a ellos: ⟨es⟩ lo que ⟨yo⟩ dije a ustedes, diciendo: ⟨son⟩ espías ustedes.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y Yosef dijo"
+      "gloss": "Y Yosef dijo"
     },
     {
       "surface": "אלהם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "דברתי",
-      "english": "⟨yo⟩ dije"
+      "gloss": "⟨yo⟩ dije"
     },
     {
       "surface": "אלכם",
-      "english": "a ustedes"
+      "gloss": "a ustedes"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     },
     {
       "surface": "מרגלים",
-      "english": "espías"
+      "gloss": "espías"
     },
     {
       "surface": "אתם",
-      "english": "ustedes"
+      "gloss": "ustedes"
     }
-  ],
-  "timestamp": "2026-06-10T05:39:34.689277795Z",
-  "model": "glm-4.5"
+  ]
 }

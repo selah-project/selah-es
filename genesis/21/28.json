@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "genesis 21:28",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 28414,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28816
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:59:57.073415345Z",
   "translation": "Y Avraham puso ⟨את⟩ siete corderas de ⟨el⟩ rebaño aparte por sí mismas",
   "tokens": [
     {
       "surface": "ויצב",
-      "english": "Y Avraham puso"
+      "gloss": "Y Avraham puso"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "siete corderas"
     },
     {
       "surface": "שבע",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "כבשת",
-      "english": "corderas"
+      "gloss": "corderas"
     },
     {
       "surface": "הצאן",
-      "english": "de ⟨el⟩ rebaño"
+      "gloss": "de ⟨el⟩ rebaño"
     },
     {
       "surface": "לבדהן",
-      "english": "aparte por sí mismas"
+      "gloss": "aparte por sí mismas"
     }
-  ],
-  "timestamp": "2026-07-16T20:59:57.073415345Z",
-  "model": "glm-4.5"
+  ]
 }

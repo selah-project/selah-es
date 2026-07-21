@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-samuel 7:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 7,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:21:59.369166005Z",
+  "translation": "Y desde el día que ordené jueces sobre mi pueblo Yisrael y ⟨te⟩ di descanso de todos tus enemigos, YHWH ⟨te⟩ declara que YHWH hará una casa para ⟨ti⟩, YHWH ⟨te⟩ declara que YHWH hará una casa para ⟨ti⟩",
+  "tokens": [
+    {
+      "surface": "ולמן",
+      "gloss": "Y desde",
+      "marks": "temporal marker"
+    },
+    {
+      "surface": "היום",
+      "gloss": "el día",
+      "marks": "día"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "marks": ""
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ordené",
+      "marks": ""
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "jueces",
+      "marks": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre",
+      "marks": ""
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mi pueblo",
+      "marks": "pueblo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "marks": ""
+    },
+    {
+      "surface": "והניחתי",
+      "gloss": "y ⟨te⟩ di descanso",
+      "marks": "descanso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "de",
+      "marks": ""
+    },
+    {
+      "surface": "מכל",
+      "gloss": "todos",
+      "marks": ""
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tus enemigos",
+      "marks": "enemigos"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "YHWH ⟨te⟩ declara",
+      "marks": "declara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "que",
+      "marks": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "marks": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "que",
+      "marks": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa",
+      "marks": "casa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hará",
+      "marks": ""
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ⟨ti⟩",
+      "marks": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,124 +120,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 760,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17992,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 18752
-  },
-  "translation": "Y desde el día que ordené jueces sobre mi pueblo Yisrael y ⟨te⟩ di descanso de todos tus enemigos, YHWH ⟨te⟩ declara que YHWH hará una casa para ⟨ti⟩, YHWH ⟨te⟩ declara que YHWH hará una casa para ⟨ti⟩",
-  "tokens": [
-    {
-      "surface": "ולמן",
-      "english": "Y desde",
-      "marks": "temporal marker"
-    },
-    {
-      "surface": "היום",
-      "english": "el día",
-      "marks": "día"
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "marks": ""
-    },
-    {
-      "surface": "צויתי",
-      "english": "ordené",
-      "marks": ""
-    },
-    {
-      "surface": "שפטים",
-      "english": "jueces",
-      "marks": ""
-    },
-    {
-      "surface": "על",
-      "english": "sobre",
-      "marks": ""
-    },
-    {
-      "surface": "עמי",
-      "english": "mi pueblo",
-      "marks": "pueblo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "marks": ""
-    },
-    {
-      "surface": "והניחתי",
-      "english": "y ⟨te⟩ di descanso",
-      "marks": "descanso"
-    },
-    {
-      "surface": "לך",
-      "english": "de",
-      "marks": ""
-    },
-    {
-      "surface": "מכל",
-      "english": "todos",
-      "marks": ""
-    },
-    {
-      "surface": "איביך",
-      "english": "tus enemigos",
-      "marks": "enemigos"
-    },
-    {
-      "surface": "והגיד",
-      "english": "YHWH ⟨te⟩ declara",
-      "marks": "declara"
-    },
-    {
-      "surface": "לך",
-      "english": "que",
-      "marks": ""
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH",
-      "marks": ""
-    },
-    {
-      "surface": "כי",
-      "english": "que",
-      "marks": ""
-    },
-    {
-      "surface": "בית",
-      "english": "una casa",
-      "marks": "casa"
-    },
-    {
-      "surface": "יעשה",
-      "english": "hará",
-      "marks": ""
-    },
-    {
-      "surface": "לך",
-      "english": "para ⟨ti⟩",
-      "marks": "ti"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:21:59.369166005Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

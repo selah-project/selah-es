@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.1",
-  "verse": 3,
   "ref": "song-of-songs 1:3",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 607,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27780,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 28387
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T04:03:11.151863699Z",
   "translation": "Por el aroma de tus óleos, que son buenos — tu nombre ⟨es⟩ óleo derramado — por eso las jóvenes te aman.",
   "tokens": [
     {
       "surface": "לריח",
-      "english": "por el aroma de"
+      "gloss": "por el aroma de"
     },
     {
       "surface": "שמניך",
-      "english": "tus óleos"
+      "gloss": "tus óleos"
     },
     {
       "surface": "טובים",
-      "english": "que son buenos"
+      "gloss": "que son buenos"
     },
     {
       "surface": "שמן",
-      "english": "óleo"
+      "gloss": "óleo"
     },
     {
       "surface": "תורק",
-      "english": "derramado"
+      "gloss": "derramado"
     },
     {
       "surface": "שמך",
-      "english": "tu nombre"
+      "gloss": "tu nombre"
     },
     {
       "surface": "על",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "כן",
-      "english": "eso"
+      "gloss": "eso"
     },
     {
       "surface": "עלמות",
-      "english": "las jóvenes"
+      "gloss": "las jóvenes"
     },
     {
       "surface": "אהבוך",
-      "english": "te aman"
+      "gloss": "te aman"
     }
-  ],
-  "timestamp": "2026-06-13T04:03:11.151863699Z",
-  "model": "glm-5.1"
+  ]
 }

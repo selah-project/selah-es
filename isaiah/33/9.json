@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 33:9",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26431,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26945
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:40:59.622685528Z",
   "translation": "La tierra ⟨se⟩ lamenta y ⟨se⟩ desmaya; el Líbano ⟨queda⟩ avergonzado y ⟨se⟩ marchita; el Sarón ⟨es⟩ como ⟨una⟩ estepa, y el Basán ⟨y⟩ el Carmelo ⟨quedan⟩ despojados.",
   "tokens": [
     {
       "surface": "אבל",
-      "english": "⟨Se⟩ lamenta"
+      "gloss": "⟨Se⟩ lamenta"
     },
     {
       "surface": "אמללה",
-      "english": "y ⟨se⟩ desmaya"
+      "gloss": "y ⟨se⟩ desmaya"
     },
     {
       "surface": "ארץ",
-      "english": "La tierra"
+      "gloss": "La tierra"
     },
     {
       "surface": "החפיר",
-      "english": "⟨queda⟩ avergonzado"
+      "gloss": "⟨queda⟩ avergonzado"
     },
     {
       "surface": "לבנון",
-      "english": "el Líbano"
+      "gloss": "el Líbano"
     },
     {
       "surface": "קמל",
-      "english": "y ⟨se⟩ marchita"
+      "gloss": "y ⟨se⟩ marchita"
     },
     {
       "surface": "היה",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "השרון",
-      "english": "el Sarón"
+      "gloss": "el Sarón"
     },
     {
       "surface": "כערבה",
-      "english": "como ⟨una⟩ estepa"
+      "gloss": "como ⟨una⟩ estepa"
     },
     {
       "surface": "ונער",
-      "english": "y ⟨quedan⟩ despojados"
+      "gloss": "y ⟨quedan⟩ despojados"
     },
     {
       "surface": "בשן",
-      "english": "el Basán"
+      "gloss": "el Basán"
     },
     {
       "surface": "וכרמל",
-      "english": "⟨y⟩ el Carmelo"
+      "gloss": "⟨y⟩ el Carmelo"
     }
-  ],
-  "timestamp": "2026-06-10T02:40:59.622685528Z",
-  "model": "glm-4.5"
+  ]
 }

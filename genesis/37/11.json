@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 37:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 400,
-    "prompt_tokens": 28392,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28792
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:09:10.997306667Z",
   "translation": "Y sus hermanos tuvieron celo de ⟨él⟩; pero su padre guardó ⟨את⟩ el asunto.",
   "tokens": [
     {
       "surface": "ויקנאו",
-      "english": "Y sus hermanos tuvieron celo"
+      "gloss": "Y sus hermanos tuvieron celo"
     },
     {
       "surface": "בו",
-      "english": "de ⟨él⟩"
+      "gloss": "de ⟨él⟩"
     },
     {
       "surface": "אחיו",
-      "english": "sus hermanos"
+      "gloss": "sus hermanos"
     },
     {
       "surface": "ואביו",
-      "english": "pero su padre"
+      "gloss": "pero su padre"
     },
     {
       "surface": "שמר",
-      "english": "guardó"
+      "gloss": "guardó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el asunto"
     },
     {
       "surface": "הדבר",
-      "english": "el asunto"
+      "gloss": "el asunto"
     }
-  ],
-  "timestamp": "2026-07-16T21:09:10.997306667Z",
-  "model": "glm-4.5"
+  ]
 }

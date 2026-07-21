@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 72:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69907,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70412
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:57.393831927Z",
   "translation": "Él ⟨tendrá⟩ misericordia ⟨de⟩ ⟨el⟩ pobre y ⟨el⟩ necesitado y ⟨las⟩ almas ⟨de⟩ ⟨los⟩ necesitados salvará",
   "tokens": [
     {
       "surface": "יחס",
-      "english": "Él ⟨tendrá⟩ misericordia ⟨de⟩",
+      "gloss": "Él ⟨tendrá⟩ misericordia ⟨de⟩",
       "marks": "el pobre y el necesitado y las almas de los necesitados salvará"
     },
     {
       "surface": "על",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "דל",
-      "english": "pobre"
+      "gloss": "pobre"
     },
     {
       "surface": "ואביון",
-      "english": "y ⟨el⟩ necesitado"
+      "gloss": "y ⟨el⟩ necesitado"
     },
     {
       "surface": "ונפשות",
-      "english": "y ⟨las⟩ almas"
+      "gloss": "y ⟨las⟩ almas"
     },
     {
       "surface": "אביונים",
-      "english": "⟨de⟩ ⟨los⟩ necesitados"
+      "gloss": "⟨de⟩ ⟨los⟩ necesitados"
     },
     {
       "surface": "יושיע",
-      "english": "salvará"
+      "gloss": "salvará"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:57.393831927Z",
-  "model": "glm-4.5"
+  ]
 }

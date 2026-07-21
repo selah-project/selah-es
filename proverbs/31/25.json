@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 31:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59748,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60074
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:59.881257357Z",
   "translation": "Fuerza y ⟨es⟩ ⟨el⟩ atavío de ella, y ⟨ella⟩ se reirá para el día postrero.",
   "tokens": [
     {
       "surface": "עז",
-      "english": "Fuerza"
+      "gloss": "Fuerza"
     },
     {
       "surface": "והדר",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "לבושה",
-      "english": "⟨el⟩ atavío de ella",
+      "gloss": "⟨el⟩ atavío de ella",
       "marks": "atavío de ella"
     },
     {
       "surface": "ותשחק",
-      "english": "y ⟨ella⟩ se reirá"
+      "gloss": "y ⟨ella⟩ se reirá"
     },
     {
       "surface": "ליום",
-      "english": "para el día"
+      "gloss": "para el día"
     },
     {
       "surface": "אחרון",
-      "english": "postrero"
+      "gloss": "postrero"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:59.881257357Z",
-  "model": "glm-4.5"
+  ]
 }

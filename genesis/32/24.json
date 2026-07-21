@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 32:24",
   "book": "genesis",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 406,
-    "prompt_tokens": 28565,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28971
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:07:44.621735713Z",
   "translation": "Y ⟨los⟩ tomó y ⟨los⟩ hizo pasar ⟨את⟩ el arroyo, e hizo pasar ⟨את⟩ lo que ⟨era⟩ suyo",
   "tokens": [
     {
       "surface": "ויקחם",
-      "english": "Y ⟨los⟩ tomó"
+      "gloss": "Y ⟨los⟩ tomó"
     },
     {
       "surface": "ויעברם",
-      "english": "y ⟨los⟩ hizo pasar"
+      "gloss": "y ⟨los⟩ hizo pasar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el arroyo"
     },
     {
       "surface": "הנחל",
-      "english": "el arroyo"
+      "gloss": "el arroyo"
     },
     {
       "surface": "ויעבר",
-      "english": "e hizo pasar"
+      "gloss": "e hizo pasar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lo que ⟨era⟩ suyo"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "לו",
-      "english": "suyo"
+      "gloss": "suyo"
     }
-  ],
-  "timestamp": "2026-07-16T21:07:44.621735713Z",
-  "model": "glm-4.5"
+  ]
 }

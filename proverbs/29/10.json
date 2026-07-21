@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 29:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59864,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60185
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:51:36.484466096Z",
   "translation": "Los hombres ⟨de⟩ sangre odian ⟨al⟩ íntegro, y ⟨los⟩ justos buscan su alma ⟨para⟩ ⟨sí mismo⟩.",
   "tokens": [
     {
       "surface": "אנשי",
-      "english": "Hombres ⟨de⟩"
+      "gloss": "Hombres ⟨de⟩"
     },
     {
       "surface": "דמים",
-      "english": "sangre"
+      "gloss": "sangre"
     },
     {
       "surface": "ישנאו",
-      "english": "odian ⟨al⟩"
+      "gloss": "odian ⟨al⟩"
     },
     {
       "surface": "תם",
-      "english": "íntegro"
+      "gloss": "íntegro"
     },
     {
       "surface": "וישרים",
-      "english": "y ⟨los⟩ justos"
+      "gloss": "y ⟨los⟩ justos"
     },
     {
       "surface": "יבקשו",
-      "english": "buscan ⟨para⟩ ⟨sí mismo⟩"
+      "gloss": "buscan ⟨para⟩ ⟨sí mismo⟩"
     },
     {
       "surface": "נפשו",
-      "english": "su alma"
+      "gloss": "su alma"
     }
-  ],
-  "timestamp": "2026-06-10T01:51:36.484466096Z",
-  "model": "glm-4.5"
+  ]
 }

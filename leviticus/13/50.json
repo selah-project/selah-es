@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "leviticus 13:50",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 382,
-    "prompt_tokens": 24815,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25197
-  },
+  "verse": 50,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:39:00.817061095Z",
   "translation": "Y verá el kohen ⟨את⟩ la afección, y cerrará ⟨את⟩ ⟨la que tiene⟩ la afección siete días",
   "tokens": [
     {
       "surface": "וראה",
-      "english": "Y verá"
+      "gloss": "Y verá"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הנגע"
     },
     {
       "surface": "הנגע",
-      "english": "la afección"
+      "gloss": "la afección"
     },
     {
       "surface": "והסגיר",
-      "english": "y cerrará"
+      "gloss": "y cerrará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הנגע"
     },
     {
       "surface": "הנגע",
-      "english": "⟨la que tiene⟩ la afección"
+      "gloss": "⟨la que tiene⟩ la afección"
     },
     {
       "surface": "שבעת",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     }
-  ],
-  "timestamp": "2026-07-16T22:39:00.817061095Z",
-  "model": "glm-4.5"
+  ]
 }

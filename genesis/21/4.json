@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 21:4",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 401,
-    "prompt_tokens": 28959,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29360
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:59:35.749719992Z",
   "translation": "Y Avraham circuncidó ⟨את⟩ Yitzjak su hijo, hijo de ocho días, como Elohim ⟨את⟩ו había ordenado",
   "tokens": [
     {
       "surface": "וימל",
-      "english": "Y circuncidó"
+      "gloss": "Y circuncidó"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yitzjak"
     },
     {
       "surface": "יצחק",
-      "english": "Yitzjak"
+      "gloss": "Yitzjak"
     },
     {
       "surface": "בנו",
-      "english": "su hijo"
+      "gloss": "su hijo"
     },
     {
       "surface": "בן",
-      "english": "hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "שמנת",
-      "english": "de ocho"
+      "gloss": "de ocho"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "english": "había ordenado"
+      "gloss": "había ordenado"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩v",
+      "gloss": "⟨את⟩v",
       "marks": "Elohim"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T20:59:35.749719992Z",
-  "model": "glm-4.5"
+  ]
 }

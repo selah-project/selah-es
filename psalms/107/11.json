@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 107:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69878,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70253
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:05.985933063Z",
   "translation": "Porque se rebelaron contra ⟨el⟩ dicho de Elohim y ⟨el⟩ consejo ⟨del⟩ Altísimo despreciaron",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "המרו",
-      "english": "se rebelaron contra"
+      "gloss": "se rebelaron contra"
     },
     {
       "surface": "אמרי",
-      "english": "⟨el⟩ dicho",
+      "gloss": "⟨el⟩ dicho",
       "marks": "de Elohim"
     },
     {
       "surface": "אל",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "ועצת",
-      "english": "y ⟨el⟩ consejo",
+      "gloss": "y ⟨el⟩ consejo",
       "marks": "⟨del⟩ Altísimo"
     },
     {
       "surface": "עליון",
-      "english": "⟨del⟩ Altísimo"
+      "gloss": "⟨del⟩ Altísimo"
     },
     {
       "surface": "נאצו",
-      "english": "despreciaron"
+      "gloss": "despreciaron"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:05.985933063Z",
-  "model": "glm-4.5"
+  ]
 }

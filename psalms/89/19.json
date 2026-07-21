@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 89:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69900,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70178
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:39.580495034Z",
   "translation": "Porque a YHWH ⟨es⟩ nuestro escudo ⟨את⟩ y al Santo de Yisrael ⟨es⟩ nuestro rey.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "מגננו",
-      "english": "nuestro escudo",
+      "gloss": "nuestro escudo",
       "marks": "nuestro escudo"
     },
     {
       "surface": "ולקדוש",
-      "english": "y al Santo"
+      "gloss": "y al Santo"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "מלכנו",
-      "english": "nuestro rey"
+      "gloss": "nuestro rey"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:39.580495034Z",
-  "model": "glm-4.5"
+  ]
 }

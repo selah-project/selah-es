@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 20:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59923,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60405
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:43:23.834071693Z",
   "translation": "Aguas profundas ⟨el⟩ consejo en ⟨el⟩ corazón de un hombre ⟨y⟩ un hombre ⟨de⟩ entendimiento ⟨lo⟩ sacará",
   "tokens": [
     {
       "surface": "מים",
-      "english": "Aguas profundas"
+      "gloss": "Aguas profundas"
     },
     {
       "surface": "עמקים",
-      "english": "profundas"
+      "gloss": "profundas"
     },
     {
       "surface": "עצה",
-      "english": "⟨el⟩ consejo"
+      "gloss": "⟨el⟩ consejo"
     },
     {
       "surface": "בלב",
-      "english": "en ⟨el⟩ corazón"
+      "gloss": "en ⟨el⟩ corazón"
     },
     {
       "surface": "איש",
-      "english": "de un hombre"
+      "gloss": "de un hombre"
     },
     {
       "surface": "ואיש",
-      "english": "⟨y⟩ un hombre"
+      "gloss": "⟨y⟩ un hombre"
     },
     {
       "surface": "תבונה",
-      "english": "⟨de⟩ entendimiento"
+      "gloss": "⟨de⟩ entendimiento"
     },
     {
       "surface": "ידלנה",
-      "english": "⟨lo⟩ sacará"
+      "gloss": "⟨lo⟩ sacará"
     }
-  ],
-  "timestamp": "2026-06-10T01:43:23.834071693Z",
-  "model": "glm-4.5"
+  ]
 }

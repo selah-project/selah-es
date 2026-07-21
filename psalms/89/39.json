@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 39,
   "ref": "psalms 89:39",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 419,
-    "prompt_tokens": 69906,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70325
-  },
+  "verse": 39,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:42.907408157Z",
   "translation": "Y tú lo rechazaste y lo despreciaste, te enojaste con tu Mashíaj.",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Y tú"
+      "gloss": "Y tú"
     },
     {
       "surface": "זנחת",
-      "english": "lo rechazaste"
+      "gloss": "lo rechazaste"
     },
     {
       "surface": "ותמאס",
-      "english": "y lo despreciaste"
+      "gloss": "y lo despreciaste"
     },
     {
       "surface": "התעברת",
-      "english": "te enojaste"
+      "gloss": "te enojaste"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "משיחך",
-      "english": "tu Mashíaj"
+      "gloss": "tu Mashíaj"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:42.907408157Z",
-  "model": "glm-4.5"
+  ]
 }

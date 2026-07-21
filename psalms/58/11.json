@@ -1,67 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 58:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70038,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70563
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:25:20.638560150Z",
   "translation": "El ⟨justo⟩ se alegrará porque ⟨verá⟩ ⟨la venganza⟩ ⟨en⟩ ⟨las pisadas de sus pies⟩; ⟨lavará⟩ ⟨en⟩ ⟨la sangre del⟩ ⟨impío⟩.",
   "tokens": [
     {
       "surface": "ישמח",
-      "english": "Se alegrará"
+      "gloss": "Se alegrará"
     },
     {
       "surface": "צדיק",
-      "english": "⟨justo⟩",
+      "gloss": "⟨justo⟩",
       "marks": "justo"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "חזה",
-      "english": "⟨verá⟩",
+      "gloss": "⟨verá⟩",
       "marks": "verá"
     },
     {
       "surface": "נקם",
-      "english": "⟨la venganza⟩",
+      "gloss": "⟨la venganza⟩",
       "marks": "venganza"
     },
     {
       "surface": "פעמיו",
-      "english": "⟨en⟩ ⟨las pisadas de sus pies⟩",
+      "gloss": "⟨en⟩ ⟨las pisadas de sus pies⟩",
       "marks": "pisadas de sus pies"
     },
     {
       "surface": "ירחץ",
-      "english": "⟨lavará⟩",
+      "gloss": "⟨lavará⟩",
       "marks": "lavará"
     },
     {
       "surface": "בדם",
-      "english": "⟨en⟩",
+      "gloss": "⟨en⟩",
       "marks": "sangre"
     },
     {
       "surface": "הרשע",
-      "english": "⟨la⟩ ⟨impío⟩",
+      "gloss": "⟨la⟩ ⟨impío⟩",
       "marks": "impío"
     }
-  ],
-  "timestamp": "2026-06-09T23:25:20.638560150Z",
-  "model": "glm-4.5"
+  ]
 }

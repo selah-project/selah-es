@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 18:3",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 417,
-    "prompt_tokens": 23598,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24015
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:41:45.260172679Z",
   "translation": "Yonatán y David hicieron ⟨un⟩ pacto, porque ⟨él⟩ lo amaba ⟨את⟩ como a su propia alma.",
   "tokens": [
     {
       "surface": "ויכרת",
-      "english": "hicieron"
+      "gloss": "hicieron"
     },
     {
       "surface": "יהונתן",
-      "english": "Yonatán"
+      "gloss": "Yonatán"
     },
     {
       "surface": "ודוד",
-      "english": "y David"
+      "gloss": "y David"
     },
     {
       "surface": "ברית",
-      "english": "⟨un⟩ pacto"
+      "gloss": "⟨un⟩ pacto"
     },
     {
       "surface": "באהבתו",
-      "english": "porque ⟨él⟩ lo amaba"
+      "gloss": "porque ⟨él⟩ lo amaba"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "como a su propia alma"
     },
     {
       "surface": "כנפשו",
-      "english": "como a su propia alma"
+      "gloss": "como a su propia alma"
     }
-  ],
-  "timestamp": "2026-07-16T18:41:45.260172679Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 133:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 133,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70406,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70938
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:06:43.702086081Z",
   "translation": "Como ⟨el⟩ buen aceite sobre ⟨la⟩ cabeza, que desciende sobre ⟨la⟩ barba, ⟨la⟩ barba de Aharón, que desciende sobre ⟨el⟩ cuello de sus vestiduras",
   "tokens": [
     {
       "surface": "כשמן",
-      "english": "Como ⟨el⟩ buen aceite"
+      "gloss": "Como ⟨el⟩ buen aceite"
     },
     {
       "surface": "הטוב",
-      "english": "buen"
+      "gloss": "buen"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הראש",
-      "english": "⟨la⟩ cabeza"
+      "gloss": "⟨la⟩ cabeza"
     },
     {
       "surface": "ירד",
-      "english": "que desciende"
+      "gloss": "que desciende"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הזקן",
-      "english": "⟨la⟩ barba"
+      "gloss": "⟨la⟩ barba"
     },
     {
       "surface": "זקן",
-      "english": "barba"
+      "gloss": "barba"
     },
     {
       "surface": "אהרן",
-      "english": "de Aharón"
+      "gloss": "de Aharón"
     },
     {
       "surface": "שירד",
-      "english": "que desciende"
+      "gloss": "que desciende"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פי",
-      "english": "⟨el⟩ cuello"
+      "gloss": "⟨el⟩ cuello"
     },
     {
       "surface": "מדותיו",
-      "english": "de sus vestiduras"
+      "gloss": "de sus vestiduras"
     }
-  ],
-  "timestamp": "2026-06-10T00:06:43.702086081Z",
-  "model": "glm-4.5"
+  ]
 }

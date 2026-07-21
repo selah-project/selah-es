@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 64:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70290,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70806
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:57.516946229Z",
   "translation": "⟨They shall⟩ encourage themselves ⟨with⟩ evil word; ⟨they shall⟩ count ⟨for⟩ to hide snares, saying: 'Who shall see ⟨them⟩?'",
   "tokens": [
     {
       "surface": "יחזקו",
-      "english": "⟨They shall⟩ encourage themselves"
+      "gloss": "⟨They shall⟩ encourage themselves"
     },
     {
       "surface": "למו",
-      "english": "⟨with⟩"
+      "gloss": "⟨with⟩"
     },
     {
       "surface": "דבר",
-      "english": "evil word"
+      "gloss": "evil word"
     },
     {
       "surface": "רע",
-      "english": "evil"
+      "gloss": "evil"
     },
     {
       "surface": "יספרו",
-      "english": "⟨they shall⟩ count"
+      "gloss": "⟨they shall⟩ count"
     },
     {
       "surface": "לטמון",
-      "english": "⟨for⟩ to hide"
+      "gloss": "⟨for⟩ to hide"
     },
     {
       "surface": "מוקשים",
-      "english": "snares"
+      "gloss": "snares"
     },
     {
       "surface": "אמרו",
-      "english": "saying"
+      "gloss": "saying"
     },
     {
       "surface": "מי",
-      "english": "Who"
+      "gloss": "Who"
     },
     {
       "surface": "יראה",
-      "english": "shall see"
+      "gloss": "shall see"
     },
     {
       "surface": "למו",
-      "english": "⟨them⟩",
+      "gloss": "⟨them⟩",
       "marks": "the snares and their doers"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:57.516946229Z",
-  "model": "glm-4.5"
+  ]
 }

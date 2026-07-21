@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 22:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 284,
-    "prompt_tokens": 59914,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60198
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:21:12.918203624Z",
   "translation": "Echa ⟨al⟩ escarnecedor, y saldrá ⟨el⟩ contencioso, y cesará ⟨el⟩ pleito y ⟨el⟩ oprobio.",
   "tokens": [
     {
       "surface": "גרש",
-      "english": "echa"
+      "gloss": "echa"
     },
     {
       "surface": "לץ",
-      "english": "⟨al⟩ escarnecedor"
+      "gloss": "⟨al⟩ escarnecedor"
     },
     {
       "surface": "ויצא",
-      "english": "y saldrá"
+      "gloss": "y saldrá"
     },
     {
       "surface": "מדון",
-      "english": "⟨el⟩ contencioso"
+      "gloss": "⟨el⟩ contencioso"
     },
     {
       "surface": "וישבת",
-      "english": "y cesará"
+      "gloss": "y cesará"
     },
     {
       "surface": "דין",
-      "english": "⟨el⟩ pleito"
+      "gloss": "⟨el⟩ pleito"
     },
     {
       "surface": "וקלון",
-      "english": "y ⟨el⟩ oprobio"
+      "gloss": "y ⟨el⟩ oprobio"
     }
-  ],
-  "timestamp": "2026-07-16T23:21:12.918203624Z",
-  "model": "glm-4.5"
+  ]
 }

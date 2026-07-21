@@ -1,60 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 8:6",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 442,
-    "prompt_tokens": 24807,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25249
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:35:05.801987843Z",
   "translation": "Y Moshé hizo acercar ⟨את⟩ Aharón y ⟨את⟩ sus hijos, y los lavó en aguas",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "Y Moshé hizo acercar"
+      "gloss": "Y Moshé hizo acercar"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aharón"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "sus hijos"
     },
     {
       "surface": "בניו",
-      "english": "sus hijos"
+      "gloss": "sus hijos"
     },
     {
       "surface": "וירחץ",
-      "english": "y los lavó"
+      "gloss": "y los lavó"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "aguas"
     },
     {
       "surface": "במים",
-      "english": "en aguas"
+      "gloss": "en aguas"
     }
-  ],
-  "timestamp": "2026-07-16T22:35:05.801987843Z",
-  "model": "glm-4.5"
+  ]
 }

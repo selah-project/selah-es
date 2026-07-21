@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 44:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69931,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70382
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:57.019410022Z",
   "translation": "Todo ⟨el⟩ día ⟨es⟩ mi deshonor delante de mí, y ⟨el⟩ oprobio de mi rostro me ⟨ha⟩ cubierto",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo ⟨el⟩"
+      "gloss": "Todo ⟨el⟩"
     },
     {
       "surface": "היום",
-      "english": "día ⟨es⟩"
+      "gloss": "día ⟨es⟩"
     },
     {
       "surface": "כלמתי",
-      "english": "mi deshonor"
+      "gloss": "mi deshonor"
     },
     {
       "surface": "נגדי",
-      "english": "delante de mí"
+      "gloss": "delante de mí"
     },
     {
       "surface": "ובשת",
-      "english": "y ⟨el⟩ oprobio"
+      "gloss": "y ⟨el⟩ oprobio"
     },
     {
       "surface": "פני",
-      "english": "de mi rostro"
+      "gloss": "de mi rostro"
     },
     {
       "surface": "כסתני",
-      "english": "me ⟨ha⟩ cubierto"
+      "gloss": "me ⟨ha⟩ cubierto"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:57.019410022Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 115:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69869,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70160
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:00.055589952Z",
   "translation": "Los que temen a YHWH, confíen en YHWH; ⟨es⟩ su ayuda y su escudo ⟨את⟩.",
   "tokens": [
     {
       "surface": "יראי",
-      "english": "Los que temen a"
+      "gloss": "Los que temen a"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בטחו",
-      "english": "confíen en"
+      "gloss": "confíen en"
     },
     {
       "surface": "ביהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עזרם",
-      "english": "su ayuda"
+      "gloss": "su ayuda"
     },
     {
       "surface": "ומגנם",
-      "english": "y su escudo"
+      "gloss": "y su escudo"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩",
+      "gloss": "⟨es⟩",
       "marks": "su ayuda y su escudo"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:00.055589952Z",
-  "model": "glm-4.5"
+  ]
 }

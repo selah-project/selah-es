@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "1-chronicles 29:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 29,
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:58:59.010214740Z",
+  "translation": "Y todos los príncipes y los hombres poderosos, y también todos ⟨los⟩ hijos del rey Davidd, dieron ⟨su⟩ mano bajo Shlomó el rey.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Y todos"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "los príncipes"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "y los hombres poderosos"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "y también"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del rey"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dieron"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨su⟩ mano"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bajo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,76 +79,6 @@
       "hebrew": "שלמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57175,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57613
-  },
-  "translation": "Y todos los príncipes y los hombres poderosos, y también todos ⟨los⟩ hijos del rey Davidd, dieron ⟨su⟩ mano bajo Shlomó el rey.",
-  "tokens": [
-    {
-      "surface": "וכל",
-      "english": "Y todos"
-    },
-    {
-      "surface": "השרים",
-      "english": "los príncipes"
-    },
-    {
-      "surface": "והגברים",
-      "english": "y los hombres poderosos"
-    },
-    {
-      "surface": "וגם",
-      "english": "y también"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos"
-    },
-    {
-      "surface": "המלך",
-      "english": "del rey"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "נתנו",
-      "english": "dieron"
-    },
-    {
-      "surface": "יד",
-      "english": "⟨su⟩ mano"
-    },
-    {
-      "surface": "תחת",
-      "english": "bajo"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:58:59.010214740Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

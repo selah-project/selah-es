@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 33:4",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26064,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26511
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:40:48.508780357Z",
   "translation": "Y ⟨es⟩ reunido ⟨el⟩ botín de ustedes — una recolección de ⟨la⟩ oruga; como ⟨el⟩ correr de ⟨las⟩ langostas, ⟨ella⟩ corre sobre ⟨ella⟩.",
   "tokens": [
     {
       "surface": "ואסף",
-      "english": "Y ⟨es⟩ reunido"
+      "gloss": "Y ⟨es⟩ reunido"
     },
     {
       "surface": "שללכם",
-      "english": "⟨el⟩ botín de ustedes"
+      "gloss": "⟨el⟩ botín de ustedes"
     },
     {
       "surface": "אסף",
-      "english": "una recolección de ⟨la⟩ oruga"
+      "gloss": "una recolección de ⟨la⟩ oruga"
     },
     {
       "surface": "החסיל",
-      "english": "oruga"
+      "gloss": "oruga"
     },
     {
       "surface": "כמשק",
-      "english": "como ⟨el⟩ correr"
+      "gloss": "como ⟨el⟩ correr"
     },
     {
       "surface": "גבים",
-      "english": "⟨las⟩ langostas"
+      "gloss": "⟨las⟩ langostas"
     },
     {
       "surface": "שוקק",
-      "english": "⟨ella⟩ corre"
+      "gloss": "⟨ella⟩ corre"
     },
     {
       "surface": "בו",
-      "english": "sobre ⟨ella⟩"
+      "gloss": "sobre ⟨ella⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:40:48.508780357Z",
-  "model": "glm-4.5"
+  ]
 }

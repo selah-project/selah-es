@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 74:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 316,
-    "prompt_tokens": 70060,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70376
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:51.596957697Z",
   "translation": "Tú hendiste ⟨el⟩ manantial y el arroyo; tú secaste los ríos perpetuos.",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "בקעת",
-      "english": "hendiste"
+      "gloss": "hendiste"
     },
     {
       "surface": "מעין",
-      "english": "⟨el⟩ manantial"
+      "gloss": "⟨el⟩ manantial"
     },
     {
       "surface": "ונחל",
-      "english": "y el arroyo"
+      "gloss": "y el arroyo"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "הובשת",
-      "english": "secaste"
+      "gloss": "secaste"
     },
     {
       "surface": "נהרות",
-      "english": "los ríos"
+      "gloss": "los ríos"
     },
     {
       "surface": "איתן",
-      "english": "perpetuos"
+      "gloss": "perpetuos"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:51.596957697Z",
-  "model": "glm-4.5"
+  ]
 }

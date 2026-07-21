@@ -1,83 +1,75 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "leviticus 20:10",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 561,
-    "prompt_tokens": 25396,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25957
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:43:49.228837233Z",
   "translation": "Y ⟨el⟩ varón que adultera ⟨את⟩ ⟨la⟩ mujer de ⟨un⟩ varón, que adultera ⟨את⟩ ⟨la⟩ mujer de su compañero, ⟨el⟩ adúltero y ⟨la⟩ adúltera morirán ⟨seguramente⟩.",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "Y ⟨el⟩ varón"
+      "gloss": "Y ⟨el⟩ varón"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "ינאף",
-      "english": "adultera"
+      "gloss": "adultera"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨la⟩ mujer"
     },
     {
       "surface": "אשת",
-      "english": "⟨la⟩ mujer"
+      "gloss": "⟨la⟩ mujer"
     },
     {
       "surface": "איש",
-      "english": "de ⟨un⟩ varón"
+      "gloss": "de ⟨un⟩ varón"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "ינאף",
-      "english": "adultera"
+      "gloss": "adultera"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨la⟩ mujer"
     },
     {
       "surface": "אשת",
-      "english": "⟨la⟩ mujer"
+      "gloss": "⟨la⟩ mujer"
     },
     {
       "surface": "רעהו",
-      "english": "de su compañero"
+      "gloss": "de su compañero"
     },
     {
       "surface": "מות",
-      "english": "morirán"
+      "gloss": "morirán"
     },
     {
       "surface": "יומת",
-      "english": "⟨seguramente⟩"
+      "gloss": "⟨seguramente⟩"
     },
     {
       "surface": "הנאף",
-      "english": "⟨el⟩ adúltero"
+      "gloss": "⟨el⟩ adúltero"
     },
     {
       "surface": "והנאפת",
-      "english": "y ⟨la⟩ adúltera"
+      "gloss": "y ⟨la⟩ adúltera"
     }
-  ],
-  "timestamp": "2026-07-16T22:43:49.228837233Z",
-  "model": "glm-4.5"
+  ]
 }

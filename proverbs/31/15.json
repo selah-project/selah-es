@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 31:15",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59956,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60352
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:35.868689955Z",
   "translation": "Y se levanta ⟨en⟩ ⟨la⟩ ⟨todavía⟩ noche, y da presa ⟨a⟩ su casa, y ración ⟨a⟩ sus criadas.",
   "tokens": [
     {
       "surface": "ותקם",
-      "english": "Y se levanta"
+      "gloss": "Y se levanta"
     },
     {
       "surface": "בעוד",
-      "english": "⟨en⟩ ⟨la⟩ ⟨todavía⟩"
+      "gloss": "⟨en⟩ ⟨la⟩ ⟨todavía⟩"
     },
     {
       "surface": "לילה",
-      "english": "noche"
+      "gloss": "noche"
     },
     {
       "surface": "ותתן",
-      "english": "y da"
+      "gloss": "y da"
     },
     {
       "surface": "טרף",
-      "english": "presa"
+      "gloss": "presa"
     },
     {
       "surface": "לביתה",
-      "english": "⟨a⟩ su casa"
+      "gloss": "⟨a⟩ su casa"
     },
     {
       "surface": "וחק",
-      "english": "y ración"
+      "gloss": "y ración"
     },
     {
       "surface": "לנערתיה",
-      "english": "⟨a⟩ sus criadas"
+      "gloss": "⟨a⟩ sus criadas"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:35.868689955Z",
-  "model": "glm-4.5"
+  ]
 }

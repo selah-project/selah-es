@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 33:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 290,
-    "prompt_tokens": 24945,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25235
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:13:56.806143992Z",
   "translation": "Y partieron los hijos de Yisrael de Rameses y acamparon en Succoth",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "y partieron"
+      "gloss": "y partieron"
     },
     {
       "surface": "בני",
-      "english": "los hijos de"
+      "gloss": "los hijos de"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מרעמסס",
-      "english": "de Rameses"
+      "gloss": "de Rameses"
     },
     {
       "surface": "ויחנו",
-      "english": "y acamparon"
+      "gloss": "y acamparon"
     },
     {
       "surface": "בסכת",
-      "english": "en Succoth"
+      "gloss": "en Succoth"
     }
-  ],
-  "timestamp": "2026-07-16T23:13:56.806143992Z",
-  "model": "glm-4.5"
+  ]
 }

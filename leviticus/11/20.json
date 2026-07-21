@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "leviticus 11:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17125,
-    "prompt_tokens_details": {
-      "cached_tokens": 16069
-    },
-    "total_tokens": 17557
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:42:47.927956888Z",
   "translation": "Cualquier cosa que se arrastra entre las aves ⟨el⟩ que camina sobre ⟨los⟩ cuatro ⟨pies⟩ ⟨es⟩ abominación ⟨para⟩ ustedes",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Cualquier cosa"
+      "gloss": "Cualquier cosa"
     },
     {
       "surface": "שרץ",
-      "english": "que se arrastra"
+      "gloss": "que se arrastra"
     },
     {
       "surface": "העוף",
-      "english": "entre las aves"
+      "gloss": "entre las aves"
     },
     {
       "surface": "ההלך",
-      "english": "⟨el⟩ que camina",
+      "gloss": "⟨el⟩ que camina",
       "marks": "entre las aves que camina"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ארבע",
-      "english": "⟨los⟩ cuatro ⟨pies⟩"
+      "gloss": "⟨los⟩ cuatro ⟨pies⟩"
     },
     {
       "surface": "שקץ",
-      "english": "abominación"
+      "gloss": "abominación"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "לכם",
-      "english": "⟨para⟩ ustedes"
+      "gloss": "⟨para⟩ ustedes"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:42:47.927956888Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "deuteronomy 6:16",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 504,
-    "prompt_tokens": 24837,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25341
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:44:11.104091652Z",
   "translation": "No ⟨tentéis⟩ a YHWH vuestro Elohim, como ⟨lo⟩ ⟨tentasteis⟩ en ⟨Masá⟩",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תנסו",
-      "english": "⟨tentéis⟩"
+      "gloss": "⟨tentéis⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH vuestro Elohim"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיכם",
-      "english": "vuestro Elohim"
+      "gloss": "vuestro Elohim"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "נסיתם",
-      "english": "⟨lo⟩ ⟨tentasteis⟩"
+      "gloss": "⟨lo⟩ ⟨tentasteis⟩"
     },
     {
       "surface": "במסה",
-      "english": "en ⟨Masá⟩"
+      "gloss": "en ⟨Masá⟩"
     }
-  ],
-  "timestamp": "2026-07-16T19:44:11.104091652Z",
-  "model": "glm-4.5"
+  ]
 }

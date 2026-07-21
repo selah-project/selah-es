@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "proverbs 23:18",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59815,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60175
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:45:58.445253977Z",
   "translation": "Porque ⟨si⟩ ⟨hay⟩ un futuro, ⟨y⟩ tu esperanza ⟨no⟩ ⟨será⟩ cortada.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אם",
-      "english": "⟨si⟩"
+      "gloss": "⟨si⟩"
     },
     {
       "surface": "יש",
-      "english": "⟨hay⟩"
+      "gloss": "⟨hay⟩"
     },
     {
       "surface": "אחרית",
-      "english": "un futuro"
+      "gloss": "un futuro"
     },
     {
       "surface": "ותקותך",
-      "english": "⟨y⟩ tu esperanza"
+      "gloss": "⟨y⟩ tu esperanza"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תכרת",
-      "english": "⟨será⟩ cortada"
+      "gloss": "⟨será⟩ cortada"
     }
-  ],
-  "timestamp": "2026-06-10T01:45:58.445253977Z",
-  "model": "glm-4.5"
+  ]
 }

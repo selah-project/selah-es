@@ -1,80 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "numbers 3:7",
   "book": "numbers",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 521,
-    "prompt_tokens": 25928,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26449
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:56:22.380312636Z",
   "translation": "y guardarán ⟨את⟩ su custodia, y ⟨את⟩ la custodia de toda la congregación delante de ⟨el⟩ Ohel Moed, para servir ⟨את⟩ el servicio del Mishkán",
   "tokens": [
     {
       "surface": "ושמרו",
-      "english": "y guardarán"
+      "gloss": "y guardarán"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su custodia"
     },
     {
       "surface": "משמרתו",
-      "english": "su custodia"
+      "gloss": "su custodia"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la custodia"
     },
     {
       "surface": "משמרת",
-      "english": "custodia"
+      "gloss": "custodia"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "העדה",
-      "english": "congregación"
+      "gloss": "congregación"
     },
     {
       "surface": "לפני",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "אהל",
-      "english": "Ohel"
+      "gloss": "Ohel"
     },
     {
       "surface": "מועד",
-      "english": "Moed"
+      "gloss": "Moed"
     },
     {
       "surface": "לעבד",
-      "english": "para servir"
+      "gloss": "para servir"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el servicio"
     },
     {
       "surface": "עבדת",
-      "english": "servicio"
+      "gloss": "servicio"
     },
     {
       "surface": "המשכן",
-      "english": "del Mishkán"
+      "gloss": "del Mishkán"
     }
-  ],
-  "timestamp": "2026-07-16T22:56:22.380312636Z",
-  "model": "glm-4.5"
+  ]
 }

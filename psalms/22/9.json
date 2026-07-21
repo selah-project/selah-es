@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.1",
-  "verse": 9,
   "ref": "psalms 22:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 654,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69960,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70614
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:55:58.126147550Z",
   "translation": "Rueda ⟨hacia⟩ YHWH — ⟨Él⟩ lo librará, lo rescatará, pues se complace en él.",
   "tokens": [
     {
       "surface": "גל",
-      "english": "Rueda"
+      "gloss": "Rueda"
     },
     {
       "surface": "אל",
-      "english": "⟨hacia⟩"
+      "gloss": "⟨hacia⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יפלטהו",
-      "english": "⟨Él⟩ lo librará"
+      "gloss": "⟨Él⟩ lo librará"
     },
     {
       "surface": "יצילהו",
-      "english": "lo rescatará"
+      "gloss": "lo rescatará"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "חפץ",
-      "english": "se complace"
+      "gloss": "se complace"
     },
     {
       "surface": "בו",
-      "english": "en él"
+      "gloss": "en él"
     }
-  ],
-  "timestamp": "2026-06-13T03:55:58.126147550Z",
-  "model": "glm-5.1"
+  ]
 }

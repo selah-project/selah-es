@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 24:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 24,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:56:05.713338790Z",
+  "translation": "Y Moshé tomó ⟨el⟩ mitad ⟨del⟩ sangre y puso ⟨en⟩ ⟨los⟩ cuencos y ⟨el⟩ mitad ⟨del⟩ sangre derramó sobre ⟨el⟩ altar",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Y...tomó"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mitad"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sangre"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "y puso"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "en cuencos"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "y mitad"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sangre"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "derramó"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "el altar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,68 +64,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16792,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17272
-  },
-  "translation": "Y Moshé tomó ⟨el⟩ mitad ⟨del⟩ sangre y puso ⟨en⟩ ⟨los⟩ cuencos y ⟨el⟩ mitad ⟨del⟩ sangre derramó sobre ⟨el⟩ altar",
-  "tokens": [
-    {
-      "surface": "ויקח",
-      "english": "Y...tomó"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "חצי",
-      "english": "mitad"
-    },
-    {
-      "surface": "הדם",
-      "english": "sangre"
-    },
-    {
-      "surface": "וישם",
-      "english": "y puso"
-    },
-    {
-      "surface": "באגנת",
-      "english": "en cuencos"
-    },
-    {
-      "surface": "וחצי",
-      "english": "y mitad"
-    },
-    {
-      "surface": "הדם",
-      "english": "sangre"
-    },
-    {
-      "surface": "זרק",
-      "english": "derramó"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "המזבח",
-      "english": "el altar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:56:05.713338790Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

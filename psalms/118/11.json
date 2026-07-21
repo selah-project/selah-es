@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 118:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69971,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70355
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:58:25.474432007Z",
   "translation": "סַבּוּ\/נִי גַם סְבָבוּ\/נִי בְּ\/שֵׁם יְהוָה כִּי אֲמִילָם — ⟨They⟩ compassed me about; yea, ⟨they⟩ compassed me about: but in ⟨the⟩ name of YHWH ⟨I⟩ will cut them off.",
   "tokens": [
     {
       "surface": "סבוני",
-      "english": "⟨They⟩ compassed me about"
+      "gloss": "⟨They⟩ compassed me about"
     },
     {
       "surface": "גם",
-      "english": "yea"
+      "gloss": "yea"
     },
     {
       "surface": "סבבוני",
-      "english": "⟨they⟩ compassed me about"
+      "gloss": "⟨they⟩ compassed me about"
     },
     {
       "surface": "בשם",
-      "english": "in ⟨the⟩ name"
+      "gloss": "in ⟨the⟩ name"
     },
     {
       "surface": "יהוה",
-      "english": "of YHWH"
+      "gloss": "of YHWH"
     },
     {
       "surface": "כי",
-      "english": "but"
+      "gloss": "but"
     },
     {
       "surface": "אמילם",
-      "english": "⟨I⟩ will cut them off"
+      "gloss": "⟨I⟩ will cut them off"
     }
-  ],
-  "timestamp": "2026-06-09T23:58:25.474432007Z",
-  "model": "glm-4.5"
+  ]
 }

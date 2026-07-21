@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-kings 25:10",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 495,
-    "prompt_tokens": 24429,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24924
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:19:06.976220684Z",
   "translation": "y ⟨את⟩ las murallas de Yerushalayim alrededor derribó todo el ejército de los kasdim que ⟨estaba⟩ con el jefe de los verdugos",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "las murallas de Yerushalayim"
     },
     {
       "surface": "חומת",
-      "english": "las murallas"
+      "gloss": "las murallas"
     },
     {
       "surface": "ירושלם",
-      "english": "de Yerushalayim"
+      "gloss": "de Yerushalayim"
     },
     {
       "surface": "סביב",
-      "english": "alrededor"
+      "gloss": "alrededor"
     },
     {
       "surface": "נתצו",
-      "english": "derribó"
+      "gloss": "derribó"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "חיל",
-      "english": "el ejército"
+      "gloss": "el ejército"
     },
     {
       "surface": "כשדים",
-      "english": "de los kasdim"
+      "gloss": "de los kasdim"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "רב",
-      "english": "con el jefe"
+      "gloss": "con el jefe"
     },
     {
       "surface": "טבחים",
-      "english": "de los verdugos"
+      "gloss": "de los verdugos"
     }
-  ],
-  "timestamp": "2026-07-16T19:19:06.976220684Z",
-  "model": "glm-4.5"
+  ]
 }

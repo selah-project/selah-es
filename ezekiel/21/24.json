@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "ezekiel 21:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 21,
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:30:01.245807324Z",
+  "translation": "Y tú, ben adam, pon para ti dos caminos ⟨para venir⟩ ⟨la⟩ espada ⟨de⟩ rey ⟨de⟩ Bavel ⟨de⟩ ⟨una⟩ tierra saldrán ambos ⟨de⟩ ellos ⟨y⟩ ⟨una⟩ mano ⟨en⟩ ⟨el⟩ principio ⟨de⟩ camino ⟨de⟩ ciudad ⟨en⟩ ⟨el⟩ principio",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Y tú"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שים",
+      "gloss": "pon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dos"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "caminos"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "⟨para venir⟩",
+      "marks": "para venir"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨la⟩ espada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨de⟩ rey"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "⟨de⟩ Bavel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨de⟩ ⟨una⟩ tierra"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "saldrán"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ambos"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "⟨de⟩ ellos"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "⟨y⟩ ⟨una⟩ mano"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "⟨en⟩ ⟨el⟩ principio"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "⟨de⟩ camino"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨de⟩ ciudad"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨en⟩ ⟨el⟩ principio"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "⟨en⟩ ⟨el⟩ principio"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,109 +105,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 914,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18246,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 19160
-  },
-  "translation": "Y tú, ben adam, pon para ti dos caminos ⟨para venir⟩ ⟨la⟩ espada ⟨de⟩ rey ⟨de⟩ Bavel ⟨de⟩ ⟨una⟩ tierra saldrán ambos ⟨de⟩ ellos ⟨y⟩ ⟨una⟩ mano ⟨en⟩ ⟨el⟩ principio ⟨de⟩ camino ⟨de⟩ ciudad ⟨en⟩ ⟨el⟩ principio",
-  "tokens": [
-    {
-      "surface": "ואתה",
-      "english": "Y tú"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "אדם",
-      "english": "adam"
-    },
-    {
-      "surface": "שים",
-      "english": "pon"
-    },
-    {
-      "surface": "לך",
-      "english": "para ti"
-    },
-    {
-      "surface": "שנים",
-      "english": "dos"
-    },
-    {
-      "surface": "דרכים",
-      "english": "caminos"
-    },
-    {
-      "surface": "לבוא",
-      "english": "⟨para venir⟩",
-      "marks": "para venir"
-    },
-    {
-      "surface": "חרב",
-      "english": "⟨la⟩ espada"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨de⟩ rey"
-    },
-    {
-      "surface": "בבל",
-      "english": "⟨de⟩ Bavel"
-    },
-    {
-      "surface": "מארץ",
-      "english": "⟨de⟩ ⟨una⟩ tierra"
-    },
-    {
-      "surface": "אחד",
-      "english": "saldrán"
-    },
-    {
-      "surface": "יצאו",
-      "english": "ambos"
-    },
-    {
-      "surface": "שניהם",
-      "english": "⟨de⟩ ellos"
-    },
-    {
-      "surface": "ויד",
-      "english": "⟨y⟩ ⟨una⟩ mano"
-    },
-    {
-      "surface": "ברא",
-      "english": "⟨en⟩ ⟨el⟩ principio"
-    },
-    {
-      "surface": "בראש",
-      "english": "⟨de⟩ camino"
-    },
-    {
-      "surface": "דרך",
-      "english": "⟨de⟩ ciudad"
-    },
-    {
-      "surface": "עיר",
-      "english": "⟨en⟩ ⟨el⟩ principio"
-    },
-    {
-      "surface": "ברא",
-      "english": "⟨en⟩ ⟨el⟩ principio"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:30:01.245807324Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

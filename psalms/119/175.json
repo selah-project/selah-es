@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 175,
   "ref": "psalms 119:175",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 438,
-    "prompt_tokens": 69854,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70292
-  },
+  "verse": 175,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:37.744929970Z",
   "translation": "Que ⟨mi⟩ alma viva, y ⟨ella⟩ te alabará; y tus ordenanzas ⟨son⟩ las que ⟨me⟩ ayudarán.",
   "tokens": [
     {
       "surface": "תחי",
-      "english": "Que ⟨mi⟩ alma viva"
+      "gloss": "Que ⟨mi⟩ alma viva"
     },
     {
       "surface": "נפשי",
-      "english": "⟨mi⟩ alma"
+      "gloss": "⟨mi⟩ alma"
     },
     {
       "surface": "ותהללך",
-      "english": "y ⟨ella⟩ te alabará"
+      "gloss": "y ⟨ella⟩ te alabará"
     },
     {
       "surface": "ומשפטך",
-      "english": "y tus ordenanzas"
+      "gloss": "y tus ordenanzas"
     },
     {
       "surface": "יעזרני",
-      "english": "⟨son⟩ las que ⟨me⟩ ayudarán"
+      "gloss": "⟨son⟩ las que ⟨me⟩ ayudarán"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:37.744929970Z",
-  "model": "glm-4.5"
+  ]
 }

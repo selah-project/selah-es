@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 149:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 149,
-  "usage": {
-    "completion_tokens": 734,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69806,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70540
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:50.312317921Z",
   "translation": "⟨Las⟩ altas exaltaciones de Elohim ⟨en⟩ sus gargantas, y ⟨una⟩ espada ⟨de⟩ dos filos ⟨en⟩ sus manos",
   "tokens": [
     {
       "surface": "רוממות",
-      "english": "⟨Las⟩ altas exaltaciones de Elohim",
+      "gloss": "⟨Las⟩ altas exaltaciones de Elohim",
       "marks": null,
       "lemma": 7319,
       "gv": 692,
@@ -29,7 +20,7 @@
     },
     {
       "surface": "אל",
-      "english": "Elohim",
+      "gloss": "Elohim",
       "marks": null,
       "lemma": 410,
       "gv": 31,
@@ -38,7 +29,7 @@
     },
     {
       "surface": "בגרונם",
-      "english": "⟨en⟩ sus gargantas",
+      "gloss": "⟨en⟩ sus gargantas",
       "marks": null,
       "lemma": "b\/1627",
       "gv": 301,
@@ -47,7 +38,7 @@
     },
     {
       "surface": "וחרב",
-      "english": "y ⟨una⟩ espada",
+      "gloss": "y ⟨una⟩ espada",
       "marks": null,
       "lemma": "c\/2719",
       "gv": 216,
@@ -56,7 +47,7 @@
     },
     {
       "surface": "פיפיות",
-      "english": "⟨de⟩ dos filos",
+      "gloss": "⟨de⟩ dos filos",
       "marks": null,
       "lemma": 6374,
       "gv": 586,
@@ -65,14 +56,12 @@
     },
     {
       "surface": "בידם",
-      "english": "⟨en⟩ sus manos",
+      "gloss": "⟨en⟩ sus manos",
       "marks": null,
       "lemma": "b\/3027",
       "gv": 56,
       "freq": 34,
       "hapax": false
     }
-  ],
-  "timestamp": "2026-06-10T00:12:50.312317921Z",
-  "model": "glm-4.5"
+  ]
 }

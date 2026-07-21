@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 21:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 21,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:49:57.227655093Z",
+  "translation": "Y ⟨la⟩ palabra del rey prevaleció ⟨fue⟩ ⟨más fuerte que⟩ ⟨al⟩ ⟨Yehová⟩, y Yehová salió y anduvo por todo Yisrael, y vino ⟨a⟩ Yerushaláyim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "Y ⟨la⟩ palabra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del rey"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "prevaleció ⟨fue⟩ ⟨más fuerte que⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "⟨Yehová⟩"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "y Yehová salió"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "y Yehová"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "y anduvo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "por todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "y vino ⟨a⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaláyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57200,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57741
-  },
-  "translation": "Y ⟨la⟩ palabra del rey prevaleció ⟨fue⟩ ⟨más fuerte que⟩ ⟨al⟩ ⟨Yehová⟩, y Yehová salió y anduvo por todo Yisrael, y vino ⟨a⟩ Yerushaláyim.",
-  "tokens": [
-    {
-      "surface": "ודבר",
-      "english": "Y ⟨la⟩ palabra"
-    },
-    {
-      "surface": "המלך",
-      "english": "del rey"
-    },
-    {
-      "surface": "חזק",
-      "english": "prevaleció ⟨fue⟩ ⟨más fuerte que⟩"
-    },
-    {
-      "surface": "על",
-      "english": "⟨al⟩"
-    },
-    {
-      "surface": "יואב",
-      "english": "⟨Yehová⟩"
-    },
-    {
-      "surface": "ויצא",
-      "english": "y Yehová salió"
-    },
-    {
-      "surface": "יואב",
-      "english": "y Yehová"
-    },
-    {
-      "surface": "ויתהלך",
-      "english": "y anduvo"
-    },
-    {
-      "surface": "בכל",
-      "english": "por todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויבא",
-      "english": "y vino ⟨a⟩"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushaláyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:49:57.227655093Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

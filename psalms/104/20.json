@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 104:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 254,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70025,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70279
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:43.011469750Z",
   "translation": "Tú haces la oscuridad y ⟨es⟩ noche; en ella ⟨se deslizan⟩ todos ⟨los⟩ animales ⟨del⟩ bosque.",
   "tokens": [
     {
       "surface": "תשת",
-      "english": "Tú haces"
+      "gloss": "Tú haces"
     },
     {
       "surface": "חשך",
-      "english": "la oscuridad"
+      "gloss": "la oscuridad"
     },
     {
       "surface": "ויהי",
-      "english": "y ⟨es⟩"
+      "gloss": "y ⟨es⟩"
     },
     {
       "surface": "לילה",
-      "english": "noche"
+      "gloss": "noche"
     },
     {
       "surface": "בו",
-      "english": "en ella"
+      "gloss": "en ella"
     },
     {
       "surface": "תרמש",
-      "english": "⟨se deslizan⟩"
+      "gloss": "⟨se deslizan⟩"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨los⟩"
+      "gloss": "todos ⟨los⟩"
     },
     {
       "surface": "חיתו",
-      "english": "animales ⟨del⟩"
+      "gloss": "animales ⟨del⟩"
     },
     {
       "surface": "יער",
-      "english": "bosque"
+      "gloss": "bosque"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:43.011469750Z",
-  "model": "glm-4.5"
+  ]
 }

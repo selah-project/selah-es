@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-chronicles 22:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 22,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:51:19.937018818Z",
+  "translation": "Y ⟨el⟩ bronce en abundancia ⟨para⟩ ⟨los⟩ clavos ⟨de⟩ las hojas ⟨de⟩ las puertas ⟨y⟩ ⟨los⟩ ensamblajes, preparó Davidd—y ⟨el⟩ cobre en abundancia, ⟨sin⟩ pesar.",
+  "tokens": [
+    {
+      "surface": "וברזל",
+      "gloss": "Y ⟨el⟩ bronce"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "en abundancia"
+    },
+    {
+      "surface": "למסמרים",
+      "gloss": "⟨para⟩ ⟨los⟩ clavos"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "⟨de⟩ las hojas ⟨de⟩ las puertas"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "⟨de⟩ las puertas"
+    },
+    {
+      "surface": "ולמחברות",
+      "gloss": "⟨y⟩ ⟨los⟩ ensamblajes"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "preparó"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "y ⟨el⟩ cobre"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "en abundancia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨sin⟩"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "pesar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,72 +68,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 837,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57156,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57993
-  },
-  "translation": "Y ⟨el⟩ bronce en abundancia ⟨para⟩ ⟨los⟩ clavos ⟨de⟩ las hojas ⟨de⟩ las puertas ⟨y⟩ ⟨los⟩ ensamblajes, preparó Davidd—y ⟨el⟩ cobre en abundancia, ⟨sin⟩ pesar.",
-  "tokens": [
-    {
-      "surface": "וברזל",
-      "english": "Y ⟨el⟩ bronce"
-    },
-    {
-      "surface": "לרב",
-      "english": "en abundancia"
-    },
-    {
-      "surface": "למסמרים",
-      "english": "⟨para⟩ ⟨los⟩ clavos"
-    },
-    {
-      "surface": "לדלתות",
-      "english": "⟨de⟩ las hojas ⟨de⟩ las puertas"
-    },
-    {
-      "surface": "השערים",
-      "english": "⟨de⟩ las puertas"
-    },
-    {
-      "surface": "ולמחברות",
-      "english": "⟨y⟩ ⟨los⟩ ensamblajes"
-    },
-    {
-      "surface": "הכין",
-      "english": "preparó"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ונחשת",
-      "english": "y ⟨el⟩ cobre"
-    },
-    {
-      "surface": "לרב",
-      "english": "en abundancia"
-    },
-    {
-      "surface": "אין",
-      "english": "⟨sin⟩"
-    },
-    {
-      "surface": "משקל",
-      "english": "pesar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:51:19.937018818Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

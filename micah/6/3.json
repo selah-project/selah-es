@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "micah 6:3",
   "book": "micah",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22777,
-    "prompt_tokens_details": {
-      "cached_tokens": 21745
-    },
-    "total_tokens": 23257
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:31:57.458807442Z",
   "translation": "Pueblo mío, ¿qué ⟨he⟩ hecho ⟨a⟩ ti, y cómo ⟨te⟩ ⟨he⟩ ⟨fatigado⟩? Responde ⟨a⟩ mí.",
   "tokens": [
     {
       "surface": "עמי",
-      "english": "Pueblo mío"
+      "gloss": "Pueblo mío"
     },
     {
       "surface": "מה",
-      "english": "¿qué"
+      "gloss": "¿qué"
     },
     {
       "surface": "עשיתי",
-      "english": "⟨he⟩ hecho"
+      "gloss": "⟨he⟩ hecho"
     },
     {
       "surface": "לך",
-      "english": "⟨a⟩ ti"
+      "gloss": "⟨a⟩ ti"
     },
     {
       "surface": "ומה",
-      "english": "y cómo"
+      "gloss": "y cómo"
     },
     {
       "surface": "הלאתיך",
-      "english": "⟨te⟩ ⟨he⟩ ⟨fatigado⟩"
+      "gloss": "⟨te⟩ ⟨he⟩ ⟨fatigado⟩"
     },
     {
       "surface": "ענה",
-      "english": "Responde"
+      "gloss": "Responde"
     },
     {
       "surface": "בי",
-      "english": "⟨a⟩ mí"
+      "gloss": "⟨a⟩ mí"
     }
-  ],
-  "timestamp": "2026-06-10T00:31:57.458807442Z",
-  "model": "glm-4.5"
+  ]
 }

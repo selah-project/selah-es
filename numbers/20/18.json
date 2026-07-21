@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "numbers 20:18",
   "book": "numbers",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25239,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25721
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:56:26.423247036Z",
   "translation": "Y Edom dijo a él: ⟨Tú⟩ no pasarás ⟨a través de⟩ mí, ⟨por⟩ no ⟨venga⟩ yo ⟨con⟩ ⟨la⟩ espada ⟨a⟩ ⟨tu⟩ encuentro.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "אליו",
-      "english": "a él"
+      "gloss": "a él"
     },
     {
       "surface": "אדום",
-      "english": "Edom"
+      "gloss": "Edom"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תעבר",
-      "english": "pasarás"
+      "gloss": "pasarás"
     },
     {
       "surface": "בי",
-      "english": "⟨a través de⟩ mí"
+      "gloss": "⟨a través de⟩ mí"
     },
     {
       "surface": "פן",
-      "english": "⟨por⟩ no"
+      "gloss": "⟨por⟩ no"
     },
     {
       "surface": "בחרב",
-      "english": "⟨con⟩ ⟨la⟩ espada"
+      "gloss": "⟨con⟩ ⟨la⟩ espada"
     },
     {
       "surface": "אצא",
-      "english": "⟨venga⟩ yo"
+      "gloss": "⟨venga⟩ yo"
     },
     {
       "surface": "לקראתך",
-      "english": "⟨a⟩ ⟨tu⟩ encuentro"
+      "gloss": "⟨a⟩ ⟨tu⟩ encuentro"
     }
-  ],
-  "timestamp": "2026-06-10T04:56:26.423247036Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 72:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69791,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70211
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:17.189352444Z",
   "translation": "⟨shall⟩ lift ⟨the⟩ mountains peace ⟨to⟩ ⟨the⟩ people ⟨and⟩ ⟨the⟩ hills ⟨in⟩ righteousness",
   "tokens": [
     {
       "surface": "ישאו",
-      "english": "⟨Shall⟩ lift"
+      "gloss": "⟨Shall⟩ lift"
     },
     {
       "surface": "הרים",
-      "english": "⟨the⟩ mountains"
+      "gloss": "⟨the⟩ mountains"
     },
     {
       "surface": "שלום",
-      "english": "peace"
+      "gloss": "peace"
     },
     {
       "surface": "לעם",
-      "english": "⟨to⟩ ⟨the⟩ people"
+      "gloss": "⟨to⟩ ⟨the⟩ people"
     },
     {
       "surface": "וגבעות",
-      "english": "⟨and⟩ ⟨the⟩ hills"
+      "gloss": "⟨and⟩ ⟨the⟩ hills"
     },
     {
       "surface": "בצדקה",
-      "english": "⟨in⟩ righteousness"
+      "gloss": "⟨in⟩ righteousness"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:17.189352444Z",
-  "model": "glm-4.5"
+  ]
 }

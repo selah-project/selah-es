@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 34:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 537,
-    "prompt_tokens": 25229,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25766
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:14:32.962361594Z",
   "translation": "y el borde girará desde Azmon hasta el torrente de Mitsráyim, y serán sus salidas hacia el Mar.",
   "tokens": [
     {
       "surface": "ונסב",
-      "english": "y el borde girará"
+      "gloss": "y el borde girará"
     },
     {
       "surface": "הגבול",
-      "english": "⟨el borde⟩"
+      "gloss": "⟨el borde⟩"
     },
     {
       "surface": "מעצמון",
-      "english": "desde Azmon"
+      "gloss": "desde Azmon"
     },
     {
       "surface": "נחלה",
-      "english": "hasta el torrente"
+      "gloss": "hasta el torrente"
     },
     {
       "surface": "מצרים",
-      "english": "de Mitsráyim"
+      "gloss": "de Mitsráyim"
     },
     {
       "surface": "והיו",
-      "english": "y serán"
+      "gloss": "y serán"
     },
     {
       "surface": "תוצאתיו",
-      "english": "sus salidas"
+      "gloss": "sus salidas"
     },
     {
       "surface": "הימה",
-      "english": "hacia el Mar"
+      "gloss": "hacia el Mar"
     }
-  ],
-  "timestamp": "2026-07-16T23:14:32.962361594Z",
-  "model": "glm-4.5"
+  ]
 }

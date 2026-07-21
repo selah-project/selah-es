@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "psalms 18:35",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69932,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70377
-  },
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:10.835534509Z",
   "translation": "⟨Él⟩ ⟨es⟩ quien adiestra mis manos ⟨para⟩ la guerra, ⟨y⟩ ⟨con⟩ mis brazos se dobla ⟨un⟩ arco ⟨de⟩ bronce",
   "tokens": [
     {
       "surface": "מלמד",
-      "english": "⟨Él⟩ ⟨es⟩ quien adiestra"
+      "gloss": "⟨Él⟩ ⟨es⟩ quien adiestra"
     },
     {
       "surface": "ידי",
-      "english": "mis manos"
+      "gloss": "mis manos"
     },
     {
       "surface": "למלחמה",
-      "english": "⟨para⟩ la guerra"
+      "gloss": "⟨para⟩ la guerra"
     },
     {
       "surface": "ונחתה",
-      "english": "⟨y⟩ ⟨con⟩"
+      "gloss": "⟨y⟩ ⟨con⟩"
     },
     {
       "surface": "קשת",
-      "english": "⟨un⟩ arco"
+      "gloss": "⟨un⟩ arco"
     },
     {
       "surface": "נחושה",
-      "english": "⟨de⟩ bronce"
+      "gloss": "⟨de⟩ bronce"
     },
     {
       "surface": "זרועתי",
-      "english": "mis brazos se dobla"
+      "gloss": "mis brazos se dobla"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:10.835534509Z",
-  "model": "glm-4.5"
+  ]
 }

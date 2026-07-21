@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "proverbs 27:24",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59842,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60202
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:49:51.959564491Z",
   "translation": "Porque ⟨el⟩ tesoro ⟨no es⟩ para siempre, y ⟨la⟩ corona ⟨no será⟩ de generación ⟨a⟩ generación.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסן",
-      "english": "tesoro"
+      "gloss": "tesoro"
     },
     {
       "surface": "ואם",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "נזר",
-      "english": "corona"
+      "gloss": "corona"
     },
     {
       "surface": "לדור",
-      "english": "de generación"
+      "gloss": "de generación"
     },
     {
       "surface": "דור",
-      "english": "a generación"
+      "gloss": "a generación"
     }
-  ],
-  "timestamp": "2026-06-10T01:49:51.959564491Z",
-  "model": "glm-4.5"
+  ]
 }

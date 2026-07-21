@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 11:16",
   "book": "genesis",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28383,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28692
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:11:01.139363338Z",
   "translation": "Y vivió Ever ⟨es⟩ cuatro y treinta años, y engendró ⟨a⟩ Peleg.",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "Y vivió"
+      "gloss": "Y vivió"
     },
     {
       "surface": "עבר",
-      "english": "Ever"
+      "gloss": "Ever"
     },
     {
       "surface": "ארבע",
-      "english": "cuatro"
+      "gloss": "cuatro"
     },
     {
       "surface": "ושלשים",
-      "english": "y treinta"
+      "gloss": "y treinta"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "ויולד",
-      "english": "y engendró"
+      "gloss": "y engendró"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Peleg"
     },
     {
       "surface": "פלג",
-      "english": "Peleg"
+      "gloss": "Peleg"
     }
-  ],
-  "timestamp": "2026-06-10T05:11:01.139363338Z",
-  "model": "glm-4.5"
+  ]
 }

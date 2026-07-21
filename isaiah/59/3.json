@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 59:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26604,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 27147
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:57:12.330399870Z",
   "translation": "Porque ⟨las⟩ manos de ustedes ⟨están⟩ manchadas con sangre, y ⟨los⟩ dedos de ustedes con iniquidad; ⟨los⟩ labios de ustedes han hablado mentira, ⟨y⟩ ⟨la⟩ lengua de ustedes murmura perversidad.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "כפיכם",
-      "english": "⟨las⟩ manos de ustedes"
+      "gloss": "⟨las⟩ manos de ustedes"
     },
     {
       "surface": "נגאלו",
-      "english": "⟨están⟩ manchadas"
+      "gloss": "⟨están⟩ manchadas"
     },
     {
       "surface": "בדם",
-      "english": "con sangre"
+      "gloss": "con sangre"
     },
     {
       "surface": "ואצבעותיכם",
-      "english": "y ⟨los⟩ dedos de ustedes"
+      "gloss": "y ⟨los⟩ dedos de ustedes"
     },
     {
       "surface": "בעון",
-      "english": "con iniquidad"
+      "gloss": "con iniquidad"
     },
     {
       "surface": "שפתותיכם",
-      "english": "⟨los⟩ labios de ustedes"
+      "gloss": "⟨los⟩ labios de ustedes"
     },
     {
       "surface": "דברו",
-      "english": "han hablado"
+      "gloss": "han hablado"
     },
     {
       "surface": "שקר",
-      "english": "mentira"
+      "gloss": "mentira"
     },
     {
       "surface": "לשונכם",
-      "english": "⟨la⟩ lengua de ustedes"
+      "gloss": "⟨la⟩ lengua de ustedes"
     },
     {
       "surface": "עולה",
-      "english": "murmura"
+      "gloss": "murmura"
     },
     {
       "surface": "תהגה",
-      "english": "perversidad"
+      "gloss": "perversidad"
     }
-  ],
-  "timestamp": "2026-06-10T02:57:12.330399870Z",
-  "model": "glm-4.5"
+  ]
 }

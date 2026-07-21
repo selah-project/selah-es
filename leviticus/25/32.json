@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "leviticus 25:32",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24645,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 25074
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:41:13.606556014Z",
   "translation": "Y las ciudades ⟨de⟩ los levitas ⟨son⟩ casas ⟨de⟩ las ciudades ⟨de⟩ su posesión; redención perpetua ⟨será⟩ para los levitas.",
   "tokens": [
     {
       "surface": "וערי",
-      "english": "Y las ciudades"
+      "gloss": "Y las ciudades"
     },
     {
       "surface": "הלוים",
-      "english": "⟨de⟩ los levitas"
+      "gloss": "⟨de⟩ los levitas"
     },
     {
       "surface": "בתי",
-      "english": "⟨son⟩ casas"
+      "gloss": "⟨son⟩ casas"
     },
     {
       "surface": "ערי",
-      "english": "⟨de⟩ las ciudades"
+      "gloss": "⟨de⟩ las ciudades"
     },
     {
       "surface": "אחזתם",
-      "english": "⟨de⟩ su posesión"
+      "gloss": "⟨de⟩ su posesión"
     },
     {
       "surface": "גאלת",
-      "english": "redención"
+      "gloss": "redención"
     },
     {
       "surface": "עולם",
-      "english": "perpetua"
+      "gloss": "perpetua"
     },
     {
       "surface": "תהיה",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "ללוים",
-      "english": "para los levitas"
+      "gloss": "para los levitas"
     }
-  ],
-  "timestamp": "2026-06-10T04:41:13.606556014Z",
-  "model": "glm-4.5"
+  ]
 }

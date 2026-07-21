@@ -1,9 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "1-chronicles 6:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 6,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:32:31.784337580Z",
+  "translation": "Y ⟨estas⟩ ⟨son⟩ los que estaban ⟨de pie⟩ y sus hijos, ⟨de⟩ ⟨los⟩ hijos ⟨de⟩ los coatitas: Hemán ⟨el⟩ cantor, hijo ⟨de⟩ Yoel, hijo ⟨de⟩ Shmuel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Y ⟨estas⟩",
+      "marks": "los que estaban de pie y sus hijos"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "⟨son⟩ los que estaban ⟨de pie⟩",
+      "marks": ""
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "y sus hijos",
+      "marks": ""
+    },
+    {
+      "surface": "מבני",
+      "gloss": "⟨de⟩ ⟨los⟩ hijos",
+      "marks": "los coatitas"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "⟨de⟩ los coatitas",
+      "marks": ""
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Hemán",
+      "marks": ""
+    },
+    {
+      "surface": "המשורר",
+      "gloss": "⟨el⟩ cantor",
+      "marks": "Hemán"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo ⟨de⟩",
+      "marks": "Joel"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel",
+      "marks": ""
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo ⟨de⟩",
+      "marks": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Joel",
@@ -20,79 +82,6 @@
       "hebrew": "שמואל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 613,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56966,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57579
-  },
-  "translation": "Y ⟨estas⟩ ⟨son⟩ los que estaban ⟨de pie⟩ y sus hijos, ⟨de⟩ ⟨los⟩ hijos ⟨de⟩ los coatitas: Hemán ⟨el⟩ cantor, hijo ⟨de⟩ Yoel, hijo ⟨de⟩ Shmuel.",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "Y ⟨estas⟩",
-      "marks": "los que estaban de pie y sus hijos"
-    },
-    {
-      "surface": "העמדים",
-      "english": "⟨son⟩ los que estaban ⟨de pie⟩",
-      "marks": ""
-    },
-    {
-      "surface": "ובניהם",
-      "english": "y sus hijos",
-      "marks": ""
-    },
-    {
-      "surface": "מבני",
-      "english": "⟨de⟩ ⟨los⟩ hijos",
-      "marks": "los coatitas"
-    },
-    {
-      "surface": "הקהתי",
-      "english": "⟨de⟩ los coatitas",
-      "marks": ""
-    },
-    {
-      "surface": "הימן",
-      "english": "Hemán",
-      "marks": ""
-    },
-    {
-      "surface": "המשורר",
-      "english": "⟨el⟩ cantor",
-      "marks": "Hemán"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo ⟨de⟩",
-      "marks": "Joel"
-    },
-    {
-      "surface": "יואל",
-      "english": "Yoel",
-      "marks": ""
-    },
-    {
-      "surface": "בן",
-      "english": "hijo ⟨de⟩",
-      "marks": "Samuel"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shmuel",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:32:31.784337580Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

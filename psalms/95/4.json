@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 95:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 95,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69870,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70256
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:47:13.027008986Z",
   "translation": "en cuya mano ⟨están⟩ las profundidades de la tierra y las cimas de los montes ⟨son⟩ suyas",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "En cuya"
+      "gloss": "En cuya"
     },
     {
       "surface": "בידו",
-      "english": "mano"
+      "gloss": "mano"
     },
     {
       "surface": "מחקרי",
-      "english": "profundidades"
+      "gloss": "profundidades"
     },
     {
       "surface": "ארץ",
-      "english": "de la tierra"
+      "gloss": "de la tierra"
     },
     {
       "surface": "ותועפות",
-      "english": "y las cimas"
+      "gloss": "y las cimas"
     },
     {
       "surface": "הרים",
-      "english": "de los montes"
+      "gloss": "de los montes"
     },
     {
       "surface": "לו",
-      "english": "suyas"
+      "gloss": "suyas"
     }
-  ],
-  "timestamp": "2026-06-09T23:47:13.027008986Z",
-  "model": "glm-4.5"
+  ]
 }

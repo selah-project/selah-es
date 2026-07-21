@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "psalms 89:33",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69733,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70155
-  },
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:43:48.698163903Z",
   "translation": "Y ⟨I⟩ visitaré ⟨את⟩ ⟨el⟩ pecado de ellos con ⟨la⟩ vara y ⟨la⟩ perversidad de ellos con ⟨las⟩ plagas.",
   "tokens": [
     {
       "surface": "ופקדתי",
-      "english": "Y ⟨I⟩ visitaré"
+      "gloss": "Y ⟨I⟩ visitaré"
     },
     {
       "surface": "בשבט",
-      "english": "con ⟨la⟩ vara"
+      "gloss": "con ⟨la⟩ vara"
     },
     {
       "surface": "פשעם",
-      "english": "⟨el⟩ pecado de ellos",
+      "gloss": "⟨el⟩ pecado de ellos",
       "marks": "pecado de ellos"
     },
     {
       "surface": "ובנגעים",
-      "english": "y ⟨la⟩ perversidad de ellos",
+      "gloss": "y ⟨la⟩ perversidad de ellos",
       "marks": "perversidad de ellos"
     },
     {
       "surface": "עונם",
-      "english": "con ⟨las⟩ plagas"
+      "gloss": "con ⟨las⟩ plagas"
     }
-  ],
-  "timestamp": "2026-06-09T23:43:48.698163903Z",
-  "model": "glm-4.5"
+  ]
 }

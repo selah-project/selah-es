@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 40:6",
   "book": "genesis",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 525,
-    "prompt_tokens": 28589,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29114
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:10:42.584894812Z",
   "translation": "Yosef vino a ellos ⟨por⟩ la mañana y vio ⟨את⟩ ellos, y he aquí, ellos estaban abatidos",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "Yosef vino"
+      "gloss": "Yosef vino"
     },
     {
       "surface": "אליהם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "יוסף",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "בבקר",
-      "english": "⟨por⟩ la mañana"
+      "gloss": "⟨por⟩ la mañana"
     },
     {
       "surface": "וירא",
-      "english": "y vio"
+      "gloss": "y vio"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ellos"
     },
     {
       "surface": "והנם",
-      "english": ", y he aquí, ellos"
+      "gloss": ", y he aquí, ellos"
     },
     {
       "surface": "זעפים",
-      "english": "estaban abatidos"
+      "gloss": "estaban abatidos"
     }
-  ],
-  "timestamp": "2026-07-16T21:10:42.584894812Z",
-  "model": "glm-4.5"
+  ]
 }

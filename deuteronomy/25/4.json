@@ -1,37 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "deuteronomy 25:4",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 272,
-    "prompt_tokens": 24353,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 24625
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:56:19.152379042Z",
   "translation": "No ⟨tú⟩ ⟨debes⟩ poner bozal ⟨al⟩ buey ⟨cuando⟩ está trillando.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תחסם",
-      "english": "⟨tú⟩ ⟨debes⟩ poner bozal"
+      "gloss": "⟨tú⟩ ⟨debes⟩ poner bozal"
     },
     {
       "surface": "שור",
-      "english": "⟨al⟩ buey"
+      "gloss": "⟨al⟩ buey"
     },
     {
       "surface": "בדישו",
-      "english": "⟨cuando⟩ está trillando"
+      "gloss": "⟨cuando⟩ está trillando"
     }
-  ],
-  "timestamp": "2026-07-16T19:56:19.152379042Z",
-  "model": "glm-4.5"
+  ]
 }

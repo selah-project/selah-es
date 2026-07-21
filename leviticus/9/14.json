@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "leviticus 9:14",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 530,
-    "prompt_tokens": 24794,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 25324
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:38:06.397343949Z",
   "translation": "y lavó ⟨את⟩ las entrañas y ⟨את⟩ las patas, e hizo subir humo sobre la ofrenda quemada sobre el altar",
   "tokens": [
     {
       "surface": "וירחץ",
-      "english": "y lavó"
+      "gloss": "y lavó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las entrañas"
     },
     {
       "surface": "הקרב",
-      "english": "las entrañas"
+      "gloss": "las entrañas"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las patas"
     },
     {
       "surface": "הכרעים",
-      "english": "las patas"
+      "gloss": "las patas"
     },
     {
       "surface": "ויקטר",
-      "english": "e hizo subir humo"
+      "gloss": "e hizo subir humo"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "העלה",
-      "english": "la ofrenda quemada"
+      "gloss": "la ofrenda quemada"
     },
     {
       "surface": "המזבחה",
-      "english": "el altar"
+      "gloss": "el altar"
     }
-  ],
-  "timestamp": "2026-07-17T00:38:06.397343949Z",
-  "model": "glm-4.5"
+  ]
 }

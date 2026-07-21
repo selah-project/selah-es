@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "numbers 22:2",
   "book": "numbers",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 452,
-    "prompt_tokens": 25399,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25851
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:08:27.842771288Z",
   "translation": "Y Balak ⟨el⟩ hijo de Zippor vio ⟨את⟩ ⟨todo⟩ lo que Israel había hecho al amorreo",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y Balak vio"
+      "gloss": "Y Balak vio"
     },
     {
       "surface": "בלק",
-      "english": "Balak"
+      "gloss": "Balak"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo de"
+      "gloss": "⟨el⟩ hijo de"
     },
     {
       "surface": "צפור",
-      "english": "Zippor"
+      "gloss": "Zippor"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨todo⟩"
     },
     {
       "surface": "כל",
-      "english": "⟨todo⟩"
+      "gloss": "⟨todo⟩"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "עשה",
-      "english": "había hecho"
+      "gloss": "había hecho"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "לאמרי",
-      "english": "al amorreo"
+      "gloss": "al amorreo"
     }
-  ],
-  "timestamp": "2026-07-16T23:08:27.842771288Z",
-  "model": "glm-4.5"
+  ]
 }

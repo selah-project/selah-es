@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 11:20",
   "book": "job",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 644,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27296,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27940
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:41.411453749Z",
   "translation": "Y los ojos de ⟨los⟩ malvados se consumirán y ⟨el⟩ refugio perecerá de ellos y ⟨la⟩ esperanza de ellos ⟨es⟩ exhalación ⟨de⟩ alma.",
   "tokens": [
     {
       "surface": "ועיני",
-      "english": "Y los ojos"
+      "gloss": "Y los ojos"
     },
     {
       "surface": "רשעים",
-      "english": "de ⟨los⟩ malvados"
+      "gloss": "de ⟨los⟩ malvados"
     },
     {
       "surface": "תכלינה",
-      "english": "se consumirán"
+      "gloss": "se consumirán"
     },
     {
       "surface": "ומנוס",
-      "english": "y ⟨el⟩ refugio"
+      "gloss": "y ⟨el⟩ refugio"
     },
     {
       "surface": "אבד",
-      "english": "perecerá"
+      "gloss": "perecerá"
     },
     {
       "surface": "מנהם",
-      "english": "de ellos"
+      "gloss": "de ellos"
     },
     {
       "surface": "ותקותם",
-      "english": "y ⟨la⟩ esperanza de ellos"
+      "gloss": "y ⟨la⟩ esperanza de ellos"
     },
     {
       "surface": "מפח",
-      "english": "exhalación"
+      "gloss": "exhalación"
     },
     {
       "surface": "נפש",
-      "english": "⟨de⟩ alma"
+      "gloss": "⟨de⟩ alma"
     }
-  ],
-  "timestamp": "2026-06-10T01:59:41.411453749Z",
-  "model": "glm-4.5"
+  ]
 }

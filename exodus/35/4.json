@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "exodus 35:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 35,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:15:19.215629552Z",
+  "translation": "Y Moshé habló a toda ⟨el⟩ asamblea de ⟨los⟩ hijos de Yisrael, diciendo: Este ⟨es⟩ ⟨el⟩ asunto que YHWH ha ordenado, diciendo:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y habló"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "asamblea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo:"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Este"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asunto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha ordenado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo:"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,80 +76,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17010,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 17484
-  },
-  "translation": "Y Moshé habló a toda ⟨el⟩ asamblea de ⟨los⟩ hijos de Yisrael, diciendo: Este ⟨es⟩ ⟨el⟩ asunto que YHWH ha ordenado, diciendo:",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y habló"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "עדת",
-      "english": "asamblea"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo:"
-    },
-    {
-      "surface": "זה",
-      "english": "Este"
-    },
-    {
-      "surface": "הדבר",
-      "english": "asunto"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "צוה",
-      "english": "ha ordenado"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo:"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:15:19.215629552Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

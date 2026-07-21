@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "jeremiah 51:15",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 632,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24638,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25270
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:47:02.242019070Z",
   "translation": "Él ⟨es⟩ el que hace la tierra ⟨con⟩ su poder, el que prepara ⟨el⟩ mundo ⟨con⟩ su sabiduría, y ⟨con⟩ su entendimiento tiende los cielos",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "Hace"
+      "gloss": "Hace"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "בכחו",
-      "english": "⟨con⟩ su poder"
+      "gloss": "⟨con⟩ su poder"
     },
     {
       "surface": "מכין",
-      "english": "prepara"
+      "gloss": "prepara"
     },
     {
       "surface": "תבל",
-      "english": "⟨el⟩ mundo"
+      "gloss": "⟨el⟩ mundo"
     },
     {
       "surface": "בחכמתו",
-      "english": "⟨con⟩ su sabiduría"
+      "gloss": "⟨con⟩ su sabiduría"
     },
     {
       "surface": "ובתבונתו",
-      "english": "y ⟨con⟩ su entendimiento"
+      "gloss": "y ⟨con⟩ su entendimiento"
     },
     {
       "surface": "נטה",
-      "english": "tiende"
+      "gloss": "tiende"
     },
     {
       "surface": "שמים",
-      "english": "los cielos"
+      "gloss": "los cielos"
     }
-  ],
-  "timestamp": "2026-06-10T03:47:02.242019070Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "amos 5:27",
   "book": "amos",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 442,
-    "prompt_tokens": 23785,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24227
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:33:39.314068748Z",
   "translation": "Y haré que pasen ⟨al⟩ exilio ⟨más allá⟩ de Damasco, ⟨ha⟩ dicho YHWH, Elohim de los ejércitos ⟨es⟩ su Nombre.",
   "tokens": [
     {
       "surface": "והגליתי",
-      "english": "Y haré que pasen"
+      "gloss": "Y haré que pasen"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨al⟩ exilio"
     },
     {
       "surface": "מהלאה",
-      "english": "⟨más allá⟩"
+      "gloss": "⟨más allá⟩"
     },
     {
       "surface": "לדמשק",
-      "english": "de Damasco"
+      "gloss": "de Damasco"
     },
     {
       "surface": "אמר",
-      "english": "⟨ha⟩ dicho"
+      "gloss": "⟨ha⟩ dicho"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim de los ejércitos"
+      "gloss": "Elohim de los ejércitos"
     },
     {
       "surface": "צבאות",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שמו",
-      "english": "⟨es⟩ su Nombre"
+      "gloss": "⟨es⟩ su Nombre"
     }
-  ],
-  "timestamp": "2026-07-16T19:33:39.314068748Z",
-  "model": "glm-4.5"
+  ]
 }

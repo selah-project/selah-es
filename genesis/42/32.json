@@ -1,78 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "genesis 42:32",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 437,
-    "prompt_tokens": 29140,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29577
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:13:09.624724985Z",
   "translation": "Doce somos nosotros hermanos, hijos de nuestro padre; uno no ⟨está⟩, y el menor hoy ⟨está⟩ con nuestro padre en la tierra de Kenaan.",
   "tokens": [
     {
       "surface": "שנים",
-      "english": "doce"
+      "gloss": "doce"
     },
     {
       "surface": "עשר",
-      "english": "somos"
+      "gloss": "somos"
     },
     {
       "surface": "אנחנו",
-      "english": "nosotros"
+      "gloss": "nosotros"
     },
     {
       "surface": "אחים",
-      "english": "hermanos"
+      "gloss": "hermanos"
     },
     {
       "surface": "בני",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "אבינו",
-      "english": "de nuestro padre"
+      "gloss": "de nuestro padre"
     },
     {
       "surface": "האחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "איננו",
-      "english": "no ⟨está⟩"
+      "gloss": "no ⟨está⟩"
     },
     {
       "surface": "והקטן",
-      "english": "y el menor"
+      "gloss": "y el menor"
     },
     {
       "surface": "היום",
-      "english": "hoy"
+      "gloss": "hoy"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "con nuestro padre"
     },
     {
       "surface": "אבינו",
-      "english": "nuestro padre"
+      "gloss": "nuestro padre"
     },
     {
       "surface": "בארץ",
-      "english": "en la tierra"
+      "gloss": "en la tierra"
     },
     {
       "surface": "כנען",
-      "english": "de Kenaan"
+      "gloss": "de Kenaan"
     }
-  ],
-  "timestamp": "2026-07-16T21:13:09.624724985Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-kings 14:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 14,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:05:25.167222268Z",
+  "translation": "Y el rey Rejavam hizo en su lugar ⟨los⟩ escudos de bronce, y ⟨los⟩ puso ⟨a⟩ cargo de ⟨los⟩ capitanes de ⟨la⟩ guardia que custodiaban la entrada de ⟨la⟩ casa del rey",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Y hizo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "en su lugar"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "⟨los⟩ escudos"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "de bronce"
+    },
+    {
+      "surface": "והפקיד",
+      "gloss": "y ⟨los⟩ puso"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "carga"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "⟨los⟩ capitanes"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "de ⟨la⟩ guardia"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "que custodiaban"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "la entrada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de ⟨la⟩ casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del rey"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboam",
@@ -13,84 +80,6 @@
       "hebrew": "רחבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62750,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63277
-  },
-  "translation": "Y el rey Rejavam hizo en su lugar ⟨los⟩ escudos de bronce, y ⟨los⟩ puso ⟨a⟩ cargo de ⟨los⟩ capitanes de ⟨la⟩ guardia que custodiaban la entrada de ⟨la⟩ casa del rey",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "Y hizo"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "תחתם",
-      "english": "en su lugar"
-    },
-    {
-      "surface": "מגני",
-      "english": "⟨los⟩ escudos"
-    },
-    {
-      "surface": "נחשת",
-      "english": "de bronce"
-    },
-    {
-      "surface": "והפקיד",
-      "english": "y ⟨los⟩ puso"
-    },
-    {
-      "surface": "על",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "יד",
-      "english": "carga"
-    },
-    {
-      "surface": "שרי",
-      "english": "⟨los⟩ capitanes"
-    },
-    {
-      "surface": "הרצים",
-      "english": "de ⟨la⟩ guardia"
-    },
-    {
-      "surface": "השמרים",
-      "english": "que custodiaban"
-    },
-    {
-      "surface": "פתח",
-      "english": "la entrada"
-    },
-    {
-      "surface": "בית",
-      "english": "de ⟨la⟩ casa"
-    },
-    {
-      "surface": "המלך",
-      "english": "del rey"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:05:25.167222268Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

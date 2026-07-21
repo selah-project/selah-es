@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 102:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 409,
-    "prompt_tokens": 70033,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70442
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:58.796072025Z",
   "translation": "Al reunir ⟨a los⟩ pueblos juntamente y ⟨a los⟩ reinos para servir ⟨את⟩ a YHWH",
   "tokens": [
     {
       "surface": "בהקבץ",
-      "english": "Al reunir"
+      "gloss": "Al reunir"
     },
     {
       "surface": "עמים",
-      "english": "pueblos"
+      "gloss": "pueblos"
     },
     {
       "surface": "יחדו",
-      "english": "juntamente"
+      "gloss": "juntamente"
     },
     {
       "surface": "וממלכות",
-      "english": "y ⟨a los⟩ reinos"
+      "gloss": "y ⟨a los⟩ reinos"
     },
     {
       "surface": "לעבד",
-      "english": "para servir"
+      "gloss": "para servir"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:58.796072025Z",
-  "model": "glm-4.5"
+  ]
 }

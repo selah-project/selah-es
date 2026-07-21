@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 27:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 636,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59912,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60548
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:49:30.423527765Z",
   "translation": "⟨es⟩Pesa ⟨es⟩una piedra y ⟨es⟩la carga de arena, y ⟨es⟩el enojo ⟨es⟩de ⟨es⟩un ⟨es⟩necio ⟨es⟩es ⟨es⟩más pesado ⟨es⟩que ambos.",
   "tokens": [
     {
       "surface": "כבד",
-      "english": "Pesa"
+      "gloss": "Pesa"
     },
     {
       "surface": "אבן",
-      "english": "una piedra"
+      "gloss": "una piedra"
     },
     {
       "surface": "ונטל",
-      "english": "y ⟨es⟩la carga"
+      "gloss": "y ⟨es⟩la carga"
     },
     {
       "surface": "החול",
-      "english": "de arena"
+      "gloss": "de arena"
     },
     {
       "surface": "וכעס",
-      "english": "y ⟨es⟩el enojo"
+      "gloss": "y ⟨es⟩el enojo"
     },
     {
       "surface": "אויל",
-      "english": "⟨es⟩de ⟨es⟩un ⟨es⟩necio"
+      "gloss": "⟨es⟩de ⟨es⟩un ⟨es⟩necio"
     },
     {
       "surface": "כבד",
-      "english": "⟨es⟩es ⟨es⟩más pesado"
+      "gloss": "⟨es⟩es ⟨es⟩más pesado"
     },
     {
       "surface": "משניהם",
-      "english": "⟨es⟩que ambos"
+      "gloss": "⟨es⟩que ambos"
     }
-  ],
-  "timestamp": "2026-06-10T01:49:30.423527765Z",
-  "model": "glm-4.5"
+  ]
 }

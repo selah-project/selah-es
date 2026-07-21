@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 12:17",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 59950,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60324
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:18:55.169833876Z",
   "translation": "Quien respira ⟨la⟩ emuná declara tzédek, y ⟨un⟩ testigo falso ⟨es⟩ merimá.",
   "tokens": [
     {
       "surface": "יפיח",
-      "english": "Quien respira"
+      "gloss": "Quien respira"
     },
     {
       "surface": "אמונה",
-      "english": "⟨la⟩ emuná"
+      "gloss": "⟨la⟩ emuná"
     },
     {
       "surface": "יגיד",
-      "english": "declara"
+      "gloss": "declara"
     },
     {
       "surface": "צדק",
-      "english": "tzédek"
+      "gloss": "tzédek"
     },
     {
       "surface": "ועד",
-      "english": "y ⟨un⟩ testigo"
+      "gloss": "y ⟨un⟩ testigo"
     },
     {
       "surface": "שקרים",
-      "english": "falso"
+      "gloss": "falso"
     },
     {
       "surface": "מרמה",
-      "english": "⟨es⟩ merimá"
+      "gloss": "⟨es⟩ merimá"
     }
-  ],
-  "timestamp": "2026-07-16T23:18:55.169833876Z",
-  "model": "glm-4.5"
+  ]
 }

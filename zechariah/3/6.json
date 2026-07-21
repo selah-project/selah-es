@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "zechariah 3:6",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22864,
-    "prompt_tokens_details": {
-      "cached_tokens": 22080
-    },
-    "total_tokens": 23318
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:51:13.169244396Z",
   "translation": "Y ⟨el⟩ malaj de YHWH testificó a ⟨el⟩ sumo sacerdote Yehoshúa, ⟨el⟩ Cordero ⟨es⟩ ⟨un⟩ varón de dolores acostumbrado ⟨a⟩ ⟨la⟩ aflicción, ⟨y⟩ ⟨como⟩ quien esconde ⟨su⟩ rostro ⟨de⟩ ⟨él⟩; menospreciado, y no ⟨lo⟩ estimamos.",
   "tokens": [
     {
       "surface": "ויעד",
-      "english": "Y testificó"
+      "gloss": "Y testificó"
     },
     {
       "surface": "מלאך",
-      "english": "⟨el⟩ malaj de YHWH",
+      "gloss": "⟨el⟩ malaj de YHWH",
       "marks": "malaj de YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ביהושע",
-      "english": "a ⟨el⟩ sumo sacerdote Yehoshúa",
+      "gloss": "a ⟨el⟩ sumo sacerdote Yehoshúa",
       "marks": "sumo sacerdote Yehoshúa"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     }
-  ],
-  "timestamp": "2026-06-09T22:51:13.169244396Z",
-  "model": "glm-4.5"
+  ]
 }

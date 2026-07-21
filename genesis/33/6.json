@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 33:6",
   "book": "genesis",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28165,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28546
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:30:56.692575675Z",
   "translation": "Then the handmaids ⟨approached⟩, they and their children, and ⟨they⟩ bowed down.",
   "tokens": [
     {
       "surface": "וַ\/תִּגַּ֧שְׁןָ",
-      "english": "Then ⟨approached⟩"
+      "gloss": "Then ⟨approached⟩"
     },
     {
       "surface": "הַ\/שְּׁפָח֛וֹת",
-      "english": "the handmaids"
+      "gloss": "the handmaids"
     },
     {
       "surface": "הֵ֥נָּה",
-      "english": "they"
+      "gloss": "they"
     },
     {
       "surface": "וְ\/יַלְדֵי\/הֶ֖ן",
-      "english": "and their children"
+      "gloss": "and their children"
     },
     {
       "surface": "וַ\/תִּֽשְׁתַּחֲוֶֽיןָ",
-      "english": "and ⟨they⟩ bowed down"
+      "gloss": "and ⟨they⟩ bowed down"
     }
-  ],
-  "timestamp": "2026-06-10T05:30:56.692575675Z",
-  "model": "glm-4.5"
+  ]
 }

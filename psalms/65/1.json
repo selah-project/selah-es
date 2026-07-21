@@ -1,37 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 65:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 284,
-    "prompt_tokens": 69707,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 69991
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:26:02.514929478Z",
   "translation": "⟨Para⟩ el director ⟨un⟩ canto ⟨de⟩ David ⟨una⟩ canción",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Para⟩ el director"
+      "gloss": "⟨Para⟩ el director"
     },
     {
       "surface": "מזמור",
-      "english": "⟨un⟩ canto"
+      "gloss": "⟨un⟩ canto"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David"
+      "gloss": "⟨de⟩ David"
     },
     {
       "surface": "שיר",
-      "english": "⟨una⟩ canción"
+      "gloss": "⟨una⟩ canción"
     }
-  ],
-  "timestamp": "2026-07-21T02:26:02.514929478Z",
-  "model": "glm-4.5"
+  ]
 }

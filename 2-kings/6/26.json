@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-kings 6:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 6,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:25:39.740007598Z",
+  "translation": "Y sucedió ⟨que⟩ el rey de Yisrael pasaba sobre ⟨el⟩ muro, y una mujer gritó a él, diciendo: ¡Socórrenos, mi señor, ⟨el⟩ rey!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió ⟨que⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pasaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre ⟨el⟩"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "muro"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "y una mujer"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "gritó"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a él"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo:"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "¡Socórrenos"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mi señor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨el⟩ rey"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16939,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17365
-  },
-  "translation": "Y sucedió ⟨que⟩ el rey de Yisrael pasaba sobre ⟨el⟩ muro, y una mujer gritó a él, diciendo: ¡Socórrenos, mi señor, ⟨el⟩ rey!",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió ⟨que⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "עבר",
-      "english": "pasaba"
-    },
-    {
-      "surface": "על",
-      "english": "sobre ⟨el⟩"
-    },
-    {
-      "surface": "החמה",
-      "english": "muro"
-    },
-    {
-      "surface": "ואשה",
-      "english": "y una mujer"
-    },
-    {
-      "surface": "צעקה",
-      "english": "gritó"
-    },
-    {
-      "surface": "אליו",
-      "english": "a él"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo:"
-    },
-    {
-      "surface": "הושיעה",
-      "english": "¡Socórrenos"
-    },
-    {
-      "surface": "אדני",
-      "english": "mi señor"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨el⟩ rey"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:25:39.740007598Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

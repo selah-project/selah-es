@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 60:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 370,
-    "prompt_tokens": 69740,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70110
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:45.177653972Z",
   "translation": "Danos ayuda contra ⟨el⟩ adversario, pues vana ⟨es⟩ la salvación de Adam.",
   "tokens": [
     {
       "surface": "הבה",
-      "english": "Danos"
+      "gloss": "Danos"
     },
     {
       "surface": "לנו",
-      "english": "ayuda"
+      "gloss": "ayuda"
     },
     {
       "surface": "עזרת",
-      "english": "contra"
+      "gloss": "contra"
     },
     {
       "surface": "מצר",
-      "english": "⟨el⟩ adversario"
+      "gloss": "⟨el⟩ adversario"
     },
     {
       "surface": "ושוא",
-      "english": "pues vana"
+      "gloss": "pues vana"
     },
     {
       "surface": "תשועת",
-      "english": "⟨es⟩ la salvación"
+      "gloss": "⟨es⟩ la salvación"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:45.177653972Z",
-  "model": "glm-4.5"
+  ]
 }

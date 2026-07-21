@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 12:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26379,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26832
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:28:30.192933772Z",
   "translation": "Y dirás en aquel día: ⟨Te⟩ daré gracias, YHWH, porque te ⟨has⟩ enfadado conmigo ⟨pero⟩ se ha vuelto tu furor y me has consolado",
   "tokens": [
     {
       "surface": "ואמרת",
-      "english": "Y dirás"
+      "gloss": "Y dirás"
     },
     {
       "surface": "ביום",
-      "english": "en aquel día"
+      "gloss": "en aquel día"
     },
     {
       "surface": "ההוא",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "אודך",
-      "english": "⟨Te⟩ daré gracias"
+      "gloss": "⟨Te⟩ daré gracias"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אנפת",
-      "english": "te ⟨has⟩ enfadado"
+      "gloss": "te ⟨has⟩ enfadado"
     },
     {
       "surface": "בי",
-      "english": "conmigo"
+      "gloss": "conmigo"
     },
     {
       "surface": "ישב",
-      "english": "⟨pero⟩ se ha vuelto"
+      "gloss": "⟨pero⟩ se ha vuelto"
     },
     {
       "surface": "אפך",
-      "english": "tu furor"
+      "gloss": "tu furor"
     },
     {
       "surface": "ותנחמני",
-      "english": "y me has consolado"
+      "gloss": "y me has consolado"
     }
-  ],
-  "timestamp": "2026-06-10T02:28:30.192933772Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "job 41:23",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26992,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27533
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:19:12.126602603Z",
   "translation": "hace hervir ⟨el⟩ abismo como una olla; ⟨el⟩ mar convierte ⟨como⟩ ungüento de hervir",
   "tokens": [
     {
       "surface": "ירתיח",
-      "english": "Hace hervir"
+      "gloss": "Hace hervir"
     },
     {
       "surface": "כסיר",
-      "english": "como una olla",
+      "gloss": "como una olla",
       "marks": "abismo"
     },
     {
       "surface": "מצולה",
-      "english": "⟨el⟩ abismo"
+      "gloss": "⟨el⟩ abismo"
     },
     {
       "surface": "ים",
-      "english": "⟨el⟩ mar"
+      "gloss": "⟨el⟩ mar"
     },
     {
       "surface": "ישים",
-      "english": "convierte"
+      "gloss": "convierte"
     },
     {
       "surface": "כמרקחה",
-      "english": "como ungüento de hervir"
+      "gloss": "como ungüento de hervir"
     }
-  ],
-  "timestamp": "2026-06-10T02:19:12.126602603Z",
-  "model": "glm-4.5"
+  ]
 }

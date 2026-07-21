@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "exodus 40:25",
   "book": "exodus",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 24107,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24481
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:29:31.838887033Z",
   "translation": "Y puso las lámparas delante de YHWH como YHWH ⟨את⟩ Moshé había ordenado.",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "y puso"
+      "gloss": "y puso"
     },
     {
       "surface": "הנרת",
-      "english": "las lámparas"
+      "gloss": "las lámparas"
     },
     {
       "surface": "לפני",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "english": "había ordenado"
+      "gloss": "había ordenado"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     }
-  ],
-  "timestamp": "2026-07-16T20:29:31.838887033Z",
-  "model": "glm-4.5"
+  ]
 }

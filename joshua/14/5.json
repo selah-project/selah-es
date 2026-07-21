@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "joshua 14:5",
   "book": "joshua",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 572,
-    "prompt_tokens": 23961,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 24533
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:12:32.311171375Z",
   "translation": "Como YHWH ⟨הא⟩ ordenó ⟨el⟩ hacer ⟨a⟩ Moshé, así ⟨lo⟩ hicieron ⟨los⟩ hijos de Yisrael, y dividieron ⟨את⟩ la tierra",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "Como"
+      "gloss": "Como"
     },
     {
       "surface": "צוה",
-      "english": "ordenó"
+      "gloss": "ordenó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "עשו",
-      "english": "hicieron"
+      "gloss": "hicieron"
     },
     {
       "surface": "בני",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "ויחלקו",
-      "english": "y dividieron"
+      "gloss": "y dividieron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la tierra"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T22:12:32.311171375Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 106:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 263,
-    "prompt_tokens": 70059,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70322
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:00.942520757Z",
   "translation": "Y cambiaron ⟨את⟩ su gloria por la semejanza de un buey que come hierba.",
   "tokens": [
     {
       "surface": "וימירו",
-      "english": "Y cambiaron"
+      "gloss": "Y cambiaron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su gloria"
     },
     {
       "surface": "כבודם",
-      "english": "su gloria"
+      "gloss": "su gloria"
     },
     {
       "surface": "בתבנית",
-      "english": "por la semejanza"
+      "gloss": "por la semejanza"
     },
     {
       "surface": "שור",
-      "english": "de un buey"
+      "gloss": "de un buey"
     },
     {
       "surface": "אכל",
-      "english": "que come"
+      "gloss": "que come"
     },
     {
       "surface": "עשב",
-      "english": "hierba"
+      "gloss": "hierba"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:00.942520757Z",
-  "model": "glm-4.5"
+  ]
 }

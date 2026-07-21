@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 81:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69620,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 69934
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:57.383298733Z",
   "translation": "⟨To⟩ ⟨the⟩ preeminent ⟨upon⟩ ⟨the⟩ Gittith ⟨for⟩ Asaph",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ ⟨the⟩ preeminent"
+      "gloss": "⟨To⟩ ⟨the⟩ preeminent"
     },
     {
       "surface": "על",
-      "english": "⟨upon⟩"
+      "gloss": "⟨upon⟩"
     },
     {
       "surface": "הגתית",
-      "english": "⟨the⟩ Gittith"
+      "gloss": "⟨the⟩ Gittith"
     },
     {
       "surface": "לאסף",
-      "english": "⟨for⟩ Asaph"
+      "gloss": "⟨for⟩ Asaph"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:57.383298733Z",
-  "model": "glm-4.5"
+  ]
 }

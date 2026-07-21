@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "1-chronicles 27:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 27,
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:57:13.583968595Z",
+  "translation": "Y sobre ⟨el⟩ ganado estaba Jaziz ⟨el⟩ hagerita; todos estos ⟨eran⟩ gobernantes de ⟨la⟩ propiedad que ⟨era⟩ ⟨de⟩ ⟨el⟩ rey Davidd.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Y sobre"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨el⟩ ganado"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "estaba Jaziz"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "⟨el⟩ hagerita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "gobernantes"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "de ⟨la⟩ propiedad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨de⟩ ⟨el⟩ rey"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,68 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56957,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57488
-  },
-  "translation": "Y sobre ⟨el⟩ ganado estaba Jaziz ⟨el⟩ hagerita; todos estos ⟨eran⟩ gobernantes de ⟨la⟩ propiedad que ⟨era⟩ ⟨de⟩ ⟨el⟩ rey Davidd.",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "Y sobre"
-    },
-    {
-      "surface": "הצאן",
-      "english": "⟨el⟩ ganado"
-    },
-    {
-      "surface": "יזיז",
-      "english": "estaba Jaziz"
-    },
-    {
-      "surface": "ההגרי",
-      "english": "⟨el⟩ hagerita"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "אלה",
-      "english": "estos"
-    },
-    {
-      "surface": "שרי",
-      "english": "gobernantes"
-    },
-    {
-      "surface": "הרכוש",
-      "english": "de ⟨la⟩ propiedad"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "למלך",
-      "english": "⟨de⟩ ⟨el⟩ rey"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:57:13.583968595Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

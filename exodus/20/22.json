@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "exodus 20:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 20,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:49:59.241491382Z",
+  "translation": "Y YHWH dijo a Moshé: ‘Así dirás a los hijos de Yisrael: ⟨vosotros⟩ habéis visto que desde ⟨los⟩ cielos he hablado con ⟨vosotros⟩’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y YHWH dijo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "כה",
+      "gloss": "‘Así"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dirás"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨vosotros⟩"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "habéis visto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מן",
+      "gloss": "desde"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨los⟩ cielos"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "he hablado"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "con ⟨vosotros⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,88 +84,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17284,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17769
-  },
-  "translation": "Y YHWH dijo a Moshé: ‘Así dirás a los hijos de Yisrael: ⟨vosotros⟩ habéis visto que desde ⟨los⟩ cielos he hablado con ⟨vosotros⟩’",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y YHWH dijo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "כה",
-      "english": "‘Así"
-    },
-    {
-      "surface": "תאמר",
-      "english": "dirás"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אתם",
-      "english": "⟨vosotros⟩"
-    },
-    {
-      "surface": "ראיתם",
-      "english": "habéis visto"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "מן",
-      "english": "desde"
-    },
-    {
-      "surface": "השמים",
-      "english": "⟨los⟩ cielos"
-    },
-    {
-      "surface": "דברתי",
-      "english": "he hablado"
-    },
-    {
-      "surface": "עמכם",
-      "english": "con ⟨vosotros⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:49:59.241491382Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

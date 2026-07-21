@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "exodus 32:25",
   "book": "exodus",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 585,
-    "prompt_tokens": 24477,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25062
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:24:28.585988506Z",
   "translation": "Y Moshé vio ⟨את⟩ ⟨el⟩ pueblo, que ⟨él⟩ estaba desenfrenado, porque Aharón lo había desenfrenado para burla entre sus adversarios",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y vio"
+      "gloss": "Y vio"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el pueblo"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "פרע",
-      "english": "⟨él⟩ estaba desenfrenado"
+      "gloss": "⟨él⟩ estaba desenfrenado"
     },
     {
       "surface": "הוא",
-      "english": "⟨él⟩"
+      "gloss": "⟨él⟩"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "פרעה",
-      "english": "lo había desenfrenado"
+      "gloss": "lo había desenfrenado"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "לשמצה",
-      "english": "para burla"
+      "gloss": "para burla"
     },
     {
       "surface": "בקמיהם",
-      "english": "entre sus adversarios"
+      "gloss": "entre sus adversarios"
     }
-  ],
-  "timestamp": "2026-07-16T20:24:28.585988506Z",
-  "model": "glm-4.5"
+  ]
 }

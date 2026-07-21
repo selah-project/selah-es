@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-samuel 3:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 3,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:17:53.364497863Z",
+  "translation": "Y ⟨el⟩ sexto ⟨es⟩ Jitream, ⟨por⟩ Eglah ⟨es⟩ ⟨la⟩ esposa ⟨de⟩ Davidd. Estos fueron engendrados ⟨por⟩ Davidd en Hebrón.",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "Y ⟨el⟩ sexto"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "⟨es⟩ Jitream"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "⟨por⟩ Eglah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨es⟩ ⟨la⟩ esposa ⟨de⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Estos"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "fueron engendrados ⟨por⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "en Hebrón"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,60 +56,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16968,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 17472
-  },
-  "translation": "Y ⟨el⟩ sexto ⟨es⟩ Jitream, ⟨por⟩ Eglah ⟨es⟩ ⟨la⟩ esposa ⟨de⟩ Davidd. Estos fueron engendrados ⟨por⟩ Davidd en Hebrón.",
-  "tokens": [
-    {
-      "surface": "והששי",
-      "english": "Y ⟨el⟩ sexto"
-    },
-    {
-      "surface": "יתרעם",
-      "english": "⟨es⟩ Jitream"
-    },
-    {
-      "surface": "לעגלה",
-      "english": "⟨por⟩ Eglah"
-    },
-    {
-      "surface": "אשת",
-      "english": "⟨es⟩ ⟨la⟩ esposa ⟨de⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אלה",
-      "english": "Estos"
-    },
-    {
-      "surface": "ילדו",
-      "english": "fueron engendrados ⟨por⟩"
-    },
-    {
-      "surface": "לדוד",
-      "english": "David"
-    },
-    {
-      "surface": "בחברון",
-      "english": "en Hebrón"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:17:53.364497863Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

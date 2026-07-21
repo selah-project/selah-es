@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 13:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28555,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28937
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:11:24.016803078Z",
   "translation": "Y Avram subió de Egipto, ⟨él⟩, y su esposa, y todo lo que ⟨tenía⟩, y Lot con él, ⟨hacia⟩ el Néguev",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "Y subió"
+      "gloss": "Y subió"
     },
     {
       "surface": "אברם",
-      "english": "Avram"
+      "gloss": "Avram"
     },
     {
       "surface": "ממצרים",
-      "english": "de Egipto"
+      "gloss": "de Egipto"
     },
     {
       "surface": "הוא",
-      "english": "⟨él⟩"
+      "gloss": "⟨él⟩"
     },
     {
       "surface": "ואשתו",
-      "english": "y su esposa"
+      "gloss": "y su esposa"
     },
     {
       "surface": "וכל",
-      "english": "y todo"
+      "gloss": "y todo"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "לו",
-      "english": "⟨tenía⟩"
+      "gloss": "⟨tenía⟩"
     },
     {
       "surface": "ולוט",
-      "english": "y Lot"
+      "gloss": "y Lot"
     },
     {
       "surface": "עמו",
-      "english": "con él"
+      "gloss": "con él"
     },
     {
       "surface": "הנגבה",
-      "english": "⟨hacia⟩ el Néguev"
+      "gloss": "⟨hacia⟩ el Néguev"
     }
-  ],
-  "timestamp": "2026-06-10T05:11:24.016803078Z",
-  "model": "glm-4.5"
+  ]
 }

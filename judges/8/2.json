@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "judges 8:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 8,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:41:01.560997803Z",
+  "translation": "Y él dijo a ellos: ¿Qué he hecho ahora ⟨como⟩ vosotros? ¿No ⟨son⟩ mejores las rebuscas de Efráyim que ⟨la⟩ vendimia ⟨de⟩ Abiezer?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y él dijo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "a ellos"
+    },
+    {
+      "surface": "מה",
+      "gloss": "¿Qué"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "he hecho"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ahora"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "⟨como⟩ vosotros"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "¿No"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨son⟩ mejores"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "las rebuscas"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "de Efráyim"
+    },
+    {
+      "surface": "מבציר",
+      "gloss": "que ⟨la⟩ vendimia ⟨de⟩"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraín",
@@ -13,72 +68,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16321,
-    "prompt_tokens_details": {
-      "cached_tokens": 14812
-    },
-    "total_tokens": 16823
-  },
-  "translation": "Y él dijo a ellos: ¿Qué he hecho ahora ⟨como⟩ vosotros? ¿No ⟨son⟩ mejores las rebuscas de Efráyim que ⟨la⟩ vendimia ⟨de⟩ Abiezer?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y él dijo"
-    },
-    {
-      "surface": "אליהם",
-      "english": "a ellos"
-    },
-    {
-      "surface": "מה",
-      "english": "¿Qué"
-    },
-    {
-      "surface": "עשיתי",
-      "english": "he hecho"
-    },
-    {
-      "surface": "עתה",
-      "english": "ahora"
-    },
-    {
-      "surface": "ככם",
-      "english": "⟨como⟩ vosotros"
-    },
-    {
-      "surface": "הלוא",
-      "english": "¿No"
-    },
-    {
-      "surface": "טוב",
-      "english": "⟨son⟩ mejores"
-    },
-    {
-      "surface": "עללות",
-      "english": "las rebuscas"
-    },
-    {
-      "surface": "אפרים",
-      "english": "de Efráyim"
-    },
-    {
-      "surface": "מבציר",
-      "english": "que ⟨la⟩ vendimia ⟨de⟩"
-    },
-    {
-      "surface": "אביעזר",
-      "english": "Abiezer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:41:01.560997803Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

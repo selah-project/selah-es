@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "jeremiah 52:5",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24527,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24938
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:48:25.648185525Z",
   "translation": "Y ⟨la⟩ ciudad vino ⟨al⟩ asedio hasta ⟨el⟩ año undécimo ⟨del⟩ rey Tzidkiyahu",
   "tokens": [
     {
       "surface": "ותבא",
-      "english": "Y vino"
+      "gloss": "Y vino"
     },
     {
       "surface": "העיר",
-      "english": "⟨la⟩ ciudad"
+      "gloss": "⟨la⟩ ciudad"
     },
     {
       "surface": "במצור",
-      "english": "⟨al⟩ asedio"
+      "gloss": "⟨al⟩ asedio"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "עשתי",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "עשרה",
-      "english": "año undécimo"
+      "gloss": "año undécimo"
     },
     {
       "surface": "שנה",
-      "english": "año"
+      "gloss": "año"
     },
     {
       "surface": "למלך",
-      "english": "⟨del⟩ rey"
+      "gloss": "⟨del⟩ rey"
     },
     {
       "surface": "צדקיהו",
-      "english": "Tzidkiyahu"
+      "gloss": "Tzidkiyahu"
     }
-  ],
-  "timestamp": "2026-06-10T03:48:25.648185525Z",
-  "model": "glm-4.5"
+  ]
 }

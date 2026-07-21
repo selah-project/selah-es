@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 21:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 21,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:22:51.583701945Z",
+  "translation": "Yehoshafat durmió ⟨con⟩ sus padres, y fue sepultado ⟨con⟩ sus padres en la ciudad de Davidd, y reinó Yehoram su hijo en ⟨lugar de⟩ él",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Durmió"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨con⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sus padres"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "y fue sepultado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨con⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sus padres"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "en la ciudad de"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "y reinó"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su hijo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "en ⟨lugar de⟩ él"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58259,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58750
-  },
-  "translation": "Yehoshafat durmió ⟨con⟩ sus padres, y fue sepultado ⟨con⟩ sus padres en la ciudad de Davidd, y reinó Yehoram su hijo en ⟨lugar de⟩ él",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "Durmió"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨con⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "sus padres"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "y fue sepultado"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨con⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "sus padres"
-    },
-    {
-      "surface": "בעיר",
-      "english": "en la ciudad de"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "וימלך",
-      "english": "y reinó"
-    },
-    {
-      "surface": "יהורם",
-      "english": "Yehoram"
-    },
-    {
-      "surface": "בנו",
-      "english": "su hijo"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "en ⟨lugar de⟩ él"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:22:51.583701945Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

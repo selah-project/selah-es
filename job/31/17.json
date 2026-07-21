@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "job 31:17",
   "book": "job",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26966,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27444
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:10:32.996125930Z",
   "translation": "Y si ⟨he⟩ comido ⟨el⟩ bocado ⟨mío⟩ ⟨a⟩ solas, y ⟨el⟩ huérfano no ⟨lo⟩ ha comido de él",
   "tokens": [
     {
       "surface": "ואכל",
-      "english": "Y si ⟨he⟩ comido"
+      "gloss": "Y si ⟨he⟩ comido"
     },
     {
       "surface": "פתי",
-      "english": "⟨el⟩ bocado ⟨mío⟩"
+      "gloss": "⟨el⟩ bocado ⟨mío⟩"
     },
     {
       "surface": "לבדי",
-      "english": "⟨a⟩ solas"
+      "gloss": "⟨a⟩ solas"
     },
     {
       "surface": "ולא",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "אכל",
-      "english": "⟨el⟩ huérfano no ⟨lo⟩ ha comido"
+      "gloss": "⟨el⟩ huérfano no ⟨lo⟩ ha comido"
     },
     {
       "surface": "יתום",
-      "english": "⟨el⟩ huérfano"
+      "gloss": "⟨el⟩ huérfano"
     },
     {
       "surface": "ממנה",
-      "english": "de él"
+      "gloss": "de él"
     }
-  ],
-  "timestamp": "2026-06-10T02:10:32.996125930Z",
-  "model": "glm-4.5"
+  ]
 }

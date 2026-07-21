@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "ezekiel 7:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 7,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:16:41.553681555Z",
+  "translation": "Terror ⟨está⟩ viniendo: y buscarán Shalom ⟨y⟩ ⟨no⟩ ⟨habrá⟩.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "Terror"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨está⟩ viniendo"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "y buscarán"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨y⟩ ⟨no⟩ ⟨habrá⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "paz",
@@ -13,44 +40,6 @@
       "hebrew": "שלום"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16742,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17037
-  },
-  "translation": "Terror ⟨está⟩ viniendo: y buscarán Shalom ⟨y⟩ ⟨no⟩ ⟨habrá⟩.",
-  "tokens": [
-    {
-      "surface": "קפדה",
-      "english": "Terror"
-    },
-    {
-      "surface": "בא",
-      "english": "⟨está⟩ viniendo"
-    },
-    {
-      "surface": "ובקשו",
-      "english": "y buscarán"
-    },
-    {
-      "surface": "שלום",
-      "english": "Shalom"
-    },
-    {
-      "surface": "ואין",
-      "english": "⟨y⟩ ⟨no⟩ ⟨habrá⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:16:41.553681555Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

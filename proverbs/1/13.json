@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "proverbs 1:13",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59776,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60196
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:27:37.993652913Z",
   "translation": "Toda riqueza preciosa ⟨se encontrará⟩, ⟨se llenará⟩ ⟨la⟩ casa ⟨de nosotros⟩ con botín",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Toda"
+      "gloss": "Toda"
     },
     {
       "surface": "הון",
-      "english": "riqueza"
+      "gloss": "riqueza"
     },
     {
       "surface": "יקר",
-      "english": "preciosa"
+      "gloss": "preciosa"
     },
     {
       "surface": "נמצא",
-      "english": "⟨se encontrará⟩"
+      "gloss": "⟨se encontrará⟩"
     },
     {
       "surface": "נמלא",
-      "english": "⟨se llenará⟩"
+      "gloss": "⟨se llenará⟩"
     },
     {
       "surface": "בתינו",
-      "english": "⟨la⟩ casa ⟨de nosotros⟩"
+      "gloss": "⟨la⟩ casa ⟨de nosotros⟩"
     },
     {
       "surface": "שלל",
-      "english": "con botín"
+      "gloss": "con botín"
     }
-  ],
-  "timestamp": "2026-06-10T01:27:37.993652913Z",
-  "model": "glm-4.5"
+  ]
 }

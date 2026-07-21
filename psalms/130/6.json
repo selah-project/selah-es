@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 130:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69812,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70263
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:05:43.003900266Z",
   "translation": "Mi alma ⟨está⟩ para Adonai ⟨desde⟩ ⟨los⟩ que velan ⟨por⟩ la mañana; velan ⟨por⟩ la mañana.",
   "tokens": [
     {
       "surface": "נפשי",
-      "english": "Mi alma",
+      "gloss": "Mi alma",
       "marks": null
     },
     {
       "surface": "לאדני",
-      "english": "para Adonai",
+      "gloss": "para Adonai",
       "marks": null
     },
     {
       "surface": "משמרים",
-      "english": "⟨desde⟩ ⟨los⟩ que velan",
+      "gloss": "⟨desde⟩ ⟨los⟩ que velan",
       "marks": null
     },
     {
       "surface": "לבקר",
-      "english": "⟨por⟩ la mañana",
+      "gloss": "⟨por⟩ la mañana",
       "marks": null
     },
     {
       "surface": "שמרים",
-      "english": "velan",
+      "gloss": "velan",
       "marks": null
     },
     {
       "surface": "לבקר",
-      "english": "⟨por⟩ la mañana",
+      "gloss": "⟨por⟩ la mañana",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-10T00:05:43.003900266Z",
-  "model": "glm-4.5"
+  ]
 }

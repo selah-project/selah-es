@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 24:15",
   "book": "exodus",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 297,
-    "prompt_tokens": 23963,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24260
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:19:14.291732179Z",
   "translation": "Y Moshé subió a la montaña, y la nube cubrió ⟨את⟩ la montaña",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "Y subió"
+      "gloss": "Y subió"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "ההר",
-      "english": "la montaña"
+      "gloss": "la montaña"
     },
     {
       "surface": "ויכס",
-      "english": "y cubrió"
+      "gloss": "y cubrió"
     },
     {
       "surface": "הענן",
-      "english": "la nube"
+      "gloss": "la nube"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la montaña"
     },
     {
       "surface": "ההר",
-      "english": "la montaña"
+      "gloss": "la montaña"
     }
-  ],
-  "timestamp": "2026-07-16T20:19:14.291732179Z",
-  "model": "glm-4.5"
+  ]
 }

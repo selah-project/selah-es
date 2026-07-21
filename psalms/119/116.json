@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 116,
   "ref": "psalms 119:116",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 270,
-    "prompt_tokens": 69911,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70181
-  },
+  "verse": 116,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:46.774369352Z",
   "translation": "Sosténme conforme a tu palabra, y viviré; y no me avergüences de mi esperanza.",
   "tokens": [
     {
       "surface": "סמכני",
-      "english": "Sosténme"
+      "gloss": "Sosténme"
     },
     {
       "surface": "כאמרתך",
-      "english": "conforme a tu palabra"
+      "gloss": "conforme a tu palabra"
     },
     {
       "surface": "ואחיה",
-      "english": "y viviré"
+      "gloss": "y viviré"
     },
     {
       "surface": "ואל",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "תבישני",
-      "english": "me avergüences"
+      "gloss": "me avergüences"
     },
     {
       "surface": "משברי",
-      "english": "de mi esperanza"
+      "gloss": "de mi esperanza"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:46.774369352Z",
-  "model": "glm-4.5"
+  ]
 }

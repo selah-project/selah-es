@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-samuel 4:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 4,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:47:49.576617015Z",
+  "translation": "Y los filisteos lucharon y ⟨fueron⟩ derrotados los de Yisrael y huyó cada hombre ⟨a⟩ su tienda y ⟨fue⟩ la herida muy grande y cayeron de Yisrael treinta mil soldados ⟨de⟩ a ⟨pie⟩",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Y los filisteos lucharon",
+      "lemma": "c\/3898",
+      "pos": "a"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteos",
+      "lemma": "6430",
+      "pos": "a"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "y ⟨fueron⟩ derrotados",
+      "lemma": "c\/5062",
+      "pos": "-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "los de Yisrael",
+      "lemma": "3478",
+      "pos": "a"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "y huyó",
+      "lemma": "c\/5127",
+      "pos": "-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada hombre",
+      "lemma": "376",
+      "pos": "a"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "⟨a⟩ su tienda",
+      "lemma": "l\/168",
+      "pos": "-"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "y ⟨fue⟩",
+      "lemma": "c\/1961",
+      "pos": "-"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "la herida",
+      "lemma": "d\/4347",
+      "pos": "-"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "muy grande",
+      "lemma": "1419",
+      "pos": "a"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muy",
+      "lemma": "3966",
+      "pos": "a"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "cayeron",
+      "lemma": "c\/5307",
+      "pos": "-"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "de Israel",
+      "lemma": "m\/3478",
+      "pos": "-"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treinta",
+      "lemma": "7970",
+      "pos": "a"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil",
+      "lemma": "505",
+      "pos": "a"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "soldados ⟨de⟩ a ⟨pie⟩",
+      "lemma": "7273",
+      "pos": "a"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,128 +116,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 1135,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16952,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 18087
-  },
-  "translation": "Y los filisteos lucharon y ⟨fueron⟩ derrotados los de Yisrael y huyó cada hombre ⟨a⟩ su tienda y ⟨fue⟩ la herida muy grande y cayeron de Yisrael treinta mil soldados ⟨de⟩ a ⟨pie⟩",
-  "tokens": [
-    {
-      "surface": "וילחמו",
-      "english": "Y los filisteos lucharon",
-      "lemma": "c\/3898",
-      "pos": "a"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "filisteos",
-      "lemma": "6430",
-      "pos": "a",
-      "gloss": "a Pelishtite or inhabitant of Pelesheth"
-    },
-    {
-      "surface": "וינגף",
-      "english": "y ⟨fueron⟩ derrotados",
-      "lemma": "c\/5062",
-      "pos": "-"
-    },
-    {
-      "surface": "ישראל",
-      "english": "los de Yisrael",
-      "lemma": "3478",
-      "pos": "a",
-      "gloss": "he will rule as God; Jisraël, a symbolical name of Jacob; also (typically) of hi"
-    },
-    {
-      "surface": "וינסו",
-      "english": "y huyó",
-      "lemma": "c\/5127",
-      "pos": "-"
-    },
-    {
-      "surface": "איש",
-      "english": "cada hombre",
-      "lemma": "376",
-      "pos": "a",
-      "gloss": "a man as an individual or a male person; often used as an adjunct to a more defi"
-    },
-    {
-      "surface": "לאהליו",
-      "english": "⟨a⟩ su tienda",
-      "lemma": "l\/168",
-      "pos": "-"
-    },
-    {
-      "surface": "ותהי",
-      "english": "y ⟨fue⟩",
-      "lemma": "c\/1961",
-      "pos": "-"
-    },
-    {
-      "surface": "המכה",
-      "english": "la herida",
-      "lemma": "d\/4347",
-      "pos": "-"
-    },
-    {
-      "surface": "גדולה",
-      "english": "muy grande",
-      "lemma": "1419",
-      "pos": "a",
-      "gloss": "great (in any sense); hence, older; also insolent"
-    },
-    {
-      "surface": "מאד",
-      "english": "muy",
-      "lemma": "3966",
-      "pos": "a",
-      "gloss": "properly, vehemence, i.e. (with or without preposition) vehemently; by implicati"
-    },
-    {
-      "surface": "ויפל",
-      "english": "cayeron",
-      "lemma": "c\/5307",
-      "pos": "-"
-    },
-    {
-      "surface": "מישראל",
-      "english": "de Israel",
-      "lemma": "m\/3478",
-      "pos": "-"
-    },
-    {
-      "surface": "שלשים",
-      "english": "treinta",
-      "lemma": "7970",
-      "pos": "a",
-      "gloss": "thirty; or (ordinal) thirtieth"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil",
-      "lemma": "505",
-      "pos": "a",
-      "gloss": "hence (the ox's head being the first letter of the alphabet, and this eventually"
-    },
-    {
-      "surface": "רגלי",
-      "english": "soldados ⟨de⟩ a ⟨pie⟩",
-      "lemma": "7273",
-      "pos": "a",
-      "gloss": "a footman (soldier)"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:47:49.576617015Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

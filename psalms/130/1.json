@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 130:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69757,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70078
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:05:37.989338717Z",
   "translation": "Cántico ⟨de las⟩ subidas. De ⟨lo⟩ profundo ⟨he⟩ llamado a ti, YHWH.",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "Cántico"
+      "gloss": "Cántico"
     },
     {
       "surface": "המעלות",
-      "english": "⟨de las⟩ subidas"
+      "gloss": "⟨de las⟩ subidas"
     },
     {
       "surface": "ממעמקים",
-      "english": "De ⟨lo⟩ profundo"
+      "gloss": "De ⟨lo⟩ profundo"
     },
     {
       "surface": "קראתיך",
-      "english": "⟨he⟩ llamado a ti"
+      "gloss": "⟨he⟩ llamado a ti"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T00:05:37.989338717Z",
-  "model": "glm-4.5"
+  ]
 }

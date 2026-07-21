@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "habakkuk 2:12",
   "book": "habakkuk",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28276,
-    "prompt_tokens_details": {
-      "cached_tokens": 5
-    },
-    "total_tokens": 28642
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:33:30.675153876Z",
   "translation": "¡Ay ⟨del⟩ que ⟨está⟩ construyendo una ciudad ⟨en⟩ sangre ⟨y⟩ ⟨está⟩ fundando una ciudad ⟨en⟩ iniquidad",
   "tokens": [
     {
       "surface": "הוי",
-      "english": "¡Ay"
+      "gloss": "¡Ay"
     },
     {
       "surface": "בנה",
-      "english": "⟨del⟩ que ⟨está⟩ construyendo"
+      "gloss": "⟨del⟩ que ⟨está⟩ construyendo"
     },
     {
       "surface": "עיר",
-      "english": "una ciudad"
+      "gloss": "una ciudad"
     },
     {
       "surface": "בדמים",
-      "english": "⟨en⟩ sangre"
+      "gloss": "⟨en⟩ sangre"
     },
     {
       "surface": "וכונן",
-      "english": "⟨y⟩ ⟨está⟩ fundando"
+      "gloss": "⟨y⟩ ⟨está⟩ fundando"
     },
     {
       "surface": "קריה",
-      "english": "una ciudad"
+      "gloss": "una ciudad"
     },
     {
       "surface": "בעולה",
-      "english": "⟨en⟩ iniquidad"
+      "gloss": "⟨en⟩ iniquidad"
     }
-  ],
-  "timestamp": "2026-06-09T22:33:30.675153876Z",
-  "model": "glm-4.5"
+  ]
 }

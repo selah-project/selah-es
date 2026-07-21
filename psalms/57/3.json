@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 57:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 380,
-    "prompt_tokens": 69976,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70356
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:16.075909250Z",
   "translation": "Clamaré a Elohim ⟨el⟩ Altísimo, a Elohim ⟨que⟩ consuma ⟨por⟩ mí",
   "tokens": [
     {
       "surface": "אקרא",
-      "english": "Clamaré"
+      "gloss": "Clamaré"
     },
     {
       "surface": "לאלהים",
-      "english": "a Elohim",
+      "gloss": "a Elohim",
       "marks": "Elohim"
     },
     {
       "surface": "עליון",
-      "english": "⟨el⟩ Altísimo"
+      "gloss": "⟨el⟩ Altísimo"
     },
     {
       "surface": "לאל",
-      "english": "a Elohim"
+      "gloss": "a Elohim"
     },
     {
       "surface": "גמר",
-      "english": "⟨que⟩ consuma"
+      "gloss": "⟨que⟩ consuma"
     },
     {
       "surface": "עלי",
-      "english": "⟨por⟩ mí"
+      "gloss": "⟨por⟩ mí"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:16.075909250Z",
-  "model": "glm-4.5"
+  ]
 }

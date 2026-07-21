@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 3:18",
   "book": "genesis",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 346,
-    "prompt_tokens": 28583,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28929
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:52:07.059700453Z",
   "translation": "y espinos y cardos ⟨es⟩ lo que ⟨te⟩ hará brotar, y comerás ⟨את⟩ la hierba del campo",
   "tokens": [
     {
       "surface": "וקוץ",
-      "english": "y espinos"
+      "gloss": "y espinos"
     },
     {
       "surface": "ודרדר",
-      "english": "y cardos"
+      "gloss": "y cardos"
     },
     {
       "surface": "תצמיח",
-      "english": "hará brotar"
+      "gloss": "hará brotar"
     },
     {
       "surface": "לך",
-      "english": "te"
+      "gloss": "te"
     },
     {
       "surface": "ואכלת",
-      "english": "y comerás"
+      "gloss": "y comerás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la hierba del campo"
     },
     {
       "surface": "עשב",
-      "english": "la hierba"
+      "gloss": "la hierba"
     },
     {
       "surface": "השדה",
-      "english": "del campo"
+      "gloss": "del campo"
     }
-  ],
-  "timestamp": "2026-07-16T20:52:07.059700453Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 3:13",
   "book": "job",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27117,
-    "prompt_tokens_details": {
-      "cached_tokens": 25333
-    },
-    "total_tokens": 27478
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T06:39:26.235659089Z",
   "translation": "Porque ahora ⟨estaría⟩ acostado y estaría tranquilo, ⟨estaría⟩ durmiendo entonces habría descanso para mí",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "עתה",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "שכבתי",
-      "english": "⟨estaría⟩ acostado"
+      "gloss": "⟨estaría⟩ acostado"
     },
     {
       "surface": "ואשקוט",
-      "english": "y estaría tranquilo"
+      "gloss": "y estaría tranquilo"
     },
     {
       "surface": "ישנתי",
-      "english": "⟨estaría⟩ durmiendo"
+      "gloss": "⟨estaría⟩ durmiendo"
     },
     {
       "surface": "אז",
-      "english": "entonces"
+      "gloss": "entonces"
     },
     {
       "surface": "ינוח",
-      "english": "habría descanso"
+      "gloss": "habría descanso"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     }
-  ],
-  "timestamp": "2026-06-10T06:39:26.235659089Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "1-kings 22:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 22,
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:18:28.512755711Z",
+  "translation": "Y sucedió ⟨que⟩ al ver los capitanes de ⟨los⟩ carros ⟨que⟩ no ⟨era⟩ el rey de Yisrael, ⟨ellos⟩ se volvieron de ⟨después de⟩ él",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "⟨que⟩ al ver"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "los capitanes"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "de ⟨los⟩ carros"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨era⟩ el rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ellos⟩"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "se volvieron"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "de ⟨después de⟩ él"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62330,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62778
-  },
-  "translation": "Y sucedió ⟨que⟩ al ver los capitanes de ⟨los⟩ carros ⟨que⟩ no ⟨era⟩ el rey de Yisrael, ⟨ellos⟩ se volvieron de ⟨después de⟩ él",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "כראות",
-      "english": "⟨que⟩ al ver"
-    },
-    {
-      "surface": "שרי",
-      "english": "los capitanes"
-    },
-    {
-      "surface": "הרכב",
-      "english": "de ⟨los⟩ carros"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨era⟩ el rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨ellos⟩"
-    },
-    {
-      "surface": "וישובו",
-      "english": "se volvieron"
-    },
-    {
-      "surface": "מאחריו",
-      "english": "de ⟨después de⟩ él"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:18:28.512755711Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

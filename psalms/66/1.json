@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 66:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69849,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70247
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:12.304078609Z",
   "translation": "⟨To⟩ ⟨the⟩ preeminent ⟨one⟩ ⟨a⟩ song ⟨a⟩ psalm ⟨shout⟩ ⟨to⟩ Elohim ⟨all⟩ ⟨the⟩ earth",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ ⟨the⟩ preeminent ⟨one⟩"
+      "gloss": "⟨To⟩ ⟨the⟩ preeminent ⟨one⟩"
     },
     {
       "surface": "שיר",
-      "english": "⟨a⟩ song"
+      "gloss": "⟨a⟩ song"
     },
     {
       "surface": "מזמור",
-      "english": "⟨a⟩ psalm"
+      "gloss": "⟨a⟩ psalm"
     },
     {
       "surface": "הריעו",
-      "english": "⟨shout⟩"
+      "gloss": "⟨shout⟩"
     },
     {
       "surface": "לאלהים",
-      "english": "⟨to⟩ Elohim"
+      "gloss": "⟨to⟩ Elohim"
     },
     {
       "surface": "כל",
-      "english": "⟨all⟩"
+      "gloss": "⟨all⟩"
     },
     {
       "surface": "הארץ",
-      "english": "⟨the⟩ earth"
+      "gloss": "⟨the⟩ earth"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:12.304078609Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 5:1",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 553,
-    "prompt_tokens": 23732,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24285
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:35:28.935898906Z",
   "translation": "Y los Pelishtim tomaron ⟨את⟩ el Arón de Elohim, y lo trajeron desde Even-ha-Ezer hasta Ashdod",
   "tokens": [
     {
       "surface": "ופלשתים",
-      "english": "Y los Pelishtim"
+      "gloss": "Y los Pelishtim"
     },
     {
       "surface": "לקחו",
-      "english": "tomaron"
+      "gloss": "tomaron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Arón de Elohim"
     },
     {
       "surface": "ארון",
-      "english": "el Arón"
+      "gloss": "el Arón"
     },
     {
       "surface": "האלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "ויבאהו",
-      "english": "y lo trajeron"
+      "gloss": "y lo trajeron"
     },
     {
       "surface": "מאבן",
-      "english": "desde Even-ha-Ezer"
+      "gloss": "desde Even-ha-Ezer"
     },
     {
       "surface": "העזר",
-      "english": "Even-ha-Ezer"
+      "gloss": "Even-ha-Ezer"
     },
     {
       "surface": "אשדודה",
-      "english": "hasta Ashdod"
+      "gloss": "hasta Ashdod"
     }
-  ],
-  "timestamp": "2026-07-16T18:35:28.935898906Z",
-  "model": "glm-4.5"
+  ]
 }

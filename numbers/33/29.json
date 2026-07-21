@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "numbers 33:29",
   "book": "numbers",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24665,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 24969
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:07:13.436442031Z",
   "translation": "Y partieron de Mithka ⟨y⟩ acamparon en Hashmoná",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "Y partieron"
+      "gloss": "Y partieron"
     },
     {
       "surface": "ממתקה",
-      "english": "de Mithka"
+      "gloss": "de Mithka"
     },
     {
       "surface": "ויחנו",
-      "english": "⟨y⟩ acamparon"
+      "gloss": "⟨y⟩ acamparon"
     },
     {
       "surface": "בחשמנה",
-      "english": "en Hashmoná"
+      "gloss": "en Hashmoná"
     }
-  ],
-  "timestamp": "2026-06-10T05:07:13.436442031Z",
-  "model": "glm-4.5"
+  ]
 }

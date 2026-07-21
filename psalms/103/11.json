@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 103:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70066,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70535
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:15.668505170Z",
   "translation": "Porque ⟨tan⟩ alto como ⟨son⟩ los cielos sobre ⟨la⟩ tierra, ⟨tan⟩ grande ⟨es⟩ su Jésed sobre sus temerosos",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "כגבה",
-      "english": "⟨tan⟩ alto como"
+      "gloss": "⟨tan⟩ alto como"
     },
     {
       "surface": "שמים",
-      "english": "los cielos"
+      "gloss": "los cielos"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "גבר",
-      "english": "⟨tan⟩ grande ⟨es⟩"
+      "gloss": "⟨tan⟩ grande ⟨es⟩"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "יראיו",
-      "english": "sus temerosos"
+      "gloss": "sus temerosos"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:15.668505170Z",
-  "model": "glm-4.5"
+  ]
 }

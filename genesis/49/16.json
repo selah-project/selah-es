@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 49:16",
   "book": "genesis",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 225,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28189,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28414
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:46:15.379233586Z",
   "translation": "Dan juzgará ⟨a⟩ su pueblo como uno de ⟨las⟩ tribus de Israel",
   "tokens": [
     {
       "surface": "דן",
-      "english": "Dan"
+      "gloss": "Dan"
     },
     {
       "surface": "ידין",
-      "english": "juzgará"
+      "gloss": "juzgará"
     },
     {
       "surface": "עמו",
-      "english": "⟨a⟩ su pueblo"
+      "gloss": "⟨a⟩ su pueblo"
     },
     {
       "surface": "כאחד",
-      "english": "como uno de"
+      "gloss": "como uno de"
     },
     {
       "surface": "שבטי",
-      "english": "⟨las⟩ tribus"
+      "gloss": "⟨las⟩ tribus"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     }
-  ],
-  "timestamp": "2026-06-10T05:46:15.379233586Z",
-  "model": "glm-4.5"
+  ]
 }

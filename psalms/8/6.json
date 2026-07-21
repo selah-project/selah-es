@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 8:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 419,
-    "prompt_tokens": 69925,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70344
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:50.886466898Z",
   "translation": "Y lo hiciste falta poco ⟨de⟩ Elohim, y gloria y esplendor lo coronaste",
   "tokens": [
     {
       "surface": "ותחסרהו",
-      "english": "Y lo hiciste falta"
+      "gloss": "Y lo hiciste falta"
     },
     {
       "surface": "מעט",
-      "english": "poco"
+      "gloss": "poco"
     },
     {
       "surface": "מאלהים",
-      "english": "⟨de⟩ Elohim"
+      "gloss": "⟨de⟩ Elohim"
     },
     {
       "surface": "וכבוד",
-      "english": "y gloria"
+      "gloss": "y gloria"
     },
     {
       "surface": "והדר",
-      "english": "y esplendor"
+      "gloss": "y esplendor"
     },
     {
       "surface": "תעטרהו",
-      "english": "lo coronaste"
+      "gloss": "lo coronaste"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:50.886466898Z",
-  "model": "glm-4.5"
+  ]
 }

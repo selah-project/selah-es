@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 3:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26162,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26617
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:22:13.808043156Z",
   "translation": "el jefe de cincuenta ⟨y⟩ ⟨el⟩ que eleva ⟨el⟩ rostro ⟨y⟩ ⟨el⟩ consejero ⟨y⟩ ⟨el⟩ hábil ⟨en⟩ artesanía mágica ⟨y⟩ ⟨el⟩ entendido ⟨en⟩ susurros",
   "tokens": [
     {
       "surface": "שר",
-      "english": "El jefe"
+      "gloss": "El jefe"
     },
     {
       "surface": "חמשים",
-      "english": "de cincuenta"
+      "gloss": "de cincuenta"
     },
     {
       "surface": "ונשוא",
-      "english": "⟨y⟩ ⟨el⟩ que eleva",
+      "gloss": "⟨y⟩ ⟨el⟩ que eleva",
       "marks": "⟨el⟩ rostro"
     },
     {
       "surface": "פנים",
-      "english": "⟨el⟩ rostro"
+      "gloss": "⟨el⟩ rostro"
     },
     {
       "surface": "ויועץ",
-      "english": "⟨y⟩ ⟨el⟩ consejero"
+      "gloss": "⟨y⟩ ⟨el⟩ consejero"
     },
     {
       "surface": "וחכם",
-      "english": "⟨y⟩ ⟨el⟩ hábil"
+      "gloss": "⟨y⟩ ⟨el⟩ hábil"
     },
     {
       "surface": "חרשים",
-      "english": "⟨en⟩ artesanía mágica"
+      "gloss": "⟨en⟩ artesanía mágica"
     },
     {
       "surface": "ונבון",
-      "english": "⟨y⟩ ⟨el⟩ entendido",
+      "gloss": "⟨y⟩ ⟨el⟩ entendido",
       "marks": "⟨en⟩ susurros"
     },
     {
       "surface": "לחש",
-      "english": "⟨en⟩ susurros"
+      "gloss": "⟨en⟩ susurros"
     }
-  ],
-  "timestamp": "2026-06-10T02:22:13.808043156Z",
-  "model": "glm-4.5"
+  ]
 }

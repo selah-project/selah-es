@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "proverbs 30:23",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59930,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60370
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:19.447858612Z",
   "translation": "Bajo una mujer odiada ⟨cuando⟩ ⟨se⟩ casa ⟨con⟩ un hombre, y ⟨una⟩ sierva ⟨cuando⟩ hereda ⟨a⟩ su señora.",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "Bajo"
+      "gloss": "Bajo"
     },
     {
       "surface": "שנואה",
-      "english": "una mujer odiada"
+      "gloss": "una mujer odiada"
     },
     {
       "surface": "כי",
-      "english": "⟨cuando⟩"
+      "gloss": "⟨cuando⟩"
     },
     {
       "surface": "תבעל",
-      "english": "⟨se⟩ casa ⟨con⟩ un hombre"
+      "gloss": "⟨se⟩ casa ⟨con⟩ un hombre"
     },
     {
       "surface": "ושפחה",
-      "english": "y ⟨una⟩ sierva"
+      "gloss": "y ⟨una⟩ sierva"
     },
     {
       "surface": "כי",
-      "english": "⟨cuando⟩"
+      "gloss": "⟨cuando⟩"
     },
     {
       "surface": "תירש",
-      "english": "hereda"
+      "gloss": "hereda"
     },
     {
       "surface": "גברתה",
-      "english": "⟨a⟩ su señora"
+      "gloss": "⟨a⟩ su señora"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:19.447858612Z",
-  "model": "glm-4.5"
+  ]
 }

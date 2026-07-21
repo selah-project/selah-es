@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "leviticus 2:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 2,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:28:24.101801159Z",
+  "translation": "Y si ⟨tú⟩ traes ⟨una⟩ Korban de Minjá ⟨que sea⟩ ⟨un⟩ pan horneado ⟨en⟩ horno, ⟨será⟩ tortas de flor de harina sin levadura ⟨que⟩ mezclaste ⟨con⟩ aceite, y obleas sin levadura ⟨que⟩ unges ⟨con⟩ aceite",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Y si"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "⟨tú⟩ traes"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "⟨una⟩ Korban"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "de Minjá"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "⟨que sea⟩ ⟨un⟩ pan horneado"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "⟨en⟩ horno"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "⟨de⟩ flor de harina"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "tortas"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "sin levadura"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "⟨que⟩ mezclaste"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "⟨con⟩ aceite"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "y"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "oblesas sin levadura"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "⟨que⟩ unges"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "⟨con⟩ aceite"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "ofrenda",
@@ -20,84 +87,6 @@
       "hebrew": "מנחה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17860,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 18433
-  },
-  "translation": "Y si ⟨tú⟩ traes ⟨una⟩ Korban de Minjá ⟨que sea⟩ ⟨un⟩ pan horneado ⟨en⟩ horno, ⟨será⟩ tortas de flor de harina sin levadura ⟨que⟩ mezclaste ⟨con⟩ aceite, y obleas sin levadura ⟨que⟩ unges ⟨con⟩ aceite",
-  "tokens": [
-    {
-      "surface": "וכי",
-      "english": "Y si"
-    },
-    {
-      "surface": "תקרב",
-      "english": "⟨tú⟩ traes"
-    },
-    {
-      "surface": "קרבן",
-      "english": "⟨una⟩ Korban"
-    },
-    {
-      "surface": "מנחה",
-      "english": "de Minjá"
-    },
-    {
-      "surface": "מאפה",
-      "english": "⟨que sea⟩ ⟨un⟩ pan horneado"
-    },
-    {
-      "surface": "תנור",
-      "english": "⟨en⟩ horno"
-    },
-    {
-      "surface": "סלת",
-      "english": "⟨de⟩ flor de harina"
-    },
-    {
-      "surface": "חלות",
-      "english": "tortas"
-    },
-    {
-      "surface": "מצת",
-      "english": "sin levadura"
-    },
-    {
-      "surface": "בלולת",
-      "english": "⟨que⟩ mezclaste"
-    },
-    {
-      "surface": "בשמן",
-      "english": "⟨con⟩ aceite"
-    },
-    {
-      "surface": "ורקיקי",
-      "english": "y"
-    },
-    {
-      "surface": "מצות",
-      "english": "oblesas sin levadura"
-    },
-    {
-      "surface": "משחים",
-      "english": "⟨que⟩ unges"
-    },
-    {
-      "surface": "בשמן",
-      "english": "⟨con⟩ aceite"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:28:24.101801159Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

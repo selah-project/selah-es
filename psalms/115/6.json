@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 115:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 358,
-    "prompt_tokens": 69997,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70355
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:42.700976588Z",
   "translation": "Oídos tienen, y no oyen; nariz tienen, y no huelen.",
   "tokens": [
     {
       "surface": "אזנים",
-      "english": "Oídos"
+      "gloss": "Oídos"
     },
     {
       "surface": "להם",
-      "english": "tienen"
+      "gloss": "tienen"
     },
     {
       "surface": "ולא",
-      "english": ", y no"
+      "gloss": ", y no"
     },
     {
       "surface": "ישמעו",
-      "english": "oyen"
+      "gloss": "oyen"
     },
     {
       "surface": "אף",
-      "english": "nariz"
+      "gloss": "nariz"
     },
     {
       "surface": "להם",
-      "english": "tienen"
+      "gloss": "tienen"
     },
     {
       "surface": "ולא",
-      "english": ", y no"
+      "gloss": ", y no"
     },
     {
       "surface": "יריחון",
-      "english": "huelen"
+      "gloss": "huelen"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:42.700976588Z",
-  "model": "glm-4.5"
+  ]
 }

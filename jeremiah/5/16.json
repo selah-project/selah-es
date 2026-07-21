@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "jeremiah 5:16",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24268,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24684
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:07:12.031659543Z",
   "translation": "Su aljaba ⟨es⟩ ⟨como⟩ ⟨un⟩ sepulcro abierto; todos ⟨son⟩ hombres poderosos",
   "tokens": [
     {
       "surface": "אשפתו",
-      "english": "Su aljaba",
+      "gloss": "Su aljaba",
       "marks": null
     },
     {
       "surface": "כקבר",
-      "english": "⟨como⟩ ⟨un⟩ sepulcro",
+      "gloss": "⟨como⟩ ⟨un⟩ sepulcro",
       "marks": "sepulcro"
     },
     {
       "surface": "פתוח",
-      "english": "abierto",
+      "gloss": "abierto",
       "marks": null
     },
     {
       "surface": "כלם",
-      "english": "todos",
+      "gloss": "todos",
       "marks": null
     },
     {
       "surface": "גבורים",
-      "english": "hombres poderosos",
+      "gloss": "hombres poderosos",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-10T03:07:12.031659543Z",
-  "model": "glm-4.5"
+  ]
 }

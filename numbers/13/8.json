@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 13:8",
   "book": "numbers",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24714,
-    "prompt_tokens_details": {
-      "cached_tokens": 23998
-    },
-    "total_tokens": 24998
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:48:59.159478249Z",
   "translation": "De ⟨la⟩ tribu de Efraín, Oseas ⟨el⟩ hijo ⟨de⟩ Nun.",
   "tokens": [
     {
       "surface": "למטה",
-      "english": "De ⟨la⟩ tribu"
+      "gloss": "De ⟨la⟩ tribu"
     },
     {
       "surface": "אפרים",
-      "english": "de Efraín"
+      "gloss": "de Efraín"
     },
     {
       "surface": "הושע",
-      "english": "Oseas"
+      "gloss": "Oseas"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo"
+      "gloss": "⟨el⟩ hijo"
     },
     {
       "surface": "נון",
-      "english": "⟨de⟩ Nun"
+      "gloss": "⟨de⟩ Nun"
     }
-  ],
-  "timestamp": "2026-06-10T04:48:59.159478249Z",
-  "model": "glm-4.5"
+  ]
 }

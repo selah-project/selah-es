@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "2-chronicles 28:14",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 511,
-    "prompt_tokens": 65526,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 66037
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:59:13.034011837Z",
   "translation": "Y los hombres armados dejaron ⟨את⟩ los cautivos y ⟨את⟩ el botín delante de los oficiales y toda la asamblea",
   "tokens": [
     {
       "surface": "ויעזב",
-      "english": "Y dejaron"
+      "gloss": "Y dejaron"
     },
     {
       "surface": "החלוץ",
-      "english": "los hombres armados"
+      "gloss": "los hombres armados"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los cautivos"
     },
     {
       "surface": "השביה",
-      "english": "los cautivos"
+      "gloss": "los cautivos"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el botín"
     },
     {
       "surface": "הבזה",
-      "english": "el botín"
+      "gloss": "el botín"
     },
     {
       "surface": "לפני",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "השרים",
-      "english": "los oficiales"
+      "gloss": "los oficiales"
     },
     {
       "surface": "וכל",
-      "english": "y toda"
+      "gloss": "y toda"
     },
     {
       "surface": "הקהל",
-      "english": "la asamblea"
+      "gloss": "la asamblea"
     }
-  ],
-  "timestamp": "2026-07-16T18:59:13.034011837Z",
-  "model": "glm-4.5"
+  ]
 }

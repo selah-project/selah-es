@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "song-of-songs 8:12",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 459,
-    "prompt_tokens": 27875,
-    "prompt_tokens_details": {
-      "cached_tokens": 26496
-    },
-    "total_tokens": 28334
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:48:34.819029991Z",
   "translation": "Mi viñedo, ⟨que es⟩ mío, está delante de mí: mil ⟨son⟩ para ti, oh Shlomó, y doscientos para los que guardan ⟨את⟩ su fruto.",
   "tokens": [
     {
       "surface": "כרמי",
-      "english": "Mi viñedo"
+      "gloss": "Mi viñedo"
     },
     {
       "surface": "שלי",
-      "english": "⟨que es⟩ mío"
+      "gloss": "⟨que es⟩ mío"
     },
     {
       "surface": "לפני",
-      "english": "está delante de mí"
+      "gloss": "está delante de mí"
     },
     {
       "surface": "האלף",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "לך",
-      "english": "⟨son⟩ para ti"
+      "gloss": "⟨son⟩ para ti"
     },
     {
       "surface": "שלמה",
-      "english": "oh Shlomó"
+      "gloss": "oh Shlomó"
     },
     {
       "surface": "ומאתים",
-      "english": "y doscientos"
+      "gloss": "y doscientos"
     },
     {
       "surface": "לנטרים",
-      "english": "para los que guardan"
+      "gloss": "para los que guardan"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su fruto"
     },
     {
       "surface": "פריו",
-      "english": "su fruto"
+      "gloss": "su fruto"
     }
-  ],
-  "timestamp": "2026-07-16T23:48:34.819029991Z",
-  "model": "glm-4.5"
+  ]
 }

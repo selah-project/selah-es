@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "leviticus 21:4",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24218,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 24561
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:37:28.300049619Z",
   "translation": "He shall not defile himself ⟨as⟩ a chief man among his people ⟨to⟩ profane himself:",
   "tokens": [
     {
       "surface": "לא",
-      "english": "Not",
+      "gloss": "Not",
       "marks": ""
     },
     {
       "surface": "יטמא",
-      "english": "defile himself",
+      "gloss": "defile himself",
       "marks": ""
     },
     {
       "surface": "בעל",
-      "english": "chief man",
+      "gloss": "chief man",
       "marks": ""
     },
     {
       "surface": "בעמיו",
-      "english": "among his people",
+      "gloss": "among his people",
       "marks": ""
     },
     {
       "surface": "להחלו",
-      "english": "to profane himself",
+      "gloss": "to profane himself",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T04:37:28.300049619Z",
-  "model": "glm-4.5"
+  ]
 }

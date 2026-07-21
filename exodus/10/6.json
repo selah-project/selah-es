@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 10:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 10,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:34:36.783499432Z",
+  "translation": "y ⟨se⟩ llenarán tus casas y ⟨las⟩ casas de todos tus siervos y ⟨las⟩ casas de todos ⟨los⟩ egipcios, algo que ni tus padres ni ⟨los⟩ padres de tus padres han visto desde ⟨el⟩ día que ellos estuvieron sobre ⟨la⟩ tierra hasta ⟨el⟩ día de hoy. Y ⟨él⟩ volvió su rostro y salió de ⟨la⟩ presencia de Paró.",
+  "tokens": [
+    {
+      "surface": "ומלאו",
+      "gloss": "Y ⟨se⟩ llenarán"
+    },
+    {
+      "surface": "בתיך",
+      "gloss": "tus casas"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "y ⟨las⟩ casas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tus siervos"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "y ⟨las⟩ casas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨los⟩ egipcios"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "algo que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "han visto"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tus padres"
+    },
+    {
+      "surface": "ואבות",
+      "gloss": "ni ⟨los⟩ padres"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "de tus padres"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "desde ⟨el⟩ día"
+    },
+    {
+      "surface": "היותם",
+      "gloss": "que ellos estuvieron"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨la⟩ tierra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "de hoy"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "Y ⟨él⟩ volvió su rostro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "y salió"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de ⟨la⟩ presencia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Paró"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -13,124 +120,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 823,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18160,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 18983
-  },
-  "translation": "y ⟨se⟩ llenarán tus casas y ⟨las⟩ casas de todos tus siervos y ⟨las⟩ casas de todos ⟨los⟩ egipcios, algo que ni tus padres ni ⟨los⟩ padres de tus padres han visto desde ⟨el⟩ día que ellos estuvieron sobre ⟨la⟩ tierra hasta ⟨el⟩ día de hoy. Y ⟨él⟩ volvió su rostro y salió de ⟨la⟩ presencia de Paró.",
-  "tokens": [
-    {
-      "surface": "ומלאו",
-      "english": "Y ⟨se⟩ llenarán"
-    },
-    {
-      "surface": "בתיך",
-      "english": "tus casas"
-    },
-    {
-      "surface": "ובתי",
-      "english": "y ⟨las⟩ casas"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "עבדיך",
-      "english": "tus siervos"
-    },
-    {
-      "surface": "ובתי",
-      "english": "y ⟨las⟩ casas"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨los⟩ egipcios"
-    },
-    {
-      "surface": "אשר",
-      "english": "algo que"
-    },
-    {
-      "surface": "לא",
-      "english": "ni"
-    },
-    {
-      "surface": "ראו",
-      "english": "han visto"
-    },
-    {
-      "surface": "אבתיך",
-      "english": "tus padres"
-    },
-    {
-      "surface": "ואבות",
-      "english": "ni ⟨los⟩ padres"
-    },
-    {
-      "surface": "אבתיך",
-      "english": "de tus padres"
-    },
-    {
-      "surface": "מיום",
-      "english": "desde ⟨el⟩ día"
-    },
-    {
-      "surface": "היותם",
-      "english": "que ellos estuvieron"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "האדמה",
-      "english": "⟨la⟩ tierra"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta"
-    },
-    {
-      "surface": "היום",
-      "english": "⟨⟩"
-    },
-    {
-      "surface": "הזה",
-      "english": "de hoy"
-    },
-    {
-      "surface": "ויפן",
-      "english": "Y ⟨él⟩ volvió su rostro"
-    },
-    {
-      "surface": "ויצא",
-      "english": "y salió"
-    },
-    {
-      "surface": "מעם",
-      "english": "de ⟨la⟩ presencia"
-    },
-    {
-      "surface": "פרעה",
-      "english": "de Paró"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:34:36.783499432Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

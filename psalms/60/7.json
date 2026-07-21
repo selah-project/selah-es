@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 60:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69988,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70344
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:27:32.693683752Z",
   "translation": "Para que sean rescatados ⟨los⟩ amados ⟨de⟩ ti, salva ⟨con⟩ tu diestra, y respóndenos.",
   "tokens": [
     {
       "surface": "למען",
-      "english": "Para que"
+      "gloss": "Para que"
     },
     {
       "surface": "יחלצון",
-      "english": "sean rescatados"
+      "gloss": "sean rescatados"
     },
     {
       "surface": "ידידיך",
-      "english": "⟨los⟩ amados ⟨de⟩ ti",
+      "gloss": "⟨los⟩ amados ⟨de⟩ ti",
       "marks": "amados ⟨de⟩ ti"
     },
     {
       "surface": "הושיעה",
-      "english": "salva ⟨con⟩"
+      "gloss": "salva ⟨con⟩"
     },
     {
       "surface": "ימינך",
-      "english": "tu diestra"
+      "gloss": "tu diestra"
     },
     {
       "surface": "ועננו",
-      "english": "y respóndenos"
+      "gloss": "y respóndenos"
     }
-  ],
-  "timestamp": "2026-06-09T23:27:32.693683752Z",
-  "model": "glm-4.5"
+  ]
 }

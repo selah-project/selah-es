@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "joshua 9:3",
   "book": "joshua",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 489,
-    "prompt_tokens": 23642,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 24131
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:10:27.544952728Z",
   "translation": "Y los habitantes de Givón ⟨oyeron⟩ ⟨את⟩ lo que Yehoshúa había hecho a Yerijó y a Ai",
   "tokens": [
     {
       "surface": "וישבי",
-      "english": "Y los habitantes de"
+      "gloss": "Y los habitantes de"
     },
     {
       "surface": "גבעון",
-      "english": "Givón"
+      "gloss": "Givón"
     },
     {
       "surface": "שמעו",
-      "english": "⟨oyeron⟩"
+      "gloss": "⟨oyeron⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lo que"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "עשה",
-      "english": "había hecho"
+      "gloss": "había hecho"
     },
     {
       "surface": "יהושע",
-      "english": "Yehoshúa"
+      "gloss": "Yehoshúa"
     },
     {
       "surface": "ליריחו",
-      "english": "a Yerijó"
+      "gloss": "a Yerijó"
     },
     {
       "surface": "ולעי",
-      "english": "y a Ai"
+      "gloss": "y a Ai"
     }
-  ],
-  "timestamp": "2026-07-16T22:10:27.544952728Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "numbers 13:12",
   "book": "numbers",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24749,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25066
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:49:14.058821325Z",
   "translation": "De ⟨la⟩ tribu ⟨de⟩ Dan, Ammiel ⟨hijo⟩ de Gemalli",
   "tokens": [
     {
       "surface": "למטה",
-      "english": "De ⟨la⟩ tribu ⟨de⟩"
+      "gloss": "De ⟨la⟩ tribu ⟨de⟩"
     },
     {
       "surface": "דן",
-      "english": "Dan"
+      "gloss": "Dan"
     },
     {
       "surface": "עמיאל",
-      "english": "Ammiel"
+      "gloss": "Ammiel"
     },
     {
       "surface": "בן",
-      "english": "⟨hijo⟩"
+      "gloss": "⟨hijo⟩"
     },
     {
       "surface": "גמלי",
-      "english": "de Gemalli"
+      "gloss": "de Gemalli"
     }
-  ],
-  "timestamp": "2026-06-10T04:49:14.058821325Z",
-  "model": "glm-4.5"
+  ]
 }

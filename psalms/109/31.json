@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "psalms 109:31",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69844,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70381
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:59.474584675Z",
   "translation": "Porque ⟨Él⟩ ⟨estará⟩ en pie a ⟨la⟩ diestra ⟨del⟩ necesitado, para salvar ⟨a⟩ ⟨su⟩ alma de ⟨los⟩ que juzgan ⟨su⟩ alma.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יעמד",
-      "english": "⟨Él⟩ ⟨estará⟩ en pie"
+      "gloss": "⟨Él⟩ ⟨estará⟩ en pie"
     },
     {
       "surface": "לימין",
-      "english": "a ⟨la⟩ diestra"
+      "gloss": "a ⟨la⟩ diestra"
     },
     {
       "surface": "אביון",
-      "english": "⟨del⟩ necesitado"
+      "gloss": "⟨del⟩ necesitado"
     },
     {
       "surface": "להושיע",
-      "english": "para salvar ⟨a⟩ ⟨su⟩ alma"
+      "gloss": "para salvar ⟨a⟩ ⟨su⟩ alma"
     },
     {
       "surface": "משפטי",
-      "english": "de ⟨los⟩ que juzgan ⟨su⟩ alma"
+      "gloss": "de ⟨los⟩ que juzgan ⟨su⟩ alma"
     },
     {
       "surface": "נפשו",
-      "english": "⟨su⟩ alma"
+      "gloss": "⟨su⟩ alma"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:59.474584675Z",
-  "model": "glm-4.5"
+  ]
 }

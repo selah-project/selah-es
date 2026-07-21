@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "job 10:19",
   "book": "job",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 370,
-    "prompt_tokens": 27130,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27500
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:58:22.618130354Z",
   "translation": "Como si yo no hubiera sido, ⟨y fuera⟩ llevado del vientre ⟨a⟩ la tumba.",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "Como si"
+      "gloss": "Como si"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "הייתי",
-      "english": "yo hubiera sido"
+      "gloss": "yo hubiera sido"
     },
     {
       "surface": "אהיה",
-      "english": "⟨y fuera⟩"
+      "gloss": "⟨y fuera⟩"
     },
     {
       "surface": "מבטן",
-      "english": "del vientre"
+      "gloss": "del vientre"
     },
     {
       "surface": "לקבר",
-      "english": "⟨a⟩ la tumba"
+      "gloss": "⟨a⟩ la tumba"
     },
     {
       "surface": "אובל",
-      "english": "llevado"
+      "gloss": "llevado"
     }
-  ],
-  "timestamp": "2026-07-16T21:58:22.618130354Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,51 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 21:12",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26941,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27321
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:39.123953717Z",
   "translation": "Ellos alzan ⟨con⟩ tambor y arpa y ⟨se⟩ alegran con ⟨el⟩ sonido de ⟨la⟩ flauta",
   "tokens": [
     {
       "surface": "ישאו",
-      "english": "Ellos alzan"
+      "gloss": "Ellos alzan"
     },
     {
       "surface": "כתף",
-      "english": "⟨con⟩ tambor",
+      "gloss": "⟨con⟩ tambor",
       "marks": "tambor"
     },
     {
       "surface": "וכנור",
-      "english": "y arpa"
+      "gloss": "y arpa"
     },
     {
       "surface": "וישמחו",
-      "english": "y ⟨se⟩ alegran"
+      "gloss": "y ⟨se⟩ alegran"
     },
     {
       "surface": "לקול",
-      "english": "con ⟨el⟩ sonido",
+      "gloss": "con ⟨el⟩ sonido",
       "marks": "sonido"
     },
     {
       "surface": "עוגב",
-      "english": "de ⟨la⟩ flauta",
+      "gloss": "de ⟨la⟩ flauta",
       "marks": "flauta"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:39.123953717Z",
-  "model": "glm-4.5"
+  ]
 }

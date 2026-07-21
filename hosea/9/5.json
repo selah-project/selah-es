@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "hosea 9:5",
   "book": "hosea",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26452,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26864
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:47:49.033600240Z",
   "translation": "¿Qué haréis ⟨en⟩ ⟨el⟩ día señalado ⟨y⟩ ⟨en⟩ ⟨el⟩ día de la fiesta de YHWH?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¿Qué haréis"
+      "gloss": "¿Qué haréis"
     },
     {
       "surface": "תעשו",
-      "english": "haréis"
+      "gloss": "haréis"
     },
     {
       "surface": "ליום",
-      "english": "⟨en⟩ ⟨el⟩ día"
+      "gloss": "⟨en⟩ ⟨el⟩ día"
     },
     {
       "surface": "מועד",
-      "english": "señalado"
+      "gloss": "señalado"
     },
     {
       "surface": "וליום",
-      "english": "⟨y⟩ ⟨en⟩ ⟨el⟩ día"
+      "gloss": "⟨y⟩ ⟨en⟩ ⟨el⟩ día"
     },
     {
       "surface": "חג",
-      "english": "de la fiesta"
+      "gloss": "de la fiesta"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     }
-  ],
-  "timestamp": "2026-06-09T22:47:49.033600240Z",
-  "model": "glm-4.5"
+  ]
 }

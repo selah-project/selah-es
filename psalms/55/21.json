@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 55:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69774,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70236
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:24:48.983781920Z",
   "translation": "extendió ⟨el⟩ manos de él en ⟨el⟩ paz de él profanó ⟨el⟩ pacto de él",
   "tokens": [
     {
       "surface": "שלח",
-      "english": "Extendió",
+      "gloss": "Extendió",
       "lemma": "7971",
       "gv": 338,
       "freq": 144,
@@ -28,7 +19,7 @@
     },
     {
       "surface": "ידיו",
-      "english": "⟨el⟩ manos de él",
+      "gloss": "⟨el⟩ manos de él",
       "lemma": "3027",
       "gv": 30,
       "freq": 41,
@@ -36,7 +27,7 @@
     },
     {
       "surface": "בשלמיו",
-      "english": "en ⟨el⟩ paz de él",
+      "gloss": "en ⟨el⟩ paz de él",
       "lemma": "b\/7965",
       "gv": 388,
       "freq": 1,
@@ -44,7 +35,7 @@
     },
     {
       "surface": "חלל",
-      "english": "profanó",
+      "gloss": "profanó",
       "lemma": "2490",
       "gv": 68,
       "freq": 27,
@@ -52,13 +43,11 @@
     },
     {
       "surface": "בריתו",
-      "english": "⟨el⟩ pacto de él",
+      "gloss": "⟨el⟩ pacto de él",
       "lemma": "1285",
       "gv": 618,
       "freq": 17,
       "books": 6
     }
-  ],
-  "timestamp": "2026-06-09T23:24:48.983781920Z",
-  "model": "glm-4.5"
+  ]
 }

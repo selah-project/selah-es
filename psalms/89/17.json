@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 89:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69873,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70246
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:28.237878896Z",
   "translation": "En ⟨el⟩ nombre de ti se alegrarán todo ⟨el⟩ día y en ⟨la⟩ justicia de ti serán exaltados",
   "tokens": [
     {
       "surface": "בשמך",
-      "english": "En ⟨el⟩ nombre de ti"
+      "gloss": "En ⟨el⟩ nombre de ti"
     },
     {
       "surface": "יגילון",
-      "english": "se alegrarán"
+      "gloss": "se alegrarán"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "היום",
-      "english": "⟨el⟩ día"
+      "gloss": "⟨el⟩ día"
     },
     {
       "surface": "ובצדקתך",
-      "english": "y en ⟨la⟩ justicia de ti"
+      "gloss": "y en ⟨la⟩ justicia de ti"
     },
     {
       "surface": "ירומו",
-      "english": "serán exaltados"
+      "gloss": "serán exaltados"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:28.237878896Z",
-  "model": "glm-4.5"
+  ]
 }

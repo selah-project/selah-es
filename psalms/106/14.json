@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 106:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 401,
-    "prompt_tokens": 69863,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70264
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:53.112507985Z",
   "translation": "Y codiciaron un deseo en el desierto, y tentaron a Elohim en ⟨el⟩ desierto",
   "tokens": [
     {
       "surface": "ויתאוו",
-      "english": "Y codiciaron"
+      "gloss": "Y codiciaron"
     },
     {
       "surface": "תאוה",
-      "english": "un deseo"
+      "gloss": "un deseo"
     },
     {
       "surface": "במדבר",
-      "english": "en el desierto"
+      "gloss": "en el desierto"
     },
     {
       "surface": "וינסו",
-      "english": "y tentaron"
+      "gloss": "y tentaron"
     },
     {
       "surface": "אל",
-      "english": "a Elohim"
+      "gloss": "a Elohim"
     },
     {
       "surface": "בישימון",
-      "english": "en ⟨el⟩ desierto"
+      "gloss": "en ⟨el⟩ desierto"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:53.112507985Z",
-  "model": "glm-4.5"
+  ]
 }

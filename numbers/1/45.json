@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "numbers 1:45",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 45,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:07:52.759288715Z",
+  "translation": "Y fueron todos los ⟨que fueron⟩ censados ⟨de⟩ los hijos de Yisrael ⟨en⟩ las casas de sus padres, desde ⟨un⟩ hijo de veinte años y arriba, todos los que salían ⟨al⟩ ejército en Yisrael",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Y fueron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos los"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "⟨que fueron⟩ censados"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨de⟩ los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨en⟩ las casas"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de sus padres"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "desde ⟨un⟩ hijo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "de veinte"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "y arriba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos los"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "que salían"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨al⟩ ejército"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 652,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18373,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 19025
-  },
-  "translation": "Y fueron todos los ⟨que fueron⟩ censados ⟨de⟩ los hijos de Yisrael ⟨en⟩ las casas de sus padres, desde ⟨un⟩ hijo de veinte años y arriba, todos los que salían ⟨al⟩ ejército en Yisrael",
-  "tokens": [
-    {
-      "surface": "ויהיו",
-      "english": "Y fueron"
-    },
-    {
-      "surface": "כל",
-      "english": "todos los"
-    },
-    {
-      "surface": "פקודי",
-      "english": "⟨que fueron⟩ censados"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨de⟩ los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨en⟩ las casas"
-    },
-    {
-      "surface": "אבתם",
-      "english": "de sus padres"
-    },
-    {
-      "surface": "מבן",
-      "english": "desde ⟨un⟩ hijo"
-    },
-    {
-      "surface": "עשרים",
-      "english": "de veinte"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "ומעלה",
-      "english": "y arriba"
-    },
-    {
-      "surface": "כל",
-      "english": "todos los"
-    },
-    {
-      "surface": "יצא",
-      "english": "que salían"
-    },
-    {
-      "surface": "צבא",
-      "english": "⟨al⟩ ejército"
-    },
-    {
-      "surface": "בישראל",
-      "english": "en Israel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:07:52.759288715Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

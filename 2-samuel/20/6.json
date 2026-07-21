@@ -1,9 +1,121 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-samuel 20:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 20,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:37:31.259160307Z",
+  "translation": "Y Davidd dijo a Abisai: Ahora ⟨es⟩ peor para nosotros que Sheba ⟨el⟩ hijo de Bicri que Absalón; toma tú ⟨a⟩ ⟨los⟩ servidores de tu señor y persíguelo, no sea que encuentre para sí ciudades fortificadas y ⟨se⟩ libre de nuestra presencia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y ... dijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abisai"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Ahora"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "⟨es⟩ peor"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para nosotros"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "que Sheba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨el⟩ hijo"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "de Bicri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "que"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalón"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toma tú"
+    },
+    {
+      "surface": "קח",
+      "gloss": "toma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "עבדי"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "⟨los⟩ servidores"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "de tu señor"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "y persíguelo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "after him"
+    },
+    {
+      "surface": "פן",
+      "gloss": "no sea que"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "encuentre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sí"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ciudades"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "fortificadas"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "y ⟨se⟩ libre"
+    },
+    {
+      "surface": "עיננו",
+      "gloss": "de nuestra presencia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,129 +125,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 759,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18587,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 19346
-  },
-  "translation": "Y Davidd dijo a Abisai: Ahora ⟨es⟩ peor para nosotros que Sheba ⟨el⟩ hijo de Bicri que Absalón; toma tú ⟨a⟩ ⟨los⟩ servidores de tu señor y persíguelo, no sea que encuentre para sí ciudades fortificadas y ⟨se⟩ libre de nuestra presencia.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y ... dijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אבישי",
-      "english": "Abisai"
-    },
-    {
-      "surface": "עתה",
-      "english": "Ahora"
-    },
-    {
-      "surface": "ירע",
-      "english": "⟨es⟩ peor"
-    },
-    {
-      "surface": "לנו",
-      "english": "para nosotros"
-    },
-    {
-      "surface": "שבע",
-      "english": "que Sheba"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨el⟩ hijo"
-    },
-    {
-      "surface": "בכרי",
-      "english": "de Bicri"
-    },
-    {
-      "surface": "מן",
-      "english": "que"
-    },
-    {
-      "surface": "אבשלום",
-      "english": "Absalón"
-    },
-    {
-      "surface": "אתה",
-      "english": "toma tú"
-    },
-    {
-      "surface": "קח",
-      "english": "toma"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "עבדי"
-    },
-    {
-      "surface": "עבדי",
-      "english": "⟨los⟩ servidores"
-    },
-    {
-      "surface": "אדניך",
-      "english": "de tu señor"
-    },
-    {
-      "surface": "ורדף",
-      "english": "y persíguelo"
-    },
-    {
-      "surface": "אחריו",
-      "english": "after him"
-    },
-    {
-      "surface": "פן",
-      "english": "no sea que"
-    },
-    {
-      "surface": "מצא",
-      "english": "encuentre"
-    },
-    {
-      "surface": "לו",
-      "english": "para sí"
-    },
-    {
-      "surface": "ערים",
-      "english": "ciudades"
-    },
-    {
-      "surface": "בצרות",
-      "english": "fortificadas"
-    },
-    {
-      "surface": "והציל",
-      "english": "y ⟨se⟩ libre"
-    },
-    {
-      "surface": "עיננו",
-      "english": "de nuestra presencia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:37:31.259160307Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

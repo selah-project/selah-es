@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "numbers 20:2",
   "book": "numbers",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25075,
-    "prompt_tokens_details": {
-      "cached_tokens": 23998
-    },
-    "total_tokens": 25489
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:55:10.099439747Z",
   "translation": "y no ⟨había⟩ agua ⟨para⟩ ⟨la⟩ congregación y se congregaron ⟨contra⟩ Moshé ⟨y⟩ ⟨contra⟩ Aharón",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "Y no"
+      "gloss": "Y no"
     },
     {
       "surface": "היה",
-      "english": "⟨había⟩"
+      "gloss": "⟨había⟩"
     },
     {
       "surface": "מים",
-      "english": "agua"
+      "gloss": "agua"
     },
     {
       "surface": "לעדה",
-      "english": "⟨para⟩ ⟨la⟩ congregación"
+      "gloss": "⟨para⟩ ⟨la⟩ congregación"
     },
     {
       "surface": "ויקהלו",
-      "english": "y se congregaron"
+      "gloss": "y se congregaron"
     },
     {
       "surface": "על",
-      "english": "⟨contra⟩"
+      "gloss": "⟨contra⟩"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ועל",
-      "english": "⟨y⟩ ⟨contra⟩"
+      "gloss": "⟨y⟩ ⟨contra⟩"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     }
-  ],
-  "timestamp": "2026-06-10T04:55:10.099439747Z",
-  "model": "glm-4.5"
+  ]
 }

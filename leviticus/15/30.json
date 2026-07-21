@@ -1,83 +1,75 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "leviticus 15:30",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 783,
-    "prompt_tokens": 25406,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 26189
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:41:02.927928766Z",
   "translation": "Y hará el kohen ⟨el⟩ uno ⟨por⟩ ofrenda por el pecado y ⟨el⟩ otro ⟨por⟩ holocausto, y el kohen hará expiación por ella delante de YHWH por el flujo de su inmundicia",
   "tokens": [
     {
       "surface": "ועשה",
-      "english": "Y hará"
+      "gloss": "Y hará"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "האחד"
     },
     {
       "surface": "האחד",
-      "english": "⟨el⟩ uno"
+      "gloss": "⟨el⟩ uno"
     },
     {
       "surface": "חטאת",
-      "english": "⟨por⟩ ofrenda por el pecado"
+      "gloss": "⟨por⟩ ofrenda por el pecado"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "האחד"
     },
     {
       "surface": "האחד",
-      "english": "⟨el⟩ otro"
+      "gloss": "⟨el⟩ otro"
     },
     {
       "surface": "עלה",
-      "english": "⟨por⟩ holocausto"
+      "gloss": "⟨por⟩ holocausto"
     },
     {
       "surface": "וכפר",
-      "english": "y el kohen hará expiación"
+      "gloss": "y el kohen hará expiación"
     },
     {
       "surface": "עליה",
-      "english": "por ella"
+      "gloss": "por ella"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "לפני",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מזוב",
-      "english": "por el flujo de"
+      "gloss": "por el flujo de"
     },
     {
       "surface": "טמאתה",
-      "english": "su inmundicia"
+      "gloss": "su inmundicia"
     }
-  ],
-  "timestamp": "2026-07-16T22:41:02.927928766Z",
-  "model": "glm-4.5"
+  ]
 }

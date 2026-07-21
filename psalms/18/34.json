@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "psalms 18:34",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 667,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69805,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70472
-  },
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:21.595198071Z",
   "translation": "Hace ⟨el⟩ nivel ⟨el⟩ de mis pies ⟨el⟩ como ⟨el⟩ de ciervas y ⟨en⟩ mis alturas ⟨él⟩ me hace estar firme",
   "tokens": [
     {
       "surface": "משוה",
-      "english": "Hace ⟨el⟩ nivel ⟨el⟩",
+      "gloss": "Hace ⟨el⟩ nivel ⟨el⟩",
       "marks": "el nivel de mis pies"
     },
     {
       "surface": "רגלי",
-      "english": "de mis pies",
+      "gloss": "de mis pies",
       "marks": ""
     },
     {
       "surface": "כאילות",
-      "english": "⟨el⟩ como ⟨el⟩ de ciervas",
+      "gloss": "⟨el⟩ como ⟨el⟩ de ciervas",
       "marks": "el nivel de mis pies"
     },
     {
       "surface": "ועל",
-      "english": "y ⟨en⟩",
+      "gloss": "y ⟨en⟩",
       "marks": "mis alturas"
     },
     {
       "surface": "במתי",
-      "english": "mis alturas",
+      "gloss": "mis alturas",
       "marks": ""
     },
     {
       "surface": "יעמידני",
-      "english": "⟨él⟩ me hace estar firme",
+      "gloss": "⟨él⟩ me hace estar firme",
       "marks": "mis alturas"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:21.595198071Z",
-  "model": "glm-4.5"
+  ]
 }

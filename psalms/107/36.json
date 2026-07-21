@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "psalms 107:36",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69767,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70120
-  },
+  "verse": 36,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:28.175234146Z",
   "translation": "Y hace ⟨que⟩ ⟨los⟩ hambrientos moren allí, y establecen ⟨una⟩ ciudad ⟨de⟩ morada;",
   "tokens": [
     {
       "surface": "ויושב",
-      "english": "Y hace ⟨que⟩"
+      "gloss": "Y hace ⟨que⟩"
     },
     {
       "surface": "שם",
-      "english": "⟨los⟩ hambrientos"
+      "gloss": "⟨los⟩ hambrientos"
     },
     {
       "surface": "רעבים",
-      "english": "moren"
+      "gloss": "moren"
     },
     {
       "surface": "ויכוננו",
-      "english": "allí, y establecen"
+      "gloss": "allí, y establecen"
     },
     {
       "surface": "עיר",
-      "english": "⟨una⟩ ciudad"
+      "gloss": "⟨una⟩ ciudad"
     },
     {
       "surface": "מושב",
-      "english": "⟨de⟩ morada"
+      "gloss": "⟨de⟩ morada"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:28.175234146Z",
-  "model": "glm-4.5"
+  ]
 }

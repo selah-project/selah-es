@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 17:4",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26223,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26620
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:30:39.808606287Z",
   "translation": "Y sucederá ⟨en⟩ ⟨el⟩ día aquel ⟨que⟩ se enflaquecerá ⟨el⟩ esplendor de Yaakov y ⟨de⟩ la grasa de su carne emaciará",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "Y sucederá"
+      "gloss": "Y sucederá"
     },
     {
       "surface": "ביום",
-      "english": "⟨en⟩ ⟨el⟩ día"
+      "gloss": "⟨en⟩ ⟨el⟩ día"
     },
     {
       "surface": "ההוא",
-      "english": "aquel"
+      "gloss": "aquel"
     },
     {
       "surface": "ידל",
-      "english": "⟨que⟩ se enflaquecerá"
+      "gloss": "⟨que⟩ se enflaquecerá"
     },
     {
       "surface": "כבוד",
-      "english": "⟨el⟩ esplendor"
+      "gloss": "⟨el⟩ esplendor"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     },
     {
       "surface": "ומשמן",
-      "english": "y ⟨de⟩ la grasa"
+      "gloss": "y ⟨de⟩ la grasa"
     },
     {
       "surface": "בשרו",
-      "english": "de su carne"
+      "gloss": "de su carne"
     },
     {
       "surface": "ירזה",
-      "english": "emaciará"
+      "gloss": "emaciará"
     }
-  ],
-  "timestamp": "2026-06-10T02:30:39.808606287Z",
-  "model": "glm-4.5"
+  ]
 }

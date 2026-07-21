@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "isaiah 45:15",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26028,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26327
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:50:01.245364952Z",
   "translation": "Ciertamente tú ⟨es⟩ Elohim que se esconde, Elohim de Israel, ⟨el⟩ Salvador.",
   "tokens": [
     {
       "surface": "אכן",
-      "english": "Ciertamente"
+      "gloss": "Ciertamente"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "אל",
-      "english": "Elohim que se esconde"
+      "gloss": "Elohim que se esconde"
     },
     {
       "surface": "מסתתר",
-      "english": "que se esconde"
+      "gloss": "que se esconde"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim de"
+      "gloss": "Elohim de"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "מושיע",
-      "english": "⟨el⟩ Salvador"
+      "gloss": "⟨el⟩ Salvador"
     }
-  ],
-  "timestamp": "2026-06-10T02:50:01.245364952Z",
-  "model": "glm-4.5"
+  ]
 }

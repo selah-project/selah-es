@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 15:3",
   "book": "genesis",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 560,
-    "prompt_tokens": 28882,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29442
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:57:13.738347031Z",
   "translation": "Y dijo Avram: He aquí, a mí no ⟨has dado⟩ semilla, y he aquí, el hijo de mi casa ⟨את⟩ ⟨es⟩ mi heredero.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "אברם",
-      "english": "Avram"
+      "gloss": "Avram"
     },
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "לי",
-      "english": "a mí"
+      "gloss": "a mí"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "נתתה",
-      "english": "⟨has dado⟩"
+      "gloss": "⟨has dado⟩"
     },
     {
       "surface": "זרע",
-      "english": "semilla"
+      "gloss": "semilla"
     },
     {
       "surface": "והנה",
-      "english": "y he aquí"
+      "gloss": "y he aquí"
     },
     {
       "surface": "בן",
-      "english": "el hijo"
+      "gloss": "el hijo"
     },
     {
       "surface": "ביתי",
-      "english": "de mi casa"
+      "gloss": "de mi casa"
     },
     {
       "surface": "יורש",
-      "english": "⟨es⟩ mi heredero"
+      "gloss": "⟨es⟩ mi heredero"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mi heredero"
     }
-  ],
-  "timestamp": "2026-07-16T20:57:13.738347031Z",
-  "model": "glm-4.5"
+  ]
 }

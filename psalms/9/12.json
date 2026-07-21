@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 9:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 389,
-    "prompt_tokens": 70059,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70448
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:31.483554005Z",
   "translation": "Canten alabanzas a YHWH ⟨el que⟩ mora en Tzión; relaten entre los pueblos sus hazañas.",
   "tokens": [
     {
       "surface": "זמרו",
-      "english": "Canten alabanzas"
+      "gloss": "Canten alabanzas"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "ישב",
-      "english": "⟨el que⟩ mora"
+      "gloss": "⟨el que⟩ mora"
     },
     {
       "surface": "ציון",
-      "english": "en Tzión"
+      "gloss": "en Tzión"
     },
     {
       "surface": "הגידו",
-      "english": "relaten"
+      "gloss": "relaten"
     },
     {
       "surface": "בעמים",
-      "english": "entre los pueblos"
+      "gloss": "entre los pueblos"
     },
     {
       "surface": "עלילותיו",
-      "english": "sus hazañas"
+      "gloss": "sus hazañas"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:31.483554005Z",
-  "model": "glm-4.5"
+  ]
 }

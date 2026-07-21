@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 8:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59716,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 59988
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:33:23.631094359Z",
   "translation": "Before ⟨the⟩ mountains were sunk, before ⟨the⟩ hills I was brought forth:",
   "tokens": [
     {
       "surface": "בטרם",
-      "english": "Before"
+      "gloss": "Before"
     },
     {
       "surface": "הרים",
-      "english": "⟨the⟩ mountains"
+      "gloss": "⟨the⟩ mountains"
     },
     {
       "surface": "הטבעו",
-      "english": "were sunk"
+      "gloss": "were sunk"
     },
     {
       "surface": "לפני",
-      "english": "before"
+      "gloss": "before"
     },
     {
       "surface": "גבעות",
-      "english": "⟨the⟩ hills"
+      "gloss": "⟨the⟩ hills"
     },
     {
       "surface": "חוללתי",
-      "english": "I was brought forth"
+      "gloss": "I was brought forth"
     }
-  ],
-  "timestamp": "2026-06-10T01:33:23.631094359Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 135:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69872,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70163
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:07:17.578996009Z",
   "translation": "Los ídolos de ⟨las⟩ naciones ⟨son⟩ plata y oro, obra de ⟨las⟩ manos de ⟨el⟩ hombre.",
   "tokens": [
     {
       "surface": "עצבי",
-      "english": "Los ídolos"
+      "gloss": "Los ídolos"
     },
     {
       "surface": "הגוים",
-      "english": "de ⟨las⟩ naciones"
+      "gloss": "de ⟨las⟩ naciones"
     },
     {
       "surface": "כסף",
-      "english": "plata"
+      "gloss": "plata"
     },
     {
       "surface": "וזהב",
-      "english": "y oro"
+      "gloss": "y oro"
     },
     {
       "surface": "מעשה",
-      "english": "obra"
+      "gloss": "obra"
     },
     {
       "surface": "ידי",
-      "english": "de ⟨las⟩ manos"
+      "gloss": "de ⟨las⟩ manos"
     },
     {
       "surface": "אדם",
-      "english": "de ⟨el⟩ hombre"
+      "gloss": "de ⟨el⟩ hombre"
     }
-  ],
-  "timestamp": "2026-06-10T00:07:17.578996009Z",
-  "model": "glm-4.5"
+  ]
 }

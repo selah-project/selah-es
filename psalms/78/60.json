@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 60,
   "ref": "psalms 78:60",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69760,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70173
-  },
+  "verse": 60,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:37:55.630213326Z",
   "translation": "y él abandonó ⟨el⟩ mishkán de Shiloh, ⟨el⟩ ohel que ⟨él⟩ hizo para habitar ⟨entre⟩ adam.",
   "tokens": [
     {
       "surface": "ויטש",
-      "english": "Y él abandonó"
+      "gloss": "Y él abandonó"
     },
     {
       "surface": "משכן",
-      "english": "⟨el⟩ mishkán",
+      "gloss": "⟨el⟩ mishkán",
       "marks": "de Shiloh"
     },
     {
       "surface": "שלו",
-      "english": "de Shiloh"
+      "gloss": "de Shiloh"
     },
     {
       "surface": "אהל",
-      "english": "⟨el⟩ ohel",
+      "gloss": "⟨el⟩ ohel",
       "marks": "que ⟨él⟩ hizo para habitar ⟨entre⟩ adam"
     },
     {
       "surface": "שכן",
-      "english": "hizo para habitar"
+      "gloss": "hizo para habitar"
     },
     {
       "surface": "באדם",
-      "english": "⟨entre⟩ adam"
+      "gloss": "⟨entre⟩ adam"
     }
-  ],
-  "timestamp": "2026-06-09T23:37:55.630213326Z",
-  "model": "glm-4.5"
+  ]
 }

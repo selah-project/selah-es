@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 96:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 471,
-    "prompt_tokens": 70057,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70528
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:05.582580437Z",
   "translation": "Postraos ante YHWH en ⟨el⟩ adorno de santidad; tiemblad ante su presencia, toda la tierra.",
   "tokens": [
     {
       "surface": "השתחוו",
-      "english": "postraos"
+      "gloss": "postraos"
     },
     {
       "surface": "ליהוה",
-      "english": "ante YHWH"
+      "gloss": "ante YHWH"
     },
     {
       "surface": "בהדרת",
-      "english": "en ⟨el⟩ adorno de"
+      "gloss": "en ⟨el⟩ adorno de"
     },
     {
       "surface": "קדש",
-      "english": "santidad"
+      "gloss": "santidad"
     },
     {
       "surface": "חילו",
-      "english": "tiemblad"
+      "gloss": "tiemblad"
     },
     {
       "surface": "מפניו",
-      "english": "ante su presencia"
+      "gloss": "ante su presencia"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:05.582580437Z",
-  "model": "glm-4.5"
+  ]
 }

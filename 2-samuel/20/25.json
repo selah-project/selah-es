@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "2-samuel 20:25",
   "book": "2-samuel",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 334,
-    "prompt_tokens": 24037,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24371
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:29:24.434387891Z",
   "translation": "y Sheva ⟨es⟩ el escriba, y Tzadok y Evyatar ⟨son⟩ ⟨los⟩ kohenim",
   "tokens": [
     {
       "surface": "ושיא",
-      "english": "y Sheva"
+      "gloss": "y Sheva"
     },
     {
       "surface": "ספר",
-      "english": "el escriba"
+      "gloss": "el escriba"
     },
     {
       "surface": "וצדוק",
-      "english": "y Tzadok"
+      "gloss": "y Tzadok"
     },
     {
       "surface": "ואביתר",
-      "english": "y Evyatar"
+      "gloss": "y Evyatar"
     },
     {
       "surface": "כהנים",
-      "english": "⟨los⟩ kohenim"
+      "gloss": "⟨los⟩ kohenim"
     }
-  ],
-  "timestamp": "2026-07-16T19:29:24.434387891Z",
-  "model": "glm-4.5"
+  ]
 }

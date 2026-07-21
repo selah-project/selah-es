@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 102:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 362,
-    "prompt_tokens": 70211,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70573
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:45.719221075Z",
   "translation": "Porque tus siervos se complacen en ⟨את⟩ sus piedras, y ⟨את⟩ su polvo favorecen",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "רצו",
-      "english": "se complacen"
+      "gloss": "se complacen"
     },
     {
       "surface": "עבדיך",
-      "english": "tus siervos"
+      "gloss": "tus siervos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus piedres"
     },
     {
       "surface": "אבניה",
-      "english": "sus piedras"
+      "gloss": "sus piedras"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "su polvo"
     },
     {
       "surface": "עפרה",
-      "english": "su polvo"
+      "gloss": "su polvo"
     },
     {
       "surface": "יחננו",
-      "english": "favorecen"
+      "gloss": "favorecen"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:45.719221075Z",
-  "model": "glm-4.5"
+  ]
 }

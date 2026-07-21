@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "job 8:21",
   "book": "job",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26957,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27303
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:47.310830315Z",
   "translation": "Hasta ⟨que⟩ ⟨él⟩ llene ⟨de⟩ risa tu boca y tus labios ⟨con⟩ gritos de júbilo",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Hasta"
+      "gloss": "Hasta"
     },
     {
       "surface": "ימלה",
-      "english": "⟨que⟩ ⟨él⟩ llene"
+      "gloss": "⟨que⟩ ⟨él⟩ llene"
     },
     {
       "surface": "שחוק",
-      "english": "⟨de⟩ risa"
+      "gloss": "⟨de⟩ risa"
     },
     {
       "surface": "פיך",
-      "english": "tu boca"
+      "gloss": "tu boca"
     },
     {
       "surface": "ושפתיך",
-      "english": "y tus labios"
+      "gloss": "y tus labios"
     },
     {
       "surface": "תרועה",
-      "english": "⟨con⟩ gritos de júbilo"
+      "gloss": "⟨con⟩ gritos de júbilo"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:47.310830315Z",
-  "model": "glm-4.5"
+  ]
 }

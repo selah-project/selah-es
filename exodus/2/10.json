@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "exodus 2:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 2,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:12:27.317211581Z",
+  "translation": "Y creció el niño, y ⟨ella⟩ lo trajo ⟨a⟩ la hija de Paró, y fue ⟨para⟩ ella ⟨como⟩ hijo, y llamó su nombre Moshé, y dijo: Porque ⟨de⟩ las aguas lo saqué.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Y creció"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "el niño"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "y ⟨ella⟩ lo trajo"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "la hija de Paró"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y fue"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨para⟩ ella"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "⟨como⟩ hijo"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "y llamó"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "su nombre"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "המים",
+      "gloss": "las aguas"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "lo saqué"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -20,88 +91,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 628,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17268,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17896
-  },
-  "translation": "Y creció el niño, y ⟨ella⟩ lo trajo ⟨a⟩ la hija de Paró, y fue ⟨para⟩ ella ⟨como⟩ hijo, y llamó su nombre Moshé, y dijo: Porque ⟨de⟩ las aguas lo saqué.",
-  "tokens": [
-    {
-      "surface": "ויגדל",
-      "english": "Y creció"
-    },
-    {
-      "surface": "הילד",
-      "english": "el niño"
-    },
-    {
-      "surface": "ותבאהו",
-      "english": "y ⟨ella⟩ lo trajo"
-    },
-    {
-      "surface": "לבת",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "פרעה",
-      "english": "la hija de Paró"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y fue"
-    },
-    {
-      "surface": "לה",
-      "english": "⟨para⟩ ella"
-    },
-    {
-      "surface": "לבן",
-      "english": "⟨como⟩ hijo"
-    },
-    {
-      "surface": "ותקרא",
-      "english": "y llamó"
-    },
-    {
-      "surface": "שמו",
-      "english": "su nombre"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ותאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "המים",
-      "english": "las aguas"
-    },
-    {
-      "surface": "משיתהו",
-      "english": "lo saqué"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:12:27.317211581Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

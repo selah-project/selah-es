@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "numbers 19:11",
   "book": "numbers",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25020,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25334
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:55:11.714443254Z",
   "translation": "El que toca ⟨a⟩ ⟨el⟩ muerto, ⟨a⟩ cualquier alma de hombre, ⟨y⟩ ⟨será⟩ inmundo siete días",
   "tokens": [
     {
       "surface": "הנגע",
-      "english": "El que toca"
+      "gloss": "El que toca"
     },
     {
       "surface": "במת",
-      "english": "⟨a⟩ ⟨el⟩ muerto"
+      "gloss": "⟨a⟩ ⟨el⟩ muerto"
     },
     {
       "surface": "לכל",
-      "english": "⟨a⟩ cualquier"
+      "gloss": "⟨a⟩ cualquier"
     },
     {
       "surface": "נפש",
-      "english": "alma"
+      "gloss": "alma"
     },
     {
       "surface": "אדם",
-      "english": "de hombre"
+      "gloss": "de hombre"
     },
     {
       "surface": "וטמא",
-      "english": "⟨y⟩ ⟨será⟩ inmundo"
+      "gloss": "⟨y⟩ ⟨será⟩ inmundo"
     },
     {
       "surface": "שבעת",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     }
-  ],
-  "timestamp": "2026-06-10T04:55:11.714443254Z",
-  "model": "glm-4.5"
+  ]
 }

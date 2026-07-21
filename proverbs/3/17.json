@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 3:17",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59794,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60219
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:29:36.263911405Z",
   "translation": "Sus caminos son caminos de agradabilidad ⟨es⟩, y todos sus senderos ⟨son⟩ ⟨el⟩ shalom.",
   "tokens": [
     {
       "surface": "דרכיה",
-      "english": "Sus caminos"
+      "gloss": "Sus caminos"
     },
     {
       "surface": "דרכי",
-      "english": "son caminos"
+      "gloss": "son caminos"
     },
     {
       "surface": "נעם",
-      "english": "de agradabilidad"
+      "gloss": "de agradabilidad"
     },
     {
       "surface": "וכל",
-      "english": "y todos"
+      "gloss": "y todos"
     },
     {
       "surface": "נתיבותיה",
-      "english": "sus senderos"
+      "gloss": "sus senderos"
     },
     {
       "surface": "שלום",
-      "english": "shalom"
+      "gloss": "shalom"
     }
-  ],
-  "timestamp": "2026-06-10T01:29:36.263911405Z",
-  "model": "glm-4.5"
+  ]
 }

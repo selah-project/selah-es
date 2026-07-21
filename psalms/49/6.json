@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 49:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69838,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70319
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:21:29.270291254Z",
   "translation": "¿Por qué temer ⟨en los⟩ días de mal, ⟨cuando⟩ ⟨la⟩ iniquidad de ⟨mis⟩ acechadores ⟨me⟩ rodea?",
   "tokens": [
     {
       "surface": "למה",
-      "english": "¿Por qué"
+      "gloss": "¿Por qué"
     },
     {
       "surface": "אירא",
-      "english": "temer"
+      "gloss": "temer"
     },
     {
       "surface": "בימי",
-      "english": "⟨en los⟩ días"
+      "gloss": "⟨en los⟩ días"
     },
     {
       "surface": "רע",
-      "english": "mal"
+      "gloss": "mal"
     },
     {
       "surface": "עון",
-      "english": "⟨la⟩ iniquidad"
+      "gloss": "⟨la⟩ iniquidad"
     },
     {
       "surface": "עקבי",
-      "english": "⟨mis⟩ acechadores"
+      "gloss": "⟨mis⟩ acechadores"
     },
     {
       "surface": "יסובני",
-      "english": "⟨me⟩ rodea"
+      "gloss": "⟨me⟩ rodea"
     }
-  ],
-  "timestamp": "2026-06-09T23:21:29.270291254Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "daniel 11:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 11,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:08:17.109129747Z",
+  "translation": "Y ⟨las⟩ brazos ⟨del⟩ torrente serán inundados de ⟨delante de⟩ él y serán quebrados; y ⟨también⟩ el príncipe de ⟨la⟩ Brit.",
+  "tokens": [
+    {
+      "surface": "וזרעות",
+      "gloss": "Y las brazos"
+    },
+    {
+      "surface": "השטף",
+      "gloss": "del torrente"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "serán inundados"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "de delante de él"
+    },
+    {
+      "surface": "וישברו",
+      "gloss": "y serán quebrados"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "y también"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "el príncipe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "de Brit"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "la alianza",
@@ -13,56 +52,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16927,
-    "prompt_tokens_details": {
-      "cached_tokens": 15766
-    },
-    "total_tokens": 17439
-  },
-  "translation": "Y ⟨las⟩ brazos ⟨del⟩ torrente serán inundados de ⟨delante de⟩ él y serán quebrados; y ⟨también⟩ el príncipe de ⟨la⟩ Brit.",
-  "tokens": [
-    {
-      "surface": "וזרעות",
-      "english": "Y las brazos"
-    },
-    {
-      "surface": "השטף",
-      "english": "del torrente"
-    },
-    {
-      "surface": "ישטפו",
-      "english": "serán inundados"
-    },
-    {
-      "surface": "מלפניו",
-      "english": "de delante de él"
-    },
-    {
-      "surface": "וישברו",
-      "english": "y serán quebrados"
-    },
-    {
-      "surface": "וגם",
-      "english": "y también"
-    },
-    {
-      "surface": "נגיד",
-      "english": "el príncipe"
-    },
-    {
-      "surface": "ברית",
-      "english": "de Brit"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:08:17.109129747Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

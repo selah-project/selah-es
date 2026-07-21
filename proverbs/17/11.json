@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "proverbs 17:11",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59860,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60371
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:41:11.557054637Z",
   "translation": "⟨Un⟩ hombre rebelde ⟨busca⟩ solamente el mal, y ⟨un⟩ mensajero cruel ⟨será⟩ enviado contra él",
   "tokens": [
     {
       "surface": "אך",
-      "english": "⟨Un⟩"
+      "gloss": "⟨Un⟩"
     },
     {
       "surface": "מרי",
-      "english": "hombre rebelde"
+      "gloss": "hombre rebelde"
     },
     {
       "surface": "יבקש",
-      "english": "⟨busca⟩"
+      "gloss": "⟨busca⟩"
     },
     {
       "surface": "רע",
-      "english": "solamente el mal"
+      "gloss": "solamente el mal"
     },
     {
       "surface": "ומלאך",
-      "english": "y ⟨un⟩ mensajero"
+      "gloss": "y ⟨un⟩ mensajero"
     },
     {
       "surface": "אכזרי",
-      "english": "cruel"
+      "gloss": "cruel"
     },
     {
       "surface": "ישלח",
-      "english": "⟨será⟩ enviado"
+      "gloss": "⟨será⟩ enviado"
     },
     {
       "surface": "בו",
-      "english": "contra él"
+      "gloss": "contra él"
     }
-  ],
-  "timestamp": "2026-06-10T01:41:11.557054637Z",
-  "model": "glm-4.5"
+  ]
 }

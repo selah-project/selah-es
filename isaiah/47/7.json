@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 47:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 673,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26571,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27244
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:51:07.121476134Z",
   "translation": "Y dijiste: 'Para siempre ⟨seré⟩ señora'; ⟨por⟩ ⟨lo⟩ que ⟨tú⟩ no pusiste ⟨estas⟩ cosas sobre tu corazón, no ⟨te⟩ acordaste ⟨del⟩ fin ⟨de ellas⟩",
   "tokens": [
     {
       "surface": "ותאמרי",
-      "english": "Y dijiste"
+      "gloss": "Y dijiste"
     },
     {
       "surface": "לעולם",
-      "english": "'Para siempre"
+      "gloss": "'Para siempre"
     },
     {
       "surface": "אהיה",
-      "english": "⟨seré⟩"
+      "gloss": "⟨seré⟩"
     },
     {
       "surface": "גברת",
-      "english": "señora"
+      "gloss": "señora"
     },
     {
       "surface": "עד",
-      "english": "';"
+      "gloss": "';"
     },
     {
       "surface": "לא",
-      "english": "⟨por⟩ ⟨lo⟩ que"
+      "gloss": "⟨por⟩ ⟨lo⟩ que"
     },
     {
       "surface": "שמת",
-      "english": "⟨tú⟩ no pusiste"
+      "gloss": "⟨tú⟩ no pusiste"
     },
     {
       "surface": "אלה",
-      "english": "⟨estas⟩ cosas"
+      "gloss": "⟨estas⟩ cosas"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "לבך",
-      "english": "tu corazón"
+      "gloss": "tu corazón"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "זכרת",
-      "english": "⟨te⟩ acordaste"
+      "gloss": "⟨te⟩ acordaste"
     },
     {
       "surface": "אחריתה",
-      "english": "⟨del⟩ fin ⟨de ellas⟩"
+      "gloss": "⟨del⟩ fin ⟨de ellas⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:51:07.121476134Z",
-  "model": "glm-4.5"
+  ]
 }

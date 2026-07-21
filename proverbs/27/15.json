@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 27:15",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59818,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60326
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:49:45.838572366Z",
   "translation": "Un goteo constante ⟨el cual⟩ gotea en día de lluvia torrencial y ⟨una⟩ esposa ⟨de⟩ disputas ⟨es⟩ semejante ⟨a aquella⟩",
   "tokens": [
     {
       "surface": "דלף",
-      "english": "Goteo constante"
+      "gloss": "Goteo constante"
     },
     {
       "surface": "טורד",
-      "english": "⟨el cual⟩ gotea"
+      "gloss": "⟨el cual⟩ gotea"
     },
     {
       "surface": "ביום",
-      "english": "en día"
+      "gloss": "en día"
     },
     {
       "surface": "סגריר",
-      "english": "de lluvia torrencial"
+      "gloss": "de lluvia torrencial"
     },
     {
       "surface": "ואשת",
-      "english": "y ⟨una⟩ esposa"
+      "gloss": "y ⟨una⟩ esposa"
     },
     {
       "surface": "מדונים",
-      "english": "⟨de⟩ disputas"
+      "gloss": "⟨de⟩ disputas"
     },
     {
       "surface": "נשתוה",
-      "english": "⟨es⟩ semejante ⟨a aquella⟩"
+      "gloss": "⟨es⟩ semejante ⟨a aquella⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:49:45.838572366Z",
-  "model": "glm-4.5"
+  ]
 }

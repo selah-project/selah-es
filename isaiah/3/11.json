@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 3:11",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26012,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26365
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:22:25.207595379Z",
   "translation": "¡Ay ⟨del⟩ malvado ⟨a quien⟩ ⟨le irá⟩ mal! Porque ⟨el⟩ trato de sus manos se le ⟨hará⟩ ⟨a⟩ él.",
   "tokens": [
     {
       "surface": "אוי",
-      "english": "¡Ay"
+      "gloss": "¡Ay"
     },
     {
       "surface": "לרשע",
-      "english": "⟨del⟩ malvado"
+      "gloss": "⟨del⟩ malvado"
     },
     {
       "surface": "רע",
-      "english": "⟨a quien⟩ ⟨le irá⟩ mal"
+      "gloss": "⟨a quien⟩ ⟨le irá⟩ mal"
     },
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "גמול",
-      "english": "⟨el⟩ trato"
+      "gloss": "⟨el⟩ trato"
     },
     {
       "surface": "ידיו",
-      "english": "de sus manos"
+      "gloss": "de sus manos"
     },
     {
       "surface": "יעשה",
-      "english": "se le ⟨hará⟩"
+      "gloss": "se le ⟨hará⟩"
     },
     {
       "surface": "לו",
-      "english": "⟨a⟩ él"
+      "gloss": "⟨a⟩ él"
     }
-  ],
-  "timestamp": "2026-06-10T02:22:25.207595379Z",
-  "model": "glm-4.5"
+  ]
 }

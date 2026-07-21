@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 145:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 401,
-    "prompt_tokens": 69988,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70389
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:12.222822347Z",
   "translation": "Cada día ⟨te⟩ bendeciré, y alabaré tu nombre para siempre y ⟨por⟩ siempre jamás.",
   "tokens": [
     {
       "surface": "בכל",
-      "english": "Cada día"
+      "gloss": "Cada día"
     },
     {
       "surface": "יום",
-      "english": "⟨día⟩"
+      "gloss": "⟨día⟩"
     },
     {
       "surface": "אברכך",
-      "english": "⟨te⟩ bendeciré"
+      "gloss": "⟨te⟩ bendeciré"
     },
     {
       "surface": "ואהללה",
-      "english": "y alabaré"
+      "gloss": "y alabaré"
     },
     {
       "surface": "שמך",
-      "english": "tu nombre"
+      "gloss": "tu nombre"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre y"
+      "gloss": "para siempre y"
     },
     {
       "surface": "ועד",
-      "english": "⟨por⟩ siempre jamás"
+      "gloss": "⟨por⟩ siempre jamás"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:12.222822347Z",
-  "model": "glm-4.5"
+  ]
 }

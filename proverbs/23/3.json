@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 23:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59741,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60211
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:45:53.915038248Z",
   "translation": "No ⟨te⟩ ⟨desees⟩ ⟨las⟩ delicadezas de ⟨un⟩ comensal ⟨cruel⟩, ⟨porque⟩ ⟨son⟩ pan de ⟨mentiras⟩",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No ⟨te⟩"
+      "gloss": "No ⟨te⟩"
     },
     {
       "surface": "תתאו",
-      "english": "⟨desees⟩"
+      "gloss": "⟨desees⟩"
     },
     {
       "surface": "למטעמותיו",
-      "english": "⟨las⟩ delicadezas de ⟨un⟩ comensal ⟨cruel⟩"
+      "gloss": "⟨las⟩ delicadezas de ⟨un⟩ comensal ⟨cruel⟩"
     },
     {
       "surface": "והוא",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "לחם",
-      "english": "pan"
+      "gloss": "pan"
     },
     {
       "surface": "כזבים",
-      "english": "de ⟨mentiras⟩"
+      "gloss": "de ⟨mentiras⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:45:53.915038248Z",
-  "model": "glm-4.5"
+  ]
 }

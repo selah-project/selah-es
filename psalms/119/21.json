@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 119:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69667,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 69947
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:58:41.849890256Z",
   "translation": "Has reprendido ⟨a⟩ los arrogantes, malditos ⟨los⟩ que se desvían ⟨de⟩ tus mandamientos",
   "tokens": [
     {
       "surface": "גערת",
-      "english": "Has reprendido"
+      "gloss": "Has reprendido"
     },
     {
       "surface": "זדים",
-      "english": "⟨a⟩ los arrogantes"
+      "gloss": "⟨a⟩ los arrogantes"
     },
     {
       "surface": "ארורים",
-      "english": "malditos"
+      "gloss": "malditos"
     },
     {
       "surface": "השגים",
-      "english": "⟨los⟩ que se desvían"
+      "gloss": "⟨los⟩ que se desvían"
     },
     {
       "surface": "ממצותיך",
-      "english": "⟨de⟩ tus mandamientos"
+      "gloss": "⟨de⟩ tus mandamientos"
     }
-  ],
-  "timestamp": "2026-06-09T23:58:41.849890256Z",
-  "model": "glm-4.5"
+  ]
 }

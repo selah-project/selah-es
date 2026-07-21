@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 49:20",
   "book": "genesis",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28219,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28521
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:46:34.558895360Z",
   "translation": "De Aser ⟨es⟩ rico su pan y ⟨él⟩ dará ⟨el⟩ manjar delicado ⟨de⟩ rey",
   "tokens": [
     {
       "surface": "מאשר",
-      "english": "De Aser"
+      "gloss": "De Aser"
     },
     {
       "surface": "שמנה",
-      "english": "⟨es⟩ rico"
+      "gloss": "⟨es⟩ rico"
     },
     {
       "surface": "לחמו",
-      "english": "su pan"
+      "gloss": "su pan"
     },
     {
       "surface": "והוא",
-      "english": "y ⟨él⟩"
+      "gloss": "y ⟨él⟩"
     },
     {
       "surface": "יתן",
-      "english": "dará"
+      "gloss": "dará"
     },
     {
       "surface": "מעדני",
-      "english": "⟨el⟩ manjar delicado"
+      "gloss": "⟨el⟩ manjar delicado"
     },
     {
       "surface": "מלך",
-      "english": "⟨de⟩ rey"
+      "gloss": "⟨de⟩ rey"
     }
-  ],
-  "timestamp": "2026-06-10T05:46:34.558895360Z",
-  "model": "glm-4.5"
+  ]
 }

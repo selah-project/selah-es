@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 20:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 631,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59937,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60568
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:43:22.749714679Z",
   "translation": "El escarnecedor ⟨es⟩ ⟨el⟩ vino, y ⟨el⟩ licor ⟨es⟩ un alborotador; y cualquiera que se extravía con él no ⟨es⟩ sabio.",
   "tokens": [
     {
       "surface": "לץ",
-      "english": "El escarnecedor"
+      "gloss": "El escarnecedor"
     },
     {
       "surface": "היין",
-      "english": "⟨el⟩ vino"
+      "gloss": "⟨el⟩ vino"
     },
     {
       "surface": "המה",
-      "english": "y ⟨el⟩ licor ⟨es⟩ un alborotador"
+      "gloss": "y ⟨el⟩ licor ⟨es⟩ un alborotador"
     },
     {
       "surface": "שכר",
-      "english": "licor"
+      "gloss": "licor"
     },
     {
       "surface": "וכל",
-      "english": "y cualquiera que"
+      "gloss": "y cualquiera que"
     },
     {
       "surface": "שגה",
-      "english": "se extravía"
+      "gloss": "se extravía"
     },
     {
       "surface": "בו",
-      "english": "con él"
+      "gloss": "con él"
     },
     {
       "surface": "לא",
-      "english": "no ⟨es⟩"
+      "gloss": "no ⟨es⟩"
     },
     {
       "surface": "יחכם",
-      "english": "sabio"
+      "gloss": "sabio"
     }
-  ],
-  "timestamp": "2026-06-10T01:43:22.749714679Z",
-  "model": "glm-4.5"
+  ]
 }

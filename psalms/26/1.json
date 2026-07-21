@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 26:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 487,
-    "prompt_tokens": 70365,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70852
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:30.841638788Z",
   "translation": "De David. Júzgame, YHWH, porque yo he caminado en ⟨mi⟩ integridad, y en YHWH he confiado, no vacilaré.",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "De David"
+      "gloss": "De David"
     },
     {
       "surface": "שפטני",
-      "english": "Júzgame"
+      "gloss": "Júzgame"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "בתמי",
-      "english": "en ⟨mi⟩ integridad"
+      "gloss": "en ⟨mi⟩ integridad"
     },
     {
       "surface": "הלכתי",
-      "english": "he caminado"
+      "gloss": "he caminado"
     },
     {
       "surface": "וביהוה",
-      "english": "y en YHWH"
+      "gloss": "y en YHWH"
     },
     {
       "surface": "בטחתי",
-      "english": "he confiado"
+      "gloss": "he confiado"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אמעד",
-      "english": "vacilaré"
+      "gloss": "vacilaré"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:30.841638788Z",
-  "model": "glm-4.5"
+  ]
 }

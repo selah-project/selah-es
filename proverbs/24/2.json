@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 24:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59816,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60149
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:46:12.560729282Z",
   "translation": "because ⟨their⟩ heart imagines violence, and ⟨their⟩ lips speak of mischief",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Because"
+      "gloss": "Because"
     },
     {
       "surface": "שד",
-      "english": "violence"
+      "gloss": "violence"
     },
     {
       "surface": "יהגה",
-      "english": "imagines"
+      "gloss": "imagines"
     },
     {
       "surface": "לבם",
-      "english": "heart",
+      "gloss": "heart",
       "marks": "their heart"
     },
     {
       "surface": "ועמל",
-      "english": "and"
+      "gloss": "and"
     },
     {
       "surface": "שפתיהם",
-      "english": "lips",
+      "gloss": "lips",
       "marks": "their lips"
     },
     {
       "surface": "תדברנה",
-      "english": "speak of mischief"
+      "gloss": "speak of mischief"
     }
-  ],
-  "timestamp": "2026-06-10T01:46:12.560729282Z",
-  "model": "glm-4.5"
+  ]
 }

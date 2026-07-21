@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 69:30",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 656,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69803,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70459
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:02.990588256Z",
   "translation": "⟨Y⟩ yo, pobre y ⟨que⟩ sufre, ⟨el⟩ que su salvación, oh Elohim, ⟨es⟩ ⟨mi⟩ ⟨el⟩ que ⟨ha⟩ puesto ⟨lo⟩ alto",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "⟨Y⟩ yo"
+      "gloss": "⟨Y⟩ yo"
     },
     {
       "surface": "עני",
-      "english": "pobre"
+      "gloss": "pobre"
     },
     {
       "surface": "וכואב",
-      "english": "y ⟨que⟩ sufre"
+      "gloss": "y ⟨que⟩ sufre"
     },
     {
       "surface": "ישועתך",
-      "english": "⟨el⟩ que su salvación"
+      "gloss": "⟨el⟩ que su salvación"
     },
     {
       "surface": "אלהים",
-      "english": "oh Elohim"
+      "gloss": "oh Elohim"
     },
     {
       "surface": "תשגבני",
-      "english": "⟨es⟩ ⟨mi⟩ ⟨el⟩ que ⟨ha⟩ puesto ⟨lo⟩ alto"
+      "gloss": "⟨es⟩ ⟨mi⟩ ⟨el⟩ que ⟨ha⟩ puesto ⟨lo⟩ alto"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:02.990588256Z",
-  "model": "glm-4.5"
+  ]
 }

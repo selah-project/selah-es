@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 13:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 529,
-    "prompt_tokens": 70542,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71071
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:24.760278807Z",
   "translation": "¿Hasta cuándo, YHWH, ⟨estarás⟩ olvidándome ⟨para siempre⟩? ¿Hasta cuándo esconderás ⟨את⟩ tu rostro de mí?",
   "tokens": [
     {
       "surface": "עד",
-      "english": "¿Hasta cuándo"
+      "gloss": "¿Hasta cuándo"
     },
     {
       "surface": "אנה",
-      "english": "¿Hasta cuándo"
+      "gloss": "¿Hasta cuándo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "תשכחני",
-      "english": "⟨estarás⟩ olvidándome"
+      "gloss": "⟨estarás⟩ olvidándome"
     },
     {
       "surface": "נצח",
-      "english": "⟨para siempre⟩"
+      "gloss": "⟨para siempre⟩"
     },
     {
       "surface": "עד",
-      "english": "¿Hasta cuándo"
+      "gloss": "¿Hasta cuándo"
     },
     {
       "surface": "אנה",
-      "english": "¿Hasta cuándo"
+      "gloss": "¿Hasta cuándo"
     },
     {
       "surface": "תסתיר",
-      "english": "esconderás"
+      "gloss": "esconderás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu rostro"
     },
     {
       "surface": "פניך",
-      "english": "tu rostro"
+      "gloss": "tu rostro"
     },
     {
       "surface": "ממני",
-      "english": "de mí"
+      "gloss": "de mí"
     }
-  ],
-  "timestamp": "2026-07-16T23:25:24.760278807Z",
-  "model": "glm-4.5"
+  ]
 }

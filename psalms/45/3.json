@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.1",
-  "verse": 3,
   "ref": "psalms 45:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 818,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70299,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 71117
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:56:47.563351277Z",
   "translation": "Eres el más hermoso de los hijos de Adam; ⟨la⟩ gracia se ha derramado sobre tus labios; por tanto Elohim te ha bendecido para siempre.",
   "tokens": [
     {
       "surface": "יפיפית",
-      "english": "Eres el más hermoso"
+      "gloss": "Eres el más hermoso"
     },
     {
       "surface": "מבני",
-      "english": "de los hijos de"
+      "gloss": "de los hijos de"
     },
     {
       "surface": "אדם",
-      "english": "Adam"
+      "gloss": "Adam"
     },
     {
       "surface": "הוצק",
-      "english": "se ha derramado"
+      "gloss": "se ha derramado"
     },
     {
       "surface": "חן",
-      "english": "⟨la⟩ gracia"
+      "gloss": "⟨la⟩ gracia"
     },
     {
       "surface": "בשפתותיך",
-      "english": "sobre tus labios"
+      "gloss": "sobre tus labios"
     },
     {
       "surface": "על",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "כן",
-      "english": "tanto"
+      "gloss": "tanto"
     },
     {
       "surface": "ברכך",
-      "english": "te ha bendecido"
+      "gloss": "te ha bendecido"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     }
-  ],
-  "timestamp": "2026-06-13T03:56:47.563351277Z",
-  "model": "glm-5.1"
+  ]
 }

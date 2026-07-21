@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 40:16",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27013,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27363
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:17:37.993393997Z",
   "translation": "He aquí ahora ⟨el⟩ vigor ⟨está⟩ en sus lomos y su fuerza en los tendones de su vientre",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "נא",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "כחו",
-      "english": "⟨el⟩ vigor"
+      "gloss": "⟨el⟩ vigor"
     },
     {
       "surface": "במתניו",
-      "english": "en sus lomos"
+      "gloss": "en sus lomos"
     },
     {
       "surface": "ואנו",
-      "english": "y su fuerza"
+      "gloss": "y su fuerza"
     },
     {
       "surface": "בשרירי",
-      "english": "en los tendones"
+      "gloss": "en los tendones"
     },
     {
       "surface": "בטנו",
-      "english": "de su vientre"
+      "gloss": "de su vientre"
     }
-  ],
-  "timestamp": "2026-06-10T02:17:37.993393997Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 14:6",
   "book": "genesis",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28661,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 29031
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:12:19.649396488Z",
   "translation": "y ⟨את⟩ los joreos en sus montes de Seir, hasta El-parán que ⟨está⟩ sobre ⟨el⟩ desierto",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "Y ⟨את⟩",
+      "gloss": "Y ⟨את⟩",
       "marks": "los joreos"
     },
     {
       "surface": "החרי",
-      "english": "los joreos"
+      "gloss": "los joreos"
     },
     {
       "surface": "בהררם",
-      "english": "en sus montes"
+      "gloss": "en sus montes"
     },
     {
       "surface": "שעיר",
-      "english": "de Seir"
+      "gloss": "de Seir"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "איל",
-      "english": "El-parán"
+      "gloss": "El-parán"
     },
     {
       "surface": "פארן",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "המדבר",
-      "english": "⟨el⟩ desierto"
+      "gloss": "⟨el⟩ desierto"
     }
-  ],
-  "timestamp": "2026-06-10T05:12:19.649396488Z",
-  "model": "glm-4.5"
+  ]
 }

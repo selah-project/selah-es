@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "job 20:17",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27032,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27348
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:13.567670825Z",
   "translation": "No ⟨את⟩ verá ⟨en⟩ las corrientes, los ríos ⟨de⟩ los arroyos de miel y mantequilla.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "ירא",
-      "english": "verá"
+      "gloss": "verá"
     },
     {
       "surface": "בפלגות",
-      "english": "⟨en⟩ las corrientes"
+      "gloss": "⟨en⟩ las corrientes"
     },
     {
       "surface": "נהרי",
-      "english": "los ríos"
+      "gloss": "los ríos"
     },
     {
       "surface": "נחלי",
-      "english": "⟨de⟩ los arroyos"
+      "gloss": "⟨de⟩ los arroyos"
     },
     {
       "surface": "דבש",
-      "english": "de miel"
+      "gloss": "de miel"
     },
     {
       "surface": "וחמאה",
-      "english": "y mantequilla"
+      "gloss": "y mantequilla"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:13.567670825Z",
-  "model": "glm-4.5"
+  ]
 }

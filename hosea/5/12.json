@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "hosea 5:12",
   "book": "hosea",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26369,
-    "prompt_tokens_details": {
-      "cached_tokens": 25474
-    },
-    "total_tokens": 26718
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:46:22.556933025Z",
   "translation": "Y yo ⟨soy⟩ como polilla ⟨para⟩ Efrayim y ⟨como⟩ carcoma ⟨para⟩ ⟨la⟩ casa de Yehudá",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "Y yo",
+      "gloss": "Y yo",
       "marks": ""
     },
     {
       "surface": "כעש",
-      "english": "⟨soy⟩ como polilla",
+      "gloss": "⟨soy⟩ como polilla",
       "marks": ""
     },
     {
       "surface": "לאפרים",
-      "english": "⟨para⟩ Efrayim",
+      "gloss": "⟨para⟩ Efrayim",
       "marks": "Efrayim"
     },
     {
       "surface": "וכרקב",
-      "english": "y ⟨como⟩ carcoma",
+      "gloss": "y ⟨como⟩ carcoma",
       "marks": ""
     },
     {
       "surface": "לבית",
-      "english": "⟨para⟩ ⟨la⟩ casa",
+      "gloss": "⟨para⟩ ⟨la⟩ casa",
       "marks": "casa"
     },
     {
       "surface": "יהודה",
-      "english": "de Yehudá",
+      "gloss": "de Yehudá",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T22:46:22.556933025Z",
-  "model": "glm-4.5"
+  ]
 }

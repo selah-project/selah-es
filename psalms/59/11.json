@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 59:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 59,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:16:20.902465949Z",
+  "translation": "Elohim de ⟨su⟩ Jésed ⟨me⟩ encontrará; Elohim ⟨me⟩ permitirá ver ⟨en⟩ mis enemigos.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim de"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨su⟩ Jésed",
+      "marks": "misericordia de Elohim"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "⟨me⟩ encontrará"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "⟨me⟩ permitirá ver"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "⟨en⟩ mis enemigos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "misericordia",
@@ -13,49 +45,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 59,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62559,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 62962
-  },
-  "translation": "Elohim de ⟨su⟩ Jésed ⟨me⟩ encontrará; Elohim ⟨me⟩ permitirá ver ⟨en⟩ mis enemigos.",
-  "tokens": [
-    {
-      "surface": "אלהי",
-      "english": "Elohim de"
-    },
-    {
-      "surface": "חסדו",
-      "english": "⟨su⟩ Jésed",
-      "marks": "misericordia de Elohim"
-    },
-    {
-      "surface": "יקדמני",
-      "english": "⟨me⟩ encontrará"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "יראני",
-      "english": "⟨me⟩ permitirá ver"
-    },
-    {
-      "surface": "בשררי",
-      "english": "⟨en⟩ mis enemigos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:16:20.902465949Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

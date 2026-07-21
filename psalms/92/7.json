@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 92:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 479,
-    "prompt_tokens": 70195,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70674
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:24.948456018Z",
   "translation": "Un hombre brutish no ⟨sabe⟩, y un késil no entiende ⟨את⟩ esto.",
   "tokens": [
     {
       "surface": "איש",
-      "english": "Un hombre"
+      "gloss": "Un hombre"
     },
     {
       "surface": "בער",
-      "english": "brutish"
+      "gloss": "brutish"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ידע",
-      "english": "⟨sabe⟩"
+      "gloss": "⟨sabe⟩"
     },
     {
       "surface": "וכסיל",
-      "english": "y un késil"
+      "gloss": "y un késil"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יבין",
-      "english": "entiende"
+      "gloss": "entiende"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "esto"
     },
     {
       "surface": "זאת",
-      "english": "esto"
+      "gloss": "esto"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:24.948456018Z",
-  "model": "glm-4.5"
+  ]
 }

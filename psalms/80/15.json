@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 80:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 569,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70141,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70710
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:28.131582512Z",
   "translation": "Oh Elohim de ⟨los⟩ ejércitos, ⟨por favor⟩ regresa; mira desde ⟨el⟩ cielo y ⟨lo⟩ ve y ⟨lo⟩ visites esta cepa",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Oh Elohim de ⟨los⟩"
+      "gloss": "Oh Elohim de ⟨los⟩"
     },
     {
       "surface": "צבאות",
-      "english": "ejércitos"
+      "gloss": "ejércitos"
     },
     {
       "surface": "שוב",
-      "english": "regresa"
+      "gloss": "regresa"
     },
     {
       "surface": "נא",
-      "english": "⟨por favor⟩"
+      "gloss": "⟨por favor⟩"
     },
     {
       "surface": "הבט",
-      "english": "mira"
+      "gloss": "mira"
     },
     {
       "surface": "משמים",
-      "english": "desde ⟨el⟩ cielo"
+      "gloss": "desde ⟨el⟩ cielo"
     },
     {
       "surface": "וראה",
-      "english": "y ⟨lo⟩ ve"
+      "gloss": "y ⟨lo⟩ ve"
     },
     {
       "surface": "ופקד",
-      "english": "y ⟨lo⟩ visites"
+      "gloss": "y ⟨lo⟩ visites"
     },
     {
       "surface": "גפן",
-      "english": "cepa"
+      "gloss": "cepa"
     },
     {
       "surface": "זאת",
-      "english": "esta"
+      "gloss": "esta"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:28.131582512Z",
-  "model": "glm-4.5"
+  ]
 }

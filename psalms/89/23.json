@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 89:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69834,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70265
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:43:00.972071568Z",
   "translation": "No ⟨el⟩ adversario lo atormentará ⟨a él⟩ ⟨y⟩ ⟨el⟩ hijo de perversidad no ⟨lo⟩ afligirá",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "ישא",
-      "english": "⟨el⟩ adversario lo atormentará"
+      "gloss": "⟨el⟩ adversario lo atormentará"
     },
     {
       "surface": "אויב",
-      "english": "adversario"
+      "gloss": "adversario"
     },
     {
       "surface": "בו",
-      "english": "⟨a él⟩"
+      "gloss": "⟨a él⟩"
     },
     {
       "surface": "ובן",
-      "english": "⟨y⟩ ⟨el⟩ hijo"
+      "gloss": "⟨y⟩ ⟨el⟩ hijo"
     },
     {
       "surface": "עולה",
-      "english": "de perversidad"
+      "gloss": "de perversidad"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יעננו",
-      "english": "⟨lo⟩ afligirá"
+      "gloss": "⟨lo⟩ afligirá"
     }
-  ],
-  "timestamp": "2026-06-09T23:43:00.972071568Z",
-  "model": "glm-4.5"
+  ]
 }

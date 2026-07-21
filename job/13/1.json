@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "job 13:1",
   "book": "job",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27042,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27421
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:59.285862534Z",
   "translation": "He aquí ⟨que⟩ ⟨el⟩ ojo ⟨de⟩ mí ⟨ha⟩ visto ⟨todo⟩, ⟨el⟩ oído ⟨de⟩ mí ⟨ha⟩ escuchado y ⟨ha⟩ entendido ⟨esto⟩.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "כל",
-      "english": "⟨todo⟩"
+      "gloss": "⟨todo⟩"
     },
     {
       "surface": "ראתה",
-      "english": "⟨ha⟩ visto"
+      "gloss": "⟨ha⟩ visto"
     },
     {
       "surface": "עיני",
-      "english": "⟨el⟩ ojo ⟨de⟩ mí"
+      "gloss": "⟨el⟩ ojo ⟨de⟩ mí"
     },
     {
       "surface": "שמעה",
-      "english": "⟨ha⟩ escuchado"
+      "gloss": "⟨ha⟩ escuchado"
     },
     {
       "surface": "אזני",
-      "english": "⟨el⟩ oído ⟨de⟩ mí"
+      "gloss": "⟨el⟩ oído ⟨de⟩ mí"
     },
     {
       "surface": "ותבן",
-      "english": "y ⟨ha⟩ entendido"
+      "gloss": "y ⟨ha⟩ entendido"
     },
     {
       "surface": "לה",
-      "english": "⟨esto⟩"
+      "gloss": "⟨esto⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:59:59.285862534Z",
-  "model": "glm-4.5"
+  ]
 }

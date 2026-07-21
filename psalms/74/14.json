@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 74:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70002,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70446
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:48.526794119Z",
   "translation": "Tú quebraste ⟨los⟩ cabezas de Leviatán, ⟨lo⟩ diste ⟨como⟩ alimento ⟨al⟩ pueblo ⟨de⟩ ⟨los⟩ desiertos",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "רצצת",
-      "english": "quebraste"
+      "gloss": "quebraste"
     },
     {
       "surface": "ראשי",
-      "english": "⟨los⟩ cabezas"
+      "gloss": "⟨los⟩ cabezas"
     },
     {
       "surface": "לויתן",
-      "english": "de Leviatán"
+      "gloss": "de Leviatán"
     },
     {
       "surface": "תתננו",
-      "english": "⟨lo⟩ diste ⟨como⟩ alimento"
+      "gloss": "⟨lo⟩ diste ⟨como⟩ alimento"
     },
     {
       "surface": "מאכל",
-      "english": "alimento"
+      "gloss": "alimento"
     },
     {
       "surface": "לעם",
-      "english": "⟨al⟩ pueblo"
+      "gloss": "⟨al⟩ pueblo"
     },
     {
       "surface": "לציים",
-      "english": "⟨de⟩ ⟨los⟩ desiertos"
+      "gloss": "⟨de⟩ ⟨los⟩ desiertos"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:48.526794119Z",
-  "model": "glm-4.5"
+  ]
 }

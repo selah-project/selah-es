@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-kings 22:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 22,
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:18:16.007252218Z",
+  "translation": "Y el rey de Yisrael dijo a Jehoshafat: ⟨yo⟩ me ⟨disfrazaré⟩ y ⟨iré⟩ a la batalla, pero ⟨tú⟩ ⟨ponte⟩ tus ropas. Y el rey de Yisrael ⟨se⟩ ⟨disfrazó⟩ y ⟨fue⟩ a la batalla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y ... dijo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "התחפש",
+      "gloss": "⟨yo⟩ me ⟨disfrazaré⟩"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "y ⟨iré⟩"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "a la batalla"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "pero ⟨tú⟩"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "⟨ponte⟩"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "tus ropas"
+    },
+    {
+      "surface": "ויתחפש",
+      "gloss": "Y ... ⟨se⟩ ⟨disfrazó⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "y ⟨fue⟩"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "a la batalla"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,88 +91,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 713,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62906,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63619
-  },
-  "translation": "Y el rey de Yisrael dijo a Jehoshafat: ⟨yo⟩ me ⟨disfrazaré⟩ y ⟨iré⟩ a la batalla, pero ⟨tú⟩ ⟨ponte⟩ tus ropas. Y el rey de Yisrael ⟨se⟩ ⟨disfrazó⟩ y ⟨fue⟩ a la batalla.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y ... dijo"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Jehoshafat"
-    },
-    {
-      "surface": "התחפש",
-      "english": "⟨yo⟩ me ⟨disfrazaré⟩"
-    },
-    {
-      "surface": "ובא",
-      "english": "y ⟨iré⟩"
-    },
-    {
-      "surface": "במלחמה",
-      "english": "a la batalla"
-    },
-    {
-      "surface": "ואתה",
-      "english": "pero ⟨tú⟩"
-    },
-    {
-      "surface": "לבש",
-      "english": "⟨ponte⟩"
-    },
-    {
-      "surface": "בגדיך",
-      "english": "tus ropas"
-    },
-    {
-      "surface": "ויתחפש",
-      "english": "Y ... ⟨se⟩ ⟨disfrazó⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויבוא",
-      "english": "y ⟨fue⟩"
-    },
-    {
-      "surface": "במלחמה",
-      "english": "a la batalla"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:18:16.007252218Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

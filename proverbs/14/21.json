@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "proverbs 14:21",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 642,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59754,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60396
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:37:59.657201254Z",
   "translation": "El que desprecia ⟨a⟩ su prójimo ⟨es⟩ pecador, pero ⟨el⟩ que ⟨tiene⟩ misericordia ⟨de los⟩ pobres, ¡feliz ⟨es⟩!",
   "tokens": [
     {
       "surface": "בז",
-      "english": "El que desprecia",
+      "gloss": "El que desprecia",
       "marks": null
     },
     {
       "surface": "לרעהו",
-      "english": "⟨a⟩ su prójimo",
+      "gloss": "⟨a⟩ su prójimo",
       "marks": "su prójimo"
     },
     {
       "surface": "חוטא",
-      "english": "⟨es⟩ pecador",
+      "gloss": "⟨es⟩ pecador",
       "marks": null
     },
     {
       "surface": "ומחונן",
-      "english": "pero ⟨el⟩ que ⟨tiene⟩ misericordia",
+      "gloss": "pero ⟨el⟩ que ⟨tiene⟩ misericordia",
       "marks": null
     },
     {
       "surface": "עניים",
-      "english": "⟨de los⟩ pobres",
+      "gloss": "⟨de los⟩ pobres",
       "marks": "pobres"
     },
     {
       "surface": "אשריו",
-      "english": "¡feliz ⟨es⟩!",
+      "gloss": "¡feliz ⟨es⟩!",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-10T01:37:59.657201254Z",
-  "model": "glm-4.5"
+  ]
 }

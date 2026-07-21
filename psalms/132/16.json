@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 132:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 569,
-    "prompt_tokens": 69907,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70476
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:51.230375821Z",
   "translation": "Vestiré ⟨a⟩ sus sacerdotes ⟨con⟩ salvación, y sus devotos ⟨estarán⟩ exultando de gozo.",
   "tokens": [
     {
       "surface": "וכהניה",
-      "english": "Vestiré ⟨a⟩ sus sacerdotes"
+      "gloss": "Vestiré ⟨a⟩ sus sacerdotes"
     },
     {
       "surface": "אלביש",
-      "english": "vestiré"
+      "gloss": "vestiré"
     },
     {
       "surface": "ישע",
-      "english": "⟨con⟩ salvación"
+      "gloss": "⟨con⟩ salvación"
     },
     {
       "surface": "וחסידיה",
-      "english": "y sus devotos"
+      "gloss": "y sus devotos"
     },
     {
       "surface": "רנן",
-      "english": "⟨estarán⟩ exultando"
+      "gloss": "⟨estarán⟩ exultando"
     },
     {
       "surface": "ירננו",
-      "english": "exultando de gozo"
+      "gloss": "exultando de gozo"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:51.230375821Z",
-  "model": "glm-4.5"
+  ]
 }

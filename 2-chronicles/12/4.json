@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 12:4",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 65416,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 65804
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:52:29.248039292Z",
   "translation": "Y capturó ⟨את⟩ las ciudades fortificadas que ⟨están⟩ con Yehudá y vino hasta Yerushalayim.",
   "tokens": [
     {
       "surface": "וילכד",
-      "english": "Y capturó"
+      "gloss": "Y capturó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las ciudades fortificadas"
     },
     {
       "surface": "ערי",
-      "english": "las ciudades"
+      "gloss": "las ciudades"
     },
     {
       "surface": "המצרות",
-      "english": "fortificadas"
+      "gloss": "fortificadas"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "ליהודה",
-      "english": "con Yehudá"
+      "gloss": "con Yehudá"
     },
     {
       "surface": "ויבא",
-      "english": "y vino"
+      "gloss": "y vino"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "ירושלם",
-      "english": "Yerushalayim"
+      "gloss": "Yerushalayim"
     }
-  ],
-  "timestamp": "2026-07-16T18:52:29.248039292Z",
-  "model": "glm-4.5"
+  ]
 }

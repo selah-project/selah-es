@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 48:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25980,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26401
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:51:40.806192022Z",
   "translation": "¡Mira! ⟨he⟩ fusionado ⟨את⟩ ti, y no con plata; ⟨he⟩ probado ⟨את⟩ ti en el horno ⟨de⟩ aflicción",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "¡Mira!"
+      "gloss": "¡Mira!"
     },
     {
       "surface": "צרפתיך",
-      "english": "⟨he⟩ fusionado",
+      "gloss": "⟨he⟩ fusionado",
       "marks": "ti"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "בכסף",
-      "english": "con plata"
+      "gloss": "con plata"
     },
     {
       "surface": "בחרתיך",
-      "english": "⟨he⟩ probado",
+      "gloss": "⟨he⟩ probado",
       "marks": "ti"
     },
     {
       "surface": "בכור",
-      "english": "en el horno"
+      "gloss": "en el horno"
     },
     {
       "surface": "עני",
-      "english": "de aflicción"
+      "gloss": "de aflicción"
     }
-  ],
-  "timestamp": "2026-06-10T02:51:40.806192022Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "song-of-songs 8:2",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 600,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27940,
-    "prompt_tokens_details": {
-      "cached_tokens": 26434
-    },
-    "total_tokens": 28540
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:38:43.806611676Z",
   "translation": "Yo ⟨te⟩ conduciría, ⟨te⟩ traería ⟨a⟩ ⟨la⟩ casa de mi madre; ⟨ella⟩ ⟨te⟩ enseñaría, ⟨yo⟩ ⟨te⟩ haría beber ⟨del⟩ vino especiado, ⟨del⟩ zumo ⟨de⟩ mi granada.",
   "tokens": [
     {
       "surface": "אנהגך",
-      "english": "⟨Te⟩ conduciría"
+      "gloss": "⟨Te⟩ conduciría"
     },
     {
       "surface": "אביאך",
-      "english": "⟨te⟩ traería"
+      "gloss": "⟨te⟩ traería"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "בית",
-      "english": "⟨la⟩ casa"
+      "gloss": "⟨la⟩ casa"
     },
     {
       "surface": "אמי",
-      "english": "de mi madre"
+      "gloss": "de mi madre"
     },
     {
       "surface": "תלמדני",
-      "english": "⟨ella⟩ ⟨te⟩ enseñaría"
+      "gloss": "⟨ella⟩ ⟨te⟩ enseñaría"
     },
     {
       "surface": "אשקך",
-      "english": "⟨yo⟩ ⟨te⟩ haría beber"
+      "gloss": "⟨yo⟩ ⟨te⟩ haría beber"
     },
     {
       "surface": "מיין",
-      "english": "⟨del⟩ vino"
+      "gloss": "⟨del⟩ vino"
     },
     {
       "surface": "הרקח",
-      "english": "especiado"
+      "gloss": "especiado"
     },
     {
       "surface": "מעסיס",
-      "english": "⟨del⟩ zumo"
+      "gloss": "⟨del⟩ zumo"
     },
     {
       "surface": "רמני",
-      "english": "⟨de⟩ mi granada"
+      "gloss": "⟨de⟩ mi granada"
     }
-  ],
-  "timestamp": "2026-06-09T22:38:43.806611676Z",
-  "model": "glm-4.5"
+  ]
 }

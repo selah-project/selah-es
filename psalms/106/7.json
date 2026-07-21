@@ -1,82 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 106:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 610,
-    "prompt_tokens": 70844,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71454
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:23.333616469Z",
   "translation": "Nuestros padres en Mitzráyim no comprendieron ⟨los⟩ milagros ⟨de⟩ Ti, no recordaron ⟨el⟩ abundante Jésed tuyo, y se rebelaron junto al mar, el Mar de Suf.",
   "tokens": [
     {
       "surface": "אבותינו",
-      "english": "Nuestros padres"
+      "gloss": "Nuestros padres"
     },
     {
       "surface": "במצרים",
-      "english": "en Mitzráyim"
+      "gloss": "en Mitzráyim"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "השכילו",
-      "english": "comprendieron"
+      "gloss": "comprendieron"
     },
     {
       "surface": "נפלאותיך",
-      "english": "⟨los⟩ milagros ⟨de⟩ Ti"
+      "gloss": "⟨los⟩ milagros ⟨de⟩ Ti"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "זכרו",
-      "english": "recordaron"
+      "gloss": "recordaron"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "abundante"
     },
     {
       "surface": "רב",
-      "english": "abundante"
+      "gloss": "abundante"
     },
     {
       "surface": "חסדיך",
-      "english": "Jésed tuyo"
+      "gloss": "Jésed tuyo"
     },
     {
       "surface": "וימרו",
-      "english": "y se rebelaron"
+      "gloss": "y se rebelaron"
     },
     {
       "surface": "על",
-      "english": "junto a"
+      "gloss": "junto a"
     },
     {
       "surface": "ים",
-      "english": "el mar"
+      "gloss": "el mar"
     },
     {
       "surface": "בים",
-      "english": "el Mar"
+      "gloss": "el Mar"
     },
     {
       "surface": "סוף",
-      "english": "de Suf"
+      "gloss": "de Suf"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:23.333616469Z",
-  "model": "glm-4.5"
+  ]
 }

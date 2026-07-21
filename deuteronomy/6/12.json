@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "deuteronomy 6:12",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 483,
-    "prompt_tokens": 25193,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25676
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:44:20.389564916Z",
   "translation": "Guárdate ⟨a ti mismo⟩ ⟨para que⟩ no olvides ⟨את⟩ YHWH, quien ⟨te⟩ sacó ⟨de⟩ la tierra de Mitzráyim, ⟨de⟩ la casa de siervos.",
   "tokens": [
     {
       "surface": "השמר",
-      "english": "Guárdate"
+      "gloss": "Guárdate"
     },
     {
       "surface": "לך",
-      "english": "⟨a ti mismo⟩"
+      "gloss": "⟨a ti mismo⟩"
     },
     {
       "surface": "פן",
-      "english": "⟨para que⟩ no"
+      "gloss": "⟨para que⟩ no"
     },
     {
       "surface": "תשכח",
-      "english": "olvides"
+      "gloss": "olvides"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אשר",
-      "english": "quien"
+      "gloss": "quien"
     },
     {
       "surface": "הוציאך",
-      "english": "⟨te⟩ sacó"
+      "gloss": "⟨te⟩ sacó"
     },
     {
       "surface": "מארץ",
-      "english": "⟨de⟩ la tierra"
+      "gloss": "⟨de⟩ la tierra"
     },
     {
       "surface": "מצרים",
-      "english": "de Mitzráyim"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "מבית",
-      "english": "⟨de⟩ la casa"
+      "gloss": "⟨de⟩ la casa"
     },
     {
       "surface": "עבדים",
-      "english": "de siervos"
+      "gloss": "de siervos"
     }
-  ],
-  "timestamp": "2026-07-16T19:44:20.389564916Z",
-  "model": "glm-4.5"
+  ]
 }

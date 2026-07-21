@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 77:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 481,
-    "prompt_tokens": 69929,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70410
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:43.492967258Z",
   "translation": "¿Ha olvidado ⟨el⟩ Eterno ⟨ser⟩ misericordioso? ¿Ha cerrado ⟨en⟩ ira ⟨sus⟩ misericordias para siempre? Selah.",
   "tokens": [
     {
       "surface": "האפס",
-      "english": "¿Ha olvidado"
+      "gloss": "¿Ha olvidado"
     },
     {
       "surface": "לנצח",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "⟨su⟩ misericordia"
+      "gloss": "⟨su⟩ misericordia"
     },
     {
       "surface": "גמר",
-      "english": "cerrado"
+      "gloss": "cerrado"
     },
     {
       "surface": "אמר",
-      "english": "⟨el⟩ dicho"
+      "gloss": "⟨el⟩ dicho"
     },
     {
       "surface": "לדר",
-      "english": "⟨hasta⟩ generación"
+      "gloss": "⟨hasta⟩ generación"
     },
     {
       "surface": "ודר",
-      "english": "y generación"
+      "gloss": "y generación"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:43.492967258Z",
-  "model": "glm-4.5"
+  ]
 }

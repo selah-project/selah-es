@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 45:2",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26416,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26923
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:49:18.760834731Z",
   "translation": "Yo ⟨iré⟩ delante de ti y ⟨los⟩ torcidos ⟨haré⟩ rectos; ⟨las⟩ puertas de bronce ⟨haré⟩ pedazos y ⟨los⟩ cerrojos de hierro ⟨cortaré⟩ en pedazos",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "לפניך",
-      "english": "⟨iré⟩ delante de ti"
+      "gloss": "⟨iré⟩ delante de ti"
     },
     {
       "surface": "אלך",
-      "english": "y ⟨los⟩ torcidos ⟨haré⟩ rectos"
+      "gloss": "y ⟨los⟩ torcidos ⟨haré⟩ rectos"
     },
     {
       "surface": "והדורים",
-      "english": "⟨los⟩ torcidos"
+      "gloss": "⟨los⟩ torcidos"
     },
     {
       "surface": "אושר",
-      "english": "⟨haré⟩ rectos"
+      "gloss": "⟨haré⟩ rectos"
     },
     {
       "surface": "דלתות",
-      "english": "⟨las⟩ puertas"
+      "gloss": "⟨las⟩ puertas"
     },
     {
       "surface": "נחושה",
-      "english": "de bronce"
+      "gloss": "de bronce"
     },
     {
       "surface": "אשבר",
-      "english": "⟨haré⟩ pedazos"
+      "gloss": "⟨haré⟩ pedazos"
     },
     {
       "surface": "ובריחי",
-      "english": "y ⟨los⟩ cerrojos"
+      "gloss": "y ⟨los⟩ cerrojos"
     },
     {
       "surface": "ברזל",
-      "english": "de hierro"
+      "gloss": "de hierro"
     },
     {
       "surface": "אגדע",
-      "english": "⟨cortaré⟩ en pedazos"
+      "gloss": "⟨cortaré⟩ en pedazos"
     }
-  ],
-  "timestamp": "2026-06-10T02:49:18.760834731Z",
-  "model": "glm-4.5"
+  ]
 }

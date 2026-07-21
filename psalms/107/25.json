@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 107:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 69865,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70253
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:29.075151305Z",
   "translation": "Y Él dijo, e ⟨hizo⟩ estar de pie ⟨la⟩ tempestuosa Rúaj, y levantó sus olas",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y Él dijo"
+      "gloss": "Y Él dijo"
     },
     {
       "surface": "ויעמד",
-      "english": "e ⟨hizo⟩ estar de pie"
+      "gloss": "e ⟨hizo⟩ estar de pie"
     },
     {
       "surface": "רוח",
-      "english": "⟨la⟩ tempestuosa Rúaj"
+      "gloss": "⟨la⟩ tempestuosa Rúaj"
     },
     {
       "surface": "סערה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ותרומם",
-      "english": "y levantó"
+      "gloss": "y levantó"
     },
     {
       "surface": "גליו",
-      "english": "sus olas"
+      "gloss": "sus olas"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:29.075151305Z",
-  "model": "glm-4.5"
+  ]
 }

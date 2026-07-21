@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 6:16",
   "book": "numbers",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 461,
-    "prompt_tokens": 25434,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25895
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:58:52.260067957Z",
   "translation": "y el sacerdote lo presentará ante ⟨el⟩ YHWH, y hará ⟨את⟩ su ofrenda por el pecado y ⟨את⟩ su ofrenda quemada",
   "tokens": [
     {
       "surface": "והקריב",
-      "english": "y presentará"
+      "gloss": "y presentará"
     },
     {
       "surface": "הכהן",
-      "english": "el sacerdote"
+      "gloss": "el sacerdote"
     },
     {
       "surface": "לפני",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ועשה",
-      "english": "y hará"
+      "gloss": "y hará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su ofrenda por el pecado"
     },
     {
       "surface": "חטאתו",
-      "english": "su ofrenda por el pecado"
+      "gloss": "su ofrenda por el pecado"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "su ofrenda quemada"
     },
     {
       "surface": "עלתו",
-      "english": "su ofrenda quemada"
+      "gloss": "su ofrenda quemada"
     }
-  ],
-  "timestamp": "2026-07-16T22:58:52.260067957Z",
-  "model": "glm-4.5"
+  ]
 }

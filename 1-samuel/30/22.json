@@ -1,9 +1,142 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-samuel 30:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 30,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:14:52.689199444Z",
+  "translation": "Y respondieron todos los hombres malvados y perversos de los que fueron con Davidd, y dijeron: Ya que no fueron con nosotros, no les daremos nada ⟨el⟩ botín que hemos rescatado, sino que cada hombre ⟨a⟩ ⟨su⟩ mujer y ⟨a⟩ ⟨sus⟩ hijos; y que los guíen y se vayan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Y respondieron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "los hombres"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malvados"
+    },
+    {
+      "surface": "ובליעל",
+      "gloss": "y perversos"
+    },
+    {
+      "surface": "מהאנשים",
+      "gloss": "de los que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fueron"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "con"
+    },
+    {
+      "surface": "עם",
+      "gloss": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "y dijeron"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Ya que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "fueron"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "con"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nosotros"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "les daremos"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nada"
+    },
+    {
+      "surface": "מהשלל",
+      "gloss": "⟨el⟩ botín"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הצלנו",
+      "gloss": "hemos rescatado"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sino que"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hombre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "אשתו"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "⟨su⟩ mujer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩",
+      "marks": "בניו"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "⟨sus⟩ hijos"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "y que los guíen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "y se vayan"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,150 +146,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 1136,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18417,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 19553
-  },
-  "translation": "Y respondieron todos los hombres malvados y perversos de los que fueron con Davidd, y dijeron: Ya que no fueron con nosotros, no les daremos nada ⟨el⟩ botín que hemos rescatado, sino que cada hombre ⟨a⟩ ⟨su⟩ mujer y ⟨a⟩ ⟨sus⟩ hijos; y que los guíen y se vayan.",
-  "tokens": [
-    {
-      "surface": "ויען",
-      "english": "Y respondieron"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "איש",
-      "english": "los hombres"
-    },
-    {
-      "surface": "רע",
-      "english": "malvados"
-    },
-    {
-      "surface": "ובליעל",
-      "english": "y perversos"
-    },
-    {
-      "surface": "מהאנשים",
-      "english": "de los que"
-    },
-    {
-      "surface": "אשר",
-      "english": "fueron"
-    },
-    {
-      "surface": "הלכו",
-      "english": "con"
-    },
-    {
-      "surface": "עם",
-      "english": "David"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ויאמרו",
-      "english": "y dijeron"
-    },
-    {
-      "surface": "יען",
-      "english": "Ya que"
-    },
-    {
-      "surface": "אשר",
-      "english": "no"
-    },
-    {
-      "surface": "לא",
-      "english": "fueron"
-    },
-    {
-      "surface": "הלכו",
-      "english": "con"
-    },
-    {
-      "surface": "עמי",
-      "english": "nosotros"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "נתן",
-      "english": "les daremos"
-    },
-    {
-      "surface": "להם",
-      "english": "nada"
-    },
-    {
-      "surface": "מהשלל",
-      "english": "⟨el⟩ botín"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "הצלנו",
-      "english": "hemos rescatado"
-    },
-    {
-      "surface": "כי",
-      "english": "sino que"
-    },
-    {
-      "surface": "אם",
-      "english": "cada"
-    },
-    {
-      "surface": "איש",
-      "english": "hombre"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "אשתו"
-    },
-    {
-      "surface": "אשתו",
-      "english": "⟨su⟩ mujer"
-    },
-    {
-      "surface": "ואת",
-      "english": "⟨a⟩",
-      "marks": "בניו"
-    },
-    {
-      "surface": "בניו",
-      "english": "⟨sus⟩ hijos"
-    },
-    {
-      "surface": "וינהגו",
-      "english": "y que los guíen"
-    },
-    {
-      "surface": "וילכו",
-      "english": "y se vayan"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:14:52.689199444Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

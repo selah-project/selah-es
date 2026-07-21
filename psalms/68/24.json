@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 68:24",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 637,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70055,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70692
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:55.368623727Z",
   "translation": "Para que ⟨tú⟩ aplaste ⟨el⟩ pie ⟨de⟩ ⟨tú⟩ ⟨en⟩ sangre, ⟨y⟩ ⟨la⟩ lengua ⟨de⟩ tus perros ⟨en⟩ ⟨lo⟩ ⟨de⟩ ⟨los⟩ enemigos, desde él",
   "tokens": [
     {
       "surface": "למען",
-      "english": "Para que"
+      "gloss": "Para que"
     },
     {
       "surface": "תמחץ",
-      "english": "aplastes"
+      "gloss": "aplastes"
     },
     {
       "surface": "רגלך",
-      "english": "⟨el⟩ pie ⟨de⟩ ⟨tú⟩"
+      "gloss": "⟨el⟩ pie ⟨de⟩ ⟨tú⟩"
     },
     {
       "surface": "בדם",
-      "english": "⟨en⟩ sangre"
+      "gloss": "⟨en⟩ sangre"
     },
     {
       "surface": "לשון",
-      "english": "⟨y⟩ ⟨la⟩ lengua"
+      "gloss": "⟨y⟩ ⟨la⟩ lengua"
     },
     {
       "surface": "כלביך",
-      "english": "⟨de⟩ tus perros"
+      "gloss": "⟨de⟩ tus perros"
     },
     {
       "surface": "מאיבים",
-      "english": "⟨en⟩ ⟨lo⟩ ⟨de⟩ ⟨los⟩ enemigos"
+      "gloss": "⟨en⟩ ⟨lo⟩ ⟨de⟩ ⟨los⟩ enemigos"
     },
     {
       "surface": "מנהו",
-      "english": "desde él"
+      "gloss": "desde él"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:55.368623727Z",
-  "model": "glm-4.5"
+  ]
 }

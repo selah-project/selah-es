@@ -1,80 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "jeremiah 10:20",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 747,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25078,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25825
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:12:47.346751584Z",
   "translation": "Mi tienda ⟨está⟩ arruinada, y ⟨todas⟩ mis cuerdas ⟨se⟩ han roto: mis hijos han salido de mí, y ya no ⟨están⟩; no hay quien tienda más mi tienda, ⟨ni⟩ levante mis cortinas.",
   "tokens": [
     {
       "surface": "אהלי",
-      "english": "Mi tienda"
+      "gloss": "Mi tienda"
     },
     {
       "surface": "שדד",
-      "english": "⟨está⟩ arruinada"
+      "gloss": "⟨está⟩ arruinada"
     },
     {
       "surface": "וכל",
-      "english": "y ⟨todas⟩"
+      "gloss": "y ⟨todas⟩"
     },
     {
       "surface": "מיתרי",
-      "english": "mis cuerdas"
+      "gloss": "mis cuerdas"
     },
     {
       "surface": "נתקו",
-      "english": "⟨se⟩ han roto"
+      "gloss": "⟨se⟩ han roto"
     },
     {
       "surface": "בני",
-      "english": "mis hijos"
+      "gloss": "mis hijos"
     },
     {
       "surface": "יצאני",
-      "english": "han salido de mí"
+      "gloss": "han salido de mí"
     },
     {
       "surface": "ואינם",
-      "english": "y ya no ⟨están⟩"
+      "gloss": "y ya no ⟨están⟩"
     },
     {
       "surface": "אין",
-      "english": "no hay"
+      "gloss": "no hay"
     },
     {
       "surface": "נטה",
-      "english": "quiera tienda"
+      "gloss": "quiera tienda"
     },
     {
       "surface": "עוד",
-      "english": "más"
+      "gloss": "más"
     },
     {
       "surface": "אהלי",
-      "english": "mi tienda"
+      "gloss": "mi tienda"
     },
     {
       "surface": "ומקים",
-      "english": "⟨ni⟩ levante"
+      "gloss": "⟨ni⟩ levante"
     },
     {
       "surface": "יריעותי",
-      "english": "mis cortinas"
+      "gloss": "mis cortinas"
     }
-  ],
-  "timestamp": "2026-06-10T03:12:47.346751584Z",
-  "model": "glm-4.5"
+  ]
 }

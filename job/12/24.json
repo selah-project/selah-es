@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 12:24",
   "book": "job",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27231,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27672
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:00:21.836036916Z",
   "translation": "Quita ⟨el⟩ corazón de los jefes del pueblo de ⟨la⟩ tierra, y ⟨los⟩ hace vagar en ⟨un⟩ desierto sin camino.",
   "tokens": [
     {
       "surface": "מסיר",
-      "english": "Quita"
+      "gloss": "Quita"
     },
     {
       "surface": "לב",
-      "english": "⟨el⟩ corazón"
+      "gloss": "⟨el⟩ corazón"
     },
     {
       "surface": "ראשי",
-      "english": "de los jefes"
+      "gloss": "de los jefes"
     },
     {
       "surface": "עם",
-      "english": "del pueblo"
+      "gloss": "del pueblo"
     },
     {
       "surface": "הארץ",
-      "english": "de ⟨la⟩ tierra"
+      "gloss": "de ⟨la⟩ tierra"
     },
     {
       "surface": "ויתעם",
-      "english": "y ⟨los⟩ hace vagar"
+      "gloss": "y ⟨los⟩ hace vagar"
     },
     {
       "surface": "בתהו",
-      "english": "en ⟨un⟩ desierto"
+      "gloss": "en ⟨un⟩ desierto"
     },
     {
       "surface": "לא",
-      "english": "sin"
+      "gloss": "sin"
     },
     {
       "surface": "דרך",
-      "english": "camino"
+      "gloss": "camino"
     }
-  ],
-  "timestamp": "2026-06-10T02:00:21.836036916Z",
-  "model": "glm-4.5"
+  ]
 }

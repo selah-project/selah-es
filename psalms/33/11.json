@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 33:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 648,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69960,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70608
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:12:29.830286359Z",
   "translation": "El consejo ⟨de⟩ YHWH ⟨se⟩ mantendrá ⟨para⟩ siempre; los designios ⟨de⟩ su corazón ⟨para⟩ todas ⟨las⟩ generaciones.",
   "tokens": [
     {
       "surface": "עצת",
-      "english": "Consejo ⟨de⟩"
+      "gloss": "Consejo ⟨de⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לעולם",
-      "english": "⟨para⟩ siempre"
+      "gloss": "⟨para⟩ siempre"
     },
     {
       "surface": "תעמד",
-      "english": "⟨se⟩ mantendrá"
+      "gloss": "⟨se⟩ mantendrá"
     },
     {
       "surface": "מחשבות",
-      "english": "designios ⟨de⟩"
+      "gloss": "designios ⟨de⟩"
     },
     {
       "surface": "לבו",
-      "english": "su corazón"
+      "gloss": "su corazón"
     },
     {
       "surface": "לדר",
-      "english": "⟨para⟩ todas ⟨las⟩"
+      "gloss": "⟨para⟩ todas ⟨las⟩"
     },
     {
       "surface": "ודר",
-      "english": "generaciones"
+      "gloss": "generaciones"
     }
-  ],
-  "timestamp": "2026-06-09T23:12:29.830286359Z",
-  "model": "glm-4.5"
+  ]
 }

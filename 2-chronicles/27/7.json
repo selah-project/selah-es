@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "2-chronicles 27:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 27,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:29:28.971853974Z",
+  "translation": "Y ⟨el resto de⟩ ⟨los⟩ actos de Jotam, y todas ⟨sus⟩ guerras, y ⟨sus⟩ caminos, ⟨he aquí⟩, están escritos en ⟨el⟩ libro de ⟨los⟩ reyes de Yisrael y de Judá.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Y ⟨el resto de⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨los⟩ actos"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "de Jotam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todas"
+    },
+    {
+      "surface": "מלחמתיו",
+      "gloss": "⟨sus⟩ guerras"
+    },
+    {
+      "surface": "ודרכיו",
+      "gloss": "y ⟨sus⟩ caminos"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "⟨he aquí⟩"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "están escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "en"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "⟨el⟩ libro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de ⟨los⟩ reyes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "y de Judá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 700,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58266,
-    "prompt_tokens_details": {
-      "cached_tokens": 56680
-    },
-    "total_tokens": 58966
-  },
-  "translation": "Y ⟨el resto de⟩ ⟨los⟩ actos de Jotam, y todas ⟨sus⟩ guerras, y ⟨sus⟩ caminos, ⟨he aquí⟩, están escritos en ⟨el⟩ libro de ⟨los⟩ reyes de Yisrael y de Judá.",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "Y ⟨el resto de⟩"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨los⟩ actos"
-    },
-    {
-      "surface": "יותם",
-      "english": "de Jotam"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todas"
-    },
-    {
-      "surface": "מלחמתיו",
-      "english": "⟨sus⟩ guerras"
-    },
-    {
-      "surface": "ודרכיו",
-      "english": "y ⟨sus⟩ caminos"
-    },
-    {
-      "surface": "הנם",
-      "english": "⟨he aquí⟩"
-    },
-    {
-      "surface": "כתובים",
-      "english": "están escritos"
-    },
-    {
-      "surface": "על",
-      "english": "en"
-    },
-    {
-      "surface": "ספר",
-      "english": "⟨el⟩ libro"
-    },
-    {
-      "surface": "מלכי",
-      "english": "de ⟨los⟩ reyes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "y de Judá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:29:28.971853974Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

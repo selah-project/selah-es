@@ -1,72 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "leviticus 18:28",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 600,
-    "prompt_tokens": 25190,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25790
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:42:34.307403952Z",
   "translation": "y que ⟨la⟩ tierra no ⟨es⟩ ⟨את⟩vosotros ⟨en⟩ vuestra inmundicia, ⟨como⟩ vomitó ⟨את⟩⟨el⟩ pueblo ⟨que⟩ ⟨estaba⟩ antes de vosotros",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "y que"
+      "gloss": "y que"
     },
     {
       "surface": "תקיא",
-      "english": "no ⟨es⟩"
+      "gloss": "no ⟨es⟩"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩vosotros",
+      "gloss": "⟨את⟩vosotros",
       "marks": "בטמאכם"
     },
     {
       "surface": "בטמאכם",
-      "english": "⟨en⟩ vuestra inmundicia"
+      "gloss": "⟨en⟩ vuestra inmundicia"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "כאשר"
     },
     {
       "surface": "כאשר",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "קאה",
-      "english": "vomitó"
+      "gloss": "vomitó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הגוי"
     },
     {
       "surface": "הגוי",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "לפניכם",
-      "english": "⟨estaba⟩ antes de vosotros"
+      "gloss": "⟨estaba⟩ antes de vosotros"
     }
-  ],
-  "timestamp": "2026-07-16T22:42:34.307403952Z",
-  "model": "glm-4.5"
+  ]
 }

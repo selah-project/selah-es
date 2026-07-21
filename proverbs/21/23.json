@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "proverbs 21:23",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59744,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60050
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:27.639058805Z",
   "translation": "El que guarda su boca y su lengua, ⟨את⟩ su alma de angustias guarda.",
   "tokens": [
     {
       "surface": "שמר",
-      "english": "Guarda"
+      "gloss": "Guarda"
     },
     {
       "surface": "פיו",
-      "english": "su boca"
+      "gloss": "su boca"
     },
     {
       "surface": "ולשונו",
-      "english": "y su lengua"
+      "gloss": "y su lengua"
     },
     {
       "surface": "שמר",
-      "english": "guarda"
+      "gloss": "guarda"
     },
     {
       "surface": "מצרות",
-      "english": "de angustias"
+      "gloss": "de angustias"
     },
     {
       "surface": "נפשו",
-      "english": "su alma"
+      "gloss": "su alma"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:27.639058805Z",
-  "model": "glm-4.5"
+  ]
 }

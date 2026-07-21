@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 82:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 82,
-  "usage": {
-    "completion_tokens": 598,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70020,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70618
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:20.775807086Z",
   "translation": "Un salmo ⟨de⟩ Asaf. Elohim está en pie ⟨en⟩ la congregación de ⟨el⟩ Poderoso; ⟨en⟩ medio ⟨de⟩ los elohim ⟨Él⟩ juzga.",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "Un salmo ⟨de⟩"
+      "gloss": "Un salmo ⟨de⟩"
     },
     {
       "surface": "לאסף",
-      "english": "Asaf"
+      "gloss": "Asaf"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "נצב",
-      "english": "está en pie"
+      "gloss": "está en pie"
     },
     {
       "surface": "בעדת",
-      "english": "⟨en⟩ la congregación de"
+      "gloss": "⟨en⟩ la congregación de"
     },
     {
       "surface": "אל",
-      "english": "⟨el⟩ Poderoso"
+      "gloss": "⟨el⟩ Poderoso"
     },
     {
       "surface": "בקרב",
-      "english": "⟨en⟩ medio ⟨de⟩"
+      "gloss": "⟨en⟩ medio ⟨de⟩"
     },
     {
       "surface": "אלהים",
-      "english": "los elohim"
+      "gloss": "los elohim"
     },
     {
       "surface": "ישפט",
-      "english": "⟨Él⟩ juzga"
+      "gloss": "⟨Él⟩ juzga"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:20.775807086Z",
-  "model": "glm-4.5"
+  ]
 }

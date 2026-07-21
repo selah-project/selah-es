@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 46:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 649,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70379,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71028
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:24.081636259Z",
   "translation": "desistiendo ⟨de⟩ guerras hasta ⟨el⟩ extremo ⟨de la⟩ tierra ⟨את⟩; quebrando ⟨el⟩ arco, y cortando ⟨la⟩ lanza ⟨את⟩; quemando ⟨los⟩ carros ⟨en⟩ fuego.",
   "tokens": [
     {
       "surface": "משבית",
-      "english": "Desistiendo"
+      "gloss": "Desistiendo"
     },
     {
       "surface": "מלחמות",
-      "english": "guerras"
+      "gloss": "guerras"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "קצה",
-      "english": "⟨el⟩ extremo"
+      "gloss": "⟨el⟩ extremo"
     },
     {
       "surface": "הארץ",
-      "english": "⟨de la⟩ tierra",
+      "gloss": "⟨de la⟩ tierra",
       "marks": "tierra"
     },
     {
       "surface": "קשת",
-      "english": "⟨el⟩ arco"
+      "gloss": "⟨el⟩ arco"
     },
     {
       "surface": "ישבר",
-      "english": "quebrando"
+      "gloss": "quebrando"
     },
     {
       "surface": "וקצץ",
-      "english": "y cortando"
+      "gloss": "y cortando"
     },
     {
       "surface": "חנית",
-      "english": "⟨la⟩ lanza",
+      "gloss": "⟨la⟩ lanza",
       "marks": "lanza"
     },
     {
       "surface": "עגלות",
-      "english": "⟨los⟩ carros"
+      "gloss": "⟨los⟩ carros"
     },
     {
       "surface": "ישרף",
-      "english": "quemando"
+      "gloss": "quemando"
     },
     {
       "surface": "באש",
-      "english": "⟨en⟩ fuego"
+      "gloss": "⟨en⟩ fuego"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:24.081636259Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "ezekiel 48:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:58:02.249422726Z",
+  "translation": "Y ⟨el⟩ ⟨que⟩ sirve ⟨a⟩ la ciudad, servirán ⟨a⟩ ⟨ella⟩ de todas las tribus ⟨de⟩ Yisrael",
+  "tokens": [
+    {
+      "surface": "והעבד",
+      "gloss": "Y ⟨el⟩ ⟨que⟩ sirve",
+      "marks": "el que sirve ⟨a⟩ la ciudad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨a⟩ la ciudad",
+      "marks": "la ciudad"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "servirán ⟨a⟩ ⟨ella⟩",
+      "marks": "a la ciudad"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de todas",
+      "marks": "tribus"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribus ⟨de⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,53 +49,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16909,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17334
-  },
-  "translation": "Y ⟨el⟩ ⟨que⟩ sirve ⟨a⟩ la ciudad, servirán ⟨a⟩ ⟨ella⟩ de todas las tribus ⟨de⟩ Yisrael",
-  "tokens": [
-    {
-      "surface": "והעבד",
-      "english": "Y ⟨el⟩ ⟨que⟩ sirve",
-      "marks": "el que sirve ⟨a⟩ la ciudad"
-    },
-    {
-      "surface": "העיר",
-      "english": "⟨a⟩ la ciudad",
-      "marks": "la ciudad"
-    },
-    {
-      "surface": "יעבדוהו",
-      "english": "servirán ⟨a⟩ ⟨ella⟩",
-      "marks": "a la ciudad"
-    },
-    {
-      "surface": "מכל",
-      "english": "de todas",
-      "marks": "tribus"
-    },
-    {
-      "surface": "שבטי",
-      "english": "tribus ⟨de⟩",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:58:02.249422726Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

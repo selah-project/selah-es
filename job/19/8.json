@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 19:8",
   "book": "job",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27107,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27599
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:39.606646933Z",
   "translation": "Ha cercado mi camino ⟨את⟩ y no pasaré ⟨את⟩; y sobre mis caminos ⟨את⟩ oscuridad ⟨את⟩ pondrá.",
   "tokens": [
     {
       "surface": "ארחי",
-      "english": "Mi camino"
+      "gloss": "Mi camino"
     },
     {
       "surface": "גדר",
-      "english": "Ha cercado"
+      "gloss": "Ha cercado"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "אעבור",
-      "english": "pasaré"
+      "gloss": "pasaré"
     },
     {
       "surface": "ועל",
-      "english": "y sobre"
+      "gloss": "y sobre"
     },
     {
       "surface": "נתיבותי",
-      "english": "mis caminos"
+      "gloss": "mis caminos"
     },
     {
       "surface": "חשך",
-      "english": "oscuridad"
+      "gloss": "oscuridad"
     },
     {
       "surface": "ישים",
-      "english": "pondrá"
+      "gloss": "pondrá"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:39.606646933Z",
-  "model": "glm-4.5"
+  ]
 }

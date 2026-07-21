@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "esther 10:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 10,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:55:06.621652275Z",
+  "translation": "Y todos ⟨los⟩ actos de su poder y su valentía, y ⟨la⟩ declaración ⟨de⟩ ⟨la⟩ grandeza de Mordejai, ⟨la cual⟩ el rey engrandeció, ¿no ⟨están⟩ escritos en ⟨el⟩ libro de ⟨los⟩ hechos de ⟨los⟩ días de ⟨los⟩ reyes de Media y de Persia?",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Y todos"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "⟨los⟩ actos"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "de su poder"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "y su valentía"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "y ⟨la⟩ declaración"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "⟨de⟩ ⟨la⟩ grandeza"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "de Mordejai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨la cual⟩"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "el rey engrandeció"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "¿no"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨están⟩"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "en"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "⟨el⟩ libro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de ⟨los⟩ hechos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "de ⟨los⟩ días"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "de ⟨los⟩ reyes"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "de Media"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "y de Persia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mardoqueo",
@@ -13,104 +100,6 @@
       "hebrew": "מרדכי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 652,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18501,
-    "prompt_tokens_details": {
-      "cached_tokens": 16280
-    },
-    "total_tokens": 19153
-  },
-  "translation": "Y todos ⟨los⟩ actos de su poder y su valentía, y ⟨la⟩ declaración ⟨de⟩ ⟨la⟩ grandeza de Mordejai, ⟨la cual⟩ el rey engrandeció, ¿no ⟨están⟩ escritos en ⟨el⟩ libro de ⟨los⟩ hechos de ⟨los⟩ días de ⟨los⟩ reyes de Media y de Persia?",
-  "tokens": [
-    {
-      "surface": "וכל",
-      "english": "Y todos"
-    },
-    {
-      "surface": "מעשה",
-      "english": "⟨los⟩ actos"
-    },
-    {
-      "surface": "תקפו",
-      "english": "de su poder"
-    },
-    {
-      "surface": "וגבורתו",
-      "english": "y su valentía"
-    },
-    {
-      "surface": "ופרשת",
-      "english": "y ⟨la⟩ declaración"
-    },
-    {
-      "surface": "גדלת",
-      "english": "⟨de⟩ ⟨la⟩ grandeza"
-    },
-    {
-      "surface": "מרדכי",
-      "english": "de Mordejai"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨la cual⟩"
-    },
-    {
-      "surface": "גדלו",
-      "english": "el rey engrandeció"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "הלוא",
-      "english": "¿no"
-    },
-    {
-      "surface": "הם",
-      "english": "⟨están⟩"
-    },
-    {
-      "surface": "כתובים",
-      "english": "escritos"
-    },
-    {
-      "surface": "על",
-      "english": "en"
-    },
-    {
-      "surface": "ספר",
-      "english": "⟨el⟩ libro"
-    },
-    {
-      "surface": "דברי",
-      "english": "de ⟨los⟩ hechos"
-    },
-    {
-      "surface": "הימים",
-      "english": "de ⟨los⟩ días"
-    },
-    {
-      "surface": "למלכי",
-      "english": "de ⟨los⟩ reyes"
-    },
-    {
-      "surface": "מדי",
-      "english": "de Media"
-    },
-    {
-      "surface": "ופרס",
-      "english": "y de Persia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:55:06.621652275Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

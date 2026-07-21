@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 150,
   "ref": "psalms 119:150",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 275,
-    "prompt_tokens": 69786,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70061
-  },
+  "verse": 150,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:16.222702389Z",
   "translation": "Se acercan ⟨los⟩ que persiguen ⟨la⟩ zimmá, de tu Torá están lejos.",
   "tokens": [
     {
       "surface": "קרבו",
-      "english": "Se acercan"
+      "gloss": "Se acercan"
     },
     {
       "surface": "רדפי",
-      "english": "⟨los⟩ que persiguen"
+      "gloss": "⟨los⟩ que persiguen"
     },
     {
       "surface": "זמה",
-      "english": "⟨la⟩ zimmá"
+      "gloss": "⟨la⟩ zimmá"
     },
     {
       "surface": "מתורתך",
-      "english": "de tu Torá"
+      "gloss": "de tu Torá"
     },
     {
       "surface": "רחקו",
-      "english": "están lejos"
+      "gloss": "están lejos"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:16.222702389Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "leviticus 22:14",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 518,
-    "prompt_tokens": 25094,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25612
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:43:28.202248519Z",
   "translation": "Y si un hombre come ⟨de⟩ la cosa sagrada por error, y añade su quinta parte sobre ella, y da al kohen ⟨את⟩ la cosa sagrada",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "Y si un hombre"
+      "gloss": "Y si un hombre"
     },
     {
       "surface": "כי",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "יאכל",
-      "english": "come"
+      "gloss": "come"
     },
     {
       "surface": "קדש",
-      "english": "⟨de⟩ la cosa sagrada"
+      "gloss": "⟨de⟩ la cosa sagrada"
     },
     {
       "surface": "בשגגה",
-      "english": "por error"
+      "gloss": "por error"
     },
     {
       "surface": "ויסף",
-      "english": "y añade"
+      "gloss": "y añade"
     },
     {
       "surface": "חמשיתו",
-      "english": "su quinta parte"
+      "gloss": "su quinta parte"
     },
     {
       "surface": "עליו",
-      "english": "sobre ella"
+      "gloss": "sobre ella"
     },
     {
       "surface": "ונתן",
-      "english": "y da"
+      "gloss": "y da"
     },
     {
       "surface": "לכהן",
-      "english": "al kohen"
+      "gloss": "al kohen"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הקדש"
     },
     {
       "surface": "הקדש",
-      "english": "la cosa sagrada"
+      "gloss": "la cosa sagrada"
     }
-  ],
-  "timestamp": "2026-07-16T22:43:28.202248519Z",
-  "model": "glm-4.5"
+  ]
 }

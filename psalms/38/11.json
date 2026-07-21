@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 38:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 440,
-    "prompt_tokens": 70236,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70676
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:53.267285425Z",
   "translation": "Mi corazón palpita, mi fuerza me abandonó; incluso ⟨el⟩ brillo de mis ojos, ellos también no ⟨está⟩ conmigo.",
   "tokens": [
     {
       "surface": "לבי",
-      "english": "Mi corazón"
+      "gloss": "Mi corazón"
     },
     {
       "surface": "סחרחר",
-      "english": "palpita"
+      "gloss": "palpita"
     },
     {
       "surface": "עזבני",
-      "english": "mi fuerza me abandonó"
+      "gloss": "mi fuerza me abandonó"
     },
     {
       "surface": "כחי",
-      "english": "mi fuerza"
+      "gloss": "mi fuerza"
     },
     {
       "surface": "ואור",
-      "english": "y ⟨el⟩ brillo"
+      "gloss": "y ⟨el⟩ brillo"
     },
     {
       "surface": "עיני",
-      "english": "de mis ojos"
+      "gloss": "de mis ojos"
     },
     {
       "surface": "גם",
-      "english": "incluso"
+      "gloss": "incluso"
     },
     {
       "surface": "הם",
-      "english": "ellos también"
+      "gloss": "ellos también"
     },
     {
       "surface": "אין",
-      "english": "no ⟨está⟩"
+      "gloss": "no ⟨está⟩"
     },
     {
       "surface": "אתי",
-      "english": "conmigo"
+      "gloss": "conmigo"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:53.267285425Z",
-  "model": "glm-4.5"
+  ]
 }

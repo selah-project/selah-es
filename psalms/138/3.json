@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 138:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 138,
-  "usage": {
-    "completion_tokens": 398,
-    "prompt_tokens": 69955,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70353
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:20.351342861Z",
   "translation": "En el día que clamé, me respondiste; ⟨Tú⟩ me animaste con fuerza en mi alma.",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "En el día"
+      "gloss": "En el día"
     },
     {
       "surface": "קראתי",
-      "english": "que clamé"
+      "gloss": "que clamé"
     },
     {
       "surface": "וַתְעַנֵּנִי",
-      "english": "me respondiste"
+      "gloss": "me respondiste"
     },
     {
       "surface": "תַּרְהִבֵּנִי",
-      "english": "⟨Tú⟩ me animaste"
+      "gloss": "⟨Tú⟩ me animaste"
     },
     {
       "surface": "בְּנַפְשִׁי",
-      "english": "en mi alma"
+      "gloss": "en mi alma"
     },
     {
       "surface": "עֹז",
-      "english": "con fuerza"
+      "gloss": "con fuerza"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:20.351342861Z",
-  "model": "glm-4.5"
+  ]
 }

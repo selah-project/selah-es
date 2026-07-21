@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 104:32",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 880,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69813,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70693
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:51:07.340913573Z",
   "translation": "El que mira ⟨a⟩ ⟨la⟩ tierra, y ⟨ella⟩ tiembla; ⟨el que⟩ toca ⟨los⟩ montes, y ⟨ellos⟩ humean.",
   "tokens": [
     {
       "surface": "המביט",
-      "english": "El que mira",
+      "gloss": "El que mira",
       "notes": "Hapax legomenon — esta forma verbal aparece solo una vez en el Tanaj"
     },
     {
       "surface": "לארץ",
-      "english": "⟨a⟩ ⟨la⟩ tierra",
+      "gloss": "⟨a⟩ ⟨la⟩ tierra",
       "marks": "tierra"
     },
     {
       "surface": "ותרעד",
-      "english": "y ⟨ella⟩ tiembla",
+      "gloss": "y ⟨ella⟩ tiembla",
       "notes": "Hapax legomenon — esta forma verbal (con vav consecutivo) aparece solo una vez"
     },
     {
       "surface": "יגע",
-      "english": "⟨el que⟩ toca",
+      "gloss": "⟨el que⟩ toca",
       "notes": "La raíz נגע implica 'tocar, llegar a, golpear'; aquí con sentido causativo divino"
     },
     {
       "surface": "בהרים",
-      "english": "⟨los⟩ montes",
+      "gloss": "⟨los⟩ montes",
       "marks": "montes"
     },
     {
       "surface": "ויעשנו",
-      "english": "y ⟨ellos⟩ humean",
+      "gloss": "y ⟨ellos⟩ humean",
       "notes": "Literalmente 'y harán humo'; forma poética para describir actividad volcánica o divina"
     }
-  ],
-  "timestamp": "2026-06-09T23:51:07.340913573Z",
-  "model": "glm-4.5"
+  ]
 }

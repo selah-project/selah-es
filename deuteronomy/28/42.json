@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "deuteronomy 28:42",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 285,
-    "prompt_tokens": 24521,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 24806
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:57:40.747166228Z",
   "translation": "Todo tu árbol y ⟨el⟩ fruto de tu tierra poseerá ⟨el⟩ langosta",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "עצך",
-      "english": "tu árbol"
+      "gloss": "tu árbol"
     },
     {
       "surface": "ופרי",
-      "english": "y ⟨el⟩ fruto"
+      "gloss": "y ⟨el⟩ fruto"
     },
     {
       "surface": "אדמתך",
-      "english": "de tu tierra"
+      "gloss": "de tu tierra"
     },
     {
       "surface": "יירש",
-      "english": "poseerá"
+      "gloss": "poseerá"
     },
     {
       "surface": "הצלצל",
-      "english": "⟨el⟩ langosta"
+      "gloss": "⟨el⟩ langosta"
     }
-  ],
-  "timestamp": "2026-07-16T19:57:40.747166228Z",
-  "model": "glm-4.5"
+  ]
 }

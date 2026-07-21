@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.1",
-  "verse": 4,
   "ref": "1-kings 6:4",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 605,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69103,
-    "prompt_tokens_details": {
-      "cached_tokens": 68288
-    },
-    "total_tokens": 69708
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:28:53.669423519Z",
   "translation": "E hizo para ⟨la⟩ casa ventanas de troneras, ⟨con⟩ jambas estrechas hacia dentro.",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E hizo"
+      "gloss": "E hizo"
     },
     {
       "surface": "לבית",
-      "english": "para ⟨la⟩ casa"
+      "gloss": "para ⟨la⟩ casa"
     },
     {
       "surface": "חלוני",
-      "english": "ventanas"
+      "gloss": "ventanas"
     },
     {
       "surface": "שקפים",
-      "english": "de troneras"
+      "gloss": "de troneras"
     },
     {
       "surface": "אטמים",
-      "english": "⟨con⟩ jambas estrechas hacia dentro"
+      "gloss": "⟨con⟩ jambas estrechas hacia dentro"
     }
-  ],
-  "timestamp": "2026-06-13T03:28:53.669423519Z",
-  "model": "glm-5.1"
+  ]
 }

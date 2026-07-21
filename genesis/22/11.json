@@ -1,70 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 22:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28651,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29138
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:19:08.873004219Z",
   "translation": "Y llamó a él ⟨el⟩ mensajero de YHWH desde ⟨los⟩ cielos y dijo Abraham Abraham y él dijo Aquí estoy ⟨yo⟩",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "Y llamó"
+      "gloss": "Y llamó"
     },
     {
       "surface": "אליו",
-      "english": "a él"
+      "gloss": "a él"
     },
     {
       "surface": "מלאך",
-      "english": "⟨el⟩ mensajero",
+      "gloss": "⟨el⟩ mensajero",
       "marks": "mensajero de YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "מן",
-      "english": "desde"
+      "gloss": "desde"
     },
     {
       "surface": "השמים",
-      "english": "⟨los⟩ cielos",
+      "gloss": "⟨los⟩ cielos",
       "marks": "cielos"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "אברהם",
-      "english": "Abraham"
+      "gloss": "Abraham"
     },
     {
       "surface": "אברהם",
-      "english": "Abraham"
+      "gloss": "Abraham"
     },
     {
       "surface": "ויאמר",
-      "english": "y él dijo"
+      "gloss": "y él dijo"
     },
     {
       "surface": "הנני",
-      "english": "Aquí estoy ⟨yo⟩"
+      "gloss": "Aquí estoy ⟨yo⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:19:08.873004219Z",
-  "model": "glm-4.5"
+  ]
 }

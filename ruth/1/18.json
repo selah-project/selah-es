@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "ruth 1:18",
   "book": "ruth",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28134,
-    "prompt_tokens_details": {
-      "cached_tokens": 26952
-    },
-    "total_tokens": 28622
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T21:22:29.575326048Z",
   "translation": "Y ⟨ella⟩ vio que ⟨ella⟩ ⟨está⟩ ⟨resuelta⟩ a ir con ella, y ⟨ella⟩ cesó de hablar a ella.",
   "tokens": [
     {
       "surface": "ותרא",
-      "english": "Y ⟨ella⟩ vio"
+      "gloss": "Y ⟨ella⟩ vio"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "מתאמצת",
-      "english": "⟨está⟩ ⟨resuelta⟩"
+      "gloss": "⟨está⟩ ⟨resuelta⟩"
     },
     {
       "surface": "היא",
-      "english": "⟨ella⟩"
+      "gloss": "⟨ella⟩"
     },
     {
       "surface": "ללכת",
-      "english": "a ir"
+      "gloss": "a ir"
     },
     {
       "surface": "אתה",
-      "english": "con ella"
+      "gloss": "con ella"
     },
     {
       "surface": "ותחדל",
-      "english": "y ⟨ella⟩ cesó"
+      "gloss": "y ⟨ella⟩ cesó"
     },
     {
       "surface": "לדבר",
-      "english": "de hablar"
+      "gloss": "de hablar"
     },
     {
       "surface": "אליה",
-      "english": "a ella"
+      "gloss": "a ella"
     }
-  ],
-  "timestamp": "2026-06-09T21:22:29.575326048Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 29:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 70281,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70667
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:44.104717365Z",
   "translation": "La voz de YHWH quiebra ⟨los⟩ cedros, y quiebra YHWH ⟨את⟩ los cedros del Líbano",
   "tokens": [
     {
       "surface": "קול",
-      "english": "La voz"
+      "gloss": "La voz"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "שבר",
-      "english": "quiebra"
+      "gloss": "quiebra"
     },
     {
       "surface": "ארזים",
-      "english": "⟨los⟩ cedros"
+      "gloss": "⟨los⟩ cedros"
     },
     {
       "surface": "וישבר",
-      "english": "y quiebra"
+      "gloss": "y quiebra"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los cedros"
     },
     {
       "surface": "ארזי",
-      "english": "los cedros"
+      "gloss": "los cedros"
     },
     {
       "surface": "הלבנון",
-      "english": "del Líbano"
+      "gloss": "del Líbano"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:44.104717365Z",
-  "model": "glm-4.5"
+  ]
 }

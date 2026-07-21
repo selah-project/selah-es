@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "1-samuel 25:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 25,
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:09:57.214220726Z",
+  "translation": "Y cuando Abigail vio ⟨a⟩ Davidd, ⟨se⟩ apresuró y descendió de ⟨el⟩ asno, y cayó sobre ⟨el⟩ rostro de Davidd ante su cara y se postró ⟨en⟩ tierra.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Y cuando...vio"
+    },
+    {
+      "surface": "אביגיל",
+      "gloss": "Abigail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "⟨se⟩ apresuró"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "y descendió"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "⟨el⟩ asno"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "y cayó"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "sobre ⟨el⟩ rostro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "על",
+      "gloss": "ante"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "su cara"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "y se postró"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨en⟩ tierra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,85 +88,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 551,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16813,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17364
-  },
-  "translation": "Y cuando Abigail vio ⟨a⟩ Davidd, ⟨se⟩ apresuró y descendió de ⟨el⟩ asno, y cayó sobre ⟨el⟩ rostro de Davidd ante su cara y se postró ⟨en⟩ tierra.",
-  "tokens": [
-    {
-      "surface": "ותרא",
-      "english": "Y cuando...vio"
-    },
-    {
-      "surface": "אביגיל",
-      "english": "Abigail"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "David"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ותמהר",
-      "english": "⟨se⟩ apresuró"
-    },
-    {
-      "surface": "ותרד",
-      "english": "y descendió"
-    },
-    {
-      "surface": "מעל",
-      "english": "de"
-    },
-    {
-      "surface": "החמור",
-      "english": "⟨el⟩ asno"
-    },
-    {
-      "surface": "ותפל",
-      "english": "y cayó"
-    },
-    {
-      "surface": "לאפי",
-      "english": "sobre ⟨el⟩ rostro"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "על",
-      "english": "ante"
-    },
-    {
-      "surface": "פניה",
-      "english": "su cara"
-    },
-    {
-      "surface": "ותשתחו",
-      "english": "y se postró"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨en⟩ tierra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:09:57.214220726Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

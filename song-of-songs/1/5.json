@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "song-of-songs 1:5",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27705,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 28241
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:36:12.199231129Z",
   "translation": "Negra ⟨so⟩ yo y ⟨es⟩ hermosa, oh hijas de Jerusalén, como ⟨las⟩ tiendas de Quedar, como ⟨los⟩ cortinajes de Shelomó",
   "tokens": [
     {
       "surface": "שחורה",
-      "english": "Negra"
+      "gloss": "Negra"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "ונאוה",
-      "english": "y ⟨es⟩ hermosa"
+      "gloss": "y ⟨es⟩ hermosa"
     },
     {
       "surface": "בנות",
-      "english": "hijas"
+      "gloss": "hijas"
     },
     {
       "surface": "ירושלם",
-      "english": "de Jerusalén"
+      "gloss": "de Jerusalén"
     },
     {
       "surface": "כאהלי",
-      "english": "como ⟨las⟩ tiendas"
+      "gloss": "como ⟨las⟩ tiendas"
     },
     {
       "surface": "קדר",
-      "english": "de Quedar"
+      "gloss": "de Quedar"
     },
     {
       "surface": "כיריעות",
-      "english": "como ⟨los⟩ cortinajes"
+      "gloss": "como ⟨los⟩ cortinajes"
     },
     {
       "surface": "שלמה",
-      "english": "de Shelomó"
+      "gloss": "de Shelomó"
     }
-  ],
-  "timestamp": "2026-06-09T22:36:12.199231129Z",
-  "model": "glm-4.5"
+  ]
 }

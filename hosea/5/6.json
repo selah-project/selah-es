@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "hosea 5:6",
   "book": "hosea",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 420,
-    "prompt_tokens": 26981,
-    "prompt_tokens_details": {
-      "cached_tokens": 25472
-    },
-    "total_tokens": 27401
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:20:37.227310227Z",
   "translation": "Con sus rebaños y con sus ganados irán a buscar ⟨את⟩ YHWH, pero no ⟨lo⟩ hallarán; se ha retirado de ellos.",
   "tokens": [
     {
       "surface": "בצאנם",
-      "english": "Con sus rebaños"
+      "gloss": "Con sus rebaños"
     },
     {
       "surface": "ובבקרם",
-      "english": "y con sus ganados"
+      "gloss": "y con sus ganados"
     },
     {
       "surface": "ילכו",
-      "english": "irán"
+      "gloss": "irán"
     },
     {
       "surface": "לבקש",
-      "english": "a buscar"
+      "gloss": "a buscar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ולא",
-      "english": "pero no"
+      "gloss": "pero no"
     },
     {
       "surface": "ימצאו",
-      "english": "hallarán"
+      "gloss": "hallarán"
     },
     {
       "surface": "חלץ",
-      "english": "se ha retirado"
+      "gloss": "se ha retirado"
     },
     {
       "surface": "מהם",
-      "english": "de ellos"
+      "gloss": "de ellos"
     }
-  ],
-  "timestamp": "2026-07-16T21:20:37.227310227Z",
-  "model": "glm-4.5"
+  ]
 }

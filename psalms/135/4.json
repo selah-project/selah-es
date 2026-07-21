@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 135:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 293,
-    "prompt_tokens": 69913,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70206
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:29.336294570Z",
   "translation": "Porque Yaakov ⟨ha⟩ escogido ⟨ló⟩ Yah, Yisrael para ⟨su⟩ tesoro peculiar.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "בחר",
-      "english": "escogido"
+      "gloss": "escogido"
     },
     {
       "surface": "לו",
-      "english": "⟨ló⟩"
+      "gloss": "⟨ló⟩"
     },
     {
       "surface": "יה",
-      "english": "Yah"
+      "gloss": "Yah"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לסגלתו",
-      "english": "para ⟨su⟩ tesoro peculiar"
+      "gloss": "para ⟨su⟩ tesoro peculiar"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:29.336294570Z",
-  "model": "glm-4.5"
+  ]
 }

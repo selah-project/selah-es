@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 49:11",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25904,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26222
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:51:53.416998282Z",
   "translation": "Y ⟨yo⟩ pondré ⟨את⟩ todas mis montañas ⟨como⟩ camino ⟨y⟩ mis calzadas serán exaltadas",
   "tokens": [
     {
       "surface": "ושמתי",
-      "english": "Y ⟨yo⟩ pondré"
+      "gloss": "Y ⟨yo⟩ pondré"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "הרי",
-      "english": "mis montañas"
+      "gloss": "mis montañas"
     },
     {
       "surface": "לדרך",
-      "english": "⟨como⟩ camino"
+      "gloss": "⟨como⟩ camino"
     },
     {
       "surface": "ומסלתי",
-      "english": "⟨y⟩ mis calzadas"
+      "gloss": "⟨y⟩ mis calzadas"
     },
     {
       "surface": "ירמון",
-      "english": "serán exaltadas"
+      "gloss": "serán exaltadas"
     }
-  ],
-  "timestamp": "2026-06-10T02:51:53.416998282Z",
-  "model": "glm-4.5"
+  ]
 }

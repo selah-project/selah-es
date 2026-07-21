@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 41:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 407,
-    "prompt_tokens": 70181,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70588
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:19.974054660Z",
   "translation": "Juntos cuchichean contra mí todos los que me odian; contra mí traman ⟨el⟩ mal ⟨por⟩ mí.",
   "tokens": [
     {
       "surface": "יחד",
-      "english": "juntos"
+      "gloss": "juntos"
     },
     {
       "surface": "עלי",
-      "english": "contra mí"
+      "gloss": "contra mí"
     },
     {
       "surface": "יתלחשו",
-      "english": "cuchichean"
+      "gloss": "cuchichean"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "שנאי",
-      "english": "los que me odian"
+      "gloss": "los que me odian"
     },
     {
       "surface": "עלי",
-      "english": "contra mí"
+      "gloss": "contra mí"
     },
     {
       "surface": "יחשבו",
-      "english": "traman"
+      "gloss": "traman"
     },
     {
       "surface": "רעה",
-      "english": "mal"
+      "gloss": "mal"
     },
     {
       "surface": "לי",
-      "english": "⟨por⟩ mí"
+      "gloss": "⟨por⟩ mí"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:19.974054660Z",
-  "model": "glm-4.5"
+  ]
 }

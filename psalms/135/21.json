@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 135:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69872,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70258
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:07:00.499181232Z",
   "translation": "Blessed be YHWH from Zion, ⟨He who⟩ dwells at Jerusalem. ⟨Praise⟩ ⟨you⟩ Jah.",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "Blessed"
+      "gloss": "Blessed"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מציון",
-      "english": "from Zion"
+      "gloss": "from Zion"
     },
     {
       "surface": "שכן",
-      "english": "⟨He who⟩ dwells"
+      "gloss": "⟨He who⟩ dwells"
     },
     {
       "surface": "ירושלם",
-      "english": "at Jerusalem"
+      "gloss": "at Jerusalem"
     },
     {
       "surface": "הללו",
-      "english": "⟨Praise⟩"
+      "gloss": "⟨Praise⟩"
     },
     {
       "surface": "יה",
-      "english": "⟨you⟩ Jah"
+      "gloss": "⟨you⟩ Jah"
     }
-  ],
-  "timestamp": "2026-06-10T00:07:00.499181232Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 136:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 136,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:24:38.578826186Z",
+  "translation": "Y sacó ⟨a⟩ Yisrael de en medio de ellos, porque para siempre ⟨es⟩ su Jésed.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Y sacó"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨a⟩ Yisrael",
+      "marks": "Israel"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "de en medio de ellos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para siempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨es⟩ su Jésed",
+      "marks": "su misericordia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,50 +53,6 @@
       "hebrew": "חסד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 136,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62439,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 62746
-  },
-  "translation": "Y sacó ⟨a⟩ Yisrael de en medio de ellos, porque para siempre ⟨es⟩ su Jésed.",
-  "tokens": [
-    {
-      "surface": "ויוצא",
-      "english": "Y sacó"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨a⟩ Yisrael",
-      "marks": "Israel"
-    },
-    {
-      "surface": "מתוכם",
-      "english": "de en medio de ellos"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לעולם",
-      "english": "para siempre"
-    },
-    {
-      "surface": "חסדו",
-      "english": "⟨es⟩ su Jésed",
-      "marks": "su misericordia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:24:38.578826186Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

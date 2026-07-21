@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 24:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 331,
-    "prompt_tokens": 69967,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70298
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:59.531455453Z",
   "translation": "Él recibirá bendición de YHWH y justicia del Elohim de su salvación.",
   "tokens": [
     {
       "surface": "ישא",
-      "english": "recibirá"
+      "gloss": "recibirá"
     },
     {
       "surface": "ברכה",
-      "english": "bendición"
+      "gloss": "bendición"
     },
     {
       "surface": "מאת",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וצדקה",
-      "english": "y justicia"
+      "gloss": "y justicia"
     },
     {
       "surface": "מאלהי",
-      "english": "del Elohim"
+      "gloss": "del Elohim"
     },
     {
       "surface": "ישעו",
-      "english": "de su salvación"
+      "gloss": "de su salvación"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:59.531455453Z",
-  "model": "glm-4.5"
+  ]
 }

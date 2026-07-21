@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 29:2",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26080,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26548
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:37:22.700991826Z",
   "translation": "Y ⟨estaré⟩ afligiendo ⟨a⟩ Ariel y ⟨habrá⟩ lamento y lamentación y ⟨será⟩ para mí como Ariel",
   "tokens": [
     {
       "surface": "והציקותי",
-      "english": "Y ⟨estaré⟩ afligiendo"
+      "gloss": "Y ⟨estaré⟩ afligiendo"
     },
     {
       "surface": "לאריאל",
-      "english": "⟨a⟩ Ariel",
+      "gloss": "⟨a⟩ Ariel",
       "marks": "Ariel"
     },
     {
       "surface": "והיתה",
-      "english": "y ⟨habrá⟩"
+      "gloss": "y ⟨habrá⟩"
     },
     {
       "surface": "תאניה",
-      "english": "lamento"
+      "gloss": "lamento"
     },
     {
       "surface": "ואניה",
-      "english": "y lamentación"
+      "gloss": "y lamentación"
     },
     {
       "surface": "והיתה",
-      "english": "y ⟨será⟩"
+      "gloss": "y ⟨será⟩"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "כאריאל",
-      "english": "como Ariel"
+      "gloss": "como Ariel"
     }
-  ],
-  "timestamp": "2026-06-10T02:37:22.700991826Z",
-  "model": "glm-4.5"
+  ]
 }

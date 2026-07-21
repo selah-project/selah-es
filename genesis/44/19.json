@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "genesis 44:19",
   "book": "genesis",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 559,
-    "prompt_tokens": 28630,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29189
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:14:08.401109085Z",
   "translation": "Mi señor preguntó ⟨את⟩ a sus sirvientes, diciendo: ¿Tienen ⟨is⟩ un padre o un hermano?",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "Mi señor"
+      "gloss": "Mi señor"
     },
     {
       "surface": "שאל",
-      "english": "preguntó"
+      "gloss": "preguntó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a sus sirvientes"
     },
     {
       "surface": "עבדיו",
-      "english": "a sus sirvientes"
+      "gloss": "a sus sirvientes"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     },
     {
       "surface": "היש",
-      "english": "¿Tienen"
+      "gloss": "¿Tienen"
     },
     {
       "surface": "לכם",
-      "english": "⟨is⟩"
+      "gloss": "⟨is⟩"
     },
     {
       "surface": "אב",
-      "english": "un padre"
+      "gloss": "un padre"
     },
     {
       "surface": "או",
-      "english": "o"
+      "gloss": "o"
     },
     {
       "surface": "אח",
-      "english": "un hermano"
+      "gloss": "un hermano"
     }
-  ],
-  "timestamp": "2026-07-16T21:14:08.401109085Z",
-  "model": "glm-4.5"
+  ]
 }

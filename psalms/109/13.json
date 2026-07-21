@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 109:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 469,
-    "prompt_tokens": 69941,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70410
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:13.007097653Z",
   "translation": "Sea su posteridad para ⟨ser⟩ cortada; en la generación siguiente ⟨sea⟩ borrado su nombre.",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "Sea"
+      "gloss": "Sea"
     },
     {
       "surface": "אחריתו",
-      "english": "su posteridad"
+      "gloss": "su posteridad"
     },
     {
       "surface": "להכרית",
-      "english": "para ⟨ser⟩ cortada"
+      "gloss": "para ⟨ser⟩ cortada"
     },
     {
       "surface": "בדור",
-      "english": "en la generación"
+      "gloss": "en la generación"
     },
     {
       "surface": "אחר",
-      "english": "siguiente"
+      "gloss": "siguiente"
     },
     {
       "surface": "ימח",
-      "english": "⟨sea⟩ borrado"
+      "gloss": "⟨sea⟩ borrado"
     },
     {
       "surface": "שמם",
-      "english": "su nombre"
+      "gloss": "su nombre"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:13.007097653Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "exodus 9:30",
   "book": "exodus",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24057,
-    "prompt_tokens_details": {
-      "cached_tokens": 22860
-    },
-    "total_tokens": 24585
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:22:29.176107867Z",
   "translation": "Pero tú y tus siervos ⟨yo⟩ he conocido ⟨que⟩ todavía no ⟨teméis⟩ ⟨ante⟩ ⟨la⟩ faz ⟨de⟩ YHWH Elohim.",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Pero tú",
+      "gloss": "Pero tú",
       "marks": ""
     },
     {
       "surface": "ועבדיך",
-      "english": "y tus siervos",
+      "gloss": "y tus siervos",
       "marks": ""
     },
     {
       "surface": "ידעתי",
-      "english": "⟨yo⟩ he conocido",
+      "gloss": "⟨yo⟩ he conocido",
       "marks": ""
     },
     {
       "surface": "כי",
-      "english": "⟨que⟩",
+      "gloss": "⟨que⟩",
       "marks": ""
     },
     {
       "surface": "טרם",
-      "english": "todavía no",
+      "gloss": "todavía no",
       "marks": ""
     },
     {
       "surface": "תיראון",
-      "english": "⟨teméis⟩",
+      "gloss": "⟨teméis⟩",
       "marks": ""
     },
     {
       "surface": "מפני",
-      "english": "⟨ante⟩ ⟨la⟩ faz ⟨de⟩",
+      "gloss": "⟨ante⟩ ⟨la⟩ faz ⟨de⟩",
       "marks": ""
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "marks": ""
     },
     {
       "surface": "אלהים",
-      "english": "Elohim",
+      "gloss": "Elohim",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-11T23:22:29.176107867Z",
-  "model": "glm-4.5"
+  ]
 }

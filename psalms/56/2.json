@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 56:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70120,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70635
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:24:22.249725751Z",
   "translation": "Ten misericordia de mí, Elohim, porque ⟨el⟩ hombre ⟨quisiera⟩ devorarme todo ⟨el⟩ día; ⟨los⟩ que luchan ⟨contra mí⟩ ⟨son⟩ muchos.",
   "tokens": [
     {
       "surface": "חנני",
-      "english": "Ten misericordia de mí"
+      "gloss": "Ten misericordia de mí"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "שאפני",
-      "english": "⟨quisiera⟩ devorarme"
+      "gloss": "⟨quisiera⟩ devorarme"
     },
     {
       "surface": "אנוש",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "היום",
-      "english": "⟨el⟩ día"
+      "gloss": "⟨el⟩ día"
     },
     {
       "surface": "לחם",
-      "english": "⟨los⟩ que luchan"
+      "gloss": "⟨los⟩ que luchan"
     },
     {
       "surface": "ילחצני",
-      "english": "⟨contra mí⟩ ⟨son⟩ muchos"
+      "gloss": "⟨contra mí⟩ ⟨son⟩ muchos"
     }
-  ],
-  "timestamp": "2026-06-09T23:24:22.249725751Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 23:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 657,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25304,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25961
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:58:30.442829126Z",
   "translation": "Y YHWH ⟨puesto⟩ ⟨un⟩ davar ⟨en⟩ ⟨la⟩ boca ⟨de⟩ Bilaam ⟨y⟩ dijo: Vuelve ⟨a⟩ Balak ⟨y⟩ así hablarás",
   "tokens": [
     {
       "surface": "וישם",
-      "english": "Y ⟨puesto⟩"
+      "gloss": "Y ⟨puesto⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "דבר",
-      "english": "⟨un⟩ davar"
+      "gloss": "⟨un⟩ davar"
     },
     {
       "surface": "בפי",
-      "english": "⟨en⟩ ⟨la⟩ boca"
+      "gloss": "⟨en⟩ ⟨la⟩ boca"
     },
     {
       "surface": "בלעם",
-      "english": "⟨de⟩ Bilaam"
+      "gloss": "⟨de⟩ Bilaam"
     },
     {
       "surface": "ואמר",
-      "english": "⟨y⟩ dijo"
+      "gloss": "⟨y⟩ dijo"
     },
     {
       "surface": "שוב",
-      "english": "Vuelve"
+      "gloss": "Vuelve"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "בלק",
-      "english": "Balak"
+      "gloss": "Balak"
     },
     {
       "surface": "וכה",
-      "english": "⟨y⟩ así"
+      "gloss": "⟨y⟩ así"
     },
     {
       "surface": "תדבר",
-      "english": "hablarás"
+      "gloss": "hablarás"
     }
-  ],
-  "timestamp": "2026-06-10T04:58:30.442829126Z",
-  "model": "glm-4.5"
+  ]
 }

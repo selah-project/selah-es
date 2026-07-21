@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 22:7",
   "book": "job",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27026,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27377
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:25.320910989Z",
   "translation": "No water ⟨to⟩ languid thou hast given ⟨to⟩ drink, and from hungry thou hast withholden bread",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "מים",
-      "english": "water"
+      "gloss": "water"
     },
     {
       "surface": "עיף",
-      "english": "languid"
+      "gloss": "languid"
     },
     {
       "surface": "תשקה",
-      "english": "thou hast given ⟨to⟩ drink"
+      "gloss": "thou hast given ⟨to⟩ drink"
     },
     {
       "surface": "ומרעב",
-      "english": "and from hungry"
+      "gloss": "and from hungry"
     },
     {
       "surface": "תמנע",
-      "english": "thou hast withholden"
+      "gloss": "thou hast withholden"
     },
     {
       "surface": "לחם",
-      "english": "bread"
+      "gloss": "bread"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:25.320910989Z",
-  "model": "glm-4.5"
+  ]
 }

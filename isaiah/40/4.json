@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 40:4",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 620,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26502,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27122
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:45:24.470067174Z",
   "translation": "Todo valle será exaltado y toda montaña y colina ⟨será⟩ humillada; y ⟨lo⟩ torcido ⟨se convertirá en⟩ rectitud y ⟨lo⟩ escabroso ⟨en⟩ llanura.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "גיא",
-      "english": "valle"
+      "gloss": "valle"
     },
     {
       "surface": "ינשא",
-      "english": "será exaltado"
+      "gloss": "será exaltado"
     },
     {
       "surface": "וכל",
-      "english": "y toda"
+      "gloss": "y toda"
     },
     {
       "surface": "הר",
-      "english": "montaña"
+      "gloss": "montaña"
     },
     {
       "surface": "וגבעה",
-      "english": "y colina"
+      "gloss": "y colina"
     },
     {
       "surface": "ישפלו",
-      "english": "⟨será⟩ humillada"
+      "gloss": "⟨será⟩ humillada"
     },
     {
       "surface": "והיה",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "העקב",
-      "english": "⟨lo⟩ torcido"
+      "gloss": "⟨lo⟩ torcido"
     },
     {
       "surface": "למישור",
-      "english": "⟨se convertirá en⟩ rectitud"
+      "gloss": "⟨se convertirá en⟩ rectitud"
     },
     {
       "surface": "והרכסים",
-      "english": "y ⟨lo⟩ escabroso"
+      "gloss": "y ⟨lo⟩ escabroso"
     },
     {
       "surface": "לבקעה",
-      "english": "⟨en⟩ llanura"
+      "gloss": "⟨en⟩ llanura"
     }
-  ],
-  "timestamp": "2026-06-10T02:45:24.470067174Z",
-  "model": "glm-4.5"
+  ]
 }

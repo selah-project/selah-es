@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 119:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69924,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70432
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:25.757553527Z",
   "translation": "También ⟨se⟩ sientan ⟨los⟩ príncipes ⟨y⟩ hablan ⟨de⟩ mí: ⟨el⟩ siervo ⟨de⟩ tú medita ⟨en⟩ ⟨tus⟩ estatutos ⟨את⟩",
   "tokens": [
     {
       "surface": "גם",
-      "english": "También"
+      "gloss": "También"
     },
     {
       "surface": "ישבו",
-      "english": "⟨se⟩ sientan"
+      "gloss": "⟨se⟩ sientan"
     },
     {
       "surface": "שרים",
-      "english": "⟨los⟩ príncipes"
+      "gloss": "⟨los⟩ príncipes"
     },
     {
       "surface": "בי",
-      "english": "⟨de⟩ mí"
+      "gloss": "⟨de⟩ mí"
     },
     {
       "surface": "נדברו",
-      "english": "⟨y⟩ hablan"
+      "gloss": "⟨y⟩ hablan"
     },
     {
       "surface": "עבדך",
-      "english": "⟨el⟩ siervo ⟨de⟩ tú"
+      "gloss": "⟨el⟩ siervo ⟨de⟩ tú"
     },
     {
       "surface": "ישיח",
-      "english": "medita"
+      "gloss": "medita"
     },
     {
       "surface": "בחקיך",
-      "english": "⟨en⟩ ⟨tus⟩ estatutos"
+      "gloss": "⟨en⟩ ⟨tus⟩ estatutos"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:25.757553527Z",
-  "model": "glm-4.5"
+  ]
 }

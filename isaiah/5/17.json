@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "isaiah 5:17",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26005,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26434
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:23:57.241659529Z",
   "translation": "Y ⟨serán⟩ apacentados los carneros ⟨según⟩ su ⟨dicho⟩, y ⟨los⟩ ruinas ⟨de⟩ los ricos extranjeros comerán.",
   "tokens": [
     {
       "surface": "ורעו",
-      "english": "Y ⟨serán⟩ apacentados"
+      "gloss": "Y ⟨serán⟩ apacentados"
     },
     {
       "surface": "כבשים",
-      "english": "los carneros"
+      "gloss": "los carneros"
     },
     {
       "surface": "כדברם",
-      "english": "⟨según⟩ su ⟨dicho⟩"
+      "gloss": "⟨según⟩ su ⟨dicho⟩"
     },
     {
       "surface": "וחרבות",
-      "english": "y ⟨los⟩ ruinas"
+      "gloss": "y ⟨los⟩ ruinas"
     },
     {
       "surface": "מחים",
-      "english": "⟨de⟩ los ricos"
+      "gloss": "⟨de⟩ los ricos"
     },
     {
       "surface": "גרים",
-      "english": "extranjeros"
+      "gloss": "extranjeros"
     },
     {
       "surface": "יאכלו",
-      "english": "comerán"
+      "gloss": "comerán"
     }
-  ],
-  "timestamp": "2026-06-10T02:23:57.241659529Z",
-  "model": "glm-4.5"
+  ]
 }

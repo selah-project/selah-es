@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "numbers 31:11",
   "book": "numbers",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 415,
-    "prompt_tokens": 25319,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25734
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:12:01.850430108Z",
   "translation": "Y tomaron ⟨את⟩ todo el botín y ⟨את⟩ toda la presa, ⟨de⟩ hombres y ⟨de⟩ ganado",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "Y tomaron"
+      "gloss": "Y tomaron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo el botín"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "השלל",
-      "english": "el botín"
+      "gloss": "el botín"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "toda la presa"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "המלקוח",
-      "english": "la presa"
+      "gloss": "la presa"
     },
     {
       "surface": "באדם",
-      "english": "⟨de⟩ hombres"
+      "gloss": "⟨de⟩ hombres"
     },
     {
       "surface": "ובבהמה",
-      "english": "y ⟨de⟩ ganado"
+      "gloss": "y ⟨de⟩ ganado"
     }
-  ],
-  "timestamp": "2026-07-16T23:12:01.850430108Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 106:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 1385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70239,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71624
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:53:05.061455400Z",
   "translation": "Entonces dijo ⟨que⟩ ⟨los⟩ destruiría, si no ⟨fuera⟩ por Moshé su ⟨elegido⟩, quien se presentó ⟨en⟩ ⟨la⟩ brecha ante ⟨él⟩ para devolver ⟨su⟩ furia ⟨de⟩ ⟨la⟩ destrucción.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Entonces dijo",
+      "gloss": "Entonces dijo",
       "gv": 257,
       "freq": 2081,
       "books": 31,
@@ -28,7 +19,7 @@
     },
     {
       "surface": "להשמידם",
-      "english": "⟨que⟩ ⟨los⟩ destruiría",
+      "gloss": "⟨que⟩ ⟨los⟩ destruiría",
       "gv": 429,
       "freq": 2,
       "books": 2,
@@ -36,7 +27,7 @@
     },
     {
       "surface": "לולי",
-      "english": "si no ⟨fuera⟩ por",
+      "gloss": "si no ⟨fuera⟩ por",
       "gv": 76,
       "freq": 10,
       "books": 6,
@@ -44,7 +35,7 @@
     },
     {
       "surface": "משה",
-      "english": "Moshé",
+      "gloss": "Moshé",
       "gv": 345,
       "freq": 729,
       "books": 19,
@@ -52,7 +43,7 @@
     },
     {
       "surface": "בחירו",
-      "english": "su ⟨elegido⟩",
+      "gloss": "su ⟨elegido⟩",
       "gv": 226,
       "freq": 1,
       "books": 1,
@@ -61,7 +52,7 @@
     },
     {
       "surface": "עמד",
-      "english": "quien se presentó",
+      "gloss": "quien se presentó",
       "gv": 114,
       "freq": 78,
       "books": 24,
@@ -69,7 +60,7 @@
     },
     {
       "surface": "בפרץ",
-      "english": "⟨en⟩ ⟨la⟩ brecha",
+      "gloss": "⟨en⟩ ⟨la⟩ brecha",
       "gv": 372,
       "freq": 2,
       "books": 2,
@@ -77,7 +68,7 @@
     },
     {
       "surface": "לפניו",
-      "english": "ante ⟨él⟩",
+      "gloss": "ante ⟨él⟩",
       "gv": 176,
       "freq": 115,
       "books": 27,
@@ -85,7 +76,7 @@
     },
     {
       "surface": "להשיב",
-      "english": "para devolver",
+      "gloss": "para devolver",
       "gv": 347,
       "freq": 32,
       "books": 16,
@@ -93,7 +84,7 @@
     },
     {
       "surface": "חמתו",
-      "english": "⟨su⟩ furia",
+      "gloss": "⟨su⟩ furia",
       "gv": 454,
       "freq": 6,
       "books": 4,
@@ -101,14 +92,12 @@
     },
     {
       "surface": "מהשחית",
-      "english": "⟨de⟩ ⟨la⟩ destrucción",
+      "gloss": "⟨de⟩ ⟨la⟩ destrucción",
       "gv": 763,
       "freq": 1,
       "books": 1,
       "anagram_room": "החימשת (4 miembros)",
       "hapax": true
     }
-  ],
-  "timestamp": "2026-06-09T23:53:05.061455400Z",
-  "model": "glm-4.5"
+  ]
 }

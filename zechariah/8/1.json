@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "zechariah 8:1",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 253,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22777,
-    "prompt_tokens_details": {
-      "cached_tokens": 22082
-    },
-    "total_tokens": 23030
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:53:07.762309639Z",
   "translation": "Y sucedió ⟨el⟩ davar de YHWH Tzevaot ⟨para⟩ decir",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y sucedió"
+      "gloss": "Y sucedió"
     },
     {
       "surface": "דבר",
-      "english": "⟨el⟩ davar"
+      "gloss": "⟨el⟩ davar"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ decir"
+      "gloss": "⟨para⟩ decir"
     }
-  ],
-  "timestamp": "2026-06-09T22:53:07.762309639Z",
-  "model": "glm-4.5"
+  ]
 }

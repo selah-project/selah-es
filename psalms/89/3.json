@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 89:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70078,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70657
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:32.553457348Z",
   "translation": "Porque dije: ⟨para⟩ siempre ⟨el⟩ Jésed será edificado, ⟨en⟩ ⟨los⟩ cielos ⟨tú⟩ establecerás ⟨tu⟩ Emuná en ⟨ellos⟩",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אמרתי",
-      "english": "dije"
+      "gloss": "dije"
     },
     {
       "surface": "עולם",
-      "english": "⟨para⟩ siempre"
+      "gloss": "⟨para⟩ siempre"
     },
     {
       "surface": "חסד",
-      "english": "⟨el⟩ Jésed"
+      "gloss": "⟨el⟩ Jésed"
     },
     {
       "surface": "יבנה",
-      "english": "será edificado"
+      "gloss": "será edificado"
     },
     {
       "surface": "שמים",
-      "english": "⟨en⟩ ⟨los⟩ cielos"
+      "gloss": "⟨en⟩ ⟨los⟩ cielos"
     },
     {
       "surface": "תכן",
-      "english": "⟨tú⟩ establecerás"
+      "gloss": "⟨tú⟩ establecerás"
     },
     {
       "surface": "אמונתך",
-      "english": "⟨tu⟩ Emuná"
+      "gloss": "⟨tu⟩ Emuná"
     },
     {
       "surface": "בהם",
-      "english": "en ⟨ellos⟩"
+      "gloss": "en ⟨ellos⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:32.553457348Z",
-  "model": "glm-4.5"
+  ]
 }

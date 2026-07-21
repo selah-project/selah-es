@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 22:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69837,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70113
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:06:59.931220842Z",
   "translation": "gapiaron sobre mí con ⟨sus⟩ bocas, como un león desgarrador y rugiente",
   "tokens": [
     {
       "surface": "פצו",
-      "english": "Gapiaron"
+      "gloss": "Gapiaron"
     },
     {
       "surface": "עלי",
-      "english": "sobre mí"
+      "gloss": "sobre mí"
     },
     {
       "surface": "פיהם",
-      "english": "con ⟨sus⟩ bocas",
+      "gloss": "con ⟨sus⟩ bocas",
       "marks": "bocas"
     },
     {
       "surface": "אריה",
-      "english": "como un león"
+      "gloss": "como un león"
     },
     {
       "surface": "טרף",
-      "english": "desgarrador"
+      "gloss": "desgarrador"
     },
     {
       "surface": "ושאג",
-      "english": "y rugiente"
+      "gloss": "y rugiente"
     }
-  ],
-  "timestamp": "2026-06-09T23:06:59.931220842Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-chronicles 26:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 26,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:28:18.320227954Z",
+  "translation": "Y ⟨los⟩ amonitas dieron un Minjá a Uzías, y su nombre se extendió hasta la entrada de Mitzráyim, porque ⟨él⟩ se fortaleció ⟨en⟩ gran manera",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Y dieron"
+    },
+    {
+      "surface": "העמונים",
+      "gloss": "los amonitas"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "un Minjá"
+    },
+    {
+      "surface": "לעזיהו",
+      "gloss": "a Uzías"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "y"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "su nombre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "se extendió hasta"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "la entrada de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzráyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "se fortaleció"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "gran manera"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "presente",
@@ -20,76 +79,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58216,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58751
-  },
-  "translation": "Y ⟨los⟩ amonitas dieron un Minjá a Uzías, y su nombre se extendió hasta la entrada de Mitzráyim, porque ⟨él⟩ se fortaleció ⟨en⟩ gran manera",
-  "tokens": [
-    {
-      "surface": "ויתנו",
-      "english": "Y dieron"
-    },
-    {
-      "surface": "העמונים",
-      "english": "los amonitas"
-    },
-    {
-      "surface": "מנחה",
-      "english": "un Minjá"
-    },
-    {
-      "surface": "לעזיהו",
-      "english": "a Uzías"
-    },
-    {
-      "surface": "וילך",
-      "english": "y"
-    },
-    {
-      "surface": "שמו",
-      "english": "su nombre"
-    },
-    {
-      "surface": "עד",
-      "english": "se extendió hasta"
-    },
-    {
-      "surface": "לבוא",
-      "english": "la entrada de"
-    },
-    {
-      "surface": "מצרים",
-      "english": "Mitzráyim"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "החזיק",
-      "english": "se fortaleció"
-    },
-    {
-      "surface": "עד",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "למעלה",
-      "english": "gran manera"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:28:18.320227954Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "lamentations 5:19",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 39003,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39396
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:43:49.176108967Z",
   "translation": "Tú, YHWH, ⟨estás⟩ sentado ⟨por⟩ siempre; tu trono ⟨es⟩ ⟨para⟩ generación ⟨y⟩ generación.",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לעולם",
-      "english": "⟨por⟩ siempre"
+      "gloss": "⟨por⟩ siempre"
     },
     {
       "surface": "תשב",
-      "english": "⟨estás⟩ sentado"
+      "gloss": "⟨estás⟩ sentado"
     },
     {
       "surface": "כסאך",
-      "english": "tu trono"
+      "gloss": "tu trono"
     },
     {
       "surface": "לדר",
-      "english": "⟨para⟩ generación"
+      "gloss": "⟨para⟩ generación"
     },
     {
       "surface": "ודור",
-      "english": "⟨y⟩ generación"
+      "gloss": "⟨y⟩ generación"
     }
-  ],
-  "timestamp": "2026-06-09T22:43:49.176108967Z",
-  "model": "glm-4.5"
+  ]
 }

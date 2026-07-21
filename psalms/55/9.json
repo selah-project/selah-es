@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 55:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69759,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70232
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:24:41.188974333Z",
   "translation": "⟨I would⟩ hasten ⟨an⟩ escape ⟨for⟩ me ⟨from⟩ wind ⟨that⟩ storms ⟨from⟩ tempest.",
   "tokens": [
     {
       "surface": "אחישה",
-      "english": "⟨I would⟩ hasten"
+      "gloss": "⟨I would⟩ hasten"
     },
     {
       "surface": "מפלט",
-      "english": "⟨an⟩ escape"
+      "gloss": "⟨an⟩ escape"
     },
     {
       "surface": "לי",
-      "english": "⟨for⟩ me"
+      "gloss": "⟨for⟩ me"
     },
     {
       "surface": "מרוח",
-      "english": "⟨from⟩ wind"
+      "gloss": "⟨from⟩ wind"
     },
     {
       "surface": "סעה",
-      "english": "⟨that⟩ storms"
+      "gloss": "⟨that⟩ storms"
     },
     {
       "surface": "מסער",
-      "english": "⟨from⟩ tempest"
+      "gloss": "⟨from⟩ tempest"
     }
-  ],
-  "timestamp": "2026-06-09T23:24:41.188974333Z",
-  "model": "glm-4.5"
+  ]
 }

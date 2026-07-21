@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 61:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 61,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69972,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70369
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:26:39.861526989Z",
   "translation": "Me alojaré en ⟨el⟩ tabernáculo de turel para siempre; me refugiaré en ⟨el⟩ amparo de tus alas. Selah",
   "tokens": [
     {
       "surface": "אגורה",
-      "english": "Me alojaré"
+      "gloss": "Me alojaré"
     },
     {
       "surface": "באהלך",
-      "english": "en ⟨el⟩ tabernáculo de turel"
+      "gloss": "en ⟨el⟩ tabernáculo de turel"
     },
     {
       "surface": "עולמים",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "אחסה",
-      "english": "me refugiaré"
+      "gloss": "me refugiaré"
     },
     {
       "surface": "בסתר",
-      "english": "en ⟨el⟩ amparo"
+      "gloss": "en ⟨el⟩ amparo"
     },
     {
       "surface": "כנפיך",
-      "english": "de tus alas"
+      "gloss": "de tus alas"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:26:39.861526989Z",
-  "model": "glm-4.5"
+  ]
 }

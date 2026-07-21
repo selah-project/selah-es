@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 44:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 69978,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70366
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:34.535544406Z",
   "translation": "Nos ⟨haces⟩ volver atrás desde ⟨el⟩ adversario, y los que nos odian despojan para sí.",
   "tokens": [
     {
       "surface": "תשיבנו",
-      "english": "Nos ⟨haces⟩ volver atrás"
+      "gloss": "Nos ⟨haces⟩ volver atrás"
     },
     {
       "surface": "אחור",
-      "english": "atrás"
+      "gloss": "atrás"
     },
     {
       "surface": "מני",
-      "english": "desde"
+      "gloss": "desde"
     },
     {
       "surface": "צר",
-      "english": "⟨el⟩ adversario"
+      "gloss": "⟨el⟩ adversario"
     },
     {
       "surface": "ומשנאינו",
-      "english": "y los que nos odian"
+      "gloss": "y los que nos odian"
     },
     {
       "surface": "שסו",
-      "english": "despojan"
+      "gloss": "despojan"
     },
     {
       "surface": "למו",
-      "english": "para sí"
+      "gloss": "para sí"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:34.535544406Z",
-  "model": "glm-4.5"
+  ]
 }

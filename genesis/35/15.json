@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 35:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 539,
-    "prompt_tokens": 28830,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29369
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:08:56.760722020Z",
   "translation": "Y Yaakov llamó ⟨el⟩ nombre ⟨de⟩ ⟨el⟩ lugar donde había hablado ⟨את⟩ con él allí Elohim, Bet-El.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "Y llamó"
+      "gloss": "Y llamó"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el nombre"
     },
     {
       "surface": "שם",
-      "english": "nombre"
+      "gloss": "nombre"
     },
     {
       "surface": "המקום",
-      "english": "⟨el⟩ lugar"
+      "gloss": "⟨el⟩ lugar"
     },
     {
       "surface": "אשר",
-      "english": "donde"
+      "gloss": "donde"
     },
     {
       "surface": "דבר",
-      "english": "había hablado"
+      "gloss": "había hablado"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ con él"
+      "gloss": "⟨את⟩ con él"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בית",
-      "english": "Bet-"
+      "gloss": "Bet-"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     }
-  ],
-  "timestamp": "2026-07-16T21:08:56.760722020Z",
-  "model": "glm-4.5"
+  ]
 }

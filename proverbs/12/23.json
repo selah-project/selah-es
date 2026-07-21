@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "proverbs 12:23",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59890,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60408
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:37:04.159123757Z",
   "translation": "Un ⟨hombre⟩ prudente oculta ⟨el⟩ conocimiento, y ⟨el⟩ corazón ⟨de⟩ ⟨los⟩ insensatos proclama ⟨la⟩ insensatez",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "Un ⟨hombre⟩"
+      "gloss": "Un ⟨hombre⟩"
     },
     {
       "surface": "ערום",
-      "english": "prudente"
+      "gloss": "prudente"
     },
     {
       "surface": "כסה",
-      "english": "oculta"
+      "gloss": "oculta"
     },
     {
       "surface": "דעת",
-      "english": "⟨el⟩ conocimiento"
+      "gloss": "⟨el⟩ conocimiento"
     },
     {
       "surface": "ולב",
-      "english": "y ⟨el⟩ corazón"
+      "gloss": "y ⟨el⟩ corazón"
     },
     {
       "surface": "כסילים",
-      "english": "⟨de⟩ ⟨los⟩ insensatos"
+      "gloss": "⟨de⟩ ⟨los⟩ insensatos"
     },
     {
       "surface": "יקרא",
-      "english": "proclama"
+      "gloss": "proclama"
     },
     {
       "surface": "אולת",
-      "english": "⟨la⟩ insensatez"
+      "gloss": "⟨la⟩ insensatez"
     }
-  ],
-  "timestamp": "2026-06-10T01:37:04.159123757Z",
-  "model": "glm-4.5"
+  ]
 }

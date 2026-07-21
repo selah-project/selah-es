@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 24:12",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 320,
-    "prompt_tokens": 63974,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64294
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:11:26.704413372Z",
   "translation": "⟨the⟩ undécimo ⟨para⟩ Eliashib, ⟨el⟩ duodécimo ⟨para⟩ Iakim",
   "tokens": [
     {
       "surface": "לאלישיב",
-      "english": "Eliashib"
+      "gloss": "Eliashib"
     },
     {
       "surface": "עשתי",
-      "english": "undécimo"
+      "gloss": "undécimo"
     },
     {
       "surface": "עשר",
-      "english": "para"
+      "gloss": "para"
     },
     {
       "surface": "ליקים",
-      "english": "Iakim"
+      "gloss": "Iakim"
     },
     {
       "surface": "שנים",
-      "english": "duodécimo"
+      "gloss": "duodécimo"
     },
     {
       "surface": "עשר",
-      "english": "para"
+      "gloss": "para"
     }
-  ],
-  "timestamp": "2026-07-16T18:11:26.704413372Z",
-  "model": "glm-4.5"
+  ]
 }

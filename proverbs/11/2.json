@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 11:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59759,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60214
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:35:07.479513790Z",
   "translation": "Cuando viene ⟨el⟩ orgullo, ⟨la⟩ vergüenza viene ⟨también⟩, pero con ⟨los⟩ humildes ⟨está⟩ ⟨את⟩⟨la⟩ sabiduría.",
   "tokens": [
     {
       "surface": "בא",
-      "english": "Cuando viene"
+      "gloss": "Cuando viene"
     },
     {
       "surface": "זדון",
-      "english": "⟨el⟩ orgullo"
+      "gloss": "⟨el⟩ orgullo"
     },
     {
       "surface": "ויבא",
-      "english": "⟨la⟩ vergüenza viene ⟨también⟩"
+      "gloss": "⟨la⟩ vergüenza viene ⟨también⟩"
     },
     {
       "surface": "קלון",
-      "english": "vergüenza"
+      "gloss": "vergüenza"
     },
     {
       "surface": "ואת",
-      "english": "con",
+      "gloss": "con",
       "marks": "⟨los⟩ humildes"
     },
     {
       "surface": "צנועים",
-      "english": "⟨los⟩ humildes"
+      "gloss": "⟨los⟩ humildes"
     },
     {
       "surface": "חכמה",
-      "english": "⟨la⟩ sabiduría"
+      "gloss": "⟨la⟩ sabiduría"
     }
-  ],
-  "timestamp": "2026-06-10T01:35:07.479513790Z",
-  "model": "glm-4.5"
+  ]
 }

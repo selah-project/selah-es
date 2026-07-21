@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 9:4",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27099,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27444
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:35.106599821Z",
   "translation": "⟨He is⟩ sabio ⟨in⟩ corazón y fuerte ⟨in⟩ poder; ¿quién ⟨has⟩ endurecido ⟨against⟩ ⟨Him⟩ y ⟨has⟩ prosperado?",
   "tokens": [
     {
       "surface": "חכם",
-      "english": "Sabio"
+      "gloss": "Sabio"
     },
     {
       "surface": "לבב",
-      "english": "corazón"
+      "gloss": "corazón"
     },
     {
       "surface": "ואמיץ",
-      "english": "y fuerte"
+      "gloss": "y fuerte"
     },
     {
       "surface": "כח",
-      "english": "poder"
+      "gloss": "poder"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "הקשה",
-      "english": "ha endurecido"
+      "gloss": "ha endurecido"
     },
     {
       "surface": "אליו",
-      "english": "⟨Him⟩"
+      "gloss": "⟨Him⟩"
     },
     {
       "surface": "וישלם",
-      "english": "y ha prosperado"
+      "gloss": "y ha prosperado"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:35.106599821Z",
-  "model": "glm-4.5"
+  ]
 }

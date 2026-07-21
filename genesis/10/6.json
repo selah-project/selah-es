@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 10:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20890,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21358
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:08:44.786069192Z",
   "translation": "Y los hijos de Jam: Cus ⟨y⟩ Mizraim ⟨y⟩ Put ⟨y⟩ Canaán.",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "Y los hijos de",
+      "gloss": "Y los hijos de",
       "marks": ""
     },
     {
       "surface": "חם",
-      "english": "Jam",
+      "gloss": "Jam",
       "marks": ""
     },
     {
       "surface": "כוש",
-      "english": "Cus",
+      "gloss": "Cus",
       "marks": ""
     },
     {
       "surface": "ומצרים",
-      "english": "⟨y⟩ Mizraim",
+      "gloss": "⟨y⟩ Mizraim",
       "marks": "Mizraim"
     },
     {
       "surface": "ופוט",
-      "english": "⟨y⟩ Put",
+      "gloss": "⟨y⟩ Put",
       "marks": "Put"
     },
     {
       "surface": "וכנען",
-      "english": "⟨y⟩ Canaán",
+      "gloss": "⟨y⟩ Canaán",
       "marks": "Canaán"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:08:44.786069192Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

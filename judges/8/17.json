@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "judges 8:17",
   "book": "judges",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 356,
-    "prompt_tokens": 23467,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 23823
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:23:57.578085618Z",
   "translation": "y derribó ⟨את⟩ la torre de Penuel, y mató ⟨את⟩ los hombres de la ciudad",
   "tokens": [
     {
       "surface": "וְ\/אֶת",
-      "english": "y ⟨את⟩"
+      "gloss": "y ⟨את⟩"
     },
     {
       "surface": "מִגְדַּ֥ל",
-      "english": "la torre"
+      "gloss": "la torre"
     },
     {
       "surface": "פְּנוּאֵ֖ל",
-      "english": "de Penuel"
+      "gloss": "de Penuel"
     },
     {
       "surface": "נָתָ֑ץ",
-      "english": "derribó"
+      "gloss": "derribó"
     },
     {
       "surface": "וַֽ\/יַּהֲרֹ֖ג",
-      "english": "y mató"
+      "gloss": "y mató"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los hombres"
     },
     {
       "surface": "אַנְשֵׁ֥י",
-      "english": "los hombres"
+      "gloss": "los hombres"
     },
     {
       "surface": "הָ\/עִֽיר",
-      "english": "de la ciudad"
+      "gloss": "de la ciudad"
     }
-  ],
-  "timestamp": "2026-07-16T22:23:57.578085618Z",
-  "model": "glm-4.5"
+  ]
 }

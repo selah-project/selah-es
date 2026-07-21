@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "genesis 24:34",
   "book": "genesis",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 243,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27968,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28211
-  },
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:20:49.832035542Z",
   "translation": "Y dijo ⟨el⟩ siervo de Abraham: Yo ⟨soy⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "עבד",
-      "english": "⟨el⟩ siervo"
+      "gloss": "⟨el⟩ siervo"
     },
     {
       "surface": "אברהם",
-      "english": "de Abraham"
+      "gloss": "de Abraham"
     },
     {
       "surface": "אנכי",
-      "english": "Yo ⟨soy⟩"
+      "gloss": "Yo ⟨soy⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:20:49.832035542Z",
-  "model": "glm-4.5"
+  ]
 }

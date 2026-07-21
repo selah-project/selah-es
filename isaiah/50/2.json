@@ -1,140 +1,129 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 50:2",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 1206,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28148,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 29354
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:54:33.881240432Z",
   "translation": "¿Por qué ⟨vine⟩ y ⟨no hubo⟩ ⟨hombre⟩? ⟨llamé⟩ y ⟨no hubo⟩ ⟨quien respondiera⟩. ⟨¿Acaso⟩ ⟨se acortó⟩ ⟨mi mano⟩ ⟨para redimir⟩, y ⟨si⟩ ⟨no hay⟩ ⟨en mí⟩ ⟨poder⟩ ⟨para salvar⟩? ⟨He aquí⟩, ⟨con⟩ ⟨mi⟩ ⟨reprensión⟩ ⟨hago⟩ ⟨secar⟩ ⟨el⟩ ⟨mar⟩, ⟨convierto⟩ ⟨los⟩ ⟨ríos⟩ ⟨en⟩ ⟨desierto⟩; ⟨los⟩ ⟨peces⟩ ⟨se pudren⟩ ⟨por⟩ ⟨falta⟩ ⟨de⟩ ⟨agua⟩, y ⟨mueren⟩ ⟨de⟩ ⟨sed⟩.",
   "tokens": [
     {
       "surface": "מדוע",
-      "english": "¿Por qué"
+      "gloss": "¿Por qué"
     },
     {
       "surface": "באתי",
-      "english": "⟨vine⟩"
+      "gloss": "⟨vine⟩"
     },
     {
       "surface": "ואין",
-      "english": "⟨y⟩ ⟨no hubo⟩"
+      "gloss": "⟨y⟩ ⟨no hubo⟩"
     },
     {
       "surface": "איש",
-      "english": "⟨hombre⟩"
+      "gloss": "⟨hombre⟩"
     },
     {
       "surface": "קראתי",
-      "english": "⟨llamé⟩"
+      "gloss": "⟨llamé⟩"
     },
     {
       "surface": "ואין",
-      "english": "⟨y⟩ ⟨no hubo⟩"
+      "gloss": "⟨y⟩ ⟨no hubo⟩"
     },
     {
       "surface": "עונה",
-      "english": "⟨quien respondiera⟩"
+      "gloss": "⟨quien respondiera⟩"
     },
     {
       "surface": "הקצור",
-      "english": "⟨¿Acaso⟩"
+      "gloss": "⟨¿Acaso⟩"
     },
     {
       "surface": "קצרה",
-      "english": "⟨se acortó⟩"
+      "gloss": "⟨se acortó⟩"
     },
     {
       "surface": "ידי",
-      "english": "⟨mi⟩ ⟨mano⟩"
+      "gloss": "⟨mi⟩ ⟨mano⟩"
     },
     {
       "surface": "מפדות",
-      "english": "⟨para redimir⟩"
+      "gloss": "⟨para redimir⟩"
     },
     {
       "surface": "ואם",
-      "english": "⟨y⟩ ⟨si⟩"
+      "gloss": "⟨y⟩ ⟨si⟩"
     },
     {
       "surface": "אין",
-      "english": "⟨no hay⟩"
+      "gloss": "⟨no hay⟩"
     },
     {
       "surface": "בי",
-      "english": "⟨en⟩ ⟨mí⟩"
+      "gloss": "⟨en⟩ ⟨mí⟩"
     },
     {
       "surface": "כח",
-      "english": "⟨poder⟩"
+      "gloss": "⟨poder⟩"
     },
     {
       "surface": "להציל",
-      "english": "⟨para salvar⟩"
+      "gloss": "⟨para salvar⟩"
     },
     {
       "surface": "הן",
-      "english": "⟨He aquí⟩"
+      "gloss": "⟨He aquí⟩"
     },
     {
       "surface": "בגערתי",
-      "english": "⟨con⟩ ⟨mi⟩ ⟨reprensión⟩"
+      "gloss": "⟨con⟩ ⟨mi⟩ ⟨reprensión⟩"
     },
     {
       "surface": "אחריב",
-      "english": "⟨hago⟩ ⟨secar⟩"
+      "gloss": "⟨hago⟩ ⟨secar⟩"
     },
     {
       "surface": "ים",
-      "english": "⟨el⟩ ⟨mar⟩"
+      "gloss": "⟨el⟩ ⟨mar⟩"
     },
     {
       "surface": "אשים",
-      "english": "⟨convierto⟩"
+      "gloss": "⟨convierto⟩"
     },
     {
       "surface": "נהרות",
-      "english": "⟨los⟩ ⟨ríos⟩"
+      "gloss": "⟨los⟩ ⟨ríos⟩"
     },
     {
       "surface": "מדבר",
-      "english": "⟨en⟩ ⟨desierto⟩"
+      "gloss": "⟨en⟩ ⟨desierto⟩"
     },
     {
       "surface": "תבאש",
-      "english": "⟨los⟩ ⟨peces⟩ ⟨se pudren⟩"
+      "gloss": "⟨los⟩ ⟨peces⟩ ⟨se pudren⟩"
     },
     {
       "surface": "דגתם",
-      "english": "⟨los⟩ ⟨peces⟩"
+      "gloss": "⟨los⟩ ⟨peces⟩"
     },
     {
       "surface": "מאין",
-      "english": "⟨por⟩ ⟨falta⟩ ⟨de⟩"
+      "gloss": "⟨por⟩ ⟨falta⟩ ⟨de⟩"
     },
     {
       "surface": "מים",
-      "english": "⟨agua⟩"
+      "gloss": "⟨agua⟩"
     },
     {
       "surface": "ותמת",
-      "english": "⟨y⟩ ⟨mueren⟩"
+      "gloss": "⟨y⟩ ⟨mueren⟩"
     },
     {
       "surface": "בצמא",
-      "english": "⟨de⟩ ⟨sed⟩"
+      "gloss": "⟨de⟩ ⟨sed⟩"
     }
-  ],
-  "timestamp": "2026-06-10T03:54:33.881240432Z",
-  "model": "glm-4.5"
+  ]
 }

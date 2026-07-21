@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "numbers 10:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 10,
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:22:43.291597471Z",
+  "translation": "Estas ⟨son⟩ las marchas de ⟨los⟩ hijos de Yisrael ⟨según⟩ ⟨sus⟩ ejércitos— y ⟨ellos⟩ partieron.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estas"
+    },
+    {
+      "surface": "מסעי",
+      "gloss": "las marchas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de ⟨los⟩ hijos",
+      "marks": "hijos de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "⟨según⟩ ⟨sus⟩ ejércitos"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "y ⟨ellos⟩ partieron"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,49 +45,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17579,
-    "prompt_tokens_details": {
-      "cached_tokens": 16652
-    },
-    "total_tokens": 17936
-  },
-  "translation": "Estas ⟨son⟩ las marchas de ⟨los⟩ hijos de Yisrael ⟨según⟩ ⟨sus⟩ ejércitos— y ⟨ellos⟩ partieron.",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estas"
-    },
-    {
-      "surface": "מסעי",
-      "english": "las marchas"
-    },
-    {
-      "surface": "בני",
-      "english": "de ⟨los⟩ hijos",
-      "marks": "hijos de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "לצבאתם",
-      "english": "⟨según⟩ ⟨sus⟩ ejércitos"
-    },
-    {
-      "surface": "ויסעו",
-      "english": "y ⟨ellos⟩ partieron"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:22:43.291597471Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

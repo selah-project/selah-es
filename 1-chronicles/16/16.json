@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-chronicles 16:16",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 337,
-    "prompt_tokens": 64096,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64433
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:09:00.279063880Z",
   "translation": "el pacto que cortó con Avraham, ⟨את⟩ Avraham; y su juramento a Yitzjak",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "כרת",
-      "english": "cortó"
+      "gloss": "cortó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avraham"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "ושבועתו",
-      "english": "y su juramento"
+      "gloss": "y su juramento"
     },
     {
       "surface": "ליצחק",
-      "english": "a Yitzjak"
+      "gloss": "a Yitzjak"
     }
-  ],
-  "timestamp": "2026-07-16T18:09:00.279063880Z",
-  "model": "glm-4.5"
+  ]
 }

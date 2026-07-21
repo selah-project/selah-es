@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-chronicles 13:3",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 512,
-    "prompt_tokens": 64517,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 65029
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:07:54.129217083Z",
   "translation": "y que traigamos de vuelta ⟨את⟩ el Arón de nuestro Elohim hacia nosotros, pues no lo consultamos en los días de Shaúl.",
   "tokens": [
     {
       "surface": "ונסבה",
-      "english": "y que traigamos de vuelta"
+      "gloss": "y que traigamos de vuelta"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Arón de nuestro Elohim"
     },
     {
       "surface": "ארון",
-      "english": "el Arón"
+      "gloss": "el Arón"
     },
     {
       "surface": "אלהינו",
-      "english": "de nuestro Elohim"
+      "gloss": "de nuestro Elohim"
     },
     {
       "surface": "אלינו",
-      "english": "hacia nosotros"
+      "gloss": "hacia nosotros"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "דרשנהו",
-      "english": "lo consultamos"
+      "gloss": "lo consultamos"
     },
     {
       "surface": "בימי",
-      "english": "en los días"
+      "gloss": "en los días"
     },
     {
       "surface": "שאול",
-      "english": "de Shaúl"
+      "gloss": "de Shaúl"
     }
-  ],
-  "timestamp": "2026-07-16T18:07:54.129217083Z",
-  "model": "glm-4.5"
+  ]
 }

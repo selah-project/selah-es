@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "isaiah 49:16",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 427,
-    "prompt_tokens": 26155,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26582
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:30:17.504042356Z",
   "translation": "He aquí, ⟨estoy⟩ grabado ⟨en⟩ las palmas de mis manos; tus muros ⟨están⟩ continuamente delante de mí.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "על",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "כפים",
-      "english": "las palmas"
+      "gloss": "las palmas"
     },
     {
       "surface": "חקתיך",
-      "english": "de mis manos"
+      "gloss": "de mis manos"
     },
     {
       "surface": "חומתיך",
-      "english": "tus muros"
+      "gloss": "tus muros"
     },
     {
       "surface": "נגדי",
-      "english": "⟨están⟩ delante de mí"
+      "gloss": "⟨están⟩ delante de mí"
     },
     {
       "surface": "תמיד",
-      "english": "continuamente"
+      "gloss": "continuamente"
     }
-  ],
-  "timestamp": "2026-07-16T21:30:17.504042356Z",
-  "model": "glm-4.5"
+  ]
 }

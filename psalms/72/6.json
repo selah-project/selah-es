@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 72:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69886,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70233
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:06.924883902Z",
   "translation": "descenderá ⟨como⟩ lluvia sobre ⟨la⟩ hierba segada, como derrames que riegan ⟨la⟩ tierra",
   "tokens": [
     {
       "surface": "ירד",
-      "english": "Descenderá"
+      "gloss": "Descenderá"
     },
     {
       "surface": "כמטר",
-      "english": "⟨como⟩ lluvia"
+      "gloss": "⟨como⟩ lluvia"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "גז",
-      "english": "⟨la⟩ hierba segada"
+      "gloss": "⟨la⟩ hierba segada"
     },
     {
       "surface": "כרביבים",
-      "english": "como derrames"
+      "gloss": "como derrames"
     },
     {
       "surface": "זרזיף",
-      "english": "que riegan"
+      "gloss": "que riegan"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:06.924883902Z",
-  "model": "glm-4.5"
+  ]
 }

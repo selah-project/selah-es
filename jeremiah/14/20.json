@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "jeremiah 14:20",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24528,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24833
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:14:44.312584168Z",
   "translation": "Conocemos, oh YHWH, nuestra perversidad ⟨y⟩ la iniquidad de nuestros padres; porque hemos pecado contra ti.",
   "tokens": [
     {
       "surface": "ידענו",
-      "english": "Conocemos"
+      "gloss": "Conocemos"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "רשענו",
-      "english": "nuestra perversidad"
+      "gloss": "nuestra perversidad"
     },
     {
       "surface": "עון",
-      "english": "la iniquidad"
+      "gloss": "la iniquidad"
     },
     {
       "surface": "אבותינו",
-      "english": "de nuestros padres"
+      "gloss": "de nuestros padres"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "חטאנו",
-      "english": "hemos pecado"
+      "gloss": "hemos pecado"
     },
     {
       "surface": "לך",
-      "english": "contra ti"
+      "gloss": "contra ti"
     }
-  ],
-  "timestamp": "2026-06-10T03:14:44.312584168Z",
-  "model": "glm-4.5"
+  ]
 }

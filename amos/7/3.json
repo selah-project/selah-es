@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "amos 7:3",
   "book": "amos",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 337,
-    "prompt_tokens": 23551,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 23888
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:33:57.098566438Z",
   "translation": "YHWH se arrepintió ⟨de⟩ esto: No será, dijo YHWH.",
   "tokens": [
     {
       "surface": "נחם",
-      "english": "se arrepintió"
+      "gloss": "se arrepintió"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "על",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "זאת",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תהיה",
-      "english": "será"
+      "gloss": "será"
     },
     {
       "surface": "אמר",
-      "english": "dijo"
+      "gloss": "dijo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T19:33:57.098566438Z",
-  "model": "glm-4.5"
+  ]
 }

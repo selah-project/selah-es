@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "hosea 8:2",
   "book": "hosea",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 353,
-    "prompt_tokens": 26390,
-    "prompt_tokens_details": {
-      "cached_tokens": 25472
-    },
-    "total_tokens": 26743
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:20:51.578965495Z",
   "translation": "A mí clamarán: Mi Elohim, te conocemos, Israel.",
   "tokens": [
     {
       "surface": "לי",
-      "english": "A mí"
+      "gloss": "A mí"
     },
     {
       "surface": "יזעקו",
-      "english": "clamarán"
+      "gloss": "clamarán"
     },
     {
       "surface": "אלהי",
-      "english": "Mi Elohim"
+      "gloss": "Mi Elohim"
     },
     {
       "surface": "ידענוך",
-      "english": "te conocemos"
+      "gloss": "te conocemos"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     }
-  ],
-  "timestamp": "2026-07-16T21:20:51.578965495Z",
-  "model": "glm-4.5"
+  ]
 }

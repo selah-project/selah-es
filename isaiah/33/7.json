@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 33:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26066,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26534
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:40:56.146857245Z",
   "translation": "¡Miren! ⟨los⟩ héroes gritan ⟨en⟩ ⟨el⟩ ⟨exterior⟩; ⟨los⟩ mensajeros de paz lloran amargamente.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "¡Miren!"
+      "gloss": "¡Miren!"
     },
     {
       "surface": "אראלם",
-      "english": "⟨los⟩ héroes",
+      "gloss": "⟨los⟩ héroes",
       "marks": "los héroes"
     },
     {
       "surface": "צעקו",
-      "english": "gritan"
+      "gloss": "gritan"
     },
     {
       "surface": "חצה",
-      "english": "⟨en⟩ ⟨el⟩ ⟨exterior⟩"
+      "gloss": "⟨en⟩ ⟨el⟩ ⟨exterior⟩"
     },
     {
       "surface": "מלאכי",
-      "english": "⟨los⟩ mensajeros",
+      "gloss": "⟨los⟩ mensajeros",
       "marks": "los mensajeros de paz"
     },
     {
       "surface": "שלום",
-      "english": "de paz"
+      "gloss": "de paz"
     },
     {
       "surface": "מר",
-      "english": "amargamente"
+      "gloss": "amargamente"
     },
     {
       "surface": "יבכיון",
-      "english": "lloran"
+      "gloss": "lloran"
     }
-  ],
-  "timestamp": "2026-06-10T02:40:56.146857245Z",
-  "model": "glm-4.5"
+  ]
 }

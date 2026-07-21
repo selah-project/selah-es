@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 94:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 392,
-    "prompt_tokens": 69975,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70367
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:21.701111386Z",
   "translation": "¿El que castiga ⟨a las⟩ naciones, ¿no reprenderá? ⟨El⟩ que enseña ⟨al⟩ Adam conocimiento, ¿no sabrá?",
   "tokens": [
     {
       "surface": "היסר",
-      "english": "¿El que castiga"
+      "gloss": "¿El que castiga"
     },
     {
       "surface": "גוים",
-      "english": "⟨a las⟩ naciones"
+      "gloss": "⟨a las⟩ naciones"
     },
     {
       "surface": "הלא",
-      "english": "¿no"
+      "gloss": "¿no"
     },
     {
       "surface": "יוכיח",
-      "english": "reprenderá?"
+      "gloss": "reprenderá?"
     },
     {
       "surface": "המלמד",
-      "english": "⟨El⟩ que enseña"
+      "gloss": "⟨El⟩ que enseña"
     },
     {
       "surface": "אדם",
-      "english": "⟨al⟩ Adam"
+      "gloss": "⟨al⟩ Adam"
     },
     {
       "surface": "דעת",
-      "english": "conocimiento, ¿no sabrá?"
+      "gloss": "conocimiento, ¿no sabrá?"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:21.701111386Z",
-  "model": "glm-4.5"
+  ]
 }

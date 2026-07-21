@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "1-samuel 30:18",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 508,
-    "prompt_tokens": 24015,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24523
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:47:01.945061685Z",
   "translation": "Y David recuperó ⟨את⟩ todo lo que Amalek había tomado, y ⟨את⟩ sus dos mujeres rescató David",
   "tokens": [
     {
       "surface": "ויצל",
-      "english": "Y ... recuperó"
+      "gloss": "Y ... recuperó"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo lo que"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "לקחו",
-      "english": "había tomado"
+      "gloss": "había tomado"
     },
     {
       "surface": "עמלק",
-      "english": "Amalek"
+      "gloss": "Amalek"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "sus dos mujeres"
     },
     {
       "surface": "שתי",
-      "english": "dos"
+      "gloss": "dos"
     },
     {
       "surface": "נשיו",
-      "english": "mujeres"
+      "gloss": "mujeres"
     },
     {
       "surface": "הציל",
-      "english": "rescató"
+      "gloss": "rescató"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     }
-  ],
-  "timestamp": "2026-07-16T18:47:01.945061685Z",
-  "model": "glm-4.5"
+  ]
 }

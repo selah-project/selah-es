@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 147:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70123,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70617
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:27.356239890Z",
   "translation": "¡Alaben a YHWH! ⟨porque⟩ ⟨es⟩ bueno entonar un cántico a nuestro Elohim, ⟨porque⟩ ⟨es⟩ agradable y hermosa ⟨la⟩ alabanza.",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "¡Alaben a"
+      "gloss": "¡Alaben a"
     },
     {
       "surface": "יה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "טוב",
-      "english": "⟨es⟩ bueno"
+      "gloss": "⟨es⟩ bueno"
     },
     {
       "surface": "זמרה",
-      "english": "entonar un cántico"
+      "gloss": "entonar un cántico"
     },
     {
       "surface": "אלהינו",
-      "english": "a nuestro Elohim"
+      "gloss": "a nuestro Elohim"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "נעים",
-      "english": "⟨es⟩ agradable"
+      "gloss": "⟨es⟩ agradable"
     },
     {
       "surface": "נאוה",
-      "english": "y hermosa"
+      "gloss": "y hermosa"
     },
     {
       "surface": "תהלה",
-      "english": "⟨la⟩ alabanza"
+      "gloss": "⟨la⟩ alabanza"
     }
-  ],
-  "timestamp": "2026-06-10T00:12:27.356239890Z",
-  "model": "glm-4.5"
+  ]
 }

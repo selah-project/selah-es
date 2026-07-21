@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 17:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69824,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70107
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:03:12.800460135Z",
   "translation": "Hold fast my steps ⟨in⟩ your paths, ⟨so⟩ my footsteps do not slip",
   "tokens": [
     {
       "surface": "תמך",
-      "english": "Hold fast"
+      "gloss": "Hold fast"
     },
     {
       "surface": "אשרי",
-      "english": "my steps"
+      "gloss": "my steps"
     },
     {
       "surface": "במעגלותיך",
-      "english": "⟨in⟩ your paths"
+      "gloss": "⟨in⟩ your paths"
     },
     {
       "surface": "בל",
-      "english": "⟨so⟩"
+      "gloss": "⟨so⟩"
     },
     {
       "surface": "נמוטו",
-      "english": "do not slip"
+      "gloss": "do not slip"
     },
     {
       "surface": "פעמי",
-      "english": "my footsteps"
+      "gloss": "my footsteps"
     }
-  ],
-  "timestamp": "2026-06-09T23:03:12.800460135Z",
-  "model": "glm-4.5"
+  ]
 }

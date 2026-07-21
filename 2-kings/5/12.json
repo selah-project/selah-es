@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-kings 5:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 5,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:24:10.996132395Z",
+  "translation": "¿⟨no⟩ son mejores el Abanah y el Pharpar, ríos de Damesek, que ⟨todas⟩ las aguas de Yisrael? ¿⟨no⟩ podré lavarme en ellas y ⟨ser⟩ purificado? Y volvió y se fue ⟨con⟩ ira.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "¿⟨No⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mejores"
+    },
+    {
+      "surface": "אבנה",
+      "gloss": "Abanah"
+    },
+    {
+      "surface": "ופרפר",
+      "gloss": "Pharpar"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ríos"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "que ⟨todas⟩"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "aguas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿⟨no⟩"
+    },
+    {
+      "surface": "ארחץ",
+      "gloss": "podré lavarme"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "en ellas"
+    },
+    {
+      "surface": "וטהרתי",
+      "gloss": "y ⟨ser⟩ purificado"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "Y volvió"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "y se fue"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "⟨con⟩ ira"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Damasco",
@@ -20,88 +91,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 603,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17301,
-    "prompt_tokens_details": {
-      "cached_tokens": 15439
-    },
-    "total_tokens": 17904
-  },
-  "translation": "¿⟨no⟩ son mejores el Abanah y el Pharpar, ríos de Damesek, que ⟨todas⟩ las aguas de Yisrael? ¿⟨no⟩ podré lavarme en ellas y ⟨ser⟩ purificado? Y volvió y se fue ⟨con⟩ ira.",
-  "tokens": [
-    {
-      "surface": "הלא",
-      "english": "¿⟨No⟩"
-    },
-    {
-      "surface": "טוב",
-      "english": "mejores"
-    },
-    {
-      "surface": "אבנה",
-      "english": "Abanah"
-    },
-    {
-      "surface": "ופרפר",
-      "english": "Pharpar"
-    },
-    {
-      "surface": "נהרות",
-      "english": "ríos"
-    },
-    {
-      "surface": "דמשק",
-      "english": "Damesek"
-    },
-    {
-      "surface": "מכל",
-      "english": "que ⟨todas⟩"
-    },
-    {
-      "surface": "מימי",
-      "english": "aguas"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "הלא",
-      "english": "¿⟨no⟩"
-    },
-    {
-      "surface": "ארחץ",
-      "english": "podré lavarme"
-    },
-    {
-      "surface": "בהם",
-      "english": "en ellas"
-    },
-    {
-      "surface": "וטהרתי",
-      "english": "y ⟨ser⟩ purificado"
-    },
-    {
-      "surface": "ויפן",
-      "english": "Y volvió"
-    },
-    {
-      "surface": "וילך",
-      "english": "y se fue"
-    },
-    {
-      "surface": "בחמה",
-      "english": "⟨con⟩ ira"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:24:10.996132395Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

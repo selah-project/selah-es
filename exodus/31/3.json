@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 31:3",
   "book": "exodus",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 573,
-    "prompt_tokens": 24252,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24825
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:23:54.980737606Z",
   "translation": "y yo ⟨lo⟩ ⟨he⟩ llenado del espíritu de Elohim, ⟨en⟩ Jojmá y ⟨en⟩ Biná y ⟨en⟩ Daat y ⟨en⟩ toda Melajá",
   "tokens": [
     {
       "surface": "ואמלא",
-      "english": "y yo ⟨lo⟩ ⟨he⟩ llenado"
+      "gloss": "y yo ⟨lo⟩ ⟨he⟩ llenado"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "espíritu de Elohim"
     },
     {
       "surface": "רוח",
-      "english": "espíritu"
+      "gloss": "espíritu"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "בחכמה",
-      "english": "⟨en⟩ Jojmá"
+      "gloss": "⟨en⟩ Jojmá"
     },
     {
       "surface": "ובתבונה",
-      "english": "y ⟨en⟩ Biná"
+      "gloss": "y ⟨en⟩ Biná"
     },
     {
       "surface": "ובדעת",
-      "english": "y ⟨en⟩ Daat"
+      "gloss": "y ⟨en⟩ Daat"
     },
     {
       "surface": "ובכל",
-      "english": "y ⟨en⟩ toda"
+      "gloss": "y ⟨en⟩ toda"
     },
     {
       "surface": "מלאכה",
-      "english": "Melajá"
+      "gloss": "Melajá"
     }
-  ],
-  "timestamp": "2026-07-16T20:23:54.980737606Z",
-  "model": "glm-4.5"
+  ]
 }

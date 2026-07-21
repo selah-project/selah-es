@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 41:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 466,
-    "prompt_tokens": 26122,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26588
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:29:24.384184922Z",
   "translation": "Él ⟨los⟩ persigue, ⟨los⟩ hace pasar en ⟨paz⟩; por un camino ⟨que⟩ ⟨no⟩ había andado con ⟨sus⟩ pies.",
   "tokens": [
     {
       "surface": "ירדפם",
-      "english": "Él ⟨los⟩ persigue"
+      "gloss": "Él ⟨los⟩ persigue"
     },
     {
       "surface": "יעבור",
-      "english": "⟨los⟩ hace pasar"
+      "gloss": "⟨los⟩ hace pasar"
     },
     {
       "surface": "שלום",
-      "english": "en ⟨paz⟩"
+      "gloss": "en ⟨paz⟩"
     },
     {
       "surface": "ארח",
-      "english": "por un camino"
+      "gloss": "por un camino"
     },
     {
       "surface": "ברגליו",
-      "english": "con ⟨sus⟩ pies"
+      "gloss": "con ⟨sus⟩ pies"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "יבוא",
-      "english": "había andado"
+      "gloss": "había andado"
     }
-  ],
-  "timestamp": "2026-07-16T21:29:24.384184922Z",
-  "model": "glm-4.5"
+  ]
 }

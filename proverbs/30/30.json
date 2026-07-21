@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "proverbs 30:30",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59774,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60130
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:18.549695399Z",
   "translation": "Un león, ⟨el⟩ más poderoso ⟨entre⟩ ⟨los⟩ animales, y no ⟨se⟩ vuelve ⟨de⟩ ⟨la⟩ presencia de nada;",
   "tokens": [
     {
       "surface": "ליש",
-      "english": "Un león"
+      "gloss": "Un león"
     },
     {
       "surface": "גבור",
-      "english": "⟨el⟩ más poderoso ⟨entre⟩"
+      "gloss": "⟨el⟩ más poderoso ⟨entre⟩"
     },
     {
       "surface": "בבהמה",
-      "english": "⟨los⟩ animales"
+      "gloss": "⟨los⟩ animales"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "ישוב",
-      "english": "⟨se⟩ vuelve"
+      "gloss": "⟨se⟩ vuelve"
     },
     {
       "surface": "מפני",
-      "english": "⟨de⟩ ⟨la⟩ presencia"
+      "gloss": "⟨de⟩ ⟨la⟩ presencia"
     },
     {
       "surface": "כל",
-      "english": "nada",
+      "gloss": "nada",
       "marks": "de nada"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:18.549695399Z",
-  "model": "glm-4.5"
+  ]
 }

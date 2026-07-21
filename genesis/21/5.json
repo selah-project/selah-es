@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 21:5",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 366,
-    "prompt_tokens": 28573,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28939
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:59:38.196841264Z",
   "translation": "Y Avraham era hijo de cien años en el nacerle ⟨את⟩ Yitzjak su hijo.",
   "tokens": [
     {
       "surface": "ואברהם",
-      "english": "Y Avraham"
+      "gloss": "Y Avraham"
     },
     {
       "surface": "בן",
-      "english": "hijo de"
+      "gloss": "hijo de"
     },
     {
       "surface": "מאת",
-      "english": "cien"
+      "gloss": "cien"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "בהולד",
-      "english": "en el nacerle"
+      "gloss": "en el nacerle"
     },
     {
       "surface": "לו",
-      "english": "(a él)"
+      "gloss": "(a él)"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yitzjak"
     },
     {
       "surface": "יצחק",
-      "english": "Yitzjak"
+      "gloss": "Yitzjak"
     },
     {
       "surface": "בנו",
-      "english": "su hijo"
+      "gloss": "su hijo"
     }
-  ],
-  "timestamp": "2026-07-16T20:59:38.196841264Z",
-  "model": "glm-4.5"
+  ]
 }

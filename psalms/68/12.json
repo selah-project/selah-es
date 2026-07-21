@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 68:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 638,
-    "prompt_tokens": 69880,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70518
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:32:27.967952554Z",
   "translation": "Adonai da la palabra; grande ⟨es⟩ ⟨el⟩ ejército de ⟨las⟩ que proclaman ⟨la⟩ noticia.",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "יתן",
-      "english": "da"
+      "gloss": "da"
     },
     {
       "surface": "אמר",
-      "english": "la palabra"
+      "gloss": "la palabra"
     },
     {
       "surface": "המבשרות",
-      "english": "de ⟨las⟩ que proclaman ⟨la⟩ noticia"
+      "gloss": "de ⟨las⟩ que proclaman ⟨la⟩ noticia"
     },
     {
       "surface": "צבא",
-      "english": "ejército"
+      "gloss": "ejército"
     },
     {
       "surface": "רב",
-      "english": "grande"
+      "gloss": "grande"
     }
-  ],
-  "timestamp": "2026-07-16T23:32:27.967952554Z",
-  "model": "glm-4.5"
+  ]
 }

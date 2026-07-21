@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 148:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 200,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69781,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69981
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:35.604304271Z",
   "translation": "jóvenes y también doncellas, ancianos ⟨con⟩ niños",
   "tokens": [
     {
       "surface": "בחורים",
-      "english": "Jóvenes"
+      "gloss": "Jóvenes"
     },
     {
       "surface": "וגם",
-      "english": "y también"
+      "gloss": "y también"
     },
     {
       "surface": "בתולות",
-      "english": "doncellas"
+      "gloss": "doncellas"
     },
     {
       "surface": "זקנים",
-      "english": "ancianos"
+      "gloss": "ancianos"
     },
     {
       "surface": "עם",
-      "english": "⟨con⟩",
+      "gloss": "⟨con⟩",
       "marks": "niños"
     },
     {
       "surface": "נערים",
-      "english": "niños"
+      "gloss": "niños"
     }
-  ],
-  "timestamp": "2026-06-10T00:12:35.604304271Z",
-  "model": "glm-4.5"
+  ]
 }

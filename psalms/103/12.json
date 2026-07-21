@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 103:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 448,
-    "prompt_tokens": 70133,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70581
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:19.729592890Z",
   "translation": "Como ⟨está⟩ lejos ⟨el⟩ oriente ⟨del⟩ occidente, Ha alejado de nosotros ⟨את⟩ nuestras rebeliones",
   "tokens": [
     {
       "surface": "כרחק",
-      "english": "Como ⟨está⟩ lejos"
+      "gloss": "Como ⟨está⟩ lejos"
     },
     {
       "surface": "מזרח",
-      "english": "⟨el⟩ oriente"
+      "gloss": "⟨el⟩ oriente"
     },
     {
       "surface": "ממערב",
-      "english": "⟨del⟩ occidente"
+      "gloss": "⟨del⟩ occidente"
     },
     {
       "surface": "הרחיק",
-      "english": "Ha alejado"
+      "gloss": "Ha alejado"
     },
     {
       "surface": "ממנו",
-      "english": "de nosotros"
+      "gloss": "de nosotros"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "nuestras rebeliones"
     },
     {
       "surface": "פשעינו",
-      "english": "nuestras rebeliones"
+      "gloss": "nuestras rebeliones"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:19.729592890Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "leviticus 16:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 16,
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:54:37.879140201Z",
+  "translation": "y rociará ⟨con⟩ él del ⟨la⟩ sangre ⟨en⟩ su dedo siete veces y purificará ⟨lo⟩ y santificará ⟨lo⟩ ⟨de las⟩ inmundicias ⟨de los⟩ hijos de Yisrael",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "Y rociará"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨con⟩ él"
+    },
+    {
+      "surface": "מן",
+      "gloss": "del"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨la⟩ sangre"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "⟨en⟩ su dedo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siete"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "veces"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "y purificará ⟨lo⟩"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "y santificará ⟨lo⟩"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "⟨de las⟩ inmundicias"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨de los⟩ hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17598,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 18162
-  },
-  "translation": "y rociará ⟨con⟩ él del ⟨la⟩ sangre ⟨en⟩ su dedo siete veces y purificará ⟨lo⟩ y santificará ⟨lo⟩ ⟨de las⟩ inmundicias ⟨de los⟩ hijos de Yisrael",
-  "tokens": [
-    {
-      "surface": "והזה",
-      "english": "Y rociará"
-    },
-    {
-      "surface": "עליו",
-      "english": "⟨con⟩ él"
-    },
-    {
-      "surface": "מן",
-      "english": "del"
-    },
-    {
-      "surface": "הדם",
-      "english": "⟨la⟩ sangre"
-    },
-    {
-      "surface": "באצבעו",
-      "english": "⟨en⟩ su dedo"
-    },
-    {
-      "surface": "שבע",
-      "english": "siete"
-    },
-    {
-      "surface": "פעמים",
-      "english": "veces"
-    },
-    {
-      "surface": "וטהרו",
-      "english": "y purificará ⟨lo⟩"
-    },
-    {
-      "surface": "וקדשו",
-      "english": "y santificará ⟨lo⟩"
-    },
-    {
-      "surface": "מטמאת",
-      "english": "⟨de las⟩ inmundicias"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨de los⟩ hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:54:37.879140201Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

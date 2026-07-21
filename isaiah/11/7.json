@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 11:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26325,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26770
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:28:04.982878206Z",
   "translation": "Y ⟨la⟩ vaca y ⟨el⟩ oso pastarán juntas; ⟨sus⟩ crías ⟨se⟩ recostarán juntas; y ⟨el⟩ león ⟨como⟩ ⟨el⟩ buey comerá paja.",
   "tokens": [
     {
       "surface": "ופרה",
-      "english": "Y ⟨la⟩ vaca"
+      "gloss": "Y ⟨la⟩ vaca"
     },
     {
       "surface": "ודב",
-      "english": "y ⟨el⟩ oso"
+      "gloss": "y ⟨el⟩ oso"
     },
     {
       "surface": "תרעינה",
-      "english": "pastarán juntas"
+      "gloss": "pastarán juntas"
     },
     {
       "surface": "יחדו",
-      "english": "juntas"
+      "gloss": "juntas"
     },
     {
       "surface": "ירבצו",
-      "english": "⟨se⟩ recostarán"
+      "gloss": "⟨se⟩ recostarán"
     },
     {
       "surface": "ילדיהן",
-      "english": "⟨sus⟩ crías"
+      "gloss": "⟨sus⟩ crías"
     },
     {
       "surface": "ואריה",
-      "english": "y ⟨el⟩ león"
+      "gloss": "y ⟨el⟩ león"
     },
     {
       "surface": "כבקר",
-      "english": "⟨como⟩ ⟨el⟩ buey"
+      "gloss": "⟨como⟩ ⟨el⟩ buey"
     },
     {
       "surface": "יאכל",
-      "english": "comerá"
+      "gloss": "comerá"
     },
     {
       "surface": "תבן",
-      "english": "paja"
+      "gloss": "paja"
     }
-  ],
-  "timestamp": "2026-06-10T02:28:04.982878206Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 105,
   "ref": "psalms 119:105",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 252,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69687,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69939
-  },
+  "verse": 105,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:56.146036916Z",
   "translation": "lámpara ⟨para⟩ mis pies tu palabra y luz ⟨para⟩ mi senda",
   "tokens": [
     {
       "surface": "נר",
-      "english": "Lámpara"
+      "gloss": "Lámpara"
     },
     {
       "surface": "לרגלי",
-      "english": "⟨para⟩ mis pies",
+      "gloss": "⟨para⟩ mis pies",
       "marks": "lámpara"
     },
     {
       "surface": "דברך",
-      "english": "tu palabra"
+      "gloss": "tu palabra"
     },
     {
       "surface": "ואור",
-      "english": "y luz"
+      "gloss": "y luz"
     },
     {
       "surface": "לנתיבתי",
-      "english": "⟨para⟩ mi senda",
+      "gloss": "⟨para⟩ mi senda",
       "marks": "luz"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:56.146036916Z",
-  "model": "glm-4.5"
+  ]
 }

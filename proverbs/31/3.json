@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 31:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59826,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60180
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:23.207693420Z",
   "translation": "do not give ⟨to⟩ women ⟨the⟩ strength of you and ⟨the⟩ ways of you ⟨to⟩ erasing of kings",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Do not"
+      "gloss": "Do not"
     },
     {
       "surface": "תתן",
-      "english": "give"
+      "gloss": "give"
     },
     {
       "surface": "לנשים",
-      "english": "⟨to⟩ women",
+      "gloss": "⟨to⟩ women",
       "marks": "women"
     },
     {
       "surface": "חילך",
-      "english": "⟨the⟩ strength of you"
+      "gloss": "⟨the⟩ strength of you"
     },
     {
       "surface": "ודרכיך",
-      "english": "and ⟨the⟩ ways of you"
+      "gloss": "and ⟨the⟩ ways of you"
     },
     {
       "surface": "למחות",
-      "english": "⟨to⟩ erasing",
+      "gloss": "⟨to⟩ erasing",
       "marks": "kings"
     },
     {
       "surface": "מלכין",
-      "english": "of kings"
+      "gloss": "of kings"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:23.207693420Z",
-  "model": "glm-4.5"
+  ]
 }

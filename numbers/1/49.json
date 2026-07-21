@@ -1,75 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 49,
   "ref": "numbers 1:49",
   "book": "numbers",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 601,
-    "prompt_tokens": 25725,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26326
-  },
+  "verse": 49,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:55:51.866367937Z",
   "translation": "Solo ⟨la⟩ tribu de Levi no ⟨לא⟩ censarás, ni ⟨את⟩ ⟨su⟩ número ⟨ראשם⟩ tomarás ⟨תשא⟩ en medio de los hijos de Israel.",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Solo"
+      "gloss": "Solo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la tribu de Levi"
     },
     {
       "surface": "מטה",
-      "english": "tribu"
+      "gloss": "tribu"
     },
     {
       "surface": "לוי",
-      "english": "Levi"
+      "gloss": "Levi"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תפקד",
-      "english": "censarás"
+      "gloss": "censarás"
     },
     {
       "surface": "ואת",
-      "english": "ni ⟨את⟩",
+      "gloss": "ni ⟨את⟩",
       "marks": "su número"
     },
     {
       "surface": "ראשם",
-      "english": "⟨su⟩ número"
+      "gloss": "⟨su⟩ número"
     },
     {
       "surface": "לא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "תשא",
-      "english": "tomarás"
+      "gloss": "tomarás"
     },
     {
       "surface": "בתוך",
-      "english": "en medio de"
+      "gloss": "en medio de"
     },
     {
       "surface": "בני",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     }
-  ],
-  "timestamp": "2026-07-16T22:55:51.866367937Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "lamentations 3:7",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38955,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39447
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:41:05.836689930Z",
   "translation": "Cercó ⟨a través de⟩ mí y no ⟨iré⟩ ⟨out⟩; ⟨hizo⟩ ⟨heavy⟩ mi ⟨fetter⟩ ⟨copper⟩",
   "tokens": [
     {
       "surface": "גדר",
-      "english": "Cercó"
+      "gloss": "Cercó"
     },
     {
       "surface": "בעדי",
-      "english": "⟨a través de⟩",
+      "gloss": "⟨a través de⟩",
       "marks": "mí"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "אצא",
-      "english": "⟨iré⟩"
+      "gloss": "⟨iré⟩"
     },
     {
       "surface": "הכביד",
-      "english": "⟨hizo⟩ ⟨heavy⟩"
+      "gloss": "⟨hizo⟩ ⟨heavy⟩"
     },
     {
       "surface": "נחשתי",
-      "english": "mi ⟨fetter⟩ ⟨copper⟩"
+      "gloss": "mi ⟨fetter⟩ ⟨copper⟩"
     }
-  ],
-  "timestamp": "2026-06-09T22:41:05.836689930Z",
-  "model": "glm-4.5"
+  ]
 }

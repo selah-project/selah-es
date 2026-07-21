@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 15:11",
   "book": "job",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 658,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26998,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27656
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:47.972131688Z",
   "translation": "¿⟨son⟩ ⟨las⟩ consolaciones de Elohim ⟨muy⟩ ⟨pocos⟩ para ti? Y ⟨una⟩ palabra ⟨que trata⟩ suavemente ⟨contigo⟩",
   "tokens": [
     {
       "surface": "המעט",
-      "english": "¿⟨Son⟩ ⟨las⟩ consolaciones"
+      "gloss": "¿⟨Son⟩ ⟨las⟩ consolaciones"
     },
     {
       "surface": "ממך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "תנחמות",
-      "english": "de Elohim ⟨muy⟩ ⟨pocos⟩"
+      "gloss": "de Elohim ⟨muy⟩ ⟨pocos⟩"
     },
     {
       "surface": "אל",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "ודבר",
-      "english": "Y ⟨una⟩ palabra"
+      "gloss": "Y ⟨una⟩ palabra"
     },
     {
       "surface": "לאט",
-      "english": "⟨que trata⟩ suavemente"
+      "gloss": "⟨que trata⟩ suavemente"
     },
     {
       "surface": "עמך",
-      "english": "⟨contigo⟩"
+      "gloss": "⟨contigo⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:47.972131688Z",
-  "model": "glm-4.5"
+  ]
 }

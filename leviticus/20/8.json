@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "leviticus 20:8",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 523,
-    "prompt_tokens": 24767,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25290
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:43:08.321021469Z",
   "translation": "Y guardaréis ⟨את⟩ mis estatutos y ⟨los⟩ haréis: yo ⟨soy⟩ YHWH el que os santifica.",
   "tokens": [
     {
       "surface": "וּ\/שְׁמַרְתֶּם֙",
-      "english": "Y guardaréis"
+      "gloss": "Y guardaréis"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mis estatutos"
     },
     {
       "surface": "חֻקֹּתַ֔\/י",
-      "english": "mis estatutos"
+      "gloss": "mis estatutos"
     },
     {
       "surface": "וַ\/עֲשִׂיתֶ֖ם",
-      "english": "y ⟨los⟩ haréis"
+      "gloss": "y ⟨los⟩ haréis"
     },
     {
       "surface": "אֹתָ֑\/ם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "yo"
     },
     {
       "surface": "אֲנִ֥י",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "יְהוָ֖ה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מְקַדִּשְׁ\/כֶֽם",
-      "english": "el que os santifica"
+      "gloss": "el que os santifica"
     }
-  ],
-  "timestamp": "2026-07-16T22:43:08.321021469Z",
-  "model": "glm-4.5"
+  ]
 }

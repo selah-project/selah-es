@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 33:4",
   "book": "job",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 370,
-    "prompt_tokens": 27025,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27395
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:01:20.622691335Z",
   "translation": "El Rúaj de El me hizo, y el aliento de Shaddai me da vida",
   "tokens": [
     {
       "surface": "רוח",
-      "english": "El Rúaj"
+      "gloss": "El Rúaj"
     },
     {
       "surface": "אל",
-      "english": "de El"
+      "gloss": "de El"
     },
     {
       "surface": "עשתני",
-      "english": "me hizo"
+      "gloss": "me hizo"
     },
     {
       "surface": "ונשמת",
-      "english": "y el aliento de"
+      "gloss": "y el aliento de"
     },
     {
       "surface": "שדי",
-      "english": "Shaddai"
+      "gloss": "Shaddai"
     },
     {
       "surface": "תחיני",
-      "english": "me da vida"
+      "gloss": "me da vida"
     }
-  ],
-  "timestamp": "2026-07-16T22:01:20.622691335Z",
-  "model": "glm-4.5"
+  ]
 }

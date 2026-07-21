@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "isaiah 40:22",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 587,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26503,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27090
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:45:39.217256940Z",
   "translation": "El que ⟨está⟩ sentado sobre el círculo de ⟨la⟩ tierra, y sus habitantes ⟨son⟩ como langostas; ⟨el⟩ que extiende ⟨los⟩ cielos como una cortina y ⟨los⟩ tiende como una tienda para habitar",
   "tokens": [
     {
       "surface": "הישב",
-      "english": "El que ⟨está⟩ sentado"
+      "gloss": "El que ⟨está⟩ sentado"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "חוג",
-      "english": "el círculo"
+      "gloss": "el círculo"
     },
     {
       "surface": "הארץ",
-      "english": "de ⟨la⟩ tierra"
+      "gloss": "de ⟨la⟩ tierra"
     },
     {
       "surface": "וישביה",
-      "english": "y sus habitantes ⟨son⟩"
+      "gloss": "y sus habitantes ⟨son⟩"
     },
     {
       "surface": "כחגבים",
-      "english": "como langostas"
+      "gloss": "como langostas"
     },
     {
       "surface": "הנוטה",
-      "english": "⟨el⟩ que extiende"
+      "gloss": "⟨el⟩ que extiende"
     },
     {
       "surface": "כדק",
-      "english": "como una cortina"
+      "gloss": "como una cortina"
     },
     {
       "surface": "שמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "וימתחם",
-      "english": "y ⟨los⟩ tiende"
+      "gloss": "y ⟨los⟩ tiende"
     },
     {
       "surface": "כאהל",
-      "english": "como una tienda"
+      "gloss": "como una tienda"
     },
     {
       "surface": "לשבת",
-      "english": "para habitar"
+      "gloss": "para habitar"
     }
-  ],
-  "timestamp": "2026-06-10T02:45:39.217256940Z",
-  "model": "glm-4.5"
+  ]
 }

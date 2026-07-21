@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "joshua 12:12",
   "book": "joshua",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 197,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23077,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23274
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:16:33.641024984Z",
   "translation": "el rey de Eglón, uno; ⟨el⟩ rey de Gezer, uno",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "El rey"
+      "gloss": "El rey"
     },
     {
       "surface": "עגלון",
-      "english": "de Eglón"
+      "gloss": "de Eglón"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "מלך",
-      "english": "⟨el⟩ rey",
+      "gloss": "⟨el⟩ rey",
       "marks": "rey de Gezer"
     },
     {
       "surface": "גזר",
-      "english": "de Gezer"
+      "gloss": "de Gezer"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     }
-  ],
-  "timestamp": "2026-06-10T01:16:33.641024984Z",
-  "model": "glm-4.5"
+  ]
 }

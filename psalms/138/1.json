@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 138:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 138,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 70003,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70438
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:45:03.217952145Z",
   "translation": "De David, te confieso ⟨con⟩ todo ⟨mi⟩ corazón; delante de Elohim, te cantaré ⟨alabanzas⟩.",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "De David"
+      "gloss": "De David"
     },
     {
       "surface": "אודך",
-      "english": "te confieso"
+      "gloss": "te confieso"
     },
     {
       "surface": "בכל",
-      "english": "⟨con⟩ todo"
+      "gloss": "⟨con⟩ todo"
     },
     {
       "surface": "לבי",
-      "english": "⟨mi⟩ corazón"
+      "gloss": "⟨mi⟩ corazón"
     },
     {
       "surface": "נגד",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אזמרך",
-      "english": "te cantaré ⟨alabanzas⟩"
+      "gloss": "te cantaré ⟨alabanzas⟩"
     }
-  ],
-  "timestamp": "2026-07-16T23:45:03.217952145Z",
-  "model": "glm-4.5"
+  ]
 }

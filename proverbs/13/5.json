@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 13:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59839,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60343
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:37:17.287475961Z",
   "translation": "Un justo aborrece ⟨el⟩ palabra de engaño ⟨את⟩, ⟨y⟩ el malvado ⟨viene⟩ ⟨a⟩ ⟨ser⟩ repugnante ⟨y⟩ ⟨es⟩ avergonzado.",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "⟨El⟩ palabra"
+      "gloss": "⟨El⟩ palabra"
     },
     {
       "surface": "שקר",
-      "english": "de engaño"
+      "gloss": "de engaño"
     },
     {
       "surface": "ישנא",
-      "english": "aborrece"
+      "gloss": "aborrece"
     },
     {
       "surface": "צדיק",
-      "english": "Un justo"
+      "gloss": "Un justo"
     },
     {
       "surface": "ורשע",
-      "english": "⟨y⟩ el malvado"
+      "gloss": "⟨y⟩ el malvado"
     },
     {
       "surface": "יבאיש",
-      "english": "⟨viene⟩ ⟨a⟩ ⟨ser⟩ repugnante"
+      "gloss": "⟨viene⟩ ⟨a⟩ ⟨ser⟩ repugnante"
     },
     {
       "surface": "ויחפיר",
-      "english": "⟨y⟩ ⟨es⟩ avergonzado"
+      "gloss": "⟨y⟩ ⟨es⟩ avergonzado"
     }
-  ],
-  "timestamp": "2026-06-10T01:37:17.287475961Z",
-  "model": "glm-4.5"
+  ]
 }

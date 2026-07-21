@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 112:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 112,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69750,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70151
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:03.143172919Z",
   "translation": "Wealth y ⟨el⟩ ⟨es⟩ en su casa y su justicia ⟨se mantiene⟩ para siempre.",
   "tokens": [
     {
       "surface": "הון",
-      "english": "Wealth"
+      "gloss": "Wealth"
     },
     {
       "surface": "ועשר",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "בביתו",
-      "english": "⟨el⟩ ⟨es⟩ en su casa",
+      "gloss": "⟨el⟩ ⟨es⟩ en su casa",
       "marks": "y"
     },
     {
       "surface": "וצדקתו",
-      "english": "y su justicia"
+      "gloss": "y su justicia"
     },
     {
       "surface": "עמדת",
-      "english": "⟨se mantiene⟩",
+      "gloss": "⟨se mantiene⟩",
       "marks": "su justicia"
     },
     {
       "surface": "לעד",
-      "english": "para siempre"
+      "gloss": "para siempre"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:03.143172919Z",
-  "model": "glm-4.5"
+  ]
 }

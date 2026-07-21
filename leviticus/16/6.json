@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 16:6",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 527,
-    "prompt_tokens": 24898,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25425
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:40:47.212335382Z",
   "translation": "Y Aharón ofrecerá ⟨el⟩ toro de ⟨la⟩ ofrenda por el pecado, ⟨que es⟩ para él, y expiará por él y por su casa.",
   "tokens": [
     {
       "surface": "והקריב",
-      "english": "Y Aharón ofrecerá"
+      "gloss": "Y Aharón ofrecerá"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el toro"
     },
     {
       "surface": "פר",
-      "english": "toro"
+      "gloss": "toro"
     },
     {
       "surface": "החטאת",
-      "english": "de la ofrenda por el pecado"
+      "gloss": "de la ofrenda por el pecado"
     },
     {
       "surface": "אשר",
-      "english": "que es"
+      "gloss": "que es"
     },
     {
       "surface": "לו",
-      "english": "para él"
+      "gloss": "para él"
     },
     {
       "surface": "וכפר",
-      "english": "y expiará"
+      "gloss": "y expiará"
     },
     {
       "surface": "בעדו",
-      "english": "por él"
+      "gloss": "por él"
     },
     {
       "surface": "ובעד",
-      "english": "y por"
+      "gloss": "y por"
     },
     {
       "surface": "ביתו",
-      "english": "su casa"
+      "gloss": "su casa"
     }
-  ],
-  "timestamp": "2026-07-16T22:40:47.212335382Z",
-  "model": "glm-4.5"
+  ]
 }

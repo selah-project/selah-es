@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "numbers 3:30",
   "book": "numbers",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25078,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25486
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:44:03.301818146Z",
   "translation": "Y el príncipe ⟨de⟩ ⟨la⟩ casa ⟨del⟩ padre ⟨de⟩ ⟨las⟩ familias ⟨de⟩ los coatitas ⟨es⟩ Elitsafán ⟨hijo⟩ ⟨de⟩ Uziel",
   "tokens": [
     {
       "surface": "ונשיא",
-      "english": "Y el príncipe"
+      "gloss": "Y el príncipe"
     },
     {
       "surface": "בית",
-      "english": "⟨de⟩ ⟨la⟩ casa"
+      "gloss": "⟨de⟩ ⟨la⟩ casa"
     },
     {
       "surface": "אב",
-      "english": "⟨del⟩ padre"
+      "gloss": "⟨del⟩ padre"
     },
     {
       "surface": "למשפחת",
-      "english": "⟨de⟩ ⟨las⟩ familias"
+      "gloss": "⟨de⟩ ⟨las⟩ familias"
     },
     {
       "surface": "הקהתי",
-      "english": "⟨de⟩ los coatitas"
+      "gloss": "⟨de⟩ los coatitas"
     },
     {
       "surface": "אליצפן",
-      "english": "Elitsafán"
+      "gloss": "Elitsafán"
     },
     {
       "surface": "בן",
-      "english": "⟨hijo⟩ ⟨de⟩"
+      "gloss": "⟨hijo⟩ ⟨de⟩"
     },
     {
       "surface": "עזיאל",
-      "english": "Uziel"
+      "gloss": "Uziel"
     }
-  ],
-  "timestamp": "2026-06-10T04:44:03.301818146Z",
-  "model": "glm-4.5"
+  ]
 }

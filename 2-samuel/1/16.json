@@ -1,9 +1,81 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-samuel 1:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 1,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:39:33.842669350Z",
+  "translation": "Y dijo Davidd ⟨a⟩ él: '⟨El⟩ sangre de ti ⟨está⟩ sobre cabeza de ti, porque boca de ti ha respondido ⟨en⟩ ti, diciendo: Yo ⟨fui⟩ ⟨el⟩ que hirió ⟨a⟩ ⟨el⟩ ungido de YHWH'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ él"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "⟨El⟩ sangre de ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "cabeza de ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "boca de ti"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ha respondido"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨en⟩ ti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "⟨fui⟩ ⟨el⟩ que hirió"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "⟨el⟩ ungido"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "⟨el⟩ ungido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,89 +85,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 655,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17663,
-    "prompt_tokens_details": {
-      "cached_tokens": 4884
-    },
-    "total_tokens": 18318
-  },
-  "translation": "Y dijo Davidd ⟨a⟩ él: '⟨El⟩ sangre de ti ⟨está⟩ sobre cabeza de ti, porque boca de ti ha respondido ⟨en⟩ ti, diciendo: Yo ⟨fui⟩ ⟨el⟩ que hirió ⟨a⟩ ⟨el⟩ ungido de YHWH'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ él"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "דמיך",
-      "english": "⟨El⟩ sangre de ti"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ראשך",
-      "english": "cabeza de ti"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "פיך",
-      "english": "boca de ti"
-    },
-    {
-      "surface": "ענה",
-      "english": "ha respondido"
-    },
-    {
-      "surface": "בך",
-      "english": "⟨en⟩ ti"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "אנכי",
-      "english": "Yo"
-    },
-    {
-      "surface": "מתתי",
-      "english": "⟨fui⟩ ⟨el⟩ que hirió"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "⟨el⟩ ungido"
-    },
-    {
-      "surface": "משיח",
-      "english": "⟨el⟩ ungido"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:39:33.842669350Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "ezra 8:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 8,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:18:31.229067059Z",
+  "translation": "y de los netinim, que Davidd y los príncipes ⟨dieron⟩ ⟨para⟩ el servicio de los levitas, doscientos veinte netinim; todos ellos ⟨fueron⟩ designados por nombre.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Y de"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "los netinim"
+    },
+    {
+      "surface": "שנתן",
+      "gloss": "que",
+      "marks": "David y los príncipes ⟨dieron⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "y los príncipes"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "⟨para⟩",
+      "marks": "el servicio"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de los levitas"
+    },
+    {
+      "surface": "נתינים",
+      "gloss": "netinim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "doscientos"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "veinte"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "todos ellos"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "⟨fueron⟩"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "designados por nombre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,78 +74,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 584,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45153,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 45737
-  },
-  "translation": "y de los netinim, que Davidd y los príncipes ⟨dieron⟩ ⟨para⟩ el servicio de los levitas, doscientos veinte netinim; todos ellos ⟨fueron⟩ designados por nombre.",
-  "tokens": [
-    {
-      "surface": "ומן",
-      "english": "Y de"
-    },
-    {
-      "surface": "הנתינים",
-      "english": "los netinim"
-    },
-    {
-      "surface": "שנתן",
-      "english": "que",
-      "marks": "David y los príncipes ⟨dieron⟩"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "והשרים",
-      "english": "y los príncipes"
-    },
-    {
-      "surface": "לעבדת",
-      "english": "⟨para⟩",
-      "marks": "el servicio"
-    },
-    {
-      "surface": "הלוים",
-      "english": "de los levitas"
-    },
-    {
-      "surface": "נתינים",
-      "english": "netinim"
-    },
-    {
-      "surface": "מאתים",
-      "english": "doscientos"
-    },
-    {
-      "surface": "ועשרים",
-      "english": "veinte"
-    },
-    {
-      "surface": "כלם",
-      "english": "todos ellos"
-    },
-    {
-      "surface": "נקבו",
-      "english": "⟨fueron⟩"
-    },
-    {
-      "surface": "בשמות",
-      "english": "designados por nombre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:18:31.229067059Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

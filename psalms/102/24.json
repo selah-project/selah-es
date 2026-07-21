@@ -1,47 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 102:24",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69715,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70124
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:47.021923436Z",
   "translation": "⟨He⟩ weakened ⟨the⟩ way ⟨by⟩ his strength; ⟨he⟩ shortened ⟨the⟩ days of me",
   "tokens": [
     {
       "surface": "ענה",
-      "english": "⟨He⟩ weakened",
+      "gloss": "⟨He⟩ weakened",
       "marks": "strength"
     },
     {
       "surface": "בדרך",
-      "english": "⟨the⟩ way ⟨by⟩",
+      "gloss": "⟨the⟩ way ⟨by⟩",
       "marks": "his strength"
     },
     {
       "surface": "כחו",
-      "english": "his strength"
+      "gloss": "his strength"
     },
     {
       "surface": "קצר",
-      "english": "⟨he⟩ shortened",
+      "gloss": "⟨he⟩ shortened",
       "marks": "days"
     },
     {
       "surface": "ימי",
-      "english": "⟨the⟩ days of me"
+      "gloss": "⟨the⟩ days of me"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:47.021923436Z",
-  "model": "glm-4.5"
+  ]
 }

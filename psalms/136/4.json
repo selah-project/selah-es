@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 136:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 516,
-    "prompt_tokens": 69954,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70470
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:54.681882238Z",
   "translation": "Al que hace grandes maravillas ⟨por⟩ sí solo: porque para siempre ⟨es⟩ su Jésed.",
   "tokens": [
     {
       "surface": "לעשה",
-      "english": "Al que hace"
+      "gloss": "Al que hace"
     },
     {
       "surface": "נפלאות",
-      "english": "grandes maravillas"
+      "gloss": "grandes maravillas"
     },
     {
       "surface": "גדלות",
-      "english": "⟨por⟩ sí solo"
+      "gloss": "⟨por⟩ sí solo"
     },
     {
       "surface": "לבדו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:54.681882238Z",
-  "model": "glm-4.5"
+  ]
 }

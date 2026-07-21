@@ -1,31 +1,22 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 16:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 751,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59989,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60740
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:40:33.388937928Z",
   "translation": "⟨How much better⟩ to get Jojmá than gold! and ⟨to⟩ get Biná ⟨is⟩ rather to be chosen than silver!",
   "tokens": [
     {
       "surface": "קנה",
-      "english": "To get",
+      "gloss": "To get",
       "notes": null
     },
     {
       "surface": "חכמה",
-      "english": "Jojmá",
+      "gloss": "Jojmá",
       "notes": {
         "kind": "substitution",
         "subject": "Jojmá",
@@ -34,7 +25,7 @@
     },
     {
       "surface": "מה",
-      "english": "⟨How much better⟩",
+      "gloss": "⟨How much better⟩",
       "notes": {
         "kind": "idiom",
         "subject": "מה",
@@ -43,7 +34,7 @@
     },
     {
       "surface": "טוב",
-      "english": "than gold!",
+      "gloss": "than gold!",
       "notes": {
         "kind": "idiom",
         "subject": "טוב",
@@ -52,12 +43,12 @@
     },
     {
       "surface": "מחרוץ",
-      "english": "gold",
+      "gloss": "gold",
       "notes": null
     },
     {
       "surface": "וקנות",
-      "english": "and ⟨to⟩ get",
+      "gloss": "and ⟨to⟩ get",
       "notes": {
         "kind": "addition",
         "subject": "to",
@@ -66,7 +57,7 @@
     },
     {
       "surface": "בינה",
-      "english": "Biná",
+      "gloss": "Biná",
       "notes": {
         "kind": "substitution",
         "subject": "Biná",
@@ -75,7 +66,7 @@
     },
     {
       "surface": "נבחר",
-      "english": "⟨is⟩ rather to be chosen",
+      "gloss": "⟨is⟩ rather to be chosen",
       "notes": {
         "kind": "addition",
         "subject": "is",
@@ -84,10 +75,8 @@
     },
     {
       "surface": "מכסף",
-      "english": "than silver",
+      "gloss": "than silver",
       "notes": null
     }
-  ],
-  "timestamp": "2026-06-10T01:40:33.388937928Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 11:18",
   "book": "genesis",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 294,
-    "prompt_tokens": 28380,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28674
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:55:31.121215890Z",
   "translation": "Y vivió Peleg treinta años y engendró ⟨את⟩ a Reu",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "Y vivió"
+      "gloss": "Y vivió"
     },
     {
       "surface": "פלג",
-      "english": "Peleg"
+      "gloss": "Peleg"
     },
     {
       "surface": "שלשים",
-      "english": "treinta"
+      "gloss": "treinta"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "ויולד",
-      "english": "y engendró"
+      "gloss": "y engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Reu"
     },
     {
       "surface": "רעו",
-      "english": "Reu"
+      "gloss": "Reu"
     }
-  ],
-  "timestamp": "2026-07-16T20:55:31.121215890Z",
-  "model": "glm-4.5"
+  ]
 }

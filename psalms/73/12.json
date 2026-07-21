@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 73:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69868,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70357
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:32.293477783Z",
   "translation": "¡Mira! ⟨éstos⟩ ⟨son⟩ ⟨los⟩ malvados y ⟨los⟩ que ⟨están⟩ en ⟨el⟩ mundo ⟨de⟩ siempre, ⟨han⟩ enriquecido ⟨su⟩ poder",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "¡Mira!"
+      "gloss": "¡Mira!"
     },
     {
       "surface": "אלה",
-      "english": "⟨éstos⟩",
+      "gloss": "⟨éstos⟩",
       "marks": "malvados"
     },
     {
       "surface": "רשעים",
-      "english": "⟨los⟩ malvados"
+      "gloss": "⟨los⟩ malvados"
     },
     {
       "surface": "ושלוי",
-      "english": "y ⟨los⟩ que ⟨están⟩"
+      "gloss": "y ⟨los⟩ que ⟨están⟩"
     },
     {
       "surface": "עולם",
-      "english": "en ⟨el⟩ mundo ⟨de⟩ siempre"
+      "gloss": "en ⟨el⟩ mundo ⟨de⟩ siempre"
     },
     {
       "surface": "השגו",
-      "english": "⟨han⟩ enriquecido"
+      "gloss": "⟨han⟩ enriquecido"
     },
     {
       "surface": "חיל",
-      "english": "⟨su⟩ poder"
+      "gloss": "⟨su⟩ poder"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:32.293477783Z",
-  "model": "glm-4.5"
+  ]
 }

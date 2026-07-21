@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 45:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69849,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70188
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:01.548331922Z",
   "translation": "y ⟨la⟩ hija de Tiro con ⟨un⟩ regalo ⟨el⟩ rostro tuyo ⟨los⟩ ricos ⟨del⟩ pueblo suplicarán",
   "tokens": [
     {
       "surface": "ובת",
-      "english": "Y ⟨la⟩ hija"
+      "gloss": "Y ⟨la⟩ hija"
     },
     {
       "surface": "צר",
-      "english": "de Tiro"
+      "gloss": "de Tiro"
     },
     {
       "surface": "במנחה",
-      "english": "con ⟨un⟩ regalo"
+      "gloss": "con ⟨un⟩ regalo"
     },
     {
       "surface": "פניך",
-      "english": "⟨el⟩ rostro tuyo",
+      "gloss": "⟨el⟩ rostro tuyo",
       "marks": "tuyo"
     },
     {
       "surface": "יחלו",
-      "english": "suplicarán"
+      "gloss": "suplicarán"
     },
     {
       "surface": "עשירי",
-      "english": "⟨los⟩ ricos"
+      "gloss": "⟨los⟩ ricos"
     },
     {
       "surface": "עם",
-      "english": "⟨del⟩ pueblo"
+      "gloss": "⟨del⟩ pueblo"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:01.548331922Z",
-  "model": "glm-4.5"
+  ]
 }

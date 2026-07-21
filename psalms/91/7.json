@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 91:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69999,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70445
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:45:03.853466191Z",
   "translation": "Un millar caerá ⟨a⟩ ⟨tu⟩ lado, y una miríada ⟨a⟩ ⟨tu⟩ derecha; ⟨a⟩ ti ⟨no⟩ ⟨se acercará⟩",
   "tokens": [
     {
       "surface": "יפל",
-      "english": "Caerá"
+      "gloss": "Caerá"
     },
     {
       "surface": "מצדך",
-      "english": "⟨a⟩ ⟨tu⟩ lado",
+      "gloss": "⟨a⟩ ⟨tu⟩ lado",
       "marks": "tu lado"
     },
     {
       "surface": "אלף",
-      "english": "un millar"
+      "gloss": "un millar"
     },
     {
       "surface": "ורבבה",
-      "english": "y una miríada"
+      "gloss": "y una miríada"
     },
     {
       "surface": "מימינך",
-      "english": "⟨a⟩ ⟨tu⟩ derecha",
+      "gloss": "⟨a⟩ ⟨tu⟩ derecha",
       "marks": "tu derecha"
     },
     {
       "surface": "אליך",
-      "english": "⟨a⟩ ti",
+      "gloss": "⟨a⟩ ti",
       "marks": "ti"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "יגש",
-      "english": "⟨se acercará⟩"
+      "gloss": "⟨se acercará⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:45:03.853466191Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 118:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 69875,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70249
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:32.206018753Z",
   "translation": "Diga ahora Yisrael: ⟨que⟩ para siempre ⟨es⟩ su Jésed.",
   "tokens": [
     {
       "surface": "יאמר",
-      "english": "Diga"
+      "gloss": "Diga"
     },
     {
       "surface": "נא",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כי",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:32.206018753Z",
-  "model": "glm-4.5"
+  ]
 }

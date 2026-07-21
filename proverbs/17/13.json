@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "proverbs 17:13",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59865,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60260
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:41:31.558010314Z",
   "translation": "El que ⟨devuelve⟩ mal ⟨por⟩ bien, ⟨el⟩ mal no ⟨se apartará⟩ de su casa",
   "tokens": [
     {
       "surface": "משיב",
-      "english": "El que ⟨devuelve⟩"
+      "gloss": "El que ⟨devuelve⟩"
     },
     {
       "surface": "רעה",
-      "english": "mal"
+      "gloss": "mal"
     },
     {
       "surface": "תחת",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "טובה",
-      "english": "bien"
+      "gloss": "bien"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תמיש",
-      "english": "⟨se apartará⟩"
+      "gloss": "⟨se apartará⟩"
     },
     {
       "surface": "רעה",
-      "english": "mal"
+      "gloss": "mal"
     },
     {
       "surface": "מביתו",
-      "english": "de su casa"
+      "gloss": "de su casa"
     }
-  ],
-  "timestamp": "2026-06-10T01:41:31.558010314Z",
-  "model": "glm-4.5"
+  ]
 }

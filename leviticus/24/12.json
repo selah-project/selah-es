@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 12,
   "ref": "leviticus 24:12",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24348,
-    "prompt_tokens_details": {
-      "cached_tokens": 23360
-    },
-    "total_tokens": 24855
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:04:42.345492712Z",
   "translation": "Y lo pusieron en custodia, para declararles ⟨sobre ello⟩ por boca de YHWH.",
   "tokens": [
     {
       "surface": "וַ\/יַּנִּיחֻ֖\/הוּ",
-      "english": "Y lo pusieron"
+      "gloss": "Y lo pusieron"
     },
     {
       "surface": "בַּ\/מִּשְׁמָ֑ר",
-      "english": "en custodia"
+      "gloss": "en custodia"
     },
     {
       "surface": "לִ\/פְרֹ֥שׁ",
-      "english": "para declararles"
+      "gloss": "para declararles"
     },
     {
       "surface": "לָ\/הֶ֖ם",
-      "english": "⟨sobre ello⟩"
+      "gloss": "⟨sobre ello⟩"
     },
     {
       "surface": "עַל",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "פִּ֥י",
-      "english": "boca de"
+      "gloss": "boca de"
     },
     {
       "surface": "יְהוָֽה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-13T03:04:42.345492712Z",
-  "model": "glm-5.1"
+  ]
 }

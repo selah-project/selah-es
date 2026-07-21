@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 20:4",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 391,
-    "prompt_tokens": 59910,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60301
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:20:53.800080033Z",
   "translation": "A causa del frío el perezoso no arará; ⟨él⟩ mendigará en la cosecha y no habrá nada.",
   "tokens": [
     {
       "surface": "מחרף",
-      "english": "A causa del frío"
+      "gloss": "A causa del frío"
     },
     {
       "surface": "עצל",
-      "english": "el perezoso"
+      "gloss": "el perezoso"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יחרש",
-      "english": "arará"
+      "gloss": "arará"
     },
     {
       "surface": "ישאל",
-      "english": "⟨él⟩ mendigará"
+      "gloss": "⟨él⟩ mendigará"
     },
     {
       "surface": "בקציר",
-      "english": "en la cosecha"
+      "gloss": "en la cosecha"
     },
     {
       "surface": "ואין",
-      "english": "y no habrá nada"
+      "gloss": "y no habrá nada"
     }
-  ],
-  "timestamp": "2026-07-16T23:20:53.800080033Z",
-  "model": "glm-4.5"
+  ]
 }

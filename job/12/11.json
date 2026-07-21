@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 12:11",
   "book": "job",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26995,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27554
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:52.738989449Z",
   "translation": "¿⟨acaso⟩ ⟨no⟩ ⟨es⟩ ⟨la⟩ oreja ⟨la que⟩ prueba ⟨las⟩ palabras y ⟨el⟩ paladar ⟨que⟩ gusta ⟨de⟩ ⟨el⟩ alimento para él?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "¿⟨Acaso⟩ ⟨no⟩"
+      "gloss": "¿⟨Acaso⟩ ⟨no⟩"
     },
     {
       "surface": "אזן",
-      "english": "⟨la⟩ oreja"
+      "gloss": "⟨la⟩ oreja"
     },
     {
       "surface": "מלין",
-      "english": "⟨las⟩ palabras"
+      "gloss": "⟨las⟩ palabras"
     },
     {
       "surface": "תבחן",
-      "english": "⟨la que⟩ prueba"
+      "gloss": "⟨la que⟩ prueba"
     },
     {
       "surface": "וחך",
-      "english": "y ⟨el⟩ paladar"
+      "gloss": "y ⟨el⟩ paladar"
     },
     {
       "surface": "אכל",
-      "english": "⟨el⟩ alimento"
+      "gloss": "⟨el⟩ alimento"
     },
     {
       "surface": "יטעם",
-      "english": "⟨que⟩ gusta"
+      "gloss": "⟨que⟩ gusta"
     },
     {
       "surface": "לו",
-      "english": "para él"
+      "gloss": "para él"
     }
-  ],
-  "timestamp": "2026-06-10T01:59:52.738989449Z",
-  "model": "glm-4.5"
+  ]
 }

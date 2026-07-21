@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 111:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 257,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69960,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70217
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:35.264688139Z",
   "translation": "Las obras de sus manos ⟨son⟩ verdad y juicio; todos sus mandamientos ⟨son⟩ fieles.",
   "tokens": [
     {
       "surface": "מעשי",
-      "english": "Las obras"
+      "gloss": "Las obras"
     },
     {
       "surface": "ידיו",
-      "english": "de sus manos"
+      "gloss": "de sus manos"
     },
     {
       "surface": "אמת",
-      "english": "verdad"
+      "gloss": "verdad"
     },
     {
       "surface": "ומשפט",
-      "english": "y juicio"
+      "gloss": "y juicio"
     },
     {
       "surface": "נאמנים",
-      "english": "fieles"
+      "gloss": "fieles"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "פקודיו",
-      "english": "sus mandamientos"
+      "gloss": "sus mandamientos"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:35.264688139Z",
-  "model": "glm-4.5"
+  ]
 }

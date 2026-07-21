@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 99:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 99,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70351,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70849
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:19.880701992Z",
   "translation": "Y ⟨el⟩ poder ⟨de⟩ un rey ama ⟨el⟩ juicio; tú has establecido rectitud; juicio y justicia en Yaakov tú has hecho.",
   "tokens": [
     {
       "surface": "ועז",
-      "english": "Y ⟨el⟩ poder ⟨de⟩"
+      "gloss": "Y ⟨el⟩ poder ⟨de⟩"
     },
     {
       "surface": "מלך",
-      "english": "un rey"
+      "gloss": "un rey"
     },
     {
       "surface": "משפט",
-      "english": "ama ⟨el⟩ juicio"
+      "gloss": "ama ⟨el⟩ juicio"
     },
     {
       "surface": "אהב",
-      "english": "ama"
+      "gloss": "ama"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "כוננת",
-      "english": "has establecido"
+      "gloss": "has establecido"
     },
     {
       "surface": "מישרים",
-      "english": "rectitud"
+      "gloss": "rectitud"
     },
     {
       "surface": "משפט",
-      "english": "juicio"
+      "gloss": "juicio"
     },
     {
       "surface": "וצדקה",
-      "english": "y justicia"
+      "gloss": "y justicia"
     },
     {
       "surface": "ביעקב",
-      "english": "en Yaakov"
+      "gloss": "en Yaakov"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "עשית",
-      "english": "has hecho"
+      "gloss": "has hecho"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:19.880701992Z",
-  "model": "glm-4.5"
+  ]
 }

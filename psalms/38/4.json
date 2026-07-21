@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 38:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 502,
-    "prompt_tokens": 70232,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70734
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:55.716868610Z",
   "translation": "No hay integridad ⟨en⟩ mi carne a causa de tu furia; no hay *Shalom* ⟨en⟩ mis huesos a causa de mi pecado.",
   "tokens": [
     {
       "surface": "אין",
-      "english": "No hay"
+      "gloss": "No hay"
     },
     {
       "surface": "מתם",
-      "english": "integridad"
+      "gloss": "integridad"
     },
     {
       "surface": "בבשרי",
-      "english": "⟨en⟩ mi carne"
+      "gloss": "⟨en⟩ mi carne"
     },
     {
       "surface": "מפני",
-      "english": "a causa de"
+      "gloss": "a causa de"
     },
     {
       "surface": "זעמך",
-      "english": "tu furia"
+      "gloss": "tu furia"
     },
     {
       "surface": "אין",
-      "english": "no hay"
+      "gloss": "no hay"
     },
     {
       "surface": "שלום",
-      "english": "*Shalom*"
+      "gloss": "*Shalom*"
     },
     {
       "surface": "בעצמי",
-      "english": "⟨en⟩ mis huesos"
+      "gloss": "⟨en⟩ mis huesos"
     },
     {
       "surface": "מפני",
-      "english": "a causa de"
+      "gloss": "a causa de"
     },
     {
       "surface": "חטאתי",
-      "english": "mi pecado"
+      "gloss": "mi pecado"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:55.716868610Z",
-  "model": "glm-4.5"
+  ]
 }

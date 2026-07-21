@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ecclesiastes 4:5",
   "book": "ecclesiastes",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 355,
-    "prompt_tokens": 24548,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24903
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:01:29.310678611Z",
   "translation": "El necio abraza ⟨את⟩ sus manos y come ⟨את⟩ su propia carne",
   "tokens": [
     {
       "surface": "הכסיל",
-      "english": "El necio"
+      "gloss": "El necio"
     },
     {
       "surface": "חבק",
-      "english": "abraza"
+      "gloss": "abraza"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus manos"
     },
     {
       "surface": "ידיו",
-      "english": "sus manos"
+      "gloss": "sus manos"
     },
     {
       "surface": "ואכל",
-      "english": "y come"
+      "gloss": "y come"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su propia carne"
     },
     {
       "surface": "בשרו",
-      "english": "su propia carne"
+      "gloss": "su propia carne"
     }
-  ],
-  "timestamp": "2026-07-16T20:01:29.310678611Z",
-  "model": "glm-4.5"
+  ]
 }

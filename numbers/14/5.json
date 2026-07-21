@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 14:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25282,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25801
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:50:14.591975999Z",
   "translation": "Y Moshé cayó ⟨y⟩ Aharón sobre ⟨el⟩ rostro de ellos, ⟨a⟩ la faz de toda ⟨la⟩ asamblea ⟨de la⟩ congregación de ⟨los⟩ hijos de Yisrael.",
   "tokens": [
     {
       "surface": "ויפל",
-      "english": "Y cayó"
+      "gloss": "Y cayó"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ואהרן",
-      "english": "⟨y⟩ Aharón"
+      "gloss": "⟨y⟩ Aharón"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פניהם",
-      "english": "⟨el⟩ rostro de ellos"
+      "gloss": "⟨el⟩ rostro de ellos"
     },
     {
       "surface": "לפני",
-      "english": "⟨a⟩ la faz"
+      "gloss": "⟨a⟩ la faz"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "קהל",
-      "english": "⟨la⟩ asamblea"
+      "gloss": "⟨la⟩ asamblea"
     },
     {
       "surface": "עדת",
-      "english": "⟨de la⟩ congregación"
+      "gloss": "⟨de la⟩ congregación"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-06-10T04:50:14.591975999Z",
-  "model": "glm-4.5"
+  ]
 }

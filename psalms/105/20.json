@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 105:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69800,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70163
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:51:35.255714246Z",
   "translation": "El rey envió y lo desató ⟨el⟩ soberano de ⟨los⟩ pueblos y lo libertó",
   "tokens": [
     {
       "surface": "שלח",
-      "english": "El rey envió"
+      "gloss": "El rey envió"
     },
     {
       "surface": "מלך",
-      "english": "rey"
+      "gloss": "rey"
     },
     {
       "surface": "ויתירהו",
-      "english": "y lo desató"
+      "gloss": "y lo desató"
     },
     {
       "surface": "משל",
-      "english": "⟨el⟩ soberano de",
+      "gloss": "⟨el⟩ soberano de",
       "marks": "de ⟨los⟩ pueblos"
     },
     {
       "surface": "עמים",
-      "english": "⟨los⟩ pueblos"
+      "gloss": "⟨los⟩ pueblos"
     },
     {
       "surface": "ויפתחהו",
-      "english": "y lo libertó"
+      "gloss": "y lo libertó"
     }
-  ],
-  "timestamp": "2026-06-09T23:51:35.255714246Z",
-  "model": "glm-4.5"
+  ]
 }

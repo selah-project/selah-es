@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "numbers 30:2",
   "book": "numbers",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 590,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25504,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 26094
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:04:09.884725208Z",
   "translation": "Y ⟨vayidaber⟩ Moshé ⟨el⟩ roshei hamatot livnei Yisrael ⟨leimor⟩: ⟨zeh⟩ hadavar ⟨asher⟩ tzivah YHWH",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Vayidaber"
+      "gloss": "Vayidaber"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "אל",
-      "english": "el"
+      "gloss": "el"
     },
     {
       "surface": "ראשי",
-      "english": "roshei"
+      "gloss": "roshei"
     },
     {
       "surface": "המטות",
-      "english": "hamatot"
+      "gloss": "hamatot"
     },
     {
       "surface": "לבני",
-      "english": "livnei"
+      "gloss": "livnei"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לאמר",
-      "english": "leimor"
+      "gloss": "leimor"
     },
     {
       "surface": "זה",
-      "english": "zeh"
+      "gloss": "zeh"
     },
     {
       "surface": "הדבר",
-      "english": "hadavar"
+      "gloss": "hadavar"
     },
     {
       "surface": "אשר",
-      "english": "asher"
+      "gloss": "asher"
     },
     {
       "surface": "צוה",
-      "english": "tzivah"
+      "gloss": "tzivah"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T05:04:09.884725208Z",
-  "model": "glm-4.5"
+  ]
 }

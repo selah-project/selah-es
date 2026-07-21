@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 44:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 363,
-    "prompt_tokens": 69976,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70339
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:05.254449147Z",
   "translation": "Vendes ⟨a⟩ tu pueblo por nada, y ⟨no⟩ aumentas ⟨tu⟩ riqueza por su precio",
   "tokens": [
     {
       "surface": "תמכר",
-      "english": "Vendes"
+      "gloss": "Vendes"
     },
     {
       "surface": "עמך",
-      "english": "⟨a⟩ tu pueblo"
+      "gloss": "⟨a⟩ tu pueblo"
     },
     {
       "surface": "בלא",
-      "english": "por nada"
+      "gloss": "por nada"
     },
     {
       "surface": "הון",
-      "english": "riqueza"
+      "gloss": "riqueza"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "רבית",
-      "english": "aumentas"
+      "gloss": "aumentas"
     },
     {
       "surface": "במחיריהם",
-      "english": "por su precio"
+      "gloss": "por su precio"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:05.254449147Z",
-  "model": "glm-4.5"
+  ]
 }

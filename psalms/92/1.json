@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 92:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69628,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70085
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:51.144675425Z",
   "translation": "Un mizmor, un shir ⟨para⟩ ⟨el⟩ día ⟨del⟩ Shabbat",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "Un mizmor",
+      "gloss": "Un mizmor",
       "marks": null
     },
     {
       "surface": "שיר",
-      "english": "un shir",
+      "gloss": "un shir",
       "marks": null
     },
     {
       "surface": "ליום",
-      "english": "⟨para⟩ ⟨el⟩ día",
+      "gloss": "⟨para⟩ ⟨el⟩ día",
       "marks": "día"
     },
     {
       "surface": "השבת",
-      "english": "⟨del⟩ Shabbat",
+      "gloss": "⟨del⟩ Shabbat",
       "marks": "Shabbat"
     }
-  ],
-  "timestamp": "2026-06-09T23:44:51.144675425Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "leviticus 26:2",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 653,
-    "prompt_tokens": 24611,
-    "prompt_tokens_details": {
-      "cached_tokens": 21248
-    },
-    "total_tokens": 25264
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:38:15.884534970Z",
   "translation": "⟨Vosotros⟩ guardaréis ⟨את⟩ mis shabbats y ⟨את⟩ mi miqdash reverenciaréis; yo ⟨soy⟩ YHWH.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mis shabbats"
     },
     {
       "surface": "שבתתי",
-      "english": "mis shabbats"
+      "gloss": "mis shabbats"
     },
     {
       "surface": "תשמרו",
-      "english": "guardaréis"
+      "gloss": "guardaréis"
     },
     {
       "surface": "ומקדשי",
-      "english": "y ⟨את⟩ mi miqdash"
+      "gloss": "y ⟨את⟩ mi miqdash"
     },
     {
       "surface": "תיראו",
-      "english": "reverenciaréis"
+      "gloss": "reverenciaréis"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-17T00:38:15.884534970Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 53:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 53,
-  "usage": {
-    "completion_tokens": 418,
-    "prompt_tokens": 26145,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26563
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:31:27.831089030Z",
   "translation": "¿Quién ⟨ha⟩ creído ⟨a⟩ nuestro oír, y ⟨el⟩ brazo de YHWH sobre quién ⟨se⟩ ⟨ha⟩ revelado?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "האמין",
-      "english": "⟨ha⟩ creído"
+      "gloss": "⟨ha⟩ creído"
     },
     {
       "surface": "לשמעתנו",
-      "english": "⟨a⟩ nuestro oír"
+      "gloss": "⟨a⟩ nuestro oír"
     },
     {
       "surface": "וזרוע",
-      "english": "y ⟨el⟩ brazo"
+      "gloss": "y ⟨el⟩ brazo"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מי",
-      "english": "quién"
+      "gloss": "quién"
     },
     {
       "surface": "נגלתה",
-      "english": "⟨se⟩ ⟨ha⟩ revelado"
+      "gloss": "⟨se⟩ ⟨ha⟩ revelado"
     }
-  ],
-  "timestamp": "2026-07-16T21:31:27.831089030Z",
-  "model": "glm-4.5"
+  ]
 }

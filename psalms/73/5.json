@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 73:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 406,
-    "prompt_tokens": 69943,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70349
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:31.674198424Z",
   "translation": "No están en la miseria de los mortales, ni con el ser humano son ⟨plagados⟩.",
   "tokens": [
     {
       "surface": "בעמל",
-      "english": "en la miseria"
+      "gloss": "en la miseria"
     },
     {
       "surface": "אנוש",
-      "english": "de los mortales"
+      "gloss": "de los mortales"
     },
     {
       "surface": "אינמו",
-      "english": "No están"
+      "gloss": "No están"
     },
     {
       "surface": "ועם",
-      "english": "ni con"
+      "gloss": "ni con"
     },
     {
       "surface": "אדם",
-      "english": "el ser humano"
+      "gloss": "el ser humano"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ינגעו",
-      "english": "son ⟨plagados⟩"
+      "gloss": "son ⟨plagados⟩"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:31.674198424Z",
-  "model": "glm-4.5"
+  ]
 }

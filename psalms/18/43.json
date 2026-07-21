@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 43,
   "ref": "psalms 18:43",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70041,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70421
-  },
+  "verse": 43,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:54.158478777Z",
   "translation": "y aplastarélos como polvo ⟨al⟩ viento ⟨como⟩ lodo de las calles los derramaré",
   "tokens": [
     {
       "surface": "ואשחקם",
-      "english": "Y aplastarélos"
+      "gloss": "Y aplastarélos"
     },
     {
       "surface": "כעפר",
-      "english": "como polvo"
+      "gloss": "como polvo"
     },
     {
       "surface": "על",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "פני",
-      "english": "viento",
+      "gloss": "viento",
       "marks": "al viento"
     },
     {
       "surface": "רוח",
-      "english": "viento"
+      "gloss": "viento"
     },
     {
       "surface": "כטיט",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "חוצות",
-      "english": "lodo de las calles"
+      "gloss": "lodo de las calles"
     },
     {
       "surface": "אריקם",
-      "english": "los derramaré"
+      "gloss": "los derramaré"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:54.158478777Z",
-  "model": "glm-4.5"
+  ]
 }

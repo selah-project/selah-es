@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 18:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69855,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70230
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:02.188508996Z",
   "translation": "Cuerdas de ⟨el⟩ Sheol ⟨את⟩ me rodearon, corrientes de Belial ⟨את⟩ me sobrecogieron",
   "tokens": [
     {
       "surface": "אפפוני",
-      "english": "Me rodearon"
+      "gloss": "Me rodearon"
     },
     {
       "surface": "חבלי",
-      "english": "Cuerdas de"
+      "gloss": "Cuerdas de"
     },
     {
       "surface": "מות",
-      "english": "⟨el⟩ Sheol"
+      "gloss": "⟨el⟩ Sheol"
     },
     {
       "surface": "ונחלי",
-      "english": "corrientes de"
+      "gloss": "corrientes de"
     },
     {
       "surface": "בליעל",
-      "english": "Belial"
+      "gloss": "Belial"
     },
     {
       "surface": "יבעתוני",
-      "english": "me sobrecogieron"
+      "gloss": "me sobrecogieron"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:02.188508996Z",
-  "model": "glm-4.5"
+  ]
 }

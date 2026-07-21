@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-chronicles 5:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 5,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:31:07.594384908Z",
+  "translation": "Hijos de Reubén, el primogénito ⟨de⟩ Yisrael: Janoje, Palú, Jezrón y Carmi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Hijos ⟨de⟩"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubén"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "el primogénito"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Janoje"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "Palú"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Jezrón"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "y Carmi"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 286,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56815,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57101
-  },
-  "translation": "Hijos de Reubén, el primogénito ⟨de⟩ Yisrael: Janoje, Palú, Jezrón y Carmi.",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Hijos ⟨de⟩"
-    },
-    {
-      "surface": "ראובן",
-      "english": "Reubén"
-    },
-    {
-      "surface": "בכור",
-      "english": "el primogénito"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "חנוך",
-      "english": "Janoje"
-    },
-    {
-      "surface": "ופלוא",
-      "english": "Palú"
-    },
-    {
-      "surface": "חצרון",
-      "english": "Jezrón"
-    },
-    {
-      "surface": "וכרמי",
-      "english": "y Carmi"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:31:07.594384908Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

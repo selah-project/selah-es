@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 22:16",
   "book": "job",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 548,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27019,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27567
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:44.433121990Z",
   "translation": "que ⟨fueron⟩ arrancados antes ⟨de⟩ ⟨el⟩ tiempo ⟨determinado⟩, ⟨un⟩ río ⟨es⟩ derramado ⟨sobre⟩ ⟨el⟩ fundamento ⟨de⟩ ellos.",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "קמטו",
-      "english": "⟨fueron⟩ arrancados"
+      "gloss": "⟨fueron⟩ arrancados"
     },
     {
       "surface": "ולא",
-      "english": "antes ⟨de⟩"
+      "gloss": "antes ⟨de⟩"
     },
     {
       "surface": "עת",
-      "english": "⟨el⟩ tiempo ⟨determinado⟩"
+      "gloss": "⟨el⟩ tiempo ⟨determinado⟩"
     },
     {
       "surface": "נהר",
-      "english": "⟨un⟩ río"
+      "gloss": "⟨un⟩ río"
     },
     {
       "surface": "יוצק",
-      "english": "⟨es⟩ derramado ⟨sobre⟩"
+      "gloss": "⟨es⟩ derramado ⟨sobre⟩"
     },
     {
       "surface": "יסודם",
-      "english": "⟨el⟩ fundamento ⟨de⟩ ellos"
+      "gloss": "⟨el⟩ fundamento ⟨de⟩ ellos"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:44.433121990Z",
-  "model": "glm-4.5"
+  ]
 }

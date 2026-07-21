@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 122:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 306,
-    "prompt_tokens": 69878,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70184
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:41.289191201Z",
   "translation": "Nuestros pies ⟨están⟩ de pie ⟨en⟩ tus puertas, Yerushalayim.",
   "tokens": [
     {
       "surface": "עמדות",
-      "english": "de pie"
+      "gloss": "de pie"
     },
     {
       "surface": "היו",
-      "english": "⟨están⟩"
+      "gloss": "⟨están⟩"
     },
     {
       "surface": "רגלינו",
-      "english": "Nuestros pies"
+      "gloss": "Nuestros pies"
     },
     {
       "surface": "בשעריך",
-      "english": "⟨en⟩ tus puertas"
+      "gloss": "⟨en⟩ tus puertas"
     },
     {
       "surface": "ירושלם",
-      "english": "Yerushalayim"
+      "gloss": "Yerushalayim"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:41.289191201Z",
-  "model": "glm-4.5"
+  ]
 }

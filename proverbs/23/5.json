@@ -1,82 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 23:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 813,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60256,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 61069
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:45:46.414901241Z",
   "translation": "¿⟨tus⟩ ojos ⟨se⟩ fijarán en ⟨ello⟩, y ⟨no está⟩? Porque ⟨que⟩ ⟨haga⟩, hará para ⟨sí⟩ alas, como ⟨el⟩ águila ⟨y⟩ ⟨volará⟩ hacia ⟨el⟩ cielo",
   "tokens": [
     {
       "surface": "התעוף",
-      "english": "¿⟨Tus⟩ ojos ⟨se⟩ fijarán",
+      "gloss": "¿⟨Tus⟩ ojos ⟨se⟩ fijarán",
       "marks": "tus ojos"
     },
     {
       "surface": "עיניך",
-      "english": "⟨tus⟩ ojos"
+      "gloss": "⟨tus⟩ ojos"
     },
     {
       "surface": "בו",
-      "english": "en ⟨ello⟩",
+      "gloss": "en ⟨ello⟩",
       "marks": "ello"
     },
     {
       "surface": "ואיננו",
-      "english": "y ⟨no está⟩",
+      "gloss": "y ⟨no está⟩",
       "rationale": "negación de existencia"
     },
     {
       "surface": "כי",
-      "english": "Porque",
+      "gloss": "Porque",
       "rationale": "consecuencia causal"
     },
     {
       "surface": "עשה",
-      "english": "⟨que⟩ ⟨hace⟩",
+      "gloss": "⟨que⟩ ⟨hace⟩",
       "rationale": "sujeto implícito - riqueza"
     },
     {
       "surface": "יעשה",
-      "english": "hará",
+      "gloss": "hará",
       "rationale": "acción futura - creación de alas"
     },
     {
       "surface": "לו",
-      "english": "para ⟨sí⟩",
+      "gloss": "para ⟨sí⟩",
       "rationale": "reflexivo - para sí mismo"
     },
     {
       "surface": "כנפים",
-      "english": "alas"
+      "gloss": "alas"
     },
     {
       "surface": "כנשר",
-      "english": "como ⟨el⟩ águila",
+      "gloss": "como ⟨el⟩ águila",
       "rationale": "comparativo"
     },
     {
       "surface": "ועיף",
-      "english": "⟨y⟩ ⟨volará⟩",
+      "gloss": "⟨y⟩ ⟨volará⟩",
       "rationale": "acción coordinada de vuelo"
     },
     {
       "surface": "השמים",
-      "english": "hacia ⟨el⟩ cielo",
+      "gloss": "hacia ⟨el⟩ cielo",
       "rationale": "dirección - hacia arriba"
     }
-  ],
-  "timestamp": "2026-06-10T01:45:46.414901241Z",
-  "model": "glm-4.5"
+  ]
 }

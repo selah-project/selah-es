@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "jeremiah 51:42",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24352,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24762
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:47:19.534365636Z",
   "translation": "Ha subido ⟨el⟩ mar sobre Babel; ⟨ella⟩ está cubierta ⟨con⟩ la multitud de sus olas.",
   "tokens": [
     {
       "surface": "עלה",
-      "english": "Ha subido"
+      "gloss": "Ha subido"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "בבל",
-      "english": "Babel"
+      "gloss": "Babel"
     },
     {
       "surface": "הים",
-      "english": "⟨el⟩ mar"
+      "gloss": "⟨el⟩ mar"
     },
     {
       "surface": "בהמון",
-      "english": "⟨con⟩ la multitud"
+      "gloss": "⟨con⟩ la multitud"
     },
     {
       "surface": "גליו",
-      "english": "de sus olas"
+      "gloss": "de sus olas"
     },
     {
       "surface": "נכסתה",
-      "english": "⟨ella⟩ está cubierta"
+      "gloss": "⟨ella⟩ está cubierta"
     }
-  ],
-  "timestamp": "2026-06-10T03:47:19.534365636Z",
-  "model": "glm-4.5"
+  ]
 }

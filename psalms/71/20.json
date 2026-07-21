@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 71:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70375,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70999
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:54.941944202Z",
   "translation": "que ⟨has⟩ mostrado ⟨a⟩ nosotros muchas angustias y males — tú ⟨te⟩ volverás ⟨a⟩ revivir ⟨a⟩ nosotros y de ⟨las⟩ profundidades ⟨de la⟩ tierra ⟨te⟩ volverás ⟨a⟩ hacerme ascender",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "הראיתנו",
-      "english": "⟨has⟩ mostrado ⟨a⟩ nosotros",
+      "gloss": "⟨has⟩ mostrado ⟨a⟩ nosotros",
       "marks": "angustias y males"
     },
     {
       "surface": "צרות",
-      "english": "angustias"
+      "gloss": "angustias"
     },
     {
       "surface": "רבות",
-      "english": "muchas"
+      "gloss": "muchas"
     },
     {
       "surface": "ורעות",
-      "english": "y males"
+      "gloss": "y males"
     },
     {
       "surface": "תשוב",
-      "english": "⟨te⟩ volverás"
+      "gloss": "⟨te⟩ volverás"
     },
     {
       "surface": "תחיינו",
-      "english": "⟨a⟩ revivir ⟨a⟩ nosotros"
+      "gloss": "⟨a⟩ revivir ⟨a⟩ nosotros"
     },
     {
       "surface": "ומתהמות",
-      "english": "y de ⟨las⟩ profundidades"
+      "gloss": "y de ⟨las⟩ profundidades"
     },
     {
       "surface": "הארץ",
-      "english": "⟨de la⟩ tierra"
+      "gloss": "⟨de la⟩ tierra"
     },
     {
       "surface": "תשוב",
-      "english": "⟨te⟩ volverás"
+      "gloss": "⟨te⟩ volverás"
     },
     {
       "surface": "תעלני",
-      "english": "⟨a⟩ hacerme ascender"
+      "gloss": "⟨a⟩ hacerme ascender"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:54.941944202Z",
-  "model": "glm-4.5"
+  ]
 }

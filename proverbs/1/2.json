@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 1:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "proverbs",
+  "chapter": 1,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:25:32.742357239Z",
+  "translation": "Para ⟨saber⟩ ⟨la⟩ Jojmá ⟨y⟩ ⟨el⟩ instrucción, para entender ⟨los⟩ dichos ⟨de⟩ ⟨la⟩ inteligencia ⟨y⟩ ⟨la⟩ comprensión",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Para ⟨saber⟩",
+      "marks": "sabiduría"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "⟨la⟩ Jojmá"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "⟨y⟩ ⟨el⟩ instrucción"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "para entender"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "⟨los⟩ dichos"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "⟨de⟩ ⟨la⟩ inteligencia ⟨y⟩ ⟨la⟩ comprensión"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabiduría",
@@ -13,49 +45,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 610,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52286,
-    "prompt_tokens_details": {
-      "cached_tokens": 51548
-    },
-    "total_tokens": 52896
-  },
-  "translation": "Para ⟨saber⟩ ⟨la⟩ Jojmá ⟨y⟩ ⟨el⟩ instrucción, para entender ⟨los⟩ dichos ⟨de⟩ ⟨la⟩ inteligencia ⟨y⟩ ⟨la⟩ comprensión",
-  "tokens": [
-    {
-      "surface": "לדעת",
-      "english": "Para ⟨saber⟩",
-      "marks": "sabiduría"
-    },
-    {
-      "surface": "חכמה",
-      "english": "⟨la⟩ Jojmá"
-    },
-    {
-      "surface": "ומוסר",
-      "english": "⟨y⟩ ⟨el⟩ instrucción"
-    },
-    {
-      "surface": "להבין",
-      "english": "para entender"
-    },
-    {
-      "surface": "אמרי",
-      "english": "⟨los⟩ dichos"
-    },
-    {
-      "surface": "בינה",
-      "english": "⟨de⟩ ⟨la⟩ inteligencia ⟨y⟩ ⟨la⟩ comprensión"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:25:32.742357239Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "2-chronicles 35:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 35,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:40:41.443476956Z",
+  "translation": "Y sus hechos, ⟨los⟩ primeros y ⟨los⟩ postreros, he aquí que están escritos en Séfer de ⟨los⟩ reyes de Yisrael y de Judá.",
+  "tokens": [
+    {
+      "surface": "ודבריו",
+      "gloss": "Y sus hechos"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "⟨los⟩ primeros"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "y ⟨los⟩ postreros"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "he aquí que"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "están escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "en"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de ⟨los⟩ reyes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "y de Judá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el libro",
@@ -20,64 +67,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57888,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58266
-  },
-  "translation": "Y sus hechos, ⟨los⟩ primeros y ⟨los⟩ postreros, he aquí que están escritos en Séfer de ⟨los⟩ reyes de Yisrael y de Judá.",
-  "tokens": [
-    {
-      "surface": "ודבריו",
-      "english": "Y sus hechos"
-    },
-    {
-      "surface": "הראשנים",
-      "english": "⟨los⟩ primeros"
-    },
-    {
-      "surface": "והאחרנים",
-      "english": "y ⟨los⟩ postreros"
-    },
-    {
-      "surface": "הנם",
-      "english": "he aquí que"
-    },
-    {
-      "surface": "כתובים",
-      "english": "están escritos"
-    },
-    {
-      "surface": "על",
-      "english": "en"
-    },
-    {
-      "surface": "ספר",
-      "english": "Séfer"
-    },
-    {
-      "surface": "מלכי",
-      "english": "de ⟨los⟩ reyes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "y de Judá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:40:41.443476956Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

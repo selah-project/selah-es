@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 51:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 70022,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70445
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:15.405353633Z",
   "translation": "Favóreceme, Elohim, según tu Jésed, según la multitud de tus compasiones borra mis transgresiones.",
   "tokens": [
     {
       "surface": "חנני",
-      "english": "Favóreceme"
+      "gloss": "Favóreceme"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "כחסדך",
-      "english": "según tu Jésed"
+      "gloss": "según tu Jésed"
     },
     {
       "surface": "כרב",
-      "english": "según la multitud"
+      "gloss": "según la multitud"
     },
     {
       "surface": "רחמיך",
-      "english": "de tus compasiones"
+      "gloss": "de tus compasiones"
     },
     {
       "surface": "מחה",
-      "english": "borra"
+      "gloss": "borra"
     },
     {
       "surface": "פשעי",
-      "english": "mis transgresiones"
+      "gloss": "mis transgresiones"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:15.405353633Z",
-  "model": "glm-4.5"
+  ]
 }

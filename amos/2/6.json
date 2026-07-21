@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "amos 2:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 2,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:01:20.950439110Z",
+  "translation": "Así dijo YHWH: Por tres rebeliones de Yisrael, y por cuatro, no ⟨volveré⟩ ⟨a⟩ ellas, porque vendieron ⟨al⟩ justo por plata y ⟨al⟩ necesitado por un par de sandalias.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "Por"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tres"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "rebeliones"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "y por"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "cuatro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "volveré"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "vendieron"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "por plata"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "justo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "y necesitado"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "por"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "sandalias"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,96 +92,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17083,
-    "prompt_tokens_details": {
-      "cached_tokens": 15066
-    },
-    "total_tokens": 17608
-  },
-  "translation": "Así dijo YHWH: Por tres rebeliones de Yisrael, y por cuatro, no ⟨volveré⟩ ⟨a⟩ ellas, porque vendieron ⟨al⟩ justo por plata y ⟨al⟩ necesitado por un par de sandalias.",
-  "tokens": [
-    {
-      "surface": "כה",
-      "english": "Así"
-    },
-    {
-      "surface": "אמר",
-      "english": "dijo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "על",
-      "english": "Por"
-    },
-    {
-      "surface": "שלשה",
-      "english": "tres"
-    },
-    {
-      "surface": "פשעי",
-      "english": "rebeliones"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ועל",
-      "english": "y por"
-    },
-    {
-      "surface": "ארבעה",
-      "english": "cuatro"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "אשיבנו",
-      "english": "volveré"
-    },
-    {
-      "surface": "על",
-      "english": "a"
-    },
-    {
-      "surface": "מכרם",
-      "english": "vendieron"
-    },
-    {
-      "surface": "בכסף",
-      "english": "por plata"
-    },
-    {
-      "surface": "צדיק",
-      "english": "justo"
-    },
-    {
-      "surface": "ואביון",
-      "english": "y necesitado"
-    },
-    {
-      "surface": "בעבור",
-      "english": "por"
-    },
-    {
-      "surface": "נעלים",
-      "english": "sandalias"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:01:20.950439110Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

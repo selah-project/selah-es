@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-kings 8:3",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 454,
-    "prompt_tokens": 69546,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 70000
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:19:31.014361881Z",
   "translation": "Y vinieron todos los ancianos de Yisrael, y los Kohanim levantaron ⟨את⟩ el Arón",
   "tokens": [
     {
       "surface": "ויבאו",
-      "english": "Y vinieron"
+      "gloss": "Y vinieron"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "זקני",
-      "english": "los ancianos"
+      "gloss": "los ancianos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "וישאו",
-      "english": "y los Kohanim levantaron"
+      "gloss": "y los Kohanim levantaron"
     },
     {
       "surface": "הכהנים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Arón"
     },
     {
       "surface": "הארון",
-      "english": "el Arón"
+      "gloss": "el Arón"
     }
-  ],
-  "timestamp": "2026-07-16T18:19:31.014361881Z",
-  "model": "glm-4.5"
+  ]
 }

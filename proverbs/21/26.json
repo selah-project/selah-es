@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "proverbs 21:26",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 512,
-    "prompt_tokens": 60016,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60528
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:21:04.850291584Z",
   "translation": "Todo el día codicia ⟨el⟩ codicioso, y ⟨el⟩ justo da y no se abstiene.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "היום",
-      "english": "el día"
+      "gloss": "el día"
     },
     {
       "surface": "התאוה",
-      "english": "codicia"
+      "gloss": "codicia"
     },
     {
       "surface": "תאוה",
-      "english": "⟨el⟩ codicioso"
+      "gloss": "⟨el⟩ codicioso"
     },
     {
       "surface": "וצדיק",
-      "english": "y ⟨el⟩ justo"
+      "gloss": "y ⟨el⟩ justo"
     },
     {
       "surface": "יתן",
-      "english": "da"
+      "gloss": "da"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יחשך",
-      "english": "se abstiene"
+      "gloss": "se abstiene"
     }
-  ],
-  "timestamp": "2026-07-16T23:21:04.850291584Z",
-  "model": "glm-4.5"
+  ]
 }

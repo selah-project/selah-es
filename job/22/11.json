@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 22:11",
   "book": "job",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27052,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27459
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:40.283730806Z",
   "translation": "O ⟨el⟩⟩ oscuridad, que ⟨tú⟩⟩ no ⟨puedas⟩⟩ ver, ⟨y⟩⟩ ⟨la⟩⟩ abundancia de aguas ⟨te⟩⟩ cubrirá.",
   "tokens": [
     {
       "surface": "או",
-      "english": "O"
+      "gloss": "O"
     },
     {
       "surface": "חשך",
-      "english": "⟨el⟩⟩ oscuridad"
+      "gloss": "⟨el⟩⟩ oscuridad"
     },
     {
       "surface": "לא",
-      "english": "que ⟨tú⟩⟩ no ⟨puedas⟩⟩"
+      "gloss": "que ⟨tú⟩⟩ no ⟨puedas⟩⟩"
     },
     {
       "surface": "תראה",
-      "english": "ver"
+      "gloss": "ver"
     },
     {
       "surface": "ושפעת",
-      "english": "⟨y⟩⟩ ⟨la⟩⟩ abundancia"
+      "gloss": "⟨y⟩⟩ ⟨la⟩⟩ abundancia"
     },
     {
       "surface": "מים",
-      "english": "de aguas"
+      "gloss": "de aguas"
     },
     {
       "surface": "תכסך",
-      "english": "⟨te⟩⟩ cubrirá"
+      "gloss": "⟨te⟩⟩ cubrirá"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:40.283730806Z",
-  "model": "glm-4.5"
+  ]
 }

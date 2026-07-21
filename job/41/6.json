@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 41:6",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27031,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27389
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:39.623018615Z",
   "translation": "Quien ⟨puede⟩ abrir ⟨las⟩ puertas ⟨את⟩ de su rostro; ⟨por⟩ ⟨todo⟩ ⟨alrededor⟩ ⟨de⟩ sus dientes ⟨esta⟩ ⟨el⟩ terror.",
   "tokens": [
     {
       "surface": "דלתי",
-      "english": "Puertas"
+      "gloss": "Puertas"
     },
     {
       "surface": "פניו",
-      "english": "⟨de⟩ su rostro",
+      "gloss": "⟨de⟩ su rostro",
       "marks": "⟨las⟩ puertas ⟨de⟩ su rostro"
     },
     {
       "surface": "מי",
-      "english": "Quien"
+      "gloss": "Quien"
     },
     {
       "surface": "פתח",
-      "english": "⟨puede⟩ abrir"
+      "gloss": "⟨puede⟩ abrir"
     },
     {
       "surface": "סביבות",
-      "english": "⟨por⟩ ⟨todo⟩ ⟨alrededor⟩"
+      "gloss": "⟨por⟩ ⟨todo⟩ ⟨alrededor⟩"
     },
     {
       "surface": "שניו",
-      "english": "⟨de⟩ sus dientes",
+      "gloss": "⟨de⟩ sus dientes",
       "marks": "⟨alrededor⟩ ⟨de⟩ sus dientes"
     },
     {
       "surface": "אימה",
-      "english": "⟨el⟩ terror"
+      "gloss": "⟨el⟩ terror"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:39.623018615Z",
-  "model": "glm-4.5"
+  ]
 }

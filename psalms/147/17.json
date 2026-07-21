@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 147:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69863,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70170
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:02.997684361Z",
   "translation": "He casts ⟨את⟩ his ice like morsels; who can stand before ⟨את⟩ his cold?",
   "tokens": [
     {
       "surface": "משליך",
-      "english": "He casts"
+      "gloss": "He casts"
     },
     {
       "surface": "קרחו",
-      "english": "ice",
+      "gloss": "ice",
       "marks": "his ice"
     },
     {
       "surface": "כפתים",
-      "english": "like morsels"
+      "gloss": "like morsels"
     },
     {
       "surface": "לפני",
-      "english": "before"
+      "gloss": "before"
     },
     {
       "surface": "קרתו",
-      "english": "cold",
+      "gloss": "cold",
       "marks": "his cold"
     },
     {
       "surface": "מי",
-      "english": "who"
+      "gloss": "who"
     },
     {
       "surface": "יעמד",
-      "english": "can stand"
+      "gloss": "can stand"
     }
-  ],
-  "timestamp": "2026-06-10T00:12:02.997684361Z",
-  "model": "glm-4.5"
+  ]
 }

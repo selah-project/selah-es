@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 145:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 462,
-    "prompt_tokens": 70241,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70703
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:45:41.191667677Z",
   "translation": "YHWH guarda ⟨a⟩ todos ⟨los que⟩ lo aman, ⟨y⟩ ⟨a⟩ todos ⟨los⟩ malvados ⟨Él⟩ ⟨los⟩ destruirá.",
   "tokens": [
     {
       "surface": "שומר",
-      "english": "guarda"
+      "gloss": "guarda"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "todos ⟨los que⟩ lo aman"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "אהביו",
-      "english": "⟨los que⟩ lo aman"
+      "gloss": "⟨los que⟩ lo aman"
     },
     {
       "surface": "ואת",
-      "english": "⟨y⟩ ⟨a⟩",
+      "gloss": "⟨y⟩ ⟨a⟩",
       "marks": "todos ⟨los⟩ malvados"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "הרשעים",
-      "english": "⟨los⟩ malvados"
+      "gloss": "⟨los⟩ malvados"
     },
     {
       "surface": "ישמיד",
-      "english": "⟨Él⟩ ⟨los⟩ destruirá"
+      "gloss": "⟨Él⟩ ⟨los⟩ destruirá"
     }
-  ],
-  "timestamp": "2026-07-16T23:45:41.191667677Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 34:7",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26884,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27261
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:43.805234490Z",
   "translation": "¿Quién ⟨es⟩ ⟨el⟩ varón ⟨como⟩ Iyov, que bebe ⟨el⟩ escarnio ⟨como⟩ ⟨el⟩ agua?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "Quién"
+      "gloss": "Quién"
     },
     {
       "surface": "גבר",
-      "english": "⟨el⟩ varón"
+      "gloss": "⟨el⟩ varón"
     },
     {
       "surface": "כאיוב",
-      "english": "⟨como⟩ Iyov"
+      "gloss": "⟨como⟩ Iyov"
     },
     {
       "surface": "ישתה",
-      "english": "que bebe"
+      "gloss": "que bebe"
     },
     {
       "surface": "לעג",
-      "english": "⟨el⟩ escarnio"
+      "gloss": "⟨el⟩ escarnio"
     },
     {
       "surface": "כמים",
-      "english": "⟨como⟩ ⟨el⟩ agua"
+      "gloss": "⟨como⟩ ⟨el⟩ agua"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:43.805234490Z",
-  "model": "glm-4.5"
+  ]
 }

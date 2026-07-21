@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 139:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 69815,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70180
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:08.923033953Z",
   "translation": "Con odio consumado los aborrecí; para mí, ⟨los⟩ enemigos se convirtieron.",
   "tokens": [
     {
       "surface": "תכלית",
-      "english": "Con odio consumado"
+      "gloss": "Con odio consumado"
     },
     {
       "surface": "שנאה",
-      "english": "los aborrecí"
+      "gloss": "los aborrecí"
     },
     {
       "surface": "שנאתים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לאויבים",
-      "english": "⟨los⟩ enemigos"
+      "gloss": "⟨los⟩ enemigos"
     },
     {
       "surface": "היו",
-      "english": "se convirtieron"
+      "gloss": "se convirtieron"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:08.923033953Z",
-  "model": "glm-4.5"
+  ]
 }

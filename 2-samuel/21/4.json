@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-samuel 21:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 21,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:38:15.043809201Z",
+  "translation": "Y los gibeonitas dijeron a David: No ⟨hay⟩ para nosotros plata ni oro con Shaúl ni con ⟨su⟩ casa, y no ⟨hay⟩ para nosotros hombre ⟨que⟩ matar en Israel. Y él dijo: ¿Qué ⟨es lo que⟩ decís ⟨que⟩ haré para vosotros?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Y dijeron"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a David"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "los gibeonitas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "No"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para nosotros"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ni oro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni con"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "su casa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "y no"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para nosotros"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hombre"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "que matar"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y él dijo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "¿Qué"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "decís"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "que"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "haré"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para vosotros"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -13,112 +108,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 653,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18077,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 18730
-  },
-  "translation": "Y los gibeonitas dijeron a David: No ⟨hay⟩ para nosotros plata ni oro con Shaúl ni con ⟨su⟩ casa, y no ⟨hay⟩ para nosotros hombre ⟨que⟩ matar en Israel. Y él dijo: ¿Qué ⟨es lo que⟩ decís ⟨que⟩ haré para vosotros?",
-  "tokens": [
-    {
-      "surface": "ויאמרו",
-      "english": "Y dijeron"
-    },
-    {
-      "surface": "לו",
-      "english": "a David"
-    },
-    {
-      "surface": "הגבענים",
-      "english": "los gibeonitas"
-    },
-    {
-      "surface": "אין",
-      "english": "No"
-    },
-    {
-      "surface": "לי",
-      "english": "para nosotros"
-    },
-    {
-      "surface": "כסף",
-      "english": "plata"
-    },
-    {
-      "surface": "וזהב",
-      "english": "ni oro"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "ועם",
-      "english": "ni con"
-    },
-    {
-      "surface": "ביתו",
-      "english": "su casa"
-    },
-    {
-      "surface": "ואין",
-      "english": "y no"
-    },
-    {
-      "surface": "לנו",
-      "english": "para nosotros"
-    },
-    {
-      "surface": "איש",
-      "english": "hombre"
-    },
-    {
-      "surface": "להמית",
-      "english": "que matar"
-    },
-    {
-      "surface": "בישראל",
-      "english": "en Israel"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y él dijo"
-    },
-    {
-      "surface": "מה",
-      "english": "¿Qué"
-    },
-    {
-      "surface": "אתם",
-      "english": "decís"
-    },
-    {
-      "surface": "אמרים",
-      "english": "que"
-    },
-    {
-      "surface": "אעשה",
-      "english": "haré"
-    },
-    {
-      "surface": "לכם",
-      "english": "para vosotros"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:38:15.043809201Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

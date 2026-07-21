@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 16:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 663,
-    "prompt_tokens": 26648,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27311
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:24:57.170366319Z",
   "translation": "Por tanto, aullará Moab por Moab, todo ⟨él⟩ aullará; por ⟨los⟩ pasteles ⟨de⟩ uvas de Kir-Jareseth ⟨en⟩⟨vuestra⟩ meditación: ciertamente ⟨están⟩ heridos.",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "Por tanto"
+      "gloss": "Por tanto"
     },
     {
       "surface": "ייליל",
-      "english": "aullará"
+      "gloss": "aullará"
     },
     {
       "surface": "מואב",
-      "english": "Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "למואב",
-      "english": "por Moab",
+      "gloss": "por Moab",
       "marks": "Moab"
     },
     {
       "surface": "כלה",
-      "english": "todo ⟨él⟩"
+      "gloss": "todo ⟨él⟩"
     },
     {
       "surface": "ייליל",
-      "english": "aullará"
+      "gloss": "aullará"
     },
     {
       "surface": "לאשישי",
-      "english": "por ⟨los⟩ pasteles ⟨de⟩ uvas",
+      "gloss": "por ⟨los⟩ pasteles ⟨de⟩ uvas",
       "marks": "pasteles ⟨de⟩ uvas de Kir-Jareseth"
     },
     {
       "surface": "קיר",
-      "english": "Kir-"
+      "gloss": "Kir-"
     },
     {
       "surface": "חרשת",
-      "english": "Jareseth"
+      "gloss": "Jareseth"
     },
     {
       "surface": "תהגו",
-      "english": "⟨en⟩⟨vuestra⟩ meditación"
+      "gloss": "⟨en⟩⟨vuestra⟩ meditación"
     },
     {
       "surface": "אך",
-      "english": "ciertamente"
+      "gloss": "ciertamente"
     },
     {
       "surface": "נכאים",
-      "english": "⟨están⟩ heridos"
+      "gloss": "⟨están⟩ heridos"
     }
-  ],
-  "timestamp": "2026-07-16T21:24:57.170366319Z",
-  "model": "glm-4.5"
+  ]
 }

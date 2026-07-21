@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "proverbs 15:28",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59916,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60404
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:39:52.907158151Z",
   "translation": "⟨El⟩ corazón ⟨del⟩ justo medita ⟨para⟩ responder, pero ⟨la⟩ boca ⟨de los⟩ impíos derrama ⟨cosas⟩ malas.",
   "tokens": [
     {
       "surface": "לב",
-      "english": "Corazón",
+      "gloss": "Corazón",
       "marks": null
     },
     {
       "surface": "צדיק",
-      "english": "justo",
+      "gloss": "justo",
       "marks": null
     },
     {
       "surface": "יהגה",
-      "english": "medita",
+      "gloss": "medita",
       "marks": null
     },
     {
       "surface": "לענות",
-      "english": "⟨para⟩ responder",
+      "gloss": "⟨para⟩ responder",
       "marks": "responder"
     },
     {
       "surface": "ופי",
-      "english": "pero ⟨la⟩ boca",
+      "gloss": "pero ⟨la⟩ boca",
       "marks": "boca"
     },
     {
       "surface": "רשעים",
-      "english": "⟨de los⟩ impíos",
+      "gloss": "⟨de los⟩ impíos",
       "marks": "impíos"
     },
     {
       "surface": "יביע",
-      "english": "derrama",
+      "gloss": "derrama",
       "marks": null
     },
     {
       "surface": "רעות",
-      "english": "⟨cosas⟩ malas",
+      "gloss": "⟨cosas⟩ malas",
       "marks": "malas"
     }
-  ],
-  "timestamp": "2026-06-10T01:39:52.907158151Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-kings 4:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 4,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:48:15.226706052Z",
+  "translation": "Ahimaaz ⟨está⟩ en Neftalí; también ⟨él⟩ tomó ⟨a⟩ Basemat, hija de Shlomó, ⟨como⟩ esposa:",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaaz"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "en Neftalí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "también"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨él⟩"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tomó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Basemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hija de"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomó"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨como⟩ esposa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Salomón",
@@ -13,65 +61,6 @@
       "hebrew": "שלמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62264,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62640
-  },
-  "translation": "Ahimaaz ⟨está⟩ en Neftalí; también ⟨él⟩ tomó ⟨a⟩ Basemat, hija de Shlomó, ⟨como⟩ esposa:",
-  "tokens": [
-    {
-      "surface": "אחימעץ",
-      "english": "Ahimaaz"
-    },
-    {
-      "surface": "בנפתלי",
-      "english": "en Neftalí"
-    },
-    {
-      "surface": "גם",
-      "english": "también"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨él⟩"
-    },
-    {
-      "surface": "לקח",
-      "english": "tomó"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Basemat"
-    },
-    {
-      "surface": "בשמת",
-      "english": "Basemat"
-    },
-    {
-      "surface": "בת",
-      "english": "hija de"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shlomó"
-    },
-    {
-      "surface": "לאשה",
-      "english": "⟨como⟩ esposa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:48:15.226706052Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

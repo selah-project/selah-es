@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "micah 5:13",
   "book": "micah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22679,
-    "prompt_tokens_details": {
-      "cached_tokens": 21745
-    },
-    "total_tokens": 23085
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:31:31.320595307Z",
   "translation": "Y arrancaré tus imágenes de Asera de en medio de ti y destruiré ⟨el⟩ ⟨murallo⟩",
   "tokens": [
     {
       "surface": "ונתשתי",
-      "english": "Y arrancaré"
+      "gloss": "Y arrancaré"
     },
     {
       "surface": "אשיריך",
-      "english": "tus imágenes de Asera"
+      "gloss": "tus imágenes de Asera"
     },
     {
       "surface": "מקרבך",
-      "english": "de en medio de ti"
+      "gloss": "de en medio de ti"
     },
     {
       "surface": "והשמדתי",
-      "english": "y destruiré"
+      "gloss": "y destruiré"
     },
     {
       "surface": "עריך",
-      "english": "⟨el⟩ ⟨murallo⟩"
+      "gloss": "⟨el⟩ ⟨murallo⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:31:31.320595307Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 88:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69778,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70231
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:30.229921842Z",
   "translation": "⟨Tú⟩ has puesto ⟨me⟩ en ⟨el⟩ hoyo más profundo, en lugares de tinieblas, en ⟨los⟩ abismos.",
   "tokens": [
     {
       "surface": "שתני",
-      "english": "Has puesto",
+      "gloss": "Has puesto",
       "marks": ""
     },
     {
       "surface": "בבור",
-      "english": "en ⟨el⟩ hoyo",
+      "gloss": "en ⟨el⟩ hoyo",
       "marks": "hoyo"
     },
     {
       "surface": "תחתיות",
-      "english": "más profundo",
+      "gloss": "más profundo",
       "marks": ""
     },
     {
       "surface": "במחשכים",
-      "english": "en lugares de tinieblas",
+      "gloss": "en lugares de tinieblas",
       "marks": "lugares de tinieblas"
     },
     {
       "surface": "במצלות",
-      "english": "en ⟨los⟩ abismos",
+      "gloss": "en ⟨los⟩ abismos",
       "marks": "abismos"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:30.229921842Z",
-  "model": "glm-4.5"
+  ]
 }

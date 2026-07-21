@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "psalms 89:50",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69919,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70350
-  },
+  "verse": 50,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:43:50.211744618Z",
   "translation": "¿Dónde ⟨están⟩ tus bondades ⟨de⟩ los primeros tiempos, oh Adonai, que juraste a David ⟨en⟩ tu fidelidad?",
   "tokens": [
     {
       "surface": "איה",
-      "english": "¿Dónde"
+      "gloss": "¿Dónde"
     },
     {
       "surface": "חסדיך",
-      "english": "tus bondades ⟨de⟩"
+      "gloss": "tus bondades ⟨de⟩"
     },
     {
       "surface": "הראשנים",
-      "english": "los primeros tiempos"
+      "gloss": "los primeros tiempos"
     },
     {
       "surface": "אדני",
-      "english": "oh Adonai"
+      "gloss": "oh Adonai"
     },
     {
       "surface": "נשבעת",
-      "english": "que juraste"
+      "gloss": "que juraste"
     },
     {
       "surface": "לדוד",
-      "english": "a David"
+      "gloss": "a David"
     },
     {
       "surface": "באמונתך",
-      "english": "⟨en⟩ tu fidelidad"
+      "gloss": "⟨en⟩ tu fidelidad"
     }
-  ],
-  "timestamp": "2026-06-09T23:43:50.211744618Z",
-  "model": "glm-4.5"
+  ]
 }

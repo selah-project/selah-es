@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 69:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69787,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70065
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:36.580610135Z",
   "translation": "Por el celo de tu casa ⟨he⟩ devorado ⟨me⟩; y ⟨los⟩ oprobios de los que te oprobian ⟨cayeron⟩ sobre mí",
   "tokens": [
     {
       "surface": "מוזר",
-      "english": "Por el celo"
+      "gloss": "Por el celo"
     },
     {
       "surface": "הייתי",
-      "english": "⟨he⟩ devorado",
+      "gloss": "⟨he⟩ devorado",
       "marks": "yo"
     },
     {
       "surface": "לאחי",
-      "english": "⟨me⟩"
+      "gloss": "⟨me⟩"
     },
     {
       "surface": "ונכרי",
-      "english": "y ⟨los⟩ oprobios"
+      "gloss": "y ⟨los⟩ oprobios"
     },
     {
       "surface": "לבני",
-      "english": "de los que te oprobian"
+      "gloss": "de los que te oprobian"
     },
     {
       "surface": "אמי",
-      "english": "⟨cayeron⟩ sobre mí"
+      "gloss": "⟨cayeron⟩ sobre mí"
     }
-  ],
-  "timestamp": "2026-06-09T23:31:36.580610135Z",
-  "model": "glm-4.5"
+  ]
 }

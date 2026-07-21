@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 24:3",
   "book": "job",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26966,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27270
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:06:05.644500749Z",
   "translation": "Llevan ⟨el⟩ asno ⟨de los⟩ huérfanos y ⟨el⟩ buey ⟨de la⟩ viuda ⟨como⟩ prenda",
   "tokens": [
     {
       "surface": "חמור",
-      "english": "Asno"
+      "gloss": "Asno"
     },
     {
       "surface": "יתומים",
-      "english": "huérfanos"
+      "gloss": "huérfanos"
     },
     {
       "surface": "ינהגו",
-      "english": "Llevan"
+      "gloss": "Llevan"
     },
     {
       "surface": "יחבלו",
-      "english": "prenda"
+      "gloss": "prenda"
     },
     {
       "surface": "שור",
-      "english": "buey"
+      "gloss": "buey"
     },
     {
       "surface": "אלמנה",
-      "english": "viuda"
+      "gloss": "viuda"
     }
-  ],
-  "timestamp": "2026-06-10T02:06:05.644500749Z",
-  "model": "glm-4.5"
+  ]
 }

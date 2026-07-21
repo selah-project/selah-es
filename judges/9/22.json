@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "judges 9:22",
   "book": "judges",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 230,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23000,
-    "prompt_tokens_details": {
-      "cached_tokens": 22160
-    },
-    "total_tokens": 23230
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:55:03.976058206Z",
   "translation": "Y Avimélec reinó ⟨sobre⟩ Yisrael tres años",
   "tokens": [
     {
       "surface": "וישר",
-      "english": "Y"
+      "gloss": "Y"
     },
     {
       "surface": "אבימלך",
-      "english": "Avimélec"
+      "gloss": "Avimélec"
     },
     {
       "surface": "על",
-      "english": "reinó ⟨sobre⟩"
+      "gloss": "reinó ⟨sobre⟩"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "שלש",
-      "english": "tres"
+      "gloss": "tres"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     }
-  ],
-  "timestamp": "2026-06-10T00:55:03.976058206Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 135:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 327,
-    "prompt_tokens": 69863,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70190
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:25.646955471Z",
   "translation": "Quien hirió ⟨a los⟩ primogénitos de Egipto, desde el hombre hasta ⟨el⟩ animal.",
   "tokens": [
     {
       "surface": "שהכה",
-      "english": "Quien hirió"
+      "gloss": "Quien hirió"
     },
     {
       "surface": "בכורי",
-      "english": "⟨a los⟩ primogénitos"
+      "gloss": "⟨a los⟩ primogénitos"
     },
     {
       "surface": "מצרים",
-      "english": "de Egipto"
+      "gloss": "de Egipto"
     },
     {
       "surface": "מאדם",
-      "english": "desde el hombre"
+      "gloss": "desde el hombre"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "בהמה",
-      "english": "⟨el⟩ animal"
+      "gloss": "⟨el⟩ animal"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:25.646955471Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 45:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69930,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70336
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:48.719476987Z",
   "translation": "En lugar de tus padres ⟨estarán⟩ tus hijos, a quienes tú ⟨pondrás⟩ ⟨como⟩ príncipes en ⟨la⟩ tierra entera.",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "En lugar de"
+      "gloss": "En lugar de"
     },
     {
       "surface": "אבתיך",
-      "english": "tus padres"
+      "gloss": "tus padres"
     },
     {
       "surface": "יהיו",
-      "english": "⟨estarán⟩",
+      "gloss": "⟨estarán⟩",
       "marks": "tus hijos"
     },
     {
       "surface": "בניך",
-      "english": "tus hijos"
+      "gloss": "tus hijos"
     },
     {
       "surface": "תשיתמו",
-      "english": "⟨pondrás⟩",
+      "gloss": "⟨pondrás⟩",
       "marks": "tus hijos"
     },
     {
       "surface": "לשרים",
-      "english": "⟨como⟩ príncipes"
+      "gloss": "⟨como⟩ príncipes"
     },
     {
       "surface": "בכל",
-      "english": "en ⟨la⟩"
+      "gloss": "en ⟨la⟩"
     },
     {
       "surface": "הארץ",
-      "english": "tierra entera"
+      "gloss": "tierra entera"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:48.719476987Z",
-  "model": "glm-4.5"
+  ]
 }

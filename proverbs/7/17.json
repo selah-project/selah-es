@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 7:17",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 376,
-    "prompt_tokens": 59791,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60167
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:17:46.901085215Z",
   "translation": "He rociado mi cama con mirra, con áloe y canela",
   "tokens": [
     {
       "surface": "נַפְתִּי",
-      "english": "He rociado"
+      "gloss": "He rociado"
     },
     {
       "surface": "מִשְׁכָּבִי",
-      "english": "mi cama"
+      "gloss": "mi cama"
     },
     {
       "surface": "מֹר",
-      "english": "mirra"
+      "gloss": "mirra"
     },
     {
       "surface": "אֲהָלִים",
-      "english": "con áloe"
+      "gloss": "con áloe"
     },
     {
       "surface": "וְקִנָּמוֹן",
-      "english": "y canela"
+      "gloss": "y canela"
     }
-  ],
-  "timestamp": "2026-07-16T23:17:46.901085215Z",
-  "model": "glm-4.5"
+  ]
 }

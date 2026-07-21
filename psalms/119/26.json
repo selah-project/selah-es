@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 119:26",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 209,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69752,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69961
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:37.718277884Z",
   "translation": "I recounted ⟨את⟩ my ways, and You answered me; teach me ⟨את⟩ Your statutes.",
   "tokens": [
     {
       "surface": "דרכי",
-      "english": "My ways"
+      "gloss": "My ways"
     },
     {
       "surface": "ספרתי",
-      "english": "I recounted"
+      "gloss": "I recounted"
     },
     {
       "surface": "ותענני",
-      "english": "and You answered me"
+      "gloss": "and You answered me"
     },
     {
       "surface": "למדני",
-      "english": "teach me"
+      "gloss": "teach me"
     },
     {
       "surface": "חקיך",
-      "english": "Your statutes"
+      "gloss": "Your statutes"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:37.718277884Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 37:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 37,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:54:29.878511003Z",
+  "translation": "He aquí, ⟨has⟩ oído lo que los reyes de Ashshur han hecho a todas las tierras, ⟨por⟩ devolverlas ⟨al⟩ anatema; ¿y ⟨tú⟩ serás librado?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "He aquí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨has⟩"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "oído"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo que"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "han hecho"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "los reyes"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "de Ashshur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a todas"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "las tierras"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "⟨por⟩ devolverlas ⟨al⟩ anatema"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "¿y ⟨tú⟩"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "serás librado"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Asiria",
@@ -13,72 +68,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19083,
-    "prompt_tokens_details": {
-      "cached_tokens": 17662
-    },
-    "total_tokens": 19595
-  },
-  "translation": "He aquí, ⟨has⟩ oído lo que los reyes de Ashshur han hecho a todas las tierras, ⟨por⟩ devolverlas ⟨al⟩ anatema; ¿y ⟨tú⟩ serás librado?",
-  "tokens": [
-    {
-      "surface": "הנה",
-      "english": "He aquí"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨has⟩"
-    },
-    {
-      "surface": "שמעת",
-      "english": "oído"
-    },
-    {
-      "surface": "אשר",
-      "english": "lo que"
-    },
-    {
-      "surface": "עשו",
-      "english": "han hecho"
-    },
-    {
-      "surface": "מלכי",
-      "english": "los reyes"
-    },
-    {
-      "surface": "אשור",
-      "english": "de Ashshur"
-    },
-    {
-      "surface": "לכל",
-      "english": "a todas"
-    },
-    {
-      "surface": "הארצות",
-      "english": "las tierras"
-    },
-    {
-      "surface": "להחרימם",
-      "english": "⟨por⟩ devolverlas ⟨al⟩ anatema"
-    },
-    {
-      "surface": "ואתה",
-      "english": "¿y ⟨tú⟩"
-    },
-    {
-      "surface": "תנצל",
-      "english": "serás librado"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:54:29.878511003Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

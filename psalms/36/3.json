@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 36:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 418,
-    "prompt_tokens": 69994,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70412
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:42.377039319Z",
   "translation": "Porque ⟨el⟩ que halaga en sus propios ojos, para hallar su iniquidad, para odiar.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "החליק",
-      "english": "⟨el⟩ que halaga"
+      "gloss": "⟨el⟩ que halaga"
     },
     {
       "surface": "אליו",
-      "english": "en sus propios"
+      "gloss": "en sus propios"
     },
     {
       "surface": "בעיניו",
-      "english": "ojos"
+      "gloss": "ojos"
     },
     {
       "surface": "למצא",
-      "english": "para hallar"
+      "gloss": "para hallar"
     },
     {
       "surface": "עונו",
-      "english": "su iniquidad"
+      "gloss": "su iniquidad"
     },
     {
       "surface": "לשנא",
-      "english": "para odiar"
+      "gloss": "para odiar"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:42.377039319Z",
-  "model": "glm-4.5"
+  ]
 }

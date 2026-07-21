@@ -1,86 +1,75 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "isaiah 8:6",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 651,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26763,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27414
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:25:30.228018281Z",
   "translation": "Por cuanto ⟨el⟩ pueblo ⟨de⟩ este ha rechazado ⟨las⟩ aguas ⟨del⟩ Siloé que van fluyendo suavemente, y ⟨se⟩ alegra ⟨con⟩ Resín y ⟨el⟩ hijo de Remalías",
   "tokens": [
     {
       "surface": "יען",
-      "english": "Por cuanto"
+      "gloss": "Por cuanto"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "מאס",
-      "english": "ha rechazado"
+      "gloss": "ha rechazado"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "הזה",
-      "english": "⟨de⟩ este"
+      "gloss": "⟨de⟩ este"
     },
     {
       "surface": "את",
-      "english": "⟨las⟩",
+      "gloss": "⟨las⟩",
       "marks": "aguas"
     },
     {
       "surface": "מי",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "השלח",
-      "english": "⟨del⟩"
+      "gloss": "⟨del⟩"
     },
     {
       "surface": "ההלכים",
-      "english": "que van fluyendo suavemente"
+      "gloss": "que van fluyendo suavemente"
     },
     {
       "surface": "לאט",
-      "english": "suavemente"
+      "gloss": "suavemente"
     },
     {
       "surface": "ומשוש",
-      "english": "y ⟨se⟩ alegra ⟨con⟩"
+      "gloss": "y ⟨se⟩ alegra ⟨con⟩"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "Resín"
     },
     {
       "surface": "רצין",
-      "english": "Resín"
+      "gloss": "Resín"
     },
     {
       "surface": "ובן",
-      "english": "y ⟨el⟩ hijo"
+      "gloss": "y ⟨el⟩ hijo"
     },
     {
       "surface": "רמליהו",
-      "english": "⟨de⟩ Remalías"
+      "gloss": "⟨de⟩ Remalías"
     }
-  ],
-  "timestamp": "2026-06-10T02:25:30.228018281Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 22:3",
   "book": "job",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27253,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27753
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:36.831380431Z",
   "translation": "¿⟨hay⟩ complacencia ⟨en⟩ Shaddai ⟨por⟩ que seas ⟨justo⟩ ⟨y⟩ si ⟨hay⟩ ganancia ⟨por⟩ que completes ⟨tus⟩ caminos?",
   "tokens": [
     {
       "surface": "החפץ",
-      "english": "Complacencia"
+      "gloss": "Complacencia"
     },
     {
       "surface": "לשדי",
-      "english": "⟨en⟩ Shaddai"
+      "gloss": "⟨en⟩ Shaddai"
     },
     {
       "surface": "כי",
-      "english": "⟨por⟩ que"
+      "gloss": "⟨por⟩ que"
     },
     {
       "surface": "תצדק",
-      "english": "seas ⟨justo⟩"
+      "gloss": "seas ⟨justo⟩"
     },
     {
       "surface": "ואם",
-      "english": "⟨y⟩ si"
+      "gloss": "⟨y⟩ si"
     },
     {
       "surface": "בצע",
-      "english": "ganancia"
+      "gloss": "ganancia"
     },
     {
       "surface": "כי",
-      "english": "⟨por⟩ que"
+      "gloss": "⟨por⟩ que"
     },
     {
       "surface": "תתם",
-      "english": "completes"
+      "gloss": "completes"
     },
     {
       "surface": "דרכיך",
-      "english": "⟨tus⟩ caminos"
+      "gloss": "⟨tus⟩ caminos"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:36.831380431Z",
-  "model": "glm-4.5"
+  ]
 }

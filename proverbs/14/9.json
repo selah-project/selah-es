@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 14:9",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59710,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60128
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:38:04.177252168Z",
   "translation": "Los insensatos ⟨hacen⟩ burla ⟨de⟩ ⟨la⟩ culpabilidad, pero entre ⟨los⟩ rectos hay buena voluntad",
   "tokens": [
     {
       "surface": "אולים",
-      "english": "Insensatos"
+      "gloss": "Insensatos"
     },
     {
       "surface": "יליץ",
-      "english": "hacen burla"
+      "gloss": "hacen burla"
     },
     {
       "surface": "אשם",
-      "english": "culpabilidad"
+      "gloss": "culpabilidad"
     },
     {
       "surface": "ובין",
-      "english": "pero entre"
+      "gloss": "pero entre"
     },
     {
       "surface": "ישרים",
-      "english": "rectos"
+      "gloss": "rectos"
     },
     {
       "surface": "רצון",
-      "english": "buena voluntad"
+      "gloss": "buena voluntad"
     }
-  ],
-  "timestamp": "2026-06-10T01:38:04.177252168Z",
-  "model": "glm-4.5"
+  ]
 }

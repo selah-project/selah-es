@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.1",
-  "verse": 1,
   "ref": "psalms 102:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70039,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70602
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:58:17.646599781Z",
   "translation": "Una plegaria del afligido cuando ⟨se⟩ desfallece, y delante de YHWH derrama su lamento.",
   "tokens": [
     {
       "surface": "תפלה",
-      "english": "Una plegaria"
+      "gloss": "Una plegaria"
     },
     {
       "surface": "לעני",
-      "english": "del afligido"
+      "gloss": "del afligido"
     },
     {
       "surface": "כי",
-      "english": "cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "יעטף",
-      "english": "⟨se⟩ desfallece"
+      "gloss": "⟨se⟩ desfallece"
     },
     {
       "surface": "ולפני",
-      "english": "y delante de"
+      "gloss": "y delante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ישפך",
-      "english": "derrama"
+      "gloss": "derrama"
     },
     {
       "surface": "שיחו",
-      "english": "su lamento"
+      "gloss": "su lamento"
     }
-  ],
-  "timestamp": "2026-06-13T03:58:17.646599781Z",
-  "model": "glm-5.1"
+  ]
 }

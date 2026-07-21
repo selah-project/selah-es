@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 40:12",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27061,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27461
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:17:39.234639535Z",
   "translation": "Mira ⟨a⟩ todo ⟨el⟩ altivo ⟨y⟩ humíllalo; ⟨y⟩ ⟨a⟩ los malvados húllalos ⟨en⟩ ⟨su⟩ lugar.",
   "tokens": [
     {
       "surface": "ראה",
-      "english": "Mira"
+      "gloss": "Mira"
     },
     {
       "surface": "כל",
-      "english": "⟨a⟩ todo ⟨el⟩"
+      "gloss": "⟨a⟩ todo ⟨el⟩"
     },
     {
       "surface": "גאה",
-      "english": "altivo"
+      "gloss": "altivo"
     },
     {
       "surface": "הכניעהו",
-      "english": "⟨y⟩ humíllalo"
+      "gloss": "⟨y⟩ humíllalo"
     },
     {
       "surface": "והדך",
-      "english": "⟨y⟩ ⟨a⟩ los malvados húllalos"
+      "gloss": "⟨y⟩ ⟨a⟩ los malvados húllalos"
     },
     {
       "surface": "רשעים",
-      "english": "malvados"
+      "gloss": "malvados"
     },
     {
       "surface": "תחתם",
-      "english": "⟨en⟩ ⟨su⟩ lugar"
+      "gloss": "⟨en⟩ ⟨su⟩ lugar"
     }
-  ],
-  "timestamp": "2026-06-10T02:17:39.234639535Z",
-  "model": "glm-4.5"
+  ]
 }

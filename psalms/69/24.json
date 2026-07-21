@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 69:24",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 641,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69826,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70467
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:08.975672975Z",
   "translation": "Oscurece ⟨sus⟩ ojos ⟨para que⟩ no vean ⟨y haz que⟩ sus lomos tiemblen ⟨por⟩ la violencia ⟨siempre⟩.",
   "tokens": [
     {
       "surface": "תחשכנה",
-      "english": "Oscurece"
+      "gloss": "Oscurece"
     },
     {
       "surface": "עיניהם",
-      "english": "⟨sus⟩ ojos",
+      "gloss": "⟨sus⟩ ojos",
       "marks": "ojos"
     },
     {
       "surface": "מראות",
-      "english": "⟨para que⟩ no vean",
+      "gloss": "⟨para que⟩ no vean",
       "rationale": "Heb. מִרְאוֹת literally 'from seeing', idiomatic for inability"
     },
     {
       "surface": "ומתניהם",
-      "english": "⟨y haz que⟩ sus lomos",
+      "gloss": "⟨y haz que⟩ sus lomos",
       "rationale": "Heb. וּ\/מָתְנֵי\/הֶם 'and their loins\/backs' with waw-consecutive"
     },
     {
       "surface": "תמיד",
-      "english": "tiemblen ⟨por⟩ la violencia ⟨siempre⟩",
+      "gloss": "tiemblen ⟨por⟩ la violencia ⟨siempre⟩",
       "rationale": "Heb. תָּמִיד + הַמְעַד 'continually' + 'violence\/shaking'"
     },
     {
       "surface": "המעד",
-      "english": "violencia",
+      "gloss": "violencia",
       "rationale": "Heb. הַ\/מְעַד 'the shaking\/trembling', conceptual loan to violence"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:08.975672975Z",
-  "model": "glm-4.5"
+  ]
 }

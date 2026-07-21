@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 74:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69836,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70168
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:09.596283911Z",
   "translation": "Y Elohim ⟨es⟩ mi rey de antiguo, trabajador de salvaciones en medio de ⟨la⟩ tierra",
   "tokens": [
     {
       "surface": "ואלהים",
-      "english": "Y Elohim"
+      "gloss": "Y Elohim"
     },
     {
       "surface": "מלכי",
-      "english": "mi rey"
+      "gloss": "mi rey"
     },
     {
       "surface": "מקדם",
-      "english": "de antiguo"
+      "gloss": "de antiguo"
     },
     {
       "surface": "פעל",
-      "english": "trabajador"
+      "gloss": "trabajador"
     },
     {
       "surface": "ישועות",
-      "english": "de salvaciones"
+      "gloss": "de salvaciones"
     },
     {
       "surface": "בקרב",
-      "english": "en medio de"
+      "gloss": "en medio de"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra",
+      "gloss": "⟨la⟩ tierra",
       "marks": "la tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:35:09.596283911Z",
-  "model": "glm-4.5"
+  ]
 }

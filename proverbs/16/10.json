@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 16:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59922,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60320
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:40:06.051008856Z",
   "translation": "⟨Un⟩ oráculo ⟨está⟩ ⟨en⟩ ⟨los⟩ labios ⟨del⟩ rey: ⟨en⟩ el juicio su boca ⟨no⟩ transgredirá.",
   "tokens": [
     {
       "surface": "קסם",
-      "english": "⟨Un⟩ oráculo"
+      "gloss": "⟨Un⟩ oráculo"
     },
     {
       "surface": "על",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "שפתי",
-      "english": "⟨los⟩ labios"
+      "gloss": "⟨los⟩ labios"
     },
     {
       "surface": "מלך",
-      "english": "⟨del⟩ rey"
+      "gloss": "⟨del⟩ rey"
     },
     {
       "surface": "במשפט",
-      "english": "⟨en⟩ el juicio"
+      "gloss": "⟨en⟩ el juicio"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ימעל",
-      "english": "transgredirá"
+      "gloss": "transgredirá"
     },
     {
       "surface": "פיו",
-      "english": "su boca"
+      "gloss": "su boca"
     }
-  ],
-  "timestamp": "2026-06-10T01:40:06.051008856Z",
-  "model": "glm-4.5"
+  ]
 }

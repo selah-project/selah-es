@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 19:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 19,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:48:47.473549710Z",
+  "translation": "Y dijo: 'Si ⟨los⟩ arameos ⟨son⟩ demasiado fuertes para mí, tú me ⟨serás⟩ ⟨para⟩ salvación; y si ⟨los⟩ hijos de Ammón ⟨son⟩ demasiado fuertes para ti, yo te salvaré.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "⟨los⟩ arameos ⟨son⟩ demasiado fuertes para mí"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "para mí"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "arameos"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "tú me ⟨serás⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "⟨para⟩ salvación"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "y si"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammón"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "⟨son⟩ demasiado fuertes para ti"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "para ti"
+    },
+    {
+      "surface": "והושעתיך",
+      "gloss": "yo te salvaré"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amón",
@@ -13,80 +76,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 616,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57426,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 58042
-  },
-  "translation": "Y dijo: 'Si ⟨los⟩ arameos ⟨son⟩ demasiado fuertes para mí, tú me ⟨serás⟩ ⟨para⟩ salvación; y si ⟨los⟩ hijos de Ammón ⟨son⟩ demasiado fuertes para ti, yo te salvaré.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "אם",
-      "english": "Si"
-    },
-    {
-      "surface": "תחזק",
-      "english": "⟨los⟩ arameos ⟨son⟩ demasiado fuertes para mí"
-    },
-    {
-      "surface": "ממני",
-      "english": "para mí"
-    },
-    {
-      "surface": "ארם",
-      "english": "arameos"
-    },
-    {
-      "surface": "והיית",
-      "english": "tú me ⟨serás⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "me"
-    },
-    {
-      "surface": "לתשועה",
-      "english": "⟨para⟩ salvación"
-    },
-    {
-      "surface": "ואם",
-      "english": "y si"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos"
-    },
-    {
-      "surface": "עמון",
-      "english": "Ammón"
-    },
-    {
-      "surface": "יחזקו",
-      "english": "⟨son⟩ demasiado fuertes para ti"
-    },
-    {
-      "surface": "ממך",
-      "english": "para ti"
-    },
-    {
-      "surface": "והושעתיך",
-      "english": "yo te salvaré"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:48:47.473549710Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

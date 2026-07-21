@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 119:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 502,
-    "prompt_tokens": 69930,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70432
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:14.805780020Z",
   "translation": "En mi corazón he atesorado tu dicho, ⟨para⟩ que no peque contra ti.",
   "tokens": [
     {
       "surface": "בלבי",
-      "english": "En mi corazón"
+      "gloss": "En mi corazón"
     },
     {
       "surface": "צפנתי",
-      "english": "he atesorado"
+      "gloss": "he atesorado"
     },
     {
       "surface": "אמרתך",
-      "english": "tu dicho"
+      "gloss": "tu dicho"
     },
     {
       "surface": "למען",
-      "english": "⟨para⟩"
+      "gloss": "⟨para⟩"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אחטא",
-      "english": "peque"
+      "gloss": "peque"
     },
     {
       "surface": "לך",
-      "english": "contra ti"
+      "gloss": "contra ti"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:14.805780020Z",
-  "model": "glm-4.5"
+  ]
 }

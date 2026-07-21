@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 37:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69774,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70091
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:28.430782213Z",
   "translation": "Better ⟨is⟩ a little ⟨for⟩ the righteous, than the abundance ⟨of⟩ many wicked.",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "Better"
+      "gloss": "Better"
     },
     {
       "surface": "מעט",
-      "english": "a little"
+      "gloss": "a little"
     },
     {
       "surface": "לצדיק",
-      "english": "⟨for⟩ the righteous"
+      "gloss": "⟨for⟩ the righteous"
     },
     {
       "surface": "מהמון",
-      "english": "than the abundance"
+      "gloss": "than the abundance"
     },
     {
       "surface": "רשעים",
-      "english": "⟨of⟩ many wicked"
+      "gloss": "⟨of⟩ many wicked"
     },
     {
       "surface": "רבים",
-      "english": "many"
+      "gloss": "many"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:28.430782213Z",
-  "model": "glm-4.5"
+  ]
 }

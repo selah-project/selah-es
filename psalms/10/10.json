@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.1",
-  "verse": 10,
   "ref": "psalms 10:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69712,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70336
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:55:39.464961079Z",
   "translation": "Y ⟨se encoge⟩, se agacha, y los desdichados caen bajo su fuerza.",
   "tokens": [
     {
       "surface": "ודכה",
-      "english": "Y ⟨se encoge⟩"
+      "gloss": "Y ⟨se encoge⟩"
     },
     {
       "surface": "ישח",
-      "english": "se agacha"
+      "gloss": "se agacha"
     },
     {
       "surface": "ונפל",
-      "english": "y caen"
+      "gloss": "y caen"
     },
     {
       "surface": "בעצומיו",
-      "english": "bajo su fuerza"
+      "gloss": "bajo su fuerza"
     },
     {
       "surface": "חלכאים",
-      "english": "los desdichados"
+      "gloss": "los desdichados"
     }
-  ],
-  "timestamp": "2026-06-13T03:55:39.464961079Z",
-  "model": "glm-5.1"
+  ]
 }

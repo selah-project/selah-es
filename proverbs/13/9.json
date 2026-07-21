@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 13:9",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59752,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60226
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:37:18.277854204Z",
   "translation": "La luz ⟨de⟩ ⟨los⟩ justos alegra; ⟨y⟩ ⟨la⟩ lámpara ⟨de⟩ ⟨los⟩ malvados se extinguirá",
   "tokens": [
     {
       "surface": "אור",
-      "english": "La luz"
+      "gloss": "La luz"
     },
     {
       "surface": "צדיקים",
-      "english": "⟨de⟩ ⟨los⟩ justos"
+      "gloss": "⟨de⟩ ⟨los⟩ justos"
     },
     {
       "surface": "ישמח",
-      "english": "alegra"
+      "gloss": "alegra"
     },
     {
       "surface": "ונר",
-      "english": "⟨y⟩ ⟨la⟩ lámpara"
+      "gloss": "⟨y⟩ ⟨la⟩ lámpara"
     },
     {
       "surface": "רשעים",
-      "english": "⟨de⟩ ⟨los⟩ malvados"
+      "gloss": "⟨de⟩ ⟨los⟩ malvados"
     },
     {
       "surface": "ידעך",
-      "english": "se extinguirá"
+      "gloss": "se extinguirá"
     }
-  ],
-  "timestamp": "2026-06-10T01:37:18.277854204Z",
-  "model": "glm-4.5"
+  ]
 }

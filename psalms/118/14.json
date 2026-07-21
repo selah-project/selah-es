@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 118:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69716,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70093
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:58:27.524750173Z",
   "translation": "Mi fuerza y ⟨canto⟩ ⟨es⟩ Ja ⟨את⟩, y El ha sido ⟨para⟩ mí ⟨para⟩ salvación.",
   "tokens": [
     {
       "surface": "עזי",
-      "english": "Mi fuerza"
+      "gloss": "Mi fuerza"
     },
     {
       "surface": "וזמרת",
-      "english": "y ⟨canto⟩",
+      "gloss": "y ⟨canto⟩",
       "marks": "el canto"
     },
     {
       "surface": "יה",
-      "english": "⟨es⟩ Ja",
+      "gloss": "⟨es⟩ Ja",
       "marks": "Ja"
     },
     {
       "surface": "והיה",
-      "english": "y El ha sido"
+      "gloss": "y El ha sido"
     },
     {
       "surface": "לי",
-      "english": "⟨para⟩ mí",
+      "gloss": "⟨para⟩ mí",
       "marks": "mí"
     },
     {
       "surface": "לישועה",
-      "english": "⟨para⟩ salvación",
+      "gloss": "⟨para⟩ salvación",
       "marks": "salvación"
     }
-  ],
-  "timestamp": "2026-06-09T23:58:27.524750173Z",
-  "model": "glm-4.5"
+  ]
 }

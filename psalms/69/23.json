@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 69:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69808,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70349
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:25.562356913Z",
   "translation": "Sea su mesa ⟨un⟩ lazo delante de ⟨ellos⟩, para ⟨el⟩ tropiezo; y ⟨lo que fue para⟩ su bienestar, ⟨sea⟩ ⟨para⟩ ⟨una⟩ trampa.",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "Sea"
+      "gloss": "Sea"
     },
     {
       "surface": "שלחנם",
-      "english": "su mesa",
+      "gloss": "su mesa",
       "marks": "un lazo"
     },
     {
       "surface": "לפניהם",
-      "english": "delante de ⟨ellos⟩"
+      "gloss": "delante de ⟨ellos⟩"
     },
     {
       "surface": "לפח",
-      "english": "para ⟨el⟩ tropiezo"
+      "gloss": "para ⟨el⟩ tropiezo"
     },
     {
       "surface": "ולשלומים",
-      "english": "y ⟨lo que fue para⟩ su bienestar",
+      "gloss": "y ⟨lo que fue para⟩ su bienestar",
       "marks": "sea"
     },
     {
       "surface": "למוקש",
-      "english": "⟨para⟩ ⟨una⟩ trampa"
+      "gloss": "⟨para⟩ ⟨una⟩ trampa"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:25.562356913Z",
-  "model": "glm-4.5"
+  ]
 }

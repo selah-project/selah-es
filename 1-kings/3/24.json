@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "1-kings 3:24",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 406,
-    "prompt_tokens": 69454,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 69860
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:16:34.280487913Z",
   "translation": "Y dijo el rey: traedme una espada. Y trajeron ⟨la⟩ espada ante el rey",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "המלך",
-      "english": "el rey"
+      "gloss": "el rey"
     },
     {
       "surface": "קחו",
-      "english": "traedme"
+      "gloss": "traedme"
     },
     {
       "surface": "לי",
-      "english": "me"
+      "gloss": "me"
     },
     {
       "surface": "חרב",
-      "english": "una espada"
+      "gloss": "una espada"
     },
     {
       "surface": "ויבאו",
-      "english": "Y trajeron"
+      "gloss": "Y trajeron"
     },
     {
       "surface": "החרב",
-      "english": "⟨la⟩ espada",
+      "gloss": "⟨la⟩ espada",
       "marks": "espada"
     },
     {
       "surface": "לפני",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "המלך",
-      "english": "el rey"
+      "gloss": "el rey"
     }
-  ],
-  "timestamp": "2026-07-16T18:16:34.280487913Z",
-  "model": "glm-4.5"
+  ]
 }

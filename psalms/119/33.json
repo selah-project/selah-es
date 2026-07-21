@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "psalms 119:33",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69869,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70218
-  },
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:55.162389819Z",
   "translation": "Enséñame, oh YHWH, el camino de tus estatutos, y ⟨lo⟩ guardaré hasta ⟨el⟩ fin.",
   "tokens": [
     {
       "surface": "הורני",
-      "english": "Enséñame"
+      "gloss": "Enséñame"
     },
     {
       "surface": "יהוה",
-      "english": "oh YHWH"
+      "gloss": "oh YHWH"
     },
     {
       "surface": "דרך",
-      "english": "el camino"
+      "gloss": "el camino"
     },
     {
       "surface": "חקיך",
-      "english": "de tus estatutos"
+      "gloss": "de tus estatutos"
     },
     {
       "surface": "ואצרנה",
-      "english": "y ⟨lo⟩ guardaré"
+      "gloss": "y ⟨lo⟩ guardaré"
     },
     {
       "surface": "עקב",
-      "english": "hasta ⟨el⟩ fin"
+      "gloss": "hasta ⟨el⟩ fin"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:55.162389819Z",
-  "model": "glm-4.5"
+  ]
 }

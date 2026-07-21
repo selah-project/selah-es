@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "proverbs 30:7",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59898,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60344
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:51:32.908936075Z",
   "translation": "Dos ⟨cosas⟩ he pedido de ti: ⟨no⟩ me ⟨las⟩ niegues ⟨antes de⟩ que yo ⟨muera⟩",
   "tokens": [
     {
       "surface": "שתים",
-      "english": "Dos"
+      "gloss": "Dos"
     },
     {
       "surface": "שאלתי",
-      "english": "he pedido"
+      "gloss": "he pedido"
     },
     {
       "surface": "מאתך",
-      "english": "de ti"
+      "gloss": "de ti"
     },
     {
       "surface": "אל",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תמנע",
-      "english": "me ⟨las⟩ niegues",
+      "gloss": "me ⟨las⟩ niegues",
       "marks": "las cosas"
     },
     {
       "surface": "ממני",
-      "english": "⟨antes de⟩"
+      "gloss": "⟨antes de⟩"
     },
     {
       "surface": "בטרם",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אמות",
-      "english": "yo ⟨muera⟩"
+      "gloss": "yo ⟨muera⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:51:32.908936075Z",
-  "model": "glm-4.5"
+  ]
 }

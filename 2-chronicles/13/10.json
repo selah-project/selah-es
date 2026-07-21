@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-chronicles 13:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 13,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:13:28.644267986Z",
+  "translation": "Y nosotros, YHWH ⟨es⟩ nuestro Elohim, y no lo hemos abandonado; y los sacerdotes están sirviendo a YHWH, ⟨los⟩ hijos de Aharón, y ⟨los⟩ levitas están ⟨en⟩ la obra.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Y nosotros"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "⟨es⟩ nuestro Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "lo hemos abandonado"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "y los sacerdotes"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "están sirviendo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "de Aharón"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "y ⟨los⟩ levitas"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "están ⟨en⟩ la obra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aarón",
@@ -13,72 +68,6 @@
       "hebrew": "אהרן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58334,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 58780
-  },
-  "translation": "Y nosotros, YHWH ⟨es⟩ nuestro Elohim, y no lo hemos abandonado; y los sacerdotes están sirviendo a YHWH, ⟨los⟩ hijos de Aharón, y ⟨los⟩ levitas están ⟨en⟩ la obra.",
-  "tokens": [
-    {
-      "surface": "ואנחנו",
-      "english": "Y nosotros"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהינו",
-      "english": "⟨es⟩ nuestro Elohim"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "עזבנהו",
-      "english": "lo hemos abandonado"
-    },
-    {
-      "surface": "וכהנים",
-      "english": "y los sacerdotes"
-    },
-    {
-      "surface": "משרתים",
-      "english": "están sirviendo"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos"
-    },
-    {
-      "surface": "אהרן",
-      "english": "de Aharón"
-    },
-    {
-      "surface": "והלוים",
-      "english": "y ⟨los⟩ levitas"
-    },
-    {
-      "surface": "במלאכת",
-      "english": "están ⟨en⟩ la obra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:13:28.644267986Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

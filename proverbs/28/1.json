@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 28:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 477,
-    "prompt_tokens": 59957,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60434
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:22:44.320900897Z",
   "translation": "Los malvados huyen ⟨cuando⟩ nadie persigue, pero los justos ⟨están⟩ confiados como un león joven",
   "tokens": [
     {
       "surface": "נסו",
-      "english": "huyen"
+      "gloss": "huyen"
     },
     {
       "surface": "ואין",
-      "english": "⟨cuando⟩ nadie"
+      "gloss": "⟨cuando⟩ nadie"
     },
     {
       "surface": "רדף",
-      "english": "persigue"
+      "gloss": "persigue"
     },
     {
       "surface": "רשע",
-      "english": "⟨los⟩ malvados"
+      "gloss": "⟨los⟩ malvados"
     },
     {
       "surface": "וצדיקים",
-      "english": "pero los justos"
+      "gloss": "pero los justos"
     },
     {
       "surface": "ככפיר",
-      "english": "como un león joven"
+      "gloss": "como un león joven"
     },
     {
       "surface": "יבטח",
-      "english": "⟨están⟩ confiados"
+      "gloss": "⟨están⟩ confiados"
     }
-  ],
-  "timestamp": "2026-07-16T23:22:44.320900897Z",
-  "model": "glm-4.5"
+  ]
 }

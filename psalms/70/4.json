@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 70:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 70,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69960,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70361
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:29.562783631Z",
   "translation": "¡Vuelvan ⟨al⟩ calcañar ⟨de⟩ su vergüenza ⟨los⟩ que dicen, ¡Ajá! ¡Ajá!",
   "tokens": [
     {
       "surface": "ישובו",
-      "english": "¡Vuelvan"
+      "gloss": "¡Vuelvan"
     },
     {
       "surface": "על",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "עקב",
-      "english": "calcañar"
+      "gloss": "calcañar"
     },
     {
       "surface": "בשתם",
-      "english": "⟨de⟩ su vergüenza"
+      "gloss": "⟨de⟩ su vergüenza"
     },
     {
       "surface": "האמרים",
-      "english": "⟨los⟩ que dicen"
+      "gloss": "⟨los⟩ que dicen"
     },
     {
       "surface": "האח",
-      "english": "¡Ajá!"
+      "gloss": "¡Ajá!"
     },
     {
       "surface": "האח",
-      "english": "¡Ajá!"
+      "gloss": "¡Ajá!"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:29.562783631Z",
-  "model": "glm-4.5"
+  ]
 }

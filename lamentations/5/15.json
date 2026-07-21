@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 15,
   "ref": "lamentations 5:15",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38933,
-    "prompt_tokens_details": {
-      "cached_tokens": 38080
-    },
-    "total_tokens": 39389
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T04:04:05.015181029Z",
   "translation": "Ha cesado el regocijo de nuestro corazón; se ha vuelto luto nuestra danza.",
   "tokens": [
     {
       "surface": "שָׁבַת֙",
-      "english": "Ha cesado"
+      "gloss": "Ha cesado"
     },
     {
       "surface": "מְשׂ֣וֹשׂ",
-      "english": "el regocijo"
+      "gloss": "el regocijo"
     },
     {
       "surface": "לִבֵּ֔\/נוּ",
-      "english": "de nuestro corazón"
+      "gloss": "de nuestro corazón"
     },
     {
       "surface": "נֶהְפַּ֥ךְ",
-      "english": "se ha vuelto"
+      "gloss": "se ha vuelto"
     },
     {
       "surface": "לְ\/אֵ֖בֶל",
-      "english": "luto"
+      "gloss": "luto"
     },
     {
       "surface": "מְחֹלֵֽ\/נוּ",
-      "english": "nuestra danza"
+      "gloss": "nuestra danza"
     }
-  ],
-  "timestamp": "2026-06-13T04:04:05.015181029Z",
-  "model": "glm-5.1"
+  ]
 }

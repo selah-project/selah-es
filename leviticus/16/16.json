@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "leviticus 16:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 16,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:24:39.321114193Z",
+  "translation": "Y hará expiación ⟨por⟩ ⟨el⟩ lugar santo a causa de ⟨las⟩ impurezas de los hijos de Yisrael y de ⟨sus⟩ rebeliones, ⟨con⟩ todas sus transgresiones. Y así hará ⟨para⟩ ⟨el⟩ Tabernáculo ⟨de⟩ Reunión ⟨que⟩ permanece ⟨con⟩ ellos en medio de ⟨sus⟩ impurezas.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Y hará expiación"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨el⟩ lugar santo"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "a causa de ⟨las⟩ impurezas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ומפשעיהם",
+      "gloss": "y de ⟨sus⟩ rebeliones"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨con⟩"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "todas sus transgresiones"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "Y así hará"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "Y así hará"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "⟨para⟩ ⟨el⟩"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tabernáculo ⟨de⟩ Reunión"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "⟨que⟩ permanece"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨con⟩ ellos"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "en medio de"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "⟨sus⟩ impurezas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,92 +88,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 1096,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18222,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 19318
-  },
-  "translation": "Y hará expiación ⟨por⟩ ⟨el⟩ lugar santo a causa de ⟨las⟩ impurezas de los hijos de Yisrael y de ⟨sus⟩ rebeliones, ⟨con⟩ todas sus transgresiones. Y así hará ⟨para⟩ ⟨el⟩ Tabernáculo ⟨de⟩ Reunión ⟨que⟩ permanece ⟨con⟩ ellos en medio de ⟨sus⟩ impurezas.",
-  "tokens": [
-    {
-      "surface": "וכפר",
-      "english": "Y hará expiación"
-    },
-    {
-      "surface": "על",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "הקדש",
-      "english": "⟨el⟩ lugar santo"
-    },
-    {
-      "surface": "מטמאת",
-      "english": "a causa de ⟨las⟩ impurezas"
-    },
-    {
-      "surface": "בני",
-      "english": "de los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ומפשעיהם",
-      "english": "y de ⟨sus⟩ rebeliones"
-    },
-    {
-      "surface": "לכל",
-      "english": "⟨con⟩"
-    },
-    {
-      "surface": "חטאתם",
-      "english": "todas sus transgresiones"
-    },
-    {
-      "surface": "וכן",
-      "english": "Y así hará"
-    },
-    {
-      "surface": "יעשה",
-      "english": "Y así hará"
-    },
-    {
-      "surface": "לאהל",
-      "english": "⟨para⟩ ⟨el⟩"
-    },
-    {
-      "surface": "מועד",
-      "english": "Tabernáculo ⟨de⟩ Reunión"
-    },
-    {
-      "surface": "השכן",
-      "english": "⟨que⟩ permanece"
-    },
-    {
-      "surface": "אתם",
-      "english": "⟨con⟩ ellos"
-    },
-    {
-      "surface": "בתוך",
-      "english": "en medio de"
-    },
-    {
-      "surface": "טמאתם",
-      "english": "⟨sus⟩ impurezas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:24:39.321114193Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

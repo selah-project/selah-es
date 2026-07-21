@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 20:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59788,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60181
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:43:19.159938166Z",
   "translation": "Honor ⟨is⟩ for un hombre who keeps ⟨himself⟩ from dispute, y y every tonto will be entrometido.",
   "tokens": [
     {
       "surface": "כבוד",
-      "english": "Honor"
+      "gloss": "Honor"
     },
     {
       "surface": "לאיש",
-      "english": "para un hombre"
+      "gloss": "para un hombre"
     },
     {
       "surface": "שבת",
-      "english": "who keeps"
+      "gloss": "who keeps"
     },
     {
       "surface": "מריב",
-      "english": "⟨himself⟩ from dispute"
+      "gloss": "⟨himself⟩ from dispute"
     },
     {
       "surface": "וכל",
-      "english": "y y every"
+      "gloss": "y y every"
     },
     {
       "surface": "אויל",
-      "english": "tonto"
+      "gloss": "tonto"
     },
     {
       "surface": "יתגלע",
-      "english": "will be entrometido"
+      "gloss": "will be entrometido"
     }
-  ],
-  "timestamp": "2026-06-10T01:43:19.159938166Z",
-  "model": "glm-4.5"
+  ]
 }

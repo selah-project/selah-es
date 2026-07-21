@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 22:21",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 23700,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24086
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:44:02.273655774Z",
   "translation": "Y Avyatar declaró ⟨a⟩ David que Shaúl había matado ⟨את⟩ ⟨los⟩ kohanim de YHWH",
   "tokens": [
     {
       "surface": "ויגד",
-      "english": "Y declaró"
+      "gloss": "Y declaró"
     },
     {
       "surface": "אביתר",
-      "english": "Avyatar"
+      "gloss": "Avyatar"
     },
     {
       "surface": "לדוד",
-      "english": "⟨a⟩ David"
+      "gloss": "⟨a⟩ David"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "הרג",
-      "english": "había matado"
+      "gloss": "había matado"
     },
     {
       "surface": "שאול",
-      "english": "Shaúl"
+      "gloss": "Shaúl"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨los⟩ kohanim de YHWH"
     },
     {
       "surface": "כהני",
-      "english": "⟨los⟩ kohanim"
+      "gloss": "⟨los⟩ kohanim"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T18:44:02.273655774Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 84:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 84,
-  "usage": {
-    "completion_tokens": 479,
-    "prompt_tokens": 70024,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70503
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:51.677130347Z",
   "translation": "Vayan ⟨de⟩ fuerza ⟨a⟩ fuerza, ⟨quien⟩ ⟨aparezca⟩ ⟨a⟩ Elohim en Tzión.",
   "tokens": [
     {
       "surface": "ילכו",
-      "english": "Vayan"
+      "gloss": "Vayan"
     },
     {
       "surface": "מחיל",
-      "english": "⟨de⟩ fuerza"
+      "gloss": "⟨de⟩ fuerza"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "חיל",
-      "english": "fuerza"
+      "gloss": "fuerza"
     },
     {
       "surface": "יראה",
-      "english": "⟨quien⟩ ⟨aparezca⟩"
+      "gloss": "⟨quien⟩ ⟨aparezca⟩"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בציון",
-      "english": "en Tzión"
+      "gloss": "en Tzión"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:51.677130347Z",
-  "model": "glm-4.5"
+  ]
 }

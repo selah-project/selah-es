@@ -1,42 +1,31 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "nehemiah 11:26",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 214,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56244,
-    "prompt_tokens_details": {
-      "cached_tokens": 55510
-    },
-    "total_tokens": 56458
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:44:02.621965616Z",
   "translation": "y en Yeshúa ⟨y en⟩ Moladá ⟨y en⟩ Bet-Palet",
   "tokens": [
     {
       "surface": "ובישוע",
-      "english": "Y en Yeshúa"
+      "gloss": "Y en Yeshúa"
     },
     {
       "surface": "ובמולדה",
-      "english": "⟨y en⟩ Moladá",
+      "gloss": "⟨y en⟩ Moladá",
       "marks": "Moladá"
     },
     {
       "surface": "ובבית",
-      "english": "⟨y en⟩",
+      "gloss": "⟨y en⟩",
       "marks": "Bet-Palet"
     },
     {
       "surface": "פלט",
-      "english": "Bet-Palet"
+      "gloss": "Bet-Palet"
     }
-  ],
-  "timestamp": "2026-06-10T00:44:02.621965616Z",
-  "model": "glm-4.5"
+  ]
 }

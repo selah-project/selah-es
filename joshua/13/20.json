@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "joshua 13:20",
   "book": "joshua",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23201,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23526
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:17:32.286272026Z",
   "translation": "y ⟨el⟩ Bet-Peor, y ⟨las⟩ laderas de ⟨el⟩ Pisga, y ⟨el⟩ Bet-ha-Jeshimoth",
   "tokens": [
     {
       "surface": "ובית",
-      "english": "Y ⟨el⟩ Bet-Peor"
+      "gloss": "Y ⟨el⟩ Bet-Peor"
     },
     {
       "surface": "פעור",
-      "english": "Bet-Peor"
+      "gloss": "Bet-Peor"
     },
     {
       "surface": "ואשדות",
-      "english": "y ⟨las⟩ laderas de ⟨el⟩ Pisga"
+      "gloss": "y ⟨las⟩ laderas de ⟨el⟩ Pisga"
     },
     {
       "surface": "הפסגה",
-      "english": "Pisga"
+      "gloss": "Pisga"
     },
     {
       "surface": "ובית",
-      "english": "y ⟨el⟩ Bet-ha-Jeshimoth"
+      "gloss": "y ⟨el⟩ Bet-ha-Jeshimoth"
     },
     {
       "surface": "הישמות",
-      "english": "Bet-ha-Jeshimoth"
+      "gloss": "Bet-ha-Jeshimoth"
     }
-  ],
-  "timestamp": "2026-06-10T01:17:32.286272026Z",
-  "model": "glm-4.5"
+  ]
 }

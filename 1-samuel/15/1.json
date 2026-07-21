@@ -1,9 +1,89 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 15:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 15,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:58:26.769929784Z",
+  "translation": "Y Shmuel dijo a Shaúl: ⟨A mí⟩ ⟨את⟩ envió YHWH para ungirte como rey sobre su pueblo, sobre Yisrael; y ahora, escucha ⟨a⟩ ⟨la⟩ voz de ⟨las⟩ palabras de YHWH.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y ... dijo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨A mí⟩",
+      "marks": "envió"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envió"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "para ungirte"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "como rey"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su pueblo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "y ahora"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "escucha"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨a⟩ ⟨la⟩ voz"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de ⟨las⟩ palabras"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samuel",
@@ -27,97 +107,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 632,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17078,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17710
-  },
-  "translation": "Y Shmuel dijo a Shaúl: ⟨A mí⟩ ⟨את⟩ envió YHWH para ungirte como rey sobre su pueblo, sobre Yisrael; y ahora, escucha ⟨a⟩ ⟨la⟩ voz de ⟨las⟩ palabras de YHWH.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y ... dijo"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shmuel"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "אתי",
-      "english": "⟨A mí⟩",
-      "marks": "envió"
-    },
-    {
-      "surface": "שלח",
-      "english": "envió"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "למשחך",
-      "english": "para ungirte"
-    },
-    {
-      "surface": "למלך",
-      "english": "como rey"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "עמו",
-      "english": "su pueblo"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ועתה",
-      "english": "y ahora"
-    },
-    {
-      "surface": "שמע",
-      "english": "escucha"
-    },
-    {
-      "surface": "לקול",
-      "english": "⟨a⟩ ⟨la⟩ voz"
-    },
-    {
-      "surface": "דברי",
-      "english": "de ⟨las⟩ palabras"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:58:26.769929784Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

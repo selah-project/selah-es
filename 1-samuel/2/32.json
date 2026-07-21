@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "1-samuel 2:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 2,
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:46:08.437717661Z",
+  "translation": "Y contemplarás ⟨el⟩ ⟨angustiado⟩ ⟨en⟩ ⟨el⟩ ⟨lugar⟩ ⟨de⟩ ⟨mi⟩ ⟨habitación⟩, en todo aquello que ⟨hará⟩ ⟨bien⟩ ⟨a⟩ ⟨את⟩ ⟨Yisrael⟩, y no habrá anciano en tu casa todos los días.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "Y contemplarás"
+    },
+    {
+      "surface": "צר",
+      "gloss": "⟨el⟩ ⟨angustiado⟩"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "⟨en⟩ ⟨el⟩ ⟨lugar⟩ ⟨de⟩ ⟨mi⟩ ⟨habitación⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "en todo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aquello que"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "⟨hará⟩ ⟨bien⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "habrá"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "anciano"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "en tu casa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "los días"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,81 +77,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16836,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17412
-  },
-  "translation": "Y contemplarás ⟨el⟩ ⟨angustiado⟩ ⟨en⟩ ⟨el⟩ ⟨lugar⟩ ⟨de⟩ ⟨mi⟩ ⟨habitación⟩, en todo aquello que ⟨hará⟩ ⟨bien⟩ ⟨a⟩ ⟨את⟩ ⟨Yisrael⟩, y no habrá anciano en tu casa todos los días.",
-  "tokens": [
-    {
-      "surface": "והבטת",
-      "english": "Y contemplarás"
-    },
-    {
-      "surface": "צר",
-      "english": "⟨el⟩ ⟨angustiado⟩"
-    },
-    {
-      "surface": "מעון",
-      "english": "⟨en⟩ ⟨el⟩ ⟨lugar⟩ ⟨de⟩ ⟨mi⟩ ⟨habitación⟩"
-    },
-    {
-      "surface": "בכל",
-      "english": "en todo"
-    },
-    {
-      "surface": "אשר",
-      "english": "aquello que"
-    },
-    {
-      "surface": "ייטיב",
-      "english": "⟨hará⟩ ⟨bien⟩"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "יהיה",
-      "english": "habrá"
-    },
-    {
-      "surface": "זקן",
-      "english": "anciano"
-    },
-    {
-      "surface": "בביתך",
-      "english": "en tu casa"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "הימים",
-      "english": "los días"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:46:08.437717661Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

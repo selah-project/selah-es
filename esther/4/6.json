@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "esther 4:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 4,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:50:38.317752306Z",
+  "translation": "Y salió Hatac ⟨a⟩ Mordejai ⟨a⟩ la plaza ancha de la ciudad que ⟨está⟩ ⟨frente⟩ ⟨a⟩ la puerta del rey",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Y salió"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatac"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordejai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "la plaza ancha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de la ciudad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨está⟩ ⟨frente⟩ ⟨a⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la puerta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del rey"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mardoqueo",
@@ -13,68 +64,6 @@
       "hebrew": "מרדכי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17555,
-    "prompt_tokens_details": {
-      "cached_tokens": 16282
-    },
-    "total_tokens": 17967
-  },
-  "translation": "Y salió Hatac ⟨a⟩ Mordejai ⟨a⟩ la plaza ancha de la ciudad que ⟨está⟩ ⟨frente⟩ ⟨a⟩ la puerta del rey",
-  "tokens": [
-    {
-      "surface": "ויצא",
-      "english": "Y salió"
-    },
-    {
-      "surface": "התך",
-      "english": "Hatac"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "מרדכי",
-      "english": "Mordejai"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "רחוב",
-      "english": "la plaza ancha"
-    },
-    {
-      "surface": "העיר",
-      "english": "de la ciudad"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨está⟩ ⟨frente⟩ ⟨a⟩"
-    },
-    {
-      "surface": "שער",
-      "english": "la puerta"
-    },
-    {
-      "surface": "המלך",
-      "english": "del rey"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:50:38.317752306Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

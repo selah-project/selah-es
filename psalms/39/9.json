@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 39:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 587,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69894,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70481
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:17:27.306482399Z",
   "translation": "⟨Por⟩ todo ⟨el⟩ pecado ⟨de⟩ mí sálvame ⟨de⟩ ⟨la⟩ afrenta ⟨del⟩ necio ⟨de⟩ ti no ⟨me⟩ pongas ⟨a mí⟩",
   "tokens": [
     {
       "surface": "מכל",
-      "english": "⟨Por⟩ todo ⟨el⟩"
+      "gloss": "⟨Por⟩ todo ⟨el⟩"
     },
     {
       "surface": "פשעי",
-      "english": "pecado ⟨de⟩ mí"
+      "gloss": "pecado ⟨de⟩ mí"
     },
     {
       "surface": "הצילני",
-      "english": "sálvame ⟨de⟩"
+      "gloss": "sálvame ⟨de⟩"
     },
     {
       "surface": "חרפת",
-      "english": "⟨la⟩ afrenta"
+      "gloss": "⟨la⟩ afrenta"
     },
     {
       "surface": "נבל",
-      "english": "⟨del⟩ necio"
+      "gloss": "⟨del⟩ necio"
     },
     {
       "surface": "אל",
-      "english": "⟨de⟩ ti"
+      "gloss": "⟨de⟩ ti"
     },
     {
       "surface": "תשימני",
-      "english": "no ⟨me⟩ pongas ⟨a mí⟩"
+      "gloss": "no ⟨me⟩ pongas ⟨a mí⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:17:27.306482399Z",
-  "model": "glm-4.5"
+  ]
 }

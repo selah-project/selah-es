@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 8:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69906,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70251
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:46.738928523Z",
   "translation": "Tú ⟨lo⟩ gobiernas ⟨en⟩ las obras de tus manos; todo ⟨lo⟩ has puesto ⟨bajo⟩ sus pies:",
   "tokens": [
     {
       "surface": "תמשילהו",
-      "english": "Tú ⟨lo⟩ gobiernas"
+      "gloss": "Tú ⟨lo⟩ gobiernas"
     },
     {
       "surface": "במעשי",
-      "english": "⟨en⟩ las obras"
+      "gloss": "⟨en⟩ las obras"
     },
     {
       "surface": "ידיך",
-      "english": "de tus manos"
+      "gloss": "de tus manos"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "שתה",
-      "english": "⟨lo⟩ has puesto"
+      "gloss": "⟨lo⟩ has puesto"
     },
     {
       "surface": "תחת",
-      "english": "⟨bajo⟩"
+      "gloss": "⟨bajo⟩"
     },
     {
       "surface": "רגליו",
-      "english": "sus pies"
+      "gloss": "sus pies"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:46.738928523Z",
-  "model": "glm-4.5"
+  ]
 }

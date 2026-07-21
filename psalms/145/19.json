@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 145:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 394,
-    "prompt_tokens": 70098,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70492
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:19.494232593Z",
   "translation": "El deseo de los que le temen ⟨él⟩ hará, y ⟨את⟩ el clamor de ellos escuchará, y los salvará.",
   "tokens": [
     {
       "surface": "רצון",
-      "english": "El deseo"
+      "gloss": "El deseo"
     },
     {
       "surface": "יראיו",
-      "english": "de los que le temen"
+      "gloss": "de los que le temen"
     },
     {
       "surface": "יעשה",
-      "english": "⟨él⟩ hará"
+      "gloss": "⟨él⟩ hará"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el clamor de ellos"
     },
     {
       "surface": "שועתם",
-      "english": "el clamor de ellos"
+      "gloss": "el clamor de ellos"
     },
     {
       "surface": "ישמע",
-      "english": "escuchará"
+      "gloss": "escuchará"
     },
     {
       "surface": "ויושיעם",
-      "english": "y los salvará"
+      "gloss": "y los salvará"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:19.494232593Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,78 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 16:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 604,
-    "prompt_tokens": 70801,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71405
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:00.640939299Z",
   "translation": "Se multiplicarán ⟨sus⟩ dolores quienes se apresuran tras ⟨otro⟩: no derramaré sus libaciones de sangre, ni tomaré ⟨את⟩ sus nombres sobre mis labios.",
   "tokens": [
     {
       "surface": "ירבו",
-      "english": "Se multiplicarán"
+      "gloss": "Se multiplicarán"
     },
     {
       "surface": "עצבותם",
-      "english": "⟨sus⟩ dolores"
+      "gloss": "⟨sus⟩ dolores"
     },
     {
       "surface": "אחר",
-      "english": "tras"
+      "gloss": "tras"
     },
     {
       "surface": "מהרו",
-      "english": "quienes se apresuran"
+      "gloss": "quienes se apresuran"
     },
     {
       "surface": "בל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אסיך",
-      "english": "derramaré"
+      "gloss": "derramaré"
     },
     {
       "surface": "נסכיהם",
-      "english": "sus libaciones"
+      "gloss": "sus libaciones"
     },
     {
       "surface": "מדם",
-      "english": "de sangre"
+      "gloss": "de sangre"
     },
     {
       "surface": "ובל",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "אשא",
-      "english": "tomaré"
+      "gloss": "tomaré"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus nombres"
     },
     {
       "surface": "שמותם",
-      "english": "sus nombres"
+      "gloss": "sus nombres"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "שפתי",
-      "english": "mis labios"
+      "gloss": "mis labios"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:00.640939299Z",
-  "model": "glm-4.5"
+  ]
 }

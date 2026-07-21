@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 7:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69821,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70303
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:26.874367946Z",
   "translation": "Un hoyo ⟨he⟩ excavado, y ⟨lo⟩ ⟨ha⟩ cavado, y ⟨ha⟩ caído ⟨en⟩ el hoyo que ⟨él⟩ ⟨hizo⟩;",
   "tokens": [
     {
       "surface": "בור",
-      "english": "Un hoyo"
+      "gloss": "Un hoyo"
     },
     {
       "surface": "כרה",
-      "english": "⟨he⟩ excavado"
+      "gloss": "⟨he⟩ excavado"
     },
     {
       "surface": "ויחפרהו",
-      "english": "y ⟨lo⟩ ⟨ha⟩ cavado"
+      "gloss": "y ⟨lo⟩ ⟨ha⟩ cavado"
     },
     {
       "surface": "ויפל",
-      "english": "y ⟨ha⟩ caído"
+      "gloss": "y ⟨ha⟩ caído"
     },
     {
       "surface": "בשחת",
-      "english": "⟨en⟩ el hoyo"
+      "gloss": "⟨en⟩ el hoyo"
     },
     {
       "surface": "יפעל",
-      "english": "que ⟨él⟩ ⟨hizo⟩"
+      "gloss": "que ⟨él⟩ ⟨hizo⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:26.874367946Z",
-  "model": "glm-4.5"
+  ]
 }

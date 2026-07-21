@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-samuel 8:10",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 447,
-    "prompt_tokens": 23870,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24317
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:36:41.184503988Z",
   "translation": "Y Shmuel dijo ⟨את⟩ todas las palabras de YHWH ⟨a⟩ el pueblo ⟨que estaba⟩ pidiendo de él un rey.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y"
+      "gloss": "Y"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todas las palabras de YHWH"
     },
     {
       "surface": "כל",
-      "english": "todas las"
+      "gloss": "todas las"
     },
     {
       "surface": "דברי",
-      "english": "palabras"
+      "gloss": "palabras"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "העם",
-      "english": "el pueblo"
+      "gloss": "el pueblo"
     },
     {
       "surface": "השאלים",
-      "english": "⟨que estaba⟩ pidiendo"
+      "gloss": "⟨que estaba⟩ pidiendo"
     },
     {
       "surface": "מאתו",
-      "english": "de él"
+      "gloss": "de él"
     },
     {
       "surface": "מלך",
-      "english": "un rey"
+      "gloss": "un rey"
     }
-  ],
-  "timestamp": "2026-07-16T18:36:41.184503988Z",
-  "model": "glm-4.5"
+  ]
 }

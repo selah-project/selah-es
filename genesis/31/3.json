@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 31:3",
   "book": "genesis",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28650,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29070
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:28:29.187047633Z",
   "translation": "Y YHWH dijo a Yaakov: 'Vuelve ⟨a⟩ ⟨la⟩ tierra de tus padres, y ⟨a⟩ tu parentela, y yo estaré contigo'",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y...dijo",
+      "gloss": "Y...dijo",
       "marks": "YHWH dijo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "שוב",
-      "english": "Vuelve"
+      "gloss": "Vuelve"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "אבותיך",
-      "english": "de tus padres"
+      "gloss": "de tus padres"
     },
     {
       "surface": "ולמולדתך",
-      "english": "y ⟨a⟩ tu parentela"
+      "gloss": "y ⟨a⟩ tu parentela"
     },
     {
       "surface": "ואהיה",
-      "english": "y yo estaré"
+      "gloss": "y yo estaré"
     },
     {
       "surface": "עמך",
-      "english": "contigo"
+      "gloss": "contigo"
     }
-  ],
-  "timestamp": "2026-06-10T05:28:29.187047633Z",
-  "model": "glm-4.5"
+  ]
 }

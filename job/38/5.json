@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 38:5",
   "book": "job",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27238,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27744
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:15:20.030737933Z",
   "translation": "¿Quién ⟨puso⟩ ⟨sus⟩ medidas, ⟨si⟩ ⟨tú⟩ ⟨sabes⟩ ⟨o⟩ quién ⟨tensó⟩ ⟨sobre⟩ ella ⟨la⟩ línea?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "שם",
-      "english": "⟨puso⟩"
+      "gloss": "⟨puso⟩"
     },
     {
       "surface": "ממדיה",
-      "english": "⟨sus⟩ medidas"
+      "gloss": "⟨sus⟩ medidas"
     },
     {
       "surface": "כי",
-      "english": "⟨si⟩"
+      "gloss": "⟨si⟩"
     },
     {
       "surface": "תדע",
-      "english": "⟨tú⟩ ⟨sabes⟩"
+      "gloss": "⟨tú⟩ ⟨sabes⟩"
     },
     {
       "surface": "או",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "מי",
-      "english": "quién"
+      "gloss": "quién"
     },
     {
       "surface": "נטה",
-      "english": "⟨tensó⟩"
+      "gloss": "⟨tensó⟩"
     },
     {
       "surface": "עליה",
-      "english": "⟨sobre⟩ ella"
+      "gloss": "⟨sobre⟩ ella"
     },
     {
       "surface": "קו",
-      "english": "⟨la⟩ línea"
+      "gloss": "⟨la⟩ línea"
     }
-  ],
-  "timestamp": "2026-06-10T02:15:20.030737933Z",
-  "model": "glm-4.5"
+  ]
 }

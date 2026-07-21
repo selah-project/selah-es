@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "song-of-songs 1:15",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27396,
-    "prompt_tokens_details": {
-      "cached_tokens": 26434
-    },
-    "total_tokens": 27888
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:36:08.860063999Z",
   "translation": "¡He aquí que ⟨eres⟩ hermosa, amiga mía! ¡He aquí que ⟨eres⟩ hermosa! ⟨Tus⟩ ojos ⟨son como⟩ palomas.",
   "tokens": [
     {
       "surface": "הנך",
-      "english": "¡He aquí que",
+      "gloss": "¡He aquí que",
       "marks": null
     },
     {
       "surface": "יפה",
-      "english": "⟨eres⟩ hermosa",
+      "gloss": "⟨eres⟩ hermosa",
       "marks": "hermosa"
     },
     {
       "surface": "רעיתי",
-      "english": "amiga mía",
+      "gloss": "amiga mía",
       "marks": null
     },
     {
       "surface": "הנך",
-      "english": "¡He aquí que",
+      "gloss": "¡He aquí que",
       "marks": null
     },
     {
       "surface": "יפה",
-      "english": "⟨eres⟩ hermosa",
+      "gloss": "⟨eres⟩ hermosa",
       "marks": "hermosa"
     },
     {
       "surface": "עיניך",
-      "english": "⟨Tus⟩ ojos",
+      "gloss": "⟨Tus⟩ ojos",
       "marks": "ojos"
     },
     {
       "surface": "יונים",
-      "english": "⟨son como⟩ palomas",
+      "gloss": "⟨son como⟩ palomas",
       "marks": "palomas"
     }
-  ],
-  "timestamp": "2026-06-09T22:36:08.860063999Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,36 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 31:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 31,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:20:36.902729084Z",
+  "translation": "Y YHWH habló a Moshé ⟨para⟩ decir:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Y habló"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨para⟩ decir"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moisés",
@@ -13,44 +40,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16155,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 16446
-  },
-  "translation": "Y YHWH habló a Moshé ⟨para⟩ decir:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "Y habló"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨para⟩ decir"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:20:36.902729084Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

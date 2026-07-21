@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 39:15",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27057,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27460
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:16:04.848056187Z",
   "translation": "y olvida ⟨que⟩ ⟨el⟩ pie ⟨la⟩ aplaste o ⟨que⟩ ⟨la⟩ bestia del campo ⟨la⟩ pise",
   "tokens": [
     {
       "surface": "ותשכח",
-      "english": "Y olvida"
+      "gloss": "Y olvida"
     },
     {
       "surface": "כי",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "רגל",
-      "english": "⟨el⟩ pie"
+      "gloss": "⟨el⟩ pie"
     },
     {
       "surface": "תזורה",
-      "english": "⟨la⟩ aplaste"
+      "gloss": "⟨la⟩ aplaste"
     },
     {
       "surface": "וחית",
-      "english": "o ⟨que⟩ ⟨la⟩"
+      "gloss": "o ⟨que⟩ ⟨la⟩"
     },
     {
       "surface": "השדה",
-      "english": "bestia del campo"
+      "gloss": "bestia del campo"
     },
     {
       "surface": "תדושה",
-      "english": "⟨la⟩ pise"
+      "gloss": "⟨la⟩ pise"
     }
-  ],
-  "timestamp": "2026-06-10T02:16:04.848056187Z",
-  "model": "glm-4.5"
+  ]
 }

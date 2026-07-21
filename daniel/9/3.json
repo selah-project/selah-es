@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "daniel 9:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 9,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:06:02.066443945Z",
+  "translation": "Y volví ⟨את⟩ mi rostro hacia Adonai mi Elohim, buscando con oración y súplicas, con ayuno, saco y ceniza.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Y volví"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mi rostro"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mi rostro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hacia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "mi Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "buscando"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "con oración"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "y súplicas"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "con ayuno"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "saco"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "y ceniza"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el Señor",
@@ -13,73 +69,6 @@
       "hebrew": "אדני"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17284,
-    "prompt_tokens_details": {
-      "cached_tokens": 15766
-    },
-    "total_tokens": 17682
-  },
-  "translation": "Y volví ⟨את⟩ mi rostro hacia Adonai mi Elohim, buscando con oración y súplicas, con ayuno, saco y ceniza.",
-  "tokens": [
-    {
-      "surface": "ואתנה",
-      "english": "Y volví"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "mi rostro"
-    },
-    {
-      "surface": "פני",
-      "english": "mi rostro"
-    },
-    {
-      "surface": "אל",
-      "english": "hacia"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "האלהים",
-      "english": "mi Elohim"
-    },
-    {
-      "surface": "לבקש",
-      "english": "buscando"
-    },
-    {
-      "surface": "תפלה",
-      "english": "con oración"
-    },
-    {
-      "surface": "ותחנונים",
-      "english": "y súplicas"
-    },
-    {
-      "surface": "בצום",
-      "english": "con ayuno"
-    },
-    {
-      "surface": "ושק",
-      "english": "saco"
-    },
-    {
-      "surface": "ואפר",
-      "english": "y ceniza"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:06:02.066443945Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

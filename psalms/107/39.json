@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 39,
   "ref": "psalms 107:39",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69671,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70001
-  },
+  "verse": 39,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:49.775345066Z",
   "translation": "⟨they⟩ are diminished and brought low through oppression, evil, and sorrow.",
   "tokens": [
     {
       "surface": "וימעטו",
-      "english": "⟨They⟩ are diminished"
+      "gloss": "⟨They⟩ are diminished"
     },
     {
       "surface": "וישחו",
-      "english": "and brought low"
+      "gloss": "and brought low"
     },
     {
       "surface": "מעצר",
-      "english": "through oppression"
+      "gloss": "through oppression"
     },
     {
       "surface": "רעה",
-      "english": "evil"
+      "gloss": "evil"
     },
     {
       "surface": "ואגון",
-      "english": "and sorrow"
+      "gloss": "and sorrow"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:49.775345066Z",
-  "model": "glm-4.5"
+  ]
 }

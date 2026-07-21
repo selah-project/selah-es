@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 23:12",
   "book": "genesis",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28101,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28385
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:19:34.581178489Z",
   "translation": "Y Abraham ⟨se⟩ postró ⟨delante de⟩ el pueblo ⟨de⟩ la tierra",
   "tokens": [
     {
       "surface": "וישתחו",
-      "english": "Y Abraham ⟨se⟩ postró"
+      "gloss": "Y Abraham ⟨se⟩ postró"
     },
     {
       "surface": "אברהם",
-      "english": "Abraham"
+      "gloss": "Abraham"
     },
     {
       "surface": "לפני",
-      "english": "⟨delante de⟩"
+      "gloss": "⟨delante de⟩"
     },
     {
       "surface": "עם",
-      "english": "el pueblo"
+      "gloss": "el pueblo"
     },
     {
       "surface": "הארץ",
-      "english": "⟨de⟩ la tierra"
+      "gloss": "⟨de⟩ la tierra"
     }
-  ],
-  "timestamp": "2026-06-10T05:19:34.581178489Z",
-  "model": "glm-4.5"
+  ]
 }

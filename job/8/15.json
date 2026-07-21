@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 8:15",
   "book": "job",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 460,
-    "prompt_tokens": 27289,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27749
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:58:02.973213644Z",
   "translation": "Él ⟨se⟩ apoyará sobre su casa, y no ⟨se⟩ mantendrá ⟨en pie⟩; ⟨se⟩ aferrará a ella, y no se erguirá.",
   "tokens": [
     {
       "surface": "יִשָּׁעֵ֣ן",
-      "english": "⟨se⟩ apoyará"
+      "gloss": "⟨se⟩ apoyará"
     },
     {
       "surface": "עַל",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "בֵּ֭ית\/וֹ",
-      "english": "su casa"
+      "gloss": "su casa"
     },
     {
       "surface": "וְ\/לֹ֣א",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יַעֲמֹ֑ד",
-      "english": "⟨se⟩ mantendrá ⟨en pie⟩"
+      "gloss": "⟨se⟩ mantendrá ⟨en pie⟩"
     },
     {
       "surface": "יַחֲזִ֥יק",
-      "english": "⟨se⟩ aferrará"
+      "gloss": "⟨se⟩ aferrará"
     },
     {
       "surface": "בּ֝֗\/וֹ",
-      "english": "a ella"
+      "gloss": "a ella"
     },
     {
       "surface": "וְ\/לֹ֣א",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יָקֽוּם",
-      "english": "se erguirá"
+      "gloss": "se erguirá"
     }
-  ],
-  "timestamp": "2026-07-16T21:58:02.973213644Z",
-  "model": "glm-4.5"
+  ]
 }

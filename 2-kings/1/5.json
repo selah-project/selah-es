@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-kings 1:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 238,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16579,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 16817
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:20:06.298963978Z",
   "translation": "Y los mensajeros se volvieron a él y él les dijo, '¿Qué ⟨es⟩ esto que os habéis vuelto?'",
   "tokens": [
     {
       "surface": "וישובו",
-      "english": "Y se volvieron"
+      "gloss": "Y se volvieron"
     },
     {
       "surface": "המלאכים",
-      "english": "los mensajeros"
+      "gloss": "los mensajeros"
     },
     {
       "surface": "אליו",
-      "english": "a él"
+      "gloss": "a él"
     },
     {
       "surface": "ויאמר",
-      "english": "y él dijo"
+      "gloss": "y él dijo"
     },
     {
       "surface": "אליהם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "זה",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "שבתם",
-      "english": "que os habéis vuelto"
+      "gloss": "que os habéis vuelto"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:20:06.298963978Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

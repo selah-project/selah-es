@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "numbers 11:6",
   "book": "numbers",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25105,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25443
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:47:41.548434395Z",
   "translation": "y ahora nuestra alma ⟨está⟩ seca ⟨hay⟩ nada ⟨a⟩ excepción ⟨de⟩ ⟨el⟩ maná nuestros ojos",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "Y ahora"
+      "gloss": "Y ahora"
     },
     {
       "surface": "נפשנו",
-      "english": "nuestra alma"
+      "gloss": "nuestra alma"
     },
     {
       "surface": "יבשה",
-      "english": "seca"
+      "gloss": "seca"
     },
     {
       "surface": "אין",
-      "english": "⟨hay⟩"
+      "gloss": "⟨hay⟩"
     },
     {
       "surface": "כל",
-      "english": "nada"
+      "gloss": "nada"
     },
     {
       "surface": "בלתי",
-      "english": "⟨a⟩ excepción ⟨de⟩"
+      "gloss": "⟨a⟩ excepción ⟨de⟩"
     },
     {
       "surface": "אל",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "המן",
-      "english": "maná"
+      "gloss": "maná"
     },
     {
       "surface": "עינינו",
-      "english": "nuestros ojos"
+      "gloss": "nuestros ojos"
     }
-  ],
-  "timestamp": "2026-06-10T04:47:41.548434395Z",
-  "model": "glm-4.5"
+  ]
 }

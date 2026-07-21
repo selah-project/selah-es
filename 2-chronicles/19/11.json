@@ -1,9 +1,120 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-chronicles 19:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 19,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:20:05.161822834Z",
+  "translation": "Y he aquí, Amarías Kohen principal ⟨estará⟩ sobre vosotros en todo asunto de YHWH, y Zebadías hijo de Yishmael, el príncipe de la casa de Yehudá, en todo asunto del rey, y los oficiales ⟨estarán⟩ los levitas delante de vosotros; esforzaos y ⟨haced⟩, y YHWH ⟨estará⟩ con el bueno.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Y he aquí"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "Amarías"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "principal"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sobre vosotros"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "en todo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asunto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וזבדיהו",
+      "gloss": "y Zebadías"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "de Yishmael"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "el príncipe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "de la casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "en todo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asunto"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del rey"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "y los oficiales"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "los levitas"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "delante de vosotros"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "esforzaos"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "y ⟨haced⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y YHWH ⟨estará⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "el bueno"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -27,128 +138,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 900,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59618,
-    "prompt_tokens_details": {
-      "cached_tokens": 56680
-    },
-    "total_tokens": 60518
-  },
-  "translation": "Y he aquí, Amarías Kohen principal ⟨estará⟩ sobre vosotros en todo asunto de YHWH, y Zebadías hijo de Yishmael, el príncipe de la casa de Yehudá, en todo asunto del rey, y los oficiales ⟨estarán⟩ los levitas delante de vosotros; esforzaos y ⟨haced⟩, y YHWH ⟨estará⟩ con el bueno.",
-  "tokens": [
-    {
-      "surface": "והנה",
-      "english": "Y he aquí"
-    },
-    {
-      "surface": "אמריהו",
-      "english": "Amarías"
-    },
-    {
-      "surface": "כהן",
-      "english": "Kohen"
-    },
-    {
-      "surface": "הראש",
-      "english": "principal"
-    },
-    {
-      "surface": "עליכם",
-      "english": "sobre vosotros"
-    },
-    {
-      "surface": "לכל",
-      "english": "en todo"
-    },
-    {
-      "surface": "דבר",
-      "english": "asunto"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "וזבדיהו",
-      "english": "y Zebadías"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "ישמעאל",
-      "english": "de Yishmael"
-    },
-    {
-      "surface": "הנגיד",
-      "english": "el príncipe"
-    },
-    {
-      "surface": "לבית",
-      "english": "de la casa"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "לכל",
-      "english": "en todo"
-    },
-    {
-      "surface": "דבר",
-      "english": "asunto"
-    },
-    {
-      "surface": "המלך",
-      "english": "del rey"
-    },
-    {
-      "surface": "ושטרים",
-      "english": "y los oficiales"
-    },
-    {
-      "surface": "הלוים",
-      "english": "los levitas"
-    },
-    {
-      "surface": "לפניכם",
-      "english": "delante de vosotros"
-    },
-    {
-      "surface": "חזקו",
-      "english": "esforzaos"
-    },
-    {
-      "surface": "ועשו",
-      "english": "y ⟨haced⟩"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y YHWH ⟨estará⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "הטוב",
-      "english": "el bueno"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:20:05.161822834Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

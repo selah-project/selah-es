@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-samuel 23:12",
   "book": "2-samuel",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 619,
-    "prompt_tokens": 24837,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25456
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:31:21.066197196Z",
   "translation": "y se puso en medio de ⟨la⟩ parcela y la libró, e hirió a ⟨los⟩ Pelishtim, y YHWH hizo una salvación grande",
   "tokens": [
     {
       "surface": "ויתיצב",
-      "english": "y se puso"
+      "gloss": "y se puso"
     },
     {
       "surface": "בתוך",
-      "english": "en medio de"
+      "gloss": "en medio de"
     },
     {
       "surface": "החלקה",
-      "english": "⟨la⟩ parcela"
+      "gloss": "⟨la⟩ parcela"
     },
     {
       "surface": "ויצילה",
-      "english": "y la libró"
+      "gloss": "y la libró"
     },
     {
       "surface": "ויך",
-      "english": "e hirió"
+      "gloss": "e hirió"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a ⟨los⟩ Pelishtim"
     },
     {
       "surface": "פלשתים",
-      "english": "Pelishtim"
+      "gloss": "Pelishtim"
     },
     {
       "surface": "ויעש",
-      "english": "y YHWH hizo"
+      "gloss": "y YHWH hizo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "תשועה",
-      "english": "una salvación"
+      "gloss": "una salvación"
     },
     {
       "surface": "גדולה",
-      "english": "grande"
+      "gloss": "grande"
     }
-  ],
-  "timestamp": "2026-07-16T19:31:21.066197196Z",
-  "model": "glm-4.5"
+  ]
 }

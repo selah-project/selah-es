@@ -1,9 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-chronicles 11:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 11,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:39:23.120236451Z",
+  "translation": "Y habitó Davidd en ⟨el⟩ fuerte, por ⟨eso⟩ le llamaron Ciudad de Davidd.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Y habitó"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "en ⟨el⟩ fuerte",
+      "marks": "la fortaleza"
+    },
+    {
+      "surface": "על",
+      "gloss": "por"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨eso⟩"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "llamaron"
+    },
+    {
+      "surface": "לו",
+      "gloss": "le"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ciudad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,61 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56775,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57135
-  },
-  "translation": "Y habitó Davidd en ⟨el⟩ fuerte, por ⟨eso⟩ le llamaron Ciudad de Davidd.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "Y habitó"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "במצד",
-      "english": "en ⟨el⟩ fuerte",
-      "marks": "la fortaleza"
-    },
-    {
-      "surface": "על",
-      "english": "por"
-    },
-    {
-      "surface": "כן",
-      "english": "⟨eso⟩"
-    },
-    {
-      "surface": "קראו",
-      "english": "llamaron"
-    },
-    {
-      "surface": "לו",
-      "english": "le"
-    },
-    {
-      "surface": "עיר",
-      "english": "Ciudad"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:39:23.120236451Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

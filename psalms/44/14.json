@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 44:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69869,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70299
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:22.977918917Z",
   "translation": "Tú nos ⟨has⟩ hecho ⟨un⟩ reproche ⟨a⟩ nuestros vecinos, ⟨un⟩ escarnio y ⟨un⟩ burla ⟨a⟩ los ⟨que están⟩ ⟨a⟩ nuestro alrededor",
   "tokens": [
     {
       "surface": "תשימנו",
-      "english": "Tú nos ⟨has⟩ hecho"
+      "gloss": "Tú nos ⟨has⟩ hecho"
     },
     {
       "surface": "חרפה",
-      "english": "⟨un⟩ reproche"
+      "gloss": "⟨un⟩ reproche"
     },
     {
       "surface": "לשכנינו",
-      "english": "⟨a⟩ nuestros vecinos"
+      "gloss": "⟨a⟩ nuestros vecinos"
     },
     {
       "surface": "לעג",
-      "english": "⟨un⟩ escarnio"
+      "gloss": "⟨un⟩ escarnio"
     },
     {
       "surface": "וקלס",
-      "english": "y ⟨un⟩ burla"
+      "gloss": "y ⟨un⟩ burla"
     },
     {
       "surface": "לסביבותינו",
-      "english": "⟨a⟩ los ⟨que están⟩ ⟨a⟩ nuestro alrededor"
+      "gloss": "⟨a⟩ los ⟨que están⟩ ⟨a⟩ nuestro alrededor"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:22.977918917Z",
-  "model": "glm-4.5"
+  ]
 }

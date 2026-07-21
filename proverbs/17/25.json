@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 17:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59744,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60078
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:41:35.052945632Z",
   "translation": "Vexación ⟨es⟩ ⟨para⟩ su padre un hijo necio y amargura ⟨para⟩ la que lo dio a luz",
   "tokens": [
     {
       "surface": "כעס",
-      "english": "Vexación"
+      "gloss": "Vexación"
     },
     {
       "surface": "לאביו",
-      "english": "⟨para⟩ su padre"
+      "gloss": "⟨para⟩ su padre"
     },
     {
       "surface": "בן",
-      "english": "un hijo"
+      "gloss": "un hijo"
     },
     {
       "surface": "כסיל",
-      "english": "necio"
+      "gloss": "necio"
     },
     {
       "surface": "וממר",
-      "english": "y amargura"
+      "gloss": "y amargura"
     },
     {
       "surface": "ליולדתו",
-      "english": "⟨para⟩ la que lo dio a luz"
+      "gloss": "⟨para⟩ la que lo dio a luz"
     }
-  ],
-  "timestamp": "2026-06-10T01:41:35.052945632Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 21:22",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26916,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27477
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:10.325823811Z",
   "translation": "¿Enseñará ⟨a⟩ ⟨el⟩ Poderoso conocimiento, ⟨y⟩ ⟨él⟩ juzga ⟨a⟩ los exaltados?",
   "tokens": [
     {
       "surface": "הלאל",
-      "english": "⟨A⟩ ⟨el⟩ Poderoso",
+      "gloss": "⟨A⟩ ⟨el⟩ Poderoso",
       "marks": "al Poderoso (Dios)"
     },
     {
       "surface": "ילמד",
-      "english": "¿Enseñará",
+      "gloss": "¿Enseñará",
       "marks": "la acción de enseñar"
     },
     {
       "surface": "דעת",
-      "english": "conocimiento",
+      "gloss": "conocimiento",
       "marks": "el objeto enseñado"
     },
     {
       "surface": "והוא",
-      "english": "⟨y⟩ ⟨él⟩",
+      "gloss": "⟨y⟩ ⟨él⟩",
       "marks": "el sujeto que juzga"
     },
     {
       "surface": "רמים",
-      "english": "⟨a⟩ los exaltados",
+      "gloss": "⟨a⟩ los exaltados",
       "marks": "los que son juzgados"
     },
     {
       "surface": "ישפוט",
-      "english": "juzga",
+      "gloss": "juzga",
       "marks": "la acción judicial"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:10.325823811Z",
-  "model": "glm-4.5"
+  ]
 }

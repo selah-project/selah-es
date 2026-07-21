@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "proverbs 25:27",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59923,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60295
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:48:30.967144163Z",
   "translation": "Eating much honey ⟨is⟩ not good, and searching out their own glory ⟨is⟩ not glory.",
   "tokens": [
     {
       "surface": "אכל",
-      "english": "Eating"
+      "gloss": "Eating"
     },
     {
       "surface": "דבש",
-      "english": "much honey"
+      "gloss": "much honey"
     },
     {
       "surface": "הרבות",
-      "english": "much"
+      "gloss": "much"
     },
     {
       "surface": "לא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "טוב",
-      "english": "good"
+      "gloss": "good"
     },
     {
       "surface": "וחקר",
-      "english": "and searching out"
+      "gloss": "and searching out"
     },
     {
       "surface": "כבדם",
-      "english": "their own glory",
+      "gloss": "their own glory",
       "marks": "their own glory"
     },
     {
       "surface": "כבוד",
-      "english": "glory"
+      "gloss": "glory"
     }
-  ],
-  "timestamp": "2026-06-10T01:48:30.967144163Z",
-  "model": "glm-4.5"
+  ]
 }

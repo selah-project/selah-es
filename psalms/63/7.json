@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 63:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69909,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70421
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:19.377800536Z",
   "translation": "Si ⟨es⟩ ⟨que⟩ me he acordado de ti sobre mi lecho, en las vigilias de ⟨la⟩ noche meditaré en ti.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si",
+      "gloss": "Si",
       "marks": "introduce la condición"
     },
     {
       "surface": "זכרתיך",
-      "english": "me he acordado de ti",
+      "gloss": "me he acordado de ti",
       "marks": "recuerdo dirigido a ti"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "י�צועי",
-      "english": "mi lecho"
+      "gloss": "mi lecho"
     },
     {
       "surface": "באשמרות",
-      "english": "en las vigilias de la noche"
+      "gloss": "en las vigilias de la noche"
     },
     {
       "surface": "אהגה",
-      "english": "meditaré"
+      "gloss": "meditaré"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:19.377800536Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "exodus 12:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 12,
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:38:22.079790765Z",
+  "translation": "Y los hijos de Yisrael hicieron ⟨como⟩ la palabra de Moshé, y pidieron de Egipto utensilios de plata y utensilios de oro, y vestidos",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Y los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hicieron"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "⟨como⟩ la palabra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "y pidieron"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "de Egipto"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "utensilios"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de plata"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "y utensilios"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de oro"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "y vestidos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16971,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17322
-  },
-  "translation": "Y los hijos de Yisrael hicieron ⟨como⟩ la palabra de Moshé, y pidieron de Egipto utensilios de plata y utensilios de oro, y vestidos",
-  "tokens": [
-    {
-      "surface": "ובני",
-      "english": "Y los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "עשו",
-      "english": "hicieron"
-    },
-    {
-      "surface": "כדבר",
-      "english": "⟨como⟩ la palabra"
-    },
-    {
-      "surface": "משה",
-      "english": "de Moshé"
-    },
-    {
-      "surface": "וישאלו",
-      "english": "y pidieron"
-    },
-    {
-      "surface": "ממצרים",
-      "english": "de Egipto"
-    },
-    {
-      "surface": "כלי",
-      "english": "utensilios"
-    },
-    {
-      "surface": "כסף",
-      "english": "de plata"
-    },
-    {
-      "surface": "וכלי",
-      "english": "y utensilios"
-    },
-    {
-      "surface": "זהב",
-      "english": "de oro"
-    },
-    {
-      "surface": "ושמלת",
-      "english": "y vestidos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:38:22.079790765Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

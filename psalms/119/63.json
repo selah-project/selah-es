@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 63,
   "ref": "psalms 119:63",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69838,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70223
-  },
+  "verse": 63,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:16.273482929Z",
   "translation": "Un compañero ⟨soy⟩ de todos los que ⟨te⟩ temen, y de los que guardan tus preceptos",
   "tokens": [
     {
       "surface": "חבר",
-      "english": "Un compañero"
+      "gloss": "Un compañero"
     },
     {
       "surface": "אני",
-      "english": "⟨soy⟩"
+      "gloss": "⟨soy⟩"
     },
     {
       "surface": "לכל",
-      "english": "de todos los"
+      "gloss": "de todos los"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יראוך",
-      "english": "⟨te⟩ temen"
+      "gloss": "⟨te⟩ temen"
     },
     {
       "surface": "ולשמרי",
-      "english": "y de los que"
+      "gloss": "y de los que"
     },
     {
       "surface": "פקודיך",
-      "english": "guardan tus preceptos"
+      "gloss": "guardan tus preceptos"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:16.273482929Z",
-  "model": "glm-4.5"
+  ]
 }

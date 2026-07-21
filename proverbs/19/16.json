@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 19:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59879,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60206
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:42:45.839192995Z",
   "translation": "El que ⟨es⟩ guardador de ⟨un⟩ mandato, ⟨es⟩ guardador de ⟨su⟩ alma; pero el que desprecia ⟨sus⟩ caminos morirá.",
   "tokens": [
     {
       "surface": "שמר",
-      "english": "El que ⟨es⟩ guardador"
+      "gloss": "El que ⟨es⟩ guardador"
     },
     {
       "surface": "מצוה",
-      "english": "de ⟨un⟩ mandato"
+      "gloss": "de ⟨un⟩ mandato"
     },
     {
       "surface": "שמר",
-      "english": "⟨es⟩ guardador"
+      "gloss": "⟨es⟩ guardador"
     },
     {
       "surface": "נפשו",
-      "english": "de ⟨su⟩ alma"
+      "gloss": "de ⟨su⟩ alma"
     },
     {
       "surface": "בוזה",
-      "english": "desprecia"
+      "gloss": "desprecia"
     },
     {
       "surface": "דרכיו",
-      "english": "⟨sus⟩ caminos"
+      "gloss": "⟨sus⟩ caminos"
     },
     {
       "surface": "יומת",
-      "english": "morirá"
+      "gloss": "morirá"
     }
-  ],
-  "timestamp": "2026-06-10T01:42:45.839192995Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,75 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 19:4",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 507,
-    "prompt_tokens": 64921,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 65428
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:10:46.023172241Z",
   "translation": "Y Chanun tomó ⟨את⟩ los siervos de David, y los afeitó, y cortó ⟨את⟩ sus vestidos por la mitad hasta las caderas, y los envió.",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "y tomó"
+      "gloss": "y tomó"
     },
     {
       "surface": "חנון",
-      "english": "Chanun"
+      "gloss": "Chanun"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los siervos de David"
     },
     {
       "surface": "עבדי",
-      "english": "los siervos"
+      "gloss": "los siervos"
     },
     {
       "surface": "דויד",
-      "english": "de David"
+      "gloss": "de David"
     },
     {
       "surface": "ויגלחם",
-      "english": "y los afeitó"
+      "gloss": "y los afeitó"
     },
     {
       "surface": "ויכרת",
-      "english": "y cortó"
+      "gloss": "y cortó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus vestidos"
     },
     {
       "surface": "מדויהם",
-      "english": "sus vestidos"
+      "gloss": "sus vestidos"
     },
     {
       "surface": "בחצי",
-      "english": "por la mitad"
+      "gloss": "por la mitad"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "המפשעה",
-      "english": "las caderas"
+      "gloss": "las caderas"
     },
     {
       "surface": "וישלחם",
-      "english": "y los envió"
+      "gloss": "y los envió"
     }
-  ],
-  "timestamp": "2026-07-16T18:10:46.023172241Z",
-  "model": "glm-4.5"
+  ]
 }

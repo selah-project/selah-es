@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 20:9",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 345,
-    "prompt_tokens": 59853,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60198
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:20:48.114606784Z",
   "translation": "¿Quién ⟨puede⟩ decir: He purificado mi corazón; ⟨estoy⟩ limpio de mi pecado?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "יאמר",
-      "english": "⟨puede⟩ decir"
+      "gloss": "⟨puede⟩ decir"
     },
     {
       "surface": "זכיתי",
-      "english": "He purificado"
+      "gloss": "He purificado"
     },
     {
       "surface": "לבי",
-      "english": "mi corazón"
+      "gloss": "mi corazón"
     },
     {
       "surface": "טהרתי",
-      "english": "⟨estoy⟩ limpio"
+      "gloss": "⟨estoy⟩ limpio"
     },
     {
       "surface": "מחטאתי",
-      "english": "de mi pecado"
+      "gloss": "de mi pecado"
     }
-  ],
-  "timestamp": "2026-07-16T23:20:48.114606784Z",
-  "model": "glm-4.5"
+  ]
 }

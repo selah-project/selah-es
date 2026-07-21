@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 83,
   "ref": "psalms 119:83",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69869,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70303
-  },
+  "verse": 83,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:18.229084014Z",
   "translation": "Porque ⟨he⟩ llegado a ser como una odre ⟨en⟩ ⟨el⟩ humo ⟨—⟩ tus estatutos no ⟨he⟩ olvidado.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "הייתי",
-      "english": "⟨he⟩ llegado a ser",
+      "gloss": "⟨he⟩ llegado a ser",
       "marks": "I"
     },
     {
       "surface": "כנאד",
-      "english": "como una odre"
+      "gloss": "como una odre"
     },
     {
       "surface": "בקיטור",
-      "english": "⟨en⟩ ⟨el⟩ humo",
+      "gloss": "⟨en⟩ ⟨el⟩ humo",
       "marks": "the smoke"
     },
     {
       "surface": "חקיך",
-      "english": "tus estatutos"
+      "gloss": "tus estatutos"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "שכחתי",
-      "english": "⟨he⟩ olvidado",
+      "gloss": "⟨he⟩ olvidado",
       "marks": "I have forgotten"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:18.229084014Z",
-  "model": "glm-4.5"
+  ]
 }

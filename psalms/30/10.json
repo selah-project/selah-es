@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 30:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 633,
-    "prompt_tokens": 70193,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70826
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:28:40.646627041Z",
   "translation": "¿Qué provecho ⟨hay⟩ en mi sangre, en mi descenso a la fosa? ¿⟨El⟩ polvo te alabará? ¿⟨él⟩ proclamará tu verdad?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¿Qué...?"
+      "gloss": "¿Qué...?"
     },
     {
       "surface": "בצע",
-      "english": "provecho"
+      "gloss": "provecho"
     },
     {
       "surface": "בדמי",
-      "english": "en mi sangre"
+      "gloss": "en mi sangre"
     },
     {
       "surface": "ברדתי",
-      "english": "en mi descenso"
+      "gloss": "en mi descenso"
     },
     {
       "surface": "אל",
-      "english": "a la"
+      "gloss": "a la"
     },
     {
       "surface": "שחת",
-      "english": "fosa"
+      "gloss": "fosa"
     },
     {
       "surface": "היודך",
-      "english": "¿⟨El⟩ polvo te alabará?"
+      "gloss": "¿⟨El⟩ polvo te alabará?"
     },
     {
       "surface": "עפר",
-      "english": "⟨El⟩ polvo"
+      "gloss": "⟨El⟩ polvo"
     },
     {
       "surface": "היגיד",
-      "english": "proclamará"
+      "gloss": "proclamará"
     },
     {
       "surface": "אמתך",
-      "english": "tu verdad"
+      "gloss": "tu verdad"
     }
-  ],
-  "timestamp": "2026-07-16T23:28:40.646627041Z",
-  "model": "glm-4.5"
+  ]
 }

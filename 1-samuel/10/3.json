@@ -1,9 +1,132 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 10:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 10,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:53:28.381167205Z",
+  "translation": "Y pasarás de allí ⟨y⟩ seguirás adelante ⟨y⟩ llegarás hasta ⟨el⟩ encino de Tavor, ⟨y⟩ te encontrarán allí tres hombres que suben ⟨a⟩ Elohim ⟨a⟩ Bet-El, uno lleva tres cabritos, ⟨y⟩ otro lleva tres tortas de pan, ⟨y⟩ otro lleva una piel de vino.",
+  "tokens": [
+    {
+      "surface": "וחלפת",
+      "gloss": "Y pasarás"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de allí"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "⟨y⟩ seguirás adelante"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "⟨y⟩ llegarás"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "⟨el⟩ encino"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "de Tavor"
+    },
+    {
+      "surface": "ומצאוך",
+      "gloss": "⟨y⟩ te encontrarán"
+    },
+    {
+      "surface": "שם",
+      "gloss": "allí"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tres"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "hombres"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "que suben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lleva"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tres"
+    },
+    {
+      "surface": "גדיים",
+      "gloss": "cabritos"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "⟨y⟩ otro"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lleva"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tres"
+    },
+    {
+      "surface": "ככרות",
+      "gloss": "tortas"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "⟨y⟩ otro"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lleva"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "una piel"
+    },
+    {
+      "surface": "יין",
+      "gloss": "de vino"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Tabor",
@@ -13,140 +136,6 @@
       "hebrew": "תבור"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 805,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18045,
-    "prompt_tokens_details": {
-      "cached_tokens": 4
-    },
-    "total_tokens": 18850
-  },
-  "translation": "Y pasarás de allí ⟨y⟩ seguirás adelante ⟨y⟩ llegarás hasta ⟨el⟩ encino de Tavor, ⟨y⟩ te encontrarán allí tres hombres que suben ⟨a⟩ Elohim ⟨a⟩ Bet-El, uno lleva tres cabritos, ⟨y⟩ otro lleva tres tortas de pan, ⟨y⟩ otro lleva una piel de vino.",
-  "tokens": [
-    {
-      "surface": "וחלפת",
-      "english": "Y pasarás"
-    },
-    {
-      "surface": "משם",
-      "english": "de allí"
-    },
-    {
-      "surface": "והלאה",
-      "english": "⟨y⟩ seguirás adelante"
-    },
-    {
-      "surface": "ובאת",
-      "english": "⟨y⟩ llegarás"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta"
-    },
-    {
-      "surface": "אלון",
-      "english": "⟨el⟩ encino"
-    },
-    {
-      "surface": "תבור",
-      "english": "de Tavor"
-    },
-    {
-      "surface": "ומצאוך",
-      "english": "⟨y⟩ te encontrarán"
-    },
-    {
-      "surface": "שם",
-      "english": "allí"
-    },
-    {
-      "surface": "שלשה",
-      "english": "tres"
-    },
-    {
-      "surface": "אנשים",
-      "english": "hombres"
-    },
-    {
-      "surface": "עלים",
-      "english": "que suben"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "האלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "Bet-El"
-    },
-    {
-      "surface": "אחד",
-      "english": "uno"
-    },
-    {
-      "surface": "נשא",
-      "english": "lleva"
-    },
-    {
-      "surface": "שלשה",
-      "english": "tres"
-    },
-    {
-      "surface": "גדיים",
-      "english": "cabritos"
-    },
-    {
-      "surface": "ואחד",
-      "english": "⟨y⟩ otro"
-    },
-    {
-      "surface": "נשא",
-      "english": "lleva"
-    },
-    {
-      "surface": "שלשת",
-      "english": "tres"
-    },
-    {
-      "surface": "ככרות",
-      "english": "tortas"
-    },
-    {
-      "surface": "לחם",
-      "english": "de pan"
-    },
-    {
-      "surface": "ואחד",
-      "english": "⟨y⟩ otro"
-    },
-    {
-      "surface": "נשא",
-      "english": "lleva"
-    },
-    {
-      "surface": "נבל",
-      "english": "una piel"
-    },
-    {
-      "surface": "יין",
-      "english": "de vino"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:53:28.381167205Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

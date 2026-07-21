@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 37:18",
   "book": "genesis",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 449,
-    "prompt_tokens": 28754,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29203
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:09:41.227885333Z",
   "translation": "Y ⟨lo vieron⟩ ⟨a⟩ distancia ⟨y⟩ ⟨antes de que⟩ se acercara ⟨a⟩ ellos, conspiraron contra ⟨את⟩ ⟨él⟩ para matarlo",
   "tokens": [
     {
       "surface": "ויראו",
-      "english": "Y ⟨lo vieron⟩"
+      "gloss": "Y ⟨lo vieron⟩"
     },
     {
       "surface": "אתו",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "distancia"
     },
     {
       "surface": "מרחק",
-      "english": "distancia"
+      "gloss": "distancia"
     },
     {
       "surface": "ובטרם",
-      "english": "⟨y⟩ ⟨antes de que⟩"
+      "gloss": "⟨y⟩ ⟨antes de que⟩"
     },
     {
       "surface": "יקרב",
-      "english": "se acercara"
+      "gloss": "se acercara"
     },
     {
       "surface": "אליהם",
-      "english": "⟨a⟩ ellos"
+      "gloss": "⟨a⟩ ellos"
     },
     {
       "surface": "ותנכלו",
-      "english": "conspiraron contra"
+      "gloss": "conspiraron contra"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨él⟩"
     },
     {
       "surface": "להמיתו",
-      "english": "para matarlo"
+      "gloss": "para matarlo"
     }
-  ],
-  "timestamp": "2026-07-16T21:09:41.227885333Z",
-  "model": "glm-4.5"
+  ]
 }

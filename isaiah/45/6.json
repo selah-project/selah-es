@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "isaiah 45:6",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26469,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26979
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:49:30.378683728Z",
   "translation": "Para que sepan desde donde sale el sol y hasta donde se pone ⟨el⟩ sol, que ⟨hay⟩ nadie excepto Yo; Yo ⟨soy⟩ YHWH y ⟨no hay⟩ nadie más.",
   "tokens": [
     {
       "surface": "למען",
-      "english": "Para que"
+      "gloss": "Para que"
     },
     {
       "surface": "ידעו",
-      "english": "sepan"
+      "gloss": "sepan"
     },
     {
       "surface": "ממזרח",
-      "english": "desde donde sale"
+      "gloss": "desde donde sale"
     },
     {
       "surface": "שמש",
-      "english": "el sol"
+      "gloss": "el sol"
     },
     {
       "surface": "וממערבה",
-      "english": "y hasta donde se pone"
+      "gloss": "y hasta donde se pone"
     },
     {
       "surface": "שמש",
-      "english": "el sol"
+      "gloss": "el sol"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אפס",
-      "english": "⟨hay⟩ nadie"
+      "gloss": "⟨hay⟩ nadie"
     },
     {
       "surface": "בלעדי",
-      "english": "excepto"
+      "gloss": "excepto"
     },
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "יהוה",
-      "english": "⟨soy⟩ YHWH"
+      "gloss": "⟨soy⟩ YHWH"
     },
     {
       "surface": "ואין",
-      "english": "y ⟨no hay⟩ nadie más"
+      "gloss": "y ⟨no hay⟩ nadie más"
     }
-  ],
-  "timestamp": "2026-06-10T02:49:30.378683728Z",
-  "model": "glm-4.5"
+  ]
 }

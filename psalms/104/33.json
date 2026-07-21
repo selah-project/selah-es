@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "psalms 104:33",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69794,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70150
-  },
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:32.741551991Z",
   "translation": "I will sing ⟨to⟩ YHWH in my life; I will play ⟨on⟩ ⟨the⟩ strings ⟨to⟩ Elohim in my being",
   "tokens": [
     {
       "surface": "אשירה",
-      "english": "I will sing"
+      "gloss": "I will sing"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨to⟩ YHWH"
+      "gloss": "⟨to⟩ YHWH"
     },
     {
       "surface": "בחיי",
-      "english": "in my life"
+      "gloss": "in my life"
     },
     {
       "surface": "אזמרה",
-      "english": "I will play ⟨on⟩ ⟨the⟩ strings"
+      "gloss": "I will play ⟨on⟩ ⟨the⟩ strings"
     },
     {
       "surface": "לאלהי",
-      "english": "⟨to⟩ Elohim"
+      "gloss": "⟨to⟩ Elohim"
     },
     {
       "surface": "בעודי",
-      "english": "in my being"
+      "gloss": "in my being"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:32.741551991Z",
-  "model": "glm-4.5"
+  ]
 }

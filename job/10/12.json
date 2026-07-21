@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 10:12",
   "book": "job",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 548,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27059,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27607
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:49.599141678Z",
   "translation": "Vida y misericordia has hecho conmigo, y tu visitación ha preservado mi espíritu.",
   "tokens": [
     {
       "surface": "חיים",
-      "english": "Vida",
+      "gloss": "Vida",
       "marks": "sujeto tácito de la primera cláusula"
     },
     {
       "surface": "וחסד",
-      "english": "y misericordia",
+      "gloss": "y misericordia",
       "marks": "complemento junto con 'vida'"
     },
     {
       "surface": "עשית",
-      "english": "has hecho",
+      "gloss": "has hecho",
       "marks": "verbo que actúa sobre 'vida y misericordia'"
     },
     {
       "surface": "עמדי",
-      "english": "conmigo",
+      "gloss": "conmigo",
       "marks": "objeto indirecto del verbo 'has hecho'"
     },
     {
       "surface": "ופקדתך",
-      "english": "y tu visitación",
+      "gloss": "y tu visitación",
       "marks": "sujeto tácito de la segunda cláusula"
     },
     {
       "surface": "שמרה",
-      "english": "ha preservado",
+      "gloss": "ha preservado",
       "marks": "verbo principal de la segunda cláusula"
     },
     {
       "surface": "רוחי",
-      "english": "mi espíritu",
+      "gloss": "mi espíritu",
       "marks": "objeto directo del verbo 'ha preservado'"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:49.599141678Z",
-  "model": "glm-4.5"
+  ]
 }

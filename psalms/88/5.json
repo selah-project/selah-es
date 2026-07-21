@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 88:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 361,
-    "prompt_tokens": 70149,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70510
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:59.478206469Z",
   "translation": "Soy contado con los que descienden a la fosa; soy como un hombre ⟨que⟩ no ⟨tiene⟩ fuerza:",
   "tokens": [
     {
       "surface": "נחשבתי",
-      "english": "Soy contado"
+      "gloss": "Soy contado"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "יורדי",
-      "english": "los que descienden"
+      "gloss": "los que descienden"
     },
     {
       "surface": "בור",
-      "english": "a la fosa"
+      "gloss": "a la fosa"
     },
     {
       "surface": "הייתי",
-      "english": "soy"
+      "gloss": "soy"
     },
     {
       "surface": "כגבר",
-      "english": "como un hombre"
+      "gloss": "como un hombre"
     },
     {
       "surface": "אין",
-      "english": "⟨que⟩ no"
+      "gloss": "⟨que⟩ no"
     },
     {
       "surface": "איל",
-      "english": "⟨tiene⟩ fuerza"
+      "gloss": "⟨tiene⟩ fuerza"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:59.478206469Z",
-  "model": "glm-4.5"
+  ]
 }

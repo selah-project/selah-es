@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 148:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62796,
-    "prompt_tokens_details": {
-      "cached_tokens": 61594
-    },
-    "total_tokens": 63223
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:25:01.646270234Z",
   "translation": "¡Alaben a YHWH! ¡Alaben ⟨a⟩ YHWH desde ⟨los⟩ cielos; alábenlo ⟨en⟩ ⟨las⟩ alturas.",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "¡Alaben"
+      "gloss": "¡Alaben"
     },
     {
       "surface": "יה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "הללו",
-      "english": "¡Alaben"
+      "gloss": "¡Alaben"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מן",
-      "english": "desde"
+      "gloss": "desde"
     },
     {
       "surface": "השמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "הללוהו",
-      "english": "alábenlo"
+      "gloss": "alábenlo"
     },
     {
       "surface": "במרומים",
-      "english": "⟨en⟩ ⟨las⟩ alturas"
+      "gloss": "⟨en⟩ ⟨las⟩ alturas"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:25:01.646270234Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

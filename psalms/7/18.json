@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 7:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69799,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70296
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:30.493273715Z",
   "translation": "I will praise YHWH ⟨according to⟩ ⟨his⟩ righteousness ⟨and⟩ sing praise ⟨to⟩ ⟨the⟩ name of YHWH ⟨the⟩ Most High",
   "tokens": [
     {
       "surface": "אודה",
-      "english": "I will praise"
+      "gloss": "I will praise"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כצדקו",
-      "english": "⟨according to⟩ ⟨his⟩ righteousness"
+      "gloss": "⟨according to⟩ ⟨his⟩ righteousness"
     },
     {
       "surface": "ואזמרה",
-      "english": "⟨and⟩ sing praise"
+      "gloss": "⟨and⟩ sing praise"
     },
     {
       "surface": "שם",
-      "english": "⟨the⟩ name"
+      "gloss": "⟨the⟩ name"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עליון",
-      "english": "⟨the⟩ Most High"
+      "gloss": "⟨the⟩ Most High"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:30.493273715Z",
-  "model": "glm-4.5"
+  ]
 }

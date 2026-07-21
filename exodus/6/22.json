@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "exodus 6:22",
   "book": "exodus",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 301,
-    "prompt_tokens": 23798,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24099
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:09:47.510545164Z",
   "translation": "Y los hijos de Uzziel: Mishael, y Elzafán, y Zitri.",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "Y los hijos de"
+      "gloss": "Y los hijos de"
     },
     {
       "surface": "עזיאל",
-      "english": "Uzziel"
+      "gloss": "Uzziel"
     },
     {
       "surface": "מישאל",
-      "english": "Mishael"
+      "gloss": "Mishael"
     },
     {
       "surface": "ואלצפן",
-      "english": "y Elzafán"
+      "gloss": "y Elzafán"
     },
     {
       "surface": "וסתרי",
-      "english": "y Zitri"
+      "gloss": "y Zitri"
     }
-  ],
-  "timestamp": "2026-07-16T20:09:47.510545164Z",
-  "model": "glm-4.5"
+  ]
 }

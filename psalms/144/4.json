@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 144:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69779,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70170
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:10:12.643945033Z",
   "translation": "El hombre ⟨es⟩ ⟨como⟩ vanidad; sus días ⟨son⟩ ⟨como⟩ una sombra que pasa.",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "El hombre"
+      "gloss": "El hombre"
     },
     {
       "surface": "להבל",
-      "english": "⟨como⟩ vanidad",
+      "gloss": "⟨como⟩ vanidad",
       "marks": "vanidad"
     },
     {
       "surface": "דמה",
-      "english": "sus días ⟨son⟩",
+      "gloss": "sus días ⟨son⟩",
       "marks": "sus días"
     },
     {
       "surface": "ימיו",
-      "english": "⟨como⟩",
+      "gloss": "⟨como⟩",
       "marks": "una sombra que pasa"
     },
     {
       "surface": "כצל",
-      "english": "una sombra",
+      "gloss": "una sombra",
       "marks": "que pasa"
     },
     {
       "surface": "עובר",
-      "english": "que pasa"
+      "gloss": "que pasa"
     }
-  ],
-  "timestamp": "2026-06-10T00:10:12.643945033Z",
-  "model": "glm-4.5"
+  ]
 }

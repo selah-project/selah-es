@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 31:12",
   "book": "job",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 487,
-    "prompt_tokens": 27320,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27807
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:00:48.178911495Z",
   "translation": "Porque ella ⟨es⟩ fuego, hasta Avaddón ⟨את⟩ devora, y en todo ⟨el⟩ fruto de mi entrada ⟨את⟩ desarraiga.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אש",
-      "english": "fuego"
+      "gloss": "fuego"
     },
     {
       "surface": "היא",
-      "english": "ella ⟨es⟩"
+      "gloss": "ella ⟨es⟩"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "אבדון",
-      "english": "Avaddón"
+      "gloss": "Avaddón"
     },
     {
       "surface": "תאכל",
-      "english": "⟨את⟩ devora",
+      "gloss": "⟨את⟩ devora",
       "marks": "fuego"
     },
     {
       "surface": "ובכל",
-      "english": "y en todo ⟨el⟩"
+      "gloss": "y en todo ⟨el⟩"
     },
     {
       "surface": "תבואתי",
-      "english": "fruto de mi entrada"
+      "gloss": "fruto de mi entrada"
     },
     {
       "surface": "תשרש",
-      "english": "⟨את⟩ desarraiga",
+      "gloss": "⟨את⟩ desarraiga",
       "marks": "fruto de mi entrada"
     }
-  ],
-  "timestamp": "2026-07-16T22:00:48.178911495Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "song-of-songs 4:5",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27503,
-    "prompt_tokens_details": {
-      "cached_tokens": 26434
-    },
-    "total_tokens": 27819
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:36:34.387437624Z",
   "translation": "Tus dos pechos ⟨son⟩ como dos cervatillos, gemelos ⟨de⟩ una gacela, que pacen ⟨entre⟩ ⟨los⟩ lirios",
   "tokens": [
     {
       "surface": "שני",
-      "english": "Tus dos"
+      "gloss": "Tus dos"
     },
     {
       "surface": "שדיך",
-      "english": "pechos"
+      "gloss": "pechos"
     },
     {
       "surface": "כשני",
-      "english": "como dos"
+      "gloss": "como dos"
     },
     {
       "surface": "עפרים",
-      "english": "cervatillos"
+      "gloss": "cervatillos"
     },
     {
       "surface": "תאומי",
-      "english": "gemelos"
+      "gloss": "gemelos"
     },
     {
       "surface": "צביה",
-      "english": "de una gacela"
+      "gloss": "de una gacela"
     },
     {
       "surface": "הרועים",
-      "english": "que pacen"
+      "gloss": "que pacen"
     },
     {
       "surface": "בשושנים",
-      "english": "entre los lirios"
+      "gloss": "entre los lirios"
     }
-  ],
-  "timestamp": "2026-06-09T22:36:34.387437624Z",
-  "model": "glm-4.5"
+  ]
 }

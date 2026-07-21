@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "joshua 4:11",
   "book": "joshua",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 641,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23708,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 24349
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:08:35.282997934Z",
   "translation": "Y sucedió ⟨que⟩ ⟨cuando⟩ terminó todo ⟨el⟩ pueblo ⟨de⟩ pasar ⟨entonces⟩ ⟨el⟩ arca de YHWH ⟨y⟩ ⟨los⟩ sacerdotes ⟨en⟩ presencia de ⟨el⟩ pueblo",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y sucedió"
+      "gloss": "Y sucedió"
     },
     {
       "surface": "כאשר",
-      "english": "⟨que⟩ ⟨cuando⟩"
+      "gloss": "⟨que⟩ ⟨cuando⟩"
     },
     {
       "surface": "תם",
-      "english": "terminó"
+      "gloss": "terminó"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "לעבור",
-      "english": "⟨de⟩ pasar"
+      "gloss": "⟨de⟩ pasar"
     },
     {
       "surface": "ויעבר",
-      "english": "⟨entonces⟩ ⟨el⟩"
+      "gloss": "⟨entonces⟩ ⟨el⟩"
     },
     {
       "surface": "ארון",
-      "english": "arca"
+      "gloss": "arca"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "והכהנים",
-      "english": "⟨y⟩ ⟨los⟩ sacerdotes"
+      "gloss": "⟨y⟩ ⟨los⟩ sacerdotes"
     },
     {
       "surface": "לפני",
-      "english": "⟨en⟩ presencia de"
+      "gloss": "⟨en⟩ presencia de"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     }
-  ],
-  "timestamp": "2026-06-10T01:08:35.282997934Z",
-  "model": "glm-4.5"
+  ]
 }

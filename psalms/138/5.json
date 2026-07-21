@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 138:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 138,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69926,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70230
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:08:14.269079911Z",
   "translation": "Y cantarán ⟨en⟩ los caminos de YHWH porque grande ⟨es⟩ la gloria de YHWH",
   "tokens": [
     {
       "surface": "וישירו",
-      "english": "Y cantarán"
+      "gloss": "Y cantarán"
     },
     {
       "surface": "בדרכי",
-      "english": "⟨en⟩ los caminos de"
+      "gloss": "⟨en⟩ los caminos de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "כבוד",
-      "english": "la gloria de"
+      "gloss": "la gloria de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T00:08:14.269079911Z",
-  "model": "glm-4.5"
+  ]
 }

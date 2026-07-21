@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 40:18",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27013,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27364
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:17:21.433504711Z",
   "translation": "Sus huesos ⟨son⟩ ⟨como⟩ tubos de bronce, sus huesos ⟨son⟩ ⟨como⟩ ⟨un⟩ lingote de hierro.",
   "tokens": [
     {
       "surface": "עצמיו",
-      "english": "Sus huesos"
+      "gloss": "Sus huesos"
     },
     {
       "surface": "אפיקי",
-      "english": "⟨como⟩ tubos"
+      "gloss": "⟨como⟩ tubos"
     },
     {
       "surface": "נחושה",
-      "english": "de bronce"
+      "gloss": "de bronce"
     },
     {
       "surface": "גרמיו",
-      "english": "sus huesos"
+      "gloss": "sus huesos"
     },
     {
       "surface": "כמטיל",
-      "english": "⟨como⟩ ⟨un⟩ lingote"
+      "gloss": "⟨como⟩ ⟨un⟩ lingote"
     },
     {
       "surface": "ברזל",
-      "english": "de hierro"
+      "gloss": "de hierro"
     }
-  ],
-  "timestamp": "2026-06-10T02:17:21.433504711Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 95:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 95,
-  "usage": {
-    "completion_tokens": 760,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70388,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71148
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:34.907445521Z",
   "translation": "Cuarenta años ⟨estuve⟩ disgustado con ⟨la⟩ generación y dije: ⟨Es⟩ un ⟨pueblo⟩ ⟨que⟩ ⟨cuyo corazón⟩ ⟨anda⟩ errante, y no han conocido ⟨mis⟩ caminos.",
   "tokens": [
     {
       "surface": "ארבעים",
-      "english": "Cuarenta"
+      "gloss": "Cuarenta"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "אקוט",
-      "english": "⟨estuve⟩ disgustado"
+      "gloss": "⟨estuve⟩ disgustado"
     },
     {
       "surface": "בדור",
-      "english": "con ⟨la⟩ generación"
+      "gloss": "con ⟨la⟩ generación"
     },
     {
       "surface": "ואמר",
-      "english": "y dije"
+      "gloss": "y dije"
     },
     {
       "surface": "עם",
-      "english": "⟨Es⟩ un ⟨pueblo⟩"
+      "gloss": "⟨Es⟩ un ⟨pueblo⟩"
     },
     {
       "surface": "תעי",
-      "english": "⟨que⟩ ⟨cuyo corazón⟩ ⟨anda⟩ errante"
+      "gloss": "⟨que⟩ ⟨cuyo corazón⟩ ⟨anda⟩ errante"
     },
     {
       "surface": "לבב",
-      "english": "corazón"
+      "gloss": "corazón"
     },
     {
       "surface": "הם",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "והם",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ידעו",
-      "english": "han conocido"
+      "gloss": "han conocido"
     },
     {
       "surface": "דרכי",
-      "english": "⟨mis⟩ caminos"
+      "gloss": "⟨mis⟩ caminos"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:34.907445521Z",
-  "model": "glm-4.5"
+  ]
 }

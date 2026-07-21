@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 3:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 368,
-    "prompt_tokens": 70036,
-    "prompt_tokens_details": {
-      "cached_tokens": 65536
-    },
-    "total_tokens": 70404
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:22.644381570Z",
   "translation": "Y tú, YHWH, ⟨eres⟩ ⟨un⟩ escudo alrededor de mí, mi gloria, y el que levanta mi cabeza",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Y tú"
+      "gloss": "Y tú"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מגן",
-      "english": "⟨un⟩ escudo"
+      "gloss": "⟨un⟩ escudo"
     },
     {
       "surface": "בעדי",
-      "english": "alrededor de mí"
+      "gloss": "alrededor de mí"
     },
     {
       "surface": "כבודי",
-      "english": "mi gloria"
+      "gloss": "mi gloria"
     },
     {
       "surface": "ומרים",
-      "english": "y el que levanta"
+      "gloss": "y el que levanta"
     },
     {
       "surface": "ראשי",
-      "english": "mi cabeza"
+      "gloss": "mi cabeza"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:22.644381570Z",
-  "model": "glm-4.5"
+  ]
 }

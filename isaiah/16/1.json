@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 16:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26169,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26712
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:30:47.898888741Z",
   "translation": "Enviad ⟨el⟩ cordero ⟨al⟩ dominador de ⟨la⟩ tierra, desde ⟨la⟩ roca del desierto hasta el monte de ⟨la⟩ hija de Sión.",
   "tokens": [
     {
       "surface": "שלחו",
-      "english": "Enviad"
+      "gloss": "Enviad"
     },
     {
       "surface": "כר",
-      "english": "⟨el⟩ cordero"
+      "gloss": "⟨el⟩ cordero"
     },
     {
       "surface": "משל",
-      "english": "⟨al⟩ dominador"
+      "gloss": "⟨al⟩ dominador"
     },
     {
       "surface": "ארץ",
-      "english": "de ⟨la⟩ tierra"
+      "gloss": "de ⟨la⟩ tierra"
     },
     {
       "surface": "מסלע",
-      "english": "desde ⟨la⟩ roca"
+      "gloss": "desde ⟨la⟩ roca"
     },
     {
       "surface": "מדברה",
-      "english": "del desierto"
+      "gloss": "del desierto"
     },
     {
       "surface": "אל",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "הר",
-      "english": "el monte"
+      "gloss": "el monte"
     },
     {
       "surface": "בת",
-      "english": "de ⟨la⟩ hija"
+      "gloss": "de ⟨la⟩ hija"
     },
     {
       "surface": "ציון",
-      "english": "de Sión"
+      "gloss": "de Sión"
     }
-  ],
-  "timestamp": "2026-06-10T02:30:47.898888741Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "ezekiel 48:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:58:15.931025023Z",
+  "translation": "Y sobre ⟨el⟩ límite de Yissajar, desde ⟨el⟩ extremo del oriente hasta ⟨el⟩ extremo del mar, Zevulún ⟨es⟩ ⟨una⟩ porción.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Y sobre"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨el⟩ límite"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissajar"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "desde ⟨el⟩ extremo"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "del oriente"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨el⟩ extremo"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "del mar"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulún"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨es⟩ ⟨una⟩ porción"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Isacar",
@@ -20,64 +67,6 @@
       "hebrew": "זבולן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17202,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17581
-  },
-  "translation": "Y sobre ⟨el⟩ límite de Yissajar, desde ⟨el⟩ extremo del oriente hasta ⟨el⟩ extremo del mar, Zevulún ⟨es⟩ ⟨una⟩ porción.",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "Y sobre"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨el⟩ límite"
-    },
-    {
-      "surface": "יששכר",
-      "english": "Yissajar"
-    },
-    {
-      "surface": "מפאת",
-      "english": "desde ⟨el⟩ extremo"
-    },
-    {
-      "surface": "קדימה",
-      "english": "del oriente"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta"
-    },
-    {
-      "surface": "פאת",
-      "english": "⟨el⟩ extremo"
-    },
-    {
-      "surface": "ימה",
-      "english": "del mar"
-    },
-    {
-      "surface": "זבולן",
-      "english": "Zevulún"
-    },
-    {
-      "surface": "אחד",
-      "english": "⟨es⟩ ⟨una⟩ porción"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:58:15.931025023Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

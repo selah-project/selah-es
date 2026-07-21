@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "isaiah 40:30",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25938,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26277
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:45:39.799868630Z",
   "translation": "Even ⟨the⟩ youths shall faint and ⟨be⟩ weary, and ⟨the⟩ young men ⟨shall⟩ utterly stumble ⟨as⟩ ⟨if⟩ tottering",
   "tokens": [
     {
       "surface": "ויעפו",
-      "english": "Even ⟨the⟩ youths shall faint"
+      "gloss": "Even ⟨the⟩ youths shall faint"
     },
     {
       "surface": "נערים",
-      "english": "youths"
+      "gloss": "youths"
     },
     {
       "surface": "ויגעו",
-      "english": "and ⟨be⟩ weary"
+      "gloss": "and ⟨be⟩ weary"
     },
     {
       "surface": "ובחורים",
-      "english": "and ⟨the⟩ young men"
+      "gloss": "and ⟨the⟩ young men"
     },
     {
       "surface": "כשול",
-      "english": "⟨shall⟩ utterly stumble ⟨as⟩ ⟨if⟩ tottering"
+      "gloss": "⟨shall⟩ utterly stumble ⟨as⟩ ⟨if⟩ tottering"
     },
     {
       "surface": "יכשלו",
-      "english": "stumble"
+      "gloss": "stumble"
     }
-  ],
-  "timestamp": "2026-06-10T02:45:39.799868630Z",
-  "model": "glm-4.5"
+  ]
 }

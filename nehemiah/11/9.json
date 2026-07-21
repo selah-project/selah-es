@@ -1,41 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "nehemiah 11:9",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 828,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56802,
-    "prompt_tokens_details": {
-      "cached_tokens": 55510
-    },
-    "total_tokens": 57630
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:43:31.778483663Z",
   "translation": "Y Joel ⟨es⟩ ben Zicri ⟨el⟩ gobernador ⟨sobre⟩ ⟨ellos⟩, y Yehudá ben ⟨el⟩ Senuah ⟨sobre⟩ ⟨la⟩ ciudad, ⟨el⟩ segundo.",
   "tokens": [
     {
       "surface": "ויואל",
-      "english": "Y Joel",
+      "gloss": "Y Joel",
       "notes": []
     },
     {
       "surface": "בן",
-      "english": "ben",
+      "gloss": "ben",
       "notes": []
     },
     {
       "surface": "זכרי",
-      "english": "Zicri",
+      "gloss": "Zicri",
       "notes": []
     },
     {
       "surface": "פקיד",
-      "english": "⟨el⟩ gobernador",
+      "gloss": "⟨el⟩ gobernador",
       "notes": [
         {
           "kind": "addition",
@@ -46,7 +37,7 @@
     },
     {
       "surface": "עליהם",
-      "english": "⟨sobre⟩ ⟨ellos⟩",
+      "gloss": "⟨sobre⟩ ⟨ellos⟩",
       "notes": [
         {
           "kind": "addition",
@@ -62,17 +53,17 @@
     },
     {
       "surface": "ויהודה",
-      "english": "y Yehudá",
+      "gloss": "y Yehudá",
       "notes": []
     },
     {
       "surface": "בן",
-      "english": "ben",
+      "gloss": "ben",
       "notes": []
     },
     {
       "surface": "הסנואה",
-      "english": "⟨el⟩ Senuah",
+      "gloss": "⟨el⟩ Senuah",
       "notes": [
         {
           "kind": "addition",
@@ -83,7 +74,7 @@
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩",
+      "gloss": "⟨sobre⟩",
       "notes": [
         {
           "kind": "addition",
@@ -94,7 +85,7 @@
     },
     {
       "surface": "העיר",
-      "english": "⟨la⟩ ciudad",
+      "gloss": "⟨la⟩ ciudad",
       "notes": [
         {
           "kind": "addition",
@@ -105,7 +96,7 @@
     },
     {
       "surface": "משנה",
-      "english": "⟨el⟩ segundo",
+      "gloss": "⟨el⟩ segundo",
       "notes": [
         {
           "kind": "addition",
@@ -119,7 +110,5 @@
         }
       ]
     }
-  ],
-  "timestamp": "2026-06-10T00:43:31.778483663Z",
-  "model": "glm-4.5"
+  ]
 }

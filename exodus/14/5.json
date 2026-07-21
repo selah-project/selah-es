@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "exodus 14:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 14,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:41:00.291027748Z",
+  "translation": "Y fue declarado al rey de Mitzráyim que ⟨el⟩ pueblo había huido, y ⟨el⟩ corazón de Paroh y de sus servidores se volvió contra el pueblo, y dijeron: '¿Qué ⟨es⟩ esto que hemos hecho? Porque hemos enviado ⟨את⟩ Yisrael de nuestro servicio'",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Y fue declarado"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al rey"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "había huido"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨el⟩ pueblo"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "y ⟨el⟩ corazón"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "de Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "y de sus servidores"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "se volvió"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨el⟩ pueblo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "y dijeron"
+    },
+    {
+      "surface": "מה",
+      "gloss": "'¿Qué"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨es⟩ esto"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "que hemos hecho?"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "hemos enviado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "de nuestro servicio'"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -20,109 +112,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 684,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17891,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 18575
-  },
-  "translation": "Y fue declarado al rey de Mitzráyim que ⟨el⟩ pueblo había huido, y ⟨el⟩ corazón de Paroh y de sus servidores se volvió contra el pueblo, y dijeron: '¿Qué ⟨es⟩ esto que hemos hecho? Porque hemos enviado ⟨את⟩ Yisrael de nuestro servicio'",
-  "tokens": [
-    {
-      "surface": "ויגד",
-      "english": "Y fue declarado"
-    },
-    {
-      "surface": "למלך",
-      "english": "al rey"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "ברח",
-      "english": "había huido"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨el⟩ pueblo"
-    },
-    {
-      "surface": "ויהפך",
-      "english": "y ⟨el⟩ corazón"
-    },
-    {
-      "surface": "לבב",
-      "english": "de Paroh"
-    },
-    {
-      "surface": "פרעה",
-      "english": "y de sus servidores"
-    },
-    {
-      "surface": "ועבדיו",
-      "english": "se volvió"
-    },
-    {
-      "surface": "אל",
-      "english": "contra"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨el⟩ pueblo"
-    },
-    {
-      "surface": "ויאמרו",
-      "english": "y dijeron"
-    },
-    {
-      "surface": "מה",
-      "english": "'¿Qué"
-    },
-    {
-      "surface": "זאת",
-      "english": "⟨es⟩ esto"
-    },
-    {
-      "surface": "עשינו",
-      "english": "que hemos hecho?"
-    },
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "שלחנו",
-      "english": "hemos enviado"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "מעבדנו",
-      "english": "de nuestro servicio'"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:41:00.291027748Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

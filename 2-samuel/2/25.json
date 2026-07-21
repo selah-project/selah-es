@@ -1,85 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "2-samuel 2:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 654,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17372,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 18026
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:17:22.018876922Z",
   "translation": "Y los hijos de Binjamín se reunieron ⟨después de⟩ Abner, y ⟨se convirtieron en⟩ una sola tropa, y se pusieron en pie sobre la cima de una colina.",
   "tokens": [
     {
       "surface": "ויתקבצו",
-      "english": "Y se reunieron"
+      "gloss": "Y se reunieron"
     },
     {
       "surface": "בני",
-      "english": "los hijos de"
+      "gloss": "los hijos de"
     },
     {
       "surface": "בנימן",
-      "english": "Binjamín"
+      "gloss": "Binjamín"
     },
     {
       "surface": "אחרי",
-      "english": "⟨después de⟩",
+      "gloss": "⟨después de⟩",
       "rationale": "Hebrew אחרי means 'after' or 'behind', requiring prepositional phrase in English"
     },
     {
       "surface": "אבנר",
-      "english": "Abner"
+      "gloss": "Abner"
     },
     {
       "surface": "ויהיו",
-      "english": "y ⟨se convirtieron en⟩",
+      "gloss": "y ⟨se convirtieron en⟩",
       "rationale": "Hebrew ויהיו means 'and they were\/became', requiring verb to be"
     },
     {
       "surface": "לאגדה",
-      "english": "una tropa",
+      "gloss": "una tropa",
       "rationale": "Hebrew לאגדה is a hapax meaning 'to a band\/troop', requiring article in English"
     },
     {
       "surface": "אחת",
-      "english": "una",
+      "gloss": "una",
       "rationale": "Hebrew אחת means 'one' or 'united', here as adjective modifying 'tropa'"
     },
     {
       "surface": "ויעמדו",
-      "english": "y se pusieron en pie"
+      "gloss": "y se pusieron en pie"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ראש",
-      "english": "cima",
+      "gloss": "cima",
       "rationale": "Hebrew ראש means 'head', here figuratively 'top\/summit'"
     },
     {
       "surface": "גבעה",
-      "english": "colina"
+      "gloss": "colina"
     },
     {
       "surface": "אחת",
-      "english": "una"
+      "gloss": "una"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:17:22.018876922Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

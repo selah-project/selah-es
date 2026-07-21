@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 52,
   "ref": "1-samuel 14:52",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 14,
+  "verse": 52,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:58:06.073228880Z",
+  "translation": "Y ⟨fue⟩ la guerra fuerte contra ⟨los⟩ filisteos todos ⟨los⟩ días de Shaúl; y vio Shaúl todo hombre poderoso y todo hijo ⟨de⟩ valor y ⟨lo⟩ reunió consigo",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Y"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "⟨fue⟩ la guerra"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fuerte"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨los⟩ filisteos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "⟨los⟩ días"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaúl"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "y vio"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hombre"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "poderoso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨de⟩ valor"
+    },
+    {
+      "surface": "ויאספהו",
+      "gloss": "y ⟨lo⟩ reunió"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "consigo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -20,96 +99,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 651,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16976,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17627
-  },
-  "translation": "Y ⟨fue⟩ la guerra fuerte contra ⟨los⟩ filisteos todos ⟨los⟩ días de Shaúl; y vio Shaúl todo hombre poderoso y todo hijo ⟨de⟩ valor y ⟨lo⟩ reunió consigo",
-  "tokens": [
-    {
-      "surface": "ותהי",
-      "english": "Y"
-    },
-    {
-      "surface": "המלחמה",
-      "english": "⟨fue⟩ la guerra"
-    },
-    {
-      "surface": "חזקה",
-      "english": "fuerte"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨los⟩ filisteos"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "ימי",
-      "english": "⟨los⟩ días"
-    },
-    {
-      "surface": "שאול",
-      "english": "de Shaúl"
-    },
-    {
-      "surface": "וראה",
-      "english": "y vio"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "איש",
-      "english": "hombre"
-    },
-    {
-      "surface": "גבור",
-      "english": "poderoso"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "חיל",
-      "english": "⟨de⟩ valor"
-    },
-    {
-      "surface": "ויאספהו",
-      "english": "y ⟨lo⟩ reunió"
-    },
-    {
-      "surface": "אליו",
-      "english": "consigo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:58:06.073228880Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

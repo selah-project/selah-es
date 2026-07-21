@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 4:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 566,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70070,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70636
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:02.684019205Z",
   "translation": "Tembled ⟨y⟩ no pequéis ⟨en⟩ ⟨el⟩ lecho ⟨de⟩ vuestro ⟨cama⟩ ⟨y⟩ callad ⟨Sela⟩",
   "tokens": [
     {
       "surface": "רגזו",
-      "english": "Tembled"
+      "gloss": "Tembled"
     },
     {
       "surface": "ואל",
-      "english": "⟨y⟩"
+      "gloss": "⟨y⟩"
     },
     {
       "surface": "תחטאו",
-      "english": "no pequéis"
+      "gloss": "no pequéis"
     },
     {
       "surface": "אמרו",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "בלבבכם",
-      "english": "⟨el⟩ lecho"
+      "gloss": "⟨el⟩ lecho"
     },
     {
       "surface": "על",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "משכבכם",
-      "english": "vuestro ⟨cama⟩"
+      "gloss": "vuestro ⟨cama⟩"
     },
     {
       "surface": "ודמו",
-      "english": "⟨y⟩ callad"
+      "gloss": "⟨y⟩ callad"
     },
     {
       "surface": "סלה",
-      "english": "⟨Sela⟩"
+      "gloss": "⟨Sela⟩"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:02.684019205Z",
-  "model": "glm-4.5"
+  ]
 }

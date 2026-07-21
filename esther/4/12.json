@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "esther 4:12",
   "book": "esther",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 279,
-    "prompt_tokens": 24634,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 24913
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:04:45.567970350Z",
   "translation": "Y contaron ⟨את⟩ las palabras de Ester a Mordejai",
   "tokens": [
     {
       "surface": "ויגידו",
-      "english": "Y contaron"
+      "gloss": "Y contaron"
     },
     {
       "surface": "למרדכי",
-      "english": "a Mordejai"
+      "gloss": "a Mordejai"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las palabras de Ester"
     },
     {
       "surface": "דברי",
-      "english": "las palabras de"
+      "gloss": "las palabras de"
     },
     {
       "surface": "אסתר",
-      "english": "Ester"
+      "gloss": "Ester"
     }
-  ],
-  "timestamp": "2026-07-16T20:04:45.567970350Z",
-  "model": "glm-4.5"
+  ]
 }

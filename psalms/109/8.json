@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 109:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69738,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70051
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:37.426144400Z",
   "translation": "Sus días sean pocos; ⟨y⟩ ⟨el⟩ cargo ⟨de⟩ otro ⟨que⟩ ⟨se⟩ ⟨lo⟩ ⟨llevue⟩.",
   "tokens": [
     {
       "surface": "יהיו",
-      "english": "Sean"
+      "gloss": "Sean"
     },
     {
       "surface": "ימיו",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "מעטים",
-      "english": "pocos"
+      "gloss": "pocos"
     },
     {
       "surface": "פקדתו",
-      "english": "cargo"
+      "gloss": "cargo"
     },
     {
       "surface": "יקח",
-      "english": "⟨que⟩ ⟨se⟩ ⟨lo⟩ ⟨llevue⟩"
+      "gloss": "⟨que⟩ ⟨se⟩ ⟨lo⟩ ⟨llevue⟩"
     },
     {
       "surface": "אחר",
-      "english": "otro"
+      "gloss": "otro"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:37.426144400Z",
-  "model": "glm-4.5"
+  ]
 }

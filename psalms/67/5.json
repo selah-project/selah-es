@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 67:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 67,
-  "usage": {
-    "completion_tokens": 572,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70323,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70895
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:55.826239468Z",
   "translation": "¡Alégrense y canten con júbilo, ⟨los⟩ pueblos, porque juzgarás ⟨a los⟩ pueblos con equidad, y ⟨a los⟩ pueblos en ⟨la⟩ tierra ⟨los⟩ guiarás. Selah.",
   "tokens": [
     {
       "surface": "ישמחו",
-      "english": "¡Alégrense"
+      "gloss": "¡Alégrense"
     },
     {
       "surface": "וירננו",
-      "english": "y canten con júbilo"
+      "gloss": "y canten con júbilo"
     },
     {
       "surface": "לאמים",
-      "english": "⟨los⟩ pueblos"
+      "gloss": "⟨los⟩ pueblos"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "תשפט",
-      "english": "juzgarás"
+      "gloss": "juzgarás"
     },
     {
       "surface": "עמים",
-      "english": "⟨a los⟩ pueblos"
+      "gloss": "⟨a los⟩ pueblos"
     },
     {
       "surface": "מישור",
-      "english": "con equidad"
+      "gloss": "con equidad"
     },
     {
       "surface": "ולאמים",
-      "english": "y ⟨a los⟩ pueblos"
+      "gloss": "y ⟨a los⟩ pueblos"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     },
     {
       "surface": "תנחם",
-      "english": "⟨los⟩ guiarás"
+      "gloss": "⟨los⟩ guiarás"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:55.826239468Z",
-  "model": "glm-4.5"
+  ]
 }

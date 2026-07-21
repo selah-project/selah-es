@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 9:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59852,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60300
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:34:41.509804118Z",
   "translation": "⟨El⟩ principio ⟨de la⟩ sabiduría ⟨es el⟩ temor ⟨de⟩ YHWH, y ⟨el⟩ conocimiento ⟨de los⟩ santos ⟨es⟩ biná",
   "tokens": [
     {
       "surface": "תחלת",
-      "english": "⟨El⟩ principio"
+      "gloss": "⟨El⟩ principio"
     },
     {
       "surface": "חכמה",
-      "english": "⟨de la⟩ sabiduría"
+      "gloss": "⟨de la⟩ sabiduría"
     },
     {
       "surface": "יראת",
-      "english": "⟨el⟩ temor"
+      "gloss": "⟨el⟩ temor"
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
+      "gloss": "⟨de⟩ YHWH"
     },
     {
       "surface": "ודעת",
-      "english": "y ⟨el⟩ conocimiento"
+      "gloss": "y ⟨el⟩ conocimiento"
     },
     {
       "surface": "קדשים",
-      "english": "⟨de los⟩ santos"
+      "gloss": "⟨de los⟩ santos"
     },
     {
       "surface": "בינה",
-      "english": "⟨es⟩ biná"
+      "gloss": "⟨es⟩ biná"
     }
-  ],
-  "timestamp": "2026-06-10T01:34:41.509804118Z",
-  "model": "glm-4.5"
+  ]
 }

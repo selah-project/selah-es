@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "2-samuel 3:31",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 3,
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:18:47.773864550Z",
+  "translation": "Y Davidd dijo a Joab y a todo ⟨el⟩ pueblo que ⟨estaba⟩ con él: 'Rasguen ⟨sus⟩ vestidos y cíñanse con sacos y lloren ⟨por⟩ Abner.' Y ⟨el⟩ rey Davidd caminaba detrás ⟨del⟩ féretro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "y a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨el⟩ pueblo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨estaba⟩"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "Rasguen"
+    },
+    {
+      "surface": "בגדיכם",
+      "gloss": "⟨sus⟩ vestidos"
+    },
+    {
+      "surface": "וחגרו",
+      "gloss": "y cíñanse"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "con sacos"
+    },
+    {
+      "surface": "וספדו",
+      "gloss": "y lloren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "Y ⟨el⟩ rey"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "caminaba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "detrás"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "⟨del⟩ féretro"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,108 +111,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 681,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18065,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 18746
-  },
-  "translation": "Y Davidd dijo a Joab y a todo ⟨el⟩ pueblo que ⟨estaba⟩ con él: 'Rasguen ⟨sus⟩ vestidos y cíñanse con sacos y lloren ⟨por⟩ Abner.' Y ⟨el⟩ rey Davidd caminaba detrás ⟨del⟩ féretro.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יואב",
-      "english": "Joab"
-    },
-    {
-      "surface": "ואל",
-      "english": "y a"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨el⟩ pueblo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨estaba⟩"
-    },
-    {
-      "surface": "קרעו",
-      "english": "Rasguen"
-    },
-    {
-      "surface": "בגדיכם",
-      "english": "⟨sus⟩ vestidos"
-    },
-    {
-      "surface": "וחגרו",
-      "english": "y cíñanse"
-    },
-    {
-      "surface": "שקים",
-      "english": "con sacos"
-    },
-    {
-      "surface": "וספדו",
-      "english": "y lloren"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "אבנר",
-      "english": "Abner"
-    },
-    {
-      "surface": "והמלך",
-      "english": "Y ⟨el⟩ rey"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "הלך",
-      "english": "caminaba"
-    },
-    {
-      "surface": "אחרי",
-      "english": "detrás"
-    },
-    {
-      "surface": "המטה",
-      "english": "⟨del⟩ féretro"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:18:47.773864550Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

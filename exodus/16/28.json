@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "exodus 16:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 16,
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:45:09.889367238Z",
+  "translation": "Y YHWH dijo a Moshé: ⟨Hasta⟩ cuándo ⟨se⟩ rechazan ⟨a⟩ guardar mis Mitzvás y mi Torá.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y...dijo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨Hasta⟩"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "cuándo"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "⟨se⟩ rechazan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "⟨a⟩ guardar"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mis Mitzvás"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "y mi Torá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamiento",
@@ -13,64 +60,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16724,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17169
-  },
-  "translation": "Y YHWH dijo a Moshé: ⟨Hasta⟩ cuándo ⟨se⟩ rechazan ⟨a⟩ guardar mis Mitzvás y mi Torá.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y...dijo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "עד",
-      "english": "⟨Hasta⟩"
-    },
-    {
-      "surface": "אנה",
-      "english": "cuándo"
-    },
-    {
-      "surface": "מאנתם",
-      "english": "⟨se⟩ rechazan"
-    },
-    {
-      "surface": "לשמר",
-      "english": "⟨a⟩ guardar"
-    },
-    {
-      "surface": "מצותי",
-      "english": "mis Mitzvás"
-    },
-    {
-      "surface": "ותורתי",
-      "english": "y mi Torá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:45:09.889367238Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

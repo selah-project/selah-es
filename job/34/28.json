@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "job 34:28",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27080,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27495
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:13:09.479677999Z",
   "translation": "Para hacer venir a ⟨él⟩ ⟨el⟩ grito ⟨del⟩ débil y ⟨el⟩ grito ⟨de los⟩ afligidos él ⟨lo⟩ oirá",
   "tokens": [
     {
       "surface": "להביא",
-      "english": "Para hacer venir"
+      "gloss": "Para hacer venir"
     },
     {
       "surface": "עליו",
-      "english": "a ⟨él⟩"
+      "gloss": "a ⟨él⟩"
     },
     {
       "surface": "צעקת",
-      "english": "⟨el⟩ grito",
+      "gloss": "⟨el⟩ grito",
       "marks": "débil"
     },
     {
       "surface": "דל",
-      "english": "débil"
+      "gloss": "débil"
     },
     {
       "surface": "וצעקת",
-      "english": "y ⟨el⟩ grito",
+      "gloss": "y ⟨el⟩ grito",
       "marks": "afligidos"
     },
     {
       "surface": "עניים",
-      "english": "⟨de los⟩ afligidos"
+      "gloss": "⟨de los⟩ afligidos"
     },
     {
       "surface": "ישמע",
-      "english": "él ⟨lo⟩ oirá"
+      "gloss": "él ⟨lo⟩ oirá"
     }
-  ],
-  "timestamp": "2026-06-10T02:13:09.479677999Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 3:5",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 748,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26397,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 27145
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:22:30.388748534Z",
   "translation": "Y ⟨el⟩ pueblo será oprimido, hombre ⟨por⟩ hombre, y hombre ⟨por⟩ su compañero; ⟨el⟩ joven ⟨se⟩ enaltecerá ⟨contra⟩ el anciano, y ⟨el⟩ vil ⟨contra⟩ el honorable.",
   "tokens": [
     {
       "surface": "ונגש",
-      "english": "Y ⟨el⟩ pueblo será oprimido"
+      "gloss": "Y ⟨el⟩ pueblo será oprimido"
     },
     {
       "surface": "העם",
-      "english": "pueblo"
+      "gloss": "pueblo"
     },
     {
       "surface": "איש",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "באיש",
-      "english": "⟨por⟩ hombre"
+      "gloss": "⟨por⟩ hombre"
     },
     {
       "surface": "ואיש",
-      "english": "y hombre"
+      "gloss": "y hombre"
     },
     {
       "surface": "ברעהו",
-      "english": "⟨por⟩ su compañero"
+      "gloss": "⟨por⟩ su compañero"
     },
     {
       "surface": "ירהבו",
-      "english": "se enaltecerá ⟨contra⟩"
+      "gloss": "se enaltecerá ⟨contra⟩"
     },
     {
       "surface": "הנער",
-      "english": "⟨el⟩ joven"
+      "gloss": "⟨el⟩ joven"
     },
     {
       "surface": "בזקן",
-      "english": "⟨contra⟩ el anciano"
+      "gloss": "⟨contra⟩ el anciano"
     },
     {
       "surface": "והנקלה",
-      "english": "y ⟨el⟩ vil"
+      "gloss": "y ⟨el⟩ vil"
     },
     {
       "surface": "בנכבד",
-      "english": "⟨contra⟩ el honorable"
+      "gloss": "⟨contra⟩ el honorable"
     }
-  ],
-  "timestamp": "2026-06-10T02:22:30.388748534Z",
-  "model": "glm-4.5"
+  ]
 }

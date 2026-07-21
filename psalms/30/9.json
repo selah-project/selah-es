@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 30:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69878,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70181
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:11:10.704672564Z",
   "translation": "A ti, oh YHWH, ⟨yo⟩ clamaré, y ⟨a⟩ Adonai ⟨yo⟩ suplicaré",
   "tokens": [
     {
       "surface": "אליך",
-      "english": "A ti"
+      "gloss": "A ti"
     },
     {
       "surface": "יהוה",
-      "english": "oh YHWH"
+      "gloss": "oh YHWH"
     },
     {
       "surface": "אקרא",
-      "english": "⟨yo⟩ clamaré"
+      "gloss": "⟨yo⟩ clamaré"
     },
     {
       "surface": "ואל",
-      "english": "y ⟨a⟩"
+      "gloss": "y ⟨a⟩"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "אתחנן",
-      "english": "⟨yo⟩ suplicaré"
+      "gloss": "⟨yo⟩ suplicaré"
     }
-  ],
-  "timestamp": "2026-06-09T23:11:10.704672564Z",
-  "model": "glm-4.5"
+  ]
 }

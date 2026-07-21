@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 89:26",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 489,
-    "prompt_tokens": 69778,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70267
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:52.376472816Z",
   "translation": "Él me llamará: ‘Tú ⟨eres⟩ mi Padre, mi Elohim y la roca de mi salvación.’",
   "tokens": [
     {
       "surface": "וְ\/שַׂמְתִּ֣י",
-      "english": "Él me llamará"
+      "gloss": "Él me llamará"
     },
     {
       "surface": "בַ\/יָּ֣ם",
-      "english": "Tú ⟨eres⟩"
+      "gloss": "Tú ⟨eres⟩"
     },
     {
       "surface": "יָד֑\/וֹ",
-      "english": "mi Padre"
+      "gloss": "mi Padre"
     },
     {
       "surface": "וּֽ\/בַ\/נְּהָר֥וֹת",
-      "english": "mi Elohim"
+      "gloss": "mi Elohim"
     },
     {
       "surface": "יְמִינֽ\/וֹ",
-      "english": "y la roca de mi salvación"
+      "gloss": "y la roca de mi salvación"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:52.376472816Z",
-  "model": "glm-4.5"
+  ]
 }

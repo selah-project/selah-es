@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 86:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 562,
-    "prompt_tokens": 70128,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70690
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:18.742162762Z",
   "translation": "Porque grande ⟨es⟩ tu Jésed hacia mí, y has librado mi nefesh del Sheol más profundo",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "חסדך",
-      "english": "tu Jésed"
+      "gloss": "tu Jésed"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "עלי",
-      "english": "hacia mí"
+      "gloss": "hacia mí"
     },
     {
       "surface": "והצלת",
-      "english": "y has librado"
+      "gloss": "y has librado"
     },
     {
       "surface": "נפשי",
-      "english": "mi nefesh"
+      "gloss": "mi nefesh"
     },
     {
       "surface": "משאול",
-      "english": "del Sheol"
+      "gloss": "del Sheol"
     },
     {
       "surface": "תחתיה",
-      "english": "más profundo"
+      "gloss": "más profundo"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:18.742162762Z",
-  "model": "glm-4.5"
+  ]
 }

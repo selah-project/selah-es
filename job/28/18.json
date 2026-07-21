@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 28:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "job",
+  "chapter": 28,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:36:07.239859406Z",
+  "translation": "Coral y cuarzo no ⟨serán⟩ mencionados, ⟨y⟩ ⟨la⟩ adquisición de Jojmá ⟨está⟩ sobre perlas.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "Coral"
+    },
+    {
+      "surface": "וגביש",
+      "gloss": "y cuarzo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ⟨serán⟩"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mencionados"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "⟨y⟩ ⟨la⟩ adquisición"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "de Jojmá"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "sobre perlas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabiduría",
@@ -13,52 +48,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19741,
-    "prompt_tokens_details": {
-      "cached_tokens": 18739
-    },
-    "total_tokens": 20231
-  },
-  "translation": "Coral y cuarzo no ⟨serán⟩ mencionados, ⟨y⟩ ⟨la⟩ adquisición de Jojmá ⟨está⟩ sobre perlas.",
-  "tokens": [
-    {
-      "surface": "ראמות",
-      "english": "Coral"
-    },
-    {
-      "surface": "וגביש",
-      "english": "y cuarzo"
-    },
-    {
-      "surface": "לא",
-      "english": "no ⟨serán⟩"
-    },
-    {
-      "surface": "יזכר",
-      "english": "mencionados"
-    },
-    {
-      "surface": "ומשך",
-      "english": "⟨y⟩ ⟨la⟩ adquisición"
-    },
-    {
-      "surface": "חכמה",
-      "english": "de Jojmá"
-    },
-    {
-      "surface": "מפנינים",
-      "english": "sobre perlas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:36:07.239859406Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

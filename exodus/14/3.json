@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 14:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 14,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:40:50.332046281Z",
+  "translation": "Y dirá Paró ⟨es⟩ ⟨acerca de⟩ los hijos de Yisrael: '⟨Están⟩ enredados ⟨en⟩ ⟨la⟩ tierra, ⟨el⟩ desierto ⟨los⟩ ha cercado ⟨a⟩ ellos'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Y dirá"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨acerca de⟩ los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "enredados"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨Están⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨en⟩ ⟨la⟩ tierra"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ha cercado"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨a⟩ ellos"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨el⟩ desierto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 683,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16792,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 17475
-  },
-  "translation": "Y dirá Paró ⟨es⟩ ⟨acerca de⟩ los hijos de Yisrael: '⟨Están⟩ enredados ⟨en⟩ ⟨la⟩ tierra, ⟨el⟩ desierto ⟨los⟩ ha cercado ⟨a⟩ ellos'",
-  "tokens": [
-    {
-      "surface": "ואמר",
-      "english": "Y dirá"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨acerca de⟩ los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "נבכים",
-      "english": "enredados"
-    },
-    {
-      "surface": "הם",
-      "english": "⟨Están⟩"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨en⟩ ⟨la⟩ tierra"
-    },
-    {
-      "surface": "סגר",
-      "english": "ha cercado"
-    },
-    {
-      "surface": "עליהם",
-      "english": "⟨a⟩ ellos"
-    },
-    {
-      "surface": "המדבר",
-      "english": "⟨el⟩ desierto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:40:50.332046281Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 89,
   "ref": "psalms 119:89",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69690,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70129
-  },
+  "verse": 89,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:29.643217507Z",
   "translation": "Para siempre, YHWH, ⟨el⟩ tu davar ⟨está⟩ firmemente establecido en ⟨los⟩ cielos",
   "tokens": [
     {
       "surface": "לעולם",
-      "english": "Para siempre"
+      "gloss": "Para siempre"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "דברך",
-      "english": "⟨el⟩ tu davar",
+      "gloss": "⟨el⟩ tu davar",
       "marks": "⟨el⟩ tu davar"
     },
     {
       "surface": "נצב",
-      "english": "⟨está⟩ firmemente establecido"
+      "gloss": "⟨está⟩ firmemente establecido"
     },
     {
       "surface": "בשמים",
-      "english": "en ⟨los⟩ cielos"
+      "gloss": "en ⟨los⟩ cielos"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:29.643217507Z",
-  "model": "glm-4.5"
+  ]
 }

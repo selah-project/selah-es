@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 128,
   "ref": "psalms 119:128",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 706,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70097,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70803
-  },
+  "verse": 128,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:19.511506655Z",
   "translation": "Therefore ⟨I have⟩ esteemed all ⟨the⟩ precepts of ⟨all⟩ ⟨my⟩ upright ⟨ways to be⟩ right; ⟨I⟩ hate every false way ⟨that⟩ ⟨I⟩ have hated.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Therefore"
+      "gloss": "Therefore"
     },
     {
       "surface": "כן",
-      "english": "⟨I have⟩ esteemed"
+      "gloss": "⟨I have⟩ esteemed"
     },
     {
       "surface": "כל",
-      "english": "all"
+      "gloss": "all"
     },
     {
       "surface": "פקודי",
-      "english": "⟨the⟩ precepts"
+      "gloss": "⟨the⟩ precepts"
     },
     {
       "surface": "כל",
-      "english": "⟨all⟩"
+      "gloss": "⟨all⟩"
     },
     {
       "surface": "ישרתי",
-      "english": "⟨my⟩ upright ⟨ways to be⟩ right"
+      "gloss": "⟨my⟩ upright ⟨ways to be⟩ right"
     },
     {
       "surface": "כל",
-      "english": "every"
+      "gloss": "every"
     },
     {
       "surface": "ארח",
-      "english": "false way"
+      "gloss": "false way"
     },
     {
       "surface": "שקר",
-      "english": "⟨that⟩"
+      "gloss": "⟨that⟩"
     },
     {
       "surface": "שנאתי",
-      "english": "⟨I⟩ have hated"
+      "gloss": "⟨I⟩ have hated"
     }
-  ],
-  "timestamp": "2026-06-10T00:02:19.511506655Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,77 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "isaiah 59:14",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 539,
-    "prompt_tokens": 26719,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27258
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:31:53.243971973Z",
   "translation": "Y el juicio se ha retirado hacia atrás, y la justicia se mantiene lejos; pues la verdad ⟨ha⟩ tropezado en la plaza, y la rectitud no puede entrar.",
   "tokens": [
     {
       "surface": "והסג",
-      "english": "y el juicio se ha retirado"
+      "gloss": "y el juicio se ha retirado"
     },
     {
       "surface": "אחור",
-      "english": "hacia atrás"
+      "gloss": "hacia atrás"
     },
     {
       "surface": "משפט",
-      "english": "juicio"
+      "gloss": "juicio"
     },
     {
       "surface": "וצדקה",
-      "english": "y la justicia"
+      "gloss": "y la justicia"
     },
     {
       "surface": "מרחוק",
-      "english": "se mantiene lejos"
+      "gloss": "se mantiene lejos"
     },
     {
       "surface": "תעמד",
-      "english": "se mantiene"
+      "gloss": "se mantiene"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "כשלה",
-      "english": "ha tropezado"
+      "gloss": "ha tropezado"
     },
     {
       "surface": "ברחוב",
-      "english": "en la plaza"
+      "gloss": "en la plaza"
     },
     {
       "surface": "אמת",
-      "english": "la verdad"
+      "gloss": "la verdad"
     },
     {
       "surface": "ונכחה",
-      "english": "y la rectitud"
+      "gloss": "y la rectitud"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תוכל",
-      "english": "puede"
+      "gloss": "puede"
     },
     {
       "surface": "לבוא",
-      "english": "entrar"
+      "gloss": "entrar"
     }
-  ],
-  "timestamp": "2026-07-16T21:31:53.243971973Z",
-  "model": "glm-4.5"
+  ]
 }

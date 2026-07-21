@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "job 15:32",
   "book": "job",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26943,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27427
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:50.902483171Z",
   "translation": "Antes ⟨de⟩ su ⟨día⟩ ⟨ser⟩ completado, ⟨y⟩ ⟨su⟩ rama ⟨no⟩ ⟨es⟩ verde.",
   "tokens": [
     {
       "surface": "בלא",
-      "english": "Antes"
+      "gloss": "Antes"
     },
     {
       "surface": "יומו",
-      "english": "⟨de⟩ su ⟨día⟩"
+      "gloss": "⟨de⟩ su ⟨día⟩"
     },
     {
       "surface": "תמלא",
-      "english": "⟨ser⟩ completado"
+      "gloss": "⟨ser⟩ completado"
     },
     {
       "surface": "וכפתו",
-      "english": "⟨y⟩ ⟨su⟩ rama"
+      "gloss": "⟨y⟩ ⟨su⟩ rama"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "רעננה",
-      "english": "⟨es⟩ verde"
+      "gloss": "⟨es⟩ verde"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:50.902483171Z",
-  "model": "glm-4.5"
+  ]
 }

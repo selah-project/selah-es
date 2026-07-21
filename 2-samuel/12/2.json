@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 2,
   "ref": "2-samuel 12:2",
   "book": "2-samuel",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24015,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24431
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:25:43.475230476Z",
   "translation": "Al ⟨el⟩ rico ⟨le⟩ había ⟨un⟩ rebaño y ganado vacuno — abundancia enorme.",
   "tokens": [
     {
       "surface": "לְ\/עָשִׁ֗יר",
-      "english": "Al rico"
+      "gloss": "Al rico"
     },
     {
       "surface": "הָיָ֛ה",
-      "english": "⟨le⟩ había"
+      "gloss": "⟨le⟩ había"
     },
     {
       "surface": "צֹ֥אן",
-      "english": "⟨un⟩ rebaño"
+      "gloss": "⟨un⟩ rebaño"
     },
     {
       "surface": "וּ\/בָקָ֖ר",
-      "english": "y ganado vacuno"
+      "gloss": "y ganado vacuno"
     },
     {
       "surface": "הַרְבֵּ֥ה",
-      "english": "abundancia"
+      "gloss": "abundancia"
     },
     {
       "surface": "מְאֹֽד",
-      "english": "enorme"
+      "gloss": "enorme"
     }
-  ],
-  "timestamp": "2026-06-13T03:25:43.475230476Z",
-  "model": "glm-5.1"
+  ]
 }

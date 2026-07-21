@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 17:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 17,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:16:43.811480577Z",
+  "translation": "Y vino Amalek y ⟨el⟩ luchó contra Yisrael en Refidim",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Y vino"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "y ⟨el⟩ luchó"
+    },
+    {
+      "surface": "עם",
+      "gloss": "contra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "en Refidim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amalec",
@@ -20,48 +51,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 234,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16426,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 16660
-  },
-  "translation": "Y vino Amalek y ⟨el⟩ luchó contra Yisrael en Refidim",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "Y vino"
-    },
-    {
-      "surface": "עמלק",
-      "english": "Amalek"
-    },
-    {
-      "surface": "וילחם",
-      "english": "y ⟨el⟩ luchó"
-    },
-    {
-      "surface": "עם",
-      "english": "contra"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ברפידם",
-      "english": "en Refidim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:16:43.811480577Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

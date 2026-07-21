@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "numbers 11:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 11,
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:23:25.014133163Z",
+  "translation": "Y respondió Yehoshúa hijo de Nun, ⟨el⟩ servidor de Moshé, ⟨uno de⟩ sus jóvenes, y dijo: Adonai mío Moshé, ⟨impídeles⟩.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Y respondió"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshúa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "⟨el⟩ servidor"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "מבחריו",
+      "gloss": "⟨uno de⟩ sus jóvenes"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai mío"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "כלאם",
+      "gloss": "⟨impídeles⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josué",
@@ -13,68 +64,6 @@
       "hebrew": "יהושע"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17988,
-    "prompt_tokens_details": {
-      "cached_tokens": 16652
-    },
-    "total_tokens": 18481
-  },
-  "translation": "Y respondió Yehoshúa hijo de Nun, ⟨el⟩ servidor de Moshé, ⟨uno de⟩ sus jóvenes, y dijo: Adonai mío Moshé, ⟨impídeles⟩.",
-  "tokens": [
-    {
-      "surface": "ויען",
-      "english": "Y respondió"
-    },
-    {
-      "surface": "יהושע",
-      "english": "Yehoshúa"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "נון",
-      "english": "Nun"
-    },
-    {
-      "surface": "משרת",
-      "english": "⟨el⟩ servidor"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "מבחריו",
-      "english": "⟨uno de⟩ sus jóvenes"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai mío"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "כלאם",
-      "english": "⟨impídeles⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:23:25.014133163Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

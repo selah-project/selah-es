@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 91:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 409,
-    "prompt_tokens": 70154,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70563
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:17.549740956Z",
   "translation": "Porque en mí ⟨se⟩ deleita, ⟨lo⟩ libraré; ⟨lo⟩ pondré en alto, porque ⟨ha⟩ conocido mi nombre.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "בי",
-      "english": "en mí"
+      "gloss": "en mí"
     },
     {
       "surface": "חשק",
-      "english": "⟨se⟩ deleita"
+      "gloss": "⟨se⟩ deleita"
     },
     {
       "surface": "ואפלטהו",
-      "english": "⟨lo⟩ libraré"
+      "gloss": "⟨lo⟩ libraré"
     },
     {
       "surface": "אשגבהו",
-      "english": "⟨lo⟩ pondré en alto"
+      "gloss": "⟨lo⟩ pondré en alto"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "ידע",
-      "english": "⟨ha⟩ conocido"
+      "gloss": "⟨ha⟩ conocido"
     },
     {
       "surface": "שמי",
-      "english": "mi nombre"
+      "gloss": "mi nombre"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:17.549740956Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "psalms 118:29",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69861,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70180
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:58:48.160581420Z",
   "translation": "Den gracias a YHWH ⟨porque⟩ ⟨es⟩ bueno ⟨porque⟩ para siempre ⟨es⟩ su bondad",
   "tokens": [
     {
       "surface": "הודו",
-      "english": "Den gracias"
+      "gloss": "Den gracias"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "טוב",
-      "english": "⟨es⟩ bueno"
+      "gloss": "⟨es⟩ bueno"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "⟨es⟩ su bondad"
+      "gloss": "⟨es⟩ su bondad"
     }
-  ],
-  "timestamp": "2026-06-09T23:58:48.160581420Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "jeremiah 48:42",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24349,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24737
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:43:04.023638252Z",
   "translation": "Y destruido ⟨es⟩ Moab de ⟨el⟩ pueblo, porque contra YHWH ⟨el⟩ ⟨se⟩ ⟨ha⟩ engrandecido.",
   "tokens": [
     {
       "surface": "ונשמד",
-      "english": "Y destruido"
+      "gloss": "Y destruido"
     },
     {
       "surface": "מואב",
-      "english": "Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "מעם",
-      "english": "de ⟨el⟩ pueblo",
+      "gloss": "de ⟨el⟩ pueblo",
       "marks": "el pueblo"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "על",
-      "english": "contra"
+      "gloss": "contra"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הגדיל",
-      "english": "⟨el⟩ ⟨se⟩ ⟨ha⟩ engrandecido"
+      "gloss": "⟨el⟩ ⟨se⟩ ⟨ha⟩ engrandecido"
     }
-  ],
-  "timestamp": "2026-06-10T03:43:04.023638252Z",
-  "model": "glm-4.5"
+  ]
 }

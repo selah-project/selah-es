@@ -1,37 +1,26 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 31:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69596,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69900
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:11:09.903157403Z",
   "translation": "⟨To⟩ ⟨the⟩ Precentor. ⟨A⟩ Psalm ⟨of⟩ David.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ ⟨the⟩ Precentor",
+      "gloss": "⟨To⟩ ⟨the⟩ Precentor",
       "marks": "Precentor"
     },
     {
       "surface": "מזמור",
-      "english": "⟨A⟩ Psalm"
+      "gloss": "⟨A⟩ Psalm"
     },
     {
       "surface": "לדוד",
-      "english": "⟨of⟩ David"
+      "gloss": "⟨of⟩ David"
     }
-  ],
-  "timestamp": "2026-06-09T23:11:09.903157403Z",
-  "model": "glm-4.5"
+  ]
 }

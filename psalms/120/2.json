@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 120:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 120,
-  "usage": {
-    "completion_tokens": 354,
-    "prompt_tokens": 69969,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70323
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:57.328183790Z",
   "translation": "YHWH, libra ⟨a⟩ mi nefesh de labios de sheker, de una lengua de remiyá",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הצילה",
-      "english": "libra ⟨a⟩"
+      "gloss": "libra ⟨a⟩"
     },
     {
       "surface": "נפשי",
-      "english": "mi nefesh"
+      "gloss": "mi nefesh"
     },
     {
       "surface": "משפת",
-      "english": "de labios de"
+      "gloss": "de labios de"
     },
     {
       "surface": "שקר",
-      "english": "sheker"
+      "gloss": "sheker"
     },
     {
       "surface": "מלשון",
-      "english": "de una lengua de"
+      "gloss": "de una lengua de"
     },
     {
       "surface": "רמיה",
-      "english": "remiyá"
+      "gloss": "remiyá"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:57.328183790Z",
-  "model": "glm-4.5"
+  ]
 }

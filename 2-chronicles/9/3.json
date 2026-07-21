@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 9:3",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 471,
-    "prompt_tokens": 65372,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 65843
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:51:34.573919072Z",
   "translation": "Y cuando la reina de Sheba vio ⟨la⟩ sabiduría de Shelomó y la casa que él había edificado",
   "tokens": [
     {
       "surface": "וַ\/תֵּ֨רֶא֙",
-      "english": "Y cuando ... vio"
+      "gloss": "Y cuando ... vio"
     },
     {
       "surface": "מַֽלְכַּת",
-      "english": "la reina"
+      "gloss": "la reina"
     },
     {
       "surface": "שְׁבָ֔א",
-      "english": "de Sheba"
+      "gloss": "de Sheba"
     },
     {
       "surface": "אֵ֖ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sabiduría"
     },
     {
       "surface": "חָכְמַ֣ת",
-      "english": "sabiduría"
+      "gloss": "sabiduría"
     },
     {
       "surface": "שְׁלֹמֹ֑ה",
-      "english": "de Shelomó"
+      "gloss": "de Shelomó"
     },
     {
       "surface": "וְ\/הַ\/בַּ֖יִת",
-      "english": "y la casa"
+      "gloss": "y la casa"
     },
     {
       "surface": "אֲשֶׁ֥ר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "בָּנָֽה",
-      "english": "había edificado"
+      "gloss": "había edificado"
     }
-  ],
-  "timestamp": "2026-07-16T18:51:34.573919072Z",
-  "model": "glm-4.5"
+  ]
 }

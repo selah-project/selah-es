@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 57:21",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 244,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25693,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 25937
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:56:41.468494568Z",
   "translation": "No ⟨hay⟩ paz, ⟨dice⟩ mi Elohim ⟨a⟩ los impíos",
   "tokens": [
     {
       "surface": "אין",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "שלום",
-      "english": "⟨hay⟩ paz"
+      "gloss": "⟨hay⟩ paz"
     },
     {
       "surface": "אמר",
-      "english": "⟨dice⟩"
+      "gloss": "⟨dice⟩"
     },
     {
       "surface": "אלהי",
-      "english": "mi Elohim"
+      "gloss": "mi Elohim"
     },
     {
       "surface": "לרשעים",
-      "english": "⟨a⟩ los impíos"
+      "gloss": "⟨a⟩ los impíos"
     }
-  ],
-  "timestamp": "2026-06-10T02:56:41.468494568Z",
-  "model": "glm-4.5"
+  ]
 }

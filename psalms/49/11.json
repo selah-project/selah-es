@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 49:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 517,
-    "prompt_tokens": 70409,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70926
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:35.132803275Z",
   "translation": "Porque ⟨él⟩ ve que ⟨los⟩ sabios mueren, juntos perece ⟨el⟩ insensato y ⟨el⟩ necio, y dejan a otros su riqueza.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יראה",
-      "english": "ve"
+      "gloss": "ve"
     },
     {
       "surface": "חכמים",
-      "english": "sabios"
+      "gloss": "sabios"
     },
     {
       "surface": "ימותו",
-      "english": "mueren"
+      "gloss": "mueren"
     },
     {
       "surface": "יחד",
-      "english": "juntos"
+      "gloss": "juntos"
     },
     {
       "surface": "כסיל",
-      "english": "insensato"
+      "gloss": "insensato"
     },
     {
       "surface": "ובער",
-      "english": "y ⟨el⟩ necio"
+      "gloss": "y ⟨el⟩ necio"
     },
     {
       "surface": "יאבדו",
-      "english": "perece"
+      "gloss": "perece"
     },
     {
       "surface": "ועזבו",
-      "english": "y dejan"
+      "gloss": "y dejan"
     },
     {
       "surface": "לאחרים",
-      "english": "a otros"
+      "gloss": "a otros"
     },
     {
       "surface": "חילם",
-      "english": "su riqueza"
+      "gloss": "su riqueza"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:35.132803275Z",
-  "model": "glm-4.5"
+  ]
 }

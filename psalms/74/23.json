@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 74:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69933,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70414
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:05.294373170Z",
   "translation": "No olvides ⟨el⟩ voz de ⟨los⟩ que te oprimen, ⟨el⟩ tumulto de ⟨los⟩ que se levantan contra ti sube continuamente.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תשכח",
-      "english": "olvides"
+      "gloss": "olvides"
     },
     {
       "surface": "קול",
-      "english": "voz"
+      "gloss": "voz"
     },
     {
       "surface": "צרריך",
-      "english": "de ⟨los⟩ que te oprimen"
+      "gloss": "de ⟨los⟩ que te oprimen"
     },
     {
       "surface": "שאון",
-      "english": "⟨el⟩ tumulto"
+      "gloss": "⟨el⟩ tumulto"
     },
     {
       "surface": "קמיך",
-      "english": "de ⟨los⟩ que se levantan contra ti"
+      "gloss": "de ⟨los⟩ que se levantan contra ti"
     },
     {
       "surface": "עלה",
-      "english": "sube"
+      "gloss": "sube"
     },
     {
       "surface": "תמיד",
-      "english": "continuamente"
+      "gloss": "continuamente"
     }
-  ],
-  "timestamp": "2026-06-09T23:35:05.294373170Z",
-  "model": "glm-4.5"
+  ]
 }

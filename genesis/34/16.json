@@ -1,75 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 34:16",
   "book": "genesis",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 511,
-    "prompt_tokens": 29082,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29593
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:07:55.661721755Z",
   "translation": "y daremos ⟨את⟩ nuestras hijas a ustedes, y ⟨את⟩ sus hijas tomaremos para nosotros, y habitaremos con ustedes, y seremos un pueblo uno",
   "tokens": [
     {
       "surface": "ונתנו",
-      "english": "y daremos"
+      "gloss": "y daremos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "nuestras hijas"
     },
     {
       "surface": "בנתינו",
-      "english": "nuestras hijas"
+      "gloss": "nuestras hijas"
     },
     {
       "surface": "לכם",
-      "english": "a ustedes"
+      "gloss": "a ustedes"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "sus hijas"
     },
     {
       "surface": "בנתיכם",
-      "english": "sus hijas"
+      "gloss": "sus hijas"
     },
     {
       "surface": "נקח",
-      "english": "tomaremos"
+      "gloss": "tomaremos"
     },
     {
       "surface": "לנו",
-      "english": "para nosotros"
+      "gloss": "para nosotros"
     },
     {
       "surface": "וישבנו",
-      "english": "y habitaremos"
+      "gloss": "y habitaremos"
     },
     {
       "surface": "אתכם",
-      "english": "con ustedes"
+      "gloss": "con ustedes"
     },
     {
       "surface": "והיינו",
-      "english": "y seremos"
+      "gloss": "y seremos"
     },
     {
       "surface": "לעם",
-      "english": "un pueblo"
+      "gloss": "un pueblo"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     }
-  ],
-  "timestamp": "2026-07-16T21:07:55.661721755Z",
-  "model": "glm-4.5"
+  ]
 }

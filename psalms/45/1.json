@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 45:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70059,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70578
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:19.682680448Z",
   "translation": "Para ⟨el⟩ director sobre ⟨las⟩ lirias. A ⟨los⟩ hijos de Coré. Un didáctico poema. Un canto de amores.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Para ⟨el⟩ director"
+      "gloss": "Para ⟨el⟩ director"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ששנים",
-      "english": "⟨las⟩ lirias"
+      "gloss": "⟨las⟩ lirias"
     },
     {
       "surface": "לבני",
-      "english": "A ⟨los⟩ hijos"
+      "gloss": "A ⟨los⟩ hijos"
     },
     {
       "surface": "קרח",
-      "english": "de Coré"
+      "gloss": "de Coré"
     },
     {
       "surface": "משכיל",
-      "english": "Un didáctico poema"
+      "gloss": "Un didáctico poema"
     },
     {
       "surface": "שיר",
-      "english": "Un canto"
+      "gloss": "Un canto"
     },
     {
       "surface": "ידידת",
-      "english": "de amores"
+      "gloss": "de amores"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:19.682680448Z",
-  "model": "glm-4.5"
+  ]
 }

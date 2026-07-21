@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 17:2",
   "book": "genesis",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28463,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28792
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:13:52.221921985Z",
   "translation": "Y daré ⟨el⟩ mi pacto entre mí y tú, y ⟨te⟩ multiplicaré ⟨את⟩ en gran manera grandemente.",
   "tokens": [
     {
       "surface": "ואתנה",
-      "english": "Y daré"
+      "gloss": "Y daré"
     },
     {
       "surface": "בריתי",
-      "english": "⟨el⟩ mi pacto"
+      "gloss": "⟨el⟩ mi pacto"
     },
     {
       "surface": "ביני",
-      "english": "entre mí"
+      "gloss": "entre mí"
     },
     {
       "surface": "ובינך",
-      "english": "y tú"
+      "gloss": "y tú"
     },
     {
       "surface": "וארבה",
-      "english": "y ⟨te⟩ multiplicaré"
+      "gloss": "y ⟨te⟩ multiplicaré"
     },
     {
       "surface": "אותך",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "en gran manera"
     },
     {
       "surface": "במאד",
-      "english": "en gran manera"
+      "gloss": "en gran manera"
     },
     {
       "surface": "מאד",
-      "english": "grandemente"
+      "gloss": "grandemente"
     }
-  ],
-  "timestamp": "2026-06-10T05:13:52.221921985Z",
-  "model": "glm-4.5"
+  ]
 }

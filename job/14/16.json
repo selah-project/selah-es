@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 14:16",
   "book": "job",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27125,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27504
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:10.852219556Z",
   "translation": "Porque ahora ⟨tú⟩ cuentas mis pasos: ⟨את⟩ ⟨tú⟩ no guardarás ⟨sobre⟩ mi pecado",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "עתה",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "צעדי",
-      "english": "mis pasos"
+      "gloss": "mis pasos"
     },
     {
       "surface": "תספור",
-      "english": "cuentas"
+      "gloss": "cuentas"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תשמור",
-      "english": "guardarás"
+      "gloss": "guardarás"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "חטאתי",
-      "english": "mi pecado"
+      "gloss": "mi pecado"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:10.852219556Z",
-  "model": "glm-4.5"
+  ]
 }

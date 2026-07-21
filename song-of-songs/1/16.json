@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "song-of-songs 1:16",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27455,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27931
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:35:48.327004065Z",
   "translation": "¡He aquí ⟨que⟩ eres hermoso, amado mío, sí, placentero; ⟨que⟩ también ⟨nuestro⟩ lecho ⟨es⟩ verde ⟨y⟩ fresco.",
   "tokens": [
     {
       "surface": "הנך",
-      "english": "¡He aquí ⟨que⟩ eres"
+      "gloss": "¡He aquí ⟨que⟩ eres"
     },
     {
       "surface": "יפה",
-      "english": "hermoso"
+      "gloss": "hermoso"
     },
     {
       "surface": "דודי",
-      "english": "amado mío"
+      "gloss": "amado mío"
     },
     {
       "surface": "אף",
-      "english": "sí"
+      "gloss": "sí"
     },
     {
       "surface": "נעים",
-      "english": "placentero"
+      "gloss": "placentero"
     },
     {
       "surface": "אף",
-      "english": "⟨que⟩ también"
+      "gloss": "⟨que⟩ también"
     },
     {
       "surface": "ערשנו",
-      "english": "⟨nuestro⟩ lecho"
+      "gloss": "⟨nuestro⟩ lecho"
     },
     {
       "surface": "רעננה",
-      "english": "⟨es⟩ verde ⟨y⟩ fresco"
+      "gloss": "⟨es⟩ verde ⟨y⟩ fresco"
     }
-  ],
-  "timestamp": "2026-06-09T22:35:48.327004065Z",
-  "model": "glm-4.5"
+  ]
 }

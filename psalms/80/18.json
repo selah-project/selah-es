@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 80:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70117,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70546
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:42.899942295Z",
   "translation": "Sea ⟨es⟩ tu mano sobre ⟨el⟩ hombre de tu mano derecha, sobre ⟨el⟩ hijo de adam a quien has fortalecido para ti",
   "tokens": [
     {
       "surface": "תהי",
-      "english": "Sea"
+      "gloss": "Sea"
     },
     {
       "surface": "ידך",
-      "english": "⟨es⟩ tu mano"
+      "gloss": "⟨es⟩ tu mano"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "איש",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "ימינך",
-      "english": "de tu mano derecha"
+      "gloss": "de tu mano derecha"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo"
+      "gloss": "⟨el⟩ hijo"
     },
     {
       "surface": "אדם",
-      "english": "de adam"
+      "gloss": "de adam"
     },
     {
       "surface": "אמצת",
-      "english": "a quien has fortalecido"
+      "gloss": "a quien has fortalecido"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:42.899942295Z",
-  "model": "glm-4.5"
+  ]
 }

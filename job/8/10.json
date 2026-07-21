@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 8:10",
   "book": "job",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27078,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27492
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:33.248291939Z",
   "translation": "¿Acaso no ⟨son⟩ ellos ⟨quien⟩ te instruye? ⟨ellos⟩ te dirán, y de su corazón ⟨ellos⟩ sacarán ⟨las⟩ palabras.",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "¿Acaso no"
+      "gloss": "¿Acaso no"
     },
     {
       "surface": "הם",
-      "english": "⟨son⟩"
+      "gloss": "⟨son⟩"
     },
     {
       "surface": "יורוך",
-      "english": "ellos"
+      "gloss": "ellos"
     },
     {
       "surface": "יאמרו",
-      "english": "te dirán"
+      "gloss": "te dirán"
     },
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "ומלבם",
-      "english": "y de su corazón"
+      "gloss": "y de su corazón"
     },
     {
       "surface": "יוצאו",
-      "english": "⟨ellos⟩ sacarán"
+      "gloss": "⟨ellos⟩ sacarán"
     },
     {
       "surface": "מלים",
-      "english": "⟨las⟩ palabras"
+      "gloss": "⟨las⟩ palabras"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:33.248291939Z",
-  "model": "glm-4.5"
+  ]
 }

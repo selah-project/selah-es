@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 98:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 551,
-    "prompt_tokens": 70660,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71211
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:00.907284741Z",
   "translation": "Él ⟨ha⟩ recordado su Jésed y su fidelidad para la casa de Israel, han visto ⟨todos⟩ los confines de la tierra ⟨את⟩ la salvación de nuestro Elohim",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "Él ⟨ha⟩ recordado"
+      "gloss": "Él ⟨ha⟩ recordado"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     },
     {
       "surface": "ואמונתו",
-      "english": "y su fidelidad"
+      "gloss": "y su fidelidad"
     },
     {
       "surface": "לבית",
-      "english": "para la casa"
+      "gloss": "para la casa"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     },
     {
       "surface": "ראו",
-      "english": "han visto"
+      "gloss": "han visto"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "אפסי",
-      "english": "los confines"
+      "gloss": "los confines"
     },
     {
       "surface": "ארץ",
-      "english": "de la tierra"
+      "gloss": "de la tierra"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la salvación"
     },
     {
       "surface": "ישועת",
-      "english": "la salvación"
+      "gloss": "la salvación"
     },
     {
       "surface": "אלהינו",
-      "english": "de nuestro Elohim"
+      "gloss": "de nuestro Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:00.907284741Z",
-  "model": "glm-4.5"
+  ]
 }

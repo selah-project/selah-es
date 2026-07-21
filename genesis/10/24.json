@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 10:24",
   "book": "genesis",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 300,
-    "prompt_tokens": 28559,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28859
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:54:53.333852257Z",
   "translation": "Y Arpaksad engendró a Shélaj, y Shélaj engendró a Ever.",
   "tokens": [
     {
       "surface": "וארפכשד",
-      "english": "Y Arpaksad"
+      "gloss": "Y Arpaksad"
     },
     {
       "surface": "ילד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Shélaj"
     },
     {
       "surface": "שלח",
-      "english": "Shélaj"
+      "gloss": "Shélaj"
     },
     {
       "surface": "ושלח",
-      "english": "y Shélaj"
+      "gloss": "y Shélaj"
     },
     {
       "surface": "ילד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Ever"
     },
     {
       "surface": "עבר",
-      "english": "Ever"
+      "gloss": "Ever"
     }
-  ],
-  "timestamp": "2026-07-16T20:54:53.333852257Z",
-  "model": "glm-4.5"
+  ]
 }

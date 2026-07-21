@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "amos 5:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 5,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:03:43.236802017Z",
+  "translation": "Los sacrificios y la ofrenda ¿⟨presentasteis⟩ ⟨a⟩ mí en el desierto cuarenta años, casa de Yisrael?",
+  "tokens": [
+    {
+      "surface": "הזבחים",
+      "gloss": "Los sacrificios"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "y la ofrenda"
+    },
+    {
+      "surface": "הגשתם",
+      "gloss": "¿⟨presentasteis⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨a⟩ mí"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "en el desierto"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "cuarenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16200,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 16624
-  },
-  "translation": "Los sacrificios y la ofrenda ¿⟨presentasteis⟩ ⟨a⟩ mí en el desierto cuarenta años, casa de Yisrael?",
-  "tokens": [
-    {
-      "surface": "הזבחים",
-      "english": "Los sacrificios"
-    },
-    {
-      "surface": "ומנחה",
-      "english": "y la ofrenda"
-    },
-    {
-      "surface": "הגשתם",
-      "english": "¿⟨presentasteis⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨a⟩ mí"
-    },
-    {
-      "surface": "במדבר",
-      "english": "en el desierto"
-    },
-    {
-      "surface": "ארבעים",
-      "english": "cuarenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:03:43.236802017Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

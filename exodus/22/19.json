@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "exodus 22:19",
   "book": "exodus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 477,
-    "prompt_tokens": 23744,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24221
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:18:22.423422872Z",
   "translation": "El que sacrifica ⟨a⟩ ⟨los⟩ elohim, ⟨lo⟩ destruirá, ⟨excepto⟩ ⟨para⟩ YHWH, ⟨a⟩ él solo.",
   "tokens": [
     {
       "surface": "זבח",
-      "english": "El que sacrifica"
+      "gloss": "El que sacrifica"
     },
     {
       "surface": "לאלהים",
-      "english": "⟨a⟩ ⟨los⟩ elohim",
+      "gloss": "⟨a⟩ ⟨los⟩ elohim",
       "marks": "a los elohim"
     },
     {
       "surface": "יחרם",
-      "english": "⟨lo⟩ destruirá"
+      "gloss": "⟨lo⟩ destruirá"
     },
     {
       "surface": "בלתי",
-      "english": "⟨excepto⟩"
+      "gloss": "⟨excepto⟩"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨para⟩ YHWH"
+      "gloss": "⟨para⟩ YHWH"
     },
     {
       "surface": "לבדו",
-      "english": "⟨a⟩ él solo"
+      "gloss": "⟨a⟩ él solo"
     }
-  ],
-  "timestamp": "2026-07-16T20:18:22.423422872Z",
-  "model": "glm-4.5"
+  ]
 }

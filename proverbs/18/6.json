@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 18:6",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59835,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60118
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:41:59.521290317Z",
   "translation": "Los labios ⟨del⟩ necio entran en contienda, y su boca llama para golpes.",
   "tokens": [
     {
       "surface": "שפתי",
-      "english": "Labios ⟨del⟩"
+      "gloss": "Labios ⟨del⟩"
     },
     {
       "surface": "כסיל",
-      "english": "necio"
+      "gloss": "necio"
     },
     {
       "surface": "יבאו",
-      "english": "entran"
+      "gloss": "entran"
     },
     {
       "surface": "בריב",
-      "english": "en contienda"
+      "gloss": "en contienda"
     },
     {
       "surface": "ופיו",
-      "english": "y su boca"
+      "gloss": "y su boca"
     },
     {
       "surface": "למהלמות",
-      "english": "para"
+      "gloss": "para"
     },
     {
       "surface": "יקרא",
-      "english": "llama"
+      "gloss": "llama"
     }
-  ],
-  "timestamp": "2026-06-10T01:41:59.521290317Z",
-  "model": "glm-4.5"
+  ]
 }

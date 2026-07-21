@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 15:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57652,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58067
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:15:12.154084625Z",
   "translation": "Y la Rúaj de Elohim vino sobre Azaryáhu hijo de Odéd",
   "tokens": [
     {
       "surface": "ועזריהו",
-      "english": "Y Azaryáhu"
+      "gloss": "Y Azaryáhu"
     },
     {
       "surface": "בן",
-      "english": "hijo de"
+      "gloss": "hijo de"
     },
     {
       "surface": "עודד",
-      "english": "Odéd"
+      "gloss": "Odéd"
     },
     {
       "surface": "היתה",
-      "english": "vino ⟨sobre⟩",
+      "gloss": "vino ⟨sobre⟩",
       "rationale": "היתה means 'came to pass\/was'; the prepositional sense 'upon' is supplied by עליו next"
     },
     {
       "surface": "עליו",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "רוח",
-      "english": "Rúaj"
+      "gloss": "Rúaj"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:15:12.154084625Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

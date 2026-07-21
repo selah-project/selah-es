@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "judges 10:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 194,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 15521,
-    "prompt_tokens_details": {
-      "cached_tokens": 14812
-    },
-    "total_tokens": 15715
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:41:23.892958168Z",
   "translation": "Y Jair murió ⟨y⟩ ⟨fue⟩ enterrado en Kamon.",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "Y Jair murió"
+      "gloss": "Y Jair murió"
     },
     {
       "surface": "יאיר",
-      "english": "Jair"
+      "gloss": "Jair"
     },
     {
       "surface": "ויקבר",
-      "english": "⟨y⟩ ⟨fue⟩ enterrado"
+      "gloss": "⟨y⟩ ⟨fue⟩ enterrado"
     },
     {
       "surface": "בקמון",
-      "english": "en Kamon"
+      "gloss": "en Kamon"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:41:23.892958168Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

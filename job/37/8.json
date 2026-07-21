@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 37:8",
   "book": "job",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26916,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27273
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:45.070813592Z",
   "translation": "Y ⟨el⟩ animal ⟨vive⟩ en ⟨su⟩ emboscada, y en sus madrigueras ⟨ella⟩ mora",
   "tokens": [
     {
       "surface": "ותבא",
-      "english": "Y"
+      "gloss": "Y"
     },
     {
       "surface": "חיה",
-      "english": "⟨el⟩ animal ⟨vive⟩"
+      "gloss": "⟨el⟩ animal ⟨vive⟩"
     },
     {
       "surface": "במו",
-      "english": "en ⟨su⟩"
+      "gloss": "en ⟨su⟩"
     },
     {
       "surface": "ארב",
-      "english": "emboscada"
+      "gloss": "emboscada"
     },
     {
       "surface": "ובמעונתיה",
-      "english": "y en sus madrigueras"
+      "gloss": "y en sus madrigueras"
     },
     {
       "surface": "תשכן",
-      "english": "⟨ella⟩ mora"
+      "gloss": "⟨ella⟩ mora"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:45.070813592Z",
-  "model": "glm-4.5"
+  ]
 }

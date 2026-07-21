@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 21:17",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59984,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60317
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:27.569300276Z",
   "translation": "Un hombre ⟨que ama⟩ la pobreza ama ⟨la⟩ alegría; ⟨que ama⟩ el vino y ⟨el⟩ aceite ⟨no⟩ se enriquece.",
   "tokens": [
     {
       "surface": "איש",
-      "english": "Un hombre"
+      "gloss": "Un hombre"
     },
     {
       "surface": "מחסור",
-      "english": "pobreza"
+      "gloss": "pobreza"
     },
     {
       "surface": "אהב",
-      "english": "⟨que ama⟩"
+      "gloss": "⟨que ama⟩"
     },
     {
       "surface": "שמחה",
-      "english": "⟨la⟩ alegría"
+      "gloss": "⟨la⟩ alegría"
     },
     {
       "surface": "אהב",
-      "english": "⟨que ama⟩"
+      "gloss": "⟨que ama⟩"
     },
     {
       "surface": "יין",
-      "english": "el vino"
+      "gloss": "el vino"
     },
     {
       "surface": "ושמן",
-      "english": "⟨el⟩ aceite"
+      "gloss": "⟨el⟩ aceite"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "יעשיר",
-      "english": "se enriquece"
+      "gloss": "se enriquece"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:27.569300276Z",
-  "model": "glm-4.5"
+  ]
 }

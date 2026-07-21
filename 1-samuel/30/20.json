@@ -1,78 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-samuel 30:20",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 482,
-    "prompt_tokens": 24177,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24659
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:47:11.916650875Z",
   "translation": "Y David tomó todo el ganado menor y el ganado mayor, ⟨lo⟩ condujeron delante de ⟨el⟩ ganado, y dijeron: Este ⟨es⟩ el botín de David.",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "Y tomó"
+      "gloss": "Y tomó"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo el ganado menor y el ganado mayor"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "הצאן",
-      "english": "el ganado menor"
+      "gloss": "el ganado menor"
     },
     {
       "surface": "והבקר",
-      "english": "y el ganado mayor"
+      "gloss": "y el ganado mayor"
     },
     {
       "surface": "נהגו",
-      "english": "⟨lo⟩ condujeron"
+      "gloss": "⟨lo⟩ condujeron"
     },
     {
       "surface": "לפני",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "המקנה",
-      "english": "⟨el⟩ ganado"
+      "gloss": "⟨el⟩ ganado"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ויאמרו",
-      "english": "y dijeron"
+      "gloss": "y dijeron"
     },
     {
       "surface": "זה",
-      "english": "Este"
+      "gloss": "Este"
     },
     {
       "surface": "שלל",
-      "english": "el botín"
+      "gloss": "el botín"
     },
     {
       "surface": "דוד",
-      "english": "de David"
+      "gloss": "de David"
     }
-  ],
-  "timestamp": "2026-07-16T18:47:11.916650875Z",
-  "model": "glm-4.5"
+  ]
 }

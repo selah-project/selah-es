@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "proverbs 11:21",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59933,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60277
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:36:05.362984766Z",
   "translation": "⟨el⟩ mano a ⟨el⟩ mano, ⟨el⟩ malo no será ⟨inocente⟩, y ⟨el⟩ descendiente de ⟨los⟩ justos escapará.",
   "tokens": [
     {
       "surface": "יד",
-      "english": "⟨El⟩ mano"
+      "gloss": "⟨El⟩ mano"
     },
     {
       "surface": "ליד",
-      "english": "a ⟨el⟩ mano"
+      "gloss": "a ⟨el⟩ mano"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ינקה",
-      "english": "será ⟨inocente⟩"
+      "gloss": "será ⟨inocente⟩"
     },
     {
       "surface": "רע",
-      "english": "⟨el⟩ malo"
+      "gloss": "⟨el⟩ malo"
     },
     {
       "surface": "וזרע",
-      "english": "y ⟨el⟩ descendiente"
+      "gloss": "y ⟨el⟩ descendiente"
     },
     {
       "surface": "צדיקים",
-      "english": "de ⟨los⟩ justos"
+      "gloss": "de ⟨los⟩ justos"
     },
     {
       "surface": "נמלט",
-      "english": "escapará"
+      "gloss": "escapará"
     }
-  ],
-  "timestamp": "2026-06-10T01:36:05.362984766Z",
-  "model": "glm-4.5"
+  ]
 }

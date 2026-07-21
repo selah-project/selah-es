@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 31:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69956,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70415
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:11:25.762327090Z",
   "translation": "Sácame ⟨de⟩ la red que ⟨ellos⟩ ⟨han⟩ escondido ⟨para⟩ mí; porque tú ⟨eres⟩ mi fortaleza.",
   "tokens": [
     {
       "surface": "תוציאני",
-      "english": "Sácame"
+      "gloss": "Sácame"
     },
     {
       "surface": "מרשת",
-      "english": "de la red"
+      "gloss": "de la red"
     },
     {
       "surface": "זו",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "טמנו",
-      "english": "han escondido"
+      "gloss": "han escondido"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "מעוזי",
-      "english": "mi fortaleza"
+      "gloss": "mi fortaleza"
     }
-  ],
-  "timestamp": "2026-06-09T23:11:25.762327090Z",
-  "model": "glm-4.5"
+  ]
 }

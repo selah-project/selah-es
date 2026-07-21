@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "jeremiah 8:18",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 448,
-    "prompt_tokens": 24386,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24834
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:36:10.870415503Z",
   "translation": "Mi consolación para mí ⟨es⟩ ⟨את⟩ yagón, mi corazón ⟨está⟩ enfermo ⟨en⟩ mí.",
   "tokens": [
     {
       "surface": "מבליגיתי",
-      "english": "Mi consolación para mí"
+      "gloss": "Mi consolación para mí"
     },
     {
       "surface": "עלי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "yagón"
     },
     {
       "surface": "יגון",
-      "english": "yagón"
+      "gloss": "yagón"
     },
     {
       "surface": "עלי",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "לבי",
-      "english": "mi corazón"
+      "gloss": "mi corazón"
     },
     {
       "surface": "דוי",
-      "english": "enfermo"
+      "gloss": "enfermo"
     }
-  ],
-  "timestamp": "2026-07-16T21:36:10.870415503Z",
-  "model": "glm-4.5"
+  ]
 }

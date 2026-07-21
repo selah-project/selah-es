@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "psalms 78:40",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69754,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70281
-  },
+  "verse": 40,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:37:12.104261065Z",
   "translation": "¿⟨cuánto⟩ ⟨lo⟩ rebelaron en el desierto y ⟨lo⟩ afligieron en ־Yeshimón?",
   "tokens": [
     {
       "surface": "כמה",
-      "english": "¿⟨Cuánto⟩"
+      "gloss": "¿⟨Cuánto⟩"
     },
     {
       "surface": "ימרוהו",
-      "english": "⟨lo⟩ rebelaron",
+      "gloss": "⟨lo⟩ rebelaron",
       "marks": "a Él"
     },
     {
       "surface": "במדבר",
-      "english": "en el desierto"
+      "gloss": "en el desierto"
     },
     {
       "surface": "יעציבוהו",
-      "english": "y ⟨lo⟩ afligieron",
+      "gloss": "y ⟨lo⟩ afligieron",
       "marks": "a Él"
     },
     {
       "surface": "בישימון",
-      "english": "en ־Yeshimón"
+      "gloss": "en ־Yeshimón"
     }
-  ],
-  "timestamp": "2026-06-09T23:37:12.104261065Z",
-  "model": "glm-4.5"
+  ]
 }

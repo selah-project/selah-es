@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 20:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69990,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70422
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:10.964787934Z",
   "translation": "⟨Él te⟩ responderá, YHWH, en el día de ⟨la⟩ angustia; ⟨Él te⟩ exaltará ⟨por⟩ el nombre ⟨de⟩ Elohim de Yaakov",
   "tokens": [
     {
       "surface": "יענך",
-      "english": "⟨Él te⟩ responderá"
+      "gloss": "⟨Él te⟩ responderá"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ביום",
-      "english": "en el día de"
+      "gloss": "en el día de"
     },
     {
       "surface": "צרה",
-      "english": "⟨la⟩ angustia"
+      "gloss": "⟨la⟩ angustia"
     },
     {
       "surface": "ישגבך",
-      "english": "⟨Él te⟩ exaltará ⟨por⟩"
+      "gloss": "⟨Él te⟩ exaltará ⟨por⟩"
     },
     {
       "surface": "שם",
-      "english": "el nombre ⟨de⟩"
+      "gloss": "el nombre ⟨de⟩"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:10.964787934Z",
-  "model": "glm-4.5"
+  ]
 }

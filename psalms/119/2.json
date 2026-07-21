@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 119:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 349,
-    "prompt_tokens": 69889,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70238
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:59.874488893Z",
   "translation": "¡Felices ⟨los⟩ que guardan ⟨את⟩ sus testimonios y ⟨que⟩ ⟨con⟩ todo el corazón lo buscan",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Felices"
+      "gloss": "¡Felices"
     },
     {
       "surface": "נצרי",
-      "english": "que guardan"
+      "gloss": "que guardan"
     },
     {
       "surface": "עדתיו",
-      "english": "sus testimonios"
+      "gloss": "sus testimonios"
     },
     {
       "surface": "בכל",
-      "english": "con todo"
+      "gloss": "con todo"
     },
     {
       "surface": "לב",
-      "english": "el corazón"
+      "gloss": "el corazón"
     },
     {
       "surface": "ידרשוהו",
-      "english": "lo buscan"
+      "gloss": "lo buscan"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:59.874488893Z",
-  "model": "glm-4.5"
+  ]
 }

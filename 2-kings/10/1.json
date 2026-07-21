@@ -1,9 +1,84 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-kings 10:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 10,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:30:02.713709188Z",
+  "translation": "Y Achab tenía setenta hijos en Shomrón, y Yehú escribió ⟨los⟩ cartas y envió ⟨a⟩ Shomrón ⟨a los⟩ gobernantes de Yizreel, ⟨a los⟩ ancianos y ⟨a los⟩ tutores de ⟨los⟩ hijos de Achab, diciendo:",
+  "tokens": [
+    {
+      "surface": "ולאחאב",
+      "gloss": "Y Achab"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "setenta"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "en Samaria"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "y escribió"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehú"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "⟨los⟩ cartas"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "y envió"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "⟨a⟩ Shomrón"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a los⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "gobernantes"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "de Yizreel"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "⟨a los⟩ ancianos"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "y ⟨a los⟩"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "tutores"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "de ⟨los⟩ hijos de Achab"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,92 +88,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 635,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17360,
-    "prompt_tokens_details": {
-      "cached_tokens": 15439
-    },
-    "total_tokens": 17995
-  },
-  "translation": "Y Achab tenía setenta hijos en Shomrón, y Yehú escribió ⟨los⟩ cartas y envió ⟨a⟩ Shomrón ⟨a los⟩ gobernantes de Yizreel, ⟨a los⟩ ancianos y ⟨a los⟩ tutores de ⟨los⟩ hijos de Achab, diciendo:",
-  "tokens": [
-    {
-      "surface": "ולאחאב",
-      "english": "Y Achab"
-    },
-    {
-      "surface": "שבעים",
-      "english": "setenta"
-    },
-    {
-      "surface": "בנים",
-      "english": "hijos"
-    },
-    {
-      "surface": "בשמרון",
-      "english": "en Samaria"
-    },
-    {
-      "surface": "ויכתב",
-      "english": "y escribió"
-    },
-    {
-      "surface": "יהוא",
-      "english": "Yehú"
-    },
-    {
-      "surface": "ספרים",
-      "english": "⟨los⟩ cartas"
-    },
-    {
-      "surface": "וישלח",
-      "english": "y envió"
-    },
-    {
-      "surface": "שמרון",
-      "english": "⟨a⟩ Shomrón"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a los⟩"
-    },
-    {
-      "surface": "שרי",
-      "english": "gobernantes"
-    },
-    {
-      "surface": "יזרעאל",
-      "english": "de Yizreel"
-    },
-    {
-      "surface": "הזקנים",
-      "english": "⟨a los⟩ ancianos"
-    },
-    {
-      "surface": "ואל",
-      "english": "y ⟨a los⟩"
-    },
-    {
-      "surface": "האמנים",
-      "english": "tutores"
-    },
-    {
-      "surface": "אחאב",
-      "english": "de ⟨los⟩ hijos de Achab"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:30:02.713709188Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

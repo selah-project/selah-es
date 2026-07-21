@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "isaiah 8:16",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25753,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26067
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:25:46.700853191Z",
   "translation": "Ata ⟨el⟩ testimonio, sella ⟨la⟩ Torá entre mis discípulos.",
   "tokens": [
     {
       "surface": "צור",
-      "english": "Ata"
+      "gloss": "Ata"
     },
     {
       "surface": "תעודה",
-      "english": "⟨el⟩ testimonio",
+      "gloss": "⟨el⟩ testimonio",
       "marks": "testimonio"
     },
     {
       "surface": "חתום",
-      "english": "sella"
+      "gloss": "sella"
     },
     {
       "surface": "תורה",
-      "english": "⟨la⟩ Torá",
+      "gloss": "⟨la⟩ Torá",
       "marks": "Torá"
     },
     {
       "surface": "בלמדי",
-      "english": "entre mis discípulos"
+      "gloss": "entre mis discípulos"
     }
-  ],
-  "timestamp": "2026-06-10T02:25:46.700853191Z",
-  "model": "glm-4.5"
+  ]
 }

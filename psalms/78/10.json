@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 78:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69898,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70330
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:25.495409775Z",
   "translation": "No ⟨they⟩ guardaron ⟨el⟩ pacto de Elohim ⟨את⟩ ⟨y⟩ en ⟨la⟩ torá de Él ⟨את⟩ ⟨they⟩ se negaron a caminar",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No",
+      "gloss": "No",
       "marks": ""
     },
     {
       "surface": "שמרו",
-      "english": "⟨they⟩ guardaron",
+      "gloss": "⟨they⟩ guardaron",
       "marks": "they"
     },
     {
       "surface": "ברית",
-      "english": "⟨el⟩ pacto",
+      "gloss": "⟨el⟩ pacto",
       "marks": "pacto"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim",
+      "gloss": "de Elohim",
       "marks": "Elohim"
     },
     {
       "surface": "ובתורתו",
-      "english": "⟨y⟩ en ⟨la⟩ torá de Él",
+      "gloss": "⟨y⟩ en ⟨la⟩ torá de Él",
       "marks": "y en la torá de Él"
     },
     {
       "surface": "מאנו",
-      "english": "⟨they⟩ se negaron",
+      "gloss": "⟨they⟩ se negaron",
       "marks": "they"
     },
     {
       "surface": "ללכת",
-      "english": "a caminar",
+      "gloss": "a caminar",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:36:25.495409775Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "numbers 10:7",
   "book": "numbers",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 398,
-    "prompt_tokens": 25112,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25510
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:01:15.737258450Z",
   "translation": "Y en ⟨el⟩ convocar ⟨del⟩ pueblo, tocaréis ⟨la⟩ trompeta, y no ⟨haréis⟩ señal de alarma.",
   "tokens": [
     {
       "surface": "ובהקהיל",
-      "english": "Y en ⟨el⟩ convocar"
+      "gloss": "Y en ⟨el⟩ convocar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הקהל"
     },
     {
       "surface": "הקהל",
-      "english": "⟨del⟩ pueblo"
+      "gloss": "⟨del⟩ pueblo"
     },
     {
       "surface": "תתקעו",
-      "english": "tocaréis ⟨la⟩ trompeta"
+      "gloss": "tocaréis ⟨la⟩ trompeta"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "תריעו",
-      "english": "⟨haréis⟩ señal de alarma"
+      "gloss": "⟨haréis⟩ señal de alarma"
     }
-  ],
-  "timestamp": "2026-07-16T23:01:15.737258450Z",
-  "model": "glm-4.5"
+  ]
 }

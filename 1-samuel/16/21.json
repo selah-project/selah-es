@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 16:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 16,
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:59:35.997190641Z",
+  "translation": "Y Davidd vino a Shaúl y se presentó ⟨por⟩ él; y le amó grandemente, y fue ⟨para⟩ él ⟨el⟩ portador de ⟨los⟩ instrumentos.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Y vino"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "y se presentó"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨por⟩ él"
+    },
+    {
+      "surface": "ויאהבהו",
+      "gloss": "y le amó"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandemente"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y fue"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para⟩ él"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "⟨el⟩ portador"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "⟨de los⟩ instrumentos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,72 +75,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16389,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 16921
-  },
-  "translation": "Y Davidd vino a Shaúl y se presentó ⟨por⟩ él; y le amó grandemente, y fue ⟨para⟩ él ⟨el⟩ portador de ⟨los⟩ instrumentos.",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "Y vino"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "ויעמד",
-      "english": "y se presentó"
-    },
-    {
-      "surface": "לפניו",
-      "english": "⟨por⟩ él"
-    },
-    {
-      "surface": "ויאהבהו",
-      "english": "y le amó"
-    },
-    {
-      "surface": "מאד",
-      "english": "grandemente"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y fue"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨para⟩ él"
-    },
-    {
-      "surface": "נשא",
-      "english": "⟨el⟩ portador"
-    },
-    {
-      "surface": "כלים",
-      "english": "⟨de los⟩ instrumentos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:59:35.997190641Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

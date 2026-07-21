@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "1-samuel 20:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:05:02.256023524Z",
+  "translation": "Y Davidd se escondió en el campo y ⟨fue⟩ ⟨el⟩ nuevo mes y ⟨se⟩ sentó ⟨el⟩ rey sobre ⟨el⟩ pan para comer",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "Y David se escondió"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "en el campo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y ⟨fue⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "⟨el⟩ nuevo mes"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "y ⟨se⟩ sentó"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "⟨el⟩ pan"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "para comer"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,64 +60,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16235,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16699
-  },
-  "translation": "Y Davidd se escondió en el campo y ⟨fue⟩ ⟨el⟩ nuevo mes y ⟨se⟩ sentó ⟨el⟩ rey sobre ⟨el⟩ pan para comer",
-  "tokens": [
-    {
-      "surface": "ויסתר",
-      "english": "Y David se escondió"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בשדה",
-      "english": "en el campo"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y ⟨fue⟩"
-    },
-    {
-      "surface": "החדש",
-      "english": "⟨el⟩ nuevo mes"
-    },
-    {
-      "surface": "וישב",
-      "english": "y ⟨se⟩ sentó"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הלחם",
-      "english": "⟨el⟩ pan"
-    },
-    {
-      "surface": "לאכול",
-      "english": "para comer"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:05:02.256023524Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

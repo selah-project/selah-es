@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "nehemiah 7:10",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56288,
-    "prompt_tokens_details": {
-      "cached_tokens": 55510
-    },
-    "total_tokens": 56599
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:38:12.344251333Z",
   "translation": "Los hijos de Arach: seiscientos cincuenta y ⟨y⟩ dos",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Los hijos de"
+      "gloss": "Los hijos de"
     },
     {
       "surface": "ארח",
-      "english": "Arach"
+      "gloss": "Arach"
     },
     {
       "surface": "שש",
-      "english": "seiscientos"
+      "gloss": "seiscientos"
     },
     {
       "surface": "מאות",
-      "english": "cincuenta"
+      "gloss": "cincuenta"
     },
     {
       "surface": "חמשים",
-      "english": "⟨y⟩"
+      "gloss": "⟨y⟩"
     },
     {
       "surface": "ושנים",
-      "english": "dos"
+      "gloss": "dos"
     }
-  ],
-  "timestamp": "2026-06-10T00:38:12.344251333Z",
-  "model": "glm-4.5"
+  ]
 }

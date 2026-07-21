@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 77:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69921,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70233
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:10.932516636Z",
   "translation": "redimiste ⟨con⟩ tu brazo ⟨a⟩ tu pueblo ⟨los⟩ hijos de Yaakov y Yosef Selah",
   "tokens": [
     {
       "surface": "גאלת",
-      "english": "Redimiste"
+      "gloss": "Redimiste"
     },
     {
       "surface": "בזרוע",
-      "english": "⟨con⟩ tu brazo"
+      "gloss": "⟨con⟩ tu brazo"
     },
     {
       "surface": "עמך",
-      "english": "⟨a⟩ tu pueblo"
+      "gloss": "⟨a⟩ tu pueblo"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "ויוסף",
-      "english": "y Yosef"
+      "gloss": "y Yosef"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:36:10.932516636Z",
-  "model": "glm-4.5"
+  ]
 }

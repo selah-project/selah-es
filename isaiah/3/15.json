@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "isaiah 3:15",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 494,
-    "prompt_tokens": 26412,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26906
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:22:15.627671451Z",
   "translation": "¿Qué os ⟨está⟩ haciendo? ⟨que⟩ aplastáis ⟨a⟩ mi pueblo y las caras de los pobres ⟨está⟩ moliendo, declara Adonai YHWH Tzevaot.",
   "tokens": [
     {
       "surface": "מלכם",
-      "english": "¿Qué os ⟨está⟩ haciendo?"
+      "gloss": "¿Qué os ⟨está⟩ haciendo?"
     },
     {
       "surface": "תדכאו",
-      "english": "⟨que⟩ aplastáis"
+      "gloss": "⟨que⟩ aplastáis"
     },
     {
       "surface": "עמי",
-      "english": "⟨a⟩ mi pueblo"
+      "gloss": "⟨a⟩ mi pueblo"
     },
     {
       "surface": "ופני",
-      "english": "y las caras"
+      "gloss": "y las caras"
     },
     {
       "surface": "עניים",
-      "english": "de los pobres"
+      "gloss": "de los pobres"
     },
     {
       "surface": "תטחנו",
-      "english": "⟨está⟩ moliendo"
+      "gloss": "⟨está⟩ moliendo"
     },
     {
       "surface": "נאם",
-      "english": "declara"
+      "gloss": "declara"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     }
-  ],
-  "timestamp": "2026-07-16T21:22:15.627671451Z",
-  "model": "glm-4.5"
+  ]
 }

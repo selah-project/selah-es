@@ -1,82 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 30:15",
   "book": "exodus",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 573,
-    "prompt_tokens": 24837,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25410
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:23:23.444542435Z",
   "translation": "El rico no ⟨dará⟩ más, y el pobre no dará menos de medio ⟨el⟩ shekel, para dar ⟨את⟩ la ofrenda de YHWH, para expiar por ⟨las⟩ almas de ustedes.",
   "tokens": [
     {
       "surface": "העשיר",
-      "english": "El rico"
+      "gloss": "El rico"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ירבה",
-      "english": "⟨dará⟩ más"
+      "gloss": "⟨dará⟩ más"
     },
     {
       "surface": "והדל",
-      "english": "y el pobre"
+      "gloss": "y el pobre"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ימעיט",
-      "english": "dará menos"
+      "gloss": "dará menos"
     },
     {
       "surface": "ממחצית",
-      "english": "de medio"
+      "gloss": "de medio"
     },
     {
       "surface": "השקל",
-      "english": "⟨el⟩ shekel"
+      "gloss": "⟨el⟩ shekel"
     },
     {
       "surface": "לתת",
-      "english": "para dar"
+      "gloss": "para dar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la ofrenda de YHWH"
     },
     {
       "surface": "תרומת",
-      "english": "la ofrenda"
+      "gloss": "la ofrenda"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "לכפר",
-      "english": "para expiar"
+      "gloss": "para expiar"
     },
     {
       "surface": "על",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "נפשתיכם",
-      "english": "⟨las⟩ almas de ustedes"
+      "gloss": "⟨las⟩ almas de ustedes"
     }
-  ],
-  "timestamp": "2026-07-16T20:23:23.444542435Z",
-  "model": "glm-4.5"
+  ]
 }

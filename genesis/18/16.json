@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 18:16",
   "book": "genesis",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28661,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29070
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:15:30.013658507Z",
   "translation": "Y ⟨los⟩ hombres se levantaron desde allí y vieron ⟨hacia⟩ el rostro de Sedom; y Avraham fue con ellos para enviarlos.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "english": "Y se levantaron"
+      "gloss": "Y se levantaron"
     },
     {
       "surface": "משם",
-      "english": "desde allí"
+      "gloss": "desde allí"
     },
     {
       "surface": "האנשים",
-      "english": "los hombres"
+      "gloss": "los hombres"
     },
     {
       "surface": "וישקפו",
-      "english": "y vieron"
+      "gloss": "y vieron"
     },
     {
       "surface": "על",
-      "english": "hacia"
+      "gloss": "hacia"
     },
     {
       "surface": "פני",
-      "english": "el rostro de"
+      "gloss": "el rostro de"
     },
     {
       "surface": "סדם",
-      "english": "Sedom"
+      "gloss": "Sedom"
     },
     {
       "surface": "ואברהם",
-      "english": "y Avraham"
+      "gloss": "y Avraham"
     },
     {
       "surface": "הלך",
-      "english": "fue"
+      "gloss": "fue"
     },
     {
       "surface": "עמם",
-      "english": "con ellos"
+      "gloss": "con ellos"
     },
     {
       "surface": "לשלחם",
-      "english": "para enviarlos"
+      "gloss": "para enviarlos"
     }
-  ],
-  "timestamp": "2026-06-10T05:15:30.013658507Z",
-  "model": "glm-4.5"
+  ]
 }

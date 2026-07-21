@@ -1,87 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 2:3",
   "book": "genesis",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 611,
-    "prompt_tokens": 29345,
-    "prompt_tokens_details": {
-      "cached_tokens": 21248
-    },
-    "total_tokens": 29956
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T01:04:26.244881814Z",
   "translation": "Y bendijo Elohim ⟨את⟩ el día séptimo y lo santificó, porque en él ⟨את⟩ descansó de toda su obra que Elohim había creado para hacer.",
   "tokens": [
     {
       "surface": "ויברך",
-      "english": "Y bendijo"
+      "gloss": "Y bendijo"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el día séptimo"
     },
     {
       "surface": "יום",
-      "english": "el día"
+      "gloss": "el día"
     },
     {
       "surface": "השביעי",
-      "english": "séptimo"
+      "gloss": "séptimo"
     },
     {
       "surface": "ויקדש",
-      "english": "y lo santificó"
+      "gloss": "y lo santificó"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "descansó"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "בו",
-      "english": "en él"
+      "gloss": "en él"
     },
     {
       "surface": "שבת",
-      "english": "descansó"
+      "gloss": "descansó"
     },
     {
       "surface": "מכל",
-      "english": "de toda"
+      "gloss": "de toda"
     },
     {
       "surface": "מלאכתו",
-      "english": "su obra"
+      "gloss": "su obra"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "ברא",
-      "english": "había creado"
+      "gloss": "había creado"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לעשות",
-      "english": "para hacer"
+      "gloss": "para hacer"
     }
-  ],
-  "timestamp": "2026-07-17T01:04:26.244881814Z",
-  "model": "glm-4.5"
+  ]
 }

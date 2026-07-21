@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "ezekiel 34:3",
   "book": "ezekiel",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 610,
-    "prompt_tokens": 24964,
-    "prompt_tokens_details": {
-      "cached_tokens": 23296
-    },
-    "total_tokens": 25574
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:42:32.475846478Z",
   "translation": "⟨את⟩ la grasa ⟨coméis⟩, y ⟨את⟩ la lana ⟨vestís⟩; ⟨a⟩ la engordada ⟨sacrificáis⟩, ⟨pero⟩ al rebaño ⟨no⟩ apacentáis",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la grasa"
     },
     {
       "surface": "החלב",
-      "english": "la grasa"
+      "gloss": "la grasa"
     },
     {
       "surface": "תאכלו",
-      "english": "⟨coméis⟩"
+      "gloss": "⟨coméis⟩"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la lana"
     },
     {
       "surface": "הצמר",
-      "english": "la lana"
+      "gloss": "la lana"
     },
     {
       "surface": "תלבשו",
-      "english": "⟨vestís⟩"
+      "gloss": "⟨vestís⟩"
     },
     {
       "surface": "הבריאה",
-      "english": "⟨a⟩ la engordada"
+      "gloss": "⟨a⟩ la engordada"
     },
     {
       "surface": "תזבחו",
-      "english": "⟨sacrificáis⟩"
+      "gloss": "⟨sacrificáis⟩"
     },
     {
       "surface": "הצאן",
-      "english": "⟨pero⟩ al rebaño"
+      "gloss": "⟨pero⟩ al rebaño"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תרעו",
-      "english": "apacentáis"
+      "gloss": "apacentáis"
     }
-  ],
-  "timestamp": "2026-07-16T20:42:32.475846478Z",
-  "model": "glm-4.5"
+  ]
 }

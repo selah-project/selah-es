@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 23:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 658,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26283,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26941
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:33:44.409793087Z",
   "translation": "¿Es esta ⟨es⟩ ⟨la⟩ ciudad gozosa vuestra? ⟨De⟩ ⟨los⟩ días de antigüedad ⟨es⟩ su antigüedad; sus propios pies la llevarán ⟨a⟩ ⟨lugar⟩ distante ⟨para⟩ residir.",
   "tokens": [
     {
       "surface": "הזאת",
-      "english": "¿Es esta",
+      "gloss": "¿Es esta",
       "marks": "vuestra ciudad gozosa"
     },
     {
       "surface": "לכם",
-      "english": "vuestra"
+      "gloss": "vuestra"
     },
     {
       "surface": "עליזה",
-      "english": "ciudad gozosa"
+      "gloss": "ciudad gozosa"
     },
     {
       "surface": "מימי",
-      "english": "⟨De⟩ ⟨los⟩ días"
+      "gloss": "⟨De⟩ ⟨los⟩ días"
     },
     {
       "surface": "קדם",
-      "english": "de antigüedad"
+      "gloss": "de antigüedad"
     },
     {
       "surface": "קדמתה",
-      "english": "⟨es⟩ su antigüedad"
+      "gloss": "⟨es⟩ su antigüedad"
     },
     {
       "surface": "יבלוה",
-      "english": "sus propios pies la llevarán"
+      "gloss": "sus propios pies la llevarán"
     },
     {
       "surface": "רגליה",
-      "english": "sus propios pies"
+      "gloss": "sus propios pies"
     },
     {
       "surface": "מרחוק",
-      "english": "⟨a⟩ ⟨lugar⟩ distante"
+      "gloss": "⟨a⟩ ⟨lugar⟩ distante"
     },
     {
       "surface": "לגור",
-      "english": "⟨para⟩ residir"
+      "gloss": "⟨para⟩ residir"
     }
-  ],
-  "timestamp": "2026-06-10T02:33:44.409793087Z",
-  "model": "glm-4.5"
+  ]
 }

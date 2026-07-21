@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "proverbs 15:19",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59875,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60342
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:39:01.529081773Z",
   "translation": "El camino del perezoso ⟨es⟩ como ⟨un⟩ seto ⟨de⟩ zarzas, pero el camino ⟨de los⟩ justos ⟨es⟩ ⟨un⟩ camino ⟨en⟩ alto.",
   "tokens": [
     {
       "surface": "דרך",
-      "english": "El camino"
+      "gloss": "El camino"
     },
     {
       "surface": "עצל",
-      "english": "del perezoso"
+      "gloss": "del perezoso"
     },
     {
       "surface": "כמשכת",
-      "english": "⟨es⟩ como ⟨un⟩ seto ⟨de⟩"
+      "gloss": "⟨es⟩ como ⟨un⟩ seto ⟨de⟩"
     },
     {
       "surface": "חדק",
-      "english": "zarzas"
+      "gloss": "zarzas"
     },
     {
       "surface": "וארח",
-      "english": "pero el camino"
+      "gloss": "pero el camino"
     },
     {
       "surface": "ישרים",
-      "english": "⟨de los⟩ justos"
+      "gloss": "⟨de los⟩ justos"
     },
     {
       "surface": "סללה",
-      "english": "⟨es⟩ ⟨un⟩ camino ⟨en⟩ alto"
+      "gloss": "⟨es⟩ ⟨un⟩ camino ⟨en⟩ alto"
     }
-  ],
-  "timestamp": "2026-06-10T01:39:01.529081773Z",
-  "model": "glm-4.5"
+  ]
 }

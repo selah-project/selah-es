@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "haggai 1:5",
   "book": "haggai",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26288,
-    "prompt_tokens_details": {
-      "cached_tokens": 25128
-    },
-    "total_tokens": 26720
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:23:13.983757074Z",
   "translation": "Y ahora así ⟨dice⟩ YHWH ⟨de⟩ los ejércitos: Poned ⟨vuestros⟩ corazones sobre ⟨vuestros⟩ caminos.",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "Y ahora"
+      "gloss": "Y ahora"
     },
     {
       "surface": "כה",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "אמר",
-      "english": "⟨dice⟩"
+      "gloss": "⟨dice⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "⟨de⟩ los ejércitos"
+      "gloss": "⟨de⟩ los ejércitos"
     },
     {
       "surface": "שימו",
-      "english": "Poned"
+      "gloss": "Poned"
     },
     {
       "surface": "לבבכם",
-      "english": "⟨vuestros⟩ corazones"
+      "gloss": "⟨vuestros⟩ corazones"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "דרכיכם",
-      "english": "⟨vuestros⟩ caminos"
+      "gloss": "⟨vuestros⟩ caminos"
     }
-  ],
-  "timestamp": "2026-06-11T23:23:13.983757074Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 111:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 237,
-    "prompt_tokens": 69840,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70077
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:49.924732093Z",
   "translation": "Gloria y majestad ⟨es⟩ su obra, y su justicia permanece para siempre.",
   "tokens": [
     {
       "surface": "הוד",
-      "english": "Gloria"
+      "gloss": "Gloria"
     },
     {
       "surface": "והדר",
-      "english": "y majestad"
+      "gloss": "y majestad"
     },
     {
       "surface": "פעלו",
-      "english": "su obra"
+      "gloss": "su obra"
     },
     {
       "surface": "וצדקתו",
-      "english": "y su justicia"
+      "gloss": "y su justicia"
     },
     {
       "surface": "עמדת",
-      "english": "permanece"
+      "gloss": "permanece"
     },
     {
       "surface": "לעד",
-      "english": "para siempre"
+      "gloss": "para siempre"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:49.924732093Z",
-  "model": "glm-4.5"
+  ]
 }

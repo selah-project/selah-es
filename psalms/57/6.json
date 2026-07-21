@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 57:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70052,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70388
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:25:33.014644621Z",
   "translation": "Sé exaltado ⟨el⟩ Elohim sobre ⟨los⟩ cielos; sobre toda ⟨la⟩ tierra ⟨está⟩ tu gloria.",
   "tokens": [
     {
       "surface": "רומה",
-      "english": "Sé exaltado"
+      "gloss": "Sé exaltado"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "השמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "אלהים",
-      "english": "⟨el⟩ Elohim"
+      "gloss": "⟨el⟩ Elohim"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "כבודך",
-      "english": "⟨está⟩ tu gloria"
+      "gloss": "⟨está⟩ tu gloria"
     }
-  ],
-  "timestamp": "2026-06-09T23:25:33.014644621Z",
-  "model": "glm-4.5"
+  ]
 }

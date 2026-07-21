@@ -1,56 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 11:6",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 364,
-    "prompt_tokens": 65249,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 65613
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:52:46.099425388Z",
   "translation": "Y edificó ⟨את⟩ Bet-Léjem y ⟨את⟩ Etam y ⟨את⟩ Tekoa",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "Y edificó"
+      "gloss": "Y edificó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Bet-Léjem"
     },
     {
       "surface": "בית",
-      "english": "Bet-"
+      "gloss": "Bet-"
     },
     {
       "surface": "לחם",
-      "english": "Léjem"
+      "gloss": "Léjem"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Etam"
     },
     {
       "surface": "עיטם",
-      "english": "Etam"
+      "gloss": "Etam"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Tekoa"
     },
     {
       "surface": "תקוע",
-      "english": "Tekoa"
+      "gloss": "Tekoa"
     }
-  ],
-  "timestamp": "2026-07-16T18:52:46.099425388Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-samuel 19:14",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 23714,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24087
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:42:23.281602128Z",
   "translation": "Y Shaúl envió mensajeros para tomar ⟨את⟩ David, y ella dijo: está enfermo",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "Y envió"
+      "gloss": "Y envió"
     },
     {
       "surface": "שאול",
-      "english": "Shaúl"
+      "gloss": "Shaúl"
     },
     {
       "surface": "מלאכים",
-      "english": "mensajeros"
+      "gloss": "mensajeros"
     },
     {
       "surface": "לקחת",
-      "english": "para tomar"
+      "gloss": "para tomar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "David"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "ותאמר",
-      "english": "y ella dijo"
+      "gloss": "y ella dijo"
     },
     {
       "surface": "חלה",
-      "english": "está enfermo"
+      "gloss": "está enfermo"
     },
     {
       "surface": "הוא",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T18:42:23.281602128Z",
-  "model": "glm-4.5"
+  ]
 }

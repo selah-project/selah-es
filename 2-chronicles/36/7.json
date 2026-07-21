@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "2-chronicles 36:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 36,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:41:28.525888135Z",
+  "translation": "Y de los utensilios de ⟨la⟩ casa de YHWH, trajo Nevujadnetzar a Babilonia y ⟨los⟩ puso en su templo en Babilonia ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ומכלי",
+      "gloss": "Y de los utensilios"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de ⟨la⟩ casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "trajo"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevujadnetzar"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "a Babilonia"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "y ⟨los⟩ puso"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "en su templo"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "en Babilonia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nabucodonosor",
@@ -13,60 +56,6 @@
       "hebrew": "נבוכדנאצר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57932,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58412
-  },
-  "translation": "Y de los utensilios de ⟨la⟩ casa de YHWH, trajo Nevujadnetzar a Babilonia y ⟨los⟩ puso en su templo en Babilonia ⟨את⟩.",
-  "tokens": [
-    {
-      "surface": "ומכלי",
-      "english": "Y de los utensilios"
-    },
-    {
-      "surface": "בית",
-      "english": "de ⟨la⟩ casa"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "הביא",
-      "english": "trajo"
-    },
-    {
-      "surface": "נבוכדנאצר",
-      "english": "Nevujadnetzar"
-    },
-    {
-      "surface": "לבבל",
-      "english": "a Babilonia"
-    },
-    {
-      "surface": "ויתנם",
-      "english": "y ⟨los⟩ puso"
-    },
-    {
-      "surface": "בהיכלו",
-      "english": "en su templo"
-    },
-    {
-      "surface": "בבבל",
-      "english": "en Babilonia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:41:28.525888135Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

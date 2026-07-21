@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 75:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 596,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69801,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70397
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:08.402463267Z",
   "translation": "Porque tomaré ⟨el⟩ tiempo señalado, yo ⟨desde⟩ ⟨la⟩ rectitud ⟨את⟩ juzgaré.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque",
+      "gloss": "Porque",
       "lemma": 3588,
       "gv": 30,
       "freq": 4376
     },
     {
       "surface": "אקח",
-      "english": "tomaré",
+      "gloss": "tomaré",
       "lemma": 3947,
       "gv": 109,
       "freq": 8
     },
     {
       "surface": "מועד",
-      "english": "⟨el⟩ tiempo señalado",
+      "gloss": "⟨el⟩ tiempo señalado",
       "lemma": 4150,
       "gv": 120,
       "freq": 161
     },
     {
       "surface": "אני",
-      "english": "yo",
+      "gloss": "yo",
       "lemma": 589,
       "gv": 61,
       "freq": 698
     },
     {
       "surface": "מישרים",
-      "english": "⟨desde⟩ ⟨la⟩ rectitud",
+      "gloss": "⟨desde⟩ ⟨la⟩ rectitud",
       "lemma": 4339,
       "gv": 600,
       "freq": 11
     },
     {
       "surface": "אשפט",
-      "english": "juzgaré",
+      "gloss": "juzgaré",
       "lemma": 8199,
       "gv": 390,
       "freq": 5
     }
-  ],
-  "timestamp": "2026-06-09T23:35:08.402463267Z",
-  "model": "glm-4.5"
+  ]
 }

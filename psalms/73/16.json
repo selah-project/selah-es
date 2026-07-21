@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 73:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 273,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69744,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70017
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:27.158377859Z",
   "translation": "And I considered to know this, ⟨it⟩ was toil ⟨is⟩ in my eyes",
   "tokens": [
     {
       "surface": "ואחשבה",
-      "english": "And I considered"
+      "gloss": "And I considered"
     },
     {
       "surface": "לדעת",
-      "english": "to know"
+      "gloss": "to know"
     },
     {
       "surface": "זאת",
-      "english": "this"
+      "gloss": "this"
     },
     {
       "surface": "עמל",
-      "english": "toil"
+      "gloss": "toil"
     },
     {
       "surface": "היא",
-      "english": "⟨it⟩",
+      "gloss": "⟨it⟩",
       "marks": "toil"
     },
     {
       "surface": "בעיני",
-      "english": "in my eyes"
+      "gloss": "in my eyes"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:27.158377859Z",
-  "model": "glm-4.5"
+  ]
 }

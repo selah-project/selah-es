@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 29:3",
   "book": "job",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27035,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27452
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:53.091803071Z",
   "translation": "Cuando ⟨el⟩ candil de ⟨Él⟩ brillaba ⟨sobre⟩ mi cabeza; por ⟨la⟩ luz de ⟨Él⟩ ⟨yo⟩ caminaba ⟨a través de⟩ la oscuridad",
   "tokens": [
     {
       "surface": "בהלו",
-      "english": "Cuando ⟨el⟩ candil de ⟨Él⟩ brillaba"
+      "gloss": "Cuando ⟨el⟩ candil de ⟨Él⟩ brillaba"
     },
     {
       "surface": "נרו",
-      "english": "candil"
+      "gloss": "candil"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "ראשי",
-      "english": "mi cabeza"
+      "gloss": "mi cabeza"
     },
     {
       "surface": "לאורו",
-      "english": "por ⟨la⟩ luz de ⟨Él⟩"
+      "gloss": "por ⟨la⟩ luz de ⟨Él⟩"
     },
     {
       "surface": "אלך",
-      "english": "⟨yo⟩ caminaba"
+      "gloss": "⟨yo⟩ caminaba"
     },
     {
       "surface": "חשך",
-      "english": "⟨a través de⟩ la oscuridad"
+      "gloss": "⟨a través de⟩ la oscuridad"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:53.091803071Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-chronicles 21:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 21,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:49:52.572121015Z",
+  "translation": "Y YHWH habló ⟨a⟩ Gad, ⟨el⟩ vidente de Davidd, diciendo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Y habló"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩",
+      "marks": "Gad"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "⟨el⟩ vidente"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,53 +49,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56582,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 56940
-  },
-  "translation": "Y YHWH habló ⟨a⟩ Gad, ⟨el⟩ vidente de Davidd, diciendo:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "Y habló"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩",
-      "marks": "Gad"
-    },
-    {
-      "surface": "גד",
-      "english": "Gad"
-    },
-    {
-      "surface": "חזה",
-      "english": "⟨el⟩ vidente"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:49:52.572121015Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

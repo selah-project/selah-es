@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 34:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69898,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70273
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:13:28.608989458Z",
   "translation": "⟨Los⟩ ojos de YHWH ⟨están⟩ hacia los justos y sus oídos ⟨están⟩ hacia ⟨el⟩ clamor de ellos",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "⟨Los⟩ ojos",
+      "gloss": "⟨Los⟩ ojos",
       "marks": "ojos"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH",
+      "gloss": "de YHWH",
       "marks": "ojos"
     },
     {
       "surface": "אל",
-      "english": "⟨están⟩ hacia"
+      "gloss": "⟨están⟩ hacia"
     },
     {
       "surface": "צדיקים",
-      "english": "los justos"
+      "gloss": "los justos"
     },
     {
       "surface": "ואזניו",
-      "english": "y sus oídos"
+      "gloss": "y sus oídos"
     },
     {
       "surface": "אל",
-      "english": "⟨están⟩ hacia"
+      "gloss": "⟨están⟩ hacia"
     },
     {
       "surface": "שועתם",
-      "english": "⟨el⟩ clamor de ellos"
+      "gloss": "⟨el⟩ clamor de ellos"
     }
-  ],
-  "timestamp": "2026-06-09T23:13:28.608989458Z",
-  "model": "glm-4.5"
+  ]
 }

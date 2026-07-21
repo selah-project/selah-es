@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 36:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69787,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70113
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:14:13.335189197Z",
   "translation": "Allí caen ⟨los⟩ trabajadores de ⟨la⟩ iniquidad ⟨son⟩ derribados y no podrán levantarse.",
   "tokens": [
     {
       "surface": "שם",
-      "english": "Allí"
+      "gloss": "Allí"
     },
     {
       "surface": "נפלו",
-      "english": "caen"
+      "gloss": "caen"
     },
     {
       "surface": "פעלי",
-      "english": "⟨los⟩ trabajadores de"
+      "gloss": "⟨los⟩ trabajadores de"
     },
     {
       "surface": "און",
-      "english": "⟨la⟩ iniquidad"
+      "gloss": "⟨la⟩ iniquidad"
     },
     {
       "surface": "דחו",
-      "english": "⟨son⟩ derribados"
+      "gloss": "⟨son⟩ derribados"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יכלו",
-      "english": "podrán"
+      "gloss": "podrán"
     },
     {
       "surface": "קום",
-      "english": "levantarse"
+      "gloss": "levantarse"
     }
-  ],
-  "timestamp": "2026-06-09T23:14:13.335189197Z",
-  "model": "glm-4.5"
+  ]
 }

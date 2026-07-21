@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 44:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 335,
-    "prompt_tokens": 69918,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70253
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:16.133394338Z",
   "translation": "Por la voz del que recrimina y blasfema, ⟨a causa⟩ del enemigo y vengador.",
   "tokens": [
     {
       "surface": "מקול",
-      "english": "Por la voz"
+      "gloss": "Por la voz"
     },
     {
       "surface": "מחרף",
-      "english": "del que recrimina"
+      "gloss": "del que recrimina"
     },
     {
       "surface": "וּ\/מְגַדֵּף",
-      "english": "y blasfema"
+      "gloss": "y blasfema"
     },
     {
       "surface": "מִ\/פְּנֵי",
-      "english": "⟨a causa⟩"
+      "gloss": "⟨a causa⟩"
     },
     {
       "surface": "א֝וֹיֵב",
-      "english": "del enemigo"
+      "gloss": "del enemigo"
     },
     {
       "surface": "וּ\/מִתְנַקֵּם",
-      "english": "y vengador"
+      "gloss": "y vengador"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:16.133394338Z",
-  "model": "glm-4.5"
+  ]
 }

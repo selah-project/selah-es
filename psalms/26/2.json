@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 26:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 450,
-    "prompt_tokens": 69955,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70405
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:33.272209314Z",
   "translation": "Examina ⟨mí⟩, YHWH, y ⟨me⟩ pon a prueba; ⟨sean⟩ purificadas ⟨mis⟩ riñones y ⟨mi⟩ corazón.",
   "tokens": [
     {
       "surface": "בחנני",
-      "english": "Examina ⟨mí⟩"
+      "gloss": "Examina ⟨mí⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ונסני",
-      "english": "y ⟨me⟩ pon a prueba"
+      "gloss": "y ⟨me⟩ pon a prueba"
     },
     {
       "surface": "צרופה",
-      "english": "⟨sean⟩ purificadas"
+      "gloss": "⟨sean⟩ purificadas"
     },
     {
       "surface": "כליותי",
-      "english": "⟨mis⟩ riñones"
+      "gloss": "⟨mis⟩ riñones"
     },
     {
       "surface": "ולבי",
-      "english": "y ⟨mi⟩ corazón"
+      "gloss": "y ⟨mi⟩ corazón"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:33.272209314Z",
-  "model": "glm-4.5"
+  ]
 }

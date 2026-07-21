@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-chronicles 24:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 24,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:53:15.078032766Z",
+  "translation": "Así los dividieron ⟨por⟩ suertes, éstos con éstos; pues ⟨eran⟩ príncipes del santuario y príncipes ⟨del⟩ Elohim ⟨de⟩ los hijos de Elazar y ⟨de⟩ los hijos de Itamar",
+  "tokens": [
+    {
+      "surface": "ויחלקום",
+      "gloss": "Así los dividieron"
+    },
+    {
+      "surface": "בגורלות",
+      "gloss": "⟨por⟩ suertes"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "éstos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "éstos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pues"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨eran⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "príncipes"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "del santuario"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "y príncipes"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨del⟩ Elohim"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "⟨de⟩ los hijos"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "de Elazar"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "y ⟨de⟩ los hijos"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "de Itamar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eleazar",
@@ -13,84 +80,6 @@
       "hebrew": "אלעזר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57505,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 58050
-  },
-  "translation": "Así los dividieron ⟨por⟩ suertes, éstos con éstos; pues ⟨eran⟩ príncipes del santuario y príncipes ⟨del⟩ Elohim ⟨de⟩ los hijos de Elazar y ⟨de⟩ los hijos de Itamar",
-  "tokens": [
-    {
-      "surface": "ויחלקום",
-      "english": "Así los dividieron"
-    },
-    {
-      "surface": "בגורלות",
-      "english": "⟨por⟩ suertes"
-    },
-    {
-      "surface": "אלה",
-      "english": "éstos"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "אלה",
-      "english": "éstos"
-    },
-    {
-      "surface": "כי",
-      "english": "pues"
-    },
-    {
-      "surface": "היו",
-      "english": "⟨eran⟩"
-    },
-    {
-      "surface": "שרי",
-      "english": "príncipes"
-    },
-    {
-      "surface": "קדש",
-      "english": "del santuario"
-    },
-    {
-      "surface": "ושרי",
-      "english": "y príncipes"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨del⟩ Elohim"
-    },
-    {
-      "surface": "מבני",
-      "english": "⟨de⟩ los hijos"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "de Elazar"
-    },
-    {
-      "surface": "ובבני",
-      "english": "y ⟨de⟩ los hijos"
-    },
-    {
-      "surface": "איתמר",
-      "english": "de Itamar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:53:15.078032766Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

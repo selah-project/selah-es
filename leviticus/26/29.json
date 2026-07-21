@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "leviticus 26:29",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24341,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 24632
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:41:58.868622239Z",
   "translation": "Y comeréis ⟨el⟩ carne de ⟨vuestros⟩ hijos, y ⟨el⟩ carne de ⟨vuestras⟩ hijas comeréis.",
   "tokens": [
     {
       "surface": "ואכלתם",
-      "english": "Y comeréis"
+      "gloss": "Y comeréis"
     },
     {
       "surface": "בשר",
-      "english": "⟨el⟩ carne"
+      "gloss": "⟨el⟩ carne"
     },
     {
       "surface": "בניכם",
-      "english": "⟨vuestros⟩ hijos"
+      "gloss": "⟨vuestros⟩ hijos"
     },
     {
       "surface": "ובשר",
-      "english": "y ⟨el⟩ carne"
+      "gloss": "y ⟨el⟩ carne"
     },
     {
       "surface": "בנתיכם",
-      "english": "⟨vuestras⟩ hijas"
+      "gloss": "⟨vuestras⟩ hijas"
     },
     {
       "surface": "תאכלו",
-      "english": "comeréis"
+      "gloss": "comeréis"
     }
-  ],
-  "timestamp": "2026-06-10T04:41:58.868622239Z",
-  "model": "glm-4.5"
+  ]
 }

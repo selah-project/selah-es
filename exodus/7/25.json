@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "exodus 7:25",
   "book": "exodus",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 399,
-    "prompt_tokens": 24021,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24420
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:11:19.167301144Z",
   "translation": "Y se cumplieron siete días después de que YHWH hirió ⟨את⟩ el Río",
   "tokens": [
     {
       "surface": "וימלא",
-      "english": "Y se cumplieron"
+      "gloss": "Y se cumplieron"
     },
     {
       "surface": "שבעת",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "אחרי",
-      "english": "después de"
+      "gloss": "después de"
     },
     {
       "surface": "הכות",
-      "english": "que YHWH hirió"
+      "gloss": "que YHWH hirió"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Río"
     },
     {
       "surface": "היאר",
-      "english": "el Río"
+      "gloss": "el Río"
     }
-  ],
-  "timestamp": "2026-07-16T20:11:19.167301144Z",
-  "model": "glm-4.5"
+  ]
 }

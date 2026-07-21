@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-kings 20:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 20,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:42:14.738374508Z",
+  "translation": "En aquel tiempo ⟨envió⟩ Berodac-Baladán hijo de Baladán, rey de Bavel, ⟨una⟩ carta y un presente a Jizkías, porque ⟨había⟩ oído que ⟨estaba⟩ enfermo Jizkías",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "En aquel tiempo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envió"
+    },
+    {
+      "surface": "בראדך",
+      "gloss": "Berodac-Baladán"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "hijo de Baladán"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladán"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "carta"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "y presente"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jizkías"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "había oído"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "estaba enfermo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jizkías"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,96 +92,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 641,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17479,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 18120
-  },
-  "translation": "En aquel tiempo ⟨envió⟩ Berodac-Baladán hijo de Baladán, rey de Bavel, ⟨una⟩ carta y un presente a Jizkías, porque ⟨había⟩ oído que ⟨estaba⟩ enfermo Jizkías",
-  "tokens": [
-    {
-      "surface": "בעת",
-      "english": "En aquel tiempo"
-    },
-    {
-      "surface": "ההיא",
-      "english": "⟨is⟩"
-    },
-    {
-      "surface": "שלח",
-      "english": "envió"
-    },
-    {
-      "surface": "בראדך",
-      "english": "Berodac-Baladán"
-    },
-    {
-      "surface": "בלאדן",
-      "english": "hijo de Baladán"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "בלאדן",
-      "english": "Baladán"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel"
-    },
-    {
-      "surface": "ספרים",
-      "english": "carta"
-    },
-    {
-      "surface": "ומנחה",
-      "english": "y presente"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "חזקיהו",
-      "english": "Jizkías"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "שמע",
-      "english": "había oído"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "חלה",
-      "english": "estaba enfermo"
-    },
-    {
-      "surface": "חזקיהו",
-      "english": "Jizkías"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:42:14.738374508Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

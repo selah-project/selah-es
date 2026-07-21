@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "numbers 7:18",
   "book": "numbers",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 362,
-    "prompt_tokens": 25222,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25584
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:40:33.218892064Z",
   "translation": "En el día ⟨el⟩ segundo, Natanel hijo de Tzuar, príncipe de Yisaskar, ⟨fue⟩ quien ofreció",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "En el día"
+      "gloss": "En el día"
     },
     {
       "surface": "השני",
-      "english": "⟨el⟩ segundo"
+      "gloss": "⟨el⟩ segundo"
     },
     {
       "surface": "הקריב",
-      "english": "⟨fue⟩ quien ofreció"
+      "gloss": "⟨fue⟩ quien ofreció"
     },
     {
       "surface": "נתנאל",
-      "english": "Natanel"
+      "gloss": "Natanel"
     },
     {
       "surface": "בן",
-      "english": "hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "צוער",
-      "english": "de Tzuar"
+      "gloss": "de Tzuar"
     },
     {
       "surface": "נשיא",
-      "english": "príncipe"
+      "gloss": "príncipe"
     },
     {
       "surface": "יששכר",
-      "english": "de Yisaskar"
+      "gloss": "de Yisaskar"
     }
-  ],
-  "timestamp": "2026-07-17T00:40:33.218892064Z",
-  "model": "glm-4.5"
+  ]
 }

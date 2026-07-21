@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 18:6",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 407,
-    "prompt_tokens": 65411,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 65818
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:55:23.686696915Z",
   "translation": "Y dijo Yehoshafat: «¿No ⟨hay⟩ aquí un profeta de YHWH todavía, para que lo consultemos ⟨את⟩?»",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "יהושפט",
-      "english": "Yehoshafat"
+      "gloss": "Yehoshafat"
     },
     {
       "surface": "האין",
-      "english": "¿No ⟨hay⟩"
+      "gloss": "¿No ⟨hay⟩"
     },
     {
       "surface": "פה",
-      "english": "aquí"
+      "gloss": "aquí"
     },
     {
       "surface": "נביא",
-      "english": "un profeta"
+      "gloss": "un profeta"
     },
     {
       "surface": "ליהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "עוד",
-      "english": "todavía"
+      "gloss": "todavía"
     },
     {
       "surface": "ונדרשה",
-      "english": "para que lo consultemos"
+      "gloss": "para que lo consultemos"
     },
     {
       "surface": "מאתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a él (implícito en el verbo consultar)"
     }
-  ],
-  "timestamp": "2026-07-16T18:55:23.686696915Z",
-  "model": "glm-4.5"
+  ]
 }

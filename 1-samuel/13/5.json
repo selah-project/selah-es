@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-samuel 13:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 13,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:56:11.847668553Z",
+  "translation": "Y los filisteos ⟨se⟩ reunieron para ⟨hacer⟩ la guerra con Yisrael, treinta mil carros de guerra y seis mil jinetes, y ⟨un⟩ pueblo ⟨como⟩ la arena ⟨que está⟩ ⟨a⟩ ⟨la orilla⟩ ⟨del⟩ mar en gran multitud; y subieron ⟨y⟩ acamparon en Micmas, al oriente ⟨de⟩ Bet-avén.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Y los filisteos"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "⟨se⟩ reunieron"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "para ⟨hacer⟩ la guerra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treinta mil"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "carros de guerra"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "carros de guerra"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "y seis mil"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "jinetes"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "jinetes"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "y ⟨un⟩ pueblo"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "⟨como⟩ la arena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que está⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "⟨la orilla⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨del⟩ mar"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "en gran multitud"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "y subieron"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "⟨y⟩ acamparon"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "en Micmas"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "al oriente ⟨de⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "avén"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,120 +116,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 1048,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17725,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 18773
-  },
-  "translation": "Y los filisteos ⟨se⟩ reunieron para ⟨hacer⟩ la guerra con Yisrael, treinta mil carros de guerra y seis mil jinetes, y ⟨un⟩ pueblo ⟨como⟩ la arena ⟨que está⟩ ⟨a⟩ ⟨la orilla⟩ ⟨del⟩ mar en gran multitud; y subieron ⟨y⟩ acamparon en Micmas, al oriente ⟨de⟩ Bet-avén.",
-  "tokens": [
-    {
-      "surface": "ופלשתים",
-      "english": "Y los filisteos"
-    },
-    {
-      "surface": "נאספו",
-      "english": "⟨se⟩ reunieron"
-    },
-    {
-      "surface": "להלחם",
-      "english": "para ⟨hacer⟩ la guerra"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "שלשים",
-      "english": "treinta mil"
-    },
-    {
-      "surface": "אלף",
-      "english": "carros de guerra"
-    },
-    {
-      "surface": "רכב",
-      "english": "carros de guerra"
-    },
-    {
-      "surface": "וששת",
-      "english": "y seis mil"
-    },
-    {
-      "surface": "אלפים",
-      "english": "jinetes"
-    },
-    {
-      "surface": "פרשים",
-      "english": "jinetes"
-    },
-    {
-      "surface": "ועם",
-      "english": "y ⟨un⟩ pueblo"
-    },
-    {
-      "surface": "כחול",
-      "english": "⟨como⟩ la arena"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que está⟩"
-    },
-    {
-      "surface": "על",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "שפת",
-      "english": "⟨la orilla⟩"
-    },
-    {
-      "surface": "הים",
-      "english": "⟨del⟩ mar"
-    },
-    {
-      "surface": "לרב",
-      "english": "en gran multitud"
-    },
-    {
-      "surface": "ויעלו",
-      "english": "y subieron"
-    },
-    {
-      "surface": "ויחנו",
-      "english": "⟨y⟩ acamparon"
-    },
-    {
-      "surface": "במכמש",
-      "english": "en Micmas"
-    },
-    {
-      "surface": "קדמת",
-      "english": "al oriente ⟨de⟩"
-    },
-    {
-      "surface": "בית",
-      "english": "Bet-"
-    },
-    {
-      "surface": "און",
-      "english": "avén"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:56:11.847668553Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

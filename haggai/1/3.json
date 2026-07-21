@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "haggai 1:3",
   "book": "haggai",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26008,
-    "prompt_tokens_details": {
-      "cached_tokens": 25128
-    },
-    "total_tokens": 26394
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-11T23:23:39.936358025Z",
   "translation": "Y aconteció ⟨la⟩ palabra de YHWH ⟨por⟩ mano de Jaggai ⟨el⟩ profeta, diciendo:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y aconteció ⟨la⟩"
+      "gloss": "Y aconteció ⟨la⟩"
     },
     {
       "surface": "דבר",
-      "english": "palabra de YHWH ⟨por⟩"
+      "gloss": "palabra de YHWH ⟨por⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ביד",
-      "english": "mano de Jaggai ⟨el⟩"
+      "gloss": "mano de Jaggai ⟨el⟩"
     },
     {
       "surface": "חגי",
-      "english": "Jaggai"
+      "gloss": "Jaggai"
     },
     {
       "surface": "הנביא",
-      "english": "⟨el⟩ profeta"
+      "gloss": "⟨el⟩ profeta"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo:"
+      "gloss": "diciendo:"
     }
-  ],
-  "timestamp": "2026-06-11T23:23:39.936358025Z",
-  "model": "glm-4.5"
+  ]
 }

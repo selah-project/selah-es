@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 73:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 642,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69950,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70592
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:30.327173068Z",
   "translation": "A mizmor para Asaph: ciertamente ⟨es⟩ bueno Elohim para Israel, para ⟨los⟩ puros de corazón.",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "A mizmor",
+      "gloss": "A mizmor",
       "lemma": 4210,
       "freq": 57
     },
     {
       "surface": "לאסף",
-      "english": "para Asaph",
+      "gloss": "para Asaph",
       "lemma": 623,
       "freq": 17
     },
     {
       "surface": "אך",
-      "english": "ciertamente",
+      "gloss": "ciertamente",
       "lemma": 389,
       "freq": 158
     },
     {
       "surface": "טוב",
-      "english": "⟨es⟩ bueno",
+      "gloss": "⟨es⟩ bueno",
       "lemma": 2896,
       "freq": 300
     },
     {
       "surface": "לישראל",
-      "english": "Elohim para Israel",
+      "gloss": "Elohim para Israel",
       "lemma": 3478,
       "freq": 51
     },
     {
       "surface": "אלהים",
-      "english": "para",
+      "gloss": "para",
       "lemma": 430,
       "freq": 679
     },
     {
       "surface": "לברי",
-      "english": "⟨los⟩ puros",
+      "gloss": "⟨los⟩ puros",
       "lemma": 1249,
       "freq": 1
     },
     {
       "surface": "לבב",
-      "english": "de corazón",
+      "gloss": "de corazón",
       "lemma": 3824,
       "freq": 43
     }
-  ],
-  "timestamp": "2026-06-09T23:34:30.327173068Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 104:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69953,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70499
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:06.599514555Z",
   "translation": "Sobre ⟨ellos⟩ ⟨el⟩ pájaro ⟨de⟩ ⟨los⟩ cielos ⟨se⟩ posará ⟨entre⟩ las ramas ⟨dan⟩ ⟨su⟩ voz",
   "tokens": [
     {
       "surface": "עליהם",
-      "english": "Sobre ⟨ellos⟩"
+      "gloss": "Sobre ⟨ellos⟩"
     },
     {
       "surface": "עוף",
-      "english": "⟨el⟩ pájaro"
+      "gloss": "⟨el⟩ pájaro"
     },
     {
       "surface": "השמים",
-      "english": "⟨de⟩ ⟨los⟩ cielos"
+      "gloss": "⟨de⟩ ⟨los⟩ cielos"
     },
     {
       "surface": "ישכון",
-      "english": "⟨se⟩ posará"
+      "gloss": "⟨se⟩ posará"
     },
     {
       "surface": "מבין",
-      "english": "⟨entre⟩"
+      "gloss": "⟨entre⟩"
     },
     {
       "surface": "עפאים",
-      "english": "las ramas"
+      "gloss": "las ramas"
     },
     {
       "surface": "יתנו",
-      "english": "⟨dan⟩"
+      "gloss": "⟨dan⟩"
     },
     {
       "surface": "קול",
-      "english": "⟨su⟩ voz"
+      "gloss": "⟨su⟩ voz"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:06.599514555Z",
-  "model": "glm-4.5"
+  ]
 }

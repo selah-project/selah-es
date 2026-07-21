@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 86:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 268,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70021,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70289
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:41:28.508592556Z",
   "translation": "Rejoice ⟨the⟩ soul of Your servant, for to You, O Adonai, ⟨I⟩ lift up my soul.",
   "tokens": [
     {
       "surface": "שמח",
-      "english": "Rejoice"
+      "gloss": "Rejoice"
     },
     {
       "surface": "נפש",
-      "english": "soul"
+      "gloss": "soul"
     },
     {
       "surface": "עבדך",
-      "english": "of Your servant"
+      "gloss": "of Your servant"
     },
     {
       "surface": "כי",
-      "english": "for"
+      "gloss": "for"
     },
     {
       "surface": "אליך",
-      "english": "to You"
+      "gloss": "to You"
     },
     {
       "surface": "אדני",
-      "english": "O Adonai"
+      "gloss": "O Adonai"
     },
     {
       "surface": "נפשי",
-      "english": "my soul"
+      "gloss": "my soul"
     },
     {
       "surface": "אשא",
-      "english": "lift up"
+      "gloss": "lift up"
     }
-  ],
-  "timestamp": "2026-06-09T23:41:28.508592556Z",
-  "model": "glm-4.5"
+  ]
 }

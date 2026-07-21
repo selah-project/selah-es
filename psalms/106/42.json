@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "psalms 106:42",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69757,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70082
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:53:47.970211629Z",
   "translation": "Y sus enemigos los oprimieron, y fueron humillados ⟨a⟩ ⟨mano de ellos⟩",
   "tokens": [
     {
       "surface": "וילחצום",
-      "english": "Y sus enemigos los oprimieron"
+      "gloss": "Y sus enemigos los oprimieron"
     },
     {
       "surface": "אויביהם",
-      "english": "sus enemigos"
+      "gloss": "sus enemigos"
     },
     {
       "surface": "ויכנעו",
-      "english": "y fueron humillados"
+      "gloss": "y fueron humillados"
     },
     {
       "surface": "תחת",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "mano de ellos"
     },
     {
       "surface": "ידם",
-      "english": "mano de ellos"
+      "gloss": "mano de ellos"
     }
-  ],
-  "timestamp": "2026-06-09T23:53:47.970211629Z",
-  "model": "glm-4.5"
+  ]
 }

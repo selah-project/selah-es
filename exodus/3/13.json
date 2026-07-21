@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "exodus 3:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 3,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:23:32.401405200Z",
+  "translation": "Y Moshé dijo a HaElohim: He aquí, yo ⟨voy⟩ a los hijos de Yisrael, y les ⟨diré⟩: El Elohim de vuestros padres me ⟨ha enviado⟩ a vosotros; y ellos ⟨dirán⟩ a mí: ¿Qué ⟨es⟩ su nombre? ¿Qué ⟨diré⟩ a ellos?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "He aquí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨voy⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "y"
+    },
+    {
+      "surface": "להם",
+      "gloss": "les"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨diré⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "El Elohim de vuestros padres"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "me ⟨ha enviado⟩"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "a vosotros"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "y ellos ⟨dirán⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "¿Qué"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨es⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "su nombre? ¿Qué"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨diré⟩"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a ellos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,116 +112,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 696,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17900,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 18596
-  },
-  "translation": "Y Moshé dijo a HaElohim: He aquí, yo ⟨voy⟩ a los hijos de Yisrael, y les ⟨diré⟩: El Elohim de vuestros padres me ⟨ha enviado⟩ a vosotros; y ellos ⟨dirán⟩ a mí: ¿Qué ⟨es⟩ su nombre? ¿Qué ⟨diré⟩ a ellos?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "האלהים",
-      "english": "HaElohim"
-    },
-    {
-      "surface": "הנה",
-      "english": "He aquí"
-    },
-    {
-      "surface": "אנכי",
-      "english": "yo"
-    },
-    {
-      "surface": "בא",
-      "english": "⟨voy⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ואמרתי",
-      "english": "y"
-    },
-    {
-      "surface": "להם",
-      "english": "les"
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨diré⟩"
-    },
-    {
-      "surface": "אבותיכם",
-      "english": "El Elohim de vuestros padres"
-    },
-    {
-      "surface": "שלחני",
-      "english": "me ⟨ha enviado⟩"
-    },
-    {
-      "surface": "אליכם",
-      "english": "a vosotros"
-    },
-    {
-      "surface": "ואמרו",
-      "english": "y ellos ⟨dirán⟩"
-    },
-    {
-      "surface": "לי",
-      "english": "a mí"
-    },
-    {
-      "surface": "מה",
-      "english": "¿Qué"
-    },
-    {
-      "surface": "שמו",
-      "english": "⟨es⟩"
-    },
-    {
-      "surface": "מה",
-      "english": "su nombre? ¿Qué"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨diré⟩"
-    },
-    {
-      "surface": "אלהם",
-      "english": "a ellos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:23:32.401405200Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 45:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 324,
-    "prompt_tokens": 69855,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70179
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:28:21.179066974Z",
   "translation": "Con gozo y alegría ⟨serán⟩ traídas, entrarán en el palacio ⟨del⟩ rey.",
   "tokens": [
     {
       "surface": "תובלנה",
-      "english": "⟨serán⟩ traídas"
+      "gloss": "⟨serán⟩ traídas"
     },
     {
       "surface": "בשמחת",
-      "english": "con gozo"
+      "gloss": "con gozo"
     },
     {
       "surface": "וגיל",
-      "english": "y alegría"
+      "gloss": "y alegría"
     },
     {
       "surface": "תבאינה",
-      "english": "entrarán"
+      "gloss": "entrarán"
     },
     {
       "surface": "בהיכל",
-      "english": "en el palacio"
+      "gloss": "en el palacio"
     },
     {
       "surface": "מלך",
-      "english": "del rey"
+      "gloss": "del rey"
     }
-  ],
-  "timestamp": "2026-07-21T02:28:21.179066974Z",
-  "model": "glm-4.5"
+  ]
 }

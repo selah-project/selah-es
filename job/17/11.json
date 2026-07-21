@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 17:11",
   "book": "job",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26921,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27429
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:02:34.013865877Z",
   "translation": "Mis días ⟨han⟩ pasado; mis propósitos ⟨están⟩ arrancados, ⟨las⟩ ⟨posesiones⟩ ⟨de⟩ mi corazón.",
   "tokens": [
     {
       "surface": "ימי",
-      "english": "Mis días"
+      "gloss": "Mis días"
     },
     {
       "surface": "עברו",
-      "english": "⟨han⟩ pasado"
+      "gloss": "⟨han⟩ pasado"
     },
     {
       "surface": "זמתי",
-      "english": "mis propósitos"
+      "gloss": "mis propósitos"
     },
     {
       "surface": "נתקו",
-      "english": "⟨están⟩ arrancados"
+      "gloss": "⟨están⟩ arrancados"
     },
     {
       "surface": "מורשי",
-      "english": "⟨las⟩ ⟨posesiones⟩ ⟨de⟩ mi corazón"
+      "gloss": "⟨las⟩ ⟨posesiones⟩ ⟨de⟩ mi corazón"
     },
     {
       "surface": "לבבי",
-      "english": "de mi corazón"
+      "gloss": "de mi corazón"
     }
-  ],
-  "timestamp": "2026-06-10T02:02:34.013865877Z",
-  "model": "glm-4.5"
+  ]
 }

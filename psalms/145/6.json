@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 145:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 328,
-    "prompt_tokens": 69859,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70187
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:45:37.030859801Z",
   "translation": "Y la fuerza de ⟨tus⟩ hechos temibles hablarán, y ⟨tu⟩ grandeza contaré",
   "tokens": [
     {
       "surface": "ועזוז",
-      "english": "Y la fuerza de"
+      "gloss": "Y la fuerza de"
     },
     {
       "surface": "נוראתיך",
-      "english": "⟨tus⟩ hechos temibles"
+      "gloss": "⟨tus⟩ hechos temibles"
     },
     {
       "surface": "יאמרו",
-      "english": "hablarán"
+      "gloss": "hablarán"
     },
     {
       "surface": "וגדולתיך",
-      "english": "y ⟨tu⟩ grandeza"
+      "gloss": "y ⟨tu⟩ grandeza"
     },
     {
       "surface": "אספרנה",
-      "english": "contaré"
+      "gloss": "contaré"
     }
-  ],
-  "timestamp": "2026-07-16T23:45:37.030859801Z",
-  "model": "glm-4.5"
+  ]
 }

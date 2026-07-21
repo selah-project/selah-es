@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 76:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 235,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69712,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69947
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:27.381221320Z",
   "translation": "⟨Al⟩ maestro de coro con instrumentos de cuerda. Salmo de Asaf. Cántico.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Al⟩ maestro de coro"
+      "gloss": "⟨Al⟩ maestro de coro"
     },
     {
       "surface": "בנגינת",
-      "english": "con instrumentos de cuerda"
+      "gloss": "con instrumentos de cuerda"
     },
     {
       "surface": "מזמור",
-      "english": "Salmo"
+      "gloss": "Salmo"
     },
     {
       "surface": "לאסף",
-      "english": "de Asaf"
+      "gloss": "de Asaf"
     },
     {
       "surface": "שיר",
-      "english": "Cántico"
+      "gloss": "Cántico"
     }
-  ],
-  "timestamp": "2026-06-09T23:35:27.381221320Z",
-  "model": "glm-4.5"
+  ]
 }

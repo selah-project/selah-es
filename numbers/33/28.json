@@ -1,41 +1,30 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "numbers 33:28",
   "book": "numbers",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 227,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24638,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 24865
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:07:05.437000665Z",
   "translation": "Y partieron ⟨de⟩ Tarah y acamparon en Mithcah.",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "Y partieron"
+      "gloss": "Y partieron"
     },
     {
       "surface": "מתרח",
-      "english": "⟨de⟩ Tarah",
+      "gloss": "⟨de⟩ Tarah",
       "marks": "Tarah"
     },
     {
       "surface": "ויחנו",
-      "english": "y acamparon"
+      "gloss": "y acamparon"
     },
     {
       "surface": "במתקה",
-      "english": "en Mithcah"
+      "gloss": "en Mithcah"
     }
-  ],
-  "timestamp": "2026-06-10T05:07:05.437000665Z",
-  "model": "glm-4.5"
+  ]
 }

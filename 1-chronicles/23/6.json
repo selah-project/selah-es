@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 23:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 23,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:52:07.231584165Z",
+  "translation": "Y Davidd ⟨los⟩ dividió en turnos ⟨para los⟩ hijos ⟨de⟩ Leví: ⟨para⟩ Guershón, Quehat ⟨y⟩ Merarí.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "Y David ⟨los⟩ dividió"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "en turnos"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨para los⟩ hijos"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "⟨de⟩ Leví"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "⟨para⟩ Guershón"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Quehat"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "⟨y⟩ Merarí"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,56 +52,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56771,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57245
-  },
-  "translation": "Y Davidd ⟨los⟩ dividió en turnos ⟨para los⟩ hijos ⟨de⟩ Leví: ⟨para⟩ Guershón, Quehat ⟨y⟩ Merarí.",
-  "tokens": [
-    {
-      "surface": "ויחלקם",
-      "english": "Y David ⟨los⟩ dividió"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מחלקות",
-      "english": "en turnos"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨para los⟩ hijos"
-    },
-    {
-      "surface": "לוי",
-      "english": "⟨de⟩ Leví"
-    },
-    {
-      "surface": "לגרשון",
-      "english": "⟨para⟩ Guershón"
-    },
-    {
-      "surface": "קהת",
-      "english": "Quehat"
-    },
-    {
-      "surface": "ומררי",
-      "english": "⟨y⟩ Merarí"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:52:07.231584165Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

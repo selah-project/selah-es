@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-samuel 26:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 26,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:11:23.180196915Z",
+  "translation": "Y Davidd respondió y dijo a Ahimelec ⟨el⟩ hitita y a Abisai hijo de Zeruía hermano de Joab, diciendo: ¿Quién descenderá conmigo a Shaúl ⟨a⟩ ⟨el⟩ campamento? Y dijo Abisai: Yo descenderé contigo.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Y respondió"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelec"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "⟨el⟩ hitita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "y a"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abisai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "de Zeruía"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hermano"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "de Joab"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "¿Quién"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "descenderá"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "conmigo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨el⟩ campamento"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abisai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "descenderé"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "contigo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,124 +127,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 681,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17621,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 18302
-  },
-  "translation": "Y Davidd respondió y dijo a Ahimelec ⟨el⟩ hitita y a Abisai hijo de Zeruía hermano de Joab, diciendo: ¿Quién descenderá conmigo a Shaúl ⟨a⟩ ⟨el⟩ campamento? Y dijo Abisai: Yo descenderé contigo.",
-  "tokens": [
-    {
-      "surface": "ויען",
-      "english": "Y respondió"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אחימלך",
-      "english": "Ahimelec"
-    },
-    {
-      "surface": "החתי",
-      "english": "⟨el⟩ hitita"
-    },
-    {
-      "surface": "ואל",
-      "english": "y a"
-    },
-    {
-      "surface": "אבישי",
-      "english": "Abisai"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "צרויה",
-      "english": "de Zeruía"
-    },
-    {
-      "surface": "אחי",
-      "english": "hermano"
-    },
-    {
-      "surface": "יואב",
-      "english": "de Joab"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "מי",
-      "english": "¿Quién"
-    },
-    {
-      "surface": "ירד",
-      "english": "descenderá"
-    },
-    {
-      "surface": "אתי",
-      "english": "conmigo"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "המחנה",
-      "english": "⟨el⟩ campamento"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "אבישי",
-      "english": "Abisai"
-    },
-    {
-      "surface": "אני",
-      "english": "Yo"
-    },
-    {
-      "surface": "ארד",
-      "english": "descenderé"
-    },
-    {
-      "surface": "עמך",
-      "english": "contigo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:11:23.180196915Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

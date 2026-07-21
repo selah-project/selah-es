@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 14:11",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 642,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26351,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26993
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:29:24.757098215Z",
   "translation": "descendió ⟨a⟩ Seol tu magnificencia, ⟨el⟩ sonido de tus arpas, debajo de ti ⟨está⟩ esparcida ⟨la⟩ rima y ⟨los⟩ gusanos ⟨son⟩ ⟨tus⟩ cubiertas",
   "tokens": [
     {
       "surface": "הורד",
-      "english": "Descendió"
+      "gloss": "Descendió"
     },
     {
       "surface": "שאול",
-      "english": "⟨a⟩ Seol",
+      "gloss": "⟨a⟩ Seol",
       "marks": "tu magnificencia"
     },
     {
       "surface": "גאונך",
-      "english": "tu magnificencia"
+      "gloss": "tu magnificencia"
     },
     {
       "surface": "המית",
-      "english": "⟨el⟩ sonido",
+      "gloss": "⟨el⟩ sonido",
       "marks": "tus arpas"
     },
     {
       "surface": "נבליך",
-      "english": "tus arpas"
+      "gloss": "tus arpas"
     },
     {
       "surface": "תחתיך",
-      "english": "debajo de ti"
+      "gloss": "debajo de ti"
     },
     {
       "surface": "יצע",
-      "english": "⟨está⟩ esparcida",
+      "gloss": "⟨está⟩ esparcida",
       "marks": "la rima"
     },
     {
       "surface": "רמה",
-      "english": "⟨la⟩ rima"
+      "gloss": "⟨la⟩ rima"
     },
     {
       "surface": "ומכסיך",
-      "english": "y ⟨tus⟩ cubiertas",
+      "gloss": "y ⟨tus⟩ cubiertas",
       "marks": "gusanos"
     },
     {
       "surface": "תולעה",
-      "english": "gusanos"
+      "gloss": "gusanos"
     }
-  ],
-  "timestamp": "2026-06-10T02:29:24.757098215Z",
-  "model": "glm-4.5"
+  ]
 }

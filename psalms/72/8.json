@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 72:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69953,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70419
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:30.099609839Z",
   "translation": "ydescenderá ⟨de⟩ mar hasta ⟨el⟩ mar y ⟨desde⟩ el río hasta ⟨los⟩ confines ⟨de⟩ la tierra",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "Ydescenderá"
+      "gloss": "Ydescenderá"
     },
     {
       "surface": "מים",
-      "english": "⟨de⟩ mar"
+      "gloss": "⟨de⟩ mar"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "ים",
-      "english": "⟨el⟩ mar"
+      "gloss": "⟨el⟩ mar"
     },
     {
       "surface": "ומנהר",
-      "english": "y⟨desde⟩ el río"
+      "gloss": "y⟨desde⟩ el río"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "אפסי",
-      "english": "⟨los⟩ confines"
+      "gloss": "⟨los⟩ confines"
     },
     {
       "surface": "ארץ",
-      "english": "⟨de⟩ la tierra"
+      "gloss": "⟨de⟩ la tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:30.099609839Z",
-  "model": "glm-4.5"
+  ]
 }

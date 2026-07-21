@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "psalms 119:28",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 268,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69706,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69974
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:44.611133813Z",
   "translation": "My soul drips from heaviness; ⟨you⟩ raise me up according to your word.",
   "tokens": [
     {
       "surface": "דלפה",
-      "english": "My soul drips"
+      "gloss": "My soul drips"
     },
     {
       "surface": "נפשי",
-      "english": "soul"
+      "gloss": "soul"
     },
     {
       "surface": "מתוגה",
-      "english": "from heaviness"
+      "gloss": "from heaviness"
     },
     {
       "surface": "קימני",
-      "english": "raise me up"
+      "gloss": "raise me up"
     },
     {
       "surface": "כדברך",
-      "english": "according to your word"
+      "gloss": "according to your word"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:44.611133813Z",
-  "model": "glm-4.5"
+  ]
 }

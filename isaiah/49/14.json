@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "isaiah 49:14",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25908,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26264
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:52:08.870912319Z",
   "translation": "Y Tzión dijo: «YHWH ⟨me⟩ ha abandonado, y mi Adonai ⟨me⟩ ha olvidado».",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     },
     {
       "surface": "עזבני",
-      "english": "⟨me⟩ ha abandonado"
+      "gloss": "⟨me⟩ ha abandonado"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ואדני",
-      "english": "y mi Adonai"
+      "gloss": "y mi Adonai"
     },
     {
       "surface": "שכחני",
-      "english": "⟨me⟩ ha olvidado"
+      "gloss": "⟨me⟩ ha olvidado"
     }
-  ],
-  "timestamp": "2026-06-10T02:52:08.870912319Z",
-  "model": "glm-4.5"
+  ]
 }

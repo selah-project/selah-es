@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "leviticus 25:24",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24303,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 24659
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:40:55.025218736Z",
   "translation": "Y en toda ⟨la⟩ tierra de vuestra posesión ⟨es⟩ redención daréis a ⟨la⟩ tierra",
   "tokens": [
     {
       "surface": "וּ\/בְ\/כֹ֖ל",
-      "english": "Y en toda"
+      "gloss": "Y en toda"
     },
     {
       "surface": "אֶ֣רֶץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "אֲחֻזַּתְ\/כֶ֑ם",
-      "english": "de vuestra posesión"
+      "gloss": "de vuestra posesión"
     },
     {
       "surface": "גְּאֻלָּ֖ה",
-      "english": "⟨es⟩ redención"
+      "gloss": "⟨es⟩ redención"
     },
     {
       "surface": "תִּתְּנ֥וּ",
-      "english": "daréis"
+      "gloss": "daréis"
     },
     {
       "surface": "לָ\/אָֽרֶץ",
-      "english": "a ⟨la⟩ tierra"
+      "gloss": "a ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-10T04:40:55.025218736Z",
-  "model": "glm-4.5"
+  ]
 }

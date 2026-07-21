@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 59:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 575,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26608,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27183
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:57:51.223884628Z",
   "translation": "Porque ⟨son⟩ numerosas ⟨las⟩ transgresiones ⟨en⟩ contra de ti y ⟨los⟩ pecados nos responden ⟨a⟩ nosotros porque ⟨las⟩ transgresiones ⟨están⟩ ⟨con⟩ nosotros y ⟨los⟩ crímenes los conocemos",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "רבו",
-      "english": "⟨son⟩ numerosas"
+      "gloss": "⟨son⟩ numerosas"
     },
     {
       "surface": "פשעינו",
-      "english": "⟨las⟩ transgresiones"
+      "gloss": "⟨las⟩ transgresiones"
     },
     {
       "surface": "נגדך",
-      "english": "⟨en⟩ contra de ti"
+      "gloss": "⟨en⟩ contra de ti"
     },
     {
       "surface": "וחטאותינו",
-      "english": "y ⟨los⟩ pecados"
+      "gloss": "y ⟨los⟩ pecados"
     },
     {
       "surface": "ענתה",
-      "english": "nos responden"
+      "gloss": "nos responden"
     },
     {
       "surface": "בנו",
-      "english": "⟨a⟩ nosotros"
+      "gloss": "⟨a⟩ nosotros"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "פשעינו",
-      "english": "⟨las⟩ transgresiones"
+      "gloss": "⟨las⟩ transgresiones"
     },
     {
       "surface": "אתנו",
-      "english": "⟨están⟩ ⟨con⟩ nosotros",
+      "gloss": "⟨están⟩ ⟨con⟩ nosotros",
       "marks": "transgresiones"
     },
     {
       "surface": "ועונתינו",
-      "english": "y ⟨los⟩ crímenes"
+      "gloss": "y ⟨los⟩ crímenes"
     },
     {
       "surface": "ידענום",
-      "english": "los conocemos"
+      "gloss": "los conocemos"
     }
-  ],
-  "timestamp": "2026-06-10T02:57:51.223884628Z",
-  "model": "glm-4.5"
+  ]
 }

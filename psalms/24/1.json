@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 24:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 646,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69908,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70554
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:07:21.287566774Z",
   "translation": "A David. Un canto. A YHWH ⟨pertenece⟩ ⟨la⟩ tierra y su plenitud, ⟨el⟩ mundo y los que ⟨están⟩ habitando ⟨en⟩ ella.",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "A David",
+      "gloss": "A David",
       "marks": null
     },
     {
       "surface": "מזמור",
-      "english": "Un canto",
+      "gloss": "Un canto",
       "marks": null
     },
     {
       "surface": "ליהוה",
-      "english": "A YHWH",
+      "gloss": "A YHWH",
       "marks": null
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra",
+      "gloss": "⟨la⟩ tierra",
       "marks": "⟨la⟩ tierra"
     },
     {
       "surface": "ומלואה",
-      "english": "y su plenitud",
+      "gloss": "y su plenitud",
       "marks": null
     },
     {
       "surface": "תבל",
-      "english": "⟨el⟩ mundo",
+      "gloss": "⟨el⟩ mundo",
       "marks": "⟨el⟩ mundo"
     },
     {
       "surface": "וישבי",
-      "english": "y los que ⟨están⟩ habitando",
+      "gloss": "y los que ⟨están⟩ habitando",
       "marks": null
     },
     {
       "surface": "בה",
-      "english": "⟨en⟩ ella",
+      "gloss": "⟨en⟩ ella",
       "marks": "⟨la⟩ tierra y ⟨el⟩ mundo"
     }
-  ],
-  "timestamp": "2026-06-09T23:07:21.287566774Z",
-  "model": "glm-4.5"
+  ]
 }

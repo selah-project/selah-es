@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "joel 3:4",
   "book": "joel",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23788,
-    "prompt_tokens_details": {
-      "cached_tokens": 22278
-    },
-    "total_tokens": 24279
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:28:35.603686034Z",
   "translation": "El sol se convertirá en tinieblas y la luna en sangre, antes de que venga el día de YHWH, el grande y el terrible.",
   "tokens": [
     {
       "surface": "השמש",
-      "english": "El sol"
+      "gloss": "El sol"
     },
     {
       "surface": "יהפך",
-      "english": "se convertirá"
+      "gloss": "se convertirá"
     },
     {
       "surface": "לחשך",
-      "english": "en tinieblas"
+      "gloss": "en tinieblas"
     },
     {
       "surface": "והירח",
-      "english": "y la luna"
+      "gloss": "y la luna"
     },
     {
       "surface": "לדם",
-      "english": "en sangre"
+      "gloss": "en sangre"
     },
     {
       "surface": "לפני",
-      "english": "antes de que"
+      "gloss": "antes de que"
     },
     {
       "surface": "בוא",
-      "english": "venga"
+      "gloss": "venga"
     },
     {
       "surface": "יום",
-      "english": "el día"
+      "gloss": "el día"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "הגדול",
-      "english": "el grande"
+      "gloss": "el grande"
     },
     {
       "surface": "והנורא",
-      "english": "y el terrible"
+      "gloss": "y el terrible"
     }
-  ],
-  "timestamp": "2026-06-10T00:28:35.603686034Z",
-  "model": "glm-4.5"
+  ]
 }

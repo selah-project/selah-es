@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-kings 2:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 2,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:44:50.142963628Z",
+  "translation": "Y Davidd durmió ⟨con⟩ sus padres, y fue sepultado en la ciudad ⟨de⟩ Davidd.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Y David durmió"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨con⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sus padres"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "y fue sepultado"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "en la ciudad ⟨de⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,52 +55,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 258,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61897,
-    "prompt_tokens_details": {
-      "cached_tokens": 60967
-    },
-    "total_tokens": 62155
-  },
-  "translation": "Y Davidd durmió ⟨con⟩ sus padres, y fue sepultado en la ciudad ⟨de⟩ Davidd.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "Y David durmió"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨con⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "sus padres"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "y fue sepultado"
-    },
-    {
-      "surface": "בעיר",
-      "english": "en la ciudad ⟨de⟩"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:44:50.142963628Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "numbers 23:25",
   "book": "numbers",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25402,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25811
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:59:14.769807041Z",
   "translation": "Y Balak dijo a Bilam: ⟨ni⟩ maldigas ⟨a ellos⟩ en absoluto, ⟨ni⟩ bendigas ⟨a ellos⟩ en absoluto",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y Balak dijo"
+      "gloss": "Y Balak dijo"
     },
     {
       "surface": "בלק",
-      "english": "Balak"
+      "gloss": "Balak"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "בלעם",
-      "english": "Bilam"
+      "gloss": "Bilam"
     },
     {
       "surface": "גם",
-      "english": "⟨ni⟩"
+      "gloss": "⟨ni⟩"
     },
     {
       "surface": "קב",
-      "english": "maldigas"
+      "gloss": "maldigas"
     },
     {
       "surface": "לא",
-      "english": "⟨a ellos⟩ en absoluto"
+      "gloss": "⟨a ellos⟩ en absoluto"
     },
     {
       "surface": "תקבנו",
-      "english": "maldigas"
+      "gloss": "maldigas"
     },
     {
       "surface": "גם",
-      "english": "⟨ni⟩"
+      "gloss": "⟨ni⟩"
     },
     {
       "surface": "ברך",
-      "english": "bendigas"
+      "gloss": "bendigas"
     },
     {
       "surface": "לא",
-      "english": "⟨a ellos⟩ en absoluto"
+      "gloss": "⟨a ellos⟩ en absoluto"
     },
     {
       "surface": "תברכנו",
-      "english": "bendigas"
+      "gloss": "bendigas"
     }
-  ],
-  "timestamp": "2026-06-10T04:59:14.769807041Z",
-  "model": "glm-4.5"
+  ]
 }

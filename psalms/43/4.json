@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 43:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70397,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70882
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:18:22.270351766Z",
   "translation": "Y ⟨iré⟩ ⟨al⟩ altar de Elohim, ⟨a⟩ El ⟨de⟩ alegría y regocijo; ⟨y⟩ ⟨con⟩ la kinnor te alabaré, Elohim, mi Elohim",
   "tokens": [
     {
       "surface": "ואבואה",
-      "english": "Y ⟨iré⟩"
+      "gloss": "Y ⟨iré⟩"
     },
     {
       "surface": "אל",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "מזבח",
-      "english": "altar"
+      "gloss": "altar"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "שמחת",
-      "english": "⟨de⟩ alegría"
+      "gloss": "⟨de⟩ alegría"
     },
     {
       "surface": "גילי",
-      "english": "y regocijo"
+      "gloss": "y regocijo"
     },
     {
       "surface": "ואודך",
-      "english": "⟨y⟩ ⟨con⟩ la kinnor te alabaré"
+      "gloss": "⟨y⟩ ⟨con⟩ la kinnor te alabaré"
     },
     {
       "surface": "בכנור",
-      "english": "⟨con⟩ la kinnor"
+      "gloss": "⟨con⟩ la kinnor"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אלהי",
-      "english": "mi Elohim"
+      "gloss": "mi Elohim"
     }
-  ],
-  "timestamp": "2026-06-09T23:18:22.270351766Z",
-  "model": "glm-4.5"
+  ]
 }

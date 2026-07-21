@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 146:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69816,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70231
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:11:20.759998975Z",
   "translation": "Alabaré a YHWH en ⟨mis⟩ días cantaré ⟨cánticos⟩ a Elohim en ⟨mi⟩ existencia",
   "tokens": [
     {
       "surface": "אהללה",
-      "english": "Alabaré"
+      "gloss": "Alabaré"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "בחיי",
-      "english": "en ⟨mis⟩ días"
+      "gloss": "en ⟨mis⟩ días"
     },
     {
       "surface": "אזמרה",
-      "english": "cantaré ⟨cánticos⟩"
+      "gloss": "cantaré ⟨cánticos⟩"
     },
     {
       "surface": "לאלהי",
-      "english": "a Elohim"
+      "gloss": "a Elohim"
     },
     {
       "surface": "בעודי",
-      "english": "en ⟨mi⟩ existencia"
+      "gloss": "en ⟨mi⟩ existencia"
     }
-  ],
-  "timestamp": "2026-06-10T00:11:20.759998975Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,99 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 36:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 36,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:41:43.735197462Z",
+  "translation": "Y el rey de Mitzráyim hizo rey ⟨a⟩ Eliakím su hermano sobre Yehudá y Yerushaláyim, y cambió ⟨el⟩ nombre de ⟨él⟩: Yehoyakím. ⟨Y⟩ ⟨a⟩ Yoajaz su hermano ⟨lo⟩ tomó Nekó, y lo trajo ⟨a⟩ Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "Y ... hizo rey"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Eliakím"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliakím"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "su hermano"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "y Yerushaláyim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "y cambió"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨el⟩",
+      "marks": "שמו"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nombre de ⟨él⟩"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakím"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨Y⟩ ⟨a⟩",
+      "marks": "יואחז"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoajaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "su hermano"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨lo⟩ tomó"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Nekó"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "y lo trajo ⟨a⟩"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -27,107 +117,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 727,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59142,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 59869
-  },
-  "translation": "Y el rey de Mitzráyim hizo rey ⟨a⟩ Eliakím su hermano sobre Yehudá y Yerushaláyim, y cambió ⟨el⟩ nombre de ⟨él⟩: Yehoyakím. ⟨Y⟩ ⟨a⟩ Yoajaz su hermano ⟨lo⟩ tomó Nekó, y lo trajo ⟨a⟩ Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "וימלך",
-      "english": "Y ... hizo rey"
-    },
-    {
-      "surface": "מלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Eliakím"
-    },
-    {
-      "surface": "אליקים",
-      "english": "Eliakím"
-    },
-    {
-      "surface": "אחיו",
-      "english": "su hermano"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "y Yerushaláyim"
-    },
-    {
-      "surface": "ויסב",
-      "english": "y cambió"
-    },
-    {
-      "surface": "את",
-      "english": "⟨el⟩",
-      "marks": "שמו"
-    },
-    {
-      "surface": "שמו",
-      "english": "nombre de ⟨él⟩"
-    },
-    {
-      "surface": "יהויקים",
-      "english": "Yehoyakím"
-    },
-    {
-      "surface": "ואת",
-      "english": "⟨Y⟩ ⟨a⟩",
-      "marks": "יואחז"
-    },
-    {
-      "surface": "יואחז",
-      "english": "Yoajaz"
-    },
-    {
-      "surface": "אחיו",
-      "english": "su hermano"
-    },
-    {
-      "surface": "לקח",
-      "english": "⟨lo⟩ tomó"
-    },
-    {
-      "surface": "נכו",
-      "english": "Nekó"
-    },
-    {
-      "surface": "ויביאהו",
-      "english": "y lo trajo ⟨a⟩"
-    },
-    {
-      "surface": "מצרימה",
-      "english": "Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:41:43.735197462Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

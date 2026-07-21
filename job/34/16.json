@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 34:16",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26979,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27424
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:37.348741771Z",
   "translation": "Y si ⟨hay⟩ entendimiento, ⟨a⟩ esto ⟨da⟩ oído, ⟨y⟩ ⟨en⟩ ⟨la⟩ voz ⟨de⟩ mis palabras ⟨inclina⟩ ⟨tu⟩ ⟨oído⟩.",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "Y si"
+      "gloss": "Y si"
     },
     {
       "surface": "בינה",
-      "english": "entendimiento"
+      "gloss": "entendimiento"
     },
     {
       "surface": "שמעה",
-      "english": "⟨a⟩ esto ⟨da⟩ oído"
+      "gloss": "⟨a⟩ esto ⟨da⟩ oído"
     },
     {
       "surface": "זאת",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "האזינה",
-      "english": "⟨y⟩ ⟨en⟩ ⟨la⟩ voz ⟨de⟩ mis palabras ⟨inclina⟩ ⟨tu⟩ ⟨oído⟩"
+      "gloss": "⟨y⟩ ⟨en⟩ ⟨la⟩ voz ⟨de⟩ mis palabras ⟨inclina⟩ ⟨tu⟩ ⟨oído⟩"
     },
     {
       "surface": "לקול",
-      "english": "⟨la⟩ voz ⟨de⟩"
+      "gloss": "⟨la⟩ voz ⟨de⟩"
     },
     {
       "surface": "מלי",
-      "english": "mis palabras"
+      "gloss": "mis palabras"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:37.348741771Z",
-  "model": "glm-4.5"
+  ]
 }

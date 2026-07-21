@@ -1,68 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "ezekiel 46:15",
   "book": "ezekiel",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 553,
-    "prompt_tokens": 24917,
-    "prompt_tokens_details": {
-      "cached_tokens": 23296
-    },
-    "total_tokens": 25470
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:47:31.638200973Z",
   "translation": "Y prepararán ⟨את⟩ el cordero, y ⟨את⟩ la ofrenda de cereal, y ⟨את⟩ el aceite, por la mañana por la mañana, como holocausto continuo",
   "tokens": [
     {
       "surface": "ועשו",
-      "english": "Y prepararán"
+      "gloss": "Y prepararán"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הכבש"
     },
     {
       "surface": "הכבש",
-      "english": "el cordero"
+      "gloss": "el cordero"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "המנחה"
     },
     {
       "surface": "המנחה",
-      "english": "la ofrenda de cereal"
+      "gloss": "la ofrenda de cereal"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "השמן"
     },
     {
       "surface": "השמן",
-      "english": "el aceite"
+      "gloss": "el aceite"
     },
     {
       "surface": "בבקר",
-      "english": "por la mañana"
+      "gloss": "por la mañana"
     },
     {
       "surface": "בבקר",
-      "english": "por la mañana"
+      "gloss": "por la mañana"
     },
     {
       "surface": "עולת",
-      "english": "holocausto"
+      "gloss": "holocausto"
     },
     {
       "surface": "תמיד",
-      "english": "continuo"
+      "gloss": "continuo"
     }
-  ],
-  "timestamp": "2026-07-16T20:47:31.638200973Z",
-  "model": "glm-4.5"
+  ]
 }

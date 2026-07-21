@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 68:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70064,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70563
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:51.798494778Z",
   "translation": "Bendito ⟨es⟩ Adonai día a día ⟨nos⟩ carga ⟨con⟩ beneficios, ⟨el⟩ Dios de nuestra salvación. Selá.",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "Bendito"
+      "gloss": "Bendito"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "יום",
-      "english": "día"
+      "gloss": "día"
     },
     {
       "surface": "יום",
-      "english": "día"
+      "gloss": "día"
     },
     {
       "surface": "יעמס",
-      "english": "carga"
+      "gloss": "carga"
     },
     {
       "surface": "לנו",
-      "english": "⟨nos⟩",
+      "gloss": "⟨nos⟩",
       "marks": "nos"
     },
     {
       "surface": "האל",
-      "english": "⟨el⟩ Dios"
+      "gloss": "⟨el⟩ Dios"
     },
     {
       "surface": "ישועתנו",
-      "english": "de nuestra salvación"
+      "gloss": "de nuestra salvación"
     },
     {
       "surface": "סלה",
-      "english": "Selá"
+      "gloss": "Selá"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:51.798494778Z",
-  "model": "glm-4.5"
+  ]
 }

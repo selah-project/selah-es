@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 37:21",
   "book": "genesis",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28443,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28982
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:34:27.051448599Z",
   "translation": "Y Reuben ⟨escuchó⟩ y ⟨lo⟩ ⟨libró⟩ ⟨de⟩ su mano y ⟨dijo⟩ ⟨No⟩ ⟨golpearemos⟩ ⟨alma⟩.",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "Y ⟨escuchó⟩"
+      "gloss": "Y ⟨escuchó⟩"
     },
     {
       "surface": "ראובן",
-      "english": "Reuben"
+      "gloss": "Reuben"
     },
     {
       "surface": "ויצלהו",
-      "english": "y ⟨lo⟩ ⟨libró⟩"
+      "gloss": "y ⟨lo⟩ ⟨libró⟩"
     },
     {
       "surface": "מידם",
-      "english": "⟨de⟩ su mano"
+      "gloss": "⟨de⟩ su mano"
     },
     {
       "surface": "ואמר",
-      "english": "y ⟨dijo⟩"
+      "gloss": "y ⟨dijo⟩"
     },
     {
       "surface": "לא",
-      "english": "⟨No⟩"
+      "gloss": "⟨No⟩"
     },
     {
       "surface": "נכנו",
-      "english": "⟨golpearemos⟩"
+      "gloss": "⟨golpearemos⟩"
     },
     {
       "surface": "נפש",
-      "english": "⟨alma⟩"
+      "gloss": "⟨alma⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:34:27.051448599Z",
-  "model": "glm-4.5"
+  ]
 }

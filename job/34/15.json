@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 34:15",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27058,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27354
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:31.621765691Z",
   "translation": "perecerá ⟨el⟩ todo carne ⟨juntos⟩ y ⟨el⟩ hombre ⟨a⟩ polvo retornará",
   "tokens": [
     {
       "surface": "יגוע",
-      "english": "Perecerá"
+      "gloss": "Perecerá"
     },
     {
       "surface": "כל",
-      "english": "⟨el⟩ todo"
+      "gloss": "⟨el⟩ todo"
     },
     {
       "surface": "בשר",
-      "english": "carne"
+      "gloss": "carne"
     },
     {
       "surface": "יחד",
-      "english": "⟨juntos⟩"
+      "gloss": "⟨juntos⟩"
     },
     {
       "surface": "ואדם",
-      "english": "y ⟨el⟩ hombre"
+      "gloss": "y ⟨el⟩ hombre"
     },
     {
       "surface": "על",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "עפר",
-      "english": "polvo"
+      "gloss": "polvo"
     },
     {
       "surface": "ישוב",
-      "english": "retornará"
+      "gloss": "retornará"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:31.621765691Z",
-  "model": "glm-4.5"
+  ]
 }

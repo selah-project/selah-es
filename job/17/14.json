@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 17:14",
   "book": "job",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27050,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27526
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:02.714672510Z",
   "translation": "A ⟨la⟩ podredumbre he llamado: Tú ⟨eres⟩ mi padre; ⟨a⟩ la lombriz: Tú ⟨eres⟩ mi madre y ⟨a⟩ mi hermana ⟨la⟩ polilla",
   "tokens": [
     {
       "surface": "לשחת",
-      "english": "A la podredumbre",
+      "gloss": "A la podredumbre",
       "marks": "podredumbre"
     },
     {
       "surface": "קראתי",
-      "english": "he llamado",
+      "gloss": "he llamado",
       "marks": "llamado"
     },
     {
       "surface": "אבי",
-      "english": "mi padre",
+      "gloss": "mi padre",
       "marks": "padre"
     },
     {
       "surface": "אתה",
-      "english": "Tú ⟨eres⟩",
+      "gloss": "Tú ⟨eres⟩",
       "marks": "Tú"
     },
     {
       "surface": "אמי",
-      "english": "mi madre",
+      "gloss": "mi madre",
       "marks": "madre"
     },
     {
       "surface": "ואחתי",
-      "english": "y a mi hermana",
+      "gloss": "y a mi hermana",
       "marks": "hermana"
     },
     {
       "surface": "לרמה",
-      "english": "⟨a⟩ la polilla",
+      "gloss": "⟨a⟩ la polilla",
       "marks": "polilla"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:02.714672510Z",
-  "model": "glm-4.5"
+  ]
 }

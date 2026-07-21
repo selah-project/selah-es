@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 35:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69984,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70275
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:14:40.956053677Z",
   "translation": "Let them not say in their heart, ‘Aha! ⟨is⟩ our desire’; let them not say, ‘We have swallowed him up.’",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Let them not"
+      "gloss": "Let them not"
     },
     {
       "surface": "יאמרו",
-      "english": "say"
+      "gloss": "say"
     },
     {
       "surface": "בלבם",
-      "english": "in their heart"
+      "gloss": "in their heart"
     },
     {
       "surface": "האח",
-      "english": "‘Aha!’"
+      "gloss": "‘Aha!’"
     },
     {
       "surface": "נפשנו",
-      "english": "⟨is⟩ our desire"
+      "gloss": "⟨is⟩ our desire"
     },
     {
       "surface": "אל",
-      "english": "let them not"
+      "gloss": "let them not"
     },
     {
       "surface": "יאמרו",
-      "english": "say"
+      "gloss": "say"
     },
     {
       "surface": "בלענוהו",
-      "english": "‘We have swallowed him up’"
+      "gloss": "‘We have swallowed him up’"
     }
-  ],
-  "timestamp": "2026-06-09T23:14:40.956053677Z",
-  "model": "glm-4.5"
+  ]
 }

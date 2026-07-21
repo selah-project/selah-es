@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "hosea 4:11",
   "book": "hosea",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 215,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26231,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26446
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:45:23.669818328Z",
   "translation": "fornicación, y vino, y vino nuevo toman ⟨el⟩ corazón",
   "tokens": [
     {
       "surface": "זנות",
-      "english": "Fornicación"
+      "gloss": "Fornicación"
     },
     {
       "surface": "ויין",
-      "english": "y vino"
+      "gloss": "y vino"
     },
     {
       "surface": "ותירוש",
-      "english": "y vino nuevo"
+      "gloss": "y vino nuevo"
     },
     {
       "surface": "יקח",
-      "english": "toman"
+      "gloss": "toman"
     },
     {
       "surface": "לב",
-      "english": "⟨el⟩ corazón"
+      "gloss": "⟨el⟩ corazón"
     }
-  ],
-  "timestamp": "2026-06-09T22:45:23.669818328Z",
-  "model": "glm-4.5"
+  ]
 }

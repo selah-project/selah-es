@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-kings 15:21",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 431,
-    "prompt_tokens": 69686,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 70117
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:28:00.277324260Z",
   "translation": "Y aconteció, cuando Baasha oyó ⟨esto⟩, que desistió de edificar ⟨את⟩ Ramá, y habitó en Tirzah",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y aconteció"
+      "gloss": "Y aconteció"
     },
     {
       "surface": "כשמע",
-      "english": "cuando ... oyó"
+      "gloss": "cuando ... oyó"
     },
     {
       "surface": "בעשא",
-      "english": "Baasha"
+      "gloss": "Baasha"
     },
     {
       "surface": "ואת",
-      "english": "y ... ⟨esto⟩"
+      "gloss": "y ... ⟨esto⟩"
     },
     {
       "surface": "ויחדל",
-      "english": "que desistió"
+      "gloss": "que desistió"
     },
     {
       "surface": "מבנות",
-      "english": "de edificar"
+      "gloss": "de edificar"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Ramá"
     },
     {
       "surface": "הרמה",
-      "english": "Ramá"
+      "gloss": "Ramá"
     },
     {
       "surface": "וישב",
-      "english": "y habitó"
+      "gloss": "y habitó"
     },
     {
       "surface": "בתרצה",
-      "english": "en Tirzah"
+      "gloss": "en Tirzah"
     }
-  ],
-  "timestamp": "2026-07-16T18:28:00.277324260Z",
-  "model": "glm-4.5"
+  ]
 }

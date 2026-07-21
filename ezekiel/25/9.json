@@ -1,9 +1,81 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "ezekiel 25:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 25,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:35:08.110658205Z",
+  "translation": "Por tanto, he aquí, ⟨yo⟩ abro ⟨el⟩ hombro de Moav ⟨desde⟩ las ciudades, ⟨desde⟩ sus ciudades ⟨desde⟩ su extremo, ⟨la⟩ gloria de ⟨la⟩ tierra, Bet-ha-Jeshimoth, Baal-Meón ⟨y⟩ Kiriataim.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Por tanto"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "he aquí"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "abro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨el⟩",
+      "marks": "hombro"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "hombro"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "⟨desde⟩ las ciudades"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "⟨desde⟩ sus ciudades"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "⟨desde⟩ su extremo"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "⟨la⟩ gloria"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de ⟨la⟩ tierra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "הישימת",
+      "gloss": "ha-Jeshimoth"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meón"
+    },
+    {
+      "surface": "וקריתמה",
+      "gloss": "⟨y⟩ Kiriataim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moab",
@@ -13,89 +85,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17921,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 18465
-  },
-  "translation": "Por tanto, he aquí, ⟨yo⟩ abro ⟨el⟩ hombro de Moav ⟨desde⟩ las ciudades, ⟨desde⟩ sus ciudades ⟨desde⟩ su extremo, ⟨la⟩ gloria de ⟨la⟩ tierra, Bet-ha-Jeshimoth, Baal-Meón ⟨y⟩ Kiriataim.",
-  "tokens": [
-    {
-      "surface": "לכן",
-      "english": "Por tanto"
-    },
-    {
-      "surface": "הנני",
-      "english": "he aquí"
-    },
-    {
-      "surface": "פתח",
-      "english": "abro"
-    },
-    {
-      "surface": "את",
-      "english": "⟨el⟩",
-      "marks": "hombro"
-    },
-    {
-      "surface": "כתף",
-      "english": "hombro"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "מהערים",
-      "english": "⟨desde⟩ las ciudades"
-    },
-    {
-      "surface": "מעריו",
-      "english": "⟨desde⟩ sus ciudades"
-    },
-    {
-      "surface": "מקצהו",
-      "english": "⟨desde⟩ su extremo"
-    },
-    {
-      "surface": "צבי",
-      "english": "⟨la⟩ gloria"
-    },
-    {
-      "surface": "ארץ",
-      "english": "de ⟨la⟩ tierra"
-    },
-    {
-      "surface": "בית",
-      "english": "Bet"
-    },
-    {
-      "surface": "הישימת",
-      "english": "ha-Jeshimoth"
-    },
-    {
-      "surface": "בעל",
-      "english": "Baal"
-    },
-    {
-      "surface": "מעון",
-      "english": "Meón"
-    },
-    {
-      "surface": "וקריתמה",
-      "english": "⟨y⟩ Kiriataim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:35:08.110658205Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

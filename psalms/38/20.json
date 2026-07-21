@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 38:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69768,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70113
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:16:24.212404010Z",
   "translation": "Y mis enemigos ⟨que⟩ están vivos ⟨se⟩ fortalecen y ⟨los que⟩ me aborrecen ⟨con⟩ mentira ⟨se⟩ multiplican",
   "tokens": [
     {
       "surface": "ואיבי",
-      "english": "Y mis enemigos"
+      "gloss": "Y mis enemigos"
     },
     {
       "surface": "חיים",
-      "english": "⟨que⟩ están vivos",
+      "gloss": "⟨que⟩ están vivos",
       "marks": "enemigos"
     },
     {
       "surface": "עצמו",
-      "english": "⟨se⟩ fortalecen"
+      "gloss": "⟨se⟩ fortalecen"
     },
     {
       "surface": "ורבו",
-      "english": "y ⟨los que⟩ me aborrecen"
+      "gloss": "y ⟨los que⟩ me aborrecen"
     },
     {
       "surface": "שנאי",
-      "english": "⟨con⟩ mentira",
+      "gloss": "⟨con⟩ mentira",
       "marks": "aborrecen"
     },
     {
       "surface": "שקר",
-      "english": "⟨se⟩ multiplican"
+      "gloss": "⟨se⟩ multiplican"
     }
-  ],
-  "timestamp": "2026-06-09T23:16:24.212404010Z",
-  "model": "glm-4.5"
+  ]
 }

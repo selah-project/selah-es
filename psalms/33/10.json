@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 33:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69929,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70261
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:12:08.781501154Z",
   "translation": "YHWH frustra ⟨el⟩ plan de las naciones, ⟨Él⟩ invalida ⟨los⟩ planes de ⟨los⟩ pueblos.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הפיר",
-      "english": "frustra"
+      "gloss": "frustra"
     },
     {
       "surface": "עצת",
-      "english": "⟨el⟩ plan"
+      "gloss": "⟨el⟩ plan"
     },
     {
       "surface": "גוים",
-      "english": "de las naciones"
+      "gloss": "de las naciones"
     },
     {
       "surface": "הניא",
-      "english": "⟨Él⟩ invalida"
+      "gloss": "⟨Él⟩ invalida"
     },
     {
       "surface": "מחשבות",
-      "english": "⟨los⟩ planes"
+      "gloss": "⟨los⟩ planes"
     },
     {
       "surface": "עמים",
-      "english": "de ⟨los⟩ pueblos"
+      "gloss": "de ⟨los⟩ pueblos"
     }
-  ],
-  "timestamp": "2026-06-09T23:12:08.781501154Z",
-  "model": "glm-4.5"
+  ]
 }

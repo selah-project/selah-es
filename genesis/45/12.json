@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 45:12",
   "book": "genesis",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28583,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29068
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:42:22.125206496Z",
   "translation": "Y he aquí, ⟨que⟩ vuestros ojos ven y ⟨los⟩ ojos de mi hermano Binyamín ⟨que⟩ ⟨es⟩ mi boca ⟨la que⟩ habla ⟨con⟩ vosotros",
   "tokens": [
     {
       "surface": "והנה",
-      "english": "Y he aquí"
+      "gloss": "Y he aquí"
     },
     {
       "surface": "עיניכם",
-      "english": "vuestros ojos"
+      "gloss": "vuestros ojos"
     },
     {
       "surface": "ראות",
-      "english": "ven"
+      "gloss": "ven"
     },
     {
       "surface": "ועיני",
-      "english": "y ⟨los⟩ ojos"
+      "gloss": "y ⟨los⟩ ojos"
     },
     {
       "surface": "אחי",
-      "english": "mi hermano"
+      "gloss": "mi hermano"
     },
     {
       "surface": "בנימין",
-      "english": "Binyamín"
+      "gloss": "Binyamín"
     },
     {
       "surface": "כי",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "פי",
-      "english": "mi boca"
+      "gloss": "mi boca"
     },
     {
       "surface": "המדבר",
-      "english": "⟨la que⟩ habla"
+      "gloss": "⟨la que⟩ habla"
     },
     {
       "surface": "אליכם",
-      "english": "⟨con⟩ vosotros"
+      "gloss": "⟨con⟩ vosotros"
     }
-  ],
-  "timestamp": "2026-06-10T05:42:22.125206496Z",
-  "model": "glm-4.5"
+  ]
 }

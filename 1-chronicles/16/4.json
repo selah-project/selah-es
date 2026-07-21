@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 16:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 16,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:45:02.056047987Z",
+  "translation": "Y puso ⟨את⟩ ante Arón de YHWH ⟨el⟩ de los levitas ministros para recordar y para dar gracias y para alabar a YHWH, Elohim de Yisrael",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Y puso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ante"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arón"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "de los levitas"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "ministros"
+    },
+    {
+      "surface": "ולהזכיר",
+      "gloss": "para recordar"
+    },
+    {
+      "surface": "ולהודות",
+      "gloss": "y para dar gracias"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "y para alabar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el arca",
@@ -20,76 +79,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57343,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57779
-  },
-  "translation": "Y puso ⟨את⟩ ante Arón de YHWH ⟨el⟩ de los levitas ministros para recordar y para dar gracias y para alabar a YHWH, Elohim de Yisrael",
-  "tokens": [
-    {
-      "surface": "ויתן",
-      "english": "Y puso"
-    },
-    {
-      "surface": "לפני",
-      "english": "ante"
-    },
-    {
-      "surface": "ארון",
-      "english": "Arón"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨el⟩"
-    },
-    {
-      "surface": "הלוים",
-      "english": "de los levitas"
-    },
-    {
-      "surface": "משרתים",
-      "english": "ministros"
-    },
-    {
-      "surface": "ולהזכיר",
-      "english": "para recordar"
-    },
-    {
-      "surface": "ולהודות",
-      "english": "y para dar gracias"
-    },
-    {
-      "surface": "ולהלל",
-      "english": "y para alabar"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:45:02.056047987Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 42:13",
   "book": "job",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26925,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27243
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:19:09.017291156Z",
   "translation": "Y ⟨él⟩ ⟨tuvo⟩ siete hijos ⟨y⟩ tres hijas",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y ⟨él⟩ ⟨tuvo⟩"
+      "gloss": "Y ⟨él⟩ ⟨tuvo⟩"
     },
     {
       "surface": "לו",
-      "english": "⟨él⟩"
+      "gloss": "⟨él⟩"
     },
     {
       "surface": "שבענה",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "בנים",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "ושלוש",
-      "english": "⟨y⟩ tres"
+      "gloss": "⟨y⟩ tres"
     },
     {
       "surface": "בנות",
-      "english": "hijas"
+      "gloss": "hijas"
     }
-  ],
-  "timestamp": "2026-06-10T02:19:09.017291156Z",
-  "model": "glm-4.5"
+  ]
 }

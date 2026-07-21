@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 46:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70042,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70418
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:29.744465358Z",
   "translation": "Venid, ved ⟨las⟩ obras de YHWH, ⟨que⟩ puso desolaciones en ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "לכו",
-      "english": "Venid"
+      "gloss": "Venid"
     },
     {
       "surface": "חזו",
-      "english": "ved"
+      "gloss": "ved"
     },
     {
       "surface": "מפעלות",
-      "english": "⟨las⟩ obras"
+      "gloss": "⟨las⟩ obras"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "שם",
-      "english": "puso"
+      "gloss": "puso"
     },
     {
       "surface": "שמות",
-      "english": "desolaciones"
+      "gloss": "desolaciones"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:29.744465358Z",
-  "model": "glm-4.5"
+  ]
 }

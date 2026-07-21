@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "ezekiel 36:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 36,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:44:41.844248450Z",
+  "translation": "Y multiplicaré ⟨el⟩ hombre sobre vosotros, toda ⟨la⟩ casa de Yisrael, toda ella; y ⟨las⟩ ciudades serán habitadas, y ⟨las⟩ ruinas serán edificadas.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "Y multiplicaré"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sobre vosotros"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨el⟩ hombre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨la⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "toda ella"
+    },
+    {
+      "surface": "ונשבו",
+      "gloss": "y ⟨las⟩ ciudades serán habitadas"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "⟨las⟩ ciudades"
+    },
+    {
+      "surface": "והחרבות",
+      "gloss": "y ⟨las⟩ ruinas"
+    },
+    {
+      "surface": "תבנינה",
+      "gloss": "serán edificadas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17420,
-    "prompt_tokens_details": {
-      "cached_tokens": 15965
-    },
-    "total_tokens": 17845
-  },
-  "translation": "Y multiplicaré ⟨el⟩ hombre sobre vosotros, toda ⟨la⟩ casa de Yisrael, toda ella; y ⟨las⟩ ciudades serán habitadas, y ⟨las⟩ ruinas serán edificadas.",
-  "tokens": [
-    {
-      "surface": "והרביתי",
-      "english": "Y multiplicaré"
-    },
-    {
-      "surface": "עליכם",
-      "english": "sobre vosotros"
-    },
-    {
-      "surface": "אדם",
-      "english": "⟨el⟩ hombre"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨la⟩ casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כלה",
-      "english": "toda ella"
-    },
-    {
-      "surface": "ונשבו",
-      "english": "y ⟨las⟩ ciudades serán habitadas"
-    },
-    {
-      "surface": "הערים",
-      "english": "⟨las⟩ ciudades"
-    },
-    {
-      "surface": "והחרבות",
-      "english": "y ⟨las⟩ ruinas"
-    },
-    {
-      "surface": "תבנינה",
-      "english": "serán edificadas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:44:41.844248450Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

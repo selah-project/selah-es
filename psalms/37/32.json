@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 37:32",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69667,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70022
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:55.677466968Z",
   "translation": "⟨El⟩ malvado vigila ⟨al⟩ justo y ⟨busca⟩ ⟨el⟩ matarlo",
   "tokens": [
     {
       "surface": "צופה",
-      "english": "Vigua"
+      "gloss": "Vigua"
     },
     {
       "surface": "רשע",
-      "english": "⟨El⟩ malvado"
+      "gloss": "⟨El⟩ malvado"
     },
     {
       "surface": "לצדיק",
-      "english": "⟨al⟩ justo"
+      "gloss": "⟨al⟩ justo"
     },
     {
       "surface": "ומבקש",
-      "english": "y ⟨busca⟩"
+      "gloss": "y ⟨busca⟩"
     },
     {
       "surface": "להמיתו",
-      "english": "⟨el⟩ matarlo"
+      "gloss": "⟨el⟩ matarlo"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:55.677466968Z",
-  "model": "glm-4.5"
+  ]
 }

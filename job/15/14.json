@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 15:14",
   "book": "job",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27121,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27548
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:37.337484655Z",
   "translation": "¿Qué ⟨es⟩ el hombre para que ⟨sea⟩ puro, y ⟨el⟩ nacido de mujer para que ⟨sea⟩ justo?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "אנוש",
-      "english": "el hombre"
+      "gloss": "el hombre"
     },
     {
       "surface": "כי",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "יזכה",
-      "english": "⟨sea⟩ puro"
+      "gloss": "⟨sea⟩ puro"
     },
     {
       "surface": "וכי",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "יצדק",
-      "english": "⟨sea⟩ justo"
+      "gloss": "⟨sea⟩ justo"
     },
     {
       "surface": "ילוד",
-      "english": "⟨el⟩ nacido"
+      "gloss": "⟨el⟩ nacido"
     },
     {
       "surface": "אשה",
-      "english": "de mujer"
+      "gloss": "de mujer"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:37.337484655Z",
-  "model": "glm-4.5"
+  ]
 }

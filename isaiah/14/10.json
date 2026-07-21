@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 14:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26332,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26770
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:29:36.921705578Z",
   "translation": "Todos responderán y ⟨dirán⟩ a ti: 'También tú ⟨estás⟩ débil como nosotros; te ⟨has⟩ convertido como nosotros'",
   "tokens": [
     {
       "surface": "כלם",
-      "english": "Todos"
+      "gloss": "Todos"
     },
     {
       "surface": "יענו",
-      "english": "responderán"
+      "gloss": "responderán"
     },
     {
       "surface": "ויאמרו",
-      "english": "y ⟨dirán⟩"
+      "gloss": "y ⟨dirán⟩"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "גם",
-      "english": "también"
+      "gloss": "también"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "חלית",
-      "english": "⟨estás⟩ débil"
+      "gloss": "⟨estás⟩ débil"
     },
     {
       "surface": "כמונו",
-      "english": "como nosotros"
+      "gloss": "como nosotros"
     },
     {
       "surface": "אלינו",
-      "english": "a nosotros"
+      "gloss": "a nosotros"
     },
     {
       "surface": "נמשלת",
-      "english": "te ⟨has⟩ convertido"
+      "gloss": "te ⟨has⟩ convertido"
     }
-  ],
-  "timestamp": "2026-06-10T02:29:36.921705578Z",
-  "model": "glm-4.5"
+  ]
 }

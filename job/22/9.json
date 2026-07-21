@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 22:9",
   "book": "job",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26967,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27345
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:28.529482024Z",
   "translation": "A viudas ⟨has⟩ enviado ⟨vacías⟩, y ⟨los⟩ brazos de huérfanos ⟨han⟩ ⟨sido⟩ quebrantados.",
   "tokens": [
     {
       "surface": "אלמנות",
-      "english": "A viudas"
+      "gloss": "A viudas"
     },
     {
       "surface": "שלחת",
-      "english": "⟨has⟩ enviado"
+      "gloss": "⟨has⟩ enviado"
     },
     {
       "surface": "ריקם",
-      "english": "⟨vacías⟩"
+      "gloss": "⟨vacías⟩"
     },
     {
       "surface": "וזרעות",
-      "english": "y ⟨los⟩ brazos"
+      "gloss": "y ⟨los⟩ brazos"
     },
     {
       "surface": "יתמים",
-      "english": "de huérfanos"
+      "gloss": "de huérfanos"
     },
     {
       "surface": "ידכא",
-      "english": "⟨han⟩ ⟨sido⟩ quebrantados"
+      "gloss": "⟨han⟩ ⟨sido⟩ quebrantados"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:28.529482024Z",
-  "model": "glm-4.5"
+  ]
 }

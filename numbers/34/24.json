@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "numbers 34:24",
   "book": "numbers",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25007,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25503
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:08:36.738161003Z",
   "translation": "Y ⟨por⟩ ⟨la⟩ tribu ⟨de⟩ ⟨los⟩ hijos ⟨de⟩ Efrayim ⟨un⟩ príncipe Quemuel ⟨hijo⟩ ⟨de⟩ Shiphtán",
   "tokens": [
     {
       "surface": "ולמטה",
-      "english": "Y ⟨por⟩ ⟨la⟩ tribu",
+      "gloss": "Y ⟨por⟩ ⟨la⟩ tribu",
       "marks": "Efrayim"
     },
     {
       "surface": "בני",
-      "english": "⟨de⟩ ⟨los⟩ hijos",
+      "gloss": "⟨de⟩ ⟨los⟩ hijos",
       "marks": "Efrayim"
     },
     {
       "surface": "אפרים",
-      "english": "⟨de⟩ Efrayim"
+      "gloss": "⟨de⟩ Efrayim"
     },
     {
       "surface": "נשיא",
-      "english": "⟨un⟩ príncipe"
+      "gloss": "⟨un⟩ príncipe"
     },
     {
       "surface": "קמואל",
-      "english": "Quemuel"
+      "gloss": "Quemuel"
     },
     {
       "surface": "בן",
-      "english": "⟨hijo⟩ ⟨de⟩",
+      "gloss": "⟨hijo⟩ ⟨de⟩",
       "marks": "Shiphtán"
     },
     {
       "surface": "שפטן",
-      "english": "Shiphtán"
+      "gloss": "Shiphtán"
     }
-  ],
-  "timestamp": "2026-06-10T05:08:36.738161003Z",
-  "model": "glm-4.5"
+  ]
 }

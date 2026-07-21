@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 40:4",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27101,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27648
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:17:00.508824044Z",
   "translation": "He aquí ⟨soy⟩ insignificante; ¿qué ⟨te⟩ responderé? ⟨Mi⟩ mano ⟨he⟩ puesto ⟨a⟩ mi boca ⟨את⟩.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "קלתי",
-      "english": "⟨soy⟩ insignificante"
+      "gloss": "⟨soy⟩ insignificante"
     },
     {
       "surface": "מה",
-      "english": "¿qué"
+      "gloss": "¿qué"
     },
     {
       "surface": "אשיבך",
-      "english": "⟨te⟩ responderé"
+      "gloss": "⟨te⟩ responderé"
     },
     {
       "surface": "ידי",
-      "english": "⟨Mi⟩ mano"
+      "gloss": "⟨Mi⟩ mano"
     },
     {
       "surface": "שמתי",
-      "english": "⟨he⟩ puesto"
+      "gloss": "⟨he⟩ puesto"
     },
     {
       "surface": "למו",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "פי",
-      "english": "mi boca",
+      "gloss": "mi boca",
       "marks": "mi boca"
     }
-  ],
-  "timestamp": "2026-06-10T02:17:00.508824044Z",
-  "model": "glm-4.5"
+  ]
 }

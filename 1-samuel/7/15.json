@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-samuel 7:15",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 263,
-    "prompt_tokens": 23598,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 23861
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:36:47.637971944Z",
   "translation": "Y Shmuel juzgó ⟨את⟩ Yisrael todos los días de su vida",
   "tokens": [
     {
       "surface": "וישפט",
-      "english": "Y juzgó"
+      "gloss": "Y juzgó"
     },
     {
       "surface": "שמואל",
-      "english": "Shmuel"
+      "gloss": "Shmuel"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "ימי",
-      "english": "los días"
+      "gloss": "los días"
     },
     {
       "surface": "חייו",
-      "english": "de su vida"
+      "gloss": "de su vida"
     }
-  ],
-  "timestamp": "2026-07-16T18:36:47.637971944Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 60:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69864,
-    "prompt_tokens_details": {
-      "cached_tokens": 68371
-    },
-    "total_tokens": 70281
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:27:34.323054177Z",
   "translation": "⟨Tú⟩ has hecho ver a tu pueblo ⟨la⟩ cosa dura; ⟨Tú⟩ nos has hecho beber ⟨el⟩ vino de ⟨la⟩ reclinación",
   "tokens": [
     {
       "surface": "הראיתה",
-      "english": "⟨Tú⟩ has hecho ver",
+      "gloss": "⟨Tú⟩ has hecho ver",
       "marks": "que Tú has hecho ver"
     },
     {
       "surface": "עמך",
-      "english": "a tu pueblo",
+      "gloss": "a tu pueblo",
       "marks": "tu pueblo"
     },
     {
       "surface": "קשה",
-      "english": "⟨la⟩ cosa dura",
+      "gloss": "⟨la⟩ cosa dura",
       "marks": "cosa dura"
     },
     {
       "surface": "השקיתנו",
-      "english": "⟨Tú⟩ nos has hecho beber",
+      "gloss": "⟨Tú⟩ nos has hecho beber",
       "marks": "que Tú nos has hecho beber"
     },
     {
       "surface": "יין",
-      "english": "⟨el⟩ vino",
+      "gloss": "⟨el⟩ vino",
       "marks": "vino"
     },
     {
       "surface": "תרעלה",
-      "english": "de ⟨la⟩ reclinación",
+      "gloss": "de ⟨la⟩ reclinación",
       "marks": "reclinación"
     }
-  ],
-  "timestamp": "2026-06-09T23:27:34.323054177Z",
-  "model": "glm-4.5"
+  ]
 }

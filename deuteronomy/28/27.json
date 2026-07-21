@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "deuteronomy 28:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 28,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:20:44.647993982Z",
+  "translation": "YHWH ⟨⟩ te golpeará con ⟨la⟩ sarna de Mitzráyim y ⟨con⟩ los tumores y ⟨con⟩ ⟨la⟩ escabiosis y ⟨con⟩ ⟨la⟩ sarna, que no podrás sanar.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "Golpeará"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "con ⟨la⟩ sarna de Egipto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "ובעפלים",
+      "gloss": "y ⟨con⟩ los tumores"
+    },
+    {
+      "surface": "ובגרב",
+      "gloss": "y ⟨con⟩ ⟨la⟩ escabiosis"
+    },
+    {
+      "surface": "ובחרס",
+      "gloss": "y ⟨con⟩ ⟨la⟩ sarna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "podrás"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "sanar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -13,68 +64,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17691,
-    "prompt_tokens_details": {
-      "cached_tokens": 16232
-    },
-    "total_tokens": 18184
-  },
-  "translation": "YHWH ⟨⟩ te golpeará con ⟨la⟩ sarna de Mitzráyim y ⟨con⟩ los tumores y ⟨con⟩ ⟨la⟩ escabiosis y ⟨con⟩ ⟨la⟩ sarna, que no podrás sanar.",
-  "tokens": [
-    {
-      "surface": "יככה",
-      "english": "Golpeará"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "בשחין",
-      "english": "con ⟨la⟩ sarna de Egipto"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "ובעפלים",
-      "english": "y ⟨con⟩ los tumores"
-    },
-    {
-      "surface": "ובגרב",
-      "english": "y ⟨con⟩ ⟨la⟩ escabiosis"
-    },
-    {
-      "surface": "ובחרס",
-      "english": "y ⟨con⟩ ⟨la⟩ sarna"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "תוכל",
-      "english": "podrás"
-    },
-    {
-      "surface": "להרפא",
-      "english": "sanar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:20:44.647993982Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

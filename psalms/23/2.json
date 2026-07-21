@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 23:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69913,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70249
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:07:34.374321201Z",
   "translation": "En pastos de tierna hierba ⟨me⟩ hace recostar, junto a aguas de reposo ⟨me⟩ conduce",
   "tokens": [
     {
       "surface": "בנאות",
-      "english": "En pastos de"
+      "gloss": "En pastos de"
     },
     {
       "surface": "דשא",
-      "english": "tierna hierba"
+      "gloss": "tierna hierba"
     },
     {
       "surface": "ירביצני",
-      "english": "⟨me⟩ hace recostar"
+      "gloss": "⟨me⟩ hace recostar"
     },
     {
       "surface": "על",
-      "english": "junto a"
+      "gloss": "junto a"
     },
     {
       "surface": "מי",
-      "english": "aguas de"
+      "gloss": "aguas de"
     },
     {
       "surface": "מנחות",
-      "english": "reposo"
+      "gloss": "reposo"
     },
     {
       "surface": "ינהלני",
-      "english": "⟨me⟩ conduce"
+      "gloss": "⟨me⟩ conduce"
     }
-  ],
-  "timestamp": "2026-06-09T23:07:34.374321201Z",
-  "model": "glm-4.5"
+  ]
 }

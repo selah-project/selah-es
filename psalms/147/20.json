@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.1",
-  "verse": 20,
   "ref": "psalms 147:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70069,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70627
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:59:26.445552663Z",
   "translation": "No ha hecho así ⟨a⟩ toda nación, y ⟨sus⟩ mishpatim — no los conocieron. ¡Halelu-Yah!",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "עשה",
-      "english": "ha hecho"
+      "gloss": "ha hecho"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "לכל",
-      "english": "⟨a⟩ toda"
+      "gloss": "⟨a⟩ toda"
     },
     {
       "surface": "גוי",
-      "english": "nación"
+      "gloss": "nación"
     },
     {
       "surface": "ומשפטים",
-      "english": "y ⟨sus⟩ mishpatim"
+      "gloss": "y ⟨sus⟩ mishpatim"
     },
     {
       "surface": "בל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ידעום",
-      "english": "los conocieron"
+      "gloss": "los conocieron"
     },
     {
       "surface": "הללו",
-      "english": "¡Halelu"
+      "gloss": "¡Halelu"
     },
     {
       "surface": "יה",
-      "english": "Yah!"
+      "gloss": "Yah!"
     }
-  ],
-  "timestamp": "2026-06-13T03:59:26.445552663Z",
-  "model": "glm-5.1"
+  ]
 }

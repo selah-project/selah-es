@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 15:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 245,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69871,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70116
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:02:41.061340730Z",
   "translation": "El que ⟨es⟩ que camina en integridad y ⟨el que⟩ obra justiCIA y ⟨el que⟩ habla verdad ⟨en⟩ su corazón",
   "tokens": [
     {
       "surface": "הולך",
-      "english": "Camin"
+      "gloss": "Camin"
     },
     {
       "surface": "תמים",
-      "english": "en integridad"
+      "gloss": "en integridad"
     },
     {
       "surface": "ופעל",
-      "english": "y ⟨el que⟩ obr"
+      "gloss": "y ⟨el que⟩ obr"
     },
     {
       "surface": "צדק",
-      "english": "justiCIA"
+      "gloss": "justiCIA"
     },
     {
       "surface": "ודבר",
-      "english": "y ⟨el que⟩ habl"
+      "gloss": "y ⟨el que⟩ habl"
     },
     {
       "surface": "אמת",
-      "english": "verdad"
+      "gloss": "verdad"
     },
     {
       "surface": "בלבבו",
-      "english": "⟨en⟩ su corazón"
+      "gloss": "⟨en⟩ su corazón"
     }
-  ],
-  "timestamp": "2026-06-09T23:02:41.061340730Z",
-  "model": "glm-4.5"
+  ]
 }

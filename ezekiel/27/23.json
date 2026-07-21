@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "ezekiel 27:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 27,
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:36:46.468367110Z",
+  "translation": "Haran y Canaán y Edén, los mercaderes de Saba, Ashshur y Quilmad ⟨eran⟩ tus mercaderes",
+  "tokens": [
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "וכנה",
+      "gloss": "y Canaán"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "y Edén"
+    },
+    {
+      "surface": "רכלי",
+      "gloss": "los mercaderes de"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Saba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "כלמד",
+      "gloss": "y Quilmad"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "eran tus mercaderes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Asiria",
@@ -13,56 +52,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17082,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17483
-  },
-  "translation": "Haran y Canaán y Edén, los mercaderes de Saba, Ashshur y Quilmad ⟨eran⟩ tus mercaderes",
-  "tokens": [
-    {
-      "surface": "חרן",
-      "english": "Haran"
-    },
-    {
-      "surface": "וכנה",
-      "english": "y Canaán"
-    },
-    {
-      "surface": "ועדן",
-      "english": "y Edén"
-    },
-    {
-      "surface": "רכלי",
-      "english": "los mercaderes de"
-    },
-    {
-      "surface": "שבא",
-      "english": "Saba"
-    },
-    {
-      "surface": "אשור",
-      "english": "Ashshur"
-    },
-    {
-      "surface": "כלמד",
-      "english": "y Quilmad"
-    },
-    {
-      "surface": "רכלתך",
-      "english": "eran tus mercaderes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:36:46.468367110Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

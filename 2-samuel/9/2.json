@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "2-samuel 9:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 9,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:23:33.813755626Z",
+  "translation": "Y ⟨a⟩ casa de Shaúl ⟨un⟩ siervo y su nombre ⟨es⟩ Ziba, y llamaron a él a Davidd, y dijo el rey a él: ¿Eres tú Ziba? Y dijo: ⟨el⟩ siervo tuyo.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "Y ⟨a⟩ casa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaúl"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "⟨un⟩ siervo"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "y su nombre"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "⟨es⟩ Ziba"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "y llamaron"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a él"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a él"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "¿Eres tú"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Ziba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨el⟩ siervo tuyo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -20,88 +91,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17604,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 18143
-  },
-  "translation": "Y ⟨a⟩ casa de Shaúl ⟨un⟩ siervo y su nombre ⟨es⟩ Ziba, y llamaron a él a Davidd, y dijo el rey a él: ¿Eres tú Ziba? Y dijo: ⟨el⟩ siervo tuyo.",
-  "tokens": [
-    {
-      "surface": "ולבית",
-      "english": "Y ⟨a⟩ casa"
-    },
-    {
-      "surface": "שאול",
-      "english": "de Shaúl"
-    },
-    {
-      "surface": "עבד",
-      "english": "⟨un⟩ siervo"
-    },
-    {
-      "surface": "ושמו",
-      "english": "y su nombre"
-    },
-    {
-      "surface": "ציבא",
-      "english": "⟨es⟩ Ziba"
-    },
-    {
-      "surface": "ויקראו",
-      "english": "y llamaron"
-    },
-    {
-      "surface": "לו",
-      "english": "a él"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "אליו",
-      "english": "a él"
-    },
-    {
-      "surface": "האתה",
-      "english": "¿Eres tú"
-    },
-    {
-      "surface": "ציבא",
-      "english": "Ziba"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "עבדך",
-      "english": "⟨el⟩ siervo tuyo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:23:33.813755626Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

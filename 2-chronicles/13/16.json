@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-chronicles 13:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 13,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:13:05.054718521Z",
+  "translation": "Y los hijos de Yisrael huyeron de ⟨el⟩ rostro ⟨de⟩ Yehudá, y Elohim ⟨los⟩ entregó en mano ⟨de⟩ ellos",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "Y huyeron"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de ⟨el⟩ rostro ⟨de⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "y Elohim ⟨los⟩ entregó"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "en mano ⟨de⟩ ellos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,56 +59,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57765,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58154
-  },
-  "translation": "Y los hijos de Yisrael huyeron de ⟨el⟩ rostro ⟨de⟩ Yehudá, y Elohim ⟨los⟩ entregó en mano ⟨de⟩ ellos",
-  "tokens": [
-    {
-      "surface": "וינוסו",
-      "english": "Y huyeron"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "מפני",
-      "english": "de ⟨el⟩ rostro ⟨de⟩"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "ויתנם",
-      "english": "y Elohim ⟨los⟩ entregó"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "בידם",
-      "english": "en mano ⟨de⟩ ellos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:13:05.054718521Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

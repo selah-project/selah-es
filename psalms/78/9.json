@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 78:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 764,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70031,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70795
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:56.747170950Z",
   "translation": "Hijos de Efráyim—⟨los⟩ armados ⟨que⟩ portan arcos, se volvieron ⟨hacia⟩ atrás en el día de ⟨la⟩ batalla.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Hijos de",
+      "gloss": "Hijos de",
       "marks": null
     },
     {
       "surface": "אפרים",
-      "english": "Efráyim",
+      "gloss": "Efráyim",
       "marks": null
     },
     {
       "surface": "נושקי",
-      "english": "⟨los⟩ armados",
+      "gloss": "⟨los⟩ armados",
       "marks": "que portan arcos"
     },
     {
       "surface": "רומי",
-      "english": "⟨que⟩ portan",
+      "gloss": "⟨que⟩ portan",
       "marks": "arcos"
     },
     {
       "surface": "קשת",
-      "english": "arcos",
+      "gloss": "arcos",
       "marks": null
     },
     {
       "surface": "הפכו",
-      "english": "se volvieron ⟨hacia⟩ atrás",
+      "gloss": "se volvieron ⟨hacia⟩ atrás",
       "marks": null
     },
     {
       "surface": "ביום",
-      "english": "en el día de",
+      "gloss": "en el día de",
       "marks": null
     },
     {
       "surface": "קרב",
-      "english": "⟨la⟩ batalla",
+      "gloss": "⟨la⟩ batalla",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-09T23:36:56.747170950Z",
-  "model": "glm-4.5"
+  ]
 }

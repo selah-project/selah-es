@@ -1,97 +1,89 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 1:16",
   "book": "genesis",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 601,
-    "prompt_tokens": 29560,
-    "prompt_tokens_details": {
-      "cached_tokens": 24448
-    },
-    "total_tokens": 30161
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:50:45.815481017Z",
   "translation": "E hizo Elohim ⟨את⟩ los dos grandes luminarias ⟨את⟩ la gran lumbrera para dominio del día, y ⟨את⟩ la pequeña lumbrera para dominio de la noche, y ⟨את⟩ las estrellas",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E hizo"
+      "gloss": "E hizo"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los dos"
     },
     {
       "surface": "שני",
-      "english": "los dos"
+      "gloss": "los dos"
     },
     {
       "surface": "המארת",
-      "english": "grandes luminarias"
+      "gloss": "grandes luminarias"
     },
     {
       "surface": "הגדלים",
-      "english": "grandes"
+      "gloss": "grandes"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la gran lumbrera"
     },
     {
       "surface": "המאור",
-      "english": "la gran lumbrera"
+      "gloss": "la gran lumbrera"
     },
     {
       "surface": "הגדל",
-      "english": "gran"
+      "gloss": "gran"
     },
     {
       "surface": "לממשלת",
-      "english": "para dominio"
+      "gloss": "para dominio"
     },
     {
       "surface": "היום",
-      "english": "del día"
+      "gloss": "del día"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la pequeña lumbrera"
     },
     {
       "surface": "המאור",
-      "english": "la pequeña lumbrera"
+      "gloss": "la pequeña lumbrera"
     },
     {
       "surface": "הקטן",
-      "english": "pequeña"
+      "gloss": "pequeña"
     },
     {
       "surface": "לממשלת",
-      "english": "para dominio"
+      "gloss": "para dominio"
     },
     {
       "surface": "הלילה",
-      "english": "de la noche"
+      "gloss": "de la noche"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "las estrellas"
     },
     {
       "surface": "הכוכבים",
-      "english": "las estrellas"
+      "gloss": "las estrellas"
     }
-  ],
-  "timestamp": "2026-07-16T20:50:45.815481017Z",
-  "model": "glm-4.5"
+  ]
 }

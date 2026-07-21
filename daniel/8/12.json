@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "daniel 8:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "daniel",
+  "chapter": 8,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:04:46.385360562Z",
+  "translation": "y ⟨es⟩ dado el ejército ⟨por⟩ la transgresión ⟨contra⟩ ⟨el⟩ continuo sacrificio y arrojará ⟨la⟩ Emet ⟨a la⟩ tierra y ⟨lo⟩ hará y prosperará",
+  "tokens": [
+    {
+      "surface": "וצבא",
+      "gloss": "Y ⟨es⟩ dado el ejército"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "⟨es⟩ dado"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "⟨el⟩ continuo sacrificio"
+    },
+    {
+      "surface": "בפשע",
+      "gloss": "⟨la⟩ transgresión"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "y arrojará"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨la⟩ Emet"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨a la⟩ tierra"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "y ⟨lo⟩ hará"
+    },
+    {
+      "surface": "והצליחה",
+      "gloss": "y prosperará"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdad",
@@ -13,64 +60,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17125,
-    "prompt_tokens_details": {
-      "cached_tokens": 15766
-    },
-    "total_tokens": 17681
-  },
-  "translation": "y ⟨es⟩ dado el ejército ⟨por⟩ la transgresión ⟨contra⟩ ⟨el⟩ continuo sacrificio y arrojará ⟨la⟩ Emet ⟨a la⟩ tierra y ⟨lo⟩ hará y prosperará",
-  "tokens": [
-    {
-      "surface": "וצבא",
-      "english": "Y ⟨es⟩ dado el ejército"
-    },
-    {
-      "surface": "תנתן",
-      "english": "⟨es⟩ dado"
-    },
-    {
-      "surface": "על",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "התמיד",
-      "english": "⟨el⟩ continuo sacrificio"
-    },
-    {
-      "surface": "בפשע",
-      "english": "⟨la⟩ transgresión"
-    },
-    {
-      "surface": "ותשלך",
-      "english": "y arrojará"
-    },
-    {
-      "surface": "אמת",
-      "english": "⟨la⟩ Emet"
-    },
-    {
-      "surface": "ארצה",
-      "english": "⟨a la⟩ tierra"
-    },
-    {
-      "surface": "ועשתה",
-      "english": "y ⟨lo⟩ hará"
-    },
-    {
-      "surface": "והצליחה",
-      "english": "y prosperará"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:04:46.385360562Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

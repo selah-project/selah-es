@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 54:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 234,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69700,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69934
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:23:58.292379273Z",
   "translation": "Para ⟨el⟩ que vence en instrumentos de cuerda; una instrucción ⟨de⟩ David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Para ⟨el⟩ que vence",
+      "gloss": "Para ⟨el⟩ que vence",
       "marks": "el que vence en instrumentos de cuerda"
     },
     {
       "surface": "בנגינת",
-      "english": "en instrumentos de cuerda",
+      "gloss": "en instrumentos de cuerda",
       "marks": null
     },
     {
       "surface": "משכיל",
-      "english": "una instrucción ⟨de⟩",
+      "gloss": "una instrucción ⟨de⟩",
       "marks": null
     },
     {
       "surface": "לדוד",
-      "english": "David",
+      "gloss": "David",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-09T23:23:58.292379273Z",
-  "model": "glm-4.5"
+  ]
 }

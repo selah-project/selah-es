@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 25:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60261,
-    "prompt_tokens_details": {
-      "cached_tokens": 58349
-    },
-    "total_tokens": 60724
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:48:56.244823048Z",
   "translation": "Como el que ⟨quita⟩ un ⟨vestido⟩ en un día de frío, y como vinagre sobre natrón, ⟨es⟩ el que canta canciones ⟨a⟩ un corazón ⟨herido⟩.",
   "tokens": [
     {
       "surface": "מעדה",
-      "english": "Quita"
+      "gloss": "Quita"
     },
     {
       "surface": "בגד",
-      "english": "vestido"
+      "gloss": "vestido"
     },
     {
       "surface": "ביום",
-      "english": "en un día"
+      "gloss": "en un día"
     },
     {
       "surface": "קרה",
-      "english": "de frío"
+      "gloss": "de frío"
     },
     {
       "surface": "חמץ",
-      "english": "vinagre"
+      "gloss": "vinagre"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "נתר",
-      "english": "natrón"
+      "gloss": "natrón"
     },
     {
       "surface": "ושר",
-      "english": "canta"
+      "gloss": "canta"
     },
     {
       "surface": "בשרים",
-      "english": "canciones"
+      "gloss": "canciones"
     },
     {
       "surface": "על",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "לב",
-      "english": "corazón"
+      "gloss": "corazón"
     },
     {
       "surface": "רע",
-      "english": "herido"
+      "gloss": "herido"
     }
-  ],
-  "timestamp": "2026-06-10T01:48:56.244823048Z",
-  "model": "glm-4.5"
+  ]
 }

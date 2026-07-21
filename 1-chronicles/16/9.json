@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-chronicles 16:9",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 330,
-    "prompt_tokens": 64030,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64360
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:08:44.316605775Z",
   "translation": "Canten a ⟨él⟩, canten salmos a ⟨él⟩, mediten en todas ⟨sus⟩ maravillas",
   "tokens": [
     {
       "surface": "שירו",
-      "english": "Canten"
+      "gloss": "Canten"
     },
     {
       "surface": "לו",
-      "english": "a ⟨él⟩"
+      "gloss": "a ⟨él⟩"
     },
     {
       "surface": "זמרו",
-      "english": "canten salmos"
+      "gloss": "canten salmos"
     },
     {
       "surface": "לו",
-      "english": "a ⟨él⟩"
+      "gloss": "a ⟨él⟩"
     },
     {
       "surface": "שיחו",
-      "english": "mediten"
+      "gloss": "mediten"
     },
     {
       "surface": "בכל",
-      "english": "en todas"
+      "gloss": "en todas"
     },
     {
       "surface": "נפלאתיו",
-      "english": "⟨sus⟩ maravillas"
+      "gloss": "⟨sus⟩ maravillas"
     }
-  ],
-  "timestamp": "2026-07-16T18:08:44.316605775Z",
-  "model": "glm-4.5"
+  ]
 }

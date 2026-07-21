@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 23:1",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 438,
-    "prompt_tokens": 24745,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25183
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:41:45.687799195Z",
   "translation": "¡Ay de los pastores que destruyen y dispersan ⟨את⟩ el rebaño de mi pastizal! — declara YHWH.",
   "tokens": [
     {
       "surface": "הוי",
-      "english": "¡Ay"
+      "gloss": "¡Ay"
     },
     {
       "surface": "רעים",
-      "english": "de los pastores"
+      "gloss": "de los pastores"
     },
     {
       "surface": "מאבדים",
-      "english": "que destruyen"
+      "gloss": "que destruyen"
     },
     {
       "surface": "ומפצים",
-      "english": "y dispersan"
+      "gloss": "y dispersan"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el rebaño"
     },
     {
       "surface": "צאן",
-      "english": "el rebaño"
+      "gloss": "el rebaño"
     },
     {
       "surface": "מרעיתי",
-      "english": "de mi pastizal"
+      "gloss": "de mi pastizal"
     },
     {
       "surface": "נאם",
-      "english": "declara"
+      "gloss": "declara"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T21:41:45.687799195Z",
-  "model": "glm-4.5"
+  ]
 }

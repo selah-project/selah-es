@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "psalms 106:36",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 69938,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70312
-  },
+  "verse": 36,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:07.142810197Z",
   "translation": "Y sirvieron ⟨את⟩ sus ídolos, y fueron para ellos por lazo",
   "tokens": [
     {
       "surface": "ויעבדו",
-      "english": "Y sirvieron"
+      "gloss": "Y sirvieron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus ídolos"
     },
     {
       "surface": "עצביהם",
-      "english": "sus ídolos"
+      "gloss": "sus ídolos"
     },
     {
       "surface": "ויהיו",
-      "english": "y fueron"
+      "gloss": "y fueron"
     },
     {
       "surface": "להם",
-      "english": "para ellos"
+      "gloss": "para ellos"
     },
     {
       "surface": "למוקש",
-      "english": "por lazo"
+      "gloss": "por lazo"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:07.142810197Z",
-  "model": "glm-4.5"
+  ]
 }

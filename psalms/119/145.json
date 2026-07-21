@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 145,
   "ref": "psalms 119:145",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69897,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70229
-  },
+  "verse": 145,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:11.247166484Z",
   "translation": "He llamado ⟨con⟩ todo ⟨el⟩ corazón; respóndeme, YHWH, guardaré tus estatutos",
   "tokens": [
     {
       "surface": "קראתי",
-      "english": "He llamado"
+      "gloss": "He llamado"
     },
     {
       "surface": "בכל",
-      "english": "⟨con⟩ todo"
+      "gloss": "⟨con⟩ todo"
     },
     {
       "surface": "לב",
-      "english": "⟨el⟩ corazón"
+      "gloss": "⟨el⟩ corazón"
     },
     {
       "surface": "ענני",
-      "english": "respóndeme"
+      "gloss": "respóndeme"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חקיך",
-      "english": "tus estatutos"
+      "gloss": "tus estatutos"
     },
     {
       "surface": "אצרה",
-      "english": "guardaré"
+      "gloss": "guardaré"
     }
-  ],
-  "timestamp": "2026-06-10T00:02:11.247166484Z",
-  "model": "glm-4.5"
+  ]
 }

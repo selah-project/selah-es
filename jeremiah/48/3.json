@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "jeremiah 48:3",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24226,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24522
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:41:30.852085786Z",
   "translation": "Un grito ⟨de⟩ alarma ⟨de⟩ Horonaim: devastación y ⟨una⟩ gran destrucción.",
   "tokens": [
     {
       "surface": "קול",
-      "english": "Un grito"
+      "gloss": "Un grito"
     },
     {
       "surface": "צעקה",
-      "english": "⟨de⟩ alarma"
+      "gloss": "⟨de⟩ alarma"
     },
     {
       "surface": "מחרונים",
-      "english": "⟨de⟩ Horonaim"
+      "gloss": "⟨de⟩ Horonaim"
     },
     {
       "surface": "שד",
-      "english": "devastación"
+      "gloss": "devastación"
     },
     {
       "surface": "ושבר",
-      "english": "y ⟨una⟩ gran"
+      "gloss": "y ⟨una⟩ gran"
     },
     {
       "surface": "גדול",
-      "english": "destrucción"
+      "gloss": "destrucción"
     }
-  ],
-  "timestamp": "2026-06-10T03:41:30.852085786Z",
-  "model": "glm-4.5"
+  ]
 }

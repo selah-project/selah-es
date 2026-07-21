@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 80:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69988,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70433
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:39:12.034047378Z",
   "translation": "y ⟨la⟩ vid ⟨que⟩ ⟨es⟩ plantada por tu diestra y sobre ⟨el⟩ hijo ⟨que⟩ fortaleciste para ti",
   "tokens": [
     {
       "surface": "וכנה",
-      "english": "Y ⟨la⟩ vid"
+      "gloss": "Y ⟨la⟩ vid"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "נטעה",
-      "english": "⟨es⟩ plantada"
+      "gloss": "⟨es⟩ plantada"
     },
     {
       "surface": "ימינך",
-      "english": "por tu diestra"
+      "gloss": "por tu diestra"
     },
     {
       "surface": "ועל",
-      "english": "y sobre"
+      "gloss": "y sobre"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo"
+      "gloss": "⟨el⟩ hijo"
     },
     {
       "surface": "אמצתה",
-      "english": "⟨que⟩ fortaleciste"
+      "gloss": "⟨que⟩ fortaleciste"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     }
-  ],
-  "timestamp": "2026-06-09T23:39:12.034047378Z",
-  "model": "glm-4.5"
+  ]
 }

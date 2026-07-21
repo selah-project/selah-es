@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 18:1",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24285,
-    "prompt_tokens_details": {
-      "cached_tokens": 23392
-    },
-    "total_tokens": 24576
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:17:11.973915440Z",
   "translation": "La palabra que hubo ⟨a⟩ Yirmeyahu ⟨de⟩ YHWH ⟨para⟩ decir",
   "tokens": [
     {
       "surface": "הדבר",
-      "english": "La palabra"
+      "gloss": "La palabra"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "היה",
-      "english": "hubo"
+      "gloss": "hubo"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "ירמיהו",
-      "english": "Yirmeyahu"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "מאת",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ decir"
+      "gloss": "⟨para⟩ decir"
     }
-  ],
-  "timestamp": "2026-06-10T03:17:11.973915440Z",
-  "model": "glm-4.5"
+  ]
 }

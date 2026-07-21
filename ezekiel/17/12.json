@@ -1,9 +1,111 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "ezekiel 17:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 17,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:25:55.124184138Z",
+  "translation": "Di ⟨ahora⟩ a ⟨la⟩ casa rebelde: ¿No conocéis ⟨lo⟩ que ⟨esto⟩ ⟨es⟩? Decid: ⟨He aquí⟩ ⟨el⟩ rey de Bavel vino ⟨a⟩ Yerushalayim, y tomó ⟨a⟩ ⟨el⟩ rey y ⟨a⟩ ⟨sus⟩ príncipes, y ⟨se los⟩ llevó ⟨con⟩ él ⟨a⟩ Bavel.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Di"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ahora⟩"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "a ⟨la⟩ casa"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "rebelde"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿No"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "conocéis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨lo⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "que ⟨esto⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨es⟩? Decid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨He aquí⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de Babilonia"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨a⟩ Yerushalayim,"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "y tomó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩ ⟨el⟩",
+      "marks": "מלכה"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "rey"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "y ⟨a⟩ ⟨sus⟩",
+      "marks": "שריה"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "príncipes,"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "y ⟨se los⟩ llevó"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨con⟩ él",
+      "marks": "אליו"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavel."
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalén",
@@ -20,119 +122,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 862,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18478,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 19340
-  },
-  "translation": "Di ⟨ahora⟩ a ⟨la⟩ casa rebelde: ¿No conocéis ⟨lo⟩ que ⟨esto⟩ ⟨es⟩? Decid: ⟨He aquí⟩ ⟨el⟩ rey de Bavel vino ⟨a⟩ Yerushalayim, y tomó ⟨a⟩ ⟨el⟩ rey y ⟨a⟩ ⟨sus⟩ príncipes, y ⟨se los⟩ llevó ⟨con⟩ él ⟨a⟩ Bavel.",
-  "tokens": [
-    {
-      "surface": "אמר",
-      "english": "Di"
-    },
-    {
-      "surface": "נא",
-      "english": "⟨ahora⟩"
-    },
-    {
-      "surface": "לבית",
-      "english": "a ⟨la⟩ casa"
-    },
-    {
-      "surface": "המרי",
-      "english": "rebelde"
-    },
-    {
-      "surface": "הלא",
-      "english": "¿No"
-    },
-    {
-      "surface": "ידעתם",
-      "english": "conocéis"
-    },
-    {
-      "surface": "מה",
-      "english": "⟨lo⟩"
-    },
-    {
-      "surface": "אלה",
-      "english": "que ⟨esto⟩"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨es⟩? Decid"
-    },
-    {
-      "surface": "הנה",
-      "english": "⟨He aquí⟩"
-    },
-    {
-      "surface": "בא",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "מלך",
-      "english": "de Babilonia"
-    },
-    {
-      "surface": "בבל",
-      "english": "vino"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨a⟩ Yerushalayim,"
-    },
-    {
-      "surface": "ויקח",
-      "english": "y tomó"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩ ⟨el⟩",
-      "marks": "מלכה"
-    },
-    {
-      "surface": "מלכה",
-      "english": "rey"
-    },
-    {
-      "surface": "ואת",
-      "english": "y ⟨a⟩ ⟨sus⟩",
-      "marks": "שריה"
-    },
-    {
-      "surface": "שריה",
-      "english": "príncipes,"
-    },
-    {
-      "surface": "ויבא",
-      "english": "y ⟨se los⟩ llevó"
-    },
-    {
-      "surface": "אותם",
-      "english": "⟨con⟩ él",
-      "marks": "אליו"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "בבלה",
-      "english": "Bavel."
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:25:55.124184138Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

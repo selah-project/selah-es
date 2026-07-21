@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "hosea 2:3",
   "book": "hosea",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26491,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26829
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:44:53.393160406Z",
   "translation": "Digan a sus hermanos: ⟨Mi pueblo⟩, y a sus hermanas: ⟨Compadecida⟩.",
   "tokens": [
     {
       "surface": "אמרו",
-      "english": "Digan"
+      "gloss": "Digan"
     },
     {
       "surface": "לאחיכם",
-      "english": "a sus hermanos:"
+      "gloss": "a sus hermanos:"
     },
     {
       "surface": "עמי",
-      "english": "⟨Mi pueblo⟩"
+      "gloss": "⟨Mi pueblo⟩"
     },
     {
       "surface": "ולאחותיכם",
-      "english": "y a sus hermanas:"
+      "gloss": "y a sus hermanas:"
     },
     {
       "surface": "רחמה",
-      "english": "⟨Compadecida⟩"
+      "gloss": "⟨Compadecida⟩"
     }
-  ],
-  "timestamp": "2026-06-09T22:44:53.393160406Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jeremiah 14:2",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24631,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25000
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:14:32.458170499Z",
   "translation": "Judea ⟨está⟩ de luto, y sus puertas ⟨están⟩ languideciendo; se han oscurecido ⟨hacia⟩ la tierra, y el clamor de Jerusalén ha ascendido.",
   "tokens": [
     {
       "surface": "אבלה",
-      "english": "Judea ⟨está⟩ de luto"
+      "gloss": "Judea ⟨está⟩ de luto"
     },
     {
       "surface": "יהודה",
-      "english": "Judea"
+      "gloss": "Judea"
     },
     {
       "surface": "ושעריה",
-      "english": "y sus puertas ⟨están⟩ languideciendo"
+      "gloss": "y sus puertas ⟨están⟩ languideciendo"
     },
     {
       "surface": "אמללו",
-      "english": "languideciendo"
+      "gloss": "languideciendo"
     },
     {
       "surface": "קדרו",
-      "english": "se han oscurecido"
+      "gloss": "se han oscurecido"
     },
     {
       "surface": "לארץ",
-      "english": "⟨hacia⟩ la tierra"
+      "gloss": "⟨hacia⟩ la tierra"
     },
     {
       "surface": "וצוחת",
-      "english": "y el clamor"
+      "gloss": "y el clamor"
     },
     {
       "surface": "ירושלם",
-      "english": "de Jerusalén"
+      "gloss": "de Jerusalén"
     },
     {
       "surface": "עלתה",
-      "english": "ha ascendido"
+      "gloss": "ha ascendido"
     }
-  ],
-  "timestamp": "2026-06-10T03:14:32.458170499Z",
-  "model": "glm-4.5"
+  ]
 }

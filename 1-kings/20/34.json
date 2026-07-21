@@ -1,9 +1,119 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "1-kings 20:34",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 20,
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:15:17.834981604Z",
+  "translation": "Y dijo ⟨a⟩ él: Las ciudades que mi padre tomó ⟨de⟩ tu padre, devolveré y calles ⟨tú⟩ harás para ⟨ti⟩ en Damasco como ⟨lo que⟩ ⟨hizo⟩ mi padre en Samaria y yo ⟨en⟩ Brit ⟨te⟩ enviaré. Y ⟨él⟩ cortó ⟨con⟩ él Brit y ⟨lo⟩ envió.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ él",
+      "marks": "Ben-hadad (el hablante)"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "Las ciudades"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tomó"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mi padre"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨de⟩",
+      "marks": "tu padre"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tu padre"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "devolveré"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "y calles"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "⟨tú⟩ harás"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para ⟨ti⟩",
+      "marks": "tú (Acab)"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "en Damasco"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨lo que⟩ ⟨hizo⟩",
+      "marks": "hizo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mi padre"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "en Samaria"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "y yo"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "⟨en⟩ pacto",
+      "marks": "enviado"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "⟨te⟩ enviaré"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "Y ⟨él⟩ cortó"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨con⟩ él",
+      "marks": "Ben-hadad"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Brit"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "y ⟨lo⟩ envió",
+      "marks": "a Ben-hadad"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,127 +123,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 753,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63601,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 64354
-  },
-  "translation": "Y dijo ⟨a⟩ él: Las ciudades que mi padre tomó ⟨de⟩ tu padre, devolveré y calles ⟨tú⟩ harás para ⟨ti⟩ en Damasco como ⟨lo que⟩ ⟨hizo⟩ mi padre en Samaria y yo ⟨en⟩ Brit ⟨te⟩ enviaré. Y ⟨él⟩ cortó ⟨con⟩ él Brit y ⟨lo⟩ envió.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ él",
-      "marks": "Ben-hadad (el hablante)"
-    },
-    {
-      "surface": "הערים",
-      "english": "Las ciudades"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לקח",
-      "english": "tomó"
-    },
-    {
-      "surface": "אבי",
-      "english": "mi padre"
-    },
-    {
-      "surface": "מאת",
-      "english": "⟨de⟩",
-      "marks": "tu padre"
-    },
-    {
-      "surface": "אביך",
-      "english": "tu padre"
-    },
-    {
-      "surface": "אשיב",
-      "english": "devolveré"
-    },
-    {
-      "surface": "וחוצות",
-      "english": "y calles"
-    },
-    {
-      "surface": "תשים",
-      "english": "⟨tú⟩ harás"
-    },
-    {
-      "surface": "לך",
-      "english": "para ⟨ti⟩",
-      "marks": "tú (Acab)"
-    },
-    {
-      "surface": "בדמשק",
-      "english": "en Damasco"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como"
-    },
-    {
-      "surface": "שם",
-      "english": "⟨lo que⟩ ⟨hizo⟩",
-      "marks": "hizo"
-    },
-    {
-      "surface": "אבי",
-      "english": "mi padre"
-    },
-    {
-      "surface": "בשמרון",
-      "english": "en Samaria"
-    },
-    {
-      "surface": "ואני",
-      "english": "y yo"
-    },
-    {
-      "surface": "בברית",
-      "english": "⟨en⟩ pacto",
-      "marks": "enviado"
-    },
-    {
-      "surface": "אשלחך",
-      "english": "⟨te⟩ enviaré"
-    },
-    {
-      "surface": "ויכרת",
-      "english": "Y ⟨él⟩ cortó"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨con⟩ él",
-      "marks": "Ben-hadad"
-    },
-    {
-      "surface": "ברית",
-      "english": "Brit"
-    },
-    {
-      "surface": "וישלחהו",
-      "english": "y ⟨lo⟩ envió",
-      "marks": "a Ben-hadad"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:15:17.834981604Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

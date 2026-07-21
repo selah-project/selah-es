@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 67:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 67,
-  "usage": {
-    "completion_tokens": 543,
-    "prompt_tokens": 70008,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70551
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:32:27.727825718Z",
   "translation": "Elohim nos favorezca y ⟨nos⟩ bendiga; ⟨haga⟩ brillar su rostro ⟨sobre⟩ nosotros; Selah",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יחננו",
-      "english": "nos favorezca"
+      "gloss": "nos favorezca"
     },
     {
       "surface": "ויברכנו",
-      "english": "y ⟨nos⟩ bendiga"
+      "gloss": "y ⟨nos⟩ bendiga"
     },
     {
       "surface": "יאר",
-      "english": "⟨haga⟩ brillar"
+      "gloss": "⟨haga⟩ brillar"
     },
     {
       "surface": "פניו",
-      "english": "su rostro"
+      "gloss": "su rostro"
     },
     {
       "surface": "אתנו",
-      "english": "⟨sobre⟩ nosotros",
+      "gloss": "⟨sobre⟩ nosotros",
       "marks": "nosotros"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-07-16T23:32:27.727825718Z",
-  "model": "glm-4.5"
+  ]
 }

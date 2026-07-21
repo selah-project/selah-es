@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "proverbs 27:19",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59796,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60221
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:49:13.455635777Z",
   "translation": "Como en ⟨el⟩ agua ⟨el⟩ rostro ⟨es⟩ ⟨al⟩ rostro, así ⟨el⟩ corazón de ⟨el⟩ hombre ⟨a⟩ ⟨el⟩ hombre.",
   "tokens": [
     {
       "surface": "כמים",
-      "english": "Como en ⟨el⟩ agua"
+      "gloss": "Como en ⟨el⟩ agua"
     },
     {
       "surface": "הפנים",
-      "english": "⟨el⟩ rostro"
+      "gloss": "⟨el⟩ rostro"
     },
     {
       "surface": "לפנים",
-      "english": "⟨al⟩ rostro"
+      "gloss": "⟨al⟩ rostro"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "לב",
-      "english": "⟨el⟩ corazón"
+      "gloss": "⟨el⟩ corazón"
     },
     {
       "surface": "האדם",
-      "english": "de ⟨el⟩ hombre"
+      "gloss": "de ⟨el⟩ hombre"
     },
     {
       "surface": "לאדם",
-      "english": "⟨a⟩ ⟨el⟩ hombre"
+      "gloss": "⟨a⟩ ⟨el⟩ hombre"
     }
-  ],
-  "timestamp": "2026-06-10T01:49:13.455635777Z",
-  "model": "glm-4.5"
+  ]
 }

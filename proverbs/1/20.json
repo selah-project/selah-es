@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 1:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59745,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60089
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:27:53.935989105Z",
   "translation": "La Jojmá ⟨is⟩ clamando en ⟨el⟩ exterior, en ⟨las⟩ plazas ⟨ella⟩ ⟨da⟩ su voz.",
   "tokens": [
     {
       "surface": "חכמות",
-      "english": "La Jojmá"
+      "gloss": "La Jojmá"
     },
     {
       "surface": "בחוץ",
-      "english": "en ⟨el⟩ exterior"
+      "gloss": "en ⟨el⟩ exterior"
     },
     {
       "surface": "תרנה",
-      "english": "⟨is⟩ clamando"
+      "gloss": "⟨is⟩ clamando"
     },
     {
       "surface": "ברחבות",
-      "english": "en ⟨las⟩ plazas"
+      "gloss": "en ⟨las⟩ plazas"
     },
     {
       "surface": "תתן",
-      "english": "⟨ella⟩ ⟨da⟩"
+      "gloss": "⟨ella⟩ ⟨da⟩"
     },
     {
       "surface": "קולה",
-      "english": "su voz"
+      "gloss": "su voz"
     }
-  ],
-  "timestamp": "2026-06-10T01:27:53.935989105Z",
-  "model": "glm-4.5"
+  ]
 }

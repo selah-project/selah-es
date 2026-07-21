@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 29:5",
   "book": "job",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26842,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27160
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:52.220871507Z",
   "translation": "Cuando aún ⟨el⟩ Shadday ⟨estaba⟩ conmigo, ⟨cuando⟩ mis jóvenes ⟨estaban⟩ ⟨a⟩ mi alrededor;",
   "tokens": [
     {
       "surface": "בעוד",
-      "english": "Cuando aún"
+      "gloss": "Cuando aún"
     },
     {
       "surface": "שדי",
-      "english": "Shadday"
+      "gloss": "Shadday"
     },
     {
       "surface": "עמדי",
-      "english": "⟨estaba⟩ conmigo"
+      "gloss": "⟨estaba⟩ conmigo"
     },
     {
       "surface": "סביבותי",
-      "english": "⟨a⟩ mi alrededor"
+      "gloss": "⟨a⟩ mi alrededor"
     },
     {
       "surface": "נערי",
-      "english": "mis jóvenes"
+      "gloss": "mis jóvenes"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:52.220871507Z",
-  "model": "glm-4.5"
+  ]
 }

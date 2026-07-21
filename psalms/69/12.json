@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 69:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 416,
-    "prompt_tokens": 69815,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70231
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:32:59.169912602Z",
   "translation": "Puse ⟨también⟩ cilicio ⟨como⟩ mi vestido, y fui ⟨para⟩ ellos ⟨por⟩ proverbio.",
   "tokens": [
     {
       "surface": "ואתנה",
-      "english": "Puse ⟨también⟩"
+      "gloss": "Puse ⟨también⟩"
     },
     {
       "surface": "לבושי",
-      "english": "⟨como⟩ mi vestido"
+      "gloss": "⟨como⟩ mi vestido"
     },
     {
       "surface": "שק",
-      "english": "cilicio"
+      "gloss": "cilicio"
     },
     {
       "surface": "ואהי",
-      "english": "y fui"
+      "gloss": "y fui"
     },
     {
       "surface": "להם",
-      "english": "⟨para⟩ ellos"
+      "gloss": "⟨para⟩ ellos"
     },
     {
       "surface": "למשל",
-      "english": "⟨por⟩ proverbio"
+      "gloss": "⟨por⟩ proverbio"
     }
-  ],
-  "timestamp": "2026-07-16T23:32:59.169912602Z",
-  "model": "glm-4.5"
+  ]
 }

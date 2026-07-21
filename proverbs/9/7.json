@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "proverbs 9:7",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 476,
-    "prompt_tokens": 60033,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60509
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:18:27.319031148Z",
   "translation": "El que corrige ⟨al⟩ escarnecedor recibe para sí deshonor, y el que reprende ⟨al⟩ malvado, ⟨su⟩ mancilla.",
   "tokens": [
     {
       "surface": "יסר",
-      "english": "corrige"
+      "gloss": "corrige"
     },
     {
       "surface": "לץ",
-      "english": "⟨al⟩ escarnecedor"
+      "gloss": "⟨al⟩ escarnecedor"
     },
     {
       "surface": "לקח",
-      "english": "recibe"
+      "gloss": "recibe"
     },
     {
       "surface": "לו",
-      "english": "para sí"
+      "gloss": "para sí"
     },
     {
       "surface": "קלון",
-      "english": "deshonor"
+      "gloss": "deshonor"
     },
     {
       "surface": "ומוכיח",
-      "english": "y el que reprende"
+      "gloss": "y el que reprende"
     },
     {
       "surface": "לרשע",
-      "english": "⟨al⟩ malvado"
+      "gloss": "⟨al⟩ malvado"
     },
     {
       "surface": "מומו",
-      "english": "⟨su⟩ mancilla"
+      "gloss": "⟨su⟩ mancilla"
     }
-  ],
-  "timestamp": "2026-07-16T23:18:27.319031148Z",
-  "model": "glm-4.5"
+  ]
 }

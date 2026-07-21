@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "numbers 31:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 31,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:32:15.226798004Z",
+  "translation": "Y Moshé ⟨dijo⟩ a ellos: '¿Habéis guardado con vida ⟨a todas⟩ las hembras?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y Moisés ⟨dijo⟩"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "a ellos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "¿Habéis guardado con vida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨a todas⟩",
+      "marks": "las hembras"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "las hembras"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moisés",
@@ -13,49 +45,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17506,
-    "prompt_tokens_details": {
-      "cached_tokens": 16652
-    },
-    "total_tokens": 17813
-  },
-  "translation": "Y Moshé ⟨dijo⟩ a ellos: '¿Habéis guardado con vida ⟨a todas⟩ las hembras?'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y Moisés ⟨dijo⟩"
-    },
-    {
-      "surface": "אליהם",
-      "english": "a ellos"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "החייתם",
-      "english": "¿Habéis guardado con vida"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨a todas⟩",
-      "marks": "las hembras"
-    },
-    {
-      "surface": "נקבה",
-      "english": "las hembras"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:32:15.226798004Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

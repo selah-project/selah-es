@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 3:7",
   "book": "job",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27087,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27506
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:54:37.016392264Z",
   "translation": "¡He aquí! ⟨la⟩ noche aquella ⟨sea⟩ galmud ⟨un⟩ ⟨que⟩ no ⟨venga⟩ ⟨grito de⟩ júbilo ⟨en⟩ ⟨ella⟩",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "¡He aquí!"
+      "gloss": "¡He aquí!"
     },
     {
       "surface": "הלילה",
-      "english": "⟨la⟩ noche"
+      "gloss": "⟨la⟩ noche"
     },
     {
       "surface": "ההוא",
-      "english": "aquella"
+      "gloss": "aquella"
     },
     {
       "surface": "יהי",
-      "english": "⟨sea⟩"
+      "gloss": "⟨sea⟩"
     },
     {
       "surface": "גלמוד",
-      "english": "galmud"
+      "gloss": "galmud"
     },
     {
       "surface": "אל",
-      "english": "⟨un⟩"
+      "gloss": "⟨un⟩"
     },
     {
       "surface": "תבא",
-      "english": "⟨que⟩ no ⟨venga⟩"
+      "gloss": "⟨que⟩ no ⟨venga⟩"
     },
     {
       "surface": "רננה",
-      "english": "⟨grito de⟩ júbilo"
+      "gloss": "⟨grito de⟩ júbilo"
     },
     {
       "surface": "בו",
-      "english": "⟨en⟩ ⟨ella⟩"
+      "gloss": "⟨en⟩ ⟨ella⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:54:37.016392264Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 55,
   "ref": "genesis 24:55",
   "book": "genesis",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28679,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29149
-  },
+  "verse": 55,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:21:55.307490753Z",
   "translation": "Y dijeron su hermano y su madre: ⟨La⟩ joven permanezca con nosotros ⟨por⟩ días o ⟨un⟩ decena ⟨de⟩ días; ⟨al⟩ fin ⟨de⟩ esto ⟨se⟩ irá.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijeron"
+      "gloss": "Y dijeron"
     },
     {
       "surface": "אחיה",
-      "english": "su hermano"
+      "gloss": "su hermano"
     },
     {
       "surface": "ואמה",
-      "english": "y su madre"
+      "gloss": "y su madre"
     },
     {
       "surface": "תשב",
-      "english": "permanezca"
+      "gloss": "permanezca"
     },
     {
       "surface": "הנער",
-      "english": "⟨La⟩ joven"
+      "gloss": "⟨La⟩ joven"
     },
     {
       "surface": "אתנו",
-      "english": "con nosotros"
+      "gloss": "con nosotros"
     },
     {
       "surface": "ימים",
-      "english": "⟨por⟩ días"
+      "gloss": "⟨por⟩ días"
     },
     {
       "surface": "או",
-      "english": "o"
+      "gloss": "o"
     },
     {
       "surface": "עשור",
-      "english": "⟨un⟩ decena ⟨de⟩ días"
+      "gloss": "⟨un⟩ decena ⟨de⟩ días"
     },
     {
       "surface": "אחר",
-      "english": "⟨al⟩ fin ⟨de⟩ esto"
+      "gloss": "⟨al⟩ fin ⟨de⟩ esto"
     },
     {
       "surface": "תלך",
-      "english": "⟨se⟩ irá"
+      "gloss": "⟨se⟩ irá"
     }
-  ],
-  "timestamp": "2026-06-10T05:21:55.307490753Z",
-  "model": "glm-4.5"
+  ]
 }

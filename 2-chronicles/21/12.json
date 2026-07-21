@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-chronicles 21:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 21,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:22:55.454625774Z",
+  "translation": "Y vino a ⟨él⟩ ⟨una⟩ carta de Elías ⟨el⟩ profeta, diciendo: Así ha dicho YHWH, Elohim de Davidd tu padre: Por cuanto no has andado en los caminos de Yehoshafat tu padre, ni en los caminos de Asa rey de Yehudá,",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Y vino"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a ⟨él⟩"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "⟨una⟩ carta"
+    },
+    {
+      "surface": "מאליהו",
+      "gloss": "de Elías"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨el⟩ profeta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha dicho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tu padre"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Por cuanto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "has andado"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "en los caminos"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "de Yehoshafat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tu padre"
+    },
+    {
+      "surface": "ובדרכי",
+      "gloss": "ni en los caminos"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "de Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,116 +126,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 660,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59181,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 59841
-  },
-  "translation": "Y vino a ⟨él⟩ ⟨una⟩ carta de Elías ⟨el⟩ profeta, diciendo: Así ha dicho YHWH, Elohim de Davidd tu padre: Por cuanto no has andado en los caminos de Yehoshafat tu padre, ni en los caminos de Asa rey de Yehudá,",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "Y vino"
-    },
-    {
-      "surface": "אליו",
-      "english": "a ⟨él⟩"
-    },
-    {
-      "surface": "מכתב",
-      "english": "⟨una⟩ carta"
-    },
-    {
-      "surface": "מאליהו",
-      "english": "de Elías"
-    },
-    {
-      "surface": "הנביא",
-      "english": "⟨el⟩ profeta"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "כה",
-      "english": "Así"
-    },
-    {
-      "surface": "אמר",
-      "english": "ha dicho"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "אביך",
-      "english": "tu padre"
-    },
-    {
-      "surface": "תחת",
-      "english": "Por cuanto"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "הלכת",
-      "english": "has andado"
-    },
-    {
-      "surface": "בדרכי",
-      "english": "en los caminos"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "de Yehoshafat"
-    },
-    {
-      "surface": "אביך",
-      "english": "tu padre"
-    },
-    {
-      "surface": "ובדרכי",
-      "english": "ni en los caminos"
-    },
-    {
-      "surface": "אסא",
-      "english": "de Asa"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:22:55.454625774Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

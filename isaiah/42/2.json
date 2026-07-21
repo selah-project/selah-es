@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 42:2",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 361,
-    "prompt_tokens": 26108,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26469
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:28:34.065481018Z",
   "translation": "No clamará, ni alzará, ni hará oír su voz en la calle.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "יצעק",
-      "english": "clamará"
+      "gloss": "clamará"
     },
     {
       "surface": "ולא",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "ישא",
-      "english": "alzará"
+      "gloss": "alzará"
     },
     {
       "surface": "ולא",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "ישמיע",
-      "english": "hará oír"
+      "gloss": "hará oír"
     },
     {
       "surface": "בחוץ",
-      "english": "en la calle"
+      "gloss": "en la calle"
     },
     {
       "surface": "קולו",
-      "english": "su voz"
+      "gloss": "su voz"
     }
-  ],
-  "timestamp": "2026-07-16T21:28:34.065481018Z",
-  "model": "glm-4.5"
+  ]
 }

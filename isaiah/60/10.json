@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 60:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 652,
-    "prompt_tokens": 26677,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27329
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:32:57.742272310Z",
   "translation": "Y ⟨los⟩ hijos de extranjeros ⟨את⟩ ⟨tus⟩ muros construirán, y sus reyes te servirán: pues en mi ira ⟨te⟩ herí, y en mi beneplácito ⟨te⟩ tuve compasión.",
   "tokens": [
     {
       "surface": "ובנו",
-      "english": "Y ⟨los⟩ ... construirán"
+      "gloss": "Y ⟨los⟩ ... construirán"
     },
     {
       "surface": "בני",
-      "english": "hijos de"
+      "gloss": "hijos de"
     },
     {
       "surface": "נכר",
-      "english": "extranjeros"
+      "gloss": "extranjeros"
     },
     {
       "surface": "חמתיך",
-      "english": "⟨tus⟩ muros",
+      "gloss": "⟨tus⟩ muros",
       "marks": "muros"
     },
     {
       "surface": "ומלכיהם",
-      "english": "y sus reyes"
+      "gloss": "y sus reyes"
     },
     {
       "surface": "ישרתונך",
-      "english": "te servirán"
+      "gloss": "te servirán"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "בקצפי",
-      "english": "en mi ira"
+      "gloss": "en mi ira"
     },
     {
       "surface": "הכיתיך",
-      "english": "⟨te⟩ herí"
+      "gloss": "⟨te⟩ herí"
     },
     {
       "surface": "וברצוני",
-      "english": "y en mi beneplácito"
+      "gloss": "y en mi beneplácito"
     },
     {
       "surface": "רחמתיך",
-      "english": "⟨te⟩ tuve compasión"
+      "gloss": "⟨te⟩ tuve compasión"
     }
-  ],
-  "timestamp": "2026-07-16T21:32:57.742272310Z",
-  "model": "glm-4.5"
+  ]
 }

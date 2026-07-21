@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 50:5",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 582,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26303,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26885
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:53:31.145164932Z",
   "translation": "⟨El⟩ Señor YHWH ⟨me⟩ abrió ⟨la⟩ oreja y yo ⟨no⟩ ⟨fui⟩ rebelde ⟨ni⟩ hacia atrás ⟨me⟩ retiré",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "⟨El⟩ Señor"
+      "gloss": "⟨El⟩ Señor"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "פתח",
-      "english": "abrió"
+      "gloss": "abrió"
     },
     {
       "surface": "לי",
-      "english": "⟨me⟩"
+      "gloss": "⟨me⟩"
     },
     {
       "surface": "אזן",
-      "english": "⟨la⟩ oreja"
+      "gloss": "⟨la⟩ oreja"
     },
     {
       "surface": "ואנכי",
-      "english": "y yo"
+      "gloss": "y yo"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "מריתי",
-      "english": "⟨fui⟩ rebelde"
+      "gloss": "⟨fui⟩ rebelde"
     },
     {
       "surface": "אחור",
-      "english": "hacia atrás"
+      "gloss": "hacia atrás"
     },
     {
       "surface": "לא",
-      "english": "⟨ni⟩"
+      "gloss": "⟨ni⟩"
     },
     {
       "surface": "נסוגתי",
-      "english": "⟨me⟩ retiré"
+      "gloss": "⟨me⟩ retiré"
     }
-  ],
-  "timestamp": "2026-06-10T02:53:31.145164932Z",
-  "model": "glm-4.5"
+  ]
 }

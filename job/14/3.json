@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 14:3",
   "book": "job",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 476,
-    "prompt_tokens": 27431,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27907
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:59:04.801837798Z",
   "translation": "¿Sobre esto ⟨es que⟩ abres ⟨tus⟩ ojos, y ⟨את⟩ mí traes en juicio contigo?",
   "tokens": [
     {
       "surface": "אף",
-      "english": "¿Sobre esto"
+      "gloss": "¿Sobre esto"
     },
     {
       "surface": "על",
-      "english": "⟨es que⟩"
+      "gloss": "⟨es que⟩"
     },
     {
       "surface": "זה",
-      "english": "abres"
+      "gloss": "abres"
     },
     {
       "surface": "פקחת",
-      "english": "⟨tus⟩ ojos"
+      "gloss": "⟨tus⟩ ojos"
     },
     {
       "surface": "עינך",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ואתי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mí"
     },
     {
       "surface": "תביא",
-      "english": "traes"
+      "gloss": "traes"
     },
     {
       "surface": "במשפט",
-      "english": "en juicio"
+      "gloss": "en juicio"
     },
     {
       "surface": "עמך",
-      "english": "contigo"
+      "gloss": "contigo"
     }
-  ],
-  "timestamp": "2026-07-16T21:59:04.801837798Z",
-  "model": "glm-4.5"
+  ]
 }

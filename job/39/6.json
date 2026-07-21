@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 39:6",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26976,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27379
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:15:56.607758909Z",
   "translation": "cuya ⟨casa⟩ he hecho ⟨el⟩ desierto, y ⟨las⟩ moradas de ⟨él⟩ ⟨la⟩ tierra salada",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Cuya"
+      "gloss": "Cuya"
     },
     {
       "surface": "שמתי",
-      "english": "he hecho"
+      "gloss": "he hecho"
     },
     {
       "surface": "ערבה",
-      "english": "⟨el⟩ desierto"
+      "gloss": "⟨el⟩ desierto"
     },
     {
       "surface": "ביתו",
-      "english": "⟨casa⟩"
+      "gloss": "⟨casa⟩"
     },
     {
       "surface": "ומשכנותיו",
-      "english": "y ⟨las⟩ moradas de ⟨él⟩"
+      "gloss": "y ⟨las⟩ moradas de ⟨él⟩"
     },
     {
       "surface": "מלחה",
-      "english": "⟨la⟩ tierra salada"
+      "gloss": "⟨la⟩ tierra salada"
     }
-  ],
-  "timestamp": "2026-06-10T02:15:56.607758909Z",
-  "model": "glm-4.5"
+  ]
 }

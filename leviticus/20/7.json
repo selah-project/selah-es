@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "leviticus 20:7",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24441,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 24817
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:36:12.779526380Z",
   "translation": "y os ⟨habéis⟩ santificado ⟨y⟩ seréis santos, porque ⟨yo⟩ ⟨soy⟩ YHWH vuestro Elohim.",
   "tokens": [
     {
       "surface": "והתקדשתם",
-      "english": "Y os ⟨habéis⟩ santificado"
+      "gloss": "Y os ⟨habéis⟩ santificado"
     },
     {
       "surface": "והייתם",
-      "english": "⟨y⟩ seréis"
+      "gloss": "⟨y⟩ seréis"
     },
     {
       "surface": "קדשים",
-      "english": "santos"
+      "gloss": "santos"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אני",
-      "english": "⟨yo⟩"
+      "gloss": "⟨yo⟩"
     },
     {
       "surface": "יהוה",
-      "english": "⟨soy⟩ YHWH"
+      "gloss": "⟨soy⟩ YHWH"
     },
     {
       "surface": "אלהיכם",
-      "english": "vuestro Elohim"
+      "gloss": "vuestro Elohim"
     }
-  ],
-  "timestamp": "2026-06-10T04:36:12.779526380Z",
-  "model": "glm-4.5"
+  ]
 }

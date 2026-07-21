@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 37:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69958,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70322
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:45.632206249Z",
   "translation": "Encomienda a YHWH tu camino ⟨y⟩ confía en ⟨Él⟩ ⟨y⟩ Él lo hará",
   "tokens": [
     {
       "surface": "גול",
-      "english": "Encomienda"
+      "gloss": "Encomienda"
     },
     {
       "surface": "על",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "דרכך",
-      "english": "tu camino"
+      "gloss": "tu camino"
     },
     {
       "surface": "ובטח",
-      "english": "⟨y⟩ confía"
+      "gloss": "⟨y⟩ confía"
     },
     {
       "surface": "עליו",
-      "english": "en ⟨Él⟩"
+      "gloss": "en ⟨Él⟩"
     },
     {
       "surface": "והוא",
-      "english": "⟨y⟩ Él"
+      "gloss": "⟨y⟩ Él"
     },
     {
       "surface": "יעשה",
-      "english": "lo hará"
+      "gloss": "lo hará"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:45.632206249Z",
-  "model": "glm-4.5"
+  ]
 }

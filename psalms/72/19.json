@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 72:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 416,
-    "prompt_tokens": 70454,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70870
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:25.418034659Z",
   "translation": "Y bendito ⟨sea⟩ el nombre de su gloria para siempre; y llénese ⟨את⟩ toda la tierra de su gloria; amén y amén.",
   "tokens": [
     {
       "surface": "וברוך",
-      "english": "Y bendito ⟨sea⟩"
+      "gloss": "Y bendito ⟨sea⟩"
     },
     {
       "surface": "שם",
-      "english": "el nombre"
+      "gloss": "el nombre"
     },
     {
       "surface": "כבודו",
-      "english": "de su gloria"
+      "gloss": "de su gloria"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "וימלא",
-      "english": "y llénese"
+      "gloss": "y llénese"
     },
     {
       "surface": "כבודו",
-      "english": "de su gloria"
+      "gloss": "de su gloria"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda la tierra"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "אמן",
-      "english": "amén"
+      "gloss": "amén"
     },
     {
       "surface": "ואמן",
-      "english": "y amén"
+      "gloss": "y amén"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:25.418034659Z",
-  "model": "glm-4.5"
+  ]
 }

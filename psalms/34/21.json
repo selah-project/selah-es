@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 34:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69862,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70394
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:13:25.382690442Z",
   "translation": "⟨El que⟩ guarda ⟨todos⟩ sus huesos: ⟨ninguno⟩ de ellos ⟨será⟩ quebrado",
   "tokens": [
     {
       "surface": "שמר",
-      "english": "⟨El que⟩ guarda"
+      "gloss": "⟨El que⟩ guarda"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "עצמותיו",
-      "english": "sus huesos"
+      "gloss": "sus huesos"
     },
     {
       "surface": "אחת",
-      "english": "⟨ninguno⟩"
+      "gloss": "⟨ninguno⟩"
     },
     {
       "surface": "מהנה",
-      "english": "de ellos"
+      "gloss": "de ellos"
     },
     {
       "surface": "לא",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "נשברה",
-      "english": "quebrado"
+      "gloss": "quebrado"
     }
-  ],
-  "timestamp": "2026-06-09T23:13:25.382690442Z",
-  "model": "glm-4.5"
+  ]
 }

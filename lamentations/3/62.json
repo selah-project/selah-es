@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 62,
   "ref": "lamentations 3:62",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38958,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39328
-  },
+  "verse": 62,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:42:55.712986681Z",
   "translation": "Los labios de mis adversarios ⟨se⟩ alzaron contra mí, y ⟨su⟩ murmullo ⟨está⟩ contra mí todo el día.",
   "tokens": [
     {
       "surface": "שפתי",
-      "english": "Los labios"
+      "gloss": "Los labios"
     },
     {
       "surface": "קמי",
-      "english": "de mis adversarios ⟨se⟩ alzaron",
+      "gloss": "de mis adversarios ⟨se⟩ alzaron",
       "marks": "Los labios"
     },
     {
       "surface": "והגיונם",
-      "english": "y ⟨su⟩ murmullo"
+      "gloss": "y ⟨su⟩ murmullo"
     },
     {
       "surface": "עלי",
-      "english": "⟨está⟩ contra mí"
+      "gloss": "⟨está⟩ contra mí"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "היום",
-      "english": "el día"
+      "gloss": "el día"
     }
-  ],
-  "timestamp": "2026-06-09T22:42:55.712986681Z",
-  "model": "glm-4.5"
+  ]
 }

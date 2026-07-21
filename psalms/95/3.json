@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 95:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 95,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70003,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70407
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:47:13.602805172Z",
   "translation": "Porque El grande ⟨es⟩ YHWH y un gran rey ⟨es⟩ sobre ⟨todos⟩ ⟨los⟩ Elohim",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ומלך",
-      "english": "y un gran rey"
+      "gloss": "y un gran rey"
     },
     {
       "surface": "גדול",
-      "english": "grande"
+      "gloss": "grande"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "אלהים",
-      "english": "⟨los⟩ Elohim"
+      "gloss": "⟨los⟩ Elohim"
     }
-  ],
-  "timestamp": "2026-06-09T23:47:13.602805172Z",
-  "model": "glm-4.5"
+  ]
 }

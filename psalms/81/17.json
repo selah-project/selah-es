@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 81:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69656,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70189
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:39:48.191571804Z",
   "translation": "⟨Y⟩ le haría comer de ⟨lo⟩ más selecto ⟨del⟩ trigo y con miel ⟨de⟩ ⟨la⟩ roca ⟨te⟩ saciaría",
   "tokens": [
     {
       "surface": "ויאכילהו",
-      "english": "⟨Y⟩ le haría comer"
+      "gloss": "⟨Y⟩ le haría comer"
     },
     {
       "surface": "מחלב",
-      "english": "de ⟨lo⟩ más selecto"
+      "gloss": "de ⟨lo⟩ más selecto"
     },
     {
       "surface": "חטה",
-      "english": "⟨del⟩ trigo"
+      "gloss": "⟨del⟩ trigo"
     },
     {
       "surface": "ומצור",
-      "english": "y con miel ⟨de⟩ ⟨la⟩ roca"
+      "gloss": "y con miel ⟨de⟩ ⟨la⟩ roca"
     },
     {
       "surface": "דבש",
-      "english": "miel"
+      "gloss": "miel"
     },
     {
       "surface": "אשביעך",
-      "english": "⟨te⟩ saciaría"
+      "gloss": "⟨te⟩ saciaría"
     }
-  ],
-  "timestamp": "2026-06-09T23:39:48.191571804Z",
-  "model": "glm-4.5"
+  ]
 }

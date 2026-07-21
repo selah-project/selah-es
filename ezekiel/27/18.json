@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "ezekiel 27:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 27,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:36:45.577981009Z",
+  "translation": "Damesek ⟨era⟩ tu comerciante ⟨por⟩ la abundancia de tus productos, ⟨por⟩ la abundancia de toda riqueza, ⟨en⟩ el vino de Jelbón y lana blanca.",
+  "tokens": [
+    {
+      "surface": "דמשק",
+      "gloss": "Damesek"
+    },
+    {
+      "surface": "סחרתך",
+      "gloss": "tu comerciante"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "la abundancia de tus productos"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "הון",
+      "gloss": "riqueza"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "חלבון",
+      "gloss": "Jelbón"
+    },
+    {
+      "surface": "וצמר",
+      "gloss": "y lana"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "blanca"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Damasco",
@@ -13,68 +64,6 @@
       "hebrew": "דמשק"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17311,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17841
-  },
-  "translation": "Damesek ⟨era⟩ tu comerciante ⟨por⟩ la abundancia de tus productos, ⟨por⟩ la abundancia de toda riqueza, ⟨en⟩ el vino de Jelbón y lana blanca.",
-  "tokens": [
-    {
-      "surface": "דמשק",
-      "english": "Damesek"
-    },
-    {
-      "surface": "סחרתך",
-      "english": "tu comerciante"
-    },
-    {
-      "surface": "ברב",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "מעשיך",
-      "english": "la abundancia de tus productos"
-    },
-    {
-      "surface": "מרב",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "הון",
-      "english": "riqueza"
-    },
-    {
-      "surface": "ביין",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "חלבון",
-      "english": "Jelbón"
-    },
-    {
-      "surface": "וצמר",
-      "english": "y lana"
-    },
-    {
-      "surface": "צחר",
-      "english": "blanca"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:36:45.577981009Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

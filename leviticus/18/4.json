@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "leviticus 18:4",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 550,
-    "prompt_tokens": 25061,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25611
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:41:42.785677283Z",
   "translation": "Mis juicios ⟨את⟩ haréis, y mis estatutos ⟨את⟩ guardaréis, para andar ⟨en⟩ ellos: yo ⟨soy⟩ YHWH vuestro Elohim.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Mis juicios"
     },
     {
       "surface": "משפטי",
-      "english": "Mis juicios"
+      "gloss": "Mis juicios"
     },
     {
       "surface": "תעשו",
-      "english": "haréis"
+      "gloss": "haréis"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mis estatutos"
     },
     {
       "surface": "חקתי",
-      "english": "mis estatutos"
+      "gloss": "mis estatutos"
     },
     {
       "surface": "תשמרו",
-      "english": "guardaréis"
+      "gloss": "guardaréis"
     },
     {
       "surface": "ללכת",
-      "english": "para andar"
+      "gloss": "para andar"
     },
     {
       "surface": "בהם",
-      "english": "⟨en⟩ ellos"
+      "gloss": "⟨en⟩ ellos"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיכם",
-      "english": "vuestro Elohim"
+      "gloss": "vuestro Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T22:41:42.785677283Z",
-  "model": "glm-4.5"
+  ]
 }

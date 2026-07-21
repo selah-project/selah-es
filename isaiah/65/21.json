@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 65:21",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26013,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26289
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:01:07.073888627Z",
   "translation": "Y construirán casas y habitarán en ellas y plantarán viñedos y comerán ⟨el⟩ fruto de ellos",
   "tokens": [
     {
       "surface": "ובנו",
-      "english": "Y construirán"
+      "gloss": "Y construirán"
     },
     {
       "surface": "בתים",
-      "english": "casas"
+      "gloss": "casas"
     },
     {
       "surface": "וישבו",
-      "english": "y habitarán"
+      "gloss": "y habitarán"
     },
     {
       "surface": "ונטעו",
-      "english": "y plantarán"
+      "gloss": "y plantarán"
     },
     {
       "surface": "כרמים",
-      "english": "viñedos"
+      "gloss": "viñedos"
     },
     {
       "surface": "ואכלו",
-      "english": "y comerán"
+      "gloss": "y comerán"
     },
     {
       "surface": "פרים",
-      "english": "⟨el⟩ fruto de ellos"
+      "gloss": "⟨el⟩ fruto de ellos"
     }
-  ],
-  "timestamp": "2026-06-10T03:01:07.073888627Z",
-  "model": "glm-4.5"
+  ]
 }

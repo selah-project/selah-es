@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 5:10",
   "book": "job",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27198,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27647
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:38.517823719Z",
   "translation": "Quien da la lluvia sobre la faz ⟨de⟩ ⟨la⟩ tierra y ⟨que⟩ envía aguas sobre ⟨la⟩ superficie ⟨de⟩ las afueras",
   "tokens": [
     {
       "surface": "הנתן",
-      "english": "Quien da"
+      "gloss": "Quien da"
     },
     {
       "surface": "מטר",
-      "english": "la lluvia"
+      "gloss": "la lluvia"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פני",
-      "english": "la faz"
+      "gloss": "la faz"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra",
+      "gloss": "⟨la⟩ tierra",
       "marks": "la tierra"
     },
     {
       "surface": "ושלח",
-      "english": "y ⟨que⟩ envía"
+      "gloss": "y ⟨que⟩ envía"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פני",
-      "english": "⟨la⟩ superficie",
+      "gloss": "⟨la⟩ superficie",
       "marks": "de las afueras"
     },
     {
       "surface": "חוצות",
-      "english": "⟨de⟩ las afueras"
+      "gloss": "⟨de⟩ las afueras"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:38.517823719Z",
-  "model": "glm-4.5"
+  ]
 }

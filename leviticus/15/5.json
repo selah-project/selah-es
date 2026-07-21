@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 15:5",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 523,
-    "prompt_tokens": 24881,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25404
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:40:26.855167992Z",
   "translation": "Y quienquiera ⟨que⟩ toque ⟨את⟩ su cama, lavará sus vestidos, y ⟨se⟩ bañará en agua, y ⟨estará⟩ impuro hasta ⟨el⟩ atardecer.",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "Y quienquiera"
+      "gloss": "Y quienquiera"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "יגע",
-      "english": "toque"
+      "gloss": "toque"
     },
     {
       "surface": "במשכבו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su cama"
     },
     {
       "surface": "יכבס",
-      "english": "lavará"
+      "gloss": "lavará"
     },
     {
       "surface": "בגדיו",
-      "english": "sus vestidos"
+      "gloss": "sus vestidos"
     },
     {
       "surface": "ורחץ",
-      "english": "y ⟨se⟩ bañará"
+      "gloss": "y ⟨se⟩ bañará"
     },
     {
       "surface": "במים",
-      "english": "en agua"
+      "gloss": "en agua"
     },
     {
       "surface": "וטמא",
-      "english": "y ⟨estará⟩ impuro"
+      "gloss": "y ⟨estará⟩ impuro"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "הערב",
-      "english": "⟨el⟩ atardecer"
+      "gloss": "⟨el⟩ atardecer"
     }
-  ],
-  "timestamp": "2026-07-16T22:40:26.855167992Z",
-  "model": "glm-4.5"
+  ]
 }

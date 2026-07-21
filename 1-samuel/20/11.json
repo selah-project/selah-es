@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-samuel 20:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:04:34.436450068Z",
+  "translation": "Yehonatán dijo a Davidd: ⟨ven⟩ y vayamos ⟨al⟩ campo. Y salieron ⟨los⟩ dos ⟨al⟩ campo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dijo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ven"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "y vayamos"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "al campo"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "Y salieron"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "los dos"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "al campo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,64 +60,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16289,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16648
-  },
-  "translation": "Yehonatán dijo a Davidd: ⟨ven⟩ y vayamos ⟨al⟩ campo. Y salieron ⟨los⟩ dos ⟨al⟩ campo.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Dijo"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yehonatán"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לכה",
-      "english": "ven"
-    },
-    {
-      "surface": "ונצא",
-      "english": "y vayamos"
-    },
-    {
-      "surface": "השדה",
-      "english": "al campo"
-    },
-    {
-      "surface": "ויצאו",
-      "english": "Y salieron"
-    },
-    {
-      "surface": "שניהם",
-      "english": "los dos"
-    },
-    {
-      "surface": "השדה",
-      "english": "al campo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:04:34.436450068Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

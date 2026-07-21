@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "joshua 9:14",
   "book": "joshua",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 521,
-    "prompt_tokens": 23522,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 24043
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:11:28.749707199Z",
   "translation": "Y los hombres tomaron de su provision, y ⟨את⟩ el boca de YHWH no consultaron",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "Y los hombres tomaron"
+      "gloss": "Y los hombres tomaron"
     },
     {
       "surface": "האנשים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מצידם",
-      "english": "de su provision"
+      "gloss": "de su provision"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el boca de YHWH"
     },
     {
       "surface": "פי",
-      "english": "el boca"
+      "gloss": "el boca"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "שאלו",
-      "english": "consultaron"
+      "gloss": "consultaron"
     }
-  ],
-  "timestamp": "2026-07-16T22:11:28.749707199Z",
-  "model": "glm-4.5"
+  ]
 }

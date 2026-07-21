@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 8:18",
   "book": "job",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 427,
-    "prompt_tokens": 27130,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27557
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:57:59.497754497Z",
   "translation": "Si ⟨él⟩ es destruido ⟨את⟩ de su lugar, entonces ⟨este⟩ lo negará, diciendo: No te he visto.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "יבלענו",
-      "english": "⟨él⟩ es destruido"
+      "gloss": "⟨él⟩ es destruido"
     },
     {
       "surface": "ממקומו",
-      "english": "⟨את⟩ de su lugar",
+      "gloss": "⟨את⟩ de su lugar",
       "marks": "su lugar"
     },
     {
       "surface": "וכחש",
-      "english": "entonces ⟨este⟩ lo negará"
+      "gloss": "entonces ⟨este⟩ lo negará"
     },
     {
       "surface": "בו",
-      "english": "diciendo:"
+      "gloss": "diciendo:"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "ראיתיך",
-      "english": "te he visto."
+      "gloss": "te he visto."
     }
-  ],
-  "timestamp": "2026-07-16T21:57:59.497754497Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "proverbs 16:33",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 468,
-    "prompt_tokens": 60010,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60478
-  },
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:20:44.563309944Z",
   "translation": "En el seno ⟨es⟩ lanzada ⟨את⟩ la suerte, pero de YHWH ⟨es⟩ todo su juicio",
   "tokens": [
     {
       "surface": "בחיק",
-      "english": "en el seno"
+      "gloss": "en el seno"
     },
     {
       "surface": "יוטל",
-      "english": "⟨es⟩ lanzada"
+      "gloss": "⟨es⟩ lanzada"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la suerte"
     },
     {
       "surface": "הגורל",
-      "english": "la suerte"
+      "gloss": "la suerte"
     },
     {
       "surface": "ומיהוה",
-      "english": "pero de YHWH"
+      "gloss": "pero de YHWH"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "משפטו",
-      "english": "su juicio"
+      "gloss": "su juicio"
     }
-  ],
-  "timestamp": "2026-07-16T23:20:44.563309944Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 38:16",
   "book": "job",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 703,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27061,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27764
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:15:39.312681706Z",
   "translation": "¿⟨has⟩ entrado hasta ⟨los⟩ manantiales ⟨del⟩ mar ⟨o⟩ ⟨has⟩ caminado ⟨en⟩ ⟨la⟩ investigación ⟨del⟩ abismo?",
   "tokens": [
     {
       "surface": "הבאת",
-      "english": "⟨Has⟩ entrado"
+      "gloss": "⟨Has⟩ entrado"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "נבכי",
-      "english": "⟨los⟩ manantiales"
+      "gloss": "⟨los⟩ manantiales"
     },
     {
       "surface": "ים",
-      "english": "⟨del⟩ mar",
+      "gloss": "⟨del⟩ mar",
       "marks": "manantiales ⟨del⟩ mar"
     },
     {
       "surface": "ובחקר",
-      "english": "⟨o⟩ ⟨has⟩ caminado ⟨en⟩ ⟨la⟩ investigación"
+      "gloss": "⟨o⟩ ⟨has⟩ caminado ⟨en⟩ ⟨la⟩ investigación"
     },
     {
       "surface": "תהום",
-      "english": "⟨del⟩ abismo"
+      "gloss": "⟨del⟩ abismo"
     },
     {
       "surface": "התהלכת",
-      "english": "⟨has⟩ caminado"
+      "gloss": "⟨has⟩ caminado"
     }
-  ],
-  "timestamp": "2026-06-10T02:15:39.312681706Z",
-  "model": "glm-4.5"
+  ]
 }

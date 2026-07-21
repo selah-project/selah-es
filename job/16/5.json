@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 16:5",
   "book": "job",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 567,
-    "prompt_tokens": 27095,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27662
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:58:43.119820922Z",
   "translation": "Yo podría fortaleceros con ⟨el⟩ de mi boca, y ⟨el⟩ movimiento de mis labios aliviaría ⟨vuestra⟩ pena.",
   "tokens": [
     {
       "surface": "אאמצכם",
-      "english": "Yo podría fortaleceros"
+      "gloss": "Yo podría fortaleceros"
     },
     {
       "surface": "במו",
-      "english": "con ⟨el⟩ de"
+      "gloss": "con ⟨el⟩ de"
     },
     {
       "surface": "פי",
-      "english": "mi boca"
+      "gloss": "mi boca"
     },
     {
       "surface": "וניד",
-      "english": "y ⟨el⟩ movimiento"
+      "gloss": "y ⟨el⟩ movimiento"
     },
     {
       "surface": "שפתי",
-      "english": "de mis labios"
+      "gloss": "de mis labios"
     },
     {
       "surface": "יחשך",
-      "english": "aliviaría ⟨vuestra⟩ pena"
+      "gloss": "aliviaría ⟨vuestra⟩ pena"
     }
-  ],
-  "timestamp": "2026-07-16T21:58:43.119820922Z",
-  "model": "glm-4.5"
+  ]
 }

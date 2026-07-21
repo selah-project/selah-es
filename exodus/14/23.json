@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "exodus 14:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 14,
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:41:24.609284190Z",
+  "translation": "Y los egipcios persiguieron y entraron tras ellos ⟨con⟩ todo ⟨el⟩ caballo de Paró, ⟨con⟩ su carro y ⟨con⟩ sus jinetes ⟨hacia⟩ ⟨el⟩ medio del mar.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "Y persiguieron"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "los egipcios"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "y entraron"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "tras ellos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨con⟩ todo"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "⟨el⟩ caballo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Paró"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "⟨con⟩ su carro"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "y ⟨con⟩ sus jinetes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨hacia⟩"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "⟨el⟩ medio"
+    },
+    {
+      "surface": "הים",
+      "gloss": "del mar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -13,72 +68,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17010,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17518
-  },
-  "translation": "Y los egipcios persiguieron y entraron tras ellos ⟨con⟩ todo ⟨el⟩ caballo de Paró, ⟨con⟩ su carro y ⟨con⟩ sus jinetes ⟨hacia⟩ ⟨el⟩ medio del mar.",
-  "tokens": [
-    {
-      "surface": "וירדפו",
-      "english": "Y persiguieron"
-    },
-    {
-      "surface": "מצרים",
-      "english": "los egipcios"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "y entraron"
-    },
-    {
-      "surface": "אחריהם",
-      "english": "tras ellos"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨con⟩ todo"
-    },
-    {
-      "surface": "סוס",
-      "english": "⟨el⟩ caballo"
-    },
-    {
-      "surface": "פרעה",
-      "english": "de Paró"
-    },
-    {
-      "surface": "רכבו",
-      "english": "⟨con⟩ su carro"
-    },
-    {
-      "surface": "ופרשיו",
-      "english": "y ⟨con⟩ sus jinetes"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨hacia⟩"
-    },
-    {
-      "surface": "תוך",
-      "english": "⟨el⟩ medio"
-    },
-    {
-      "surface": "הים",
-      "english": "del mar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:41:24.609284190Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

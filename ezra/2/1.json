@@ -1,9 +1,101 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "ezra 2:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 2,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:11:33.102694615Z",
+  "translation": "Y estos ⟨son⟩ los hijos de la provincia que subieron del cautiverio, que Nabucodonosor, rey de Bavel, había llevado cautivo a Bavel; y volvieron a Jerusalén y a Judá, cada uno a su ciudad",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Y estos",
+      "notes": "Demostrativo + conectivo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos",
+      "notes": "Literalmente 'hijos', usado colectivamente"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "de la provincia",
+      "notes": "Referencia a la provincia babilónica"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "que subieron",
+      "notes": "Participio activo - los que estaban ascendiendo"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "del cautiverio",
+      "notes": "Preposición + sustantivo"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "del exilio",
+      "notes": "Sinónimo de cautiverio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "notes": "Pronombre relativo"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "había llevado cautivo",
+      "notes": "Verbo hiphil perfecto - causó exiliar"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "Nabucodonosor",
+      "notes": "Nombre propio transliterado"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey",
+      "notes": "Título real"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel",
+      "notes": "Nombre del imperio"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "a Babel",
+      "notes": "Preposición + nombre del lugar"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "y volvieron",
+      "notes": "Verbo qal perfecto con vav consecutivo"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "a Jerusalén",
+      "notes": "Preposición + nombre de la ciudad santa"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "y a Judá",
+      "notes": "Preposición + nombre de la provincia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada uno",
+      "notes": "Individuo en sentido distributivo"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "a su ciudad",
+      "notes": "Preposición + posesivo + sustantivo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,109 +105,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 788,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45518,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 46306
-  },
-  "translation": "Y estos ⟨son⟩ los hijos de la provincia que subieron del cautiverio, que Nabucodonosor, rey de Bavel, había llevado cautivo a Bavel; y volvieron a Jerusalén y a Judá, cada uno a su ciudad",
-  "tokens": [
-    {
-      "surface": "ואלה",
-      "english": "Y estos",
-      "notes": "Demostrativo + conectivo"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos",
-      "notes": "Literalmente 'hijos', usado colectivamente"
-    },
-    {
-      "surface": "המדינה",
-      "english": "de la provincia",
-      "notes": "Referencia a la provincia babilónica"
-    },
-    {
-      "surface": "העלים",
-      "english": "que subieron",
-      "notes": "Participio activo - los que estaban ascendiendo"
-    },
-    {
-      "surface": "משבי",
-      "english": "del cautiverio",
-      "notes": "Preposición + sustantivo"
-    },
-    {
-      "surface": "הגולה",
-      "english": "del exilio",
-      "notes": "Sinónimo de cautiverio"
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "notes": "Pronombre relativo"
-    },
-    {
-      "surface": "הגלה",
-      "english": "había llevado cautivo",
-      "notes": "Verbo hiphil perfecto - causó exiliar"
-    },
-    {
-      "surface": "נבוכדנצור",
-      "english": "Nabucodonosor",
-      "notes": "Nombre propio transliterado"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey",
-      "notes": "Título real"
-    },
-    {
-      "surface": "בבל",
-      "english": "de Bavel",
-      "notes": "Nombre del imperio"
-    },
-    {
-      "surface": "לבבל",
-      "english": "a Babel",
-      "notes": "Preposición + nombre del lugar"
-    },
-    {
-      "surface": "וישובו",
-      "english": "y volvieron",
-      "notes": "Verbo qal perfecto con vav consecutivo"
-    },
-    {
-      "surface": "לירושלם",
-      "english": "a Jerusalén",
-      "notes": "Preposición + nombre de la ciudad santa"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "y a Judá",
-      "notes": "Preposición + nombre de la provincia"
-    },
-    {
-      "surface": "איש",
-      "english": "cada uno",
-      "notes": "Individuo en sentido distributivo"
-    },
-    {
-      "surface": "לעירו",
-      "english": "a su ciudad",
-      "notes": "Preposición + posesivo + sustantivo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:11:33.102694615Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

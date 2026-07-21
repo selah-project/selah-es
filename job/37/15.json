@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 37:15",
   "book": "job",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27040,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27455
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:57.923882545Z",
   "translation": "¿⟨sabes⟩ ⟨cuando⟩ ⟨Elohim⟩ ⟨puso⟩ ⟨sobre⟩ ⟨ellos⟩, y ⟨hizo brillar⟩ ⟨la luz⟩ ⟨de su⟩ ⟨nube⟩?",
   "tokens": [
     {
       "surface": "התדע",
-      "english": "¿⟨Sabes⟩"
+      "gloss": "¿⟨Sabes⟩"
     },
     {
       "surface": "בשום",
-      "english": "⟨cuando⟩"
+      "gloss": "⟨cuando⟩"
     },
     {
       "surface": "אלוה",
-      "english": "⟨Elohim⟩"
+      "gloss": "⟨Elohim⟩"
     },
     {
       "surface": "עליהם",
-      "english": "⟨puso⟩ ⟨sobre⟩ ⟨ellos⟩"
+      "gloss": "⟨puso⟩ ⟨sobre⟩ ⟨ellos⟩"
     },
     {
       "surface": "והופיע",
-      "english": "y ⟨hizo brillar⟩"
+      "gloss": "y ⟨hizo brillar⟩"
     },
     {
       "surface": "אור",
-      "english": "⟨la luz⟩"
+      "gloss": "⟨la luz⟩"
     },
     {
       "surface": "עננו",
-      "english": "⟨de su⟩ ⟨nube⟩"
+      "gloss": "⟨de su⟩ ⟨nube⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:57.923882545Z",
-  "model": "glm-4.5"
+  ]
 }

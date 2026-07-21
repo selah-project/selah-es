@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-kings 11:12",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 69722,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 70157
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:22:54.244456761Z",
   "translation": "Solo, ⟨en⟩ tus días, no lo haré, por causa de David tu padre, de la mano de tu hijo ⟨את⟩ lo arrancaré",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Solo"
+      "gloss": "Solo"
     },
     {
       "surface": "בימיך",
-      "english": "⟨en⟩ tus días"
+      "gloss": "⟨en⟩ tus días"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אעשנה",
-      "english": "lo haré"
+      "gloss": "lo haré"
     },
     {
       "surface": "למען",
-      "english": "por causa de"
+      "gloss": "por causa de"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "אביך",
-      "english": "tu padre"
+      "gloss": "tu padre"
     },
     {
       "surface": "מיד",
-      "english": "de la mano de"
+      "gloss": "de la mano de"
     },
     {
       "surface": "בנך",
-      "english": "tu hijo"
+      "gloss": "tu hijo"
     },
     {
       "surface": "אקרענה",
-      "english": "⟨את⟩ lo arrancaré",
+      "gloss": "⟨את⟩ lo arrancaré",
       "marks": "el reino (del contexto)"
     }
-  ],
-  "timestamp": "2026-07-16T18:22:54.244456761Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 1:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 1,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:09:36.484205588Z",
+  "translation": "Y la tierra estaba ⟨era⟩ desolada y vacía, y ⟨había⟩ tinieblas sobre la faz ⟨superficie⟩ dTehom, y el Espíritu ⟨aliento⟩ de Elohim ⟨Elohim⟩ se movía ⟨cuidaba⟩ sobre la faz ⟨superficie⟩ de las aguas.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Y la tierra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "estaba ⟨era⟩"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "desolada"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "y vacía"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "y ⟨había⟩ tinieblas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faz ⟨superficie⟩"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "dTehom"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "y el Espíritu ⟨aliento⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "de Elohim ⟨Elohim⟩"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "se movía ⟨cuidaba⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faz ⟨superficie⟩"
+    },
+    {
+      "surface": "המים",
+      "gloss": "de las aguas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el abismo",
@@ -20,80 +83,6 @@
       "hebrew": "אלהים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 715,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21555,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 22270
-  },
-  "translation": "Y la tierra estaba ⟨era⟩ desolada y vacía, y ⟨había⟩ tinieblas sobre la faz ⟨superficie⟩ dTehom, y el Espíritu ⟨aliento⟩ de Elohim ⟨Elohim⟩ se movía ⟨cuidaba⟩ sobre la faz ⟨superficie⟩ de las aguas.",
-  "tokens": [
-    {
-      "surface": "והארץ",
-      "english": "Y la tierra"
-    },
-    {
-      "surface": "היתה",
-      "english": "estaba ⟨era⟩"
-    },
-    {
-      "surface": "תהו",
-      "english": "desolada"
-    },
-    {
-      "surface": "ובהו",
-      "english": "y vacía"
-    },
-    {
-      "surface": "וחשך",
-      "english": "y ⟨había⟩ tinieblas"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "פני",
-      "english": "la faz ⟨superficie⟩"
-    },
-    {
-      "surface": "תהום",
-      "english": "dTehom"
-    },
-    {
-      "surface": "ורוח",
-      "english": "y el Espíritu ⟨aliento⟩"
-    },
-    {
-      "surface": "אלהים",
-      "english": "de Elohim ⟨Elohim⟩"
-    },
-    {
-      "surface": "מרחפת",
-      "english": "se movía ⟨cuidaba⟩"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "פני",
-      "english": "la faz ⟨superficie⟩"
-    },
-    {
-      "surface": "המים",
-      "english": "de las aguas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:09:36.484205588Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

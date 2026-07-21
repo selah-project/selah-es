@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-kings 10:1",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 510,
-    "prompt_tokens": 69838,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 70348
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:22:01.163940732Z",
   "translation": "Y la reina de Sheba ⟨oyó⟩ ⟨el⟩ fama de Shlomó ⟨en⟩ nombre de YHWH, y vino para probarlo con enigmas",
   "tokens": [
     {
       "surface": "ומלכת",
-      "english": "Y la reina"
+      "gloss": "Y la reina"
     },
     {
       "surface": "שבא",
-      "english": "de Sheba"
+      "gloss": "de Sheba"
     },
     {
       "surface": "שמעת",
-      "english": "⟨oyó⟩"
+      "gloss": "⟨oyó⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el fama de Shlomó"
     },
     {
       "surface": "שמע",
-      "english": "fama"
+      "gloss": "fama"
     },
     {
       "surface": "שלמה",
-      "english": "de Shlomó"
+      "gloss": "de Shlomó"
     },
     {
       "surface": "לשם",
-      "english": "⟨en⟩ nombre"
+      "gloss": "⟨en⟩ nombre"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ותבא",
-      "english": "y vino"
+      "gloss": "y vino"
     },
     {
       "surface": "לנסתו",
-      "english": "para probarlo"
+      "gloss": "para probarlo"
     },
     {
       "surface": "בחידות",
-      "english": "con enigmas"
+      "gloss": "con enigmas"
     }
-  ],
-  "timestamp": "2026-07-16T18:22:01.163940732Z",
-  "model": "glm-4.5"
+  ]
 }

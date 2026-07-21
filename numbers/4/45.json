@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "numbers 4:45",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 4,
+  "verse": 45,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:14:51.752107614Z",
+  "translation": "Estos ⟨son⟩ los registros de ⟨las⟩ familias de ⟨los⟩ hijos de Merari, los cuales Moshé y Aharon contaron ⟨por⟩ ⟨el⟩ mandato de ⟨YHWH⟩ ⟨por⟩ mano de Moshé.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estos"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "los registros de"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨las⟩ familias"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de ⟨los⟩ hijos"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "de Merari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "los cuales"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "contaron"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "y Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨el⟩ mandato de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨YHWH⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨por⟩ mano de"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moshe",
@@ -20,80 +83,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18228,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 18661
-  },
-  "translation": "Estos ⟨son⟩ los registros de ⟨las⟩ familias de ⟨los⟩ hijos de Merari, los cuales Moshé y Aharon contaron ⟨por⟩ ⟨el⟩ mandato de ⟨YHWH⟩ ⟨por⟩ mano de Moshé.",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estos"
-    },
-    {
-      "surface": "פקודי",
-      "english": "los registros de"
-    },
-    {
-      "surface": "משפחת",
-      "english": "⟨las⟩ familias"
-    },
-    {
-      "surface": "בני",
-      "english": "de ⟨los⟩ hijos"
-    },
-    {
-      "surface": "מררי",
-      "english": "de Merari"
-    },
-    {
-      "surface": "אשר",
-      "english": "los cuales"
-    },
-    {
-      "surface": "פקד",
-      "english": "contaron"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "ואהרן",
-      "english": "y Aharon"
-    },
-    {
-      "surface": "על",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "פי",
-      "english": "⟨el⟩ mandato de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨YHWH⟩"
-    },
-    {
-      "surface": "ביד",
-      "english": "⟨por⟩ mano de"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:14:51.752107614Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

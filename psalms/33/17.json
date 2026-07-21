@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 33:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 970,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69885,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70855
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:13:10.688246602Z",
   "translation": "Una falsedad ⟨es⟩ ⟨את⟩ el caballo para ⟨la⟩ salvación, y ⟨por⟩ ⟨el⟩ ⟨la⟩ abundancia de su fuerza no escapará.",
   "tokens": [
     {
       "surface": "שקר",
-      "english": "Una falsedad",
+      "gloss": "Una falsedad",
       "gv": 600,
       "lemma": 8267,
       "freq": 87,
@@ -28,7 +19,7 @@
     },
     {
       "surface": "הסוס",
-      "english": "⟨את⟩ el caballo",
+      "gloss": "⟨את⟩ el caballo",
       "gv": 131,
       "lemma": "d\/5483 b",
       "freq": 11,
@@ -36,7 +27,7 @@
     },
     {
       "surface": "לתשועה",
-      "english": "para ⟨la⟩ salvación",
+      "gloss": "para ⟨la⟩ salvación",
       "gv": 811,
       "lemma": "l\/8668",
       "freq": 2,
@@ -44,7 +35,7 @@
     },
     {
       "surface": "וברב",
-      "english": "y ⟨por⟩ ⟨el⟩ ⟨la⟩",
+      "gloss": "y ⟨por⟩ ⟨el⟩ ⟨la⟩",
       "gv": 210,
       "lemma": "c\/b\/7230",
       "freq": 6,
@@ -52,7 +43,7 @@
     },
     {
       "surface": "חילו",
-      "english": "abundancia de su fuerza",
+      "gloss": "abundancia de su fuerza",
       "gv": 54,
       "lemma": 2428,
       "freq": 18,
@@ -60,7 +51,7 @@
     },
     {
       "surface": "לא",
-      "english": "no",
+      "gloss": "no",
       "gv": 31,
       "lemma": 3808,
       "freq": 3321,
@@ -68,13 +59,11 @@
     },
     {
       "surface": "ימלט",
-      "english": "escapará",
+      "gloss": "escapará",
       "gv": 89,
       "lemma": 4422,
       "freq": 21,
       "rationale": "ימלט = 'escapará', 3ms imperfecto de מלט (escapar, librar)"
     }
-  ],
-  "timestamp": "2026-06-09T23:13:10.688246602Z",
-  "model": "glm-4.5"
+  ]
 }

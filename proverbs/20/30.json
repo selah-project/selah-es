@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "proverbs 20:30",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59789,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60198
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:11.711313949Z",
   "translation": "Lashings ⟨are⟩ the cleansing of wounds ⟨and⟩ ⟨the⟩ cleansing of ⟨the⟩ inward parts ⟨of⟩ ⟨the⟩ belly.",
   "tokens": [
     {
       "surface": "חברות",
-      "english": "Lashings"
+      "gloss": "Lashings"
     },
     {
       "surface": "פצע",
-      "english": "wounds"
+      "gloss": "wounds"
     },
     {
       "surface": "תמריק",
-      "english": "cleansing"
+      "gloss": "cleansing"
     },
     {
       "surface": "ברע",
-      "english": "evil"
+      "gloss": "evil"
     },
     {
       "surface": "ומכות",
-      "english": "beatings"
+      "gloss": "beatings"
     },
     {
       "surface": "חדרי",
-      "english": "inward parts"
+      "gloss": "inward parts"
     },
     {
       "surface": "בטן",
-      "english": "belly"
+      "gloss": "belly"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:11.711313949Z",
-  "model": "glm-4.5"
+  ]
 }

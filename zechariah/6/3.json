@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "zechariah 6:3",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23256,
-    "prompt_tokens_details": {
-      "cached_tokens": 22082
-    },
-    "total_tokens": 23827
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:52:52.933789876Z",
   "translation": "y ⟨en⟩ ⟨el⟩ ⟨el⟩ tercer carro ⟨eran⟩ caballos ⟨⟩ ⟨el⟩ cuarto carro ⟨eran⟩ caballos berudím amutzím",
   "tokens": [
     {
       "surface": "ובמרכבה",
-      "english": "Y ⟨en⟩ ⟨el⟩ ⟨el⟩ tercer carro"
+      "gloss": "Y ⟨en⟩ ⟨el⟩ ⟨el⟩ tercer carro"
     },
     {
       "surface": "השלשית",
-      "english": "⟨el⟩ tercer"
+      "gloss": "⟨el⟩ tercer"
     },
     {
       "surface": "סוסים",
-      "english": "caballos ⟨⟩"
+      "gloss": "caballos ⟨⟩"
     },
     {
       "surface": "לבנים",
-      "english": "⟨⟩"
+      "gloss": "⟨⟩"
     },
     {
       "surface": "ובמרכבה",
-      "english": "y ⟨en⟩ ⟨el⟩ cuarto carro"
+      "gloss": "y ⟨en⟩ ⟨el⟩ cuarto carro"
     },
     {
       "surface": "הרבעית",
-      "english": "⟨el⟩ cuarto"
+      "gloss": "⟨el⟩ cuarto"
     },
     {
       "surface": "סוסים",
-      "english": "caballos ⟨⟩"
+      "gloss": "caballos ⟨⟩"
     },
     {
       "surface": "ברדים",
-      "english": "berudím"
+      "gloss": "berudím"
     },
     {
       "surface": "אמצים",
-      "english": "amutzím"
+      "gloss": "amutzím"
     }
-  ],
-  "timestamp": "2026-06-09T22:52:52.933789876Z",
-  "model": "glm-4.5"
+  ]
 }

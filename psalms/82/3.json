@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 82:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 82,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 69867,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70269
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:09.927158817Z",
   "translation": "Juzgad ⟨al⟩ débil y ⟨al⟩ huérfano; justificad ⟨al⟩ afligido y ⟨al⟩ pobre.",
   "tokens": [
     {
       "surface": "שפטו",
-      "english": "Juzgad"
+      "gloss": "Juzgad"
     },
     {
       "surface": "דל",
-      "english": "débil"
+      "gloss": "débil"
     },
     {
       "surface": "ויתום",
-      "english": "y ⟨al⟩ huérfano"
+      "gloss": "y ⟨al⟩ huérfano"
     },
     {
       "surface": "עני",
-      "english": "afligido"
+      "gloss": "afligido"
     },
     {
       "surface": "ורש",
-      "english": "y ⟨al⟩ pobre"
+      "gloss": "y ⟨al⟩ pobre"
     },
     {
       "surface": "הצדיקו",
-      "english": "justificad"
+      "gloss": "justificad"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:09.927158817Z",
-  "model": "glm-4.5"
+  ]
 }

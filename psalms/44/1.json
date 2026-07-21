@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 44:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69722,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70138
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:18:09.971493184Z",
   "translation": "⟨To⟩ ⟨the⟩ Precentor ⟨for⟩ ⟨the⟩ sons of Koraj, a Didactic Poem.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ ⟨the⟩ Precentor",
+      "gloss": "⟨To⟩ ⟨the⟩ Precentor",
       "marks": "Precentor"
     },
     {
       "surface": "לבני",
-      "english": "⟨for⟩ ⟨the⟩ sons",
+      "gloss": "⟨for⟩ ⟨the⟩ sons",
       "marks": "sons of Koraj"
     },
     {
       "surface": "קרח",
-      "english": "Koraj",
+      "gloss": "Koraj",
       "marks": ""
     },
     {
       "surface": "משכיל",
-      "english": "a Didactic Poem",
+      "gloss": "a Didactic Poem",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:18:09.971493184Z",
-  "model": "glm-4.5"
+  ]
 }

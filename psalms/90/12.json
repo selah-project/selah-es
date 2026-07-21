@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 90:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69856,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70441
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:45:15.863699656Z",
   "translation": "Para enumerar ⟨los⟩ días de nosotros, así ⟨lo⟩ conoceremos, y traeremos ⟨un⟩ corazón de sabiduría.",
   "tokens": [
     {
       "surface": "למנות",
-      "english": "Para enumerar",
+      "gloss": "Para enumerar",
       "lemma": "l\/4487"
     },
     {
       "surface": "ימינו",
-      "english": "⟨los⟩ días de nosotros",
+      "gloss": "⟨los⟩ días de nosotros",
       "lemma": "3117",
       "notes": "The possessive suffix 'our' is attached to 'days' (ימים), forming 'our days'. The prefix 'ל' (to\/for) creates the infinitive construct 'to number'."
     },
     {
       "surface": "כן",
-      "english": "así",
+      "gloss": "así",
       "lemma": "3651 c"
     },
     {
       "surface": "הודע",
-      "english": "⟨lo⟩ conoceremos",
+      "gloss": "⟨lo⟩ conoceremos",
       "lemma": "3045",
       "notes": "Hebrew prefix 'ו' (and) + perfect tense. The English 'lo' is added for grammatical flow, as the direct object is implied in the Hebrew verb."
     },
     {
       "surface": "ונבא",
-      "english": "y traeremos",
+      "gloss": "y traeremos",
       "lemma": "c\/935"
     },
     {
       "surface": "לבב",
-      "english": "⟨un⟩ corazón",
+      "gloss": "⟨un⟩ corazón",
       "lemma": "3824",
       "notes": "Hebrew uses the singular 'heart' (לבב) where English might use 'a heart' to indicate the concept rather than a physical organ."
     },
     {
       "surface": "חכמה",
-      "english": "de sabiduría",
+      "gloss": "de sabiduría",
       "lemma": "2451"
     }
-  ],
-  "timestamp": "2026-06-09T23:45:15.863699656Z",
-  "model": "glm-4.5"
+  ]
 }

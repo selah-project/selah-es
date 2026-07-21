@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "proverbs 23:22",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59958,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60497
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:46:10.409588053Z",
   "translation": "Escucha ⟨a⟩ tu padre, ⟨este que te⟩ engendró, y ⟨no⟩ desprecies ⟨a⟩ tu madre cuando ⟨ella ha⟩ envejecido",
   "tokens": [
     {
       "surface": "שמע",
-      "english": "Escucha",
+      "gloss": "Escucha",
       "marks": ""
     },
     {
       "surface": "לאביך",
-      "english": "⟨a⟩ tu padre",
+      "gloss": "⟨a⟩ tu padre",
       "marks": "tu padre"
     },
     {
       "surface": "זה",
-      "english": "⟨este que te⟩",
+      "gloss": "⟨este que te⟩",
       "marks": "engendró"
     },
     {
       "surface": "ילדך",
-      "english": "engendró",
+      "gloss": "engendró",
       "marks": ""
     },
     {
       "surface": "ואל",
-      "english": "y ⟨no⟩",
+      "gloss": "y ⟨no⟩",
       "marks": "desprecies"
     },
     {
       "surface": "תבוז",
-      "english": "desprecies",
+      "gloss": "desprecies",
       "marks": ""
     },
     {
       "surface": "כי",
-      "english": "cuando",
+      "gloss": "cuando",
       "marks": ""
     },
     {
       "surface": "זקנה",
-      "english": "⟨ella ha⟩ envejecido",
+      "gloss": "⟨ella ha⟩ envejecido",
       "marks": "tu madre"
     },
     {
       "surface": "אמך",
-      "english": "⟨a⟩ tu madre",
+      "gloss": "⟨a⟩ tu madre",
       "marks": "tu madre"
     }
-  ],
-  "timestamp": "2026-06-10T01:46:10.409588053Z",
-  "model": "glm-4.5"
+  ]
 }

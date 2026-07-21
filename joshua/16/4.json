@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "joshua 16:4",
   "book": "joshua",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 265,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23113,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23378
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:19:37.517989260Z",
   "translation": "Y los hijos de Yosef, Menashé y Efráyim, recibieron ⟨su⟩ herencia.",
   "tokens": [
     {
       "surface": "וינחלו",
-      "english": "Recibieron"
+      "gloss": "Recibieron"
     },
     {
       "surface": "בני",
-      "english": "los hijos de"
+      "gloss": "los hijos de"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "מנשה",
-      "english": "Menashé"
+      "gloss": "Menashé"
     },
     {
       "surface": "ואפרים",
-      "english": "y Efráyim"
+      "gloss": "y Efráyim"
     }
-  ],
-  "timestamp": "2026-06-10T01:19:37.517989260Z",
-  "model": "glm-4.5"
+  ]
 }

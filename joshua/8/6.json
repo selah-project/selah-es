@@ -1,82 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "joshua 8:6",
   "book": "joshua",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 608,
-    "prompt_tokens": 24266,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 24874
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:10:01.811012132Z",
   "translation": "porque ellos saldrán tras nosotros hasta que ⟨esos⟩ los alejemos de la ciudad, porque dirán: Huyen delante de nosotros como al principio, y nosotros huiremos delante de ellos",
   "tokens": [
     {
       "surface": "ויצאו",
-      "english": "porque ellos saldrán"
+      "gloss": "porque ellos saldrán"
     },
     {
       "surface": "אחרינו",
-      "english": "tras nosotros"
+      "gloss": "tras nosotros"
     },
     {
       "surface": "עד",
-      "english": "hasta que"
+      "gloss": "hasta que"
     },
     {
       "surface": "התיקנו",
-      "english": "alejemos"
+      "gloss": "alejemos"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "esos"
     },
     {
       "surface": "מן",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "העיר",
-      "english": "la ciudad"
+      "gloss": "la ciudad"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "יאמרו",
-      "english": "dirán"
+      "gloss": "dirán"
     },
     {
       "surface": "נסים",
-      "english": "Huyen"
+      "gloss": "Huyen"
     },
     {
       "surface": "לפנינו",
-      "english": "delante de nosotros"
+      "gloss": "delante de nosotros"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "בראשנה",
-      "english": "al principio"
+      "gloss": "al principio"
     },
     {
       "surface": "ונסנו",
-      "english": "y nosotros huiremos"
+      "gloss": "y nosotros huiremos"
     },
     {
       "surface": "לפניהם",
-      "english": "delante de ellos"
+      "gloss": "delante de ellos"
     }
-  ],
-  "timestamp": "2026-07-16T22:10:01.811012132Z",
-  "model": "glm-4.5"
+  ]
 }

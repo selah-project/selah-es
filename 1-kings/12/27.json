@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-kings 12:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 12,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:02:42.717496188Z",
+  "translation": "Si este pueblo ⟨está⟩ subiendo a hacer sacrificios ⟨en⟩ ⟨la⟩ casa ⟨de⟩ YHWH en Jerusalén, ⟨y⟩ ⟨el⟩ corazón ⟨de⟩ este pueblo ⟨se vuelve⟩ a su señor, a Rejavam rey ⟨de⟩ Yehudá, ⟨y⟩ me matarán, ⟨y⟩ volverán a Rejavam rey ⟨de⟩ Yehudá.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "⟨está⟩ subiendo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "este pueblo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hacer"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "sacrificios"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨en⟩ ⟨la⟩ casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "en Jerusalén"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "⟨y⟩ ⟨el⟩ corazón ⟨de⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "corazón"
+    },
+    {
+      "surface": "העם",
+      "gloss": "este pueblo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "su señor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "⟨de⟩ Yehudá"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "⟨y⟩ me matarán"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "⟨y⟩ volverán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "⟨de⟩ Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboam",
@@ -34,124 +141,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 823,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63567,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 64390
-  },
-  "translation": "Si este pueblo ⟨está⟩ subiendo a hacer sacrificios ⟨en⟩ ⟨la⟩ casa ⟨de⟩ YHWH en Jerusalén, ⟨y⟩ ⟨el⟩ corazón ⟨de⟩ este pueblo ⟨se vuelve⟩ a su señor, a Rejavam rey ⟨de⟩ Yehudá, ⟨y⟩ me matarán, ⟨y⟩ volverán a Rejavam rey ⟨de⟩ Yehudá.",
-  "tokens": [
-    {
-      "surface": "אם",
-      "english": "Si"
-    },
-    {
-      "surface": "יעלה",
-      "english": "⟨está⟩ subiendo"
-    },
-    {
-      "surface": "העם",
-      "english": "este pueblo"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    },
-    {
-      "surface": "לעשות",
-      "english": "hacer"
-    },
-    {
-      "surface": "זבחים",
-      "english": "sacrificios"
-    },
-    {
-      "surface": "בבית",
-      "english": "⟨en⟩ ⟨la⟩ casa"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "en Jerusalén"
-    },
-    {
-      "surface": "ושב",
-      "english": "⟨y⟩ ⟨el⟩ corazón ⟨de⟩"
-    },
-    {
-      "surface": "לב",
-      "english": "corazón"
-    },
-    {
-      "surface": "העם",
-      "english": "este pueblo"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אדניהם",
-      "english": "su señor"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "⟨de⟩ Yehudá"
-    },
-    {
-      "surface": "והרגני",
-      "english": "⟨y⟩ me matarán"
-    },
-    {
-      "surface": "ושבו",
-      "english": "⟨y⟩ volverán"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "⟨de⟩ Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:02:42.717496188Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 22:12",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 447,
-    "prompt_tokens": 59989,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60436
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:21:16.817167671Z",
   "translation": "Los ojos de YHWH guardan ⟨el⟩ conocimiento, pero ⟨Él⟩ pervierte las palabras del ⟨traidor⟩.",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "Los ojos de"
+      "gloss": "Los ojos de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "נצרו",
-      "english": "guardan"
+      "gloss": "guardan"
     },
     {
       "surface": "דעת",
-      "english": "⟨el⟩ conocimiento"
+      "gloss": "⟨el⟩ conocimiento"
     },
     {
       "surface": "ויסלף",
-      "english": "pero ⟨Él⟩ pervierte"
+      "gloss": "pero ⟨Él⟩ pervierte"
     },
     {
       "surface": "דברי",
-      "english": "las palabras de"
+      "gloss": "las palabras de"
     },
     {
       "surface": "בגד",
-      "english": "⟨el⟩ ⟨traidor⟩"
+      "gloss": "⟨el⟩ ⟨traidor⟩"
     }
-  ],
-  "timestamp": "2026-07-16T23:21:16.817167671Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "joshua 19:2",
   "book": "joshua",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 329,
-    "prompt_tokens": 23286,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 23615
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:14:52.879115227Z",
   "translation": "Y tuvo en su herencia Beer-Sheba, Sheba y Moladah",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y tuvo"
+      "gloss": "Y tuvo"
     },
     {
       "surface": "להם",
-      "english": "en su"
+      "gloss": "en su"
     },
     {
       "surface": "בנחלתם",
-      "english": "herencia"
+      "gloss": "herencia"
     },
     {
       "surface": "באר",
-      "english": "Beer-Sheba"
+      "gloss": "Beer-Sheba"
     },
     {
       "surface": "שבע",
-      "english": "Sheba"
+      "gloss": "Sheba"
     },
     {
       "surface": "ושבע",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ומולדה",
-      "english": "Moladah"
+      "gloss": "Moladah"
     }
-  ],
-  "timestamp": "2026-07-16T22:14:52.879115227Z",
-  "model": "glm-4.5"
+  ]
 }

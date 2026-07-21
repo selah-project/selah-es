@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 18:4",
   "book": "genesis",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28490,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28961
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:14:25.901920019Z",
   "translation": "que se traiga ⟨el⟩ agua, un poco, y ⟨la⟩ laven ⟨de⟩ vuestros pies, y apoyaos ⟨debajo⟩ ⟨el⟩ árbol",
   "tokens": [
     {
       "surface": "יקח",
-      "english": "Que se traiga"
+      "gloss": "Que se traiga"
     },
     {
       "surface": "נא",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "מעט",
-      "english": "un poco"
+      "gloss": "un poco"
     },
     {
       "surface": "מים",
-      "english": "agua"
+      "gloss": "agua"
     },
     {
       "surface": "ורחצו",
-      "english": "y ⟨la⟩ laven ⟨de⟩"
+      "gloss": "y ⟨la⟩ laven ⟨de⟩"
     },
     {
       "surface": "רגליכם",
-      "english": "vuestros pies"
+      "gloss": "vuestros pies"
     },
     {
       "surface": "והשענו",
-      "english": "y apoyaos"
+      "gloss": "y apoyaos"
     },
     {
       "surface": "תחת",
-      "english": "⟨debajo⟩"
+      "gloss": "⟨debajo⟩"
     },
     {
       "surface": "העץ",
-      "english": "⟨el⟩ árbol"
+      "gloss": "⟨el⟩ árbol"
     }
-  ],
-  "timestamp": "2026-06-10T05:14:25.901920019Z",
-  "model": "glm-4.5"
+  ]
 }

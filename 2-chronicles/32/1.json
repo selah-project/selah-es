@@ -1,9 +1,89 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 32:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 32,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:36:08.061220594Z",
+  "translation": "Después de estas cosas y la verdad ⟨esta⟩, vino Senaquerib, rey de Ashshur, y entró en Judá ⟨y⟩ ⟨acampó⟩ contra ⟨las⟩ ciudades fortificadas ⟨y⟩ ⟨dijo⟩ para arrasarlas ⟨para⟩ sí ⟨mismo⟩",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Después de"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "estas cosas"
+    },
+    {
+      "surface": "והאמת",
+      "gloss": "y la verdad"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨esta⟩",
+      "marks": "la verdad"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vino"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Senaquerib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "de Ashshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "y entró"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "en Judá"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "⟨y⟩ ⟨acampó⟩",
+      "marks": "entró en Judá"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "⟨las⟩ ciudades",
+      "marks": "acampó contra"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "fortificadas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨y⟩ ⟨dijo⟩",
+      "marks": "entró en Judá"
+    },
+    {
+      "surface": "לבקעם",
+      "gloss": "para arrasarlas",
+      "rationale": "Hapax (solo aquí en el Tanaj); התבקע - hacer una brecha, romper"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨para⟩ sí ⟨mismo⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Asiria",
@@ -13,97 +93,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 892,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58500,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 59392
-  },
-  "translation": "Después de estas cosas y la verdad ⟨esta⟩, vino Senaquerib, rey de Ashshur, y entró en Judá ⟨y⟩ ⟨acampó⟩ contra ⟨las⟩ ciudades fortificadas ⟨y⟩ ⟨dijo⟩ para arrasarlas ⟨para⟩ sí ⟨mismo⟩",
-  "tokens": [
-    {
-      "surface": "אחרי",
-      "english": "Después de"
-    },
-    {
-      "surface": "הדברים",
-      "english": "estas cosas"
-    },
-    {
-      "surface": "והאמת",
-      "english": "y la verdad"
-    },
-    {
-      "surface": "האלה",
-      "english": "⟨esta⟩",
-      "marks": "la verdad"
-    },
-    {
-      "surface": "בא",
-      "english": "vino"
-    },
-    {
-      "surface": "סנחריב",
-      "english": "Senaquerib"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "אשור",
-      "english": "de Ashshur"
-    },
-    {
-      "surface": "ויבא",
-      "english": "y entró"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "en Judá"
-    },
-    {
-      "surface": "ויחן",
-      "english": "⟨y⟩ ⟨acampó⟩",
-      "marks": "entró en Judá"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "הערים",
-      "english": "⟨las⟩ ciudades",
-      "marks": "acampó contra"
-    },
-    {
-      "surface": "הבצרות",
-      "english": "fortificadas"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "⟨y⟩ ⟨dijo⟩",
-      "marks": "entró en Judá"
-    },
-    {
-      "surface": "לבקעם",
-      "english": "para arrasarlas",
-      "rationale": "Hapax (solo aquí en el Tanaj); התבקע - hacer una brecha, romper"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨para⟩ sí ⟨mismo⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:36:08.061220594Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

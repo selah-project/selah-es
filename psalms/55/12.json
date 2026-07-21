@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 55:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 669,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69931,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70600
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:24:19.279445674Z",
   "translation": "⟨La⟩ ruina ⟨está⟩ en ⟨el⟩ medio ⟨de ella⟩ y ⟨no⟩ se aleja de ⟨la⟩ anchura ⟨de ella⟩ ⟨la⟩ opresión y ⟨el⟩ engaño.",
   "tokens": [
     {
       "surface": "הוות",
-      "english": "⟨La⟩ ruina"
+      "gloss": "⟨La⟩ ruina"
     },
     {
       "surface": "בקרבה",
-      "english": "en ⟨el⟩ medio ⟨de ella⟩"
+      "gloss": "en ⟨el⟩ medio ⟨de ella⟩"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "ימיש",
-      "english": "se aleja"
+      "gloss": "se aleja"
     },
     {
       "surface": "מרחבה",
-      "english": "de ⟨la⟩ anchura ⟨de ella⟩"
+      "gloss": "de ⟨la⟩ anchura ⟨de ella⟩"
     },
     {
       "surface": "תך",
-      "english": "⟨la⟩ opresión"
+      "gloss": "⟨la⟩ opresión"
     },
     {
       "surface": "ומרמה",
-      "english": "y ⟨el⟩ engaño"
+      "gloss": "y ⟨el⟩ engaño"
     }
-  ],
-  "timestamp": "2026-06-09T23:24:19.279445674Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 18:17",
   "book": "genesis",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 574,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28278,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28852
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:15:22.197824752Z",
   "translation": "Y YHWH ⟨dice⟩: ⟨el⟩ que estoy cubriendo ⟨es⟩ yo ⟨de⟩ Avraham ⟨lo⟩ que yo ⟨hago⟩",
   "tokens": [
     {
       "surface": "ויהוה",
-      "english": "Y YHWH"
+      "gloss": "Y YHWH"
     },
     {
       "surface": "אמר",
-      "english": "⟨dice⟩"
+      "gloss": "⟨dice⟩"
     },
     {
       "surface": "המכסה",
-      "english": "⟨el⟩ que estoy cubriendo"
+      "gloss": "⟨el⟩ que estoy cubriendo"
     },
     {
       "surface": "אני",
-      "english": "⟨es⟩ yo"
+      "gloss": "⟨es⟩ yo"
     },
     {
       "surface": "מאברהם",
-      "english": "⟨de⟩ Avraham"
+      "gloss": "⟨de⟩ Avraham"
     },
     {
       "surface": "אשר",
-      "english": "⟨lo⟩ que"
+      "gloss": "⟨lo⟩ que"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "עשה",
-      "english": "⟨hago⟩"
+      "gloss": "⟨hago⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:15:22.197824752Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 37,
   "ref": "genesis 36:37",
   "book": "genesis",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28259,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28541
-  },
+  "verse": 37,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:33:54.953762824Z",
   "translation": "Y murió Shamlá y reinó en su lugar Shaúl ⟨את⟩ desde Rehobot del río",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "Y murió"
+      "gloss": "Y murió"
     },
     {
       "surface": "שמלה",
-      "english": "Shamlá"
+      "gloss": "Shamlá"
     },
     {
       "surface": "וימלך",
-      "english": "y reinó"
+      "gloss": "y reinó"
     },
     {
       "surface": "תחתיו",
-      "english": "en su lugar"
+      "gloss": "en su lugar"
     },
     {
       "surface": "שאול",
-      "english": "Shaúl"
+      "gloss": "Shaúl"
     },
     {
       "surface": "מרחבות",
-      "english": "⟨desde⟩",
+      "gloss": "⟨desde⟩",
       "marks": "Rehobot"
     },
     {
       "surface": "הנהר",
-      "english": "del río"
+      "gloss": "del río"
     }
-  ],
-  "timestamp": "2026-06-10T05:33:54.953762824Z",
-  "model": "glm-4.5"
+  ]
 }

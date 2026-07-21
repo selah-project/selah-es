@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "joshua 19:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 19,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:37:04.350388734Z",
+  "translation": "Y ⟨el⟩ tercio de ⟨el⟩ sorteo salió ⟨para⟩ ⟨los⟩ hijos ⟨de⟩ Zevulún ⟨por⟩ sus familias; y ⟨el⟩ límite ⟨de⟩ su herencia ⟨fue⟩ hasta Sarid",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Y"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "⟨el⟩ tercio de ⟨el⟩ sorteo"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "salió"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨para⟩ ⟨los⟩ hijos"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "⟨de⟩ Zevulún"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨por⟩ sus familias"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨el⟩ límite"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "⟨de⟩ su herencia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨fue⟩ hasta"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "Sarid"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zabulón",
@@ -13,68 +64,6 @@
       "hebrew": "זבולן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16355,
-    "prompt_tokens_details": {
-      "cached_tokens": 14944
-    },
-    "total_tokens": 16914
-  },
-  "translation": "Y ⟨el⟩ tercio de ⟨el⟩ sorteo salió ⟨para⟩ ⟨los⟩ hijos ⟨de⟩ Zevulún ⟨por⟩ sus familias; y ⟨el⟩ límite ⟨de⟩ su herencia ⟨fue⟩ hasta Sarid",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "Y"
-    },
-    {
-      "surface": "הגורל",
-      "english": "⟨el⟩ tercio de ⟨el⟩ sorteo"
-    },
-    {
-      "surface": "השלישי",
-      "english": "salió"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨para⟩ ⟨los⟩ hijos"
-    },
-    {
-      "surface": "זבולן",
-      "english": "⟨de⟩ Zevulún"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨por⟩ sus familias"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨el⟩ límite"
-    },
-    {
-      "surface": "נחלתם",
-      "english": "⟨de⟩ su herencia"
-    },
-    {
-      "surface": "עד",
-      "english": "⟨fue⟩ hasta"
-    },
-    {
-      "surface": "שריד",
-      "english": "Sarid"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:37:04.350388734Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

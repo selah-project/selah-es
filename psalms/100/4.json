@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 100:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 100,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70084,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70585
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:21.062247774Z",
   "translation": "Entrad ⟨a⟩ sus puertas con acción de gracias, ⟨a⟩ sus atrios con alabanza; alabad ⟨a⟩ ⟨Él⟩, bendecid su nombre.",
   "tokens": [
     {
       "surface": "באו",
-      "english": "Entrad"
+      "gloss": "Entrad"
     },
     {
       "surface": "שעריו",
-      "english": "a sus puertas"
+      "gloss": "a sus puertas"
     },
     {
       "surface": "בתודה",
-      "english": "con acción de gracias"
+      "gloss": "con acción de gracias"
     },
     {
       "surface": "חצרתיו",
-      "english": "a sus atrios"
+      "gloss": "a sus atrios"
     },
     {
       "surface": "בתהלה",
-      "english": "con alabanza"
+      "gloss": "con alabanza"
     },
     {
       "surface": "הודו",
-      "english": "alabad"
+      "gloss": "alabad"
     },
     {
       "surface": "לו",
-      "english": "a ⟨Él⟩"
+      "gloss": "a ⟨Él⟩"
     },
     {
       "surface": "ברכו",
-      "english": "bendecid"
+      "gloss": "bendecid"
     },
     {
       "surface": "שמו",
-      "english": "su nombre"
+      "gloss": "su nombre"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:21.062247774Z",
-  "model": "glm-4.5"
+  ]
 }

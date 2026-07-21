@@ -1,85 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "genesis 30:25",
   "book": "genesis",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 566,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 29113,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29679
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:27:41.334592763Z",
   "translation": "Y sucedió cuando Raquel dio a luz ⟨a⟩ José, que Yaakov dijo a Labán: 'Envíame y ⟨yo⟩ iré ⟨a⟩ mi lugar y ⟨a⟩ mi tierra.'",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y sucedió"
+      "gloss": "Y sucedió"
     },
     {
       "surface": "כאשר",
-      "english": "cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "ילדה",
-      "english": "dio a luz"
+      "gloss": "dio a luz"
     },
     {
       "surface": "רחל",
-      "english": "Raquel"
+      "gloss": "Raquel"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "José"
     },
     {
       "surface": "יוסף",
-      "english": "José"
+      "gloss": "José"
     },
     {
       "surface": "ויאמר",
-      "english": "que Yaakov dijo"
+      "gloss": "que Yaakov dijo"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "לבן",
-      "english": "Labán"
+      "gloss": "Labán"
     },
     {
       "surface": "שלחני",
-      "english": "Envíame"
+      "gloss": "Envíame"
     },
     {
       "surface": "ואלכה",
-      "english": "y ⟨yo⟩ iré"
+      "gloss": "y ⟨yo⟩ iré"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "מקומי",
-      "english": "mi lugar"
+      "gloss": "mi lugar"
     },
     {
       "surface": "ולארצי",
-      "english": "y ⟨a⟩ mi tierra"
+      "gloss": "y ⟨a⟩ mi tierra"
     }
-  ],
-  "timestamp": "2026-06-10T05:27:41.334592763Z",
-  "model": "glm-4.5"
+  ]
 }

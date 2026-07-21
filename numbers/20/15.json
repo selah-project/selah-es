@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "numbers 20:15",
   "book": "numbers",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25417,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25877
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:56:12.436504324Z",
   "translation": "Y ⟨fueron⟩ nuestros padres a Mitsráyim, y ⟨nos⟩ quedamos en Mitsráyim días ⟨muchos⟩, y ⟨nos⟩ trataron ⟨mal⟩ los mitsritas y a nuestros padres",
   "tokens": [
     {
       "surface": "וירדו",
-      "english": "Y ⟨fueron⟩"
+      "gloss": "Y ⟨fueron⟩"
     },
     {
       "surface": "אבתינו",
-      "english": "nuestros padres"
+      "gloss": "nuestros padres"
     },
     {
       "surface": "מצרימה",
-      "english": "a Mitsráyim"
+      "gloss": "a Mitsráyim"
     },
     {
       "surface": "ונשב",
-      "english": "y ⟨nos⟩ quedamos"
+      "gloss": "y ⟨nos⟩ quedamos"
     },
     {
       "surface": "במצרים",
-      "english": "en Mitsráyim"
+      "gloss": "en Mitsráyim"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "רבים",
-      "english": "⟨muchos⟩"
+      "gloss": "⟨muchos⟩"
     },
     {
       "surface": "וירעו",
-      "english": "y ⟨nos⟩ trataron ⟨mal⟩"
+      "gloss": "y ⟨nos⟩ trataron ⟨mal⟩"
     },
     {
       "surface": "לנו",
-      "english": "⟨a nosotros⟩"
+      "gloss": "⟨a nosotros⟩"
     },
     {
       "surface": "מצרים",
-      "english": "los mitsritas"
+      "gloss": "los mitsritas"
     },
     {
       "surface": "ולאבתינו",
-      "english": "y a nuestros padres"
+      "gloss": "y a nuestros padres"
     }
-  ],
-  "timestamp": "2026-06-10T04:56:12.436504324Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 70,
   "ref": "psalms 78:70",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69754,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70166
-  },
+  "verse": 70,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:00.096729590Z",
   "translation": "Y escogió ⟨a⟩ David su siervo ⟨את⟩ y lo tomó de ⟨las⟩ majadas del rebaño",
   "tokens": [
     {
       "surface": "ויבחר",
-      "english": "Y escogió"
+      "gloss": "Y escogió"
     },
     {
       "surface": "בדוד",
-      "english": "a David"
+      "gloss": "a David"
     },
     {
       "surface": "עבדו",
-      "english": "su siervo"
+      "gloss": "su siervo"
     },
     {
       "surface": "ויקחהו",
-      "english": "y lo tomó"
+      "gloss": "y lo tomó"
     },
     {
       "surface": "ממכלאת",
-      "english": "de las majadas"
+      "gloss": "de las majadas"
     },
     {
       "surface": "צאן",
-      "english": "del rebaño"
+      "gloss": "del rebaño"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:00.096729590Z",
-  "model": "glm-4.5"
+  ]
 }

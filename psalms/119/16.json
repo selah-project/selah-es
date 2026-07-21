@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 119:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 445,
-    "prompt_tokens": 69806,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70251
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:14.499108524Z",
   "translation": "En Tus decretos me ⟨delitaré⟩, no ⟨olvidaré⟩ Tu davar.",
   "tokens": [
     {
       "surface": "בְּ\/חֻקֹּתֶ֥י\/ךָ",
-      "english": "En Tus decretos"
+      "gloss": "En Tus decretos"
     },
     {
       "surface": "אֶֽשְׁתַּעֲשָׁ֑ע",
-      "english": "me ⟨delitaré⟩"
+      "gloss": "me ⟨delitaré⟩"
     },
     {
       "surface": "לֹ֭א",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אֶשְׁכַּ֣ח",
-      "english": "⟨olvidaré⟩"
+      "gloss": "⟨olvidaré⟩"
     },
     {
       "surface": "דְּבָרֶֽ\/ךָ",
-      "english": "Tu davar",
+      "gloss": "Tu davar",
       "marks": "Tu davar"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:14.499108524Z",
-  "model": "glm-4.5"
+  ]
 }

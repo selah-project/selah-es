@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "hosea 11:1",
   "book": "hosea",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26471,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26868
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:48:43.807169708Z",
   "translation": "Porque ⟨es⟩ joven Yisrael y yo lo amé, y de Mitsráyim llamé a mi hijo",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "נער",
-      "english": "joven"
+      "gloss": "joven"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ואהבהו",
-      "english": "y yo lo amé"
+      "gloss": "y yo lo amé"
     },
     {
       "surface": "וממצרים",
-      "english": "y de Mitsráyim"
+      "gloss": "y de Mitsráyim"
     },
     {
       "surface": "קראתי",
-      "english": "llamé"
+      "gloss": "llamé"
     },
     {
       "surface": "לבני",
-      "english": "a mi hijo"
+      "gloss": "a mi hijo"
     }
-  ],
-  "timestamp": "2026-06-09T22:48:43.807169708Z",
-  "model": "glm-4.5"
+  ]
 }

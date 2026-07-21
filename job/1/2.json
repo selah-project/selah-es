@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 1:2",
   "book": "job",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 270,
-    "prompt_tokens": 26994,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 27264
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:55:34.159745981Z",
   "translation": "Y le nacieron ⟨a⟩ él siete hijos y tres hijas",
   "tokens": [
     {
       "surface": "ויולדו",
-      "english": "Y le nacieron"
+      "gloss": "Y le nacieron"
     },
     {
       "surface": "לו",
-      "english": "⟨a⟩ él"
+      "gloss": "⟨a⟩ él"
     },
     {
       "surface": "שבעה",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "בנים",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "ושלוש",
-      "english": "y tres"
+      "gloss": "y tres"
     },
     {
       "surface": "בנות",
-      "english": "hijas"
+      "gloss": "hijas"
     }
-  ],
-  "timestamp": "2026-07-16T21:55:34.159745981Z",
-  "model": "glm-4.5"
+  ]
 }

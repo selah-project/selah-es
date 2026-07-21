@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 24:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24910,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25400
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:59:36.947279147Z",
   "translation": "¡Qué ⟨buenas⟩ son tus tiendas, ⟨oh⟩ Yaakov, y tus moradas, ⟨oh⟩ Yisrael!",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¡Qué"
+      "gloss": "¡Qué"
     },
     {
       "surface": "טבו",
-      "english": "buenas"
+      "gloss": "buenas"
     },
     {
       "surface": "אהליך",
-      "english": "tus tiendas"
+      "gloss": "tus tiendas"
     },
     {
       "surface": "יעקב",
-      "english": "⟨oh⟩ Yaakov"
+      "gloss": "⟨oh⟩ Yaakov"
     },
     {
       "surface": "משכנתיך",
-      "english": "tus moradas"
+      "gloss": "tus moradas"
     },
     {
       "surface": "ישראל",
-      "english": "⟨oh⟩ Yisrael"
+      "gloss": "⟨oh⟩ Yisrael"
     }
-  ],
-  "timestamp": "2026-06-10T04:59:36.947279147Z",
-  "model": "glm-4.5"
+  ]
 }

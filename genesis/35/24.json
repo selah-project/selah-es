@@ -1,40 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 35:24",
   "book": "genesis",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 177,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27951,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28128
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:32:44.201466529Z",
   "translation": "Los hijos de Rajel: Yosef y Binyamín",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Los hijos"
+      "gloss": "Los hijos"
     },
     {
       "surface": "רחל",
-      "english": "de Rajel"
+      "gloss": "de Rajel"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "ובנימן",
-      "english": "y Binyamín"
+      "gloss": "y Binyamín"
     }
-  ],
-  "timestamp": "2026-06-10T05:32:44.201466529Z",
-  "model": "glm-4.5"
+  ]
 }

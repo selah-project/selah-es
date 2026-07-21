@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 42:17",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 256,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28247,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28503
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:39:22.875418415Z",
   "translation": "Y ⟨los⟩ puso ⟨en⟩ custodia ⟨por⟩ tres días.",
   "tokens": [
     {
       "surface": "ויאסף",
-      "english": "Y puso"
+      "gloss": "Y puso"
     },
     {
       "surface": "אתם",
-      "english": "⟨los⟩",
+      "gloss": "⟨los⟩",
       "marks": "אל"
     },
     {
       "surface": "אל",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "משמר",
-      "english": "custodia"
+      "gloss": "custodia"
     },
     {
       "surface": "שלשת",
-      "english": "tres"
+      "gloss": "tres"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     }
-  ],
-  "timestamp": "2026-06-10T05:39:22.875418415Z",
-  "model": "glm-4.5"
+  ]
 }

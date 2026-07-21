@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 146:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 471,
-    "prompt_tokens": 70409,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70880
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:45:58.454635436Z",
   "translation": "YHWH preserva ⟨a⟩ ⟨el⟩ extranjero ⟨את⟩, ⟨al⟩ huérfano y ⟨a⟩ ⟨la⟩ viuda sostiene, pero el camino de los malvados ⟨lo⟩ hace torcer.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שמר",
-      "english": "preserva"
+      "gloss": "preserva"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "extranjero"
     },
     {
       "surface": "גרים",
-      "english": "extranjero"
+      "gloss": "extranjero"
     },
     {
       "surface": "יתום",
-      "english": "huérfano"
+      "gloss": "huérfano"
     },
     {
       "surface": "ואלמנה",
-      "english": "y ⟨a⟩ ⟨la⟩ viuda"
+      "gloss": "y ⟨a⟩ ⟨la⟩ viuda"
     },
     {
       "surface": "יעודד",
-      "english": "sostiene"
+      "gloss": "sostiene"
     },
     {
       "surface": "ודרך",
-      "english": "pero el camino"
+      "gloss": "pero el camino"
     },
     {
       "surface": "רשעים",
-      "english": "de los malvados"
+      "gloss": "de los malvados"
     },
     {
       "surface": "יעות",
-      "english": "⟨lo⟩ hace torcer"
+      "gloss": "⟨lo⟩ hace torcer"
     }
-  ],
-  "timestamp": "2026-07-16T23:45:58.454635436Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 41:4",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27014,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27401
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:27.148068459Z",
   "translation": "No ⟨את⟩ tardaré en su mentira; y ⟨en⟩ palabras ⟨de⟩ valentía y ⟨en⟩ ⟨el⟩ valor ⟨de⟩ su equipamiento",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "אחריש",
-      "english": "tardaré",
+      "gloss": "tardaré",
       "marks": "en su mentira"
     },
     {
       "surface": "בדיו",
-      "english": "mentira"
+      "gloss": "mentira"
     },
     {
       "surface": "ודבר",
-      "english": "y ⟨en⟩ palabras"
+      "gloss": "y ⟨en⟩ palabras"
     },
     {
       "surface": "גבורות",
-      "english": "valentía"
+      "gloss": "valentía"
     },
     {
       "surface": "וחין",
-      "english": "y ⟨en⟩"
+      "gloss": "y ⟨en⟩"
     },
     {
       "surface": "ערכו",
-      "english": "⟨el⟩ valor ⟨de⟩ su equipamiento"
+      "gloss": "⟨el⟩ valor ⟨de⟩ su equipamiento"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:27.148068459Z",
-  "model": "glm-4.5"
+  ]
 }

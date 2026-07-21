@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "leviticus 21:3",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24627,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 25057
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:37:14.224601913Z",
   "translation": "y ⟨el⟩ ⟨a⟩ ⟨de⟩ su hermana, ⟨la⟩ virgen, ⟨la⟩ cercana ⟨a⟩ él, ⟨que⟩ ⟨no⟩ ha estado ⟨con⟩ varón; por ⟨ella⟩ se hará impuro",
   "tokens": [
     {
       "surface": "ולאחתו",
-      "english": "Y ⟨el⟩ ⟨a⟩ ⟨de⟩ su hermana"
+      "gloss": "Y ⟨el⟩ ⟨a⟩ ⟨de⟩ su hermana"
     },
     {
       "surface": "הבתולה",
-      "english": "⟨la⟩ virgen"
+      "gloss": "⟨la⟩ virgen"
     },
     {
       "surface": "הקרובה",
-      "english": "⟨la⟩ cercana"
+      "gloss": "⟨la⟩ cercana"
     },
     {
       "surface": "אליו",
-      "english": "⟨a⟩ él"
+      "gloss": "⟨a⟩ él"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "היתה",
-      "english": "ha estado"
+      "gloss": "ha estado"
     },
     {
       "surface": "לאיש",
-      "english": "⟨con⟩ varón"
+      "gloss": "⟨con⟩ varón"
     },
     {
       "surface": "לה",
-      "english": "por ⟨ella⟩"
+      "gloss": "por ⟨ella⟩"
     },
     {
       "surface": "יטמא",
-      "english": "se hará impuro"
+      "gloss": "se hará impuro"
     }
-  ],
-  "timestamp": "2026-06-10T04:37:14.224601913Z",
-  "model": "glm-4.5"
+  ]
 }

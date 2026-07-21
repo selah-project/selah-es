@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-samuel 21:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 21,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:05:50.320977695Z",
+  "translation": "Y se levantó Davidd y huyó en el día aquel de delante de Shaúl, y vino a Akish, rey de Gat",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Y se levantó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "y huyó"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en el día"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aquel"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de delante de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "y vino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,72 +75,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16486,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16749
-  },
-  "translation": "Y se levantó Davidd y huyó en el día aquel de delante de Shaúl, y vino a Akish, rey de Gat",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Y se levantó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ויברח",
-      "english": "y huyó"
-    },
-    {
-      "surface": "ביום",
-      "english": "en el día"
-    },
-    {
-      "surface": "ההוא",
-      "english": "aquel"
-    },
-    {
-      "surface": "מפני",
-      "english": "de delante de"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "ויבא",
-      "english": "y vino"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אכיש",
-      "english": "Akish"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "גת",
-      "english": "Gat"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:05:50.320977695Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

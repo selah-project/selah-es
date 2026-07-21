@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "joshua 19:5",
   "book": "joshua",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23071,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23440
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:21:28.870288517Z",
   "translation": "y Tziclag ⟨y⟩ ⟨el⟩ Bet-Hamarkabot ⟨y⟩ ⟨la⟩ fortaleza de Susá",
   "tokens": [
     {
       "surface": "וְ\/צִֽקְלַ֥ג",
-      "english": "Y Tziclag"
+      "gloss": "Y Tziclag"
     },
     {
       "surface": "וּ\/בֵית",
-      "english": "⟨y⟩ ⟨el⟩ Bet"
+      "gloss": "⟨y⟩ ⟨el⟩ Bet"
     },
     {
       "surface": "הַמַּרְכָּב֖וֹת",
-      "english": "Hamarkabot"
+      "gloss": "Hamarkabot"
     },
     {
       "surface": "וַ\/חֲצַ֥ר",
-      "english": "⟨y⟩ ⟨la⟩ fortaleza"
+      "gloss": "⟨y⟩ ⟨la⟩ fortaleza"
     },
     {
       "surface": "סוּסָֽה",
-      "english": "de Susá"
+      "gloss": "de Susá"
     }
-  ],
-  "timestamp": "2026-06-10T01:21:28.870288517Z",
-  "model": "glm-4.5"
+  ]
 }

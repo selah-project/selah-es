@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "jeremiah 44:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 44,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:08:39.803959084Z",
+  "translation": "Y visitaré sobre ⟨los⟩ que moran en ⟨la⟩ tierra de Mitzráyim, como visité sobre Yerushalayim, con espada, con hambre y con pestilencia.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Y visitaré"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "היושבים",
+      "gloss": "⟨los⟩ que moran"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "en ⟨la⟩ tierra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "visité"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "con espada"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "con hambre"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "y con pestilencia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -20,72 +75,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 44,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17632,
-    "prompt_tokens_details": {
-      "cached_tokens": 16046
-    },
-    "total_tokens": 18088
-  },
-  "translation": "Y visitaré sobre ⟨los⟩ que moran en ⟨la⟩ tierra de Mitzráyim, como visité sobre Yerushalayim, con espada, con hambre y con pestilencia.",
-  "tokens": [
-    {
-      "surface": "ופקדתי",
-      "english": "Y visitaré"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "היושבים",
-      "english": "⟨los⟩ que moran"
-    },
-    {
-      "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como"
-    },
-    {
-      "surface": "פקדתי",
-      "english": "visité"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "בחרב",
-      "english": "con espada"
-    },
-    {
-      "surface": "ברעב",
-      "english": "con hambre"
-    },
-    {
-      "surface": "ובדבר",
-      "english": "y con pestilencia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:08:39.803959084Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

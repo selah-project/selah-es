@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 23:12",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59720,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60060
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:45:48.900036530Z",
   "translation": "Aplica tu corazón a ⟨el⟩ musar y tu oído a las palabras de daat",
   "tokens": [
     {
       "surface": "הביאה",
-      "english": "Aplica"
+      "gloss": "Aplica"
     },
     {
       "surface": "למוסר",
-      "english": "a ⟨el⟩ musar",
+      "gloss": "a ⟨el⟩ musar",
       "marks": "tu corazón"
     },
     {
       "surface": "לבך",
-      "english": "tu corazón"
+      "gloss": "tu corazón"
     },
     {
       "surface": "ואזנך",
-      "english": "y tu oído"
+      "gloss": "y tu oído"
     },
     {
       "surface": "לאמרי",
-      "english": "a las palabras de"
+      "gloss": "a las palabras de"
     },
     {
       "surface": "דעת",
-      "english": "daat"
+      "gloss": "daat"
     }
-  ],
-  "timestamp": "2026-06-10T01:45:48.900036530Z",
-  "model": "glm-4.5"
+  ]
 }

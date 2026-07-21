@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "isaiah 5:23",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26134,
-    "prompt_tokens_details": {
-      "cached_tokens": 26133
-    },
-    "total_tokens": 26544
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:53:19.514388770Z",
   "translation": "Que justifican ⟨al⟩ malvado por un soborno, y ⟨la⟩ justicia de los justos alejan de él",
   "tokens": [
     {
       "surface": "מצדיקי",
-      "english": "Que justifican"
+      "gloss": "Que justifican"
     },
     {
       "surface": "רשע",
-      "english": "⟨al⟩ malvado"
+      "gloss": "⟨al⟩ malvado"
     },
     {
       "surface": "עקב",
-      "english": "por un soborno"
+      "gloss": "por un soborno"
     },
     {
       "surface": "שחד",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "וצדקת",
-      "english": "⟨la⟩ justicia"
+      "gloss": "⟨la⟩ justicia"
     },
     {
       "surface": "צדיקים",
-      "english": "de los justos"
+      "gloss": "de los justos"
     },
     {
       "surface": "יסירו",
-      "english": "alejan"
+      "gloss": "alejan"
     },
     {
       "surface": "ממנו",
-      "english": "de él"
+      "gloss": "de él"
     }
-  ],
-  "timestamp": "2026-06-10T03:53:19.514388770Z",
-  "model": "glm-4.5"
+  ]
 }

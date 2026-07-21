@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 21:16",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27136,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27640
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:54.925418006Z",
   "translation": "He aquí, ⟨que⟩ no ⟨está⟩ en ⟨la⟩ mano de ellos ⟨su⟩ bien; ⟨el⟩ consejo de ⟨los⟩ malvados ⟨está⟩ lejos de mí.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "לא",
-      "english": "⟨que⟩ no"
+      "gloss": "⟨que⟩ no"
     },
     {
       "surface": "בידם",
-      "english": "⟨está⟩ en ⟨la⟩ mano de ellos"
+      "gloss": "⟨está⟩ en ⟨la⟩ mano de ellos"
     },
     {
       "surface": "טובם",
-      "english": "⟨su⟩ bien"
+      "gloss": "⟨su⟩ bien"
     },
     {
       "surface": "עצת",
-      "english": "⟨el⟩ consejo"
+      "gloss": "⟨el⟩ consejo"
     },
     {
       "surface": "רשעים",
-      "english": "de ⟨los⟩ malvados"
+      "gloss": "de ⟨los⟩ malvados"
     },
     {
       "surface": "רחקה",
-      "english": "⟨está⟩ lejos"
+      "gloss": "⟨está⟩ lejos"
     },
     {
       "surface": "מני",
-      "english": "de mí"
+      "gloss": "de mí"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:54.925418006Z",
-  "model": "glm-4.5"
+  ]
 }

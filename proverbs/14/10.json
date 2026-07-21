@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 14:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59955,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60386
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:38:07.859005717Z",
   "translation": "⟨el⟩ corazón conoce ⟨el⟩ amargor de su alma; y con ⟨el⟩ regocijo de ⟨este⟩ un extraño ⟨es⟩ no ⟨que⟩ se ⟨lo⟩ ⟨mezcla⟩",
   "tokens": [
     {
       "surface": "לב",
-      "english": "⟨El⟩ corazón"
+      "gloss": "⟨El⟩ corazón"
     },
     {
       "surface": "יודע",
-      "english": "conoce"
+      "gloss": "conoce"
     },
     {
       "surface": "מרת",
-      "english": "⟨el⟩ amargor"
+      "gloss": "⟨el⟩ amargor"
     },
     {
       "surface": "נפשו",
-      "english": "de su alma"
+      "gloss": "de su alma"
     },
     {
       "surface": "ובשמחתו",
-      "english": "y con ⟨el⟩ regocijo de ⟨este⟩"
+      "gloss": "y con ⟨el⟩ regocijo de ⟨este⟩"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יתערב",
-      "english": "⟨que⟩ se ⟨lo⟩ ⟨mezcla⟩"
+      "gloss": "⟨que⟩ se ⟨lo⟩ ⟨mezcla⟩"
     },
     {
       "surface": "זר",
-      "english": "un extraño ⟨es⟩"
+      "gloss": "un extraño ⟨es⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:38:07.859005717Z",
-  "model": "glm-4.5"
+  ]
 }

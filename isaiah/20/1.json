@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 20:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 533,
-    "prompt_tokens": 26709,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27242
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:24:28.204344984Z",
   "translation": "En ⟨el⟩ año en que vino Tartan a Ashdod, cuando Sargon, el rey de Ashshur, ⟨את⟩ lo envió, y peleó contra Ashdod y la capturó",
   "tokens": [
     {
       "surface": "בשנת",
-      "english": "En ⟨el⟩ año"
+      "gloss": "En ⟨el⟩ año"
     },
     {
       "surface": "בא",
-      "english": "en que vino"
+      "gloss": "en que vino"
     },
     {
       "surface": "תרתן",
-      "english": "Tartan"
+      "gloss": "Tartan"
     },
     {
       "surface": "אשדודה",
-      "english": "a Ashdod"
+      "gloss": "a Ashdod"
     },
     {
       "surface": "בשלח",
-      "english": "cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Sargon"
     },
     {
       "surface": "סרגון",
-      "english": "Sargon"
+      "gloss": "Sargon"
     },
     {
       "surface": "מלך",
-      "english": ", el rey de"
+      "gloss": ", el rey de"
     },
     {
       "surface": "אשור",
-      "english": "Ashshur"
+      "gloss": "Ashshur"
     },
     {
       "surface": "וילחם",
-      "english": "lo envió, y peleó contra"
+      "gloss": "lo envió, y peleó contra"
     },
     {
       "surface": "באשדוד",
-      "english": "Ashdod y"
+      "gloss": "Ashdod y"
     },
     {
       "surface": "וילכדה",
-      "english": "la capturó"
+      "gloss": "la capturó"
     }
-  ],
-  "timestamp": "2026-07-16T21:24:28.204344984Z",
-  "model": "glm-4.5"
+  ]
 }

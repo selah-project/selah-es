@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 6:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69878,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70250
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:48.121597027Z",
   "translation": "Y mi alma ⟨está⟩ muy aterrada y ⟨a⟩ YHWH ⟨lo⟩ hasta cuando",
   "tokens": [
     {
       "surface": "ונפשי",
-      "english": "Y mi alma"
+      "gloss": "Y mi alma"
     },
     {
       "surface": "נבהלה",
-      "english": "⟨está⟩ muy aterrada"
+      "gloss": "⟨está⟩ muy aterrada"
     },
     {
       "surface": "מאד",
-      "english": "muy"
+      "gloss": "muy"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨a⟩",
+      "gloss": "y ⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עד",
-      "english": "⟨lo⟩ hasta"
+      "gloss": "⟨lo⟩ hasta"
     },
     {
       "surface": "מתי",
-      "english": "cuando"
+      "gloss": "cuando"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:48.121597027Z",
-  "model": "glm-4.5"
+  ]
 }

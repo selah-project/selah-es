@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 27:8",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26182,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26665
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:36:39.798035139Z",
   "translation": "En medida al enviarla ⟨את⟩ contendes ⟨con⟩ ella; ⟨Él⟩ la ha removido ⟨con⟩ su viento fuerte en el día del viento del este.",
   "tokens": [
     {
       "surface": "בסאסאה",
-      "english": "En medida"
+      "gloss": "En medida"
     },
     {
       "surface": "בשלחה",
-      "english": "al enviarla"
+      "gloss": "al enviarla"
     },
     {
       "surface": "תריבנה",
-      "english": "contendes ⟨con⟩ ella"
+      "gloss": "contendes ⟨con⟩ ella"
     },
     {
       "surface": "הגה",
-      "english": "⟨Él⟩ la ha removido"
+      "gloss": "⟨Él⟩ la ha removido"
     },
     {
       "surface": "ברוחו",
-      "english": "⟨con⟩ su viento fuerte"
+      "gloss": "⟨con⟩ su viento fuerte"
     },
     {
       "surface": "הקשה",
-      "english": "fuerte"
+      "gloss": "fuerte"
     },
     {
       "surface": "ביום",
-      "english": "en el día"
+      "gloss": "en el día"
     },
     {
       "surface": "קדים",
-      "english": "del viento del este"
+      "gloss": "del viento del este"
     }
-  ],
-  "timestamp": "2026-06-10T02:36:39.798035139Z",
-  "model": "glm-4.5"
+  ]
 }

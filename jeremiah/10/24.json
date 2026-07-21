@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "jeremiah 10:24",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24529,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24997
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:12:40.017221652Z",
   "translation": "Castígame, YHWH, ⟨en⟩ medida, ⟨pero⟩ no ⟨con⟩ tu ira, ⟨para que⟩ no ⟨me⟩ ⟨hagas⟩ pequeño.",
   "tokens": [
     {
       "surface": "יסרני",
-      "english": "Castígame"
+      "gloss": "Castígame"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אך",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "במשפט",
-      "english": "medida"
+      "gloss": "medida"
     },
     {
       "surface": "אל",
-      "english": "⟨pero⟩ no"
+      "gloss": "⟨pero⟩ no"
     },
     {
       "surface": "באפך",
-      "english": "⟨con⟩ tu ira"
+      "gloss": "⟨con⟩ tu ira"
     },
     {
       "surface": "פן",
-      "english": "⟨para que⟩ no"
+      "gloss": "⟨para que⟩ no"
     },
     {
       "surface": "תמעטני",
-      "english": "⟨me⟩ ⟨hagas⟩ pequeño"
+      "gloss": "⟨me⟩ ⟨hagas⟩ pequeño"
     }
-  ],
-  "timestamp": "2026-06-10T03:12:40.017221652Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 71:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 341,
-    "prompt_tokens": 70015,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70356
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:32:58.144405746Z",
   "translation": "Porque tú eres mi esperanza, Adonai YHWH, mi confianza desde mi juventud.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אתה",
-      "english": "tú ⟨eres⟩"
+      "gloss": "tú ⟨eres⟩"
     },
     {
       "surface": "תקותי",
-      "english": "mi esperanza"
+      "gloss": "mi esperanza"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מבטחי",
-      "english": "mi confianza"
+      "gloss": "mi confianza"
     },
     {
       "surface": "מנעורי",
-      "english": "desde mi juventud"
+      "gloss": "desde mi juventud"
     }
-  ],
-  "timestamp": "2026-07-16T23:32:58.144405746Z",
-  "model": "glm-4.5"
+  ]
 }

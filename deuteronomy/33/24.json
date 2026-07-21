@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "deuteronomy 33:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 33,
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:31:28.065005302Z",
+  "translation": "Y de Asher dijo: ⟨Bendecido⟩ ⟨sea⟩ Asher con hijos; ⟨sea⟩ agradable a sus hermanos, y ⟨que⟩ sumerja su pie en aceite.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "Y de Aser"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dijo:"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "⟨Bendecido⟩"
+    },
+    {
+      "surface": "מבנים",
+      "gloss": "⟨sea⟩ Aser con hijos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "⟨sea⟩"
+    },
+    {
+      "surface": "רצוי",
+      "gloss": "agradable"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a sus hermanos"
+    },
+    {
+      "surface": "וטבל",
+      "gloss": "y ⟨que⟩ sumerja"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "su pie en aceite"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "su pie"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Aser",
@@ -13,68 +64,6 @@
       "hebrew": "אשר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17588,
-    "prompt_tokens_details": {
-      "cached_tokens": 16232
-    },
-    "total_tokens": 18050
-  },
-  "translation": "Y de Asher dijo: ⟨Bendecido⟩ ⟨sea⟩ Asher con hijos; ⟨sea⟩ agradable a sus hermanos, y ⟨que⟩ sumerja su pie en aceite.",
-  "tokens": [
-    {
-      "surface": "ולאשר",
-      "english": "Y de Aser"
-    },
-    {
-      "surface": "אמר",
-      "english": "dijo:"
-    },
-    {
-      "surface": "ברוך",
-      "english": "⟨Bendecido⟩"
-    },
-    {
-      "surface": "מבנים",
-      "english": "⟨sea⟩ Aser con hijos"
-    },
-    {
-      "surface": "אשר",
-      "english": "Asher"
-    },
-    {
-      "surface": "יהי",
-      "english": "⟨sea⟩"
-    },
-    {
-      "surface": "רצוי",
-      "english": "agradable"
-    },
-    {
-      "surface": "אחיו",
-      "english": "a sus hermanos"
-    },
-    {
-      "surface": "וטבל",
-      "english": "y ⟨que⟩ sumerja"
-    },
-    {
-      "surface": "בשמן",
-      "english": "su pie en aceite"
-    },
-    {
-      "surface": "רגלו",
-      "english": "su pie"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:31:28.065005302Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

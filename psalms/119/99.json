@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 99,
   "ref": "psalms 119:99",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69828,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70212
-  },
+  "verse": 99,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:08.634093022Z",
   "translation": "De todos mis maestros ⟨he⟩ adquirido ⟨el⟩ entendimiento porque ⟨los⟩ testimonios de ti ⟨son⟩ meditación para mí",
   "tokens": [
     {
       "surface": "מכל",
-      "english": "De todos"
+      "gloss": "De todos"
     },
     {
       "surface": "מלמדי",
-      "english": "mis maestros"
+      "gloss": "mis maestros"
     },
     {
       "surface": "השכלתי",
-      "english": "⟨he⟩ adquirido ⟨el⟩ entendimiento"
+      "gloss": "⟨he⟩ adquirido ⟨el⟩ entendimiento"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "עדותיך",
-      "english": "⟨los⟩ testimonios de ti"
+      "gloss": "⟨los⟩ testimonios de ti"
     },
     {
       "surface": "שיחה",
-      "english": "son meditación"
+      "gloss": "son meditación"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:08.634093022Z",
-  "model": "glm-4.5"
+  ]
 }

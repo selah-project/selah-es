@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 21:25",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26966,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27314
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:14.421200369Z",
   "translation": "Y este muere en ⟨el⟩ amargura de ⟨el⟩ alma y ⟨no⟩ ha comido ⟨en⟩ prosperidad",
   "tokens": [
     {
       "surface": "וזה",
-      "english": "Y este"
+      "gloss": "Y este"
     },
     {
       "surface": "ימות",
-      "english": "muere"
+      "gloss": "muere"
     },
     {
       "surface": "בנפש",
-      "english": "en ⟨el⟩ alma"
+      "gloss": "en ⟨el⟩ alma"
     },
     {
       "surface": "מרה",
-      "english": "amargura de ⟨el⟩"
+      "gloss": "amargura de ⟨el⟩"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "אכל",
-      "english": "ha comido"
+      "gloss": "ha comido"
     },
     {
       "surface": "בטובה",
-      "english": "⟨en⟩ prosperidad"
+      "gloss": "⟨en⟩ prosperidad"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:14.421200369Z",
-  "model": "glm-4.5"
+  ]
 }

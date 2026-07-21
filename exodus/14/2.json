@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 14:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 14,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:41:20.250424500Z",
+  "translation": "Habla a los hijos de Yisrael que ⟨se⟩ vuelvan y acampen ⟨en⟩ ⟨el⟩ frente ⟨de⟩ Pi-hahirot, ⟨en⟩ ⟨el⟩ medio ⟨de⟩ Migdol y ⟨el⟩ mar, ⟨en⟩ ⟨el⟩ frente ⟨de⟩ Baal-Tsefón; ⟨en⟩ ⟨el⟩ frente ⟨de⟩ él acampad sobre ⟨el⟩ mar.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Habla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "que ⟨se⟩ vuelvan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "y acampen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨en⟩ ⟨el⟩ frente"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "Pi-hahirot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨en⟩ ⟨el⟩ medio"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "⟨de⟩ Migdol"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "y"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨el⟩ mar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨en⟩ ⟨el⟩ frente"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "⟨de⟩ Baal"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefón"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "⟨en⟩ ⟨el⟩ frente"
+    },
+    {
+      "surface": "תחנו",
+      "gloss": "acampad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨el⟩ mar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,104 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 791,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17605,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 18396
-  },
-  "translation": "Habla a los hijos de Yisrael que ⟨se⟩ vuelvan y acampen ⟨en⟩ ⟨el⟩ frente ⟨de⟩ Pi-hahirot, ⟨en⟩ ⟨el⟩ medio ⟨de⟩ Migdol y ⟨el⟩ mar, ⟨en⟩ ⟨el⟩ frente ⟨de⟩ Baal-Tsefón; ⟨en⟩ ⟨el⟩ frente ⟨de⟩ él acampad sobre ⟨el⟩ mar.",
-  "tokens": [
-    {
-      "surface": "דבר",
-      "english": "Habla"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "וישבו",
-      "english": "que ⟨se⟩ vuelvan"
-    },
-    {
-      "surface": "ויחנו",
-      "english": "y acampen"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨en⟩ ⟨el⟩ frente"
-    },
-    {
-      "surface": "פי",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "החירת",
-      "english": "Pi-hahirot"
-    },
-    {
-      "surface": "בין",
-      "english": "⟨en⟩ ⟨el⟩ medio"
-    },
-    {
-      "surface": "מגדל",
-      "english": "⟨de⟩ Migdol"
-    },
-    {
-      "surface": "ובין",
-      "english": "y"
-    },
-    {
-      "surface": "הים",
-      "english": "⟨el⟩ mar"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨en⟩ ⟨el⟩ frente"
-    },
-    {
-      "surface": "בעל",
-      "english": "⟨de⟩ Baal"
-    },
-    {
-      "surface": "צפן",
-      "english": "Tsefón"
-    },
-    {
-      "surface": "נכחו",
-      "english": "⟨en⟩ ⟨el⟩ frente"
-    },
-    {
-      "surface": "תחנו",
-      "english": "acampad"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הים",
-      "english": "⟨el⟩ mar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:41:20.250424500Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

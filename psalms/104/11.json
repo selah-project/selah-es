@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 104:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69894,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70360
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:12.069406606Z",
   "translation": "Ellas dan de beber a ⟨todo⟩ animal ⟨del⟩ campo; ⟨los⟩ asnos salvajes sacian ⟨su⟩ sed.",
   "tokens": [
     {
       "surface": "ישקו",
-      "english": "Ellas dan de beber"
+      "gloss": "Ellas dan de beber"
     },
     {
       "surface": "כל",
-      "english": "⟨todo⟩"
+      "gloss": "⟨todo⟩"
     },
     {
       "surface": "חיתו",
-      "english": "animal"
+      "gloss": "animal"
     },
     {
       "surface": "שדי",
-      "english": "⟨del⟩ campo"
+      "gloss": "⟨del⟩ campo"
     },
     {
       "surface": "ישברו",
-      "english": "⟨los⟩ asnos salvajes sacian"
+      "gloss": "⟨los⟩ asnos salvajes sacian"
     },
     {
       "surface": "פראים",
-      "english": "asnos salvajes"
+      "gloss": "asnos salvajes"
     },
     {
       "surface": "צמאם",
-      "english": "⟨su⟩ sed"
+      "gloss": "⟨su⟩ sed"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:12.069406606Z",
-  "model": "glm-4.5"
+  ]
 }

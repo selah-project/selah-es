@@ -1,82 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "joshua 24:12",
   "book": "joshua",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 666,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24173,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 24839
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:26:16.724948935Z",
   "translation": "Y ⟨es⟩ envié ⟨el⟩ zumbador delante de vosotros, y ⟨el⟩ expulsó de delante de vosotros ⟨a⟩ los dos reyes ⟨del⟩ amorreo, no con tu espada ni con tu arco.",
   "tokens": [
     {
       "surface": "ואשלח",
-      "english": "Y envié"
+      "gloss": "Y envié"
     },
     {
       "surface": "לפניכם",
-      "english": "delante de vosotros"
+      "gloss": "delante de vosotros"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "el zumbador"
     },
     {
       "surface": "הצרעה",
-      "english": "el zumbador"
+      "gloss": "el zumbador"
     },
     {
       "surface": "ותגרש",
-      "english": "y ⟨el⟩ expulsó"
+      "gloss": "y ⟨el⟩ expulsó"
     },
     {
       "surface": "אותם",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "los dos reyes ⟨del⟩ amorreo"
     },
     {
       "surface": "מפניכם",
-      "english": "de delante de vosotros"
+      "gloss": "de delante de vosotros"
     },
     {
       "surface": "שני",
-      "english": "los dos"
+      "gloss": "los dos"
     },
     {
       "surface": "מלכי",
-      "english": "reyes"
+      "gloss": "reyes"
     },
     {
       "surface": "האמרי",
-      "english": "⟨del⟩ amorreo"
+      "gloss": "⟨del⟩ amorreo"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "בחרבך",
-      "english": "con tu espada"
+      "gloss": "con tu espada"
     },
     {
       "surface": "ולא",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "בקשתך",
-      "english": "con tu arco"
+      "gloss": "con tu arco"
     }
-  ],
-  "timestamp": "2026-06-10T01:26:16.724948935Z",
-  "model": "glm-4.5"
+  ]
 }

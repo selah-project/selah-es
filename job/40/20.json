@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 40:20",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27212,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27658
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:21.794461068Z",
   "translation": "Pues por ⟨el⟩ fruto ⟨de⟩ las montañas ⟨lo⟩ levantan, y toda criatura ⟨del⟩ campo juega allí",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pues"
+      "gloss": "Pues"
     },
     {
       "surface": "בול",
-      "english": "por ⟨el⟩ fruto"
+      "gloss": "por ⟨el⟩ fruto"
     },
     {
       "surface": "הרים",
-      "english": "⟨de⟩ las montañas"
+      "gloss": "⟨de⟩ las montañas"
     },
     {
       "surface": "יִשְׂאוּ",
-      "english": "⟨lo⟩ levantan"
+      "gloss": "⟨lo⟩ levantan"
     },
     {
       "surface": "לוֹ",
-      "english": "⟨lo⟩"
+      "gloss": "⟨lo⟩"
     },
     {
       "surface": "וְ\/כָל",
-      "english": "y toda"
+      "gloss": "y toda"
     },
     {
       "surface": "חַיַּ֥ת",
-      "english": "criatura"
+      "gloss": "criatura"
     },
     {
       "surface": "הַ֝\/שָּׂדֶ֗ה",
-      "english": "⟨del⟩ campo"
+      "gloss": "⟨del⟩ campo"
     },
     {
       "surface": "יְשַֽׂחֲקוּ",
-      "english": "juega"
+      "gloss": "juega"
     },
     {
       "surface": "שָֽׁם",
-      "english": "allí"
+      "gloss": "allí"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:21.794461068Z",
-  "model": "glm-4.5"
+  ]
 }

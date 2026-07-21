@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "habakkuk 1:1",
   "book": "habakkuk",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 353,
-    "prompt_tokens": 28145,
-    "prompt_tokens_details": {
-      "cached_tokens": 18176
-    },
-    "total_tokens": 28498
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:18:04.784908533Z",
   "translation": "⟨El⟩ oráculo ⟨que⟩ Javakuk ⟨el⟩ profeta vio",
   "tokens": [
     {
       "surface": "המשא",
-      "english": "⟨El⟩ oráculo"
+      "gloss": "⟨El⟩ oráculo"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "חזה",
-      "english": "vio"
+      "gloss": "vio"
     },
     {
       "surface": "חבקוק",
-      "english": "Javakuk"
+      "gloss": "Javakuk"
     },
     {
       "surface": "הנביא",
-      "english": "⟨el⟩ profeta"
+      "gloss": "⟨el⟩ profeta"
     }
-  ],
-  "timestamp": "2026-07-16T21:18:04.784908533Z",
-  "model": "glm-4.5"
+  ]
 }

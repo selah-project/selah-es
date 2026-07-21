@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 40:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 358,
-    "prompt_tokens": 70001,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70359
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:52.491232852Z",
   "translation": "Haz favor, YHWH, ⟨para⟩ librarme; YHWH, ⟨para⟩ ayudar ⟨a⟩ mí, apresúrate.",
   "tokens": [
     {
       "surface": "רצה",
-      "english": "Haz favor"
+      "gloss": "Haz favor"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "להצילני",
-      "english": "⟨para⟩ librarme"
+      "gloss": "⟨para⟩ librarme"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לעזרתי",
-      "english": "⟨para⟩ ayudar ⟨a⟩ mí"
+      "gloss": "⟨para⟩ ayudar ⟨a⟩ mí"
     },
     {
       "surface": "חושה",
-      "english": "apresúrate"
+      "gloss": "apresúrate"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:52.491232852Z",
-  "model": "glm-4.5"
+  ]
 }

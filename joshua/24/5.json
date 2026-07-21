@@ -1,81 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "joshua 24:5",
   "book": "joshua",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 518,
-    "prompt_tokens": 24240,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 24758
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:17:56.600374823Z",
   "translation": "Y envié ⟨את⟩ Moshé y ⟨את⟩ Aharón, y golpeé ⟨את⟩ Mitzráyim según ⟨lo que⟩ hice en medio de él, y después hice salir ⟨את⟩ vosotros",
   "tokens": [
     {
       "surface": "ואשלח",
-      "english": "Y envié"
+      "gloss": "Y envié"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Aharón"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "ואגף",
-      "english": "y golpeé"
+      "gloss": "y golpeé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Mitzráyim"
     },
     {
       "surface": "מצרים",
-      "english": "Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "כאשר",
-      "english": "según ⟨lo que⟩"
+      "gloss": "según ⟨lo que⟩"
     },
     {
       "surface": "עשיתי",
-      "english": "hice"
+      "gloss": "hice"
     },
     {
       "surface": "בקרבו",
-      "english": "en medio de él"
+      "gloss": "en medio de él"
     },
     {
       "surface": "ואחר",
-      "english": "y después"
+      "gloss": "y después"
     },
     {
       "surface": "הוצאתי",
-      "english": "hice salir"
+      "gloss": "hice salir"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩ vosotros",
+      "gloss": "⟨את⟩ vosotros",
       "marks": "vosotros"
     }
-  ],
-  "timestamp": "2026-07-16T22:17:56.600374823Z",
-  "model": "glm-4.5"
+  ]
 }

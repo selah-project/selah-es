@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 107:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 383,
-    "prompt_tokens": 69954,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70337
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:23.904084204Z",
   "translation": "Porque quebró ⟨las⟩ puertas de bronce y los cerrojos de hierro cortó",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "שבר",
-      "english": "quebró"
+      "gloss": "quebró"
     },
     {
       "surface": "דלתות",
-      "english": "puertas"
+      "gloss": "puertas"
     },
     {
       "surface": "נחשת",
-      "english": "de bronce"
+      "gloss": "de bronce"
     },
     {
       "surface": "ובריחי",
-      "english": "y los cerrojos"
+      "gloss": "y los cerrojos"
     },
     {
       "surface": "ברזל",
-      "english": "de hierro"
+      "gloss": "de hierro"
     },
     {
       "surface": "גדע",
-      "english": "cortó"
+      "gloss": "cortó"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:23.904084204Z",
-  "model": "glm-4.5"
+  ]
 }

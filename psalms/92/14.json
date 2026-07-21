@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 92:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 254,
-    "prompt_tokens": 69902,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70156
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:22.994416789Z",
   "translation": "Plantados ⟨en⟩ la casa de YHWH, en los patios de nuestro Elohim florecerán.",
   "tokens": [
     {
       "surface": "שתולים",
-      "english": "Plantados"
+      "gloss": "Plantados"
     },
     {
       "surface": "בבית",
-      "english": "en la casa"
+      "gloss": "en la casa"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בחצרות",
-      "english": "en los patios"
+      "gloss": "en los patios"
     },
     {
       "surface": "אלהינו",
-      "english": "de nuestro Elohim"
+      "gloss": "de nuestro Elohim"
     },
     {
       "surface": "יפריחו",
-      "english": "florecerán"
+      "gloss": "florecerán"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:22.994416789Z",
-  "model": "glm-4.5"
+  ]
 }

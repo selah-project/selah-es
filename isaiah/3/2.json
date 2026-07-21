@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 3:2",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 530,
-    "prompt_tokens": 26120,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 26650
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:21:44.081412731Z",
   "translation": "⟨El⟩ poderoso y ⟨el⟩ hombre ⟨de⟩ guerra, el juez, y el profeta, y el adivino, y el anciano",
   "tokens": [
     {
       "surface": "גבור",
-      "english": "⟨El⟩ poderoso"
+      "gloss": "⟨El⟩ poderoso"
     },
     {
       "surface": "ואיש",
-      "english": "y ⟨el⟩ hombre"
+      "gloss": "y ⟨el⟩ hombre"
     },
     {
       "surface": "מלחמה",
-      "english": "⟨de⟩ guerra"
+      "gloss": "⟨de⟩ guerra"
     },
     {
       "surface": "שופט",
-      "english": "el juez"
+      "gloss": "el juez"
     },
     {
       "surface": "ונביא",
-      "english": "y el profeta"
+      "gloss": "y el profeta"
     },
     {
       "surface": "וקסם",
-      "english": "y el adivino"
+      "gloss": "y el adivino"
     },
     {
       "surface": "וזקן",
-      "english": "y el anciano"
+      "gloss": "y el anciano"
     }
-  ],
-  "timestamp": "2026-07-16T21:21:44.081412731Z",
-  "model": "glm-4.5"
+  ]
 }

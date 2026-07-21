@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 37:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69927,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70492
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:34.193579274Z",
   "translation": "⟨El⟩ malvado ⟨es⟩ un prestatario ⟨y⟩ no paga, ⟨mas⟩ ⟨el⟩ justo ⟨es⟩ misericordioso ⟨y⟩ da.",
   "tokens": [
     {
       "surface": "לוה",
-      "english": "Prestatario",
+      "gloss": "Prestatario",
       "marks": "prestatario"
     },
     {
       "surface": "רשע",
-      "english": "⟨El⟩ malvado",
+      "gloss": "⟨El⟩ malvado",
       "marks": "malvado"
     },
     {
       "surface": "ולא",
-      "english": "⟨y⟩ no",
+      "gloss": "⟨y⟩ no",
       "marks": "no"
     },
     {
       "surface": "ישלם",
-      "english": "paga",
+      "gloss": "paga",
       "marks": ""
     },
     {
       "surface": "וצדיק",
-      "english": "⟨mas⟩ ⟨el⟩ justo",
+      "gloss": "⟨mas⟩ ⟨el⟩ justo",
       "marks": "justo"
     },
     {
       "surface": "חונן",
-      "english": "⟨es⟩ misericordioso",
+      "gloss": "⟨es⟩ misericordioso",
       "marks": ""
     },
     {
       "surface": "ונותן",
-      "english": "⟨y⟩ da",
+      "gloss": "⟨y⟩ da",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:15:34.193579274Z",
-  "model": "glm-4.5"
+  ]
 }

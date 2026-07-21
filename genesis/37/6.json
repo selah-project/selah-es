@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 37:6",
   "book": "genesis",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28368,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28802
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:34:00.041768988Z",
   "translation": "Y dijo ⟨a⟩ ellos: Oíd ⟨ahora⟩ ⟨el⟩ sueño ⟨este⟩ ⟨que⟩ soñé ⟨yo⟩:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "אליהם",
-      "english": "⟨a⟩ ellos"
+      "gloss": "⟨a⟩ ellos"
     },
     {
       "surface": "שמעו",
-      "english": "Oíd"
+      "gloss": "Oíd"
     },
     {
       "surface": "נא",
-      "english": "⟨ahora⟩"
+      "gloss": "⟨ahora⟩"
     },
     {
       "surface": "החלום",
-      "english": "⟨el⟩ sueño"
+      "gloss": "⟨el⟩ sueño"
     },
     {
       "surface": "הזה",
-      "english": "⟨este⟩"
+      "gloss": "⟨este⟩"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "חלמתי",
-      "english": "soñé ⟨yo⟩"
+      "gloss": "soñé ⟨yo⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:34:00.041768988Z",
-  "model": "glm-4.5"
+  ]
 }

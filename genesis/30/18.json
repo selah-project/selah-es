@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 30:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 30,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:15:50.082278503Z",
+  "translation": "Y Leahh dijo: ⟨ha⟩ dado Elohim ⟨un⟩ salario ⟨a⟩ mí, porque ⟨yo⟩ di mi sierva a mi marido, y llamó su nombre Yissajar.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Y Leah dijo"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leahh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨ha⟩ dado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "⟨un⟩ salario ⟨a⟩ mí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "porque"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "⟨yo⟩ di"
+    },
+    {
+      "surface": "שפחתי",
+      "gloss": "mi sierva"
+    },
+    {
+      "surface": "לאישי",
+      "gloss": "a mi marido"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "y llamó"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "su nombre"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissajar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Lea",
@@ -20,72 +75,6 @@
       "hebrew": "יששכר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21416,
-    "prompt_tokens_details": {
-      "cached_tokens": 19977
-    },
-    "total_tokens": 21942
-  },
-  "translation": "Y Leahh dijo: ⟨ha⟩ dado Elohim ⟨un⟩ salario ⟨a⟩ mí, porque ⟨yo⟩ di mi sierva a mi marido, y llamó su nombre Yissajar.",
-  "tokens": [
-    {
-      "surface": "ותאמר",
-      "english": "Y Leah dijo"
-    },
-    {
-      "surface": "לאה",
-      "english": "Leahh"
-    },
-    {
-      "surface": "נתן",
-      "english": "⟨ha⟩ dado"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "שכרי",
-      "english": "⟨un⟩ salario ⟨a⟩ mí"
-    },
-    {
-      "surface": "אשר",
-      "english": "porque"
-    },
-    {
-      "surface": "נתתי",
-      "english": "⟨yo⟩ di"
-    },
-    {
-      "surface": "שפחתי",
-      "english": "mi sierva"
-    },
-    {
-      "surface": "לאישי",
-      "english": "a mi marido"
-    },
-    {
-      "surface": "ותקרא",
-      "english": "y llamó"
-    },
-    {
-      "surface": "שמו",
-      "english": "su nombre"
-    },
-    {
-      "surface": "יששכר",
-      "english": "Yissajar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:15:50.082278503Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 40:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 208,
-    "prompt_tokens": 25860,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26068
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:28:32.416150325Z",
   "translation": "Consolaos, consolaos a mi pueblo, dice vuestro Elohim",
   "tokens": [
     {
       "surface": "נחמו",
-      "english": "Consolaos"
+      "gloss": "Consolaos"
     },
     {
       "surface": "נחמו",
-      "english": "consolaos"
+      "gloss": "consolaos"
     },
     {
       "surface": "עמי",
-      "english": "a mi pueblo"
+      "gloss": "a mi pueblo"
     },
     {
       "surface": "יאמר",
-      "english": "dice"
+      "gloss": "dice"
     },
     {
       "surface": "אלהיכם",
-      "english": "vuestro Elohim"
+      "gloss": "vuestro Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T21:28:32.416150325Z",
-  "model": "glm-4.5"
+  ]
 }

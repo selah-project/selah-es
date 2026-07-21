@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 118:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69701,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70004
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:58:51.562718354Z",
   "translation": "Este ⟨es⟩ ⟨el⟩ portal ⟨para⟩ YHWH ⟨a través del⟩ cual entrarán los justos",
   "tokens": [
     {
       "surface": "זה",
-      "english": "Este"
+      "gloss": "Este"
     },
     {
       "surface": "השער",
-      "english": "⟨el⟩ portal"
+      "gloss": "⟨el⟩ portal"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨para⟩ YHWH"
+      "gloss": "⟨para⟩ YHWH"
     },
     {
       "surface": "צדיקים",
-      "english": "los justos"
+      "gloss": "los justos"
     },
     {
       "surface": "יבאו",
-      "english": "entrarán"
+      "gloss": "entrarán"
     },
     {
       "surface": "בו",
-      "english": "⟨a través del⟩ cual"
+      "gloss": "⟨a través del⟩ cual"
     }
-  ],
-  "timestamp": "2026-06-09T23:58:51.562718354Z",
-  "model": "glm-4.5"
+  ]
 }

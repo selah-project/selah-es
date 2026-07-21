@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-chronicles 16:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 16,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:45:03.353254221Z",
+  "translation": "y Benaía y Yajaziel, los sacerdotes ⟨con⟩ trompetas continuamente ⟨antes del⟩ Arón ⟨del⟩ Brit ⟨de⟩ los Elohim.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Y Benaía"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "y Yajaziel"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "los sacerdotes"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "⟨con⟩ trompetas",
+      "marks": "con trompetas"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuamente"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨antes del⟩",
+      "marks": "arca"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arón"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨del⟩ Brit",
+      "marks": "pacto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ los Elohim",
+      "marks": "los Elohim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "arca",
@@ -20,64 +67,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56917,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57405
-  },
-  "translation": "y Benaía y Yajaziel, los sacerdotes ⟨con⟩ trompetas continuamente ⟨antes del⟩ Arón ⟨del⟩ Brit ⟨de⟩ los Elohim.",
-  "tokens": [
-    {
-      "surface": "ובניהו",
-      "english": "Y Benaía"
-    },
-    {
-      "surface": "ויחזיאל",
-      "english": "y Yajaziel"
-    },
-    {
-      "surface": "הכהנים",
-      "english": "los sacerdotes"
-    },
-    {
-      "surface": "בחצצרות",
-      "english": "⟨con⟩ trompetas",
-      "marks": "con trompetas"
-    },
-    {
-      "surface": "תמיד",
-      "english": "continuamente"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨antes del⟩",
-      "marks": "arca"
-    },
-    {
-      "surface": "ארון",
-      "english": "Arón"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨del⟩ Brit",
-      "marks": "pacto"
-    },
-    {
-      "surface": "האלהים",
-      "english": "⟨de⟩ los Elohim",
-      "marks": "los Elohim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:45:03.353254221Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 6:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 260,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56571,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 56831
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:32:33.579487685Z",
   "translation": "Y estos ⟨son⟩ ⟨los⟩ nombres de ⟨los⟩ hijos de Gershom: Libni y Shimei.",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "Y estos"
+      "gloss": "Y estos"
     },
     {
       "surface": "שמות",
-      "english": "nombres"
+      "gloss": "nombres"
     },
     {
       "surface": "בני",
-      "english": "de ⟨los⟩ hijos"
+      "gloss": "de ⟨los⟩ hijos"
     },
     {
       "surface": "גרשום",
-      "english": "de Gershom"
+      "gloss": "de Gershom"
     },
     {
       "surface": "לבני",
-      "english": "Libni"
+      "gloss": "Libni"
     },
     {
       "surface": "ושמעי",
-      "english": "y Shimei"
+      "gloss": "y Shimei"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:32:33.579487685Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

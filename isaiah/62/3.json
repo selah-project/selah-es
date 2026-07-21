@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 62:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26191,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26658
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:59:24.369248852Z",
   "translation": "Y serás ⟨un⟩ corona de gloria en ⟨la⟩ mano de YHWH y ⟨un⟩ diadema real en ⟨la⟩ palma de tu Elohim",
   "tokens": [
     {
       "surface": "והיית",
-      "english": "Y serás"
+      "gloss": "Y serás"
     },
     {
       "surface": "עטרת",
-      "english": "⟨un⟩ corona"
+      "gloss": "⟨un⟩ corona"
     },
     {
       "surface": "תפארת",
-      "english": "de gloria"
+      "gloss": "de gloria"
     },
     {
       "surface": "ביד",
-      "english": "en ⟨la⟩ mano"
+      "gloss": "en ⟨la⟩ mano"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "וצנוף",
-      "english": "y ⟨un⟩"
+      "gloss": "y ⟨un⟩"
     },
     {
       "surface": "מלוכה",
-      "english": "diadema real"
+      "gloss": "diadema real"
     },
     {
       "surface": "בכף",
-      "english": "en ⟨la⟩ palma"
+      "gloss": "en ⟨la⟩ palma"
     },
     {
       "surface": "אלהיך",
-      "english": "de tu Elohim"
+      "gloss": "de tu Elohim"
     }
-  ],
-  "timestamp": "2026-06-10T02:59:24.369248852Z",
-  "model": "glm-4.5"
+  ]
 }

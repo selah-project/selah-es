@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "2-kings 12:15",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 572,
-    "prompt_tokens": 24121,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24693
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:11:25.666163215Z",
   "translation": "Porque a los que hacían ⟨el⟩ trabajo ⟨se⟩ lo daban, y actuaban con fidelidad en ⟨él⟩ ⟨את⟩ la casa de YHWH",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לעשי",
-      "english": "a los que hacían"
+      "gloss": "a los que hacían"
     },
     {
       "surface": "המלאכה",
-      "english": "⟨el⟩ trabajo"
+      "gloss": "⟨el⟩ trabajo"
     },
     {
       "surface": "יתנהו",
-      "english": "⟨se⟩ lo daban"
+      "gloss": "⟨se⟩ lo daban"
     },
     {
       "surface": "וחזקו",
-      "english": "y actuaban con fidelidad"
+      "gloss": "y actuaban con fidelidad"
     },
     {
       "surface": "בו",
-      "english": "en ⟨él⟩"
+      "gloss": "en ⟨él⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la casa"
     },
     {
       "surface": "בית",
-      "english": "la casa"
+      "gloss": "la casa"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T19:11:25.666163215Z",
-  "model": "glm-4.5"
+  ]
 }

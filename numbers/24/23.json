@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "numbers 24:23",
   "book": "numbers",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25029,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25473
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:59:57.183105525Z",
   "translation": "Y levantó ⟨su⟩ proverbio y dijo: ¡Ay! ¿Quién vivirá cuando ⟨⟩ ha hecho ⟨esto⟩?",
   "tokens": [
     {
       "surface": "וישא",
-      "english": "Y levantó",
+      "gloss": "Y levantó",
       "marks": null
     },
     {
       "surface": "משלו",
-      "english": "⟨su⟩ proverbio",
+      "gloss": "⟨su⟩ proverbio",
       "marks": null
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo:",
+      "gloss": "y dijo:",
       "marks": null
     },
     {
       "surface": "אוי",
-      "english": "¡Ay!",
+      "gloss": "¡Ay!",
       "marks": null
     },
     {
       "surface": "מי",
-      "english": "¿Quién",
+      "gloss": "¿Quién",
       "marks": null
     },
     {
       "surface": "יחיה",
-      "english": "vivirá",
+      "gloss": "vivirá",
       "marks": null
     },
     {
       "surface": "משמו",
-      "english": "⟨⟩",
+      "gloss": "⟨⟩",
       "marks": "ha hecho"
     },
     {
       "surface": "אל",
-      "english": "⟨esto⟩",
+      "gloss": "⟨esto⟩",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-10T04:59:57.183105525Z",
-  "model": "glm-4.5"
+  ]
 }

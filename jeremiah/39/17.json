@@ -1,83 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "jeremiah 39:17",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 843,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24903,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25746
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:36:33.739105491Z",
   "translation": "Y ⟨te⟩ ⟨ha⟩ ⟨dado⟩ ⟨en⟩ ⟨la⟩ mano de los hombres ⟨quienes⟩ tú temes ⟨de⟩ ⟨frente⟩ ⟨de⟩ ellos",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "Y",
+      "gloss": "Y",
       "marks": "No direct object - connects clauses"
     },
     {
       "surface": "תנתן",
-      "english": "⟨ha⟩",
+      "gloss": "⟨ha⟩",
       "marks": "No direct object - the entire following phrase is implied"
     },
     {
       "surface": "ביד",
-      "english": "⟨dado⟩",
+      "gloss": "⟨dado⟩",
       "marks": "The implied direct object of 'given'"
     },
     {
       "surface": "האנשים",
-      "english": "⟨en⟩",
+      "gloss": "⟨en⟩",
       "marks": "Preposition required in Spanish"
     },
     {
       "surface": "אשר",
-      "english": "⟨la⟩",
+      "gloss": "⟨la⟩",
       "marks": "Definite article required in Spanish"
     },
     {
       "surface": "אתה",
-      "english": "mano",
+      "gloss": "mano",
       "marks": "The implied object that 'in' refers to"
     },
     {
       "surface": "יגור",
-      "english": "de los hombres",
+      "gloss": "de los hombres",
       "marks": "Explicit noun phrase implied by context"
     },
     {
       "surface": "מפניהם",
-      "english": "⟨quienes⟩"
+      "gloss": "⟨quienes⟩"
     },
     {
       "surface": "והצלתיך",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "ביום",
-      "english": "temes"
+      "gloss": "temes"
     },
     {
       "surface": "ההוא",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "נאם",
-      "english": "⟨frente⟩"
+      "gloss": "⟨frente⟩"
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     }
-  ],
-  "timestamp": "2026-06-10T03:36:33.739105491Z",
-  "model": "glm-4.5"
+  ]
 }

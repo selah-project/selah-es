@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 24:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69935,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70319
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:07:22.075815572Z",
   "translation": "¿Quién ⟨ascenderá⟩ al monte de YHWH y quién ⟨se erguirá⟩ en ⟨el⟩ lugar santo ⟨de Él⟩?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "יעלה",
-      "english": "ascenderá"
+      "gloss": "ascenderá"
     },
     {
       "surface": "בהר",
-      "english": "al monte"
+      "gloss": "al monte"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ומי",
-      "english": "y quién"
+      "gloss": "y quién"
     },
     {
       "surface": "יקום",
-      "english": "se erguirá"
+      "gloss": "se erguirá"
     },
     {
       "surface": "במקום",
-      "english": "en lugar"
+      "gloss": "en lugar"
     },
     {
       "surface": "קדשו",
-      "english": "santo de Él"
+      "gloss": "santo de Él"
     }
-  ],
-  "timestamp": "2026-06-09T23:07:22.075815572Z",
-  "model": "glm-4.5"
+  ]
 }

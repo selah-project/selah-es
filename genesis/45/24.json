@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 45:24",
   "book": "genesis",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28607,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28993
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:43:13.864362112Z",
   "translation": "Y envió ⟨a⟩ sus hermanos, y se fueron; y les dijo: ⟨No⟩ se enojen en el camino.",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "Y envió"
+      "gloss": "Y envió"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "sus hermanos"
     },
     {
       "surface": "אחיו",
-      "english": "sus hermanos"
+      "gloss": "sus hermanos"
     },
     {
       "surface": "וילכו",
-      "english": "y se fueron"
+      "gloss": "y se fueron"
     },
     {
       "surface": "ואמר",
-      "english": "y les dijo"
+      "gloss": "y les dijo"
     },
     {
       "surface": "אלהם",
-      "english": "les"
+      "gloss": "les"
     },
     {
       "surface": "אל",
-      "english": "⟨No⟩"
+      "gloss": "⟨No⟩"
     },
     {
       "surface": "תרגזו",
-      "english": "se enojen"
+      "gloss": "se enojen"
     },
     {
       "surface": "בדרך",
-      "english": "en el camino"
+      "gloss": "en el camino"
     }
-  ],
-  "timestamp": "2026-06-10T05:43:13.864362112Z",
-  "model": "glm-4.5"
+  ]
 }

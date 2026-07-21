@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 79:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 496,
-    "prompt_tokens": 70531,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71027
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:34:29.689752769Z",
   "translation": "Han dado ⟨el⟩ cadáver de tus siervos como alimento para las aves de los cielos, la carne de tus jasidim para las bestias de la tierra",
   "tokens": [
     {
       "surface": "נתנו",
-      "english": "Han dado"
+      "gloss": "Han dado"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el cadáver de tus siervos"
     },
     {
       "surface": "נבלת",
-      "english": "cadáver"
+      "gloss": "cadáver"
     },
     {
       "surface": "עבדיך",
-      "english": "de tus siervos"
+      "gloss": "de tus siervos"
     },
     {
       "surface": "מאכל",
-      "english": "como alimento"
+      "gloss": "como alimento"
     },
     {
       "surface": "לעוף",
-      "english": "para las aves"
+      "gloss": "para las aves"
     },
     {
       "surface": "השמים",
-      "english": "de los cielos"
+      "gloss": "de los cielos"
     },
     {
       "surface": "בשר",
-      "english": "la carne"
+      "gloss": "la carne"
     },
     {
       "surface": "חסידיך",
-      "english": "de tus jasidim"
+      "gloss": "de tus jasidim"
     },
     {
       "surface": "לחיתו",
-      "english": "para las bestias"
+      "gloss": "para las bestias"
     },
     {
       "surface": "ארץ",
-      "english": "de la tierra"
+      "gloss": "de la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T23:34:29.689752769Z",
-  "model": "glm-4.5"
+  ]
 }

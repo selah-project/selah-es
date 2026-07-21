@@ -1,9 +1,110 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "ezra 3:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 3,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:13:22.217581208Z",
+  "translation": "Y dieron plata ⟨a⟩ los canteros y ⟨a⟩ los artesanos, y alimento y bebida y aceite ⟨a⟩ los de Sidón y ⟨a⟩ los de Tiro, para traer maderas de cedro desde el Líbano ⟨hacia⟩ el mar de Jope, según el edicto de Koresh, rey de Persia, ⟨para⟩ ellos.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Y dieron"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "לחצבים",
+      "gloss": "⟨a⟩ los canteros",
+      "marks": "los canteros"
+    },
+    {
+      "surface": "ולחרשים",
+      "gloss": "y ⟨a⟩ los artesanos",
+      "marks": "los artesanos"
+    },
+    {
+      "surface": "ומאכל",
+      "gloss": "y alimento"
+    },
+    {
+      "surface": "ומשתה",
+      "gloss": "y bebida"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "y aceite"
+    },
+    {
+      "surface": "לצדנים",
+      "gloss": "⟨a⟩ los de Sidón",
+      "marks": "los de Sidón"
+    },
+    {
+      "surface": "ולצרים",
+      "gloss": "y ⟨a⟩ los de Tiro",
+      "marks": "los de Tiro"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "para traer"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "maderas"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "de cedro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "desde"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "el Líbano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨hacia⟩",
+      "marks": "el mar de Jope"
+    },
+    {
+      "surface": "ים",
+      "gloss": "el mar"
+    },
+    {
+      "surface": "יפוא",
+      "gloss": "de Jope"
+    },
+    {
+      "surface": "כרשיון",
+      "gloss": "según el edicto"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "de Koresh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "de Persia"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨para⟩ ellos",
+      "marks": "ellos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Ciro",
@@ -13,118 +114,6 @@
       "hebrew": "כורש"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 831,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46145,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 46976
-  },
-  "translation": "Y dieron plata ⟨a⟩ los canteros y ⟨a⟩ los artesanos, y alimento y bebida y aceite ⟨a⟩ los de Sidón y ⟨a⟩ los de Tiro, para traer maderas de cedro desde el Líbano ⟨hacia⟩ el mar de Jope, según el edicto de Koresh, rey de Persia, ⟨para⟩ ellos.",
-  "tokens": [
-    {
-      "surface": "ויתנו",
-      "english": "Y dieron"
-    },
-    {
-      "surface": "כסף",
-      "english": "plata"
-    },
-    {
-      "surface": "לחצבים",
-      "english": "⟨a⟩ los canteros",
-      "marks": "los canteros"
-    },
-    {
-      "surface": "ולחרשים",
-      "english": "y ⟨a⟩ los artesanos",
-      "marks": "los artesanos"
-    },
-    {
-      "surface": "ומאכל",
-      "english": "y alimento"
-    },
-    {
-      "surface": "ומשתה",
-      "english": "y bebida"
-    },
-    {
-      "surface": "ושמן",
-      "english": "y aceite"
-    },
-    {
-      "surface": "לצדנים",
-      "english": "⟨a⟩ los de Sidón",
-      "marks": "los de Sidón"
-    },
-    {
-      "surface": "ולצרים",
-      "english": "y ⟨a⟩ los de Tiro",
-      "marks": "los de Tiro"
-    },
-    {
-      "surface": "להביא",
-      "english": "para traer"
-    },
-    {
-      "surface": "עצי",
-      "english": "maderas"
-    },
-    {
-      "surface": "ארזים",
-      "english": "de cedro"
-    },
-    {
-      "surface": "מן",
-      "english": "desde"
-    },
-    {
-      "surface": "הלבנון",
-      "english": "el Líbano"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨hacia⟩",
-      "marks": "el mar de Jope"
-    },
-    {
-      "surface": "ים",
-      "english": "el mar"
-    },
-    {
-      "surface": "יפוא",
-      "english": "de Jope"
-    },
-    {
-      "surface": "כרשיון",
-      "english": "según el edicto"
-    },
-    {
-      "surface": "כורש",
-      "english": "de Koresh"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "פרס",
-      "english": "de Persia"
-    },
-    {
-      "surface": "עליהם",
-      "english": "⟨para⟩ ellos",
-      "marks": "ellos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:13:22.217581208Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

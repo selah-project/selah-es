@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 10:15",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59842,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60362
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:35:38.752923551Z",
   "translation": "La riqueza ⟨del⟩ rico ⟨es⟩ ciudad fuerte ⟨de su⟩ fuerza; ⟨la⟩ destrucción ⟨de⟩ ⟨los⟩ débiles ⟨es⟩ su pobreza.",
   "tokens": [
     {
       "surface": "הון",
-      "english": "La riqueza"
+      "gloss": "La riqueza"
     },
     {
       "surface": "עשיר",
-      "english": "⟨del⟩ rico",
+      "gloss": "⟨del⟩ rico",
       "marks": "La riqueza"
     },
     {
       "surface": "קרית",
-      "english": "⟨es⟩ ciudad fuerte"
+      "gloss": "⟨es⟩ ciudad fuerte"
     },
     {
       "surface": "עזו",
-      "english": "⟨de su⟩ fuerza"
+      "gloss": "⟨de su⟩ fuerza"
     },
     {
       "surface": "מחתת",
-      "english": "⟨la⟩ destrucción"
+      "gloss": "⟨la⟩ destrucción"
     },
     {
       "surface": "דלים",
-      "english": "⟨los⟩ débiles"
+      "gloss": "⟨los⟩ débiles"
     },
     {
       "surface": "רישם",
-      "english": "⟨es⟩ su pobreza"
+      "gloss": "⟨es⟩ su pobreza"
     }
-  ],
-  "timestamp": "2026-06-10T01:35:38.752923551Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 12:6",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59859,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60313
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:36:45.359216574Z",
   "translation": "Las palabras de los malvados ⟨están⟩ al acecho para ⟨la⟩ sangre; pero ⟨la⟩ boca de ⟨los⟩ rectos los librará.",
   "tokens": [
     {
       "surface": "דברי",
-      "english": "Las palabras de"
+      "gloss": "Las palabras de"
     },
     {
       "surface": "רשעים",
-      "english": "los malvados"
+      "gloss": "los malvados"
     },
     {
       "surface": "ארב",
-      "english": "⟨están⟩ al acecho"
+      "gloss": "⟨están⟩ al acecho"
     },
     {
       "surface": "דם",
-      "english": "para ⟨la⟩ sangre"
+      "gloss": "para ⟨la⟩ sangre"
     },
     {
       "surface": "ופי",
-      "english": "pero ⟨la⟩ boca de"
+      "gloss": "pero ⟨la⟩ boca de"
     },
     {
       "surface": "ישרים",
-      "english": "⟨los⟩ rectos"
+      "gloss": "⟨los⟩ rectos"
     },
     {
       "surface": "יצילם",
-      "english": "los librará"
+      "gloss": "los librará"
     }
-  ],
-  "timestamp": "2026-06-10T01:36:45.359216574Z",
-  "model": "glm-4.5"
+  ]
 }

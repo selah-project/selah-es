@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 9:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59851,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60213
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:34:10.482149912Z",
   "translation": "Ella envió a sus siervas ⟨ella⟩ clama sobre ⟨el⟩ lugar alto de ⟨la⟩ ciudad",
   "tokens": [
     {
       "surface": "שלחה",
-      "english": "Ella envió"
+      "gloss": "Ella envió"
     },
     {
       "surface": "נערתיה",
-      "english": "a sus siervas",
+      "gloss": "a sus siervas",
       "marks": "her maidens"
     },
     {
       "surface": "תקרא",
-      "english": "⟨ella⟩ clama"
+      "gloss": "⟨ella⟩ clama"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "גפי",
-      "english": "⟨el⟩ lugar alto",
+      "gloss": "⟨el⟩ lugar alto",
       "marks": "the high places"
     },
     {
       "surface": "מרמי",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "קרת",
-      "english": "⟨la⟩ ciudad",
+      "gloss": "⟨la⟩ ciudad",
       "marks": "the city"
     }
-  ],
-  "timestamp": "2026-06-10T01:34:10.482149912Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 136:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 70157,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70559
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:56.824294046Z",
   "translation": "⟨את⟩ la luna y las estrellas para gobernar ⟨en⟩ la noche, porque para siempre ⟨es⟩ su Jésed",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la luna"
     },
     {
       "surface": "הירח",
-      "english": "la luna"
+      "gloss": "la luna"
     },
     {
       "surface": "וכוכבים",
-      "english": "y las estrellas"
+      "gloss": "y las estrellas"
     },
     {
       "surface": "לממשלות",
-      "english": "para gobernar"
+      "gloss": "para gobernar"
     },
     {
       "surface": "בלילה",
-      "english": "⟨en⟩ la noche"
+      "gloss": "⟨en⟩ la noche"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:56.824294046Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "2-chronicles 20:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 20,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:20:35.027315542Z",
+  "translation": "¿⟨no⟩ ⟨es⟩ tú nuestro Elohim, quien expulsó ⟨a⟩ los moradores de esta tierra de ⟨lo⟩ ⟨ante⟩ tu pueblo Yisrael y ⟨la⟩ dio ⟨a⟩ ⟨la⟩ descendencia de Avraham tu amado para siempre?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "¿No",
+      "marks": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨es⟩ tú",
+      "marks": ""
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nuestro Elohim",
+      "marks": ""
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "quien expulsó",
+      "marks": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "los moradores"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "moradores",
+      "marks": ""
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de esta tierra",
+      "marks": ""
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "esta",
+      "marks": ""
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de ⟨lo⟩ ⟨ante⟩",
+      "marks": ""
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tu pueblo",
+      "marks": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael",
+      "marks": ""
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "y ⟨la⟩ dio",
+      "marks": ""
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "⟨a⟩ ⟨la⟩ descendencia de",
+      "marks": ""
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham",
+      "marks": ""
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "tu amado",
+      "marks": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "para siempre",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,104 +107,6 @@
       "hebrew": "אברהם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 770,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58616,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 59386
-  },
-  "translation": "¿⟨no⟩ ⟨es⟩ tú nuestro Elohim, quien expulsó ⟨a⟩ los moradores de esta tierra de ⟨lo⟩ ⟨ante⟩ tu pueblo Yisrael y ⟨la⟩ dio ⟨a⟩ ⟨la⟩ descendencia de Avraham tu amado para siempre?",
-  "tokens": [
-    {
-      "surface": "הלא",
-      "english": "¿No",
-      "marks": ""
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨es⟩ tú",
-      "marks": ""
-    },
-    {
-      "surface": "אלהינו",
-      "english": "nuestro Elohim",
-      "marks": ""
-    },
-    {
-      "surface": "הורשת",
-      "english": "quien expulsó",
-      "marks": ""
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "los moradores"
-    },
-    {
-      "surface": "ישבי",
-      "english": "moradores",
-      "marks": ""
-    },
-    {
-      "surface": "הארץ",
-      "english": "de esta tierra",
-      "marks": ""
-    },
-    {
-      "surface": "הזאת",
-      "english": "esta",
-      "marks": ""
-    },
-    {
-      "surface": "מלפני",
-      "english": "de ⟨lo⟩ ⟨ante⟩",
-      "marks": ""
-    },
-    {
-      "surface": "עמך",
-      "english": "tu pueblo",
-      "marks": ""
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael",
-      "marks": ""
-    },
-    {
-      "surface": "ותתנה",
-      "english": "y ⟨la⟩ dio",
-      "marks": ""
-    },
-    {
-      "surface": "לזרע",
-      "english": "⟨a⟩ ⟨la⟩ descendencia de",
-      "marks": ""
-    },
-    {
-      "surface": "אברהם",
-      "english": "Avraham",
-      "marks": ""
-    },
-    {
-      "surface": "אהבך",
-      "english": "tu amado",
-      "marks": ""
-    },
-    {
-      "surface": "לעולם",
-      "english": "para siempre",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:20:35.027315542Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

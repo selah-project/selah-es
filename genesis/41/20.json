@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 41:20",
   "book": "genesis",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28573,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28945
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:38:02.954120817Z",
   "translation": "y las vacas flacas ⟨y⟩ malas comieron ⟨a⟩ las siete primeras vacas ⟨las⟩ gordas",
   "tokens": [
     {
       "surface": "ותאכלנה",
-      "english": "Y comieron"
+      "gloss": "Y comieron"
     },
     {
       "surface": "הפרות",
-      "english": "las vacas"
+      "gloss": "las vacas"
     },
     {
       "surface": "הרקות",
-      "english": "flacas"
+      "gloss": "flacas"
     },
     {
       "surface": "והרעות",
-      "english": "⟨y⟩ malas"
+      "gloss": "⟨y⟩ malas"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "las siete primeras vacas ⟨las⟩ gordas"
     },
     {
       "surface": "שבע",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "הפרות",
-      "english": "vacas"
+      "gloss": "vacas"
     },
     {
       "surface": "הראשנות",
-      "english": "primeras"
+      "gloss": "primeras"
     },
     {
       "surface": "הבריאת",
-      "english": "⟨las⟩ gordas"
+      "gloss": "⟨las⟩ gordas"
     }
-  ],
-  "timestamp": "2026-06-10T05:38:02.954120817Z",
-  "model": "glm-4.5"
+  ]
 }

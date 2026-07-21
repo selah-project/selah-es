@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 121:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69846,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70151
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:37.561118898Z",
   "translation": "Behold, ⟨את⟩ not ⟨he will⟩ slumber ⟨and⟩ not ⟨he will⟩ sleep, ⟨the⟩ keeper of Israel.",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "Behold"
+      "gloss": "Behold"
     },
     {
       "surface": "לא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "ינום",
-      "english": "slumber"
+      "gloss": "slumber"
     },
     {
       "surface": "ולא",
-      "english": "and not"
+      "gloss": "and not"
     },
     {
       "surface": "יישן",
-      "english": "sleep"
+      "gloss": "sleep"
     },
     {
       "surface": "שומר",
-      "english": "the keeper"
+      "gloss": "the keeper"
     },
     {
       "surface": "ישראל",
-      "english": "of Israel"
+      "gloss": "of Israel"
     }
-  ],
-  "timestamp": "2026-06-10T00:02:37.561118898Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-samuel 5:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 5,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:19:55.072698161Z",
+  "translation": "Y Davidd, yendo y creciendo ⟨se hizo⟩ grande, y YHWH Elohim de los ejércitos ⟨estaba⟩ con él.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Y David, yendo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yendo"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "y creciendo ⟨se hizo⟩ grande"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "y YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim de"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "los ejércitos"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨estaba⟩ con él"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,56 +52,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16862,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17181
-  },
-  "translation": "Y Davidd, yendo y creciendo ⟨se hizo⟩ grande, y YHWH Elohim de los ejércitos ⟨estaba⟩ con él.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "Y David, yendo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "הלוך",
-      "english": "yendo"
-    },
-    {
-      "surface": "וגדול",
-      "english": "y creciendo ⟨se hizo⟩ grande"
-    },
-    {
-      "surface": "ויהוה",
-      "english": "y YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim de"
-    },
-    {
-      "surface": "צבאות",
-      "english": "los ejércitos"
-    },
-    {
-      "surface": "עמו",
-      "english": "⟨estaba⟩ con él"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:19:55.072698161Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

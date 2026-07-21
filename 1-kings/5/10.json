@@ -1,9 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-kings 5:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 5,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:48:51.812690598Z",
+  "translation": "Y Jojmá de Shelomá ⟨superó⟩ Jojmá de todos los hijos de Qedem y toda Jojmá de Mitsráyim",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "Y ⟨superó⟩",
+      "marks": "חכמת שלמה (sabiduría de Shelomá)"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomá"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "la sabiduría"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de todos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "de Qedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "y toda"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "la sabiduría",
@@ -20,65 +68,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62212,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62739
-  },
-  "translation": "Y Jojmá de Shelomá ⟨superó⟩ Jojmá de todos los hijos de Qedem y toda Jojmá de Mitsráyim",
-  "tokens": [
-    {
-      "surface": "ותרב",
-      "english": "Y ⟨superó⟩",
-      "marks": "חכמת שלמה (sabiduría de Shelomá)"
-    },
-    {
-      "surface": "חכמת",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "שלמה",
-      "english": "de Shelomá"
-    },
-    {
-      "surface": "מחכמת",
-      "english": "la sabiduría"
-    },
-    {
-      "surface": "כל",
-      "english": "de todos"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos"
-    },
-    {
-      "surface": "קדם",
-      "english": "de Qedem"
-    },
-    {
-      "surface": "ומכל",
-      "english": "y toda"
-    },
-    {
-      "surface": "חכמת",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitsráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:48:51.812690598Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

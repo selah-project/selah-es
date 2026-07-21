@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "hosea 13:9",
   "book": "hosea",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 370,
-    "prompt_tokens": 26373,
-    "prompt_tokens_details": {
-      "cached_tokens": 25472
-    },
-    "total_tokens": 26743
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:21:33.137512995Z",
   "translation": "Tu destrucción, O Israel, es de ti mismo; en mí está tu ayuda.",
   "tokens": [
     {
       "surface": "שחתך",
-      "english": "Tu destrucción"
+      "gloss": "Tu destrucción"
     },
     {
       "surface": "ישראל",
-      "english": "O Israel"
+      "gloss": "O Israel"
     },
     {
       "surface": "כי",
-      "english": "es"
+      "gloss": "es"
     },
     {
       "surface": "בי",
-      "english": "de ti mismo"
+      "gloss": "de ti mismo"
     },
     {
       "surface": "בעזרך",
-      "english": "en mí está tu ayuda"
+      "gloss": "en mí está tu ayuda"
     }
-  ],
-  "timestamp": "2026-07-16T21:21:33.137512995Z",
-  "model": "glm-4.5"
+  ]
 }

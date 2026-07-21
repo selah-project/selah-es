@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "1-kings 8:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 8,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:54:35.353549324Z",
+  "translation": "Y ahora, HaShem Elohim de Yisrael, ⟨se⟩ confirme, ⟨por favor⟩, ⟨la⟩ palabra que hablaste a tu siervo Davidd mi padre",
+  "tokens": [
+    {
+      "surface": "וְ\/עַתָּ֖ה",
+      "gloss": "Y ahora"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "HaShem Elohim"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "יֵאָ֤מֶן",
+      "gloss": "⟨se⟩ confirme"
+    },
+    {
+      "surface": "נָא֙",
+      "gloss": "⟨por favor⟩"
+    },
+    {
+      "surface": "דברי\/ך",
+      "gloss": "⟨la⟩ palabra"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דִּבַּ֔רְתָּ",
+      "gloss": "hablaste"
+    },
+    {
+      "surface": "לְ\/עַבְדְּ\/ךָ֖",
+      "gloss": "a tu siervo"
+    },
+    {
+      "surface": "דָּוִ֥ד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אָבִֽ\/י",
+      "gloss": "mi padre"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,68 +71,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62387,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62970
-  },
-  "translation": "Y ahora, HaShem Elohim de Yisrael, ⟨se⟩ confirme, ⟨por favor⟩, ⟨la⟩ palabra que hablaste a tu siervo Davidd mi padre",
-  "tokens": [
-    {
-      "surface": "וְ\/עַתָּ֖ה",
-      "english": "Y ahora"
-    },
-    {
-      "surface": "אֱלֹהֵ֣י",
-      "english": "HaShem Elohim"
-    },
-    {
-      "surface": "יִשְׂרָאֵ֑ל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "יֵאָ֤מֶן",
-      "english": "⟨se⟩ confirme"
-    },
-    {
-      "surface": "נָא֙",
-      "english": "⟨por favor⟩"
-    },
-    {
-      "surface": "דברי\/ך",
-      "english": "⟨la⟩ palabra"
-    },
-    {
-      "surface": "אֲשֶׁ֣ר",
-      "english": "que"
-    },
-    {
-      "surface": "דִּבַּ֔רְתָּ",
-      "english": "hablaste"
-    },
-    {
-      "surface": "לְ\/עַבְדְּ\/ךָ֖",
-      "english": "a tu siervo"
-    },
-    {
-      "surface": "דָּוִ֥ד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אָבִֽ\/י",
-      "english": "mi padre"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:54:35.353549324Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

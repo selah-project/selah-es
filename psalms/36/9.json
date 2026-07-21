@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 36:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 368,
-    "prompt_tokens": 69984,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70352
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:27:43.812814565Z",
   "translation": "Serán saciados ⟨de⟩ la abundancia de tu casa, y del torrente de tus delicias les harás beber.",
   "tokens": [
     {
       "surface": "ירוין",
-      "english": "Serán saciados"
+      "gloss": "Serán saciados"
     },
     {
       "surface": "מדשן",
-      "english": "⟨de⟩ la abundancia"
+      "gloss": "⟨de⟩ la abundancia"
     },
     {
       "surface": "ביתך",
-      "english": "de tu casa"
+      "gloss": "de tu casa"
     },
     {
       "surface": "ונחל",
-      "english": "y del torrente"
+      "gloss": "y del torrente"
     },
     {
       "surface": "עדניך",
-      "english": "de tus delicias"
+      "gloss": "de tus delicias"
     },
     {
       "surface": "תשקם",
-      "english": "les harás beber"
+      "gloss": "les harás beber"
     }
-  ],
-  "timestamp": "2026-07-21T02:27:43.812814565Z",
-  "model": "glm-4.5"
+  ]
 }

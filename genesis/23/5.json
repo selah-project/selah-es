@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 23:5",
   "book": "genesis",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 364,
-    "prompt_tokens": 28388,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28752
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:00:47.567483827Z",
   "translation": "Y respondieron los hijos de Jet ⟨את⟩ Avraham, diciendo a él:",
   "tokens": [
     {
       "surface": "ויענו",
-      "english": "Y respondieron"
+      "gloss": "Y respondieron"
     },
     {
       "surface": "בני",
-      "english": "los hijos de"
+      "gloss": "los hijos de"
     },
     {
       "surface": "חת",
-      "english": "Jet"
+      "gloss": "Jet"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avraham"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     },
     {
       "surface": "לו",
-      "english": "a él"
+      "gloss": "a él"
     }
-  ],
-  "timestamp": "2026-07-16T21:00:47.567483827Z",
-  "model": "glm-4.5"
+  ]
 }

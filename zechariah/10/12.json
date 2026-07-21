@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "zechariah 10:12",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23002,
-    "prompt_tokens_details": {
-      "cached_tokens": 22082
-    },
-    "total_tokens": 23352
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:54:58.632804674Z",
   "translation": "Y ⟨los⟩ fortaleceré ⟨en⟩ YHWH, y ⟨en⟩ su nombre andarán de un lado ⟨a⟩ otro, ⟨es⟩ la palabra de YHWH.",
   "tokens": [
     {
       "surface": "וגברתים",
-      "english": "Y ⟨los⟩ fortaleceré"
+      "gloss": "Y ⟨los⟩ fortaleceré"
     },
     {
       "surface": "ביהוה",
-      "english": "⟨en⟩ YHWH"
+      "gloss": "⟨en⟩ YHWH"
     },
     {
       "surface": "ובשמו",
-      "english": "y ⟨en⟩ su nombre"
+      "gloss": "y ⟨en⟩ su nombre"
     },
     {
       "surface": "יתהלכו",
-      "english": "andarán de un lado ⟨a⟩ otro"
+      "gloss": "andarán de un lado ⟨a⟩ otro"
     },
     {
       "surface": "נאם",
-      "english": "⟨es⟩ la palabra de"
+      "gloss": "⟨es⟩ la palabra de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-09T22:54:58.632804674Z",
-  "model": "glm-4.5"
+  ]
 }

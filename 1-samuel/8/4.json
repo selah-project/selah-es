@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-samuel 8:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 8,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:50:59.536394761Z",
+  "translation": "Entonces todos los ancianos de Yisrael se congregaron y vinieron a Shemu'el ⟨a⟩ Ramatah",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "Entonces se congregaron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "los ancianos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "y vinieron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramatah"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,56 +52,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 275,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16092,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16367
-  },
-  "translation": "Entonces todos los ancianos de Yisrael se congregaron y vinieron a Shemu'el ⟨a⟩ Ramatah",
-  "tokens": [
-    {
-      "surface": "ויתקבצו",
-      "english": "Entonces se congregaron"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "זקני",
-      "english": "los ancianos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "y vinieron"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שמואל",
-      "english": "Shemu'el"
-    },
-    {
-      "surface": "הרמתה",
-      "english": "Ramatah"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:50:59.536394761Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

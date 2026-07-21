@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 7:5",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 441,
-    "prompt_tokens": 24709,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25150
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:34:36.421096917Z",
   "translation": "y ofrecerá en humo ⟨את⟩ el kohen sobre el altar, una ofrenda de fuego para YHWH; es una ofrenda por la culpa.",
   "tokens": [
     {
       "surface": "והקטיר",
-      "english": "y ofrecerá en humo"
+      "gloss": "y ofrecerá en humo"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הכהן"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "המזבחה",
-      "english": "sobre el altar"
+      "gloss": "sobre el altar"
     },
     {
       "surface": "אשה",
-      "english": "una ofrenda de fuego"
+      "gloss": "una ofrenda de fuego"
     },
     {
       "surface": "ליהוה",
-      "english": "para YHWH"
+      "gloss": "para YHWH"
     },
     {
       "surface": "אשם",
-      "english": "ofrenda por la culpa"
+      "gloss": "ofrenda por la culpa"
     },
     {
       "surface": "הוא",
-      "english": "es"
+      "gloss": "es"
     }
-  ],
-  "timestamp": "2026-07-16T22:34:36.421096917Z",
-  "model": "glm-4.5"
+  ]
 }

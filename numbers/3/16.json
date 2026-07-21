@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 3:16",
   "book": "numbers",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 448,
-    "prompt_tokens": 25195,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25643
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:56:33.243881055Z",
   "translation": "Y Moshé ⟨את⟩ a ellos, sobre ⟨el⟩ mouth de YHWH, como ⟨él⟩ fue ordenado",
   "tokens": [
     {
       "surface": "ויפקד",
-      "english": "Y... numbered"
+      "gloss": "Y... numbered"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a ellos"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פי",
-      "english": "⟨el⟩ mouth"
+      "gloss": "⟨el⟩ mouth"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "english": "⟨él⟩ fue ordenado"
+      "gloss": "⟨él⟩ fue ordenado"
     }
-  ],
-  "timestamp": "2026-07-16T22:56:33.243881055Z",
-  "model": "glm-4.5"
+  ]
 }

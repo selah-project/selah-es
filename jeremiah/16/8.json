@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "jeremiah 16:8",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 24668,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25042
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:39:12.222040525Z",
   "translation": "Y en la casa de banquete no entrarás para sentarte con ⟨ellos⟩ para comer y ⟨para⟩ beber",
   "tokens": [
     {
       "surface": "ובית",
-      "english": "Y en la casa"
+      "gloss": "Y en la casa"
     },
     {
       "surface": "משתה",
-      "english": "de banquete"
+      "gloss": "de banquete"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תבוא",
-      "english": "entrarás"
+      "gloss": "entrarás"
     },
     {
       "surface": "לשבת",
-      "english": "para sentarte"
+      "gloss": "para sentarte"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "con ellos"
     },
     {
       "surface": "לאכל",
-      "english": "para comer"
+      "gloss": "para comer"
     },
     {
       "surface": "ולשתות",
-      "english": "y ⟨para⟩ beber"
+      "gloss": "y ⟨para⟩ beber"
     }
-  ],
-  "timestamp": "2026-07-16T21:39:12.222040525Z",
-  "model": "glm-4.5"
+  ]
 }

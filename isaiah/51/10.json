@@ -1,78 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 51:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 675,
-    "prompt_tokens": 26867,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27542
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:30:43.000547169Z",
   "translation": "¿No eres tú ⟨la⟩ que seca el mar, ⟨las⟩ aguas del gran abismo, ⟨la⟩ que puso ⟨los⟩ abismos del mar como camino para ⟨el⟩ paso de los redimidos?",
   "tokens": [
     {
       "surface": "הלוא",
-      "english": "¿No"
+      "gloss": "¿No"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "היא — la que"
     },
     {
       "surface": "היא",
-      "english": "eres tú"
+      "gloss": "eres tú"
     },
     {
       "surface": "המחרבת",
-      "english": "⟨la⟩ que seca"
+      "gloss": "⟨la⟩ que seca"
     },
     {
       "surface": "ים",
-      "english": "el mar"
+      "gloss": "el mar"
     },
     {
       "surface": "מי",
-      "english": "⟨las⟩ aguas"
+      "gloss": "⟨las⟩ aguas"
     },
     {
       "surface": "תהום",
-      "english": "del gran abismo"
+      "gloss": "del gran abismo"
     },
     {
       "surface": "רבה",
-      "english": "gran"
+      "gloss": "gran"
     },
     {
       "surface": "השמה",
-      "english": "⟨la⟩ que puso"
+      "gloss": "⟨la⟩ que puso"
     },
     {
       "surface": "מעמקי",
-      "english": "⟨los⟩ abismos"
+      "gloss": "⟨los⟩ abismos"
     },
     {
       "surface": "ים",
-      "english": "del mar"
+      "gloss": "del mar"
     },
     {
       "surface": "דרך",
-      "english": "como camino"
+      "gloss": "como camino"
     },
     {
       "surface": "לעבר",
-      "english": "para ⟨el⟩ paso"
+      "gloss": "para ⟨el⟩ paso"
     },
     {
       "surface": "גאולים",
-      "english": "de los redimidos"
+      "gloss": "de los redimidos"
     }
-  ],
-  "timestamp": "2026-07-16T21:30:43.000547169Z",
-  "model": "glm-4.5"
+  ]
 }

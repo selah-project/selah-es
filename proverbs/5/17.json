@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 5:17",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 59770,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60143
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:17:29.181179563Z",
   "translation": "Que ⟨sean⟩ para ti solo, y no para ⟨los⟩ extraños contigo.",
   "tokens": [
     {
       "surface": "יהיו",
-      "english": "Que ⟨sean⟩"
+      "gloss": "Que ⟨sean⟩"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "לבדך",
-      "english": "solo"
+      "gloss": "solo"
     },
     {
       "surface": "ואין",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "לזרים",
-      "english": "para ⟨los⟩ extraños"
+      "gloss": "para ⟨los⟩ extraños"
     },
     {
       "surface": "אתך",
-      "english": "contigo"
+      "gloss": "contigo"
     }
-  ],
-  "timestamp": "2026-07-16T23:17:29.181179563Z",
-  "model": "glm-4.5"
+  ]
 }

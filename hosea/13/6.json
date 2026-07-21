@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "hosea 13:6",
   "book": "hosea",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26602,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26931
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:49:11.767154213Z",
   "translation": "Según su pasto fueron saciados se saciaron y se exaltó ⟨el⟩ corazón de ellos por tanto ⟨se⟩ olvidaron de mí",
   "tokens": [
     {
       "surface": "כמרעיתם",
-      "english": "Según su pasto"
+      "gloss": "Según su pasto"
     },
     {
       "surface": "וישבעו",
-      "english": "fueron saciados"
+      "gloss": "fueron saciados"
     },
     {
       "surface": "שבעו",
-      "english": "se saciaron"
+      "gloss": "se saciaron"
     },
     {
       "surface": "וירם",
-      "english": "y se exaltó"
+      "gloss": "y se exaltó"
     },
     {
       "surface": "לבם",
-      "english": "⟨el⟩ corazón de ellos"
+      "gloss": "⟨el⟩ corazón de ellos"
     },
     {
       "surface": "על",
-      "english": "por tanto"
+      "gloss": "por tanto"
     },
     {
       "surface": "כן",
-      "english": "⟨se⟩"
+      "gloss": "⟨se⟩"
     },
     {
       "surface": "שכחוני",
-      "english": "olvidaron de mí"
+      "gloss": "olvidaron de mí"
     }
-  ],
-  "timestamp": "2026-06-09T22:49:11.767154213Z",
-  "model": "glm-4.5"
+  ]
 }

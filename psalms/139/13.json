@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 139:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 491,
-    "prompt_tokens": 70045,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70536
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:23.733402694Z",
   "translation": "Porque tú poseíste mis riñones; me tejiste en el vientre de mi madre",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "קנית",
-      "english": "poseíste"
+      "gloss": "poseíste"
     },
     {
       "surface": "כליתי",
-      "english": "mis riñones"
+      "gloss": "mis riñones"
     },
     {
       "surface": "תסכני",
-      "english": "me tejiste"
+      "gloss": "me tejiste"
     },
     {
       "surface": "בבטן",
-      "english": "en el vientre"
+      "gloss": "en el vientre"
     },
     {
       "surface": "אמי",
-      "english": "de mi madre"
+      "gloss": "de mi madre"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:23.733402694Z",
-  "model": "glm-4.5"
+  ]
 }

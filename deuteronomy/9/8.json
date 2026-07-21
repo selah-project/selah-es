@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "deuteronomy 9:8",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 621,
-    "prompt_tokens": 25081,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25702
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:47:00.165982595Z",
   "translation": "En Joréb habéis provocado ⟨a⟩ YHWH, y se encendió ⟨en⟩ ira YHWH contra vosotros para destruiros ⟨את⟩.",
   "tokens": [
     {
       "surface": "ובחרב",
-      "english": "En Joréb"
+      "gloss": "En Joréb"
     },
     {
       "surface": "הקצפתם",
-      "english": "habéis provocado"
+      "gloss": "habéis provocado"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויתאנף",
-      "english": "y se encendió ⟨en⟩ ira YHWH"
+      "gloss": "y se encendió ⟨en⟩ ira YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בכם",
-      "english": "contra vosotros"
+      "gloss": "contra vosotros"
     },
     {
       "surface": "להשמיד",
-      "english": "para destruiros"
+      "gloss": "para destruiros"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vosotros"
     }
-  ],
-  "timestamp": "2026-07-16T19:47:00.165982595Z",
-  "model": "glm-4.5"
+  ]
 }

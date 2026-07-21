@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "job 9:19",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27133,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27556
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:08.073943119Z",
   "translation": "Si ⟨es⟩ por fuerza, ⟨את⟩ ⟨el⟩ fuerte; he aquí, y si ⟨es⟩ por juicio, ¿quién me ⟨convocará⟩?",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si",
+      "gloss": "Si",
       "marks": "condicional"
     },
     {
       "surface": "לכח",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "fuerza"
     },
     {
       "surface": "אמיץ",
-      "english": "fuerte"
+      "gloss": "fuerte"
     },
     {
       "surface": "הנה",
-      "english": "he aquí"
+      "gloss": "he aquí"
     },
     {
       "surface": "ואם",
-      "english": "y si"
+      "gloss": "y si"
     },
     {
       "surface": "למשפט",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "juicio"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "יועידני",
-      "english": "me ⟨convocará⟩"
+      "gloss": "me ⟨convocará⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:08.073943119Z",
-  "model": "glm-4.5"
+  ]
 }

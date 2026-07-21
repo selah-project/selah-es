@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 5:18",
   "book": "job",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27076,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27490
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:55.073970407Z",
   "translation": "Porque Él hiere ⟨y⟩ vendará; ⟨Él⟩ aplastará ⟨y⟩ su mano sanará.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "הוא",
-      "english": "Él"
+      "gloss": "Él"
     },
     {
       "surface": "יכאיב",
-      "english": "hiere"
+      "gloss": "hiere"
     },
     {
       "surface": "ויחבש",
-      "english": "⟨y⟩ vendará"
+      "gloss": "⟨y⟩ vendará"
     },
     {
       "surface": "ימחץ",
-      "english": "⟨Él⟩ aplastará"
+      "gloss": "⟨Él⟩ aplastará"
     },
     {
       "surface": "וידו",
-      "english": "⟨y⟩ su mano"
+      "gloss": "⟨y⟩ su mano"
     },
     {
       "surface": "תרפינה",
-      "english": "sanará"
+      "gloss": "sanará"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:55.073970407Z",
-  "model": "glm-4.5"
+  ]
 }

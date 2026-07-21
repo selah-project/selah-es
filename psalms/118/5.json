@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 118:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69840,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70218
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:55.909967705Z",
   "translation": "מן המצר קראתי יה ענני במרחב יה",
   "tokens": [
     {
       "surface": "מן",
-      "english": "De",
+      "gloss": "De",
       "marks": "el aprieto"
     },
     {
       "surface": "המצר",
-      "english": "el aprieto"
+      "gloss": "el aprieto"
     },
     {
       "surface": "קראתי",
-      "english": "llamé"
+      "gloss": "llamé"
     },
     {
       "surface": "יה",
-      "english": "Yah"
+      "gloss": "Yah"
     },
     {
       "surface": "ענני",
-      "english": "me respondió"
+      "gloss": "me respondió"
     },
     {
       "surface": "במרחב",
-      "english": "⟨en⟩ lugar espacioso"
+      "gloss": "⟨en⟩ lugar espacioso"
     },
     {
       "surface": "יה",
-      "english": "Yah"
+      "gloss": "Yah"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:55.909967705Z",
-  "model": "glm-4.5"
+  ]
 }

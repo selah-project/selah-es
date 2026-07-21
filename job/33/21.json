@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "job 33:21",
   "book": "job",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27042,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27539
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:52:46.252570829Z",
   "translation": "Su carne se consume ⟨que⟩ ⟨no⟩ puede ⟨ser⟩ vista ⟨את⟩; y ⟨sus⟩ huesos que ⟨no⟩ ⟨eran⟩ vistos sobresalen.",
   "tokens": [
     {
       "surface": "יכל",
-      "english": "Se consume"
+      "gloss": "Se consume"
     },
     {
       "surface": "בשרו",
-      "english": "Su carne"
+      "gloss": "Su carne"
     },
     {
       "surface": "מראי",
-      "english": "⟨que⟩ ⟨no⟩ puede ⟨ser⟩ vista",
+      "gloss": "⟨que⟩ ⟨no⟩ puede ⟨ser⟩ vista",
       "marks": "Su carne"
     },
     {
       "surface": "ושפי",
-      "english": "y ⟨sus⟩"
+      "gloss": "y ⟨sus⟩"
     },
     {
       "surface": "עצמותיו",
-      "english": "huesos"
+      "gloss": "huesos"
     },
     {
       "surface": "לא",
-      "english": "⟨que⟩ ⟨no⟩"
+      "gloss": "⟨que⟩ ⟨no⟩"
     },
     {
       "surface": "ראו",
-      "english": "⟨eran⟩ vistos"
+      "gloss": "⟨eran⟩ vistos"
     }
-  ],
-  "timestamp": "2026-06-10T03:52:46.252570829Z",
-  "model": "glm-4.5"
+  ]
 }

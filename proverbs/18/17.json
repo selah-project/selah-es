@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 18:17",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59750,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60252
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:42:15.126855653Z",
   "translation": "El justo ⟨es⟩ ⟨el⟩ primero en su propio litigio; su compañero viene y ⟨lo⟩ examina.",
   "tokens": [
     {
       "surface": "צדיק",
-      "english": "El justo"
+      "gloss": "El justo"
     },
     {
       "surface": "הראשון",
-      "english": "⟨el⟩ primero"
+      "gloss": "⟨el⟩ primero"
     },
     {
       "surface": "בריבו",
-      "english": "en su propio litigio"
+      "gloss": "en su propio litigio"
     },
     {
       "surface": "יבא",
-      "english": "viene"
+      "gloss": "viene"
     },
     {
       "surface": "רעהו",
-      "english": "su compañero"
+      "gloss": "su compañero"
     },
     {
       "surface": "וחקרו",
-      "english": "y ⟨lo⟩ examina"
+      "gloss": "y ⟨lo⟩ examina"
     }
-  ],
-  "timestamp": "2026-06-10T01:42:15.126855653Z",
-  "model": "glm-4.5"
+  ]
 }

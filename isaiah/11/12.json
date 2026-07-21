@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 11:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 696,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26602,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27298
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:28:01.815983998Z",
   "translation": "Y levantará ⟨un⟩ estandarte ⟨para⟩ ⟨las⟩ naciones y reunirá ⟨a los⟩ dispersos de Israel y ⟨a los⟩ esparcidos de Judá ⟨los⟩ congregará ⟨de las⟩ cuatro alas de ⟨la⟩ tierra",
   "tokens": [
     {
       "surface": "ונשא",
-      "english": "Y levantará"
+      "gloss": "Y levantará"
     },
     {
       "surface": "נס",
-      "english": "⟨un⟩ estandarte"
+      "gloss": "⟨un⟩ estandarte"
     },
     {
       "surface": "לגוים",
-      "english": "⟨para⟩ ⟨las⟩ naciones"
+      "gloss": "⟨para⟩ ⟨las⟩ naciones"
     },
     {
       "surface": "ואסף",
-      "english": "y reunirá"
+      "gloss": "y reunirá"
     },
     {
       "surface": "נדחי",
-      "english": "⟨a los⟩ dispersos"
+      "gloss": "⟨a los⟩ dispersos"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     },
     {
       "surface": "ונפצות",
-      "english": "y ⟨a los⟩ esparcidos"
+      "gloss": "y ⟨a los⟩ esparcidos"
     },
     {
       "surface": "יהודה",
-      "english": "de Judá"
+      "gloss": "de Judá"
     },
     {
       "surface": "יקבץ",
-      "english": "⟨los⟩ congregará"
+      "gloss": "⟨los⟩ congregará"
     },
     {
       "surface": "מארבע",
-      "english": "⟨de las⟩ cuatro"
+      "gloss": "⟨de las⟩ cuatro"
     },
     {
       "surface": "כנפות",
-      "english": "alas"
+      "gloss": "alas"
     },
     {
       "surface": "הארץ",
-      "english": "de ⟨la⟩ tierra"
+      "gloss": "de ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-10T02:28:01.815983998Z",
-  "model": "glm-4.5"
+  ]
 }

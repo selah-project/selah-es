@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "psalms 107:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 107,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:21:54.149652232Z",
+  "translation": "Se tambalean y se inclinan ⟨como⟩ un borracho, y ⟨toda⟩ su Jojmá ⟨es⟩ tragada",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "Se tambalean"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "y se inclinan"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "⟨como⟩ un borracho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨toda⟩"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "su Jojmá"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "⟨es⟩ tragada"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabiduría",
@@ -13,48 +44,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 107,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62487,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 62846
-  },
-  "translation": "Se tambalean y se inclinan ⟨como⟩ un borracho, y ⟨toda⟩ su Jojmá ⟨es⟩ tragada",
-  "tokens": [
-    {
-      "surface": "יחוגו",
-      "english": "Se tambalean"
-    },
-    {
-      "surface": "וינועו",
-      "english": "y se inclinan"
-    },
-    {
-      "surface": "כשכור",
-      "english": "⟨como⟩ un borracho"
-    },
-    {
-      "surface": "וכל",
-      "english": "⟨toda⟩"
-    },
-    {
-      "surface": "חכמתם",
-      "english": "su Jojmá"
-    },
-    {
-      "surface": "תתבלע",
-      "english": "⟨es⟩ tragada"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:21:54.149652232Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-kings 6:3",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 454,
-    "prompt_tokens": 24203,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24657
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:07:27.090223610Z",
   "translation": "Y dijo uno: por favor, ⟨y ve⟩ ⟨את⟩ ⟨tus⟩ siervos. Y respondió: yo iré.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "האחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "הואל",
-      "english": "por favor"
+      "gloss": "por favor"
     },
     {
       "surface": "נא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ולך",
-      "english": "⟨y ve⟩"
+      "gloss": "⟨y ve⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tus siervos"
     },
     {
       "surface": "עבדיך",
-      "english": "⟨tus⟩ siervos"
+      "gloss": "⟨tus⟩ siervos"
     },
     {
       "surface": "ויאמר",
-      "english": "Y respondió"
+      "gloss": "Y respondió"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "אלך",
-      "english": "iré"
+      "gloss": "iré"
     }
-  ],
-  "timestamp": "2026-07-16T19:07:27.090223610Z",
-  "model": "glm-4.5"
+  ]
 }

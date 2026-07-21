@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 2:9",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 26011,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26413
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:40:15.533719058Z",
   "translation": "Y el hombre común se inclina, y el hombre de importancia se humilla; por tanto, no los perdones.",
   "tokens": [
     {
       "surface": "וישח",
-      "english": "Y se inclina"
+      "gloss": "Y se inclina"
     },
     {
       "surface": "אדם",
-      "english": "el hombre común"
+      "gloss": "el hombre común"
     },
     {
       "surface": "וישפל",
-      "english": "y se humilla"
+      "gloss": "y se humilla"
     },
     {
       "surface": "איש",
-      "english": "el hombre de importancia"
+      "gloss": "el hombre de importancia"
     },
     {
       "surface": "ואל",
-      "english": "y por tanto, no"
+      "gloss": "y por tanto, no"
     },
     {
       "surface": "תשא",
-      "english": "perdones"
+      "gloss": "perdones"
     },
     {
       "surface": "להם",
-      "english": "los"
+      "gloss": "los"
     }
-  ],
-  "timestamp": "2026-07-17T00:40:15.533719058Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 24:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70144,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70622
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:07:49.956035916Z",
   "translation": "¡Levanten ⟨las⟩ cabezas, oh puertas, y alcen ⟨las⟩ puertas eternas, y ⟨el⟩ Rey de ⟨la⟩ gloria ⟨את⟩ ⟨vendrá⟩!",
   "tokens": [
     {
       "surface": "שאו",
-      "english": "¡Levanten"
+      "gloss": "¡Levanten"
     },
     {
       "surface": "שערים",
-      "english": "⟨las⟩ cabezas, oh puertas"
+      "gloss": "⟨las⟩ cabezas, oh puertas"
     },
     {
       "surface": "ראשיכם",
-      "english": "⟨las⟩"
+      "gloss": "⟨las⟩"
     },
     {
       "surface": "והנשאו",
-      "english": "y alcen"
+      "gloss": "y alcen"
     },
     {
       "surface": "פתחי",
-      "english": "⟨las⟩ puertas eternas"
+      "gloss": "⟨las⟩ puertas eternas"
     },
     {
       "surface": "עולם",
-      "english": "eternas"
+      "gloss": "eternas"
     },
     {
       "surface": "ויבוא",
-      "english": "⟨el⟩ ⟨vendrá⟩"
+      "gloss": "⟨el⟩ ⟨vendrá⟩"
     },
     {
       "surface": "מלך",
-      "english": "Rey de ⟨la⟩ gloria"
+      "gloss": "Rey de ⟨la⟩ gloria"
     },
     {
       "surface": "הכבוד",
-      "english": "gloria"
+      "gloss": "gloria"
     }
-  ],
-  "timestamp": "2026-06-09T23:07:49.956035916Z",
-  "model": "glm-4.5"
+  ]
 }

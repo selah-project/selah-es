@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 79,
   "ref": "numbers 7:79",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 79,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:21:25.565195368Z",
+  "translation": "su Korban ⟨es⟩ una escudilla de plata ⟨que pesa⟩ ciento treinta ⟨y⟩ shekels, un cuenco de plata ⟨de⟩ setenta shekels, ⟨según⟩ el shekel del santuario; ambos llenos de flor de harina amasada ⟨en⟩ aceite ⟨como⟩ Korban ⟨de⟩ grano",
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "Su Korban"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "escudilla"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de plata"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treinta"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "⟨y⟩ ciento"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "⟨que pesa⟩"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "cuenco"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de plata"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "setenta"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekels"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨según⟩ el shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "del santuario"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ambos"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "llenos"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de flor de harina"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "amasada"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "⟨en⟩ aceite"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "⟨como⟩ ofrenda ⟨de⟩ grano"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "ofrenda",
@@ -13,104 +100,6 @@
       "hebrew": "קרבן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 793,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18879,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 19672
-  },
-  "translation": "su Korban ⟨es⟩ una escudilla de plata ⟨que pesa⟩ ciento treinta ⟨y⟩ shekels, un cuenco de plata ⟨de⟩ setenta shekels, ⟨según⟩ el shekel del santuario; ambos llenos de flor de harina amasada ⟨en⟩ aceite ⟨como⟩ Korban ⟨de⟩ grano",
-  "tokens": [
-    {
-      "surface": "קרבנו",
-      "english": "Su Korban"
-    },
-    {
-      "surface": "קערת",
-      "english": "escudilla"
-    },
-    {
-      "surface": "כסף",
-      "english": "de plata"
-    },
-    {
-      "surface": "אחת",
-      "english": "una"
-    },
-    {
-      "surface": "שלשים",
-      "english": "treinta"
-    },
-    {
-      "surface": "ומאה",
-      "english": "⟨y⟩ ciento"
-    },
-    {
-      "surface": "משקלה",
-      "english": "⟨que pesa⟩"
-    },
-    {
-      "surface": "מזרק",
-      "english": "cuenco"
-    },
-    {
-      "surface": "אחד",
-      "english": "un"
-    },
-    {
-      "surface": "כסף",
-      "english": "de plata"
-    },
-    {
-      "surface": "שבעים",
-      "english": "setenta"
-    },
-    {
-      "surface": "שקל",
-      "english": "shekels"
-    },
-    {
-      "surface": "בשקל",
-      "english": "⟨según⟩ el shekel"
-    },
-    {
-      "surface": "הקדש",
-      "english": "del santuario"
-    },
-    {
-      "surface": "שניהם",
-      "english": "ambos"
-    },
-    {
-      "surface": "מלאים",
-      "english": "llenos"
-    },
-    {
-      "surface": "סלת",
-      "english": "de flor de harina"
-    },
-    {
-      "surface": "בלולה",
-      "english": "amasada"
-    },
-    {
-      "surface": "בשמן",
-      "english": "⟨en⟩ aceite"
-    },
-    {
-      "surface": "למנחה",
-      "english": "⟨como⟩ ofrenda ⟨de⟩ grano"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:21:25.565195368Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 52:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69766,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70185
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:23:39.223659271Z",
   "translation": "Y ⟨los⟩ justos ⟨lo⟩ verán y ⟨se⟩ temerán y ⟨sobre⟩ él ⟨se⟩ reirán",
   "tokens": [
     {
       "surface": "ויראו",
-      "english": "Y ⟨los⟩ justos ⟨lo⟩ verán"
+      "gloss": "Y ⟨los⟩ justos ⟨lo⟩ verán"
     },
     {
       "surface": "צדיקים",
-      "english": "justos"
+      "gloss": "justos"
     },
     {
       "surface": "וייראו",
-      "english": "y ⟨se⟩ temerán"
+      "gloss": "y ⟨se⟩ temerán"
     },
     {
       "surface": "ועליו",
-      "english": "y ⟨sobre⟩ él"
+      "gloss": "y ⟨sobre⟩ él"
     },
     {
       "surface": "ישחקו",
-      "english": "⟨se⟩ reirán"
+      "gloss": "⟨se⟩ reirán"
     }
-  ],
-  "timestamp": "2026-06-09T23:23:39.223659271Z",
-  "model": "glm-4.5"
+  ]
 }

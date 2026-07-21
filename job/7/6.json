@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 7:6",
   "book": "job",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27025,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27401
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:50.544303853Z",
   "translation": "Mis días son ⟨más⟩ veloces ⟨que⟩ ⟨el⟩ telar ⟨y⟩ se consumen ⟨en⟩ esperanza ⟨de⟩ ⟨nada⟩.",
   "tokens": [
     {
       "surface": "ימי",
-      "english": "Mis días"
+      "gloss": "Mis días"
     },
     {
       "surface": "קלו",
-      "english": "son ⟨más⟩ veloces ⟨que⟩"
+      "gloss": "son ⟨más⟩ veloces ⟨que⟩"
     },
     {
       "surface": "מני",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "ארג",
-      "english": "telar"
+      "gloss": "telar"
     },
     {
       "surface": "ויכלו",
-      "english": "⟨y⟩ se consumen"
+      "gloss": "⟨y⟩ se consumen"
     },
     {
       "surface": "באפס",
-      "english": "⟨en⟩ esperanza ⟨de⟩ ⟨nada⟩"
+      "gloss": "⟨en⟩ esperanza ⟨de⟩ ⟨nada⟩"
     },
     {
       "surface": "תקוה",
-      "english": "esperanza"
+      "gloss": "esperanza"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:50.544303853Z",
-  "model": "glm-4.5"
+  ]
 }

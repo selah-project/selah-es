@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 116:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70104,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70647
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:43.915370012Z",
   "translation": "Las cuerdas de la muerte me rodearon, ⟨y⟩ los apuros del Sheol me encontraron; ⟨encontré⟩ angustia ⟨y⟩ lamento.",
   "tokens": [
     {
       "surface": "אפפוני",
-      "english": "Me rodearon"
+      "gloss": "Me rodearon"
     },
     {
       "surface": "חבלי",
-      "english": "cuerdas"
+      "gloss": "cuerdas"
     },
     {
       "surface": "מות",
-      "english": "de la muerte"
+      "gloss": "de la muerte"
     },
     {
       "surface": "ומצרי",
-      "english": "⟨y⟩ los apuros"
+      "gloss": "⟨y⟩ los apuros"
     },
     {
       "surface": "שאול",
-      "english": "del Sheol"
+      "gloss": "del Sheol"
     },
     {
       "surface": "מצאוני",
-      "english": "me encontraron"
+      "gloss": "me encontraron"
     },
     {
       "surface": "צרה",
-      "english": "angustia"
+      "gloss": "angustia"
     },
     {
       "surface": "ויגון",
-      "english": "⟨y⟩ lamento"
+      "gloss": "⟨y⟩ lamento"
     },
     {
       "surface": "אמצא",
-      "english": "⟨encontré⟩"
+      "gloss": "⟨encontré⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:43.915370012Z",
-  "model": "glm-4.5"
+  ]
 }

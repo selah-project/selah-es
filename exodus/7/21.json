@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "exodus 7:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 7,
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:30:19.880045778Z",
+  "translation": "Y ⟨el⟩ pez que ⟨estaba⟩ en el río murió, ⟨y⟩ el río se corrompió, y los egipcios no pudieron beber agua del río; y hubo sangre en toda la tierra de Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "Y ⟨el⟩ pez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que ⟨estaba⟩"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "en el río"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "murió"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "⟨y⟩ el río se corrompió"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "el río"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "no pudieron"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "los egipcios"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "beber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "agua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "el río"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y hubo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sangre"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "en toda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la tierra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -13,96 +92,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 592,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17443,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 18035
-  },
-  "translation": "Y ⟨el⟩ pez que ⟨estaba⟩ en el río murió, ⟨y⟩ el río se corrompió, y los egipcios no pudieron beber agua del río; y hubo sangre en toda la tierra de Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "והדגה",
-      "english": "Y ⟨el⟩ pez"
-    },
-    {
-      "surface": "אשר",
-      "english": "que ⟨estaba⟩"
-    },
-    {
-      "surface": "ביאר",
-      "english": "en el río"
-    },
-    {
-      "surface": "מתה",
-      "english": "murió"
-    },
-    {
-      "surface": "ויבאש",
-      "english": "⟨y⟩ el río se corrompió"
-    },
-    {
-      "surface": "היאר",
-      "english": "el río"
-    },
-    {
-      "surface": "ולא",
-      "english": "y"
-    },
-    {
-      "surface": "יכלו",
-      "english": "no pudieron"
-    },
-    {
-      "surface": "מצרים",
-      "english": "los egipcios"
-    },
-    {
-      "surface": "לשתות",
-      "english": "beber"
-    },
-    {
-      "surface": "מים",
-      "english": "agua"
-    },
-    {
-      "surface": "מן",
-      "english": "de"
-    },
-    {
-      "surface": "היאר",
-      "english": "el río"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y hubo"
-    },
-    {
-      "surface": "הדם",
-      "english": "sangre"
-    },
-    {
-      "surface": "בכל",
-      "english": "en toda"
-    },
-    {
-      "surface": "ארץ",
-      "english": "la tierra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:30:19.880045778Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

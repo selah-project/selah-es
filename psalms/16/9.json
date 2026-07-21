@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 16:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70051,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70356
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:03:13.471294401Z",
   "translation": "Therefore my heart ⟨is⟩ glad, and my glory rejoices; my flesh also shall dwell in safety.",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "Therefore"
+      "gloss": "Therefore"
     },
     {
       "surface": "שמח",
-      "english": "⟨is⟩ glad"
+      "gloss": "⟨is⟩ glad"
     },
     {
       "surface": "לבי",
-      "english": "my heart"
+      "gloss": "my heart"
     },
     {
       "surface": "ויגל",
-      "english": "and my glory rejoices"
+      "gloss": "and my glory rejoices"
     },
     {
       "surface": "כבודי",
-      "english": "my glory"
+      "gloss": "my glory"
     },
     {
       "surface": "אף",
-      "english": "also"
+      "gloss": "also"
     },
     {
       "surface": "בשרי",
-      "english": "my flesh"
+      "gloss": "my flesh"
     },
     {
       "surface": "ישכן",
-      "english": "shall dwell"
+      "gloss": "shall dwell"
     },
     {
       "surface": "לבטח",
-      "english": "in safety"
+      "gloss": "in safety"
     }
-  ],
-  "timestamp": "2026-06-09T23:03:13.471294401Z",
-  "model": "glm-4.5"
+  ]
 }

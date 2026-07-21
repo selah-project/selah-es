@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 40:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 351,
-    "prompt_tokens": 70064,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70415
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:28.392623361Z",
   "translation": "Esperé, esperé ⟨a⟩ YHWH, y se inclinó hacia mí, y escuchó mi clamor.",
   "tokens": [
     {
       "surface": "קוה",
-      "english": "Esperé"
+      "gloss": "Esperé"
     },
     {
       "surface": "קויתי",
-      "english": "esperé"
+      "gloss": "esperé"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויט",
-      "english": "y se inclinó"
+      "gloss": "y se inclinó"
     },
     {
       "surface": "אלי",
-      "english": "hacia mí"
+      "gloss": "hacia mí"
     },
     {
       "surface": "וישמע",
-      "english": "y escuchó"
+      "gloss": "y escuchó"
     },
     {
       "surface": "שועתי",
-      "english": "mi clamor"
+      "gloss": "mi clamor"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:28.392623361Z",
-  "model": "glm-4.5"
+  ]
 }

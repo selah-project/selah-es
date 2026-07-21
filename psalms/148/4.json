@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 148:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69874,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70315
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:18.464710302Z",
   "translation": "Alaben ⟨a⟩ él, cielos ⟨de los⟩ cielos, y ⟨las⟩ aguas ⟨que están⟩ sobre ⟨los⟩ cielos",
   "tokens": [
     {
       "surface": "הללוהו",
-      "english": "Alaben ⟨a⟩ él"
+      "gloss": "Alaben ⟨a⟩ él"
     },
     {
       "surface": "שמי",
-      "english": "cielos"
+      "gloss": "cielos"
     },
     {
       "surface": "השמים",
-      "english": "⟨de los⟩ cielos"
+      "gloss": "⟨de los⟩ cielos"
     },
     {
       "surface": "והמים",
-      "english": "y ⟨las⟩ aguas"
+      "gloss": "y ⟨las⟩ aguas"
     },
     {
       "surface": "אשר",
-      "english": "⟨que están⟩"
+      "gloss": "⟨que están⟩"
     },
     {
       "surface": "מעל",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "השמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     }
-  ],
-  "timestamp": "2026-06-10T00:12:18.464710302Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-samuel 15:8",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 563,
-    "prompt_tokens": 24047,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24610
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:39:34.328611675Z",
   "translation": "Y tomó ⟨את⟩ Agag, rey de Amalek, vivo, y ⟨את⟩ todo el pueblo lo destruyó a filo de espada",
   "tokens": [
     {
       "surface": "ויתפש",
-      "english": "Y tomó"
+      "gloss": "Y tomó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Agag"
     },
     {
       "surface": "אגג",
-      "english": "Agag"
+      "gloss": "Agag"
     },
     {
       "surface": "מלך",
-      "english": "rey"
+      "gloss": "rey"
     },
     {
       "surface": "עמלק",
-      "english": "de Amalek"
+      "gloss": "de Amalek"
     },
     {
       "surface": "חי",
-      "english": "vivo"
+      "gloss": "vivo"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "todo el pueblo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "העם",
-      "english": "el pueblo"
+      "gloss": "el pueblo"
     },
     {
       "surface": "החרים",
-      "english": "lo destruyó"
+      "gloss": "lo destruyó"
     },
     {
       "surface": "לפי",
-      "english": "a filo de"
+      "gloss": "a filo de"
     },
     {
       "surface": "חרב",
-      "english": "espada"
+      "gloss": "espada"
     }
-  ],
-  "timestamp": "2026-07-16T18:39:34.328611675Z",
-  "model": "glm-4.5"
+  ]
 }

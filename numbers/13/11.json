@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "numbers 13:11",
   "book": "numbers",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24923,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25273
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:49:26.170949200Z",
   "translation": "de ⟨la⟩ tribu de José, ⟨de⟩ ⟨la⟩ tribu de Manasés, Gadi ⟨el⟩ hijo de Susi",
   "tokens": [
     {
       "surface": "למטה",
-      "english": "De ⟨la⟩ tribu de"
+      "gloss": "De ⟨la⟩ tribu de"
     },
     {
       "surface": "יוסף",
-      "english": "José"
+      "gloss": "José"
     },
     {
       "surface": "למטה",
-      "english": "⟨de⟩ ⟨la⟩ tribu de"
+      "gloss": "⟨de⟩ ⟨la⟩ tribu de"
     },
     {
       "surface": "מנשה",
-      "english": "Manasés"
+      "gloss": "Manasés"
     },
     {
       "surface": "גדי",
-      "english": "Gadi"
+      "gloss": "Gadi"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo de"
+      "gloss": "⟨el⟩ hijo de"
     },
     {
       "surface": "סוסי",
-      "english": "Susi"
+      "gloss": "Susi"
     }
-  ],
-  "timestamp": "2026-06-10T04:49:26.170949200Z",
-  "model": "glm-4.5"
+  ]
 }

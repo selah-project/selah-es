@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 86:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 409,
-    "prompt_tokens": 69962,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70371
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:28.192453957Z",
   "translation": "Ten piedad de mí, Adonai, pues a ti clamo todo el día.",
   "tokens": [
     {
       "surface": "חנני",
-      "english": "Ten piedad de mí"
+      "gloss": "Ten piedad de mí"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "אקרא",
-      "english": "clamo"
+      "gloss": "clamo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "היום",
-      "english": "el día"
+      "gloss": "el día"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:28.192453957Z",
-  "model": "glm-4.5"
+  ]
 }

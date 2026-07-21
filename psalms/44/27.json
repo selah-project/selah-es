@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "psalms 44:27",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 289,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69630,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69919
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:20.481165975Z",
   "translation": "Levántate ⟨como⟩ ayuda ⟨para⟩ nosotros, y redímenos por ⟨el⟩ amor leal ⟨de⟩ ti.",
   "tokens": [
     {
       "surface": "קומה",
-      "english": "Levántate ⟨como⟩"
+      "gloss": "Levántate ⟨como⟩"
     },
     {
       "surface": "עזרתה",
-      "english": "ayuda ⟨para⟩"
+      "gloss": "ayuda ⟨para⟩"
     },
     {
       "surface": "לנו",
-      "english": "nosotros"
+      "gloss": "nosotros"
     },
     {
       "surface": "ופדנו",
-      "english": "y redímenos"
+      "gloss": "y redímenos"
     },
     {
       "surface": "למען",
-      "english": "por ⟨el⟩"
+      "gloss": "por ⟨el⟩"
     },
     {
       "surface": "חסדך",
-      "english": "amor leal ⟨de⟩ ti"
+      "gloss": "amor leal ⟨de⟩ ti"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:20.481165975Z",
-  "model": "glm-4.5"
+  ]
 }

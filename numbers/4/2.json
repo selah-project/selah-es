@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "numbers 4:2",
   "book": "numbers",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 453,
-    "prompt_tokens": 25453,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25906
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:57:25.876054876Z",
   "translation": "Toma ⟨את⟩ la cuenta de ⟨los⟩ hijos de Kehat de en medio de ⟨los⟩ hijos de Leví, por sus familias, por la casa de sus padres",
   "tokens": [
     {
       "surface": "נשא",
-      "english": "Toma"
+      "gloss": "Toma"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la cuenta de los hijos de Kehat"
     },
     {
       "surface": "ראש",
-      "english": "la cuenta"
+      "gloss": "la cuenta"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "קהת",
-      "english": "de Kehat"
+      "gloss": "de Kehat"
     },
     {
       "surface": "מתוך",
-      "english": "de en medio de"
+      "gloss": "de en medio de"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "לוי",
-      "english": "de Leví"
+      "gloss": "de Leví"
     },
     {
       "surface": "למשפחתם",
-      "english": "por sus familias"
+      "gloss": "por sus familias"
     },
     {
       "surface": "לבית",
-      "english": "por la casa"
+      "gloss": "por la casa"
     },
     {
       "surface": "אבתם",
-      "english": "de sus padres"
+      "gloss": "de sus padres"
     }
-  ],
-  "timestamp": "2026-07-16T22:57:25.876054876Z",
-  "model": "glm-4.5"
+  ]
 }

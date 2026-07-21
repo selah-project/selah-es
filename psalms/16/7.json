@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 16:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 525,
-    "prompt_tokens": 70372,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70897
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:47.850004081Z",
   "translation": "Bendeciré a YHWH, quien me ⟨ha⟩ aconsejado; ⟨también⟩ en las noches ⟨mis⟩ riñones me instruyen.",
   "tokens": [
     {
       "surface": "אברך",
-      "english": "Bendeciré"
+      "gloss": "Bendeciré"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אשר",
-      "english": "quien"
+      "gloss": "quien"
     },
     {
       "surface": "יעצני",
-      "english": "me ⟨ha⟩ aconsejado"
+      "gloss": "me ⟨ha⟩ aconsejado"
     },
     {
       "surface": "אף",
-      "english": "⟨también⟩"
+      "gloss": "⟨también⟩"
     },
     {
       "surface": "לילות",
-      "english": "en las noches"
+      "gloss": "en las noches"
     },
     {
       "surface": "יסרוני",
-      "english": "me instruyen"
+      "gloss": "me instruyen"
     },
     {
       "surface": "כליותי",
-      "english": "⟨mis⟩ riñones"
+      "gloss": "⟨mis⟩ riñones"
     }
-  ],
-  "timestamp": "2026-07-16T23:25:47.850004081Z",
-  "model": "glm-4.5"
+  ]
 }

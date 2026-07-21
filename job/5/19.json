@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "job 5:19",
   "book": "job",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27096,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27521
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:50.301272385Z",
   "translation": "En seis angustias él ⟨te⟩ rescatará, y en siete ⟨el⟩ mal no ⟨te⟩ tocará ⟨un⟩ daño.",
   "tokens": [
     {
       "surface": "בשש",
-      "english": "En seis"
+      "gloss": "En seis"
     },
     {
       "surface": "צרות",
-      "english": "angustias"
+      "gloss": "angustias"
     },
     {
       "surface": "יצילך",
-      "english": "él ⟨te⟩ rescatará"
+      "gloss": "él ⟨te⟩ rescatará"
     },
     {
       "surface": "ובשבע",
-      "english": "y en siete"
+      "gloss": "y en siete"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יגע",
-      "english": "tocará"
+      "gloss": "tocará"
     },
     {
       "surface": "בך",
-      "english": "⟨te⟩"
+      "gloss": "⟨te⟩"
     },
     {
       "surface": "רע",
-      "english": "⟨un⟩ daño"
+      "gloss": "⟨un⟩ daño"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:50.301272385Z",
-  "model": "glm-4.5"
+  ]
 }

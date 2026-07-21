@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 5,
   "ref": "psalms 150:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 150,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69864,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70437
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:59:30.445229369Z",
   "translation": "¡Aleluya! Con címbalos de resonancia, ¡aleluya! Con címbalos de jubilación.",
   "tokens": [
     {
       "surface": "הללוהו",
-      "english": "¡Aleluya!"
+      "gloss": "¡Aleluya!"
     },
     {
       "surface": "בצלצלי",
-      "english": "con ⟨los⟩ címbalos de"
+      "gloss": "con ⟨los⟩ címbalos de"
     },
     {
       "surface": "שמע",
-      "english": "resonancia"
+      "gloss": "resonancia"
     },
     {
       "surface": "הללוהו",
-      "english": "¡aleluya!"
+      "gloss": "¡aleluya!"
     },
     {
       "surface": "בצלצלי",
-      "english": "con ⟨los⟩ címbalos de"
+      "gloss": "con ⟨los⟩ címbalos de"
     },
     {
       "surface": "תרועה",
-      "english": "jubilación"
+      "gloss": "jubilación"
     }
-  ],
-  "timestamp": "2026-06-13T03:59:30.445229369Z",
-  "model": "glm-5.1"
+  ]
 }

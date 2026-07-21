@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 24:22",
   "book": "job",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27059,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27621
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:07:07.556593935Z",
   "translation": "Y arrastra ⟨a⟩ los poderosos con su poder; ⟨él⟩ se levanta y ⟨el⟩ poderoso ⟨no⟩ ⟨está⟩ seguro ⟨de⟩ la vida",
   "tokens": [
     {
       "surface": "ומשך",
-      "english": "Y arrastra",
+      "gloss": "Y arrastra",
       "marks": null
     },
     {
       "surface": "אבירים",
-      "english": "⟨a⟩ los poderosos",
+      "gloss": "⟨a⟩ los poderosos",
       "marks": "los poderosos"
     },
     {
       "surface": "בכחו",
-      "english": "con su poder",
+      "gloss": "con su poder",
       "marks": null
     },
     {
       "surface": "יקום",
-      "english": "⟨él⟩ se levanta",
+      "gloss": "⟨él⟩ se levanta",
       "marks": null
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩",
+      "gloss": "y ⟨no⟩",
       "marks": null
     },
     {
       "surface": "יאמין",
-      "english": "⟨el⟩ poderoso ⟨está⟩ seguro",
+      "gloss": "⟨el⟩ poderoso ⟨está⟩ seguro",
       "marks": null
     },
     {
       "surface": "בחיין",
-      "english": "⟨de⟩ la vida",
+      "gloss": "⟨de⟩ la vida",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-10T02:07:07.556593935Z",
-  "model": "glm-4.5"
+  ]
 }

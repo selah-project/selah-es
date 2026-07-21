@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "psalms 105:28",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 403,
-    "prompt_tokens": 70071,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70474
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:21.191704487Z",
   "translation": "Él envió oscuridad, e hizo ⟨que estuviera⟩ oscura; y no se rebelaron contra ⟨את⟩ su palabra.",
   "tokens": [
     {
       "surface": "שלח",
-      "english": "envió"
+      "gloss": "envió"
     },
     {
       "surface": "חשך",
-      "english": "oscuridad"
+      "gloss": "oscuridad"
     },
     {
       "surface": "ויחשך",
-      "english": "e hizo ⟨que estuviera⟩ oscura"
+      "gloss": "e hizo ⟨que estuviera⟩ oscura"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "מרו",
-      "english": "se rebelaron"
+      "gloss": "se rebelaron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su palabra"
     },
     {
       "surface": "דברוו",
-      "english": "su palabra"
+      "gloss": "su palabra"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:21.191704487Z",
-  "model": "glm-4.5"
+  ]
 }

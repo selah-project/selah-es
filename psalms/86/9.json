@@ -1,67 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 86:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70163,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70742
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:41:55.607752016Z",
   "translation": "Todas las naciones que ⟨tú⟩ hiciste ⟨son⟩ ⟨las que⟩ vendrán y se prosternarán ante ⟨tus⟩ rostros, Adonai, y glorificarán ⟨el⟩ nombre tuyo.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todas"
+      "gloss": "Todas"
     },
     {
       "surface": "גוים",
-      "english": "las naciones"
+      "gloss": "las naciones"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "עשית",
-      "english": "⟨tú⟩ hiciste",
+      "gloss": "⟨tú⟩ hiciste",
       "marks": "todas las naciones"
     },
     {
       "surface": "יבואו",
-      "english": "⟨son⟩ ⟨las que⟩ vendrán"
+      "gloss": "⟨son⟩ ⟨las que⟩ vendrán"
     },
     {
       "surface": "וישתחוו",
-      "english": "y se prosternarán"
+      "gloss": "y se prosternarán"
     },
     {
       "surface": "לפניך",
-      "english": "ante ⟨tus⟩ rostros",
+      "gloss": "ante ⟨tus⟩ rostros",
       "marks": "Adonai"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "ויכבדו",
-      "english": "y glorificarán"
+      "gloss": "y glorificarán"
     },
     {
       "surface": "לשמך",
-      "english": "⟨el⟩ nombre tuyo",
+      "gloss": "⟨el⟩ nombre tuyo",
       "marks": "glorificarán"
     }
-  ],
-  "timestamp": "2026-06-09T23:41:55.607752016Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 7:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20780,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21098
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:04:48.518209849Z",
   "translation": "Y Noaj ⟨hizo⟩ conforme ⟨a⟩ todo ⟨lo que⟩ YHWH ⟨le⟩ mandó",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "Y Noaj ⟨hizo⟩"
+      "gloss": "Y Noaj ⟨hizo⟩"
     },
     {
       "surface": "נח",
-      "english": "Noaj"
+      "gloss": "Noaj"
     },
     {
       "surface": "ככל",
-      "english": "conforme ⟨a⟩ todo ⟨lo que⟩"
+      "gloss": "conforme ⟨a⟩ todo ⟨lo que⟩"
     },
     {
       "surface": "אשר",
-      "english": "⟨lo que⟩"
+      "gloss": "⟨lo que⟩"
     },
     {
       "surface": "צוהו",
-      "english": "YHWH ⟨le⟩ mandó"
+      "gloss": "YHWH ⟨le⟩ mandó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:04:48.518209849Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

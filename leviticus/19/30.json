@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "leviticus 19:30",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 366,
-    "prompt_tokens": 24607,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24973
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:42:28.587345403Z",
   "translation": "Mis shabbats guardaréis, y mi santuario temeréis: yo ⟨soy⟩ YHWH.",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Mis shabbats"
     },
     {
       "surface": "שבתתי",
-      "english": "Mis shabbats"
+      "gloss": "Mis shabbats"
     },
     {
       "surface": "תשמרו",
-      "english": "guardaréis"
+      "gloss": "guardaréis"
     },
     {
       "surface": "ומקדשי",
-      "english": "y mi santuario"
+      "gloss": "y mi santuario"
     },
     {
       "surface": "תיראו",
-      "english": "temeréis"
+      "gloss": "temeréis"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T22:42:28.587345403Z",
-  "model": "glm-4.5"
+  ]
 }

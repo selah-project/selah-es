@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.1",
-  "verse": 5,
   "ref": "psalms 1:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 600,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70064,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70664
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:55:28.143300403Z",
   "translation": "Por tanto, no se levantarán los reshaim en el mishpat, ni los jataim en la congregación de los tzadikim.",
   "tokens": [
     {
       "surface": "עַל",
-      "english": "Por"
+      "gloss": "Por"
     },
     {
       "surface": "כֵּ֤ן",
-      "english": "tanto"
+      "gloss": "tanto"
     },
     {
       "surface": "לֹא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יָקֻ֣מוּ",
-      "english": "se levantarán"
+      "gloss": "se levantarán"
     },
     {
       "surface": "רְ֭שָׁעִים",
-      "english": "los reshaim"
+      "gloss": "los reshaim"
     },
     {
       "surface": "בַּ\/מִּשְׁפָּ֑ט",
-      "english": "en el mishpat"
+      "gloss": "en el mishpat"
     },
     {
       "surface": "וְ֝\/חַטָּאִ֗ים",
-      "english": "ni los jataim"
+      "gloss": "ni los jataim"
     },
     {
       "surface": "בַּ\/עֲדַ֥ת",
-      "english": "en la congregación"
+      "gloss": "en la congregación"
     },
     {
       "surface": "צַדִּיקִֽים",
-      "english": "de los tzadikim"
+      "gloss": "de los tzadikim"
     }
-  ],
-  "timestamp": "2026-06-13T03:55:28.143300403Z",
-  "model": "glm-5.1"
+  ]
 }

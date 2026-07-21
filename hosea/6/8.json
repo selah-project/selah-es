@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "hosea 6:8",
   "book": "hosea",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26336,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26752
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:46:48.642404515Z",
   "translation": "Gilead ⟨is⟩ ⟨a⟩ city ⟨of⟩ workers-of-avon, tracked ⟨by⟩ blood.",
   "tokens": [
     {
       "surface": "גלעד",
-      "english": "Gilead"
+      "gloss": "Gilead"
     },
     {
       "surface": "קרית",
-      "english": "⟨a⟩ city"
+      "gloss": "⟨a⟩ city"
     },
     {
       "surface": "פעלי",
-      "english": "workers-of-avon"
+      "gloss": "workers-of-avon"
     },
     {
       "surface": "און",
-      "english": "avon"
+      "gloss": "avon"
     },
     {
       "surface": "עקבה",
-      "english": "tracked"
+      "gloss": "tracked"
     },
     {
       "surface": "מדם",
-      "english": "⟨by⟩ blood"
+      "gloss": "⟨by⟩ blood"
     }
-  ],
-  "timestamp": "2026-06-09T22:46:48.642404515Z",
-  "model": "glm-4.5"
+  ]
 }

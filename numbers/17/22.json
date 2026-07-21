@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "numbers 17:22",
   "book": "numbers",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 24919,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25342
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:05:58.914758775Z",
   "translation": "Y Moshé puso ⟨את⟩ las varas delante de YHWH en la tienda ⟨del⟩ testimonio.",
   "tokens": [
     {
       "surface": "וינח",
-      "english": "Y puso"
+      "gloss": "Y puso"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las varas"
     },
     {
       "surface": "המטת",
-      "english": "las varas"
+      "gloss": "las varas"
     },
     {
       "surface": "לפני",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "באהל",
-      "english": "en la tienda"
+      "gloss": "en la tienda"
     },
     {
       "surface": "העדת",
-      "english": "⟨del⟩ testimonio"
+      "gloss": "⟨del⟩ testimonio"
     }
-  ],
-  "timestamp": "2026-07-16T23:05:58.914758775Z",
-  "model": "glm-4.5"
+  ]
 }

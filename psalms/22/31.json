@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "psalms 22:31",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69699,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70245
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:07:38.673863933Z",
   "translation": "Una ⟨⟩ simiente ⟨⟩ servirá ⟨⟩ para él, ⟨⟩ se contará ⟨⟩ acerca ⟨⟩ de Adonai ⟨⟩ a ⟨⟩ la ⟨⟩ generación ⟨⟩ venidera ⟨⟩",
   "tokens": [
     {
       "surface": "זרע",
-      "english": "Simiente"
+      "gloss": "Simiente"
     },
     {
       "surface": "יעבדנו",
-      "english": "servirá para él"
+      "gloss": "servirá para él"
     },
     {
       "surface": "יספר",
-      "english": "se contará"
+      "gloss": "se contará"
     },
     {
       "surface": "לאדני",
-      "english": "acerca de Adonai"
+      "gloss": "acerca de Adonai"
     },
     {
       "surface": "לדור",
-      "english": "a la generación venidera"
+      "gloss": "a la generación venidera"
     }
-  ],
-  "timestamp": "2026-06-09T23:07:38.673863933Z",
-  "model": "glm-4.5"
+  ]
 }

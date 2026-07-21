@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 9:5",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27038,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27510
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:45.002420585Z",
   "translation": "El que traslada las montañas y ⟨no⟩ lo saben; ⟨el cual⟩ las volvió ⟨en⟩ su furor.",
   "tokens": [
     {
       "surface": "המעתיק",
-      "english": "El que traslada"
+      "gloss": "El que traslada"
     },
     {
       "surface": "הרים",
-      "english": "las montañas"
+      "gloss": "las montañas"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "ידעו",
-      "english": "lo saben"
+      "gloss": "lo saben"
     },
     {
       "surface": "אשר",
-      "english": "⟨el cual⟩"
+      "gloss": "⟨el cual⟩"
     },
     {
       "surface": "הפכם",
-      "english": "las volvió"
+      "gloss": "las volvió"
     },
     {
       "surface": "באפו",
-      "english": "⟨en⟩ su furor"
+      "gloss": "⟨en⟩ su furor"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:45.002420585Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "1-kings 15:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:07:08.561280504Z",
+  "translation": "En el año tercero de Asa, rey de Yehudá, Baasá, hijo de Ajías, ⟨fue⟩ rey ⟨sobre⟩ todo Yisrael en Tirzá, veinticuatro años.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "En el año"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tercero"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "de Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨fue⟩ rey"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "de Ajías"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "en Tirzá"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "veinte"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "y cuatro"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,88 +91,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62738,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63243
-  },
-  "translation": "En el año tercero de Asa, rey de Yehudá, Baasá, hijo de Ajías, ⟨fue⟩ rey ⟨sobre⟩ todo Yisrael en Tirzá, veinticuatro años.",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "En el año"
-    },
-    {
-      "surface": "שלש",
-      "english": "tercero"
-    },
-    {
-      "surface": "לאסא",
-      "english": "de Asa"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨fue⟩ rey"
-    },
-    {
-      "surface": "בעשא",
-      "english": "Baasá"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "אחיה",
-      "english": "de Ajías"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בתרצה",
-      "english": "en Tirzá"
-    },
-    {
-      "surface": "עשרים",
-      "english": "veinte"
-    },
-    {
-      "surface": "וארבע",
-      "english": "y cuatro"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:07:08.561280504Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

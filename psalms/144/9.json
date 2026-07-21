@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 144:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70019,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70530
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:10:36.394438846Z",
   "translation": "Elohim ⟨un⟩ cántico nuevo ⟨yo⟩ cantaré ⟨a⟩ ti, con un nebel ⟨de⟩ diez cuerdas ⟨yo⟩ tocaré ⟨para⟩ ti",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "שיר",
-      "english": "⟨un⟩ cántico"
+      "gloss": "⟨un⟩ cántico"
     },
     {
       "surface": "חדש",
-      "english": "nuevo"
+      "gloss": "nuevo"
     },
     {
       "surface": "אשירה",
-      "english": "⟨yo⟩ cantaré"
+      "gloss": "⟨yo⟩ cantaré"
     },
     {
       "surface": "לך",
-      "english": "⟨a⟩ ti",
+      "gloss": "⟨a⟩ ti",
       "marks": "ti"
     },
     {
       "surface": "בנבל",
-      "english": "con un nebel"
+      "gloss": "con un nebel"
     },
     {
       "surface": "עשור",
-      "english": "⟨de⟩ diez cuerdas"
+      "gloss": "⟨de⟩ diez cuerdas"
     },
     {
       "surface": "אזמרה",
-      "english": "⟨yo⟩ tocaré"
+      "gloss": "⟨yo⟩ tocaré"
     },
     {
       "surface": "לך",
-      "english": "⟨para⟩ ti",
+      "gloss": "⟨para⟩ ti",
       "marks": "ti"
     }
-  ],
-  "timestamp": "2026-06-10T00:10:36.394438846Z",
-  "model": "glm-4.5"
+  ]
 }

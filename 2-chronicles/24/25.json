@@ -1,9 +1,119 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "2-chronicles 24:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 24,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:26:20.986559075Z",
+  "translation": "Y cuando se alejaron de él, porque ⟨lo⟩ dejaron ⟨את⟩ en enfermedades muy graves, conspiraron contra él sus siervos por la sangre de los hijos de Yehoyadá el sacerdote, y lo mataron sobre su lecho, y murió; y ⟨lo⟩ enterraron en la ciudad de Davidd, pero no ⟨lo⟩ enterraron en los sepulcros de los reyes.",
+  "tokens": [
+    {
+      "surface": "ובלכתם",
+      "gloss": "Y cuando se alejaron"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de él"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "dejaron"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨lo⟩",
+      "marks": "במחליים"
+    },
+    {
+      "surface": "במחליים",
+      "gloss": "en enfermedades muy graves"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "muy graves"
+    },
+    {
+      "surface": "התקשרו",
+      "gloss": "conspiraron"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contra él"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sus siervos"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "por la sangre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de los hijos"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "de Yehoyadá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "el sacerdote"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "y lo mataron"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "su lecho"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "y murió"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "y ⟨lo⟩ enterraron",
+      "marks": "אתו"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "en la ciudad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pero no"
+    },
+    {
+      "surface": "קברהו",
+      "gloss": "⟨lo⟩ enterraron",
+      "marks": "אתו"
+    },
+    {
+      "surface": "בקברות",
+      "gloss": "en los sepulcros"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "de los reyes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,127 +123,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 834,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59700,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60534
-  },
-  "translation": "Y cuando se alejaron de él, porque ⟨lo⟩ dejaron ⟨את⟩ en enfermedades muy graves, conspiraron contra él sus siervos por la sangre de los hijos de Yehoyadá el sacerdote, y lo mataron sobre su lecho, y murió; y ⟨lo⟩ enterraron en la ciudad de Davidd, pero no ⟨lo⟩ enterraron en los sepulcros de los reyes.",
-  "tokens": [
-    {
-      "surface": "ובלכתם",
-      "english": "Y cuando se alejaron"
-    },
-    {
-      "surface": "ממנו",
-      "english": "de él"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "עזבו",
-      "english": "dejaron"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨lo⟩",
-      "marks": "במחליים"
-    },
-    {
-      "surface": "במחליים",
-      "english": "en enfermedades muy graves"
-    },
-    {
-      "surface": "רבים",
-      "english": "muy graves"
-    },
-    {
-      "surface": "התקשרו",
-      "english": "conspiraron"
-    },
-    {
-      "surface": "עליו",
-      "english": "contra él"
-    },
-    {
-      "surface": "עבדיו",
-      "english": "sus siervos"
-    },
-    {
-      "surface": "בדמי",
-      "english": "por la sangre"
-    },
-    {
-      "surface": "בני",
-      "english": "de los hijos"
-    },
-    {
-      "surface": "יהוידע",
-      "english": "de Yehoyadá"
-    },
-    {
-      "surface": "הכהן",
-      "english": "el sacerdote"
-    },
-    {
-      "surface": "ויהרגהו",
-      "english": "y lo mataron"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "מטתו",
-      "english": "su lecho"
-    },
-    {
-      "surface": "וימת",
-      "english": "y murió"
-    },
-    {
-      "surface": "ויקברהו",
-      "english": "y ⟨lo⟩ enterraron",
-      "marks": "אתו"
-    },
-    {
-      "surface": "בעיר",
-      "english": "en la ciudad"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "ולא",
-      "english": "pero no"
-    },
-    {
-      "surface": "קברהו",
-      "english": "⟨lo⟩ enterraron",
-      "marks": "אתו"
-    },
-    {
-      "surface": "בקברות",
-      "english": "en los sepulcros"
-    },
-    {
-      "surface": "המלכים",
-      "english": "de los reyes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:26:20.986559075Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

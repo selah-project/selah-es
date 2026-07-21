@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 21:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26285,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26756
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:32:39.597971232Z",
   "translation": "Una profecía ⟨de⟩ el mar ⟨de⟩ desierto ⟨como⟩ torbellinos en ⟨el⟩ Negev ⟨por⟩ el paso ⟨del⟩ desierto ⟨viene⟩ ⟨de⟩ ⟨una⟩ tierra espantosa",
   "tokens": [
     {
       "surface": "משא",
-      "english": "Una profecía"
+      "gloss": "Una profecía"
     },
     {
       "surface": "מדבר",
-      "english": "de desierto"
+      "gloss": "de desierto"
     },
     {
       "surface": "ים",
-      "english": "de el mar"
+      "gloss": "de el mar"
     },
     {
       "surface": "כסופות",
-      "english": "como torbellinos"
+      "gloss": "como torbellinos"
     },
     {
       "surface": "בנגב",
-      "english": "en el Negev"
+      "gloss": "en el Negev"
     },
     {
       "surface": "לחלף",
-      "english": "por el paso"
+      "gloss": "por el paso"
     },
     {
       "surface": "ממדבר",
-      "english": "del desierto"
+      "gloss": "del desierto"
     },
     {
       "surface": "בא",
-      "english": "viene"
+      "gloss": "viene"
     },
     {
       "surface": "מארץ",
-      "english": "de una"
+      "gloss": "de una"
     },
     {
       "surface": "נוראה",
-      "english": "tierra espantosa"
+      "gloss": "tierra espantosa"
     }
-  ],
-  "timestamp": "2026-06-10T02:32:39.597971232Z",
-  "model": "glm-4.5"
+  ]
 }

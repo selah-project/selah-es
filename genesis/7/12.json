@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 7:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20987,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21371
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:04:50.321592792Z",
   "translation": "Y fue ⟨el⟩ aguacero sobre ⟨la⟩ tierra cuarenta días y cuarenta noches.",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y fue"
+      "gloss": "Y fue"
     },
     {
       "surface": "הגשם",
-      "english": "⟨el⟩ aguacero"
+      "gloss": "⟨el⟩ aguacero"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "ארבעים",
-      "english": "cuarenta"
+      "gloss": "cuarenta"
     },
     {
       "surface": "יום",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "וארבעים",
-      "english": "y cuarenta"
+      "gloss": "y cuarenta"
     },
     {
       "surface": "לילה",
-      "english": "noches"
+      "gloss": "noches"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:04:50.321592792Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

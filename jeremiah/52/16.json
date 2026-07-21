@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "jeremiah 52:16",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 610,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24590,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25200
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:48:55.292581589Z",
   "translation": "Y de los pobres ⟨de⟩ ⟨la⟩ tierra ⟨dejó⟩ Nebuzaradán el rab de ⟨los⟩ verdugos para viticultores y para labradores",
   "tokens": [
     {
       "surface": "ומדלות",
-      "english": "Y de los pobres"
+      "gloss": "Y de los pobres"
     },
     {
       "surface": "הארץ",
-      "english": "⟨de⟩ ⟨la⟩ tierra",
+      "gloss": "⟨de⟩ ⟨la⟩ tierra",
       "marks": "tierra"
     },
     {
       "surface": "השאיר",
-      "english": "⟨dejó⟩",
+      "gloss": "⟨dejó⟩",
       "rationale": "Literalmente 'hizo quedar redundante' - acción de dejar atrás"
     },
     {
       "surface": "נבוזראדן",
-      "english": "Nebuzaradán"
+      "gloss": "Nebuzaradán"
     },
     {
       "surface": "רב",
-      "english": "el rab",
+      "gloss": "el rab",
       "rationale": "Título de rango\/jerarquía - 'principal\/jefe'"
     },
     {
       "surface": "טבחים",
-      "english": "⟨de los⟩ verdugos"
+      "gloss": "⟨de los⟩ verdugos"
     },
     {
       "surface": "לכרמים",
-      "english": "para viticultores"
+      "gloss": "para viticultores"
     },
     {
       "surface": "וליגבים",
-      "english": "y para labradores"
+      "gloss": "y para labradores"
     }
-  ],
-  "timestamp": "2026-06-10T03:48:55.292581589Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "job 20:21",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27054,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27394
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:00.661748978Z",
   "translation": "⟨No⟩ sobreviviente ⟨para⟩ su comida ⟨por⟩ esto ⟨no⟩ permanecerá su bien.",
   "tokens": [
     {
       "surface": "אין",
-      "english": "⟨No⟩",
+      "gloss": "⟨No⟩",
       "marks": "sobreviviente"
     },
     {
       "surface": "שריד",
-      "english": "sobreviviente",
+      "gloss": "sobreviviente",
       "marks": ""
     },
     {
       "surface": "לאכלו",
-      "english": "⟨para⟩ su comida",
+      "gloss": "⟨para⟩ su comida",
       "marks": ""
     },
     {
       "surface": "על",
-      "english": "⟨por⟩",
+      "gloss": "⟨por⟩",
       "marks": ""
     },
     {
       "surface": "כן",
-      "english": "esto",
+      "gloss": "esto",
       "marks": ""
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩",
+      "gloss": "⟨no⟩",
       "marks": ""
     },
     {
       "surface": "יחיל",
-      "english": "permanecerá",
+      "gloss": "permanecerá",
       "marks": ""
     },
     {
       "surface": "טובו",
-      "english": "su bien",
+      "gloss": "su bien",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T02:04:00.661748978Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "exodus 32:35",
   "book": "exodus",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 585,
-    "prompt_tokens": 24400,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24985
-  },
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:24:43.826810211Z",
   "translation": "Y YHWH hirió ⟨a⟩ ⟨el⟩ pueblo ⟨por⟩ lo que hicieron ⟨את⟩ ⟨el⟩ becerro ⟨que⟩ hizo Aharón",
   "tokens": [
     {
       "surface": "ויגף",
-      "english": "Y YHWH hirió"
+      "gloss": "Y YHWH hirió"
     },
     {
       "surface": "יהוה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el pueblo"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "על",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "עשו",
-      "english": "hicieron"
+      "gloss": "hicieron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el becerro"
     },
     {
       "surface": "העגל",
-      "english": "⟨el⟩ becerro"
+      "gloss": "⟨el⟩ becerro"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "עשה",
-      "english": "hizo"
+      "gloss": "hizo"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     }
-  ],
-  "timestamp": "2026-07-16T20:24:43.826810211Z",
-  "model": "glm-4.5"
+  ]
 }

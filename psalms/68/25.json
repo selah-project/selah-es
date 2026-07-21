@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 68:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69926,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70439
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:11.365332060Z",
   "translation": "Ven ⟨los⟩ pasos ⟨de⟩ Ti, ⟨Oh⟩ Elohim, ⟨los⟩ pasos ⟨de⟩ mi El, ⟨de⟩ mi Rey, en ⟨el⟩ santuario.",
   "tokens": [
     {
       "surface": "ראו",
-      "english": "Ven",
+      "gloss": "Ven",
       "marks": "los pasos"
     },
     {
       "surface": "הליכותיך",
-      "english": "⟨los⟩ pasos ⟨de⟩ Ti",
+      "gloss": "⟨los⟩ pasos ⟨de⟩ Ti",
       "marks": "pasos de Ti"
     },
     {
       "surface": "אלהים",
-      "english": "⟨Oh⟩ Elohim",
+      "gloss": "⟨Oh⟩ Elohim",
       "marks": "Elohim"
     },
     {
       "surface": "הליכות",
-      "english": "⟨los⟩ pasos",
+      "gloss": "⟨los⟩ pasos",
       "marks": "pasos"
     },
     {
       "surface": "אלי",
-      "english": "⟨de⟩ mi El",
+      "gloss": "⟨de⟩ mi El",
       "marks": "mi El"
     },
     {
       "surface": "מלכי",
-      "english": "⟨de⟩ mi Rey",
+      "gloss": "⟨de⟩ mi Rey",
       "marks": "mi Rey"
     },
     {
       "surface": "בקדש",
-      "english": "en ⟨el⟩ santuario",
+      "gloss": "en ⟨el⟩ santuario",
       "marks": "santuario"
     }
-  ],
-  "timestamp": "2026-06-09T23:31:11.365332060Z",
-  "model": "glm-4.5"
+  ]
 }

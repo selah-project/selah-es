@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 34:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69760,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70067
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:13:29.721409753Z",
   "translation": "⟨El⟩ mal matará ⟨al⟩ malvado, y ⟨los⟩ que aborrecen ⟨al⟩ justo serán desolados.",
   "tokens": [
     {
       "surface": "תמותת",
-      "english": "Matará"
+      "gloss": "Matará"
     },
     {
       "surface": "רשע",
-      "english": "⟨al⟩ malvado"
+      "gloss": "⟨al⟩ malvado"
     },
     {
       "surface": "רעה",
-      "english": "⟨El⟩ mal"
+      "gloss": "⟨El⟩ mal"
     },
     {
       "surface": "ושנאי",
-      "english": "y ⟨los⟩ que aborrecen"
+      "gloss": "y ⟨los⟩ que aborrecen"
     },
     {
       "surface": "צדיק",
-      "english": "⟨al⟩ justo"
+      "gloss": "⟨al⟩ justo"
     },
     {
       "surface": "יאשמו",
-      "english": "serán desolados"
+      "gloss": "serán desolados"
     }
-  ],
-  "timestamp": "2026-06-09T23:13:29.721409753Z",
-  "model": "glm-4.5"
+  ]
 }

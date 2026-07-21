@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 46:24",
   "book": "genesis",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28217,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28556
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:43:44.789818025Z",
   "translation": "Y los hijos de Naftalí: Yajtseel y Guní y Yétzer y Shillem.",
   "tokens": [
     {
       "surface": "וּ\/בְנֵ֖י",
-      "english": "Y los hijos de"
+      "gloss": "Y los hijos de"
     },
     {
       "surface": "נַפְתָּלִ֑י",
-      "english": "Naftalí"
+      "gloss": "Naftalí"
     },
     {
       "surface": "יַחְצְאֵ֥ל",
-      "english": "Yajtseel"
+      "gloss": "Yajtseel"
     },
     {
       "surface": "וְ\/גוּנִ֖י",
-      "english": "y Guní"
+      "gloss": "y Guní"
     },
     {
       "surface": "וְ\/יֵ֥צֶר",
-      "english": "y Yétzer"
+      "gloss": "y Yétzer"
     },
     {
       "surface": "וְ\/שִׁלֵּֽם",
-      "english": "y Shillem"
+      "gloss": "y Shillem"
     }
-  ],
-  "timestamp": "2026-06-10T05:43:44.789818025Z",
-  "model": "glm-4.5"
+  ]
 }

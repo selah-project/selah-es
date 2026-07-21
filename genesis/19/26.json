@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "genesis 19:26",
   "book": "genesis",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28151,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28539
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:17:06.563493816Z",
   "translation": "Y su mujer miró ⟨después⟩ de ⟨él⟩, y fue ⟨un⟩ pilar de sal.",
   "tokens": [
     {
       "surface": "ותבט",
-      "english": "Y miró"
+      "gloss": "Y miró"
     },
     {
       "surface": "אשתו",
-      "english": "su mujer"
+      "gloss": "su mujer"
     },
     {
       "surface": "מאחריו",
-      "english": "después de ⟨él⟩",
+      "gloss": "después de ⟨él⟩",
       "marks": "él"
     },
     {
       "surface": "ותהי",
-      "english": "y fue"
+      "gloss": "y fue"
     },
     {
       "surface": "נציב",
-      "english": "⟨un⟩ pilar"
+      "gloss": "⟨un⟩ pilar"
     },
     {
       "surface": "מלח",
-      "english": "de sal"
+      "gloss": "de sal"
     }
-  ],
-  "timestamp": "2026-06-10T05:17:06.563493816Z",
-  "model": "glm-4.5"
+  ]
 }

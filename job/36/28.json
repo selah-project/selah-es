@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "job 36:28",
   "book": "job",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26995,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27320
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:11.925794415Z",
   "translation": "que ⟨los⟩ cielos destilen y derramen ⟨sobre⟩ ⟨el⟩ hombre abundantemente",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "יזלו",
-      "english": "destilen"
+      "gloss": "destilen"
     },
     {
       "surface": "שחקים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "ירעפו",
-      "english": "y derramen"
+      "gloss": "y derramen"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "אדם",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "רב",
-      "english": "abundantemente"
+      "gloss": "abundantemente"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:11.925794415Z",
-  "model": "glm-4.5"
+  ]
 }

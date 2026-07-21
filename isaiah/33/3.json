@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 33:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26027,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26546
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:40:52.202796895Z",
   "translation": "⟨Al⟩ sonido de ⟨un⟩ tumulto huyeron ⟨los⟩ pueblos; ⟨al⟩ levantamiento ⟨de ti⟩ fueron dispersadas ⟨las⟩ naciones",
   "tokens": [
     {
       "surface": "מקול",
-      "english": "⟨Al⟩ sonido ⟨de⟩"
+      "gloss": "⟨Al⟩ sonido ⟨de⟩"
     },
     {
       "surface": "המון",
-      "english": "⟨un⟩ tumulto"
+      "gloss": "⟨un⟩ tumulto"
     },
     {
       "surface": "נדדו",
-      "english": "huyeron"
+      "gloss": "huyeron"
     },
     {
       "surface": "עמים",
-      "english": "⟨los⟩ pueblos"
+      "gloss": "⟨los⟩ pueblos"
     },
     {
       "surface": "מרוממתך",
-      "english": "⟨al⟩ levantamiento ⟨de ti⟩"
+      "gloss": "⟨al⟩ levantamiento ⟨de ti⟩"
     },
     {
       "surface": "נפצו",
-      "english": "fueron dispersadas"
+      "gloss": "fueron dispersadas"
     },
     {
       "surface": "גוים",
-      "english": "⟨las⟩ naciones"
+      "gloss": "⟨las⟩ naciones"
     }
-  ],
-  "timestamp": "2026-06-10T02:40:52.202796895Z",
-  "model": "glm-4.5"
+  ]
 }

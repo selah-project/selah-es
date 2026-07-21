@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 16,
   "ref": "isaiah 32:16",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25891,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26428
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:38:12.646879391Z",
   "translation": "Y habitará ⟨el⟩ mishpat en ⟨el⟩ midbar, y ⟨la⟩ tzedaká en ⟨el⟩ Karmel se sentará.",
   "tokens": [
     {
       "surface": "וְ\/שָׁכַ֥ן",
-      "english": "Y habitará"
+      "gloss": "Y habitará"
     },
     {
       "surface": "בַּ\/מִּדְבָּ֖ר",
-      "english": "en ⟨el⟩ midbar"
+      "gloss": "en ⟨el⟩ midbar"
     },
     {
       "surface": "מִשְׁפָּ֑ט",
-      "english": "⟨el⟩ mishpat"
+      "gloss": "⟨el⟩ mishpat"
     },
     {
       "surface": "וּ\/צְדָקָ֖ה",
-      "english": "y ⟨la⟩ tzedaká"
+      "gloss": "y ⟨la⟩ tzedaká"
     },
     {
       "surface": "בַּ\/כַּרְמֶ֥ל",
-      "english": "en ⟨el⟩ Karmel"
+      "gloss": "en ⟨el⟩ Karmel"
     },
     {
       "surface": "תֵּשֵֽׁב",
-      "english": "se sentará"
+      "gloss": "se sentará"
     }
-  ],
-  "timestamp": "2026-06-13T03:38:12.646879391Z",
-  "model": "glm-5.1"
+  ]
 }

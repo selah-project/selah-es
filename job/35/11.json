@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 35:11",
   "book": "job",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27013,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27563
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:13:24.946740312Z",
   "translation": "⟨el que⟩ nos enseña ⟨de⟩ ⟨los⟩ animales ⟨de⟩ ⟨la⟩ tierra y ⟨nos hace⟩ más sabios ⟨que⟩ ⟨las⟩ aves ⟨de⟩ ⟨los⟩ cielos",
   "tokens": [
     {
       "surface": "מלפנו",
-      "english": "⟨El que⟩ nos enseña"
+      "gloss": "⟨El que⟩ nos enseña"
     },
     {
       "surface": "מבהמות",
-      "english": "⟨de⟩ ⟨los⟩ animales"
+      "gloss": "⟨de⟩ ⟨los⟩ animales"
     },
     {
       "surface": "ארץ",
-      "english": "⟨de⟩ ⟨la⟩ tierra"
+      "gloss": "⟨de⟩ ⟨la⟩ tierra"
     },
     {
       "surface": "ומעוף",
-      "english": "y ⟨nos hace⟩ más sabios"
+      "gloss": "y ⟨nos hace⟩ más sabios"
     },
     {
       "surface": "השמים",
-      "english": "⟨de⟩ ⟨los⟩ cielos"
+      "gloss": "⟨de⟩ ⟨los⟩ cielos"
     },
     {
       "surface": "יחכמנו",
-      "english": "⟨que⟩ ⟨las⟩ aves"
+      "gloss": "⟨que⟩ ⟨las⟩ aves"
     }
-  ],
-  "timestamp": "2026-06-10T02:13:24.946740312Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-chronicles 1:10",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 395,
-    "prompt_tokens": 64334,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64729
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:02:15.336975626Z",
   "translation": "Y Kush engendró ⟨את⟩ Nimrod; él comenzó ⟨a ser⟩ poderoso en la tierra.",
   "tokens": [
     {
       "surface": "וכוש",
-      "english": "Y Kush"
+      "gloss": "Y Kush"
     },
     {
       "surface": "ילד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Nimrod"
     },
     {
       "surface": "נמרוד",
-      "english": "Nimrod"
+      "gloss": "Nimrod"
     },
     {
       "surface": "הוא",
-      "english": "él"
+      "gloss": "él"
     },
     {
       "surface": "החל",
-      "english": "comenzó"
+      "gloss": "comenzó"
     },
     {
       "surface": "להיות",
-      "english": "⟨a ser⟩"
+      "gloss": "⟨a ser⟩"
     },
     {
       "surface": "גבור",
-      "english": "poderoso"
+      "gloss": "poderoso"
     },
     {
       "surface": "בארץ",
-      "english": "en la tierra"
+      "gloss": "en la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T18:02:15.336975626Z",
-  "model": "glm-4.5"
+  ]
 }

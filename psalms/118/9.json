@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 118:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 227,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69669,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69896
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:58:08.101977767Z",
   "translation": "Better ⟨to⟩ take refuge ⟨in⟩ YHWH than ⟨to⟩ put trust ⟨in⟩ princes",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "Better"
+      "gloss": "Better"
     },
     {
       "surface": "לחסות",
-      "english": "⟨to⟩ take refuge"
+      "gloss": "⟨to⟩ take refuge"
     },
     {
       "surface": "ביהוה",
-      "english": "⟨in⟩ YHWH"
+      "gloss": "⟨in⟩ YHWH"
     },
     {
       "surface": "מבטח",
-      "english": "⟨to⟩ put trust"
+      "gloss": "⟨to⟩ put trust"
     },
     {
       "surface": "בנדיבים",
-      "english": "⟨in⟩ princes"
+      "gloss": "⟨in⟩ princes"
     }
-  ],
-  "timestamp": "2026-06-09T23:58:08.101977767Z",
-  "model": "glm-4.5"
+  ]
 }

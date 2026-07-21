@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "genesis 27:22",
   "book": "genesis",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28856,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29251
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:24:58.302976836Z",
   "translation": "Y se acercó Yaakov a Yitzjak su padre y lo palpó y dijo ⟨el⟩ sonido ⟨es⟩ sonido de Yaakov y las manos manos de Esav.",
   "tokens": [
     {
       "surface": "ויגש",
-      "english": "Y se acercó"
+      "gloss": "Y se acercó"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יצחק",
-      "english": "Yitzjak"
+      "gloss": "Yitzjak"
     },
     {
       "surface": "אביו",
-      "english": "su padre"
+      "gloss": "su padre"
     },
     {
       "surface": "וימשהו",
-      "english": "y lo palpó"
+      "gloss": "y lo palpó"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "הקל",
-      "english": "⟨el⟩ sonido"
+      "gloss": "⟨el⟩ sonido"
     },
     {
       "surface": "קול",
-      "english": "sonido"
+      "gloss": "sonido"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     },
     {
       "surface": "והידים",
-      "english": "y las manos"
+      "gloss": "y las manos"
     },
     {
       "surface": "ידי",
-      "english": "manos"
+      "gloss": "manos"
     },
     {
       "surface": "עשו",
-      "english": "de Esav"
+      "gloss": "de Esav"
     }
-  ],
-  "timestamp": "2026-06-10T05:24:58.302976836Z",
-  "model": "glm-4.5"
+  ]
 }

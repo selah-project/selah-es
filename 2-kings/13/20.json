@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-kings 13:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 13,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:33:13.621406731Z",
+  "translation": "Y murió Elisha y ⟨lo⟩ enterraron, y las bandas de Moav entraron en ⟨la⟩ tierra en ⟨la⟩ venida del año.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Y murió"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "y ⟨lo⟩ enterraron"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "y las bandas"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "entraron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "en ⟨la⟩ tierra"
+    },
+    {
+      "surface": "בא",
+      "gloss": "en ⟨la⟩ venida"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "del año"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eliseo",
@@ -20,60 +63,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16666,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17009
-  },
-  "translation": "Y murió Elisha y ⟨lo⟩ enterraron, y las bandas de Moav entraron en ⟨la⟩ tierra en ⟨la⟩ venida del año.",
-  "tokens": [
-    {
-      "surface": "וימת",
-      "english": "Y murió"
-    },
-    {
-      "surface": "אלישע",
-      "english": "Elisha"
-    },
-    {
-      "surface": "ויקברהו",
-      "english": "y ⟨lo⟩ enterraron"
-    },
-    {
-      "surface": "וגדודי",
-      "english": "y las bandas"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "יבאו",
-      "english": "entraron"
-    },
-    {
-      "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
-    },
-    {
-      "surface": "בא",
-      "english": "en ⟨la⟩ venida"
-    },
-    {
-      "surface": "שנה",
-      "english": "del año"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:33:13.621406731Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

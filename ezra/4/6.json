@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "ezra 4:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 4,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:14:16.828747382Z",
+  "translation": "Y en el reino de Ajashverósh, en el comienzo de ⟨su⟩ reino, escribieron ⟨una⟩ acusación contra los habitantes de Yehudá y de Jerusalén.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "Y en el reino de"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajashverósh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "en el comienzo de"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "⟨su⟩ reino"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "escribieron"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "⟨una⟩ acusación"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "los habitantes de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "y de Jerusalén"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Asuero",
@@ -20,64 +67,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44929,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 45369
-  },
-  "translation": "Y en el reino de Ajashverósh, en el comienzo de ⟨su⟩ reino, escribieron ⟨una⟩ acusación contra los habitantes de Yehudá y de Jerusalén.",
-  "tokens": [
-    {
-      "surface": "ובמלכות",
-      "english": "Y en el reino de"
-    },
-    {
-      "surface": "אחשורוש",
-      "english": "Ajashverósh"
-    },
-    {
-      "surface": "בתחלת",
-      "english": "en el comienzo de"
-    },
-    {
-      "surface": "מלכותו",
-      "english": "⟨su⟩ reino"
-    },
-    {
-      "surface": "כתבו",
-      "english": "escribieron"
-    },
-    {
-      "surface": "שטנה",
-      "english": "⟨una⟩ acusación"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "ישבי",
-      "english": "los habitantes de"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "y de Jerusalén"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:14:16.828747382Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

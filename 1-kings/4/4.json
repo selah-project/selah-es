@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-kings 4:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 4,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:48:00.772748925Z",
+  "translation": "y Biniahu ben Yehoiadá ⟨estaba⟩ sobre ⟨el⟩ ejército, y Tsadok y Aviatar ⟨eran⟩ los Kohens;",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Y Biniahu",
+      "marks": null
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben",
+      "marks": null
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoiadá",
+      "marks": null
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre",
+      "marks": null
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "⟨el⟩ ejército",
+      "marks": "ejército"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "y Tsadok",
+      "marks": null
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "y Aviatar",
+      "marks": null
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "los Kohens",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,64 +60,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62088,
-    "prompt_tokens_details": {
-      "cached_tokens": 60967
-    },
-    "total_tokens": 62505
-  },
-  "translation": "y Biniahu ben Yehoiadá ⟨estaba⟩ sobre ⟨el⟩ ejército, y Tsadok y Aviatar ⟨eran⟩ los Kohens;",
-  "tokens": [
-    {
-      "surface": "ובניהו",
-      "english": "Y Biniahu",
-      "marks": null
-    },
-    {
-      "surface": "בן",
-      "english": "ben",
-      "marks": null
-    },
-    {
-      "surface": "יהוידע",
-      "english": "Yehoiadá",
-      "marks": null
-    },
-    {
-      "surface": "על",
-      "english": "sobre",
-      "marks": null
-    },
-    {
-      "surface": "הצבא",
-      "english": "⟨el⟩ ejército",
-      "marks": "ejército"
-    },
-    {
-      "surface": "וצדוק",
-      "english": "y Tsadok",
-      "marks": null
-    },
-    {
-      "surface": "ואביתר",
-      "english": "y Aviatar",
-      "marks": null
-    },
-    {
-      "surface": "כהנים",
-      "english": "los Kohens",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:48:00.772748925Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

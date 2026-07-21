@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 35:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69808,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70196
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:14:43.307617572Z",
   "translation": "They rewarded me evil ⟨for⟩ good ⟨to⟩ ⟨the⟩ bereaving ⟨of⟩ my soul",
   "tokens": [
     {
       "surface": "ישלמוני",
-      "english": "They rewarded me"
+      "gloss": "They rewarded me"
     },
     {
       "surface": "רעה",
-      "english": "evil"
+      "gloss": "evil"
     },
     {
       "surface": "תחת",
-      "english": "⟨for⟩"
+      "gloss": "⟨for⟩"
     },
     {
       "surface": "טובה",
-      "english": "good"
+      "gloss": "good"
     },
     {
       "surface": "שכול",
-      "english": "⟨the⟩ bereaving"
+      "gloss": "⟨the⟩ bereaving"
     },
     {
       "surface": "לנפשי",
-      "english": "⟨of⟩ my soul"
+      "gloss": "⟨of⟩ my soul"
     }
-  ],
-  "timestamp": "2026-06-09T23:14:43.307617572Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,87 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "leviticus 13:13",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 509,
-    "prompt_tokens": 25476,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25985
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:37:56.483952709Z",
   "translation": "Y verá el kohen, y he aquí, la tzaraat ha cubierto ⟨את⟩ toda su carne, y declarará puro ⟨את⟩ la infección; todo se ha vuelto blanco, puro ⟨es⟩.",
   "tokens": [
     {
       "surface": "וראה",
-      "english": "Y verá"
+      "gloss": "Y verá"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "והנה",
-      "english": "y he aquí"
+      "gloss": "y he aquí"
     },
     {
       "surface": "כסתה",
-      "english": "ha cubierto"
+      "gloss": "ha cubierto"
     },
     {
       "surface": "הצרעת",
-      "english": "la tzaraat"
+      "gloss": "la tzaraat"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda su carne"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "בשרו",
-      "english": "su carne"
+      "gloss": "su carne"
     },
     {
       "surface": "וטהר",
-      "english": "y declarará puro"
+      "gloss": "y declarará puro"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la infección"
     },
     {
       "surface": "הנגע",
-      "english": "la infección"
+      "gloss": "la infección"
     },
     {
       "surface": "כלו",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "הפך",
-      "english": "se ha vuelto"
+      "gloss": "se ha vuelto"
     },
     {
       "surface": "לבן",
-      "english": "blanco"
+      "gloss": "blanco"
     },
     {
       "surface": "טהור",
-      "english": "puro"
+      "gloss": "puro"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     }
-  ],
-  "timestamp": "2026-07-16T22:37:56.483952709Z",
-  "model": "glm-4.5"
+  ]
 }

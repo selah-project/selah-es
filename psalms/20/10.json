@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 20:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69693,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70053
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:44.962777620Z",
   "translation": "YHWH ⟨ha⟩-ohshiʿá ⟨ha⟩-melej yaʿanénu bé-yóm qaraʾnu",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הושיעה",
-      "english": "⟨ha⟩-ohshiʿá",
+      "gloss": "⟨ha⟩-ohshiʿá",
       "marks": "Save"
     },
     {
       "surface": "המלך",
-      "english": "⟨ha⟩-melej",
+      "gloss": "⟨ha⟩-melej",
       "marks": "King"
     },
     {
       "surface": "יעננו",
-      "english": "yaʿanénu",
+      "gloss": "yaʿanénu",
       "marks": "answer us"
     },
     {
       "surface": "ביום",
-      "english": "bé-yóm",
+      "gloss": "bé-yóm",
       "marks": "in the day"
     },
     {
       "surface": "קראנו",
-      "english": "qaraʾnu",
+      "gloss": "qaraʾnu",
       "marks": "we call"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:44.962777620Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 34:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28613,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29099
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:31:42.208337885Z",
   "translation": "Solo en esto ⟨nosotros⟩ estaremos ⟨de acuerdo con⟩ vosotros ⟨את⟩: si vosotros ⟨estéis⟩ como nosotros, ⟨para⟩ circuncidar ⟨a⟩ vosotros ⟨a⟩ todo varón",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Solo"
+      "gloss": "Solo"
     },
     {
       "surface": "בזאת",
-      "english": "en esto"
+      "gloss": "en esto"
     },
     {
       "surface": "נאות",
-      "english": "estaremos ⟨de acuerdo con⟩"
+      "gloss": "estaremos ⟨de acuerdo con⟩"
     },
     {
       "surface": "לכם",
-      "english": "vosotros"
+      "gloss": "vosotros"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "תהיו",
-      "english": "vosotros ⟨estéis⟩"
+      "gloss": "vosotros ⟨estéis⟩"
     },
     {
       "surface": "כמנו",
-      "english": "como nosotros"
+      "gloss": "como nosotros"
     },
     {
       "surface": "להמל",
-      "english": "⟨para⟩ circuncidar"
+      "gloss": "⟨para⟩ circuncidar"
     },
     {
       "surface": "לכם",
-      "english": "⟨a⟩ vosotros"
+      "gloss": "⟨a⟩ vosotros"
     },
     {
       "surface": "כל",
-      "english": "⟨a⟩ todo"
+      "gloss": "⟨a⟩ todo"
     },
     {
       "surface": "זכר",
-      "english": "varón"
+      "gloss": "varón"
     }
-  ],
-  "timestamp": "2026-06-10T05:31:42.208337885Z",
-  "model": "glm-4.5"
+  ]
 }

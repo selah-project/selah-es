@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-samuel 19:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 19,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:03:53.415162981Z",
+  "translation": "Y Jehonatán habló ⟨es⟩ bien de David a Shaúl su padre, y le dijo: '⟨el⟩ rey no peque contra su siervo, contra David, porque él ⟨ha⟩ pecado ⟨es⟩ contra ti, y porque sus acciones ⟨son⟩ muy buenas ⟨por⟩ ti'",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Y habló"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatán"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "su padre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y le dijo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a él"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "peque"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "בעבדו",
+      "gloss": "contra su siervo"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "contra David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "él"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ha pecado"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contra ti"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "y porque"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "sus acciones"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "muy buenas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "por ti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muy"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -13,116 +112,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 686,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17461,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 18147
-  },
-  "translation": "Y Jehonatán habló ⟨es⟩ bien de David a Shaúl su padre, y le dijo: '⟨el⟩ rey no peque contra su siervo, contra David, porque él ⟨ha⟩ pecado ⟨es⟩ contra ti, y porque sus acciones ⟨son⟩ muy buenas ⟨por⟩ ti'",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "Y habló"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Jehonatán"
-    },
-    {
-      "surface": "בדוד",
-      "english": "de David"
-    },
-    {
-      "surface": "טוב",
-      "english": "bien"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "אביו",
-      "english": "su padre"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y le dijo"
-    },
-    {
-      "surface": "אליו",
-      "english": "a él"
-    },
-    {
-      "surface": "אל",
-      "english": "no"
-    },
-    {
-      "surface": "יחטא",
-      "english": "peque"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "בעבדו",
-      "english": "contra su siervo"
-    },
-    {
-      "surface": "בדוד",
-      "english": "contra David"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לוא",
-      "english": "él"
-    },
-    {
-      "surface": "חטא",
-      "english": "ha pecado"
-    },
-    {
-      "surface": "לך",
-      "english": "contra ti"
-    },
-    {
-      "surface": "וכי",
-      "english": "y porque"
-    },
-    {
-      "surface": "מעשיו",
-      "english": "sus acciones"
-    },
-    {
-      "surface": "טוב",
-      "english": "muy buenas"
-    },
-    {
-      "surface": "לך",
-      "english": "por ti"
-    },
-    {
-      "surface": "מאד",
-      "english": "muy"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:03:53.415162981Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

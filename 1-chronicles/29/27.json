@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-chronicles 29:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 29,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:59:16.186656252Z",
+  "translation": "Y los días que reinó sobre Yisrael ⟨fueron⟩ cuarenta años: en Hebrón reinó siete años y en Jerusalén reinó treinta y tres.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Y los días"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "cuarenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "en Hebrón"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "siete"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "años"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "y en Jerusalén"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treinta"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "y tres"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57445,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57860
-  },
-  "translation": "Y los días que reinó sobre Yisrael ⟨fueron⟩ cuarenta años: en Hebrón reinó siete años y en Jerusalén reinó treinta y tres.",
-  "tokens": [
-    {
-      "surface": "והימים",
-      "english": "Y los días"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ארבעים",
-      "english": "cuarenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "בחברון",
-      "english": "en Hebrón"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    },
-    {
-      "surface": "שבע",
-      "english": "siete"
-    },
-    {
-      "surface": "שנים",
-      "english": "años"
-    },
-    {
-      "surface": "ובירושלם",
-      "english": "y en Jerusalén"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    },
-    {
-      "surface": "שלשים",
-      "english": "treinta"
-    },
-    {
-      "surface": "ושלוש",
-      "english": "y tres"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:59:16.186656252Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

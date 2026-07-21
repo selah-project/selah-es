@@ -1,64 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "nehemiah 12:30",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 439,
-    "prompt_tokens": 57038,
-    "prompt_tokens_details": {
-      "cached_tokens": 55552
-    },
-    "total_tokens": 57477
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:54:02.357128037Z",
   "translation": "Y los Kohanim y los Leviyim se purificaron, y purificaron ⟨את⟩ al pueblo, y ⟨את⟩ las puertas, y ⟨את⟩ la muralla.",
   "tokens": [
     {
       "surface": "ויטהרו",
-      "english": "Y se purificaron"
+      "gloss": "Y se purificaron"
     },
     {
       "surface": "הכהנים",
-      "english": "los Kohanim"
+      "gloss": "los Kohanim"
     },
     {
       "surface": "והלוים",
-      "english": "y los Leviyim"
+      "gloss": "y los Leviyim"
     },
     {
       "surface": "ויטהרו",
-      "english": "y purificaron"
+      "gloss": "y purificaron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "al pueblo"
     },
     {
       "surface": "העם",
-      "english": "el pueblo"
+      "gloss": "el pueblo"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "las puertas"
     },
     {
       "surface": "השערים",
-      "english": "las puertas"
+      "gloss": "las puertas"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la muralla"
     },
     {
       "surface": "החומה",
-      "english": "la muralla"
+      "gloss": "la muralla"
     }
-  ],
-  "timestamp": "2026-07-16T22:54:02.357128037Z",
-  "model": "glm-4.5"
+  ]
 }

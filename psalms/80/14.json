@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 80:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69850,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70296
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:29.990431400Z",
   "translation": "yekharsémenah ⟨el⟩ jabalí del bosque, u-ziz ⟨del⟩ campo yir'énah ⟨apacentará⟩",
   "tokens": [
     {
       "surface": "יכרסמנה",
-      "english": "Yekharsémenah",
+      "gloss": "Yekharsémenah",
       "marks": null
     },
     {
       "surface": "חזיר",
-      "english": "⟨el⟩ jabalí",
+      "gloss": "⟨el⟩ jabalí",
       "marks": null
     },
     {
       "surface": "מיער",
-      "english": "del bosque",
+      "gloss": "del bosque",
       "marks": null
     },
     {
       "surface": "וזיז",
-      "english": "u-ziz",
+      "gloss": "u-ziz",
       "marks": null
     },
     {
       "surface": "שדי",
-      "english": "⟨del⟩ campo",
+      "gloss": "⟨del⟩ campo",
       "marks": null
     },
     {
       "surface": "ירענה",
-      "english": "yir'énah ⟨apacentará⟩",
+      "gloss": "yir'énah ⟨apacentará⟩",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-09T23:38:29.990431400Z",
-  "model": "glm-4.5"
+  ]
 }

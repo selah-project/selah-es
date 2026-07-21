@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 27:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 27,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:12:13.983660999Z",
+  "translation": "Y habitó Davidd con Aquis en Gat, él y sus hombres, cada hombre con su casa; Davidd y sus dos esposas, Ahinoam la yizreelita y Abigail la mujer de Nabal la carmelita.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Y habitó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Aquis"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "en Gat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "él"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "y sus hombres"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada hombre"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "con su casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "y sus dos"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "esposas"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "la yizreelita"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "y Abigail"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la mujer de"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "la carmelita"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,96 +99,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17081,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17594
-  },
-  "translation": "Y habitó Davidd con Aquis en Gat, él y sus hombres, cada hombre con su casa; Davidd y sus dos esposas, Ahinoam la yizreelita y Abigail la mujer de Nabal la carmelita.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "Y habitó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "אכיש",
-      "english": "Aquis"
-    },
-    {
-      "surface": "בגת",
-      "english": "en Gat"
-    },
-    {
-      "surface": "הוא",
-      "english": "él"
-    },
-    {
-      "surface": "ואנשיו",
-      "english": "y sus hombres"
-    },
-    {
-      "surface": "איש",
-      "english": "cada hombre"
-    },
-    {
-      "surface": "וביתו",
-      "english": "con su casa"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ושתי",
-      "english": "y sus dos"
-    },
-    {
-      "surface": "נשיו",
-      "english": "esposas"
-    },
-    {
-      "surface": "אחינעם",
-      "english": "Ahinoam"
-    },
-    {
-      "surface": "היזרעאלית",
-      "english": "la yizreelita"
-    },
-    {
-      "surface": "ואביגיל",
-      "english": "y Abigail"
-    },
-    {
-      "surface": "אשת",
-      "english": "la mujer de"
-    },
-    {
-      "surface": "נבל",
-      "english": "Nabal"
-    },
-    {
-      "surface": "הכרמלית",
-      "english": "la carmelita"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:12:13.983660999Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

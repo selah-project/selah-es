@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 56:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69811,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70129
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:25:28.230428438Z",
   "translation": "Sobre mí ⟨están⟩, Elohim, tus votos ⟨que⟩ pagaré ⟨con⟩ alabanzas ⟨para⟩ ti",
   "tokens": [
     {
       "surface": "עלי",
-      "english": "Sobre mí"
+      "gloss": "Sobre mí"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "נדריך",
-      "english": "tus votos"
+      "gloss": "tus votos"
     },
     {
       "surface": "אשלם",
-      "english": "⟨que⟩ pagaré"
+      "gloss": "⟨que⟩ pagaré"
     },
     {
       "surface": "תודת",
-      "english": "⟨con⟩ alabanzas"
+      "gloss": "⟨con⟩ alabanzas"
     },
     {
       "surface": "לך",
-      "english": "⟨para⟩ ti"
+      "gloss": "⟨para⟩ ti"
     }
-  ],
-  "timestamp": "2026-06-09T23:25:28.230428438Z",
-  "model": "glm-4.5"
+  ]
 }

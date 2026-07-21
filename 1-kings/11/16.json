@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-kings 11:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 11,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:59:41.981824898Z",
+  "translation": "Porque seis meses permaneció allí Joab y todo Yisrael ⟨hasta⟩ ⟨el exterminio⟩ de todo varón en Edom",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "seis"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "meses"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "permaneció"
+    },
+    {
+      "surface": "שם",
+      "gloss": "allí"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨hasta⟩"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "⟨el exterminio⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "varón"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "en Edom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62470,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62884
-  },
-  "translation": "Porque seis meses permaneció allí Joab y todo Yisrael ⟨hasta⟩ ⟨el exterminio⟩ de todo varón en Edom",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "ששת",
-      "english": "seis"
-    },
-    {
-      "surface": "חדשים",
-      "english": "meses"
-    },
-    {
-      "surface": "ישב",
-      "english": "permaneció"
-    },
-    {
-      "surface": "שם",
-      "english": "allí"
-    },
-    {
-      "surface": "יואב",
-      "english": "Joab"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "עד",
-      "english": "⟨hasta⟩"
-    },
-    {
-      "surface": "הכרית",
-      "english": "⟨el exterminio⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "זכר",
-      "english": "varón"
-    },
-    {
-      "surface": "באדום",
-      "english": "en Edom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:59:41.981824898Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

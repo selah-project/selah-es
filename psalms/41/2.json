@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 41:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 529,
-    "prompt_tokens": 70134,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70663
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:15.919906227Z",
   "translation": "¡Dichoso ⟨el⟩ que considera ⟨al⟩ débil, en el día de ⟨la⟩ calamidad ⟨lo⟩ librará YHWH.",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Dichoso"
+      "gloss": "¡Dichoso"
     },
     {
       "surface": "משכיל",
-      "english": "⟨el⟩ que considera"
+      "gloss": "⟨el⟩ que considera"
     },
     {
       "surface": "אל",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "דל",
-      "english": "débil"
+      "gloss": "débil"
     },
     {
       "surface": "ביום",
-      "english": "en el día"
+      "gloss": "en el día"
     },
     {
       "surface": "רעה",
-      "english": "de ⟨la⟩ calamidad"
+      "gloss": "de ⟨la⟩ calamidad"
     },
     {
       "surface": "ימלטהו",
-      "english": "⟨lo⟩ librará"
+      "gloss": "⟨lo⟩ librará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:15.919906227Z",
-  "model": "glm-4.5"
+  ]
 }

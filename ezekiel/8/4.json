@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "ezekiel 8:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 8,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:16:57.305795872Z",
+  "translation": "Y he aquí que ⟨estaba⟩ allí la gloria del Elohim de Yisrael, ⟨como⟩ ⟨la⟩ visión que vi en el valle",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Y he aquí que"
+    },
+    {
+      "surface": "שם",
+      "gloss": "allí"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloria"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "del Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "⟨como⟩ ⟨la⟩ visión"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "vi"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "en el valle"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17224,
-    "prompt_tokens_details": {
-      "cached_tokens": 15965
-    },
-    "total_tokens": 17591
-  },
-  "translation": "Y he aquí que ⟨estaba⟩ allí la gloria del Elohim de Yisrael, ⟨como⟩ ⟨la⟩ visión que vi en el valle",
-  "tokens": [
-    {
-      "surface": "והנה",
-      "english": "Y he aquí que"
-    },
-    {
-      "surface": "שם",
-      "english": "allí"
-    },
-    {
-      "surface": "כבוד",
-      "english": "la gloria"
-    },
-    {
-      "surface": "אלהי",
-      "english": "del Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "כמראה",
-      "english": "⟨como⟩ ⟨la⟩ visión"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ראיתי",
-      "english": "vi"
-    },
-    {
-      "surface": "בבקעה",
-      "english": "en el valle"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:16:57.305795872Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

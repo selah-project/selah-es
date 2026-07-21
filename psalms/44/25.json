@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 44:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 359,
-    "prompt_tokens": 69883,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70242
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:52.271925743Z",
   "translation": "¿Por qué ocultas ⟨את⟩ tu rostro y olvidas nuestra aflicción y nuestra opresión?",
   "tokens": [
     {
       "surface": "למה",
-      "english": "¿Por qué"
+      "gloss": "¿Por qué"
     },
     {
       "surface": "פניך",
-      "english": "tu rostro"
+      "gloss": "tu rostro"
     },
     {
       "surface": "תסתיר",
-      "english": "ocultas"
+      "gloss": "ocultas"
     },
     {
       "surface": "תשכח",
-      "english": "y olvidas"
+      "gloss": "y olvidas"
     },
     {
       "surface": "ענינו",
-      "english": "nuestra aflicción"
+      "gloss": "nuestra aflicción"
     },
     {
       "surface": "ולחצנו",
-      "english": "y nuestra opresión"
+      "gloss": "y nuestra opresión"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:52.271925743Z",
-  "model": "glm-4.5"
+  ]
 }

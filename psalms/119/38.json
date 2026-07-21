@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 38,
   "ref": "psalms 119:38",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 206,
-    "prompt_tokens": 69769,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 69975
-  },
+  "verse": 38,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:46.672094623Z",
   "translation": "Establece ⟨את⟩ tu palabra a tu siervo, ⟨que es⟩ relativa a tu temor",
   "tokens": [
     {
       "surface": "הקם",
-      "english": "Establece"
+      "gloss": "Establece"
     },
     {
       "surface": "לעבדך",
-      "english": "a tu siervo"
+      "gloss": "a tu siervo"
     },
     {
       "surface": "אמרתך",
-      "english": "⟨את⟩ tu palabra",
+      "gloss": "⟨את⟩ tu palabra",
       "marks": "tu palabra"
     },
     {
       "surface": "אשר",
-      "english": "⟨que es⟩"
+      "gloss": "⟨que es⟩"
     },
     {
       "surface": "ליראתך",
-      "english": "relativa a tu temor"
+      "gloss": "relativa a tu temor"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:46.672094623Z",
-  "model": "glm-4.5"
+  ]
 }

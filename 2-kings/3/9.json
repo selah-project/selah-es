@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-kings 3:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 3,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:22:02.097193844Z",
+  "translation": "Y el rey de Yisrael y el rey de Yehudá y el rey de Edom ⟨fueron⟩ por un camino de siete días, y no había agua para el campamento ni para las bestias que ⟨estaban⟩ a sus pies",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Y"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "y el rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "y el rey"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "de Edom"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "⟨fueron⟩ por"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "un camino"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "de siete"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "días"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "había"
+    },
+    {
+      "surface": "מים",
+      "gloss": "agua"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "para el campamento"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ni para las bestias"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "⟨estaban⟩ a sus pies"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,96 +99,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17540,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 18118
-  },
-  "translation": "Y el rey de Yisrael y el rey de Yehudá y el rey de Edom ⟨fueron⟩ por un camino de siete días, y no había agua para el campamento ni para las bestias que ⟨estaban⟩ a sus pies",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "Y"
-    },
-    {
-      "surface": "מלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ומלך",
-      "english": "y el rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ומלך",
-      "english": "y el rey"
-    },
-    {
-      "surface": "אדום",
-      "english": "de Edom"
-    },
-    {
-      "surface": "ויסבו",
-      "english": "⟨fueron⟩ por"
-    },
-    {
-      "surface": "דרך",
-      "english": "un camino"
-    },
-    {
-      "surface": "שבעת",
-      "english": "de siete"
-    },
-    {
-      "surface": "ימים",
-      "english": "días"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "היה",
-      "english": "había"
-    },
-    {
-      "surface": "מים",
-      "english": "agua"
-    },
-    {
-      "surface": "למחנה",
-      "english": "para el campamento"
-    },
-    {
-      "surface": "ולבהמה",
-      "english": "ni para las bestias"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ברגליהם",
-      "english": "⟨estaban⟩ a sus pies"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:22:02.097193844Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "jeremiah 37:12",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24686,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25136
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:34:29.719585984Z",
   "translation": "Y salió Yirmeyahu de Yerushalayim para ir a tierra de Binyamín para repartir ⟨de⟩ allí en medio ⟨del⟩ pueblo",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "Y salió"
+      "gloss": "Y salió"
     },
     {
       "surface": "ירמיהו",
-      "english": "Yirmeyahu"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "מירושלם",
-      "english": "de Yerushalayim"
+      "gloss": "de Yerushalayim"
     },
     {
       "surface": "ללכת",
-      "english": "para ir"
+      "gloss": "para ir"
     },
     {
       "surface": "ארץ",
-      "english": "a tierra"
+      "gloss": "a tierra"
     },
     {
       "surface": "בנימן",
-      "english": "de Binyamín"
+      "gloss": "de Binyamín"
     },
     {
       "surface": "לחלק",
-      "english": "para repartir"
+      "gloss": "para repartir"
     },
     {
       "surface": "משם",
-      "english": "⟨de⟩ allí",
+      "gloss": "⟨de⟩ allí",
       "marks": "de allí"
     },
     {
       "surface": "בתוך",
-      "english": "en medio"
+      "gloss": "en medio"
     },
     {
       "surface": "העם",
-      "english": "⟨del⟩ pueblo",
+      "gloss": "⟨del⟩ pueblo",
       "marks": "el pueblo"
     }
-  ],
-  "timestamp": "2026-06-10T03:34:29.719585984Z",
-  "model": "glm-4.5"
+  ]
 }

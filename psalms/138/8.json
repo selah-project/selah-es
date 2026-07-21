@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 138:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 138,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70234,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70752
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:08:27.402833466Z",
   "translation": "YHWH completará ⟨lo que me concierne⟩; YHWH tu jésed ⟨es⟩ para siempre, ⟨los⟩ trabajos de tus manos no ⟨lo⟩ abandones.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יגמר",
-      "english": "completará"
+      "gloss": "completará"
     },
     {
       "surface": "בעדי",
-      "english": "⟨lo que me concierne⟩"
+      "gloss": "⟨lo que me concierne⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חסדך",
-      "english": "tu jésed"
+      "gloss": "tu jésed"
     },
     {
       "surface": "לעולם",
-      "english": "⟨es⟩ para siempre"
+      "gloss": "⟨es⟩ para siempre"
     },
     {
       "surface": "מעשי",
-      "english": "⟨los⟩ trabajos"
+      "gloss": "⟨los⟩ trabajos"
     },
     {
       "surface": "ידיך",
-      "english": "de tus manos"
+      "gloss": "de tus manos"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תרף",
-      "english": "⟨lo⟩ abandones"
+      "gloss": "⟨lo⟩ abandones"
     }
-  ],
-  "timestamp": "2026-06-10T00:08:27.402833466Z",
-  "model": "glm-4.5"
+  ]
 }

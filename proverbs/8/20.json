@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 8:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 415,
-    "prompt_tokens": 59845,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60260
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:18:20.964910747Z",
   "translation": "Camino ⟨en⟩ ⟨la⟩ senda de justicia, ⟨en⟩ medio de ⟨los⟩ caminos ⟨del⟩ mishpat:",
   "tokens": [
     {
       "surface": "בארח",
-      "english": "Camino ⟨en⟩ ⟨la⟩ senda"
+      "gloss": "Camino ⟨en⟩ ⟨la⟩ senda"
     },
     {
       "surface": "צדקה",
-      "english": "de justicia"
+      "gloss": "de justicia"
     },
     {
       "surface": "אהלך",
-      "english": "camino"
+      "gloss": "camino"
     },
     {
       "surface": "בתוך",
-      "english": "⟨en⟩ medio de"
+      "gloss": "⟨en⟩ medio de"
     },
     {
       "surface": "נתיבות",
-      "english": "⟨los⟩ caminos"
+      "gloss": "⟨los⟩ caminos"
     },
     {
       "surface": "משפט",
-      "english": "⟨del⟩ mishpat"
+      "gloss": "⟨del⟩ mishpat"
     }
-  ],
-  "timestamp": "2026-07-16T23:18:20.964910747Z",
-  "model": "glm-4.5"
+  ]
 }

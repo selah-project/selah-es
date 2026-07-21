@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 15:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 15,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:42:29.650291013Z",
+  "translation": "Y con el soplo de tu ⟨furia⟩ se amontonaron las aguas, ⟨se⟩ enderezaron ⟨como⟩ un montículo ⟨de⟩ olas, se congelaron los Tehoms en ⟨el⟩ corazón ⟨del⟩ mar",
+  "tokens": [
+    {
+      "surface": "וברוח",
+      "gloss": "Y con el soplo de"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "tu ⟨furia⟩"
+    },
+    {
+      "surface": "נערמו",
+      "gloss": "se amontonaron"
+    },
+    {
+      "surface": "מים",
+      "gloss": "las aguas"
+    },
+    {
+      "surface": "נצבו",
+      "gloss": "⟨se⟩ enderezaron"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "⟨como⟩"
+    },
+    {
+      "surface": "נד",
+      "gloss": "un montículo"
+    },
+    {
+      "surface": "נזלים",
+      "gloss": "⟨de⟩ olas"
+    },
+    {
+      "surface": "קפאו",
+      "gloss": "se congelaron"
+    },
+    {
+      "surface": "תהמת",
+      "gloss": "los Tehoms"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "en ⟨el⟩ corazón"
+    },
+    {
+      "surface": "ים",
+      "gloss": "⟨del⟩ mar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "abismo",
@@ -13,72 +68,6 @@
       "hebrew": "תהום"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 570,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17010,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17580
-  },
-  "translation": "Y con el soplo de tu ⟨furia⟩ se amontonaron las aguas, ⟨se⟩ enderezaron ⟨como⟩ un montículo ⟨de⟩ olas, se congelaron los Tehoms en ⟨el⟩ corazón ⟨del⟩ mar",
-  "tokens": [
-    {
-      "surface": "וברוח",
-      "english": "Y con el soplo de"
-    },
-    {
-      "surface": "אפיך",
-      "english": "tu ⟨furia⟩"
-    },
-    {
-      "surface": "נערמו",
-      "english": "se amontonaron"
-    },
-    {
-      "surface": "מים",
-      "english": "las aguas"
-    },
-    {
-      "surface": "נצבו",
-      "english": "⟨se⟩ enderezaron"
-    },
-    {
-      "surface": "כמו",
-      "english": "⟨como⟩"
-    },
-    {
-      "surface": "נד",
-      "english": "un montículo"
-    },
-    {
-      "surface": "נזלים",
-      "english": "⟨de⟩ olas"
-    },
-    {
-      "surface": "קפאו",
-      "english": "se congelaron"
-    },
-    {
-      "surface": "תהמת",
-      "english": "los Tehoms"
-    },
-    {
-      "surface": "בלב",
-      "english": "en ⟨el⟩ corazón"
-    },
-    {
-      "surface": "ים",
-      "english": "⟨del⟩ mar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:42:29.650291013Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

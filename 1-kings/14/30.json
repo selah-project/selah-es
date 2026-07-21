@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-kings 14:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 14,
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:05:39.538683154Z",
+  "translation": "Y guerra ⟨fue⟩ entre Rejavam ⟨y⟩ entre Yarovám ⟨por⟩ todos ⟨los⟩ días",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Y guerra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨fue⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "⟨y⟩ entre"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovám"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨por⟩ todos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨los⟩ días"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboam",
@@ -20,56 +59,6 @@
       "hebrew": "ירבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62002,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62353
-  },
-  "translation": "Y guerra ⟨fue⟩ entre Rejavam ⟨y⟩ entre Yarovám ⟨por⟩ todos ⟨los⟩ días",
-  "tokens": [
-    {
-      "surface": "ומלחמה",
-      "english": "Y guerra"
-    },
-    {
-      "surface": "היתה",
-      "english": "⟨fue⟩"
-    },
-    {
-      "surface": "בין",
-      "english": "entre"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "ובין",
-      "english": "⟨y⟩ entre"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yarovám"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨por⟩ todos"
-    },
-    {
-      "surface": "הימים",
-      "english": "⟨los⟩ días"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:05:39.538683154Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

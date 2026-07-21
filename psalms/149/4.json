@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 149:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 149,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69905,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70266
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:57.646067281Z",
   "translation": "Porque YHWH ⟨se complace⟩ en su pueblo ⟨את⟩ ⟨los⟩ humildes adornará con salvación",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "רוצה",
-      "english": "⟨se complace⟩"
+      "gloss": "⟨se complace⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בעמו",
-      "english": "en su pueblo"
+      "gloss": "en su pueblo"
     },
     {
       "surface": "יפאר",
-      "english": "adornará"
+      "gloss": "adornará"
     },
     {
       "surface": "ענוים",
-      "english": "⟨los⟩ humildes"
+      "gloss": "⟨los⟩ humildes"
     },
     {
       "surface": "בישועה",
-      "english": "con salvación"
+      "gloss": "con salvación"
     }
-  ],
-  "timestamp": "2026-06-10T00:12:57.646067281Z",
-  "model": "glm-4.5"
+  ]
 }

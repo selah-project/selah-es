@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "numbers 9:4",
   "book": "numbers",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24928,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25190
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:45:58.619936816Z",
   "translation": "Y habló Moshé a ⟨los⟩ hijos de Yisrael ⟨para⟩ hacer ⟨el⟩ Pésaj",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Y habló"
+      "gloss": "Y habló"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "בני",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לעשת",
-      "english": "para hacer"
+      "gloss": "para hacer"
     },
     {
       "surface": "הפסח",
-      "english": "Pésaj"
+      "gloss": "Pésaj"
     }
-  ],
-  "timestamp": "2026-06-10T04:45:58.619936816Z",
-  "model": "glm-4.5"
+  ]
 }

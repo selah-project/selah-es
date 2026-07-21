@@ -1,71 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 22:8",
   "book": "genesis",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 609,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28636,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29245
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:19:18.048060963Z",
   "translation": "Y Avraham dijo: Elohim ⟨proverá⟩ para ⟨Él⟩ ⟨el⟩ cordero ⟨para⟩ ⟨el⟩ holocausto, hijo mío. Y fueron ⟨ellos⟩ ⟨los⟩ dos juntos.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y ... dijo",
+      "gloss": "Y ... dijo",
       "marks": "Avraham"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יראה",
-      "english": "⟨proverá⟩"
+      "gloss": "⟨proverá⟩"
     },
     {
       "surface": "לו",
-      "english": "para ⟨Él⟩",
+      "gloss": "para ⟨Él⟩",
       "marks": "Elohim"
     },
     {
       "surface": "השה",
-      "english": "⟨el⟩ cordero"
+      "gloss": "⟨el⟩ cordero"
     },
     {
       "surface": "לעלה",
-      "english": "⟨para⟩ ⟨el⟩ holocausto"
+      "gloss": "⟨para⟩ ⟨el⟩ holocausto"
     },
     {
       "surface": "בני",
-      "english": "hijo mío"
+      "gloss": "hijo mío"
     },
     {
       "surface": "וילכו",
-      "english": "Y fueron",
+      "gloss": "Y fueron",
       "marks": "ellos"
     },
     {
       "surface": "שניהם",
-      "english": "⟨los⟩ dos"
+      "gloss": "⟨los⟩ dos"
     },
     {
       "surface": "יחדו",
-      "english": "juntos"
+      "gloss": "juntos"
     }
-  ],
-  "timestamp": "2026-06-10T05:19:18.048060963Z",
-  "model": "glm-4.5"
+  ]
 }

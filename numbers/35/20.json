@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "numbers 35:20",
   "book": "numbers",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 470,
-    "prompt_tokens": 25180,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25650
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:15:00.231108317Z",
   "translation": "Y si por odio ⟨lo⟩ empuja, o ⟨le⟩ arroja ⟨algo⟩ por acechanza, y muere",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "Y si"
+      "gloss": "Y si"
     },
     {
       "surface": "בשנאה",
-      "english": "por odio"
+      "gloss": "por odio"
     },
     {
       "surface": "יהדפנו",
-      "english": "⟨lo⟩ empuja"
+      "gloss": "⟨lo⟩ empuja"
     },
     {
       "surface": "או",
-      "english": "o"
+      "gloss": "o"
     },
     {
       "surface": "השליך",
-      "english": "⟨le⟩ arroja"
+      "gloss": "⟨le⟩ arroja"
     },
     {
       "surface": "עליו",
-      "english": "⟨algo⟩ por acechanza"
+      "gloss": "⟨algo⟩ por acechanza"
     },
     {
       "surface": "בצדיה",
-      "english": "por acechanza"
+      "gloss": "por acechanza"
     },
     {
       "surface": "וימת",
-      "english": "y muere"
+      "gloss": "y muere"
     }
-  ],
-  "timestamp": "2026-07-16T23:15:00.231108317Z",
-  "model": "glm-4.5"
+  ]
 }

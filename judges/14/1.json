@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "judges 14:1",
   "book": "judges",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23204,
-    "prompt_tokens_details": {
-      "cached_tokens": 22160
-    },
-    "total_tokens": 23539
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:59:16.907144340Z",
   "translation": "Y Samson descendió a Timnah y vio ⟨a⟩ una mujer en Timnah ⟨de⟩ ⟨las⟩ hijas de ⟨los⟩ filisteos",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "Y descendió"
+      "gloss": "Y descendió"
     },
     {
       "surface": "שמשון",
-      "english": "Samson"
+      "gloss": "Samson"
     },
     {
       "surface": "תמנתה",
-      "english": "a Timnah"
+      "gloss": "a Timnah"
     },
     {
       "surface": "וירא",
-      "english": "y vio"
+      "gloss": "y vio"
     },
     {
       "surface": "אשה",
-      "english": "⟨a⟩ una mujer"
+      "gloss": "⟨a⟩ una mujer"
     },
     {
       "surface": "בתמנתה",
-      "english": "en Timnah"
+      "gloss": "en Timnah"
     },
     {
       "surface": "מבנות",
-      "english": "⟨de⟩ ⟨las⟩ hijas"
+      "gloss": "⟨de⟩ ⟨las⟩ hijas"
     },
     {
       "surface": "פלשתים",
-      "english": "⟨de los⟩ filisteos"
+      "gloss": "⟨de los⟩ filisteos"
     }
-  ],
-  "timestamp": "2026-06-10T00:59:16.907144340Z",
-  "model": "glm-4.5"
+  ]
 }

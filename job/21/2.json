@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 21:2",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 370,
-    "prompt_tokens": 27004,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27374
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:59:15.936044026Z",
   "translation": "Escuchad atentamente mi palabra, y ⟨esta⟩ ⟨sea⟩ vuestra consolación.",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "Escuchad"
+      "gloss": "Escuchad"
     },
     {
       "surface": "שמוע",
-      "english": "atentamente"
+      "gloss": "atentamente"
     },
     {
       "surface": "מלתי",
-      "english": "mi palabra"
+      "gloss": "mi palabra"
     },
     {
       "surface": "ותהי",
-      "english": "y ⟨sea⟩"
+      "gloss": "y ⟨sea⟩"
     },
     {
       "surface": "זאת",
-      "english": "⟨esta⟩"
+      "gloss": "⟨esta⟩"
     },
     {
       "surface": "תנחומתיכם",
-      "english": "vuestra consolación"
+      "gloss": "vuestra consolación"
     }
-  ],
-  "timestamp": "2026-07-16T21:59:15.936044026Z",
-  "model": "glm-4.5"
+  ]
 }

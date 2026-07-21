@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 7,
   "ref": "psalms 136:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 648,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69789,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70437
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:59:09.337037082Z",
   "translation": "Al ⟨que⟩ hizo las grandes lumbreras, porque para siempre ⟨es⟩ su Jésed.",
   "tokens": [
     {
       "surface": "לְ֭\/עֹשֵׂה",
-      "english": "Al ⟨que⟩ hizo"
+      "gloss": "Al ⟨que⟩ hizo"
     },
     {
       "surface": "אוֹרִ֣ים",
-      "english": "las lumbreras"
+      "gloss": "las lumbreras"
     },
     {
       "surface": "גְּדֹלִ֑ים",
-      "english": "grandes"
+      "gloss": "grandes"
     },
     {
       "surface": "כִּ֖י",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לְ\/עוֹלָ֣ם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חַסְדּֽ\/וֹ",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     }
-  ],
-  "timestamp": "2026-06-13T03:59:09.337037082Z",
-  "model": "glm-5.1"
+  ]
 }

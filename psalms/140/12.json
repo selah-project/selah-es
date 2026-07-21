@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 140:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70112,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70738
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:09:15.665596819Z",
   "translation": "⟨Un⟩ hombre ⟨de⟩ lengua ⟨no⟩ será establecido ⟨en⟩ la tierra; ⟨un⟩ hombre ⟨de⟩ violencia ⟨y⟩ mal ⟨cazará⟩ ⟨para⟩ ⟨su⟩ derrota.",
   "tokens": [
     {
       "surface": "איש",
-      "english": "⟨Un⟩ hombre"
+      "gloss": "⟨Un⟩ hombre"
     },
     {
       "surface": "לשון",
-      "english": "⟨de⟩ lengua"
+      "gloss": "⟨de⟩ lengua"
     },
     {
       "surface": "בל",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "יכון",
-      "english": "será establecido"
+      "gloss": "será establecido"
     },
     {
       "surface": "בארץ",
-      "english": "⟨en⟩ la tierra"
+      "gloss": "⟨en⟩ la tierra"
     },
     {
       "surface": "איש",
-      "english": "⟨un⟩ hombre"
+      "gloss": "⟨un⟩ hombre"
     },
     {
       "surface": "חמס",
-      "english": "⟨de⟩ violencia"
+      "gloss": "⟨de⟩ violencia"
     },
     {
       "surface": "רע",
-      "english": "⟨y⟩ mal"
+      "gloss": "⟨y⟩ mal"
     },
     {
       "surface": "יצודנו",
-      "english": "cazará"
+      "gloss": "cazará"
     },
     {
       "surface": "למדחפת",
-      "english": "⟨para⟩ ⟨su⟩ derrota"
+      "gloss": "⟨para⟩ ⟨su⟩ derrota"
     }
-  ],
-  "timestamp": "2026-06-10T00:09:15.665596819Z",
-  "model": "glm-4.5"
+  ]
 }

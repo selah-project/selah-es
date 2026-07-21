@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 20:4",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27140,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27648
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:03.997290064Z",
   "translation": "¿⟨has⟩ conocido esto desde ⟨el⟩ principio, desde ⟨el⟩ día que ⟨fue⟩ puesto ⟨el⟩ hombre ⟨sobre⟩ ⟨la⟩ tierra?",
   "tokens": [
     {
       "surface": "הזאת",
-      "english": "Esto"
+      "gloss": "Esto"
     },
     {
       "surface": "ידעת",
-      "english": "¿⟨has⟩ conocido"
+      "gloss": "¿⟨has⟩ conocido"
     },
     {
       "surface": "מני",
-      "english": "desde ⟨el⟩ principio"
+      "gloss": "desde ⟨el⟩ principio"
     },
     {
       "surface": "עד",
-      "english": "desde"
+      "gloss": "desde"
     },
     {
       "surface": "מני",
-      "english": "⟨el⟩ día"
+      "gloss": "⟨el⟩ día"
     },
     {
       "surface": "שים",
-      "english": "que ⟨fue⟩ puesto"
+      "gloss": "que ⟨fue⟩ puesto"
     },
     {
       "surface": "אדם",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:03.997290064Z",
-  "model": "glm-4.5"
+  ]
 }

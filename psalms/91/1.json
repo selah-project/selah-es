@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 91:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69810,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70381
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:45:14.291662229Z",
   "translation": "El que ⟨se sienta⟩ en el lugar secreto ⟨del⟩ Elyón, ⟨en⟩ ⟨la⟩ sombra ⟨del⟩ Shaddai ⟨se〉 alojará",
   "tokens": [
     {
       "surface": "ישב",
-      "english": "Se sienta"
+      "gloss": "Se sienta"
     },
     {
       "surface": "בסתר",
-      "english": "en el lugar secreto"
+      "gloss": "en el lugar secreto"
     },
     {
       "surface": "עליון",
-      "english": "Elyón"
+      "gloss": "Elyón"
     },
     {
       "surface": "בצל",
-      "english": "en la sombra"
+      "gloss": "en la sombra"
     },
     {
       "surface": "שדי",
-      "english": "Shaddai"
+      "gloss": "Shaddai"
     },
     {
       "surface": "יתלונן",
-      "english": "se alojará"
+      "gloss": "se alojará"
     }
-  ],
-  "timestamp": "2026-06-09T23:45:14.291662229Z",
-  "model": "glm-4.5"
+  ]
 }

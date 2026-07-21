@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-kings 18:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 18,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:10:48.699880249Z",
+  "translation": "Y ⟨el⟩ Eliyahu fue ⟨para⟩ mostrarse ⟨a⟩ Ajáv; ⟨y⟩ ⟨el⟩ hambre ⟨era⟩ fuerte en Samaría",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Y"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "⟨el⟩ Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "fue ⟨para⟩ mostrarse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajáv"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "⟨y⟩ ⟨el⟩ hambre"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "⟨era⟩ fuerte"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "en Samaría"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Elías",
@@ -20,56 +59,6 @@
       "hebrew": "אחאב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62007,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62443
-  },
-  "translation": "Y ⟨el⟩ Eliyahu fue ⟨para⟩ mostrarse ⟨a⟩ Ajáv; ⟨y⟩ ⟨el⟩ hambre ⟨era⟩ fuerte en Samaría",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "Y"
-    },
-    {
-      "surface": "אליהו",
-      "english": "⟨el⟩ Eliyahu"
-    },
-    {
-      "surface": "להראות",
-      "english": "fue ⟨para⟩ mostrarse"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "אחאב",
-      "english": "Ajáv"
-    },
-    {
-      "surface": "והרעב",
-      "english": "⟨y⟩ ⟨el⟩ hambre"
-    },
-    {
-      "surface": "חזק",
-      "english": "⟨era⟩ fuerte"
-    },
-    {
-      "surface": "בשמרון",
-      "english": "en Samaría"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:10:48.699880249Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

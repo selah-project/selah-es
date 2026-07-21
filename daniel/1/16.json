@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "daniel 1:16",
   "book": "daniel",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 546,
-    "prompt_tokens": 24582,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25128
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:34:16.135558017Z",
   "translation": "Y el mayordomo retiró ⟨את⟩ la comida delicada de ellos y el vino de su bebida, y les dio legumbres.",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y"
+      "gloss": "Y"
     },
     {
       "surface": "המלצר",
-      "english": "el mayordomo"
+      "gloss": "el mayordomo"
     },
     {
       "surface": "נשא",
-      "english": "retiró"
+      "gloss": "retiró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la comida delicada de ellos"
     },
     {
       "surface": "פתבגם",
-      "english": "la comida delicada de ellos"
+      "gloss": "la comida delicada de ellos"
     },
     {
       "surface": "ויין",
-      "english": "y el vino"
+      "gloss": "y el vino"
     },
     {
       "surface": "משתיהם",
-      "english": "de su bebida"
+      "gloss": "de su bebida"
     },
     {
       "surface": "ונתן",
-      "english": "y les dio"
+      "gloss": "y les dio"
     },
     {
       "surface": "להם",
-      "english": "les"
+      "gloss": "les"
     },
     {
       "surface": "זרענים",
-      "english": "legumbres"
+      "gloss": "legumbres"
     }
-  ],
-  "timestamp": "2026-07-16T19:34:16.135558017Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "ecclesiastes 12:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 12,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:47:08.506823532Z",
+  "translation": "Qohelet buscó encontrar palabras agradables y ⟨que⟩ ⟨fue⟩ escrito ⟨con⟩ rectitud, palabras de Emet.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "Qohelet buscó"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "encontrar"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "palabras"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "agradables"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "y ⟨que⟩ ⟨fue⟩ escrito"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨con⟩ rectitud"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "palabras"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "de Emet"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdad",
@@ -13,60 +56,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17206,
-    "prompt_tokens_details": {
-      "cached_tokens": 16042
-    },
-    "total_tokens": 17604
-  },
-  "translation": "Qohelet buscó encontrar palabras agradables y ⟨que⟩ ⟨fue⟩ escrito ⟨con⟩ rectitud, palabras de Emet.",
-  "tokens": [
-    {
-      "surface": "בקש",
-      "english": "Qohelet buscó"
-    },
-    {
-      "surface": "קהלת",
-      "english": "Qohelet"
-    },
-    {
-      "surface": "למצא",
-      "english": "encontrar"
-    },
-    {
-      "surface": "דברי",
-      "english": "palabras"
-    },
-    {
-      "surface": "חפץ",
-      "english": "agradables"
-    },
-    {
-      "surface": "וכתוב",
-      "english": "y ⟨que⟩ ⟨fue⟩ escrito"
-    },
-    {
-      "surface": "ישר",
-      "english": "⟨con⟩ rectitud"
-    },
-    {
-      "surface": "דברי",
-      "english": "palabras"
-    },
-    {
-      "surface": "אמת",
-      "english": "de Emet"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:47:08.506823532Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 176,
   "ref": "psalms 119:176",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70021,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70415
-  },
+  "verse": 176,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:03:25.990146823Z",
   "translation": "Me he descarriado como ⟨una⟩ oveja perdida: busca a tu siervo, pues ⟨los⟩ mandamientos de Elohim no ⟨he⟩ olvidado.",
   "tokens": [
     {
       "surface": "תעיתי",
-      "english": "Me he descarriado"
+      "gloss": "Me he descarriado"
     },
     {
       "surface": "כשה",
-      "english": "como ⟨una⟩"
+      "gloss": "como ⟨una⟩"
     },
     {
       "surface": "אבד",
-      "english": "oveja perdida"
+      "gloss": "oveja perdida"
     },
     {
       "surface": "בקש",
-      "english": "busca"
+      "gloss": "busca"
     },
     {
       "surface": "עבדך",
-      "english": "a tu siervo"
+      "gloss": "a tu siervo"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "מצותיך",
-      "english": "⟨los⟩ mandamientos de Elohim"
+      "gloss": "⟨los⟩ mandamientos de Elohim"
     },
     {
       "surface": "לא",
-      "english": "no ⟨he⟩"
+      "gloss": "no ⟨he⟩"
     },
     {
       "surface": "שכחתי",
-      "english": "olvidado"
+      "gloss": "olvidado"
     }
-  ],
-  "timestamp": "2026-06-10T00:03:25.990146823Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "genesis 36:32",
   "book": "genesis",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28371,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28789
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:33:45.649727475Z",
   "translation": "y reino ⟨en⟩ Edom Bela ⟨el⟩ hijo ⟨de⟩ Beor y ⟨el⟩ nombre ⟨de⟩ su ciudad ⟨era⟩ Dinhabah",
   "tokens": [
     {
       "surface": "וימלך",
-      "english": "Y reino"
+      "gloss": "Y reino"
     },
     {
       "surface": "באדום",
-      "english": "en Edom",
+      "gloss": "en Edom",
       "marks": "Edom"
     },
     {
       "surface": "בלע",
-      "english": "Bela"
+      "gloss": "Bela"
     },
     {
       "surface": "בן",
-      "english": "el hijo",
+      "gloss": "el hijo",
       "marks": "Bela"
     },
     {
       "surface": "בעור",
-      "english": "de Beor",
+      "gloss": "de Beor",
       "marks": "Bela hijo de Beor"
     },
     {
       "surface": "ושם",
-      "english": "y el nombre",
+      "gloss": "y el nombre",
       "marks": "nombre de la ciudad"
     },
     {
       "surface": "עירו",
-      "english": "de su ciudad",
+      "gloss": "de su ciudad",
       "marks": "ciudad"
     },
     {
       "surface": "דנהבה",
-      "english": "Dinhabah"
+      "gloss": "Dinhabah"
     }
-  ],
-  "timestamp": "2026-06-10T05:33:45.649727475Z",
-  "model": "glm-4.5"
+  ]
 }

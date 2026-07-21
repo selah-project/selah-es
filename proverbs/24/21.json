@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "proverbs 24:21",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 460,
-    "prompt_tokens": 60216,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60676
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:22:14.249918399Z",
   "translation": "Hijo mío, teme a YHWH ⟨את⟩ y al rey; con los ⟨que están dados al cambio⟩ no te entrometas.",
   "tokens": [
     {
       "surface": "ירא",
-      "english": "teme"
+      "gloss": "teme"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בני",
-      "english": "Hijo mío"
+      "gloss": "Hijo mío"
     },
     {
       "surface": "ומלך",
-      "english": "y al rey"
+      "gloss": "y al rey"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "שונים",
-      "english": "los ⟨que están dados al cambio⟩"
+      "gloss": "los ⟨que están dados al cambio⟩"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תתערב",
-      "english": "te entrometas"
+      "gloss": "te entrometas"
     }
-  ],
-  "timestamp": "2026-07-16T23:22:14.249918399Z",
-  "model": "glm-4.5"
+  ]
 }

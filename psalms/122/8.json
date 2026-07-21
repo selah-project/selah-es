@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 122:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 441,
-    "prompt_tokens": 69914,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70355
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:52.471455387Z",
   "translation": "Por causa de mis hermanos y de mis amigos, hablaré ahora: Shalom ⟨sea⟩ en ti.",
   "tokens": [
     {
       "surface": "למען",
-      "english": "Por causa de"
+      "gloss": "Por causa de"
     },
     {
       "surface": "אחי",
-      "english": "mis hermanos"
+      "gloss": "mis hermanos"
     },
     {
       "surface": "ורעי",
-      "english": "y de mis amigos"
+      "gloss": "y de mis amigos"
     },
     {
       "surface": "אדברה",
-      "english": "hablaré ahora"
+      "gloss": "hablaré ahora"
     },
     {
       "surface": "נא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שלום",
-      "english": "Shalom"
+      "gloss": "Shalom"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:52.471455387Z",
-  "model": "glm-4.5"
+  ]
 }

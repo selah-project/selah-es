@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 110:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69995,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70395
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:30.266547017Z",
   "translation": "⟨El⟩ cetro de tu fuerza enviará YHWH desde Sion: ⟨que⟩ gobiernes ⟨en⟩ medio de tus enemigos",
   "tokens": [
     {
       "surface": "מטה",
-      "english": "⟨El⟩ cetro"
+      "gloss": "⟨El⟩ cetro"
     },
     {
       "surface": "עזך",
-      "english": "de tu fuerza"
+      "gloss": "de tu fuerza"
     },
     {
       "surface": "ישלח",
-      "english": "enviará"
+      "gloss": "enviará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מציון",
-      "english": "desde Sion"
+      "gloss": "desde Sion"
     },
     {
       "surface": "רדה",
-      "english": "⟨que⟩ gobiernes"
+      "gloss": "⟨que⟩ gobiernes"
     },
     {
       "surface": "בקרב",
-      "english": "⟨en⟩ medio de"
+      "gloss": "⟨en⟩ medio de"
     },
     {
       "surface": "איביך",
-      "english": "tus enemigos"
+      "gloss": "tus enemigos"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:30.266547017Z",
-  "model": "glm-4.5"
+  ]
 }

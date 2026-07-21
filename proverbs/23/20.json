@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 23:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59803,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60227
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:46:03.489191389Z",
   "translation": "No ⟨estés⟩ entre ⟨los⟩ bebedores de vino, ni entre ⟨los⟩ glotones de carne ⟨para sí⟩",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תהי",
-      "english": "⟨estés⟩"
+      "gloss": "⟨estés⟩"
     },
     {
       "surface": "בסבאי",
-      "english": "entre ⟨los⟩ bebedores"
+      "gloss": "entre ⟨los⟩ bebedores"
     },
     {
       "surface": "יין",
-      "english": "de vino"
+      "gloss": "de vino"
     },
     {
       "surface": "בזללי",
-      "english": "ni entre ⟨los⟩ glotones"
+      "gloss": "ni entre ⟨los⟩ glotones"
     },
     {
       "surface": "בשר",
-      "english": "de carne"
+      "gloss": "de carne"
     },
     {
       "surface": "למו",
-      "english": "⟨para sí⟩"
+      "gloss": "⟨para sí⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:46:03.489191389Z",
-  "model": "glm-4.5"
+  ]
 }

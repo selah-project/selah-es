@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-kings 9:17",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 69523,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 69934
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:20:33.610738895Z",
   "translation": "Y Shlomó construyó ⟨את⟩ Guézer y ⟨את⟩ Bet-Jorón Tajtón",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "Y construyó"
+      "gloss": "Y construyó"
     },
     {
       "surface": "שלמה",
-      "english": "Shlomó"
+      "gloss": "Shlomó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Guézer"
     },
     {
       "surface": "גזר",
-      "english": "Guézer"
+      "gloss": "Guézer"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Bet-Jorón"
     },
     {
       "surface": "בית",
-      "english": "Bet-Jorón"
+      "gloss": "Bet-Jorón"
     },
     {
       "surface": "חרן",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "תחתון",
-      "english": "Tajtón"
+      "gloss": "Tajtón"
     }
-  ],
-  "timestamp": "2026-07-16T18:20:33.610738895Z",
-  "model": "glm-4.5"
+  ]
 }

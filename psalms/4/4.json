@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 4:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 677,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70142,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70819
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:58:58.633064117Z",
   "translation": "Y sabed ⟨que⟩ ⟨el⟩ que es piadoso, YHWH ⟨lo⟩ ⟨ha⟩ distinguido para ⟨sí⟩, YHWH ⟨lo⟩ oirá ⟨cuando⟩ yo clamo a ⟨Él⟩.",
   "tokens": [
     {
       "surface": "ודעו",
-      "english": "Y sabed"
+      "gloss": "Y sabed"
     },
     {
       "surface": "כי",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "הפלה",
-      "english": "⟨el⟩ que es piadoso"
+      "gloss": "⟨el⟩ que es piadoso"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חסיד",
-      "english": "⟨lo⟩"
+      "gloss": "⟨lo⟩"
     },
     {
       "surface": "לו",
-      "english": "⟨ha⟩ distinguido"
+      "gloss": "⟨ha⟩ distinguido"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ישמע",
-      "english": "⟨lo⟩ oirá"
+      "gloss": "⟨lo⟩ oirá"
     },
     {
       "surface": "בקראי",
-      "english": "⟨cuando⟩ yo clamo"
+      "gloss": "⟨cuando⟩ yo clamo"
     },
     {
       "surface": "אליו",
-      "english": "a ⟨Él⟩"
+      "gloss": "a ⟨Él⟩"
     }
-  ],
-  "timestamp": "2026-06-09T22:58:58.633064117Z",
-  "model": "glm-4.5"
+  ]
 }

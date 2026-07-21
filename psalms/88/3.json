@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 88:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 603,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69829,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70432
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:24.887180157Z",
   "translation": "Venga ⟨el⟩ mi ruego ⟨a⟩ tu presencia; inclina ⟨tus⟩ oídos ⟨a⟩ mi grito ⟨por⟩ tu misericordia",
   "tokens": [
     {
       "surface": "תבוא",
-      "english": "Venga"
+      "gloss": "Venga"
     },
     {
       "surface": "לפניך",
-      "english": "⟨a⟩ tu presencia",
+      "gloss": "⟨a⟩ tu presencia",
       "marks": "tu presencia"
     },
     {
       "surface": "תפלתי",
-      "english": "⟨el⟩ mi ruego",
+      "gloss": "⟨el⟩ mi ruego",
       "marks": "mi ruego"
     },
     {
       "surface": "הטה",
-      "english": "inclina"
+      "gloss": "inclina"
     },
     {
       "surface": "אזנך",
-      "english": "⟨tus⟩ oídos",
+      "gloss": "⟨tus⟩ oídos",
       "marks": "tus oídos"
     },
     {
       "surface": "לרנתי",
-      "english": "⟨a⟩ mi grito ⟨por⟩ tu misericordia",
+      "gloss": "⟨a⟩ mi grito ⟨por⟩ tu misericordia",
       "marks": "mi grito ⟨por⟩ tu misericordia"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:24.887180157Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "esther 3:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 3,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:50:14.855423777Z",
+  "translation": "Y sucedió ⟨al⟩ hablarle día tras día y él no ⟨se⟩ escuchó ⟨a⟩ ellos, y ⟨lo⟩ relataron a Hamán para ver si ⟨se⟩ sostendrían las palabras de Mordejai, porque ⟨él⟩ les ⟨había⟩ dicho que él ⟨era⟩ judío.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "⟨al⟩ hablarle"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "día tras día"
+    },
+    {
+      "surface": "יום",
+      "gloss": "y"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "él"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨se⟩ escuchó"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "⟨a⟩ ellos"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "y ⟨lo⟩ relataron"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "a Hamán"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "para ver"
+    },
+    {
+      "surface": "היעמדו",
+      "gloss": "si ⟨se⟩ sostendrían"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "las palabras"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "de Mordejai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "⟨él⟩ les ⟨había⟩ dicho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "él"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "judío"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mardoqueo",
@@ -13,104 +100,6 @@
       "hebrew": "מרדכי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 728,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18463,
-    "prompt_tokens_details": {
-      "cached_tokens": 16282
-    },
-    "total_tokens": 19191
-  },
-  "translation": "Y sucedió ⟨al⟩ hablarle día tras día y él no ⟨se⟩ escuchó ⟨a⟩ ellos, y ⟨lo⟩ relataron a Hamán para ver si ⟨se⟩ sostendrían las palabras de Mordejai, porque ⟨él⟩ les ⟨había⟩ dicho que él ⟨era⟩ judío.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "באמרם",
-      "english": "⟨al⟩ hablarle"
-    },
-    {
-      "surface": "אליו",
-      "english": "día tras día"
-    },
-    {
-      "surface": "יום",
-      "english": "y"
-    },
-    {
-      "surface": "ויום",
-      "english": "él"
-    },
-    {
-      "surface": "ולא",
-      "english": "no"
-    },
-    {
-      "surface": "שמע",
-      "english": "⟨se⟩ escuchó"
-    },
-    {
-      "surface": "אליהם",
-      "english": "⟨a⟩ ellos"
-    },
-    {
-      "surface": "ויגידו",
-      "english": "y ⟨lo⟩ relataron"
-    },
-    {
-      "surface": "להמן",
-      "english": "a Hamán"
-    },
-    {
-      "surface": "לראות",
-      "english": "para ver"
-    },
-    {
-      "surface": "היעמדו",
-      "english": "si ⟨se⟩ sostendrían"
-    },
-    {
-      "surface": "דברי",
-      "english": "las palabras"
-    },
-    {
-      "surface": "מרדכי",
-      "english": "de Mordejai"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "הגיד",
-      "english": "⟨él⟩ les ⟨había⟩ dicho"
-    },
-    {
-      "surface": "להם",
-      "english": "que"
-    },
-    {
-      "surface": "אשר",
-      "english": "él"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨era⟩"
-    },
-    {
-      "surface": "יהודי",
-      "english": "judío"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:50:14.855423777Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

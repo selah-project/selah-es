@@ -1,51 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "isaiah 24:17",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25964,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26294
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:34:44.717657748Z",
   "translation": "Pavor, y ⟨el⟩ hoyo, y ⟨el⟩ lazo ⟨están⟩ sobre ti, habitante de ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "פחד",
-      "english": "Pavor"
+      "gloss": "Pavor"
     },
     {
       "surface": "ופחת",
-      "english": "y ⟨el⟩ hoyo",
+      "gloss": "y ⟨el⟩ hoyo",
       "marks": "hoyo"
     },
     {
       "surface": "ופח",
-      "english": "y ⟨el⟩ lazo",
+      "gloss": "y ⟨el⟩ lazo",
       "marks": "lazo"
     },
     {
       "surface": "עליך",
-      "english": "sobre ti"
+      "gloss": "sobre ti"
     },
     {
       "surface": "יושב",
-      "english": "habitante"
+      "gloss": "habitante"
     },
     {
       "surface": "הארץ",
-      "english": "de ⟨la⟩ tierra",
+      "gloss": "de ⟨la⟩ tierra",
       "marks": "tierra"
     }
-  ],
-  "timestamp": "2026-06-10T02:34:44.717657748Z",
-  "model": "glm-4.5"
+  ]
 }

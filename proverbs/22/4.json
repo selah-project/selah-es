@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 22:4",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59849,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60227
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:53.205805163Z",
   "translation": "La recompensa ⟨de⟩ humildad ⟨y el⟩ temor ⟨de⟩ YHWH ⟨es⟩ riqueza, ⟨y⟩ honra, ⟨y⟩ vida",
   "tokens": [
     {
       "surface": "עקב",
-      "english": "La recompensa"
+      "gloss": "La recompensa"
     },
     {
       "surface": "ענוה",
-      "english": "humildad"
+      "gloss": "humildad"
     },
     {
       "surface": "יראת",
-      "english": "temor"
+      "gloss": "temor"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עשר",
-      "english": "riqueza"
+      "gloss": "riqueza"
     },
     {
       "surface": "וכבוד",
-      "english": "honra"
+      "gloss": "honra"
     },
     {
       "surface": "וחיים",
-      "english": "vida"
+      "gloss": "vida"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:53.205805163Z",
-  "model": "glm-4.5"
+  ]
 }

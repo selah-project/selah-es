@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 21:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 526,
-    "prompt_tokens": 70023,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70549
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:51.389865261Z",
   "translation": "Porque tú los harás ⟨volver⟩ ⟨la⟩ espalda, tú ⟨estarás⟩ preparado ⟨con⟩ tus cuerdas ⟨sobre⟩ ⟨las⟩ caras de ellos.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "תשיתמו",
-      "english": "tú los harás ⟨volver⟩ ⟨la⟩ espalda"
+      "gloss": "tú los harás ⟨volver⟩ ⟨la⟩ espalda"
     },
     {
       "surface": "שכם",
-      "english": "espalda"
+      "gloss": "espalda"
     },
     {
       "surface": "במיתריך",
-      "english": "⟨con⟩ tus cuerdas"
+      "gloss": "⟨con⟩ tus cuerdas"
     },
     {
       "surface": "תכונן",
-      "english": "⟨estarás⟩ preparado"
+      "gloss": "⟨estarás⟩ preparado"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "פניהם",
-      "english": "⟨las⟩ caras de ellos"
+      "gloss": "⟨las⟩ caras de ellos"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:51.389865261Z",
-  "model": "glm-4.5"
+  ]
 }

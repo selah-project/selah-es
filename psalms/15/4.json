@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 15:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 543,
-    "prompt_tokens": 70547,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71090
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:46.481653206Z",
   "translation": "despreciado en sus ojos ⟨es⟩ el rechazado, pero a ⟨los que⟩ temen a YHWH honra; ha jurado ⟨para⟩ hacer daño y no cambia",
   "tokens": [
     {
       "surface": "נבזה",
-      "english": "despreciado"
+      "gloss": "despreciado"
     },
     {
       "surface": "בעיניו",
-      "english": "en sus ojos"
+      "gloss": "en sus ojos"
     },
     {
       "surface": "נמאס",
-      "english": "el rechazado"
+      "gloss": "el rechazado"
     },
     {
       "surface": "ואת",
-      "english": "pero a",
+      "gloss": "pero a",
       "marks": "los que temen a YHWH"
     },
     {
       "surface": "יראי",
-      "english": "los que temen"
+      "gloss": "los que temen"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יכבד",
-      "english": "honra"
+      "gloss": "honra"
     },
     {
       "surface": "נשבע",
-      "english": "ha jurado"
+      "gloss": "ha jurado"
     },
     {
       "surface": "להרע",
-      "english": "para hacer daño"
+      "gloss": "para hacer daño"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "ימר",
-      "english": "cambia"
+      "gloss": "cambia"
     }
-  ],
-  "timestamp": "2026-07-16T23:25:46.481653206Z",
-  "model": "glm-4.5"
+  ]
 }

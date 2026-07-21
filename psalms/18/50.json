@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "psalms 18:50",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69910,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70396
-  },
+  "verse": 50,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:25.375599045Z",
   "translation": "Por ⟨esto⟩ te ⟨daré⟩ gracias, ⟨oh⟩ YHWH, entre ⟨los⟩ pueblos ⟨את⟩, y a tu nombre cantaré ⟨una⟩ alabanza.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Por ⟨esto⟩"
+      "gloss": "Por ⟨esto⟩"
     },
     {
       "surface": "כן",
-      "english": "te ⟨daré⟩ gracias"
+      "gloss": "te ⟨daré⟩ gracias"
     },
     {
       "surface": "אודך",
-      "english": "⟨oh⟩ YHWH"
+      "gloss": "⟨oh⟩ YHWH"
     },
     {
       "surface": "בגוים",
-      "english": "entre ⟨los⟩ pueblos"
+      "gloss": "entre ⟨los⟩ pueblos"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ולשמך",
-      "english": "a tu nombre"
+      "gloss": "a tu nombre"
     },
     {
       "surface": "אזמרה",
-      "english": "cantaré ⟨una⟩ alabanza"
+      "gloss": "cantaré ⟨una⟩ alabanza"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:25.375599045Z",
-  "model": "glm-4.5"
+  ]
 }

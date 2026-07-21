@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 17:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59941,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60352
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:40:54.981509372Z",
   "translation": "¿Por qué ⟨hay⟩ precio en ⟨la⟩ mano de ⟨un⟩ necio para comprar sabiduría, cuando ⟨un⟩ corazón ⟨es⟩ algo que ⟨no tiene⟩?",
   "tokens": [
     {
       "surface": "למה",
-      "english": "¿Por qué"
+      "gloss": "¿Por qué"
     },
     {
       "surface": "זה",
-      "english": "⟨hay⟩"
+      "gloss": "⟨hay⟩"
     },
     {
       "surface": "מחיר",
-      "english": "precio"
+      "gloss": "precio"
     },
     {
       "surface": "ביד",
-      "english": "en ⟨la⟩ mano"
+      "gloss": "en ⟨la⟩ mano"
     },
     {
       "surface": "כסיל",
-      "english": "de ⟨un⟩ necio"
+      "gloss": "de ⟨un⟩ necio"
     },
     {
       "surface": "לקנות",
-      "english": "para comprar"
+      "gloss": "para comprar"
     },
     {
       "surface": "חכמה",
-      "english": "sabiduría"
+      "gloss": "sabiduría"
     },
     {
       "surface": "ולב",
-      "english": "y ⟨un⟩ corazón"
+      "gloss": "y ⟨un⟩ corazón"
     },
     {
       "surface": "אין",
-      "english": "⟨es⟩ algo que ⟨no tiene⟩"
+      "gloss": "⟨es⟩ algo que ⟨no tiene⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:40:54.981509372Z",
-  "model": "glm-4.5"
+  ]
 }

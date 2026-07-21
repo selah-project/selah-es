@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "deuteronomy 20:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 20,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:32:21.344594563Z",
+  "translation": "Y dirá ⟨a⟩ ellos: 'Escucha, Yisrael: ⟨vosotros⟩ estáis ⟨acercándoos⟩ hoy ⟨a⟩ la batalla contra ⟨vuestros⟩ enemigos; ⟨que⟩ ⟨no⟩ ⟨se⟩ ⟨afloje⟩ ⟨vuestro⟩ corazón, ⟨no⟩ ⟨temáis⟩, ⟨y⟩ ⟨no⟩ ⟨os⟩ ⟨apresuréis⟩, ⟨y⟩ ⟨no⟩ ⟨os⟩ ⟨aterroricéis⟩ ⟨por⟩ ⟨su⟩ ⟨presencia⟩.'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Y dirá"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨a⟩ ellos"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Escucha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨vosotros⟩"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "⟨acercándoos⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨a⟩ la batalla"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "⟨vuestros⟩ enemigos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨que⟩ ⟨no⟩"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "⟨se⟩ ⟨afloje⟩"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "⟨vuestro⟩ corazón"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "⟨temáis⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨y⟩ ⟨no⟩"
+    },
+    {
+      "surface": "תחפזו",
+      "gloss": "⟨os⟩ ⟨apresuréis⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨y⟩ ⟨no⟩"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "⟨os⟩ ⟨aterroricéis⟩"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "⟨por⟩ ⟨su⟩ ⟨presencia⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,104 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 1147,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18410,
-    "prompt_tokens_details": {
-      "cached_tokens": 16230
-    },
-    "total_tokens": 19557
-  },
-  "translation": "Y dirá ⟨a⟩ ellos: 'Escucha, Yisrael: ⟨vosotros⟩ estáis ⟨acercándoos⟩ hoy ⟨a⟩ la batalla contra ⟨vuestros⟩ enemigos; ⟨que⟩ ⟨no⟩ ⟨se⟩ ⟨afloje⟩ ⟨vuestro⟩ corazón, ⟨no⟩ ⟨temáis⟩, ⟨y⟩ ⟨no⟩ ⟨os⟩ ⟨apresuréis⟩, ⟨y⟩ ⟨no⟩ ⟨os⟩ ⟨aterroricéis⟩ ⟨por⟩ ⟨su⟩ ⟨presencia⟩.'",
-  "tokens": [
-    {
-      "surface": "ואמר",
-      "english": "Y dirá"
-    },
-    {
-      "surface": "אלהם",
-      "english": "⟨a⟩ ellos"
-    },
-    {
-      "surface": "שמע",
-      "english": "Escucha"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אתם",
-      "english": "⟨vosotros⟩"
-    },
-    {
-      "surface": "קרבים",
-      "english": "⟨acercándoos⟩"
-    },
-    {
-      "surface": "היום",
-      "english": "hoy"
-    },
-    {
-      "surface": "למלחמה",
-      "english": "⟨a⟩ la batalla"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "איביכם",
-      "english": "⟨vuestros⟩ enemigos"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨que⟩ ⟨no⟩"
-    },
-    {
-      "surface": "ירך",
-      "english": "⟨se⟩ ⟨afloje⟩"
-    },
-    {
-      "surface": "לבבכם",
-      "english": "⟨vuestro⟩ corazón"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "תיראו",
-      "english": "⟨temáis⟩"
-    },
-    {
-      "surface": "ואל",
-      "english": "⟨y⟩ ⟨no⟩"
-    },
-    {
-      "surface": "תחפזו",
-      "english": "⟨os⟩ ⟨apresuréis⟩"
-    },
-    {
-      "surface": "ואל",
-      "english": "⟨y⟩ ⟨no⟩"
-    },
-    {
-      "surface": "תערצו",
-      "english": "⟨os⟩ ⟨aterroricéis⟩"
-    },
-    {
-      "surface": "מפניהם",
-      "english": "⟨por⟩ ⟨su⟩ ⟨presencia⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:32:21.344594563Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 28:16",
   "book": "exodus",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 418,
-    "prompt_tokens": 23960,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24378
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:21:03.321666967Z",
   "translation": "Cuadrado ⟨será⟩ ⟨את⟩ doblado: un palmo ⟨es⟩ su longitud, y un palmo su anchura.",
   "tokens": [
     {
       "surface": "רבוע",
-      "english": "cuadrado"
+      "gloss": "cuadrado"
     },
     {
       "surface": "יהיה",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "כפול",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "doblado"
     },
     {
       "surface": "זרת",
-      "english": "un palmo"
+      "gloss": "un palmo"
     },
     {
       "surface": "ארכו",
-      "english": "⟨es⟩ su longitud"
+      "gloss": "⟨es⟩ su longitud"
     },
     {
       "surface": "וזרת",
-      "english": "y un palmo"
+      "gloss": "y un palmo"
     },
     {
       "surface": "רחבו",
-      "english": "su anchura"
+      "gloss": "su anchura"
     }
-  ],
-  "timestamp": "2026-07-16T20:21:03.321666967Z",
-  "model": "glm-4.5"
+  ]
 }

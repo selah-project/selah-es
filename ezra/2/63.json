@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 63,
   "ref": "ezra 2:63",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 2,
+  "verse": 63,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:12:32.541570609Z",
+  "translation": "Y el Tirshata les dijo que no comerían de lo más sagrado ⟨de las⟩ cosas santas hasta que se levantara un Kohen con Urim y Tumim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "el Tirshata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "les"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "comerían"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "de lo más sagrado"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "⟨de las⟩ cosas santas",
+      "marks": "cosas santas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta que"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "se levantara"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "un Kohen"
+    },
+    {
+      "surface": "לאורים",
+      "gloss": "con Urim"
+    },
+    {
+      "surface": "ולתמים",
+      "gloss": "y Tumim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,77 +73,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45052,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 45615
-  },
-  "translation": "Y el Tirshata les dijo que no comerían de lo más sagrado ⟨de las⟩ cosas santas hasta que se levantara un Kohen con Urim y Tumim.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y"
-    },
-    {
-      "surface": "התרשתא",
-      "english": "el Tirshata"
-    },
-    {
-      "surface": "להם",
-      "english": "les"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "יאכלו",
-      "english": "comerían"
-    },
-    {
-      "surface": "מקדש",
-      "english": "de lo más sagrado"
-    },
-    {
-      "surface": "הקדשים",
-      "english": "⟨de las⟩ cosas santas",
-      "marks": "cosas santas"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta que"
-    },
-    {
-      "surface": "עמד",
-      "english": "se levantara"
-    },
-    {
-      "surface": "כהן",
-      "english": "un Kohen"
-    },
-    {
-      "surface": "לאורים",
-      "english": "con Urim"
-    },
-    {
-      "surface": "ולתמים",
-      "english": "y Tumim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:12:32.541570609Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

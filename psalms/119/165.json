@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 165,
   "ref": "psalms 119:165",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 420,
-    "prompt_tokens": 69902,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70322
-  },
+  "verse": 165,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:33.025566768Z",
   "translation": "Gran paz tienen ⟨los⟩ que aman tu Torá, y no hay para ellos ⟨de⟩ tropiezo.",
   "tokens": [
     {
       "surface": "שלום",
-      "english": "paz"
+      "gloss": "paz"
     },
     {
       "surface": "רב",
-      "english": "Gran"
+      "gloss": "Gran"
     },
     {
       "surface": "לאהבי",
-      "english": "⟨los⟩ que aman"
+      "gloss": "⟨los⟩ que aman"
     },
     {
       "surface": "תורתך",
-      "english": "tu Torá"
+      "gloss": "tu Torá"
     },
     {
       "surface": "ואין",
-      "english": "y no hay"
+      "gloss": "y no hay"
     },
     {
       "surface": "למו",
-      "english": "para ellos"
+      "gloss": "para ellos"
     },
     {
       "surface": "מכשול",
-      "english": "⟨de⟩ tropiezo"
+      "gloss": "⟨de⟩ tropiezo"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:33.025566768Z",
-  "model": "glm-4.5"
+  ]
 }

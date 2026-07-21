@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "exodus 18:27",
   "book": "exodus",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 321,
-    "prompt_tokens": 23985,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24306
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:16:58.466630709Z",
   "translation": "Y Moshé envió a ⟨את⟩ su suegro, y ⟨él⟩ fue a su tierra",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "Y envió"
+      "gloss": "Y envió"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su suegro"
     },
     {
       "surface": "חתנו",
-      "english": "su suegro"
+      "gloss": "su suegro"
     },
     {
       "surface": "וילך",
-      "english": "y ⟨él⟩ fue"
+      "gloss": "y ⟨él⟩ fue"
     },
     {
       "surface": "לו",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "אל",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ארצו",
-      "english": "su tierra"
+      "gloss": "su tierra"
     }
-  ],
-  "timestamp": "2026-07-16T20:16:58.466630709Z",
-  "model": "glm-4.5"
+  ]
 }

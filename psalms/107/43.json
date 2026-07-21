@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 43,
   "ref": "psalms 107:43",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69860,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70366
-  },
+  "verse": 43,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:04.561255794Z",
   "translation": "¿Quién ⟨es⟩ sabio y ⟨que⟩ guarde ⟨esto⟩, y ⟨lo⟩ considere: las misericordias de YHWH",
   "tokens": [
     {
       "surface": "מי",
-      "english": "Quién"
+      "gloss": "Quién"
     },
     {
       "surface": "חכם",
-      "english": "sabio"
+      "gloss": "sabio"
     },
     {
       "surface": "וישמר",
-      "english": "y ⟨que⟩ guarde",
+      "gloss": "y ⟨que⟩ guarde",
       "marks": "⟨esto⟩"
     },
     {
       "surface": "אלה",
-      "english": "⟨esto⟩"
+      "gloss": "⟨esto⟩"
     },
     {
       "surface": "ויתבוננו",
-      "english": "y ⟨lo⟩ considere",
+      "gloss": "y ⟨lo⟩ considere",
       "marks": "las misericordias de YHWH"
     },
     {
       "surface": "חסדי",
-      "english": "las misericordias de"
+      "gloss": "las misericordias de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:04.561255794Z",
-  "model": "glm-4.5"
+  ]
 }

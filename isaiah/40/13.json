@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "isaiah 40:13",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 498,
-    "prompt_tokens": 26311,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26809
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:28:57.609039726Z",
   "translation": "¿Quién ⟨ha⟩ medido ⟨el⟩ Rúaj de YHWH, y ⟨como⟩ su consejero, quién ⟨lo⟩ informó?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "תכן",
-      "english": "⟨ha⟩ medido"
+      "gloss": "⟨ha⟩ medido"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨el⟩ Rúaj de YHWH"
     },
     {
       "surface": "רוח",
-      "english": "Rúaj"
+      "gloss": "Rúaj"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ואיש",
-      "english": "y ⟨como⟩"
+      "gloss": "y ⟨como⟩"
     },
     {
       "surface": "עצתו",
-      "english": "su consejero"
+      "gloss": "su consejero"
     },
     {
       "surface": "יודיענו",
-      "english": "quién ⟨lo⟩ informó"
+      "gloss": "quién ⟨lo⟩ informó"
     }
-  ],
-  "timestamp": "2026-07-16T21:28:57.609039726Z",
-  "model": "glm-4.5"
+  ]
 }

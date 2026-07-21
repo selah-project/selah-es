@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "job 14:1",
   "book": "job",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26985,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27295
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:00:36.886631616Z",
   "translation": "El ⟨hombre⟩ nacido de ⟨mujer⟩ ⟨es⟩ de pocos días y lleno de ⟨inquietud⟩",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "Hombre"
+      "gloss": "Hombre"
     },
     {
       "surface": "ילוד",
-      "english": "nacido"
+      "gloss": "nacido"
     },
     {
       "surface": "אשה",
-      "english": "mujer"
+      "gloss": "mujer"
     },
     {
       "surface": "קצר",
-      "english": "pocos"
+      "gloss": "pocos"
     },
     {
       "surface": "י�מים",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "ושבע",
-      "english": "lleno de"
+      "gloss": "lleno de"
     },
     {
       "surface": "רגז",
-      "english": "inquietud"
+      "gloss": "inquietud"
     }
-  ],
-  "timestamp": "2026-06-10T02:00:36.886631616Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "esther 4:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 4,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:50:36.364490833Z",
+  "translation": "Y ⟨fue⟩ Ester ⟨quien⟩ habló a Hatac, ⟨y⟩ ⟨lo⟩ mandó ⟨a⟩ Mordejai:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Y ⟨fue⟩ ⟨quien⟩ habló"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "a Hatac"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "⟨y⟩ ⟨lo⟩ mandó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordejai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mardoqueo",
@@ -13,48 +44,6 @@
       "hebrew": "מרדכי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17191,
-    "prompt_tokens_details": {
-      "cached_tokens": 16282
-    },
-    "total_tokens": 17518
-  },
-  "translation": "Y ⟨fue⟩ Ester ⟨quien⟩ habló a Hatac, ⟨y⟩ ⟨lo⟩ mandó ⟨a⟩ Mordejai:",
-  "tokens": [
-    {
-      "surface": "ותאמר",
-      "english": "Y ⟨fue⟩ ⟨quien⟩ habló"
-    },
-    {
-      "surface": "אסתר",
-      "english": "Ester"
-    },
-    {
-      "surface": "להתך",
-      "english": "a Hatac"
-    },
-    {
-      "surface": "ותצוהו",
-      "english": "⟨y⟩ ⟨lo⟩ mandó"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "מרדכי",
-      "english": "Mordejai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:50:36.364490833Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

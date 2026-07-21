@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "job 20:28",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26960,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27326
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:33.963282197Z",
   "translation": "Se llevará ⟨el⟩ producto de su casa; serán vertidos ⟨en⟩ ⟨el⟩ día de su furor.",
   "tokens": [
     {
       "surface": "יגל",
-      "english": "Se llevará"
+      "gloss": "Se llevará"
     },
     {
       "surface": "יבול",
-      "english": "⟨el⟩ producto"
+      "gloss": "⟨el⟩ producto"
     },
     {
       "surface": "ביתו",
-      "english": "de su casa"
+      "gloss": "de su casa"
     },
     {
       "surface": "נגרות",
-      "english": "serán vertidos"
+      "gloss": "serán vertidos"
     },
     {
       "surface": "ביום",
-      "english": "⟨en⟩ ⟨el⟩ día"
+      "gloss": "⟨en⟩ ⟨el⟩ día"
     },
     {
       "surface": "אפו",
-      "english": "de su furor"
+      "gloss": "de su furor"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:33.963282197Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "lamentations 3:3",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38961,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39334
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:41:18.066859643Z",
   "translation": "¡Ciertamente ⟨está⟩ contra mí ⟨que⟩ ⟨se⟩ vuelve ⟨y⟩ vuelve su mano ⟨a⟩ mí todo el día.",
   "tokens": [
     {
       "surface": "אך",
-      "english": "¡Ciertamente"
+      "gloss": "¡Ciertamente"
     },
     {
       "surface": "בי",
-      "english": "⟨que⟩ ⟨se⟩ vuelve",
+      "gloss": "⟨que⟩ ⟨se⟩ vuelve",
       "marks": "contra mí ⟨que⟩ ⟨se⟩ vuelve"
     },
     {
       "surface": "ישב",
-      "english": "⟨se⟩ vuelve"
+      "gloss": "⟨se⟩ vuelve"
     },
     {
       "surface": "יהפך",
-      "english": "⟨y⟩ vuelve"
+      "gloss": "⟨y⟩ vuelve"
     },
     {
       "surface": "ידו",
-      "english": "su mano"
+      "gloss": "su mano"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "היום",
-      "english": "el día"
+      "gloss": "el día"
     }
-  ],
-  "timestamp": "2026-06-09T22:41:18.066859643Z",
-  "model": "glm-4.5"
+  ]
 }

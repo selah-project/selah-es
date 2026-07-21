@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 10:16",
   "book": "genesis",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 299,
-    "prompt_tokens": 28437,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28736
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:54:57.944151773Z",
   "translation": "y ⟨את⟩ ⟨el⟩ Yevusí, y ⟨את⟩ ⟨el⟩ Emori, y ⟨את⟩ ⟨el⟩ Girgashí",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "⟨el⟩ Yevusí"
     },
     {
       "surface": "היבוסי",
-      "english": "⟨el⟩ Yevusí"
+      "gloss": "⟨el⟩ Yevusí"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "⟨el⟩ Emori"
     },
     {
       "surface": "האמרי",
-      "english": "⟨el⟩ Emori"
+      "gloss": "⟨el⟩ Emori"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "⟨el⟩ Girgashí"
     },
     {
       "surface": "הגרגשי",
-      "english": "⟨el⟩ Girgashí"
+      "gloss": "⟨el⟩ Girgashí"
     }
-  ],
-  "timestamp": "2026-07-16T20:54:57.944151773Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 77,
   "ref": "psalms 119:77",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 290,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69834,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70124
-  },
+  "verse": 77,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:27.362287512Z",
   "translation": "Vengan sobre mí tus misericordias ⟨para que⟩ viva, porque tu Torá ⟨es⟩ mi delicia.",
   "tokens": [
     {
       "surface": "יבאוני",
-      "english": "Vengan sobre mí"
+      "gloss": "Vengan sobre mí"
     },
     {
       "surface": "רחמיך",
-      "english": "tus misericordias"
+      "gloss": "tus misericordias"
     },
     {
       "surface": "ואחיה",
-      "english": "⟨para que⟩ viva"
+      "gloss": "⟨para que⟩ viva"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "תורתך",
-      "english": "tu Torá"
+      "gloss": "tu Torá"
     },
     {
       "surface": "שעשעי",
-      "english": "⟨es⟩ mi delicia"
+      "gloss": "⟨es⟩ mi delicia"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:27.362287512Z",
-  "model": "glm-4.5"
+  ]
 }

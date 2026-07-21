@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "exodus 19:14",
   "book": "exodus",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 436,
-    "prompt_tokens": 24274,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24710
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:17:46.005778927Z",
   "translation": "Y Moshé descendió del monte al ⟨pueblo⟩, y santificó ⟨את⟩ ⟨el⟩ ⟨pueblo⟩, y lavaron ⟨sus⟩ ⟨vestiduras⟩",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "Y descendió"
+      "gloss": "Y descendió"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "מן",
-      "english": "del"
+      "gloss": "del"
     },
     {
       "surface": "ההר",
-      "english": "monte"
+      "gloss": "monte"
     },
     {
       "surface": "אל",
-      "english": "al"
+      "gloss": "al"
     },
     {
       "surface": "העם",
-      "english": "⟨pueblo⟩"
+      "gloss": "⟨pueblo⟩"
     },
     {
       "surface": "ויקדש",
-      "english": "y santificó"
+      "gloss": "y santificó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el pueblo"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ ⟨pueblo⟩"
+      "gloss": "⟨el⟩ ⟨pueblo⟩"
     },
     {
       "surface": "ויכבסו",
-      "english": "y lavaron"
+      "gloss": "y lavaron"
     },
     {
       "surface": "שמלתם",
-      "english": "⟨sus⟩ ⟨vestiduras⟩"
+      "gloss": "⟨sus⟩ ⟨vestiduras⟩"
     }
-  ],
-  "timestamp": "2026-07-16T20:17:46.005778927Z",
-  "model": "glm-4.5"
+  ]
 }

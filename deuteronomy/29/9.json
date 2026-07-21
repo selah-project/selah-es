@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "deuteronomy 29:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 29,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:34:54.299850356Z",
+  "translation": "Vosotros ⟨estáis⟩ en pie ⟨el⟩ día de hoy, todo vosotros, ante ⟨el⟩ rostro de YHWH vuestro Elohim: vuestros jefes, vuestros tribus, vuestros ancianos y vuestros oficiales, todo hombre de Yisrael.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Vosotros"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "⟨estáis⟩ en pie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨el⟩ día de hoy"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "todo vosotros"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ante ⟨el⟩ rostro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vuestro Elohim"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "vuestros jefes"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "vuestros tribus"
+    },
+    {
+      "surface": "זקניכם",
+      "gloss": "vuestros ancianos"
+    },
+    {
+      "surface": "ושטריכם",
+      "gloss": "y vuestros oficiales"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hombre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,80 +76,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 603,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17950,
-    "prompt_tokens_details": {
-      "cached_tokens": 16230
-    },
-    "total_tokens": 18553
-  },
-  "translation": "Vosotros ⟨estáis⟩ en pie ⟨el⟩ día de hoy, todo vosotros, ante ⟨el⟩ rostro de YHWH vuestro Elohim: vuestros jefes, vuestros tribus, vuestros ancianos y vuestros oficiales, todo hombre de Yisrael.",
-  "tokens": [
-    {
-      "surface": "אתם",
-      "english": "Vosotros"
-    },
-    {
-      "surface": "נצבים",
-      "english": "⟨estáis⟩ en pie"
-    },
-    {
-      "surface": "היום",
-      "english": "⟨el⟩ día de hoy"
-    },
-    {
-      "surface": "כלכם",
-      "english": "todo vosotros"
-    },
-    {
-      "surface": "לפני",
-      "english": "ante ⟨el⟩ rostro"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיכם",
-      "english": "vuestro Elohim"
-    },
-    {
-      "surface": "ראשיכם",
-      "english": "vuestros jefes"
-    },
-    {
-      "surface": "שבטיכם",
-      "english": "vuestros tribus"
-    },
-    {
-      "surface": "זקניכם",
-      "english": "vuestros ancianos"
-    },
-    {
-      "surface": "ושטריכם",
-      "english": "y vuestros oficiales"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "איש",
-      "english": "hombre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:34:54.299850356Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

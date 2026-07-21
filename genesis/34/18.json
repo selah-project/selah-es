@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 34:18",
   "book": "genesis",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28341,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28724
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:31:58.480505016Z",
   "translation": "Y ⟨fueron⟩ buenas ⟨las⟩ palabras de ellos en ⟨los⟩ ojos de Jamor y en ⟨los⟩ ojos de Siquem ⟨el⟩ hijo de Jamor",
   "tokens": [
     {
       "surface": "וייטבו",
-      "english": "Y fueron"
+      "gloss": "Y fueron"
     },
     {
       "surface": "דבריהם",
-      "english": "⟨las⟩ palabras de ellos"
+      "gloss": "⟨las⟩ palabras de ellos"
     },
     {
       "surface": "בעיני",
-      "english": "en ⟨los⟩ ojos de"
+      "gloss": "en ⟨los⟩ ojos de"
     },
     {
       "surface": "חמור",
-      "english": "Jamor"
+      "gloss": "Jamor"
     },
     {
       "surface": "ובעיני",
-      "english": "y en ⟨los⟩ ojos de"
+      "gloss": "y en ⟨los⟩ ojos de"
     },
     {
       "surface": "שכם",
-      "english": "Siquem"
+      "gloss": "Siquem"
     },
     {
       "surface": "בן",
-      "english": "⟨el⟩ hijo"
+      "gloss": "⟨el⟩ hijo"
     },
     {
       "surface": "חמור",
-      "english": "de Jamor"
+      "gloss": "de Jamor"
     }
-  ],
-  "timestamp": "2026-06-10T05:31:58.480505016Z",
-  "model": "glm-4.5"
+  ]
 }

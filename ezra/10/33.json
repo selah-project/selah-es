@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "ezra 10:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 10,
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:21:39.508623168Z",
+  "translation": "De ⟨los⟩ hijos de Jashum: Mattenai, Mattattah, Zabad, Elifélet, Yeremai, Menashé, y Shimí.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "De ⟨los⟩ hijos de"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Jashum"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Mattenai"
+    },
+    {
+      "surface": "מתתה",
+      "gloss": "Mattattah"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabad"
+    },
+    {
+      "surface": "אליפלט",
+      "gloss": "Elifélet"
+    },
+    {
+      "surface": "ירמי",
+      "gloss": "Yeremai"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimí"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manasés",
@@ -13,60 +56,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44677,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 45082
-  },
-  "translation": "De ⟨los⟩ hijos de Jashum: Mattenai, Mattattah, Zabad, Elifélet, Yeremai, Menashé, y Shimí.",
-  "tokens": [
-    {
-      "surface": "מבני",
-      "english": "De ⟨los⟩ hijos de"
-    },
-    {
-      "surface": "חשם",
-      "english": "Jashum"
-    },
-    {
-      "surface": "מתני",
-      "english": "Mattenai"
-    },
-    {
-      "surface": "מתתה",
-      "english": "Mattattah"
-    },
-    {
-      "surface": "זבד",
-      "english": "Zabad"
-    },
-    {
-      "surface": "אליפלט",
-      "english": "Elifélet"
-    },
-    {
-      "surface": "ירמי",
-      "english": "Yeremai"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "שמעי",
-      "english": "Shimí"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:21:39.508623168Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

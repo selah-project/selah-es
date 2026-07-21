@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 11:1",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24284,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24602
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:12:18.023780262Z",
   "translation": "La palabra que ⟨fue⟩ a Jeremías de ⟨partes de⟩ YHWH, ⟨para⟩ decir",
   "tokens": [
     {
       "surface": "הדבר",
-      "english": "La palabra"
+      "gloss": "La palabra"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "היה",
-      "english": "⟨fue⟩"
+      "gloss": "⟨fue⟩"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "ירמיהו",
-      "english": "Jeremías"
+      "gloss": "Jeremías"
     },
     {
       "surface": "מאת",
-      "english": "de ⟨partes de⟩",
+      "gloss": "de ⟨partes de⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ decir"
+      "gloss": "⟨para⟩ decir"
     }
-  ],
-  "timestamp": "2026-06-10T03:12:18.023780262Z",
-  "model": "glm-4.5"
+  ]
 }

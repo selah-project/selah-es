@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 104:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69922,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70316
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:49:54.543242510Z",
   "translation": "Se sacian ⟨los⟩ arbolitos de YHWH, ⟨los⟩ cedros del Líbano ⟨que⟩ Él plantó",
   "tokens": [
     {
       "surface": "ישבעו",
-      "english": "Se sacian"
+      "gloss": "Se sacian"
     },
     {
       "surface": "עצי",
-      "english": "⟨los⟩ arbolitos"
+      "gloss": "⟨los⟩ arbolitos"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ארזי",
-      "english": "⟨los⟩ cedros"
+      "gloss": "⟨los⟩ cedros"
     },
     {
       "surface": "לבנון",
-      "english": "del Líbano"
+      "gloss": "del Líbano"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "נטע",
-      "english": "Él plantó"
+      "gloss": "Él plantó"
     }
-  ],
-  "timestamp": "2026-06-09T23:49:54.543242510Z",
-  "model": "glm-4.5"
+  ]
 }

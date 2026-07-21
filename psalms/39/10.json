@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 39:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69879,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70193
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:17:10.739828677Z",
   "translation": "Estaré enmudecido ⟨para⟩ no ⟨o⟩ abrir mi boca, porque tú ⟨lo⟩ hiciste",
   "tokens": [
     {
       "surface": "נאלמתי",
-      "english": "Estaré enmudecido"
+      "gloss": "Estaré enmudecido"
     },
     {
       "surface": "לא",
-      "english": "⟨para⟩ no ⟨o⟩"
+      "gloss": "⟨para⟩ no ⟨o⟩"
     },
     {
       "surface": "אפתח",
-      "english": "abrir"
+      "gloss": "abrir"
     },
     {
       "surface": "פי",
-      "english": "mi boca"
+      "gloss": "mi boca"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "עשית",
-      "english": "⟨lo⟩ hiciste"
+      "gloss": "⟨lo⟩ hiciste"
     }
-  ],
-  "timestamp": "2026-06-09T23:17:10.739828677Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 106:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 749,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69802,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70551
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:52:50.123097029Z",
   "translation": "הֵמָּת֙נוּ עִם אֲבֹתֵ֔ינוּ הֶעֱוִ֖ינוּ הִרְשָֽׁעְנוּ׃",
   "tokens": [
     {
       "surface": "חָטָ֥אנוּ",
-      "english": "Pecamos",
+      "gloss": "Pecamos",
       "gv": 74,
       "lemma": "חטא",
       "freq": 24,
@@ -29,7 +20,7 @@
     },
     {
       "surface": "עִם",
-      "english": "con",
+      "gloss": "con",
       "gv": 110,
       "lemma": "עם",
       "freq": 668,
@@ -38,7 +29,7 @@
     },
     {
       "surface": "אֲבוֹתֵ֗י\/נוּ",
-      "english": "nuestros padres",
+      "gloss": "nuestros padres",
       "gv": 475,
       "lemma": "אב",
       "freq": 15,
@@ -47,7 +38,7 @@
     },
     {
       "surface": "הֶעֱוִ֥ינוּ",
-      "english": "hemos cometido perversidad",
+      "gloss": "hemos cometido perversidad",
       "gv": 147,
       "lemma": "עוה",
       "freq": 2,
@@ -56,14 +47,12 @@
     },
     {
       "surface": "הִרְשָֽׁעְנוּ",
-      "english": "hemos actuado impíamente",
+      "gloss": "hemos actuado impíamente",
       "gv": 631,
       "lemma": "רשע",
       "freq": 2,
       "books": 2,
       "anagram_room_size": 1
     }
-  ],
-  "timestamp": "2026-06-09T23:52:50.123097029Z",
-  "model": "glm-4.5"
+  ]
 }

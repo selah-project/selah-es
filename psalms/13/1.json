@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 13:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 213,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69606,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 69819
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:02:06.042969352Z",
   "translation": "⟨al⟩Director ⟨un⟩canto ⟨de⟩David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Al⟩Director"
+      "gloss": "⟨Al⟩Director"
     },
     {
       "surface": "מזמור",
-      "english": "⟨un⟩canto"
+      "gloss": "⟨un⟩canto"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩David"
+      "gloss": "⟨de⟩David"
     }
-  ],
-  "timestamp": "2026-06-09T23:02:06.042969352Z",
-  "model": "glm-4.5"
+  ]
 }

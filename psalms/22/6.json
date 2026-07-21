@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 22:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 373,
-    "prompt_tokens": 70002,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70375
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:16.066073953Z",
   "translation": "A ti clamaron y fueron liberados; en ti confiaron y no fueron avergonzados.",
   "tokens": [
     {
       "surface": "אליך",
-      "english": "A ti"
+      "gloss": "A ti"
     },
     {
       "surface": "זעקו",
-      "english": "clamaron"
+      "gloss": "clamaron"
     },
     {
       "surface": "ונמלטו",
-      "english": "y fueron liberados"
+      "gloss": "y fueron liberados"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     },
     {
       "surface": "בטחו",
-      "english": "confiaron"
+      "gloss": "confiaron"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "בושו",
-      "english": "fueron avergonzados"
+      "gloss": "fueron avergonzados"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:16.066073953Z",
-  "model": "glm-4.5"
+  ]
 }

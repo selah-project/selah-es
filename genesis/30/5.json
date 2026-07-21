@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 30:5",
   "book": "genesis",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 176,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28049,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28225
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:26:36.675038431Z",
   "translation": "Y concibió Bilhah y dio a luz a Yaakov ⟨un⟩ hijo",
   "tokens": [
     {
       "surface": "ותהר",
-      "english": "Y concibió"
+      "gloss": "Y concibió"
     },
     {
       "surface": "בלהה",
-      "english": "Bilhah"
+      "gloss": "Bilhah"
     },
     {
       "surface": "ותלד",
-      "english": "y dio a luz"
+      "gloss": "y dio a luz"
     },
     {
       "surface": "ליעקב",
-      "english": "a Yaakov"
+      "gloss": "a Yaakov"
     },
     {
       "surface": "בן",
-      "english": "⟨un⟩ hijo"
+      "gloss": "⟨un⟩ hijo"
     }
-  ],
-  "timestamp": "2026-06-10T05:26:36.675038431Z",
-  "model": "glm-4.5"
+  ]
 }

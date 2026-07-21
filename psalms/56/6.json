@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 56:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 70102,
-    "prompt_tokens_details": {
-      "cached_tokens": 53632
-    },
-    "total_tokens": 70513
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:32:07.112959087Z",
   "translation": "Todo el día ⟨las⟩ palabras de ellos ⟨se⟩ confabulan contra mí; todo el pensamiento de ellos ⟨es⟩ para el mal.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "היום",
-      "english": "el día"
+      "gloss": "el día"
     },
     {
       "surface": "דברי",
-      "english": "⟨las⟩ palabras de ellos"
+      "gloss": "⟨las⟩ palabras de ellos"
     },
     {
       "surface": "יעצבו",
-      "english": "⟨se⟩ confabulan"
+      "gloss": "⟨se⟩ confabulan"
     },
     {
       "surface": "עלי",
-      "english": "contra mí"
+      "gloss": "contra mí"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "מחשבתם",
-      "english": "el pensamiento de ellos"
+      "gloss": "el pensamiento de ellos"
     },
     {
       "surface": "לרע",
-      "english": "⟨es⟩ para el mal"
+      "gloss": "⟨es⟩ para el mal"
     }
-  ],
-  "timestamp": "2026-07-17T00:32:07.112959087Z",
-  "model": "glm-4.5"
+  ]
 }

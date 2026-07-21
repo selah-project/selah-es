@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "genesis 9:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 9,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:07:56.128465527Z",
+  "translation": "Elohim dé espacio a Jafet, y ⟨el⟩ habitará en ⟨las⟩ tiendas de Shem, y Kenaan ⟨será⟩ siervo para ellos.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "Dé espacio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "a Jafet"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "y ⟨el⟩ habitará"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "en ⟨las⟩ tiendas de"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y Canaán ⟨será⟩"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "siervo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "para ellos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sem",
@@ -20,64 +67,6 @@
       "hebrew": "כנען"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21160,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21584
-  },
-  "translation": "Elohim dé espacio a Jafet, y ⟨el⟩ habitará en ⟨las⟩ tiendas de Shem, y Kenaan ⟨será⟩ siervo para ellos.",
-  "tokens": [
-    {
-      "surface": "יפת",
-      "english": "Dé espacio"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ליפת",
-      "english": "a Jafet"
-    },
-    {
-      "surface": "וישכן",
-      "english": "y ⟨el⟩ habitará"
-    },
-    {
-      "surface": "באהלי",
-      "english": "en ⟨las⟩ tiendas de"
-    },
-    {
-      "surface": "שם",
-      "english": "Shem"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y Canaán ⟨será⟩"
-    },
-    {
-      "surface": "כנען",
-      "english": "Kenaan"
-    },
-    {
-      "surface": "עבד",
-      "english": "siervo"
-    },
-    {
-      "surface": "למו",
-      "english": "para ellos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:07:56.128465527Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

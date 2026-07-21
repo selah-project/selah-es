@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-kings 5:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 5,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:24:09.102184822Z",
+  "translation": "Y dijo el rey de Aram: Ve, ve, y enviaré una carta ⟨al⟩ rey de Yisrael. Y él fue y tomó ⟨en⟩ su mano diez talentos de plata y seis mil ⟨de⟩ oro y diez cambios de ropa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "de Aram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ve"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "y enviaré"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "una carta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Y él fue"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "y tomó"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "⟨en⟩ su mano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "diez"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "talentos"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de plata"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "y seis mil"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "y diez"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "cambios"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "de ropa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,112 +108,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 668,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17853,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 18521
-  },
-  "translation": "Y dijo el rey de Aram: Ve, ve, y enviaré una carta ⟨al⟩ rey de Yisrael. Y él fue y tomó ⟨en⟩ su mano diez talentos de plata y seis mil ⟨de⟩ oro y diez cambios de ropa.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "מלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "ארם",
-      "english": "de Aram"
-    },
-    {
-      "surface": "לך",
-      "english": "Ve"
-    },
-    {
-      "surface": "בא",
-      "english": "ve"
-    },
-    {
-      "surface": "ואשלחה",
-      "english": "y enviaré"
-    },
-    {
-      "surface": "ספר",
-      "english": "una carta"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨al⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "וילך",
-      "english": "Y él fue"
-    },
-    {
-      "surface": "ויקח",
-      "english": "y tomó"
-    },
-    {
-      "surface": "בידו",
-      "english": "⟨en⟩ su mano"
-    },
-    {
-      "surface": "עשר",
-      "english": "diez"
-    },
-    {
-      "surface": "ככרי",
-      "english": "talentos"
-    },
-    {
-      "surface": "כסף",
-      "english": "de plata"
-    },
-    {
-      "surface": "וששת",
-      "english": "y seis mil"
-    },
-    {
-      "surface": "אלפים",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "זהב",
-      "english": "oro"
-    },
-    {
-      "surface": "ועשר",
-      "english": "y diez"
-    },
-    {
-      "surface": "חליפות",
-      "english": "cambios"
-    },
-    {
-      "surface": "בגדים",
-      "english": "de ropa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:24:09.102184822Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

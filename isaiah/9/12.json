@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 9:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26418,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26809
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:26:33.765238369Z",
   "translation": "Y ⟨el⟩ pueblo no ⟨se⟩ volvió hasta ⟨el⟩ que lo hirió, y ⟨a⟩ YHWH Tzevaot no buscaron.",
   "tokens": [
     {
       "surface": "והעם",
-      "english": "Y ⟨el⟩ pueblo"
+      "gloss": "Y ⟨el⟩ pueblo"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "שב",
-      "english": "⟨se⟩ volvió"
+      "gloss": "⟨se⟩ volvió"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "המכהו",
-      "english": "⟨el⟩ que lo hirió"
+      "gloss": "⟨el⟩ que lo hirió"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨a⟩",
+      "gloss": "y ⟨a⟩",
       "marks": "YHWH Tzevaot"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "דרשו",
-      "english": "buscaron"
+      "gloss": "buscaron"
     }
-  ],
-  "timestamp": "2026-06-10T02:26:33.765238369Z",
-  "model": "glm-4.5"
+  ]
 }

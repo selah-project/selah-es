@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "job 8:17",
   "book": "job",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27008,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27341
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:42.299511473Z",
   "translation": "Sobre ⟨un⟩ montículo de piedras ⟨sus⟩ raíces se enredan, entre piedras ⟨éste⟩ mira",
   "tokens": [
     {
       "surface": "על",
-      "english": "Sobre"
+      "gloss": "Sobre"
     },
     {
       "surface": "גל",
-      "english": "⟨un⟩ montículo"
+      "gloss": "⟨un⟩ montículo"
     },
     {
       "surface": "שרשיו",
-      "english": "⟨sus⟩ raíces"
+      "gloss": "⟨sus⟩ raíces"
     },
     {
       "surface": "יסבכו",
-      "english": "se enredan"
+      "gloss": "se enredan"
     },
     {
       "surface": "בית",
-      "english": "entre"
+      "gloss": "entre"
     },
     {
       "surface": "אבנים",
-      "english": "piedras"
+      "gloss": "piedras"
     },
     {
       "surface": "יחזה",
-      "english": "⟨éste⟩ mira"
+      "gloss": "⟨éste⟩ mira"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:42.299511473Z",
-  "model": "glm-4.5"
+  ]
 }

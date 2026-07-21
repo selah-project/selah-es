@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "jeremiah 4:25",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24400,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24957
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:06:18.794277701Z",
   "translation": "Vi y he aquí ⟨que⟩ no ⟨hay⟩ ⟨el⟩ hombre y ⟨el⟩ vuelo de ⟨los⟩ cielos ⟨se⟩ dispersó",
   "tokens": [
     {
       "surface": "ראיתי",
-      "english": "Vi"
+      "gloss": "Vi"
     },
     {
       "surface": "והנה",
-      "english": "y he aquí"
+      "gloss": "y he aquí"
     },
     {
       "surface": "אין",
-      "english": "⟨que⟩ no ⟨hay⟩"
+      "gloss": "⟨que⟩ no ⟨hay⟩"
     },
     {
       "surface": "האדם",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "וכל",
-      "english": "y ⟨el⟩"
+      "gloss": "y ⟨el⟩"
     },
     {
       "surface": "עוף",
-      "english": "vuelo"
+      "gloss": "vuelo"
     },
     {
       "surface": "השמים",
-      "english": "de ⟨los⟩ cielos"
+      "gloss": "de ⟨los⟩ cielos"
     },
     {
       "surface": "נדדו",
-      "english": "⟨se⟩ dispersó"
+      "gloss": "⟨se⟩ dispersó"
     }
-  ],
-  "timestamp": "2026-06-10T03:06:18.794277701Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 35:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 641,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70111,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70752
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:13:29.971725375Z",
   "translation": "y ⟨draw out⟩ ⟨the⟩ lance y ⟨stop⟩ ⟨la⟩ vía contra ⟨los⟩ que ⟨me⟩ persiguen; di a ⟨mi⟩ alma: ⟨tu⟩ salvación yo ⟨soy⟩.",
   "tokens": [
     {
       "surface": "והרק",
-      "english": "Y ⟨draw out⟩",
+      "gloss": "Y ⟨draw out⟩",
       "rationale": "Verb 'draw out' with conjunction; ⟨⟩ indicates required copula\/phrase completion in English"
     },
     {
       "surface": "חנית",
-      "english": "⟨the⟩ lance",
+      "gloss": "⟨the⟩ lance",
       "rationale": "Object noun; ⟨⟩ indicates required article"
     },
     {
       "surface": "וסגר",
-      "english": "y ⟨stop⟩",
+      "gloss": "y ⟨stop⟩",
       "rationale": "Verb 'stop' with conjunction; ⟨⟩ indicates required phrase completion"
     },
     {
       "surface": "לקראת",
-      "english": "⟨la⟩ vía contra",
+      "gloss": "⟨la⟩ vía contra",
       "rationale": "Prepositional phrase 'against' (literally 'to meet'); Spanish requires article\/construction"
     },
     {
       "surface": "רדפי",
-      "english": "⟨los⟩ que ⟨me⟩ persiguen",
+      "gloss": "⟨los⟩ que ⟨me⟩ persiguen",
       "rationale": "Participle 'pursuers'; ⟨⟩ markers indicate required pronouns and plural article"
     },
     {
       "surface": "אמר",
-      "english": "di",
+      "gloss": "di",
       "rationale": "Imperative 'say'"
     },
     {
       "surface": "לנפשי",
-      "english": "a ⟨mi⟩ alma",
+      "gloss": "a ⟨mi⟩ alma",
       "rationale": "Prepositional phrase 'to my soul'; ⟨⟩ indicates required possessive pronoun"
     },
     {
       "surface": "ישעתך",
-      "english": "⟨tu⟩ salvación",
+      "gloss": "⟨tu⟩ salvación",
       "rationale": "Compound noun 'your salvation' (ישעה-salvation + ך-your suffix); ⟨⟩ indicates possessive pronoun"
     },
     {
       "surface": "אני",
-      "english": "yo ⟨soy⟩",
+      "gloss": "yo ⟨soy⟩",
       "rationale": "Pronoun 'I' + implied copula; ⟨⟩ indicates required verb"
     }
-  ],
-  "timestamp": "2026-06-09T23:13:29.971725375Z",
-  "model": "glm-4.5"
+  ]
 }

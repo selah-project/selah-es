@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 38,
   "ref": "psalms 105:38",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69930,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70328
-  },
+  "verse": 38,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:51:48.505417103Z",
   "translation": "Mitzráyim ⟨se alegró⟩ en ⟨su⟩ salida, ⟨porque⟩ ⟨el⟩ temor de ellos ⟨cayó⟩ sobre ellos.",
   "tokens": [
     {
       "surface": "שמח",
-      "english": "Se alegró"
+      "gloss": "Se alegró"
     },
     {
       "surface": "מצרים",
-      "english": "Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "בצאתם",
-      "english": "en ⟨su⟩ salida"
+      "gloss": "en ⟨su⟩ salida"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "נפל",
-      "english": "⟨cayó⟩"
+      "gloss": "⟨cayó⟩"
     },
     {
       "surface": "פחדם",
-      "english": "⟨el⟩ temor de ellos"
+      "gloss": "⟨el⟩ temor de ellos"
     },
     {
       "surface": "עליהם",
-      "english": "sobre ellos"
+      "gloss": "sobre ellos"
     }
-  ],
-  "timestamp": "2026-06-09T23:51:48.505417103Z",
-  "model": "glm-4.5"
+  ]
 }

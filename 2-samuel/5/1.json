@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 5:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 5,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:19:57.334798358Z",
+  "translation": "Y vinieron todas las tribus de Yisrael a Davidd en Jevrón y hablaron diciendo: ⟨He aquí⟩, ⟨somos⟩ tu hueso y tu carne.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Y vinieron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todas"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "las tribus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "en Jevrón"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "y hablaron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "⟨He aquí⟩"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "tu hueso"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "y tu carne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨somos⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -27,76 +86,6 @@
       "hebrew": "חברון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17338,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 17761
-  },
-  "translation": "Y vinieron todas las tribus de Yisrael a Davidd en Jevrón y hablaron diciendo: ⟨He aquí⟩, ⟨somos⟩ tu hueso y tu carne.",
-  "tokens": [
-    {
-      "surface": "ויבאו",
-      "english": "Y vinieron"
-    },
-    {
-      "surface": "כל",
-      "english": "todas"
-    },
-    {
-      "surface": "שבטי",
-      "english": "las tribus"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "חברונה",
-      "english": "en Jevrón"
-    },
-    {
-      "surface": "ויאמרו",
-      "english": "y hablaron"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "הננו",
-      "english": "⟨He aquí⟩"
-    },
-    {
-      "surface": "עצמך",
-      "english": "tu hueso"
-    },
-    {
-      "surface": "ובשרך",
-      "english": "y tu carne"
-    },
-    {
-      "surface": "אנחנו",
-      "english": "⟨somos⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:19:57.334798358Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

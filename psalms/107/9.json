@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 107:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69980,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70436
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:53:39.934226685Z",
   "translation": "Porque ⟨el⟩ sació ⟨al⟩ alma que anhela ⟨y⟩ ⟨al⟩ alma hambrienta llenó de bien",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "השביע",
-      "english": "sació"
+      "gloss": "sació"
     },
     {
       "surface": "נפש",
-      "english": "alma",
+      "gloss": "alma",
       "marks": "⟨al⟩ alma que anhela"
     },
     {
       "surface": "שקקה",
-      "english": "que anhela"
+      "gloss": "que anhela"
     },
     {
       "surface": "ונפש",
-      "english": "⟨y⟩ ⟨al⟩ alma"
+      "gloss": "⟨y⟩ ⟨al⟩ alma"
     },
     {
       "surface": "רעבה",
-      "english": "hambrienta"
+      "gloss": "hambrienta"
     },
     {
       "surface": "מלא",
-      "english": "llenó"
+      "gloss": "llenó"
     },
     {
       "surface": "טוב",
-      "english": "de bien"
+      "gloss": "de bien"
     }
-  ],
-  "timestamp": "2026-06-09T23:53:39.934226685Z",
-  "model": "glm-4.5"
+  ]
 }

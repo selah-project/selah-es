@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 106:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69832,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70123
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:52:50.511280815Z",
   "translation": "Y cubrió ⟨a⟩ aguas ⟨a⟩ sus opresores ⟨a⟩ uno ⟨de⟩ ellos no quedó",
   "tokens": [
     {
       "surface": "ויכסו",
-      "english": "Y cubrió"
+      "gloss": "Y cubrió"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "צריהם",
-      "english": "sus opresores",
+      "gloss": "sus opresores",
       "marks": "aguas"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "מהם",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "נותר",
-      "english": "quedó"
+      "gloss": "quedó"
     }
-  ],
-  "timestamp": "2026-06-09T23:52:50.511280815Z",
-  "model": "glm-4.5"
+  ]
 }

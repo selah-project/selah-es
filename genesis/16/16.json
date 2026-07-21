@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "genesis 16:16",
   "book": "genesis",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28629,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28962
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:13:53.387594961Z",
   "translation": "Y Avram ⟨es⟩ hijo de ochenta y seis años cuando Hagar dio a luz ⟨a⟩ Yishmael ⟨para⟩ Avram",
   "tokens": [
     {
       "surface": "ואברם",
-      "english": "Y Avram"
+      "gloss": "Y Avram"
     },
     {
       "surface": "בן",
-      "english": "hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "שמנים",
-      "english": "ochenta"
+      "gloss": "ochenta"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "ושש",
-      "english": "y seis"
+      "gloss": "y seis"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "בלדת",
-      "english": "cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "הגר",
-      "english": "Hagar"
+      "gloss": "Hagar"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Yishmael"
     },
     {
       "surface": "ישמעאל",
-      "english": "Yishmael"
+      "gloss": "Yishmael"
     },
     {
       "surface": "לאברם",
-      "english": "⟨para⟩ Avram"
+      "gloss": "⟨para⟩ Avram"
     }
-  ],
-  "timestamp": "2026-06-10T05:13:53.387594961Z",
-  "model": "glm-4.5"
+  ]
 }

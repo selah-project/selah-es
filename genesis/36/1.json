@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 36:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 248,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28056,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28304
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:32:30.314595630Z",
   "translation": "Y estas ⟨son⟩ las generaciones de Esav, ⟨quien⟩ es Edom",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "Y estas"
+      "gloss": "Y estas"
     },
     {
       "surface": "תלדות",
-      "english": "las generaciones"
+      "gloss": "las generaciones"
     },
     {
       "surface": "עשו",
-      "english": "de Esav"
+      "gloss": "de Esav"
     },
     {
       "surface": "הוא",
-      "english": "⟨quien⟩ es"
+      "gloss": "⟨quien⟩ es"
     },
     {
       "surface": "אדום",
-      "english": "Edom"
+      "gloss": "Edom"
     }
-  ],
-  "timestamp": "2026-06-10T05:32:30.314595630Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 15:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59840,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60232
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:39:27.751486116Z",
   "translation": "Severa ⟨es⟩ la instrucción ⟨para⟩ ⟨el⟩ que abandona ⟨el⟩ camino; ⟨el⟩ que aborrece ⟨la⟩ reprensión morirá.",
   "tokens": [
     {
       "surface": "מוסר",
-      "english": "Instrucción"
+      "gloss": "Instrucción"
     },
     {
       "surface": "רע",
-      "english": "severa"
+      "gloss": "severa"
     },
     {
       "surface": "לעזב",
-      "english": "para ⟨el⟩ que abandona"
+      "gloss": "para ⟨el⟩ que abandona"
     },
     {
       "surface": "ארח",
-      "english": "⟨el⟩ camino"
+      "gloss": "⟨el⟩ camino"
     },
     {
       "surface": "שונא",
-      "english": "⟨el⟩ que aborrece"
+      "gloss": "⟨el⟩ que aborrece"
     },
     {
       "surface": "תוכחת",
-      "english": "⟨la⟩ reprensión"
+      "gloss": "⟨la⟩ reprensión"
     },
     {
       "surface": "ימות",
-      "english": "morirá"
+      "gloss": "morirá"
     }
-  ],
-  "timestamp": "2026-06-10T01:39:27.751486116Z",
-  "model": "glm-4.5"
+  ]
 }

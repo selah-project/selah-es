@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "isaiah 10:30",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26073,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26488
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:27:32.029485384Z",
   "translation": "¡Gime ⟨con⟩ tu voz ⟨את⟩ hija de Gallim! ¡Oye ⟨את⟩ Laishah ⟨את⟩ ⟨la⟩ pobre Anathoth!",
   "tokens": [
     {
       "surface": "צהלי",
-      "english": "¡Gime"
+      "gloss": "¡Gime"
     },
     {
       "surface": "קולך",
-      "english": "⟨con⟩ tu voz",
+      "gloss": "⟨con⟩ tu voz",
       "marks": "hija de Gallim"
     },
     {
       "surface": "בת",
-      "english": "hija"
+      "gloss": "hija"
     },
     {
       "surface": "גלים",
-      "english": "de Gallim"
+      "gloss": "de Gallim"
     },
     {
       "surface": "הקשיבי",
-      "english": "¡Oye"
+      "gloss": "¡Oye"
     },
     {
       "surface": "לישה",
-      "english": "Laishah"
+      "gloss": "Laishah"
     },
     {
       "surface": "עניה",
-      "english": "⟨la⟩ pobre",
+      "gloss": "⟨la⟩ pobre",
       "marks": "Anathoth"
     },
     {
       "surface": "ענתות",
-      "english": "Anathoth"
+      "gloss": "Anathoth"
     }
-  ],
-  "timestamp": "2026-06-10T02:27:32.029485384Z",
-  "model": "glm-4.5"
+  ]
 }

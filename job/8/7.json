@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 8:7",
   "book": "job",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26965,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27461
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:00.410207246Z",
   "translation": "Y ⟨será⟩ ⟨el⟩ principio ⟨de ti⟩ ⟨de⟩ ⟨lo⟩ pequeño, y ⟨el⟩ fin ⟨de ti⟩ crecerá vehementemente",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "Y ⟨será⟩"
+      "gloss": "Y ⟨será⟩"
     },
     {
       "surface": "ראשיתך",
-      "english": "⟨el⟩ principio ⟨de ti⟩",
+      "gloss": "⟨el⟩ principio ⟨de ti⟩",
       "marks": "principio ⟨de ti⟩"
     },
     {
       "surface": "מצער",
-      "english": "⟨de⟩ ⟨lo⟩ pequeño"
+      "gloss": "⟨de⟩ ⟨lo⟩ pequeño"
     },
     {
       "surface": "ואחריתך",
-      "english": "y ⟨el⟩ fin ⟨de ti⟩",
+      "gloss": "y ⟨el⟩ fin ⟨de ti⟩",
       "marks": "fin ⟨de ti⟩"
     },
     {
       "surface": "ישגה",
-      "english": "crecerá vehementemente"
+      "gloss": "crecerá vehementemente"
     },
     {
       "surface": "מאד",
-      "english": "vehementemente"
+      "gloss": "vehementemente"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:00.410207246Z",
-  "model": "glm-4.5"
+  ]
 }

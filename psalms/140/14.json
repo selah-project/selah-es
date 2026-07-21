@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 140:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 423,
-    "prompt_tokens": 70006,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70429
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:49.193973047Z",
   "translation": "Ciertamente ⟨los⟩ justos darán gracias a tu Nombre; ⟨los⟩ rectos morarán en tu presencia ⟨את⟩",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Ciertamente"
+      "gloss": "Ciertamente"
     },
     {
       "surface": "צדיקים",
-      "english": "⟨los⟩ justos"
+      "gloss": "⟨los⟩ justos"
     },
     {
       "surface": "יודו",
-      "english": "darán gracias"
+      "gloss": "darán gracias"
     },
     {
       "surface": "לשמך",
-      "english": "a tu Nombre"
+      "gloss": "a tu Nombre"
     },
     {
       "surface": "ישבו",
-      "english": "morarán"
+      "gloss": "morarán"
     },
     {
       "surface": "ישרים",
-      "english": "⟨los⟩ rectos"
+      "gloss": "⟨los⟩ rectos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu presencia"
     },
     {
       "surface": "פניך",
-      "english": "tu presencia"
+      "gloss": "tu presencia"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:49.193973047Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "leviticus 3:7",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 532,
-    "prompt_tokens": 24892,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25424
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:33:02.813623017Z",
   "translation": "Si es un cordero lo que él ofrece ⟨como⟩ su ofrenda, entonces presentará ⟨את⟩ ante la presencia de YHWH",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "כשב",
-      "english": "es un cordero"
+      "gloss": "es un cordero"
     },
     {
       "surface": "הוא",
-      "english": "lo que él"
+      "gloss": "lo que él"
     },
     {
       "surface": "מקריב",
-      "english": "ofrece"
+      "gloss": "ofrece"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su ofrenda"
     },
     {
       "surface": "קרבנו",
-      "english": "su ofrenda"
+      "gloss": "su ofrenda"
     },
     {
       "surface": "והקריב",
-      "english": "entonces presentará"
+      "gloss": "entonces presentará"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ante la presencia de YHWH"
     },
     {
       "surface": "לפני",
-      "english": "ante la presencia de"
+      "gloss": "ante la presencia de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T22:33:02.813623017Z",
-  "model": "glm-4.5"
+  ]
 }

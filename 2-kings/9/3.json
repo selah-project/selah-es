@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-kings 9:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 9,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:28:31.499169296Z",
+  "translation": "Y toma la vasija del aceite y derrama ⟨sobre⟩ su cabeza y dirás: así ha dicho YHWH: te he ungido ⟨como⟩ rey sobre Yisrael; y ⟨tú⟩ abrirás ⟨la⟩ puerta y huirás y no esperares.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Y toma"
+    },
+    {
+      "surface": "פך",
+      "gloss": "la vasija"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "del aceite"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "y derrama"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "su cabeza"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "y dirás"
+    },
+    {
+      "surface": "כה",
+      "gloss": "así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha dicho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "te he ungido"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨como⟩ rey"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "y ⟨tú⟩ abrirás"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "⟨la⟩ puerta"
+    },
+    {
+      "surface": "ונסתה",
+      "gloss": "y huirás"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "תחכה",
+      "gloss": "esperares"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,100 +96,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 672,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17593,
-    "prompt_tokens_details": {
-      "cached_tokens": 15439
-    },
-    "total_tokens": 18265
-  },
-  "translation": "Y toma la vasija del aceite y derrama ⟨sobre⟩ su cabeza y dirás: así ha dicho YHWH: te he ungido ⟨como⟩ rey sobre Yisrael; y ⟨tú⟩ abrirás ⟨la⟩ puerta y huirás y no esperares.",
-  "tokens": [
-    {
-      "surface": "ולקחת",
-      "english": "Y toma"
-    },
-    {
-      "surface": "פך",
-      "english": "la vasija"
-    },
-    {
-      "surface": "השמן",
-      "english": "del aceite"
-    },
-    {
-      "surface": "ויצקת",
-      "english": "y derrama"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ראשו",
-      "english": "su cabeza"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "y dirás"
-    },
-    {
-      "surface": "כה",
-      "english": "así"
-    },
-    {
-      "surface": "אמר",
-      "english": "ha dicho"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "משחתיך",
-      "english": "te he ungido"
-    },
-    {
-      "surface": "למלך",
-      "english": "⟨como⟩ rey"
-    },
-    {
-      "surface": "אל",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ופתחת",
-      "english": "y ⟨tú⟩ abrirás"
-    },
-    {
-      "surface": "הדלת",
-      "english": "⟨la⟩ puerta"
-    },
-    {
-      "surface": "ונסתה",
-      "english": "y huirás"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "תחכה",
-      "english": "esperares"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:28:31.499169296Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "leviticus 6:19",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 545,
-    "prompt_tokens": 24832,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25377
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:34:32.398352785Z",
   "translation": "El kohen que hace la expiación por ella comerá ⟨la⟩ ofrenda; ⟨en⟩ lugar santo será comida, ⟨en⟩ el patio de ⟨el⟩ Ohel Moed.",
   "tokens": [
     {
       "surface": "הכהן",
-      "english": "El kohen"
+      "gloss": "El kohen"
     },
     {
       "surface": "המחטא",
-      "english": "que hace la expiación"
+      "gloss": "que hace la expiación"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ofrenda"
     },
     {
       "surface": "יאכלנה",
-      "english": "comerá ⟨la⟩ ofrenda"
+      "gloss": "comerá ⟨la⟩ ofrenda"
     },
     {
       "surface": "במקום",
-      "english": "⟨en⟩ lugar"
+      "gloss": "⟨en⟩ lugar"
     },
     {
       "surface": "קדש",
-      "english": "santo"
+      "gloss": "santo"
     },
     {
       "surface": "תאכל",
-      "english": "será comida"
+      "gloss": "será comida"
     },
     {
       "surface": "בחצר",
-      "english": "⟨en⟩ el patio"
+      "gloss": "⟨en⟩ el patio"
     },
     {
       "surface": "אהל",
-      "english": "⟨el⟩ Ohel"
+      "gloss": "⟨el⟩ Ohel"
     },
     {
       "surface": "מועד",
-      "english": "Moed"
+      "gloss": "Moed"
     }
-  ],
-  "timestamp": "2026-07-16T22:34:32.398352785Z",
-  "model": "glm-4.5"
+  ]
 }

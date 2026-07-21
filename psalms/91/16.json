@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 91:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 360,
-    "prompt_tokens": 69770,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70130
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:17.536041432Z",
   "translation": "Con longura de días lo saciaré, y le haré ver mi salvación.",
   "tokens": [
     {
       "surface": "ארך",
-      "english": "Con longura"
+      "gloss": "Con longura"
     },
     {
       "surface": "ימים",
-      "english": "de días"
+      "gloss": "de días"
     },
     {
       "surface": "אשביעהו",
-      "english": "lo saciaré"
+      "gloss": "lo saciaré"
     },
     {
       "surface": "ו",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "אראהו",
-      "english": "le haré ver"
+      "gloss": "le haré ver"
     },
     {
       "surface": "בישועתי",
-      "english": "mi salvación"
+      "gloss": "mi salvación"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:17.536041432Z",
-  "model": "glm-4.5"
+  ]
 }

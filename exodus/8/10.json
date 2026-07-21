@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "exodus 8:10",
   "book": "exodus",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 315,
-    "prompt_tokens": 24117,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24432
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:11:48.521811649Z",
   "translation": "y ellos los juntaron ⟨את⟩ montones, y montones, y la tierra se hizo apestosa",
   "tokens": [
     {
       "surface": "ויצברו",
-      "english": "y ellos los juntaron"
+      "gloss": "y ellos los juntaron"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "montones"
     },
     {
       "surface": "חמרם",
-      "english": "montones"
+      "gloss": "montones"
     },
     {
       "surface": "חמרם",
-      "english": "montones"
+      "gloss": "montones"
     },
     {
       "surface": "ותבאש",
-      "english": "y la tierra se hizo apestosa"
+      "gloss": "y la tierra se hizo apestosa"
     },
     {
       "surface": "הארץ",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T20:11:48.521811649Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 18:3",
   "book": "job",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 27001,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27386
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:58:46.773107981Z",
   "translation": "¿Por qué somos contados ⟨como⟩ bestia, nos hemos vuelto impuros ⟨en⟩ vuestros ojos?",
   "tokens": [
     {
       "surface": "מדוע",
-      "english": "¿Por qué"
+      "gloss": "¿Por qué"
     },
     {
       "surface": "נחשבנו",
-      "english": "somos contados"
+      "gloss": "somos contados"
     },
     {
       "surface": "כבהמה",
-      "english": "⟨como⟩ bestia"
+      "gloss": "⟨como⟩ bestia"
     },
     {
       "surface": "נטמינו",
-      "english": "nos hemos vuelto impuros"
+      "gloss": "nos hemos vuelto impuros"
     },
     {
       "surface": "בעיניכם",
-      "english": "⟨en⟩ vuestros ojos"
+      "gloss": "⟨en⟩ vuestros ojos"
     }
-  ],
-  "timestamp": "2026-07-16T21:58:46.773107981Z",
-  "model": "glm-4.5"
+  ]
 }

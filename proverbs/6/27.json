@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "proverbs 6:27",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 324,
-    "prompt_tokens": 59883,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60207
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:18:04.240205021Z",
   "translation": "¿Puede ⟨un⟩ hombre llevar ⟨את⟩ fuego en su seno, y sus ropas no ser quemadas?",
   "tokens": [
     {
       "surface": "היחתה",
-      "english": "¿Puede"
+      "gloss": "¿Puede"
     },
     {
       "surface": "איש",
-      "english": "⟨un⟩ hombre"
+      "gloss": "⟨un⟩ hombre"
     },
     {
       "surface": "אש",
-      "english": "⟨את⟩ fuego",
+      "gloss": "⟨את⟩ fuego",
       "marks": "fuego"
     },
     {
       "surface": "בחיקו",
-      "english": "en su seno"
+      "gloss": "en su seno"
     },
     {
       "surface": "ובגדיו",
-      "english": "y sus ropas"
+      "gloss": "y sus ropas"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תשרפנה",
-      "english": "ser quemadas"
+      "gloss": "ser quemadas"
     }
-  ],
-  "timestamp": "2026-07-16T23:18:04.240205021Z",
-  "model": "glm-4.5"
+  ]
 }

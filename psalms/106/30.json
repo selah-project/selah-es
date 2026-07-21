@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 106:30",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69728,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70150
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:52:53.896277940Z",
   "translation": "Y se puso en pie Pinejas y ejecutó el juicio y ⟨fue⟩ contenida la plaga",
   "tokens": [
     {
       "surface": "ויעמד",
-      "english": "Y se puso en pie",
+      "gloss": "Y se puso en pie",
       "lemma": "עמד",
       "gv": 130,
       "freq": 73
     },
     {
       "surface": "פינחס",
-      "english": "Pinejas",
+      "gloss": "Pinejas",
       "lemma": "פינחס",
       "gv": 208,
       "freq": 18
     },
     {
       "surface": "ויפלל",
-      "english": "y ejecutó el juicio",
+      "gloss": "y ejecutó el juicio",
       "lemma": "פלל",
       "gv": 156,
       "freq": 1
     },
     {
       "surface": "ותעצר",
-      "english": "y ⟨fue⟩ contenida",
+      "gloss": "y ⟨fue⟩ contenida",
       "lemma": "עצר",
       "gv": 766,
       "freq": 6
     },
     {
       "surface": "המגפה",
-      "english": "la plaga",
+      "gloss": "la plaga",
       "lemma": "מגפה",
       "gv": 133,
       "freq": 12
     }
-  ],
-  "timestamp": "2026-06-09T23:52:53.896277940Z",
-  "model": "glm-4.5"
+  ]
 }

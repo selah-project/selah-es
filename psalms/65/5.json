@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 65:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70334,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70812
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:26.384217263Z",
   "translation": "¡Feliz ⟨el⟩ que tú eliges y ⟨lo⟩ acercas, ⟨quien⟩ habita en tus atrios; nos saciaremos con ⟨el⟩ bien de tu casa, ⟨el⟩ lugar santo de tu templo.",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Feliz ⟨el⟩"
+      "gloss": "¡Feliz ⟨el⟩"
     },
     {
       "surface": "תבחר",
-      "english": "que tú eliges"
+      "gloss": "que tú eliges"
     },
     {
       "surface": "ותקרב",
-      "english": "y ⟨lo⟩ acercas"
+      "gloss": "y ⟨lo⟩ acercas"
     },
     {
       "surface": "ישכן",
-      "english": "⟨quien⟩ habita"
+      "gloss": "⟨quien⟩ habita"
     },
     {
       "surface": "חצריך",
-      "english": "en tus atrios"
+      "gloss": "en tus atrios"
     },
     {
       "surface": "נשבעה",
-      "english": "nos saciaremos"
+      "gloss": "nos saciaremos"
     },
     {
       "surface": "בטוב",
-      "english": "con ⟨el⟩ bien"
+      "gloss": "con ⟨el⟩ bien"
     },
     {
       "surface": "ביתך",
-      "english": "de tu casa"
+      "gloss": "de tu casa"
     },
     {
       "surface": "קדש",
-      "english": "⟨el⟩ lugar santo"
+      "gloss": "⟨el⟩ lugar santo"
     },
     {
       "surface": "היכלך",
-      "english": "de tu templo"
+      "gloss": "de tu templo"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:26.384217263Z",
-  "model": "glm-4.5"
+  ]
 }

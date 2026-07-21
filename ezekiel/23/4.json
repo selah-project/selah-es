@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "ezekiel 23:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 23,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:31:59.749339118Z",
+  "translation": "Y los nombres de ⟨ellas eran⟩ Oholá la mayor y Oholibá su hermana; y ellas ⟨eran⟩ mías y dieron a luz hijos e hijas. Y los nombres de ⟨ellas eran⟩: Shomrón ⟨es⟩ Oholá y Jerusalem ⟨es⟩ Oholibá.",
+  "tokens": [
+    {
+      "surface": "ושמותן",
+      "gloss": "Y los nombres de"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Oholá"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "la mayor"
+    },
+    {
+      "surface": "ואהליבה",
+      "gloss": "y Oholibá"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "su hermana"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "y ellas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mías"
+    },
+    {
+      "surface": "ותלדנה",
+      "gloss": "y dieron a luz"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e hijas"
+    },
+    {
+      "surface": "ושמותן",
+      "gloss": "Y los nombres de"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomrón"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Oholá"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "y Jerusalem"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Oholibá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,84 +80,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17854,
-    "prompt_tokens_details": {
-      "cached_tokens": 15965
-    },
-    "total_tokens": 18373
-  },
-  "translation": "Y los nombres de ⟨ellas eran⟩ Oholá la mayor y Oholibá su hermana; y ellas ⟨eran⟩ mías y dieron a luz hijos e hijas. Y los nombres de ⟨ellas eran⟩: Shomrón ⟨es⟩ Oholá y Jerusalem ⟨es⟩ Oholibá.",
-  "tokens": [
-    {
-      "surface": "ושמותן",
-      "english": "Y los nombres de"
-    },
-    {
-      "surface": "אהלה",
-      "english": "Oholá"
-    },
-    {
-      "surface": "הגדולה",
-      "english": "la mayor"
-    },
-    {
-      "surface": "ואהליבה",
-      "english": "y Oholibá"
-    },
-    {
-      "surface": "אחותה",
-      "english": "su hermana"
-    },
-    {
-      "surface": "ותהיינה",
-      "english": "y ellas"
-    },
-    {
-      "surface": "לי",
-      "english": "mías"
-    },
-    {
-      "surface": "ותלדנה",
-      "english": "y dieron a luz"
-    },
-    {
-      "surface": "בנים",
-      "english": "hijos"
-    },
-    {
-      "surface": "ובנות",
-      "english": "e hijas"
-    },
-    {
-      "surface": "ושמותן",
-      "english": "Y los nombres de"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomrón"
-    },
-    {
-      "surface": "אהלה",
-      "english": "Oholá"
-    },
-    {
-      "surface": "וירושלם",
-      "english": "y Jerusalem"
-    },
-    {
-      "surface": "אהליבה",
-      "english": "Oholibá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:31:59.749339118Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

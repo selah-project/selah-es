@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 116:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69868,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70322
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:57.262213998Z",
   "translation": "A ti ⟨le⟩ sacrificaré ⟨un⟩ sacrificio de ⟨acción de gracias⟩ y en ⟨el⟩ nombre ⟨de⟩ YHWH invocaré",
   "tokens": [
     {
       "surface": "לך",
-      "english": "A ti",
+      "gloss": "A ti",
       "marks": "the prepositional phrase directs the sacrifice to YHWH"
     },
     {
       "surface": "אזבח",
-      "english": "sacrificaré",
+      "gloss": "sacrificaré",
       "marks": ""
     },
     {
       "surface": "זבח",
-      "english": "⟨un⟩ sacrificio",
+      "gloss": "⟨un⟩ sacrificio",
       "marks": "acción de gracias"
     },
     {
       "surface": "תודה",
-      "english": "⟨acción de gracias⟩",
+      "gloss": "⟨acción de gracias⟩",
       "marks": "root yadah implies praise\/thanksgiving"
     },
     {
       "surface": "ובשם",
-      "english": "y en ⟨el⟩ nombre ⟨de⟩",
+      "gloss": "y en ⟨el⟩ nombre ⟨de⟩",
       "marks": ""
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "marks": ""
     },
     {
       "surface": "אקרא",
-      "english": "invocaré",
+      "gloss": "invocaré",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:57:57.262213998Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,90 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "2-samuel 11:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 11,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:25:05.595760180Z",
+  "translation": "Y Davidd lo llamó, y comió ante ⟨él⟩ y bebió, y ⟨Davidd⟩ lo emborrachó; y salió al atardecer para acostarse en su lecho con los siervos de su señor, y a su casa no descendió.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Y...llamó"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "y...comió"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ante ⟨él⟩",
+      "marks": "Uriah"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "y...bebió"
+    },
+    {
+      "surface": "וישכרהו",
+      "gloss": "y ⟨David⟩ lo emborrachó",
+      "marks": "Uriah"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "y salió"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "al atardecer"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "para acostarse"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "en su lecho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "los siervos"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "de su señor"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "y a"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "su casa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "descendió"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,98 +94,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 584,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17817,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 18401
-  },
-  "translation": "Y Davidd lo llamó, y comió ante ⟨él⟩ y bebió, y ⟨Davidd⟩ lo emborrachó; y salió al atardecer para acostarse en su lecho con los siervos de su señor, y a su casa no descendió.",
-  "tokens": [
-    {
-      "surface": "ויקרא",
-      "english": "Y...llamó"
-    },
-    {
-      "surface": "לו",
-      "english": "lo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ויאכל",
-      "english": "y...comió"
-    },
-    {
-      "surface": "לפניו",
-      "english": "ante ⟨él⟩",
-      "marks": "Uriah"
-    },
-    {
-      "surface": "וישת",
-      "english": "y...bebió"
-    },
-    {
-      "surface": "וישכרהו",
-      "english": "y ⟨David⟩ lo emborrachó",
-      "marks": "Uriah"
-    },
-    {
-      "surface": "ויצא",
-      "english": "y salió"
-    },
-    {
-      "surface": "בערב",
-      "english": "al atardecer"
-    },
-    {
-      "surface": "לשכב",
-      "english": "para acostarse"
-    },
-    {
-      "surface": "במשכבו",
-      "english": "en su lecho"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "עבדי",
-      "english": "los siervos"
-    },
-    {
-      "surface": "אדניו",
-      "english": "de su señor"
-    },
-    {
-      "surface": "ואל",
-      "english": "y a"
-    },
-    {
-      "surface": "ביתו",
-      "english": "su casa"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "ירד",
-      "english": "descendió"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:25:05.595760180Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

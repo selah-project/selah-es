@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 154,
   "ref": "psalms 119:154",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69694,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70060
-  },
+  "verse": 154,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:25.306930173Z",
   "translation": "Defiende ⟨mi⟩ causa y redímeme; ⟨hazme⟩ revivir ⟨según⟩ tu palabra.",
   "tokens": [
     {
       "surface": "ריבה",
-      "english": "Defiende"
+      "gloss": "Defiende"
     },
     {
       "surface": "ריבי",
-      "english": "⟨mi⟩ causa",
+      "gloss": "⟨mi⟩ causa",
       "marks": "causa"
     },
     {
       "surface": "וגאלני",
-      "english": "y redímeme"
+      "gloss": "y redímeme"
     },
     {
       "surface": "לאמרתך",
-      "english": "⟨según⟩ tu palabra"
+      "gloss": "⟨según⟩ tu palabra"
     },
     {
       "surface": "חיני",
-      "english": "⟨hazme⟩ revivir"
+      "gloss": "⟨hazme⟩ revivir"
     }
-  ],
-  "timestamp": "2026-06-10T00:02:25.306930173Z",
-  "model": "glm-4.5"
+  ]
 }

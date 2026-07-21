@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "hosea 12:10",
   "book": "hosea",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26758,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 27259
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:49:37.735820136Z",
   "translation": "Y Yo, YHWH, ⟨soy⟩ tu Elohim desde ⟨la⟩ tierra de Mitsráyim, aún ⟨te⟩ haré habitar en tiendas, ⟨como en⟩ ⟨los⟩ días del ⟨tiempo señalado⟩.",
   "tokens": [
     {
       "surface": "ואנכי",
-      "english": "Y Yo"
+      "gloss": "Y Yo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיך",
-      "english": "tu Elohim"
+      "gloss": "tu Elohim"
     },
     {
       "surface": "מארץ",
-      "english": "desde ⟨la⟩ tierra"
+      "gloss": "desde ⟨la⟩ tierra"
     },
     {
       "surface": "מצרים",
-      "english": "de Mitsráyim"
+      "gloss": "de Mitsráyim"
     },
     {
       "surface": "עד",
-      "english": "aún"
+      "gloss": "aún"
     },
     {
       "surface": "אושיבך",
-      "english": "⟨te⟩ haré habitar"
+      "gloss": "⟨te⟩ haré habitar"
     },
     {
       "surface": "באהלים",
-      "english": "en tiendas"
+      "gloss": "en tiendas"
     },
     {
       "surface": "כימי",
-      "english": "⟨como en⟩ ⟨los⟩ días"
+      "gloss": "⟨como en⟩ ⟨los⟩ días"
     },
     {
       "surface": "מועד",
-      "english": "del ⟨tiempo señalado⟩"
+      "gloss": "del ⟨tiempo señalado⟩"
     }
-  ],
-  "timestamp": "2026-06-09T22:49:37.735820136Z",
-  "model": "glm-4.5"
+  ]
 }

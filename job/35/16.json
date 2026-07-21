@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 35:16",
   "book": "job",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27063,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27359
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:13:59.535459115Z",
   "translation": "Y Iyov ⟨opens⟩ su boca en ⟨vanidad⟩; ⟨él⟩ multiplica palabras sin conocimiento.",
   "tokens": [
     {
       "surface": "ואיוב",
-      "english": "Y Iyov"
+      "gloss": "Y Iyov"
     },
     {
       "surface": "הבל",
-      "english": "⟨vanidad⟩"
+      "gloss": "⟨vanidad⟩"
     },
     {
       "surface": "יפצה",
-      "english": "⟨opens⟩"
+      "gloss": "⟨opens⟩"
     },
     {
       "surface": "פיהו",
-      "english": "su boca"
+      "gloss": "su boca"
     },
     {
       "surface": "בבלי",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "דעת",
-      "english": "conocimiento"
+      "gloss": "conocimiento"
     },
     {
       "surface": "מלין",
-      "english": "palabras"
+      "gloss": "palabras"
     },
     {
       "surface": "יכבר",
-      "english": "multiplica"
+      "gloss": "multiplica"
     }
-  ],
-  "timestamp": "2026-06-10T02:13:59.535459115Z",
-  "model": "glm-4.5"
+  ]
 }

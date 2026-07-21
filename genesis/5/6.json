@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 5:6",
   "book": "genesis",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 489,
-    "prompt_tokens": 28497,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28986
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:53:17.221919006Z",
   "translation": "Y Set vivió ciento cinco años y engendró ⟨את⟩ Enosh",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "Y vivió"
+      "gloss": "Y vivió"
     },
     {
       "surface": "שת",
-      "english": "Set"
+      "gloss": "Set"
     },
     {
       "surface": "חמש",
-      "english": "cinco"
+      "gloss": "cinco"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "ומאת",
-      "english": "ciento"
+      "gloss": "ciento"
     },
     {
       "surface": "שנה",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ויולד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Enosh"
     },
     {
       "surface": "אנוש",
-      "english": "Enosh"
+      "gloss": "Enosh"
     }
-  ],
-  "timestamp": "2026-07-16T20:53:17.221919006Z",
-  "model": "glm-4.5"
+  ]
 }

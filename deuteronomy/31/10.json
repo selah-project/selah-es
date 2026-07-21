@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "deuteronomy 31:10",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 637,
-    "prompt_tokens": 25186,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 25823
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:59:12.832114579Z",
   "translation": "Y Moshé ⟨los⟩ comandó, ⟨את⟩ diciendo: ⟨al⟩ término ⟨de⟩ siete años, en ⟨el⟩ tiempo señalado, ⟨el⟩ año ⟨de⟩ la remisión, en ⟨la⟩ fiesta ⟨de⟩ Sukkot",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "Y Moshé ⟨los⟩ comandó,"
+      "gloss": "Y Moshé ⟨los⟩ comandó,"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "diciendo"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo:"
+      "gloss": "diciendo:"
     },
     {
       "surface": "מקץ",
-      "english": "⟨al⟩ término ⟨de⟩"
+      "gloss": "⟨al⟩ término ⟨de⟩"
     },
     {
       "surface": "שבע",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "שנים",
-      "english": "años,"
+      "gloss": "años,"
     },
     {
       "surface": "במעד",
-      "english": "en ⟨el⟩ tiempo señalado,"
+      "gloss": "en ⟨el⟩ tiempo señalado,"
     },
     {
       "surface": "שנת",
-      "english": "⟨el⟩ año ⟨de⟩"
+      "gloss": "⟨el⟩ año ⟨de⟩"
     },
     {
       "surface": "השמטה",
-      "english": "la remisión,"
+      "gloss": "la remisión,"
     },
     {
       "surface": "בחג",
-      "english": "en ⟨la⟩ fiesta ⟨de⟩"
+      "gloss": "en ⟨la⟩ fiesta ⟨de⟩"
     },
     {
       "surface": "הסכות",
-      "english": "Sukkot"
+      "gloss": "Sukkot"
     }
-  ],
-  "timestamp": "2026-07-16T19:59:12.832114579Z",
-  "model": "glm-4.5"
+  ]
 }

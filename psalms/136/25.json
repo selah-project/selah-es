@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 136:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69819,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70218
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:07:38.527722364Z",
   "translation": "dando alimento ⟨a⟩ ⟨toda⟩ carne porque ⟨para⟩ siempre ⟨es⟩ su misericordia",
   "tokens": [
     {
       "surface": "נתן",
-      "english": "Dando"
+      "gloss": "Dando"
     },
     {
       "surface": "לחם",
-      "english": "alimento"
+      "gloss": "alimento"
     },
     {
       "surface": "לכל",
-      "english": "⟨a⟩ ⟨toda⟩"
+      "gloss": "⟨a⟩ ⟨toda⟩"
     },
     {
       "surface": "בשר",
-      "english": "carne"
+      "gloss": "carne"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לעולם",
-      "english": "⟨para⟩ siempre"
+      "gloss": "⟨para⟩ siempre"
     },
     {
       "surface": "חסדו",
-      "english": "⟨es⟩ su misericordia"
+      "gloss": "⟨es⟩ su misericordia"
     }
-  ],
-  "timestamp": "2026-06-10T00:07:38.527722364Z",
-  "model": "glm-4.5"
+  ]
 }

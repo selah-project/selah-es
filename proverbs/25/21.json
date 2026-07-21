@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "proverbs 25:21",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60022,
-    "prompt_tokens_details": {
-      "cached_tokens": 58131
-    },
-    "total_tokens": 60558
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:48:57.759607677Z",
   "translation": "Si ⟨el que⟩ te odia ⟨está⟩ hambriento, dale ⟨de comer⟩ pan ⟨את⟩, y si ⟨está⟩ sediento, dale ⟨de beber⟩ agua ⟨את⟩",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "רעב",
-      "english": "⟨el que⟩ te odia ⟨está⟩ hambriento"
+      "gloss": "⟨el que⟩ te odia ⟨está⟩ hambriento"
     },
     {
       "surface": "שנאך",
-      "english": "⟨el que⟩ te odia"
+      "gloss": "⟨el que⟩ te odia"
     },
     {
       "surface": "האכלהו",
-      "english": "dale ⟨de comer⟩"
+      "gloss": "dale ⟨de comer⟩"
     },
     {
       "surface": "לחם",
-      "english": "pan",
+      "gloss": "pan",
       "marks": "pan ⟨את⟩"
     },
     {
       "surface": "ואם",
-      "english": "y si"
+      "gloss": "y si"
     },
     {
       "surface": "צמא",
-      "english": "⟨está⟩ sediento"
+      "gloss": "⟨está⟩ sediento"
     },
     {
       "surface": "השקהו",
-      "english": "dale ⟨de beber⟩"
+      "gloss": "dale ⟨de beber⟩"
     },
     {
       "surface": "מים",
-      "english": "agua",
+      "gloss": "agua",
       "marks": "agua ⟨את⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:48:57.759607677Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 140:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70165,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70684
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:09:15.958421556Z",
   "translation": "Han aguzado sus lenguas ⟨como⟩ ⟨una⟩ serpiente; veneno de áspid ⟨está⟩ debajo de ⟨sus⟩ labios. Selah",
   "tokens": [
     {
       "surface": "שננו",
-      "english": "Han aguzado"
+      "gloss": "Han aguzado"
     },
     {
       "surface": "לשונם",
-      "english": "sus lenguas"
+      "gloss": "sus lenguas"
     },
     {
       "surface": "כמו",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "נחש",
-      "english": "⟨una⟩ serpiente"
+      "gloss": "⟨una⟩ serpiente"
     },
     {
       "surface": "חמת",
-      "english": "veneno"
+      "gloss": "veneno"
     },
     {
       "surface": "עכשוב",
-      "english": "de áspid"
+      "gloss": "de áspid"
     },
     {
       "surface": "תחת",
-      "english": "debajo de"
+      "gloss": "debajo de"
     },
     {
       "surface": "שפתימו",
-      "english": "⟨sus⟩ labios"
+      "gloss": "⟨sus⟩ labios"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-10T00:09:15.958421556Z",
-  "model": "glm-4.5"
+  ]
 }

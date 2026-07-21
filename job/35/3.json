@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 35:3",
   "book": "job",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27132,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27492
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:13:46.376163760Z",
   "translation": "Porque tú dices: ¿Qué provecho ⟨es⟩ para ⟨el⟩? ⟨Y⟩ ¿qué aprovecharé ⟨de⟩ mi pecado?",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "תאמר",
-      "english": "tú dices"
+      "gloss": "tú dices"
     },
     {
       "surface": "מה",
-      "english": "¿Qué provecho"
+      "gloss": "¿Qué provecho"
     },
     {
       "surface": "יסכן",
-      "english": "⟨es⟩ para ⟨el⟩"
+      "gloss": "⟨es⟩ para ⟨el⟩"
     },
     {
       "surface": "לך",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "מה",
-      "english": "⟨Y⟩ ¿qué aprovecharé"
+      "gloss": "⟨Y⟩ ¿qué aprovecharé"
     },
     {
       "surface": "אעיל",
-      "english": "aprovecharé"
+      "gloss": "aprovecharé"
     },
     {
       "surface": "מחטאתי",
-      "english": "⟨de⟩ mi pecado"
+      "gloss": "⟨de⟩ mi pecado"
     }
-  ],
-  "timestamp": "2026-06-10T02:13:46.376163760Z",
-  "model": "glm-4.5"
+  ]
 }

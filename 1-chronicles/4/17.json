@@ -1,9 +1,79 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-chronicles 4:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 4,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:30:18.958023169Z",
+  "translation": "Y los hijos de Ezrah ⟨fueron⟩ Jether, y Mered, y Epher, y Jalón; y ella concibió ⟨a⟩ Miryam ⟨y⟩ ⟨a⟩ Shamai ⟨y⟩ ⟨a⟩ Ishbaj, padre de Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Y los hijos de"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jether"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "y Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "y Epher"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "y Jalón"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "y ella concibió"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Miriam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨y⟩ ⟨a⟩",
+      "marks": "Shamai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shamai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨y⟩ ⟨a⟩",
+      "marks": "Ishbaj"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Ishbaj"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre de"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Miriam",
@@ -13,87 +83,6 @@
       "hebrew": "מרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 677,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57611,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 58288
-  },
-  "translation": "Y los hijos de Ezrah ⟨fueron⟩ Jether, y Mered, y Epher, y Jalón; y ella concibió ⟨a⟩ Miryam ⟨y⟩ ⟨a⟩ Shamai ⟨y⟩ ⟨a⟩ Ishbaj, padre de Eshtemoa.",
-  "tokens": [
-    {
-      "surface": "ובן",
-      "english": "Y los hijos de"
-    },
-    {
-      "surface": "עזרה",
-      "english": "Ezrah"
-    },
-    {
-      "surface": "יתר",
-      "english": "Jether"
-    },
-    {
-      "surface": "ומרד",
-      "english": "y Mered"
-    },
-    {
-      "surface": "ועפר",
-      "english": "y Epher"
-    },
-    {
-      "surface": "וילון",
-      "english": "y Jalón"
-    },
-    {
-      "surface": "ותהר",
-      "english": "y ella concibió"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Miriam"
-    },
-    {
-      "surface": "מרים",
-      "english": "Miryam"
-    },
-    {
-      "surface": "ואת",
-      "english": "⟨y⟩ ⟨a⟩",
-      "marks": "Shamai"
-    },
-    {
-      "surface": "שמי",
-      "english": "Shamai"
-    },
-    {
-      "surface": "ואת",
-      "english": "⟨y⟩ ⟨a⟩",
-      "marks": "Ishbaj"
-    },
-    {
-      "surface": "ישבח",
-      "english": "Ishbaj"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre de"
-    },
-    {
-      "surface": "אשתמע",
-      "english": "Eshtemoa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:30:18.958023169Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

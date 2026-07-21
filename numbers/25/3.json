@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "numbers 25:3",
   "book": "numbers",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25049,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25414
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:00:00.602147799Z",
   "translation": "Y Israel se unió al Baal de Peor; y ⟨el⟩ ardor de la nariz de YHWH se encendió contra Israel",
   "tokens": [
     {
       "surface": "ויצמד",
-      "english": "Y... se unió"
+      "gloss": "Y... se unió"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "לבעל",
-      "english": "al Baal"
+      "gloss": "al Baal"
     },
     {
       "surface": "פעור",
-      "english": "de Peor"
+      "gloss": "de Peor"
     },
     {
       "surface": "ויחר",
-      "english": "y... se encendió"
+      "gloss": "y... se encendió"
     },
     {
       "surface": "אף",
-      "english": "la nariz"
+      "gloss": "la nariz"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בישראל",
-      "english": "contra Israel"
+      "gloss": "contra Israel"
     }
-  ],
-  "timestamp": "2026-06-10T05:00:00.602147799Z",
-  "model": "glm-4.5"
+  ]
 }

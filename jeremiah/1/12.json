@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "jeremiah 1:12",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24702,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25264
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:03:58.619016890Z",
   "translation": "Y YHWH me dijo: ⟨Has⟩ bien visto ⟨porque⟩ Yo ⟨estoy⟩ velando ⟨sobre⟩ mi palabra ⟨para⟩ hacerla ⟨hecha⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y YHWH me dijo"
+      "gloss": "Y YHWH me dijo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלי",
-      "english": "me"
+      "gloss": "me"
     },
     {
       "surface": "היטבת",
-      "english": "⟨Has⟩ bien visto"
+      "gloss": "⟨Has⟩ bien visto"
     },
     {
       "surface": "לראות",
-      "english": "bien visto"
+      "gloss": "bien visto"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "שקד",
-      "english": "⟨estoy⟩ velando"
+      "gloss": "⟨estoy⟩ velando"
     },
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "דברי",
-      "english": "mi palabra"
+      "gloss": "mi palabra"
     },
     {
       "surface": "לעשתו",
-      "english": "⟨para⟩ hacerla ⟨hecha⟩"
+      "gloss": "⟨para⟩ hacerla ⟨hecha⟩"
     }
-  ],
-  "timestamp": "2026-06-10T03:03:58.619016890Z",
-  "model": "glm-4.5"
+  ]
 }

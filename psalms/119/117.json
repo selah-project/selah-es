@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 117,
   "ref": "psalms 119:117",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 270,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69709,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69979
-  },
+  "verse": 117,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:19.189635650Z",
   "translation": "Sosténme y ⟨seré⟩ salvado y respetaré tus estatutos ⟨את⟩ continuamente",
   "tokens": [
     {
       "surface": "סעדני",
-      "english": "Sosténme"
+      "gloss": "Sosténme"
     },
     {
       "surface": "ואושעה",
-      "english": "y ⟨seré⟩ salvado"
+      "gloss": "y ⟨seré⟩ salvado"
     },
     {
       "surface": "ואשעה",
-      "english": "y respetaré"
+      "gloss": "y respetaré"
     },
     {
       "surface": "בחקיך",
-      "english": "tus estatutos"
+      "gloss": "tus estatutos"
     },
     {
       "surface": "תמיד",
-      "english": "continuamente"
+      "gloss": "continuamente"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:19.189635650Z",
-  "model": "glm-4.5"
+  ]
 }

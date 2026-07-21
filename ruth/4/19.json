@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "ruth 4:19",
   "book": "ruth",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 28198,
-    "prompt_tokens_details": {
-      "cached_tokens": 27008
-    },
-    "total_tokens": 28573
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:48:07.448139573Z",
   "translation": "y Jetzrón engendró ⟨את⟩ Ram, y Ram engendró ⟨את⟩ Aminadav",
   "tokens": [
     {
       "surface": "וחצרון",
-      "english": "y Jetzrón"
+      "gloss": "y Jetzrón"
     },
     {
       "surface": "הוליד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Ram"
     },
     {
       "surface": "רם",
-      "english": "Ram"
+      "gloss": "Ram"
     },
     {
       "surface": "ורם",
-      "english": "y Ram"
+      "gloss": "y Ram"
     },
     {
       "surface": "הוליד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aminadav"
     },
     {
       "surface": "עמינדב",
-      "english": "Aminadav"
+      "gloss": "Aminadav"
     }
-  ],
-  "timestamp": "2026-07-16T23:48:07.448139573Z",
-  "model": "glm-4.5"
+  ]
 }

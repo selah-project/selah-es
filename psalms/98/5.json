@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 98:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69788,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70224
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:47:53.815349147Z",
   "translation": "Tocad ⟨para⟩ YHWH con ⟨la⟩ cítara, ⟨con⟩ ⟨la⟩ cítara y ⟨la⟩ voz de ⟨una⟩ melodía.",
   "tokens": [
     {
       "surface": "זמרו",
-      "english": "Tocad"
+      "gloss": "Tocad"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨para⟩ YHWH"
+      "gloss": "⟨para⟩ YHWH"
     },
     {
       "surface": "בכנור",
-      "english": "con ⟨la⟩ cítara"
+      "gloss": "con ⟨la⟩ cítara"
     },
     {
       "surface": "בכנור",
-      "english": "⟨con⟩ ⟨la⟩ cítara"
+      "gloss": "⟨con⟩ ⟨la⟩ cítara"
     },
     {
       "surface": "וקול",
-      "english": "y ⟨la⟩ voz de"
+      "gloss": "y ⟨la⟩ voz de"
     },
     {
       "surface": "זמרה",
-      "english": "⟨una⟩ melodía"
+      "gloss": "⟨una⟩ melodía"
     }
-  ],
-  "timestamp": "2026-06-09T23:47:53.815349147Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 18:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28583,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29028
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:14:48.661242990Z",
   "translation": "Y YHWH se apareció a él en los robles de Mamre, y él ⟨estaba⟩ sentado ⟨a⟩ la entrada de ⟨la⟩ tienda ⟨en⟩ el calor del día",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y se apareció"
+      "gloss": "Y se apareció"
     },
     {
       "surface": "אליו",
-      "english": "a él"
+      "gloss": "a él"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "באלני",
-      "english": "en los robles de"
+      "gloss": "en los robles de"
     },
     {
       "surface": "ממרא",
-      "english": "Mamre"
+      "gloss": "Mamre"
     },
     {
       "surface": "והוא",
-      "english": "y él"
+      "gloss": "y él"
     },
     {
       "surface": "ישב",
-      "english": "⟨estaba⟩ sentado"
+      "gloss": "⟨estaba⟩ sentado"
     },
     {
       "surface": "פתח",
-      "english": "⟨a⟩ la entrada"
+      "gloss": "⟨a⟩ la entrada"
     },
     {
       "surface": "האהל",
-      "english": "de ⟨la⟩ tienda"
+      "gloss": "de ⟨la⟩ tienda"
     },
     {
       "surface": "כחם",
-      "english": "⟨en⟩ el calor"
+      "gloss": "⟨en⟩ el calor"
     },
     {
       "surface": "היום",
-      "english": "del día"
+      "gloss": "del día"
     }
-  ],
-  "timestamp": "2026-06-10T05:14:48.661242990Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 13:4",
   "book": "genesis",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28689,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29112
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:11:38.349763559Z",
   "translation": "Hacia el lugar ⟨del⟩ altar que ⟨él⟩ había hecho allí ⟨en⟩ ⟨el⟩ principio, y allí llamó Avram ⟨en⟩ ⟨el⟩ nombre de YHWH.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Hacia"
+      "gloss": "Hacia"
     },
     {
       "surface": "מקום",
-      "english": "el lugar"
+      "gloss": "el lugar"
     },
     {
       "surface": "המזבח",
-      "english": "⟨del⟩ altar",
+      "gloss": "⟨del⟩ altar",
       "marks": "el altar"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "עשה",
-      "english": "había hecho"
+      "gloss": "había hecho"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "בראשנה",
-      "english": "⟨en⟩ ⟨el⟩ principio"
+      "gloss": "⟨en⟩ ⟨el⟩ principio"
     },
     {
       "surface": "ויקרא",
-      "english": "y allí llamó"
+      "gloss": "y allí llamó"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "אברם",
-      "english": "Avram"
+      "gloss": "Avram"
     },
     {
       "surface": "בשם",
-      "english": "⟨en⟩ ⟨el⟩ nombre",
+      "gloss": "⟨en⟩ ⟨el⟩ nombre",
       "marks": "el nombre"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T05:11:38.349763559Z",
-  "model": "glm-4.5"
+  ]
 }

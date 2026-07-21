@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 112:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 112,
-  "usage": {
-    "completion_tokens": 706,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69945,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70651
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:15.595637016Z",
   "translation": "Bueno ⟨es⟩ ⟨el⟩ hombre ⟨que es⟩ gracioso y prestamista, guiará ⟨sus⟩ asuntos con ⟨un⟩ juicio ⟨justo⟩.",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "Bueno",
+      "gloss": "Bueno",
       "gv": 17,
       "freq": 300,
       "lemma": 2896,
@@ -28,7 +19,7 @@
     },
     {
       "surface": "איש",
-      "english": "⟨el⟩ hombre",
+      "gloss": "⟨el⟩ hombre",
       "gv": 311,
       "freq": 1130,
       "lemma": 376,
@@ -36,7 +27,7 @@
     },
     {
       "surface": "חונן",
-      "english": "⟨que es⟩ gracioso",
+      "gloss": "⟨que es⟩ gracioso",
       "gv": 114,
       "freq": 5,
       "lemma": 2603,
@@ -44,7 +35,7 @@
     },
     {
       "surface": "ומלוה",
-      "english": "y prestamista",
+      "gloss": "y prestamista",
       "gv": 87,
       "freq": 2,
       "lemma": 3867,
@@ -52,7 +43,7 @@
     },
     {
       "surface": "יכלכל",
-      "english": "guiará",
+      "gloss": "guiará",
       "gv": 110,
       "freq": 3,
       "lemma": 3557,
@@ -60,7 +51,7 @@
     },
     {
       "surface": "דבריו",
-      "english": "⟨sus⟩ asuntos",
+      "gloss": "⟨sus⟩ asuntos",
       "gv": 222,
       "freq": 21,
       "lemma": 1697,
@@ -68,13 +59,11 @@
     },
     {
       "surface": "במשפט",
-      "english": "con ⟨un⟩ juicio ⟨justo⟩",
+      "gloss": "con ⟨un⟩ juicio ⟨justo⟩",
       "gv": 431,
       "freq": 28,
       "lemma": 4941,
       "books": 10
     }
-  ],
-  "timestamp": "2026-06-09T23:56:15.595637016Z",
-  "model": "glm-4.5"
+  ]
 }

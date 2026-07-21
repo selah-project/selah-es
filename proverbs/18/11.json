@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "proverbs 18:11",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59865,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60280
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:42:29.279094253Z",
   "translation": "La riqueza ⟨de⟩ ⟨el⟩ rico es ciudad amurallada ⟨de⟩ su fortaleza, y como un muro alto ⟨en⟩ su propia imaginación.",
   "tokens": [
     {
       "surface": "הון",
-      "english": "La riqueza",
+      "gloss": "La riqueza",
       "marks": "La riqueza ⟨de⟩ ⟨el⟩ rico"
     },
     {
       "surface": "עשיר",
-      "english": "⟨de⟩ ⟨el⟩ rico"
+      "gloss": "⟨de⟩ ⟨el⟩ rico"
     },
     {
       "surface": "קרית",
-      "english": "ciudad amurallada",
+      "gloss": "ciudad amurallada",
       "marks": "ciudad amurallada ⟨de⟩ su fortaleza"
     },
     {
       "surface": "עזו",
-      "english": "⟨de⟩ su fortaleza"
+      "gloss": "⟨de⟩ su fortaleza"
     },
     {
       "surface": "וכחומה",
-      "english": "y como un muro alto"
+      "gloss": "y como un muro alto"
     },
     {
       "surface": "נשגבה",
-      "english": "alto"
+      "gloss": "alto"
     },
     {
       "surface": "במשכיתו",
-      "english": "⟨en⟩ su propia imaginación"
+      "gloss": "⟨en⟩ su propia imaginación"
     }
-  ],
-  "timestamp": "2026-06-10T01:42:29.279094253Z",
-  "model": "glm-4.5"
+  ]
 }

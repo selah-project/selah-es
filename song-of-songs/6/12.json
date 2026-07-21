@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "song-of-songs 6:12",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27466,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27827
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:38:11.743907236Z",
   "translation": "No ⟨fui⟩ consciente mi alma me hizo ⟨como⟩ ⟨los⟩ carros de mi pueblo ⟨un⟩ príncipe.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "ידעתי",
-      "english": "⟨fui⟩ consciente"
+      "gloss": "⟨fui⟩ consciente"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "שמתני",
-      "english": "me hizo"
+      "gloss": "me hizo"
     },
     {
       "surface": "מרכבות",
-      "english": "⟨como⟩ ⟨los⟩ carros"
+      "gloss": "⟨como⟩ ⟨los⟩ carros"
     },
     {
       "surface": "עמי",
-      "english": "de mi pueblo"
+      "gloss": "de mi pueblo"
     },
     {
       "surface": "נדיב",
-      "english": "⟨un⟩ príncipe"
+      "gloss": "⟨un⟩ príncipe"
     }
-  ],
-  "timestamp": "2026-06-09T22:38:11.743907236Z",
-  "model": "glm-4.5"
+  ]
 }

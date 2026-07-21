@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 34:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 34,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:39:00.376242242Z",
+  "translation": "Y ⟨en las⟩ ciudades de Menashé ⟨y⟩ Efraín ⟨y⟩ Simeón ⟨y hasta⟩ Naftalí ⟨en⟩ las ruinas de sus casas ⟨al⟩ rededor",
+  "tokens": [
+    {
+      "surface": "ובערי",
+      "gloss": "Y ⟨en las⟩ ciudades"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "de Menashé"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "⟨y⟩ Efraín"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "⟨y⟩ Simeón"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨y hasta⟩"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalí"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨en⟩ las ruinas"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "de sus casas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "⟨al⟩ rededor"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manasés",
@@ -20,60 +63,6 @@
       "hebrew": "נפתלי"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57929,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58493
-  },
-  "translation": "Y ⟨en las⟩ ciudades de Menashé ⟨y⟩ Efraín ⟨y⟩ Simeón ⟨y hasta⟩ Naftalí ⟨en⟩ las ruinas de sus casas ⟨al⟩ rededor",
-  "tokens": [
-    {
-      "surface": "ובערי",
-      "english": "Y ⟨en las⟩ ciudades"
-    },
-    {
-      "surface": "מנשה",
-      "english": "de Menashé"
-    },
-    {
-      "surface": "ואפרים",
-      "english": "⟨y⟩ Efraín"
-    },
-    {
-      "surface": "ושמעון",
-      "english": "⟨y⟩ Simeón"
-    },
-    {
-      "surface": "ועד",
-      "english": "⟨y hasta⟩"
-    },
-    {
-      "surface": "נפתלי",
-      "english": "Naftalí"
-    },
-    {
-      "surface": "בהר",
-      "english": "⟨en⟩ las ruinas"
-    },
-    {
-      "surface": "בתיהם",
-      "english": "de sus casas"
-    },
-    {
-      "surface": "סביב",
-      "english": "⟨al⟩ rededor"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:39:00.376242242Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

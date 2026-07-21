@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "hosea 13:7",
   "book": "hosea",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26474,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26965
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:49:50.927147090Z",
   "translation": "Por ⟨el⟩ seré a ⟨ellos⟩ como león, ⟨como⟩ leopardo ⟨sobre⟩ ⟨el⟩ camino acecharé.",
   "tokens": [
     {
       "surface": "ואהי",
-      "english": "Por ⟨el⟩ seré",
+      "gloss": "Por ⟨el⟩ seré",
       "marks": "la existencia o presencia"
     },
     {
       "surface": "להם",
-      "english": "a ⟨ellos⟩",
+      "gloss": "a ⟨ellos⟩",
       "marks": "ellos"
     },
     {
       "surface": "כמו",
-      "english": "⟨como⟩",
+      "gloss": "⟨como⟩",
       "marks": "león"
     },
     {
       "surface": "שחל",
-      "english": "león",
+      "gloss": "león",
       "marks": ""
     },
     {
       "surface": "כנמר",
-      "english": "leopardo",
+      "gloss": "leopardo",
       "marks": ""
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩",
+      "gloss": "⟨sobre⟩",
       "marks": "el camino"
     },
     {
       "surface": "דרך",
-      "english": "⟨el⟩ camino",
+      "gloss": "⟨el⟩ camino",
       "marks": ""
     },
     {
       "surface": "אשור",
-      "english": "acecharé",
+      "gloss": "acecharé",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T22:49:50.927147090Z",
-  "model": "glm-4.5"
+  ]
 }

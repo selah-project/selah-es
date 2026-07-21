@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 11:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 639,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70436,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71075
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:02:04.959358698Z",
   "translation": "YHWH ⟨está⟩ en su palacio santo, YHWH en ⟨los⟩ cielos ⟨está⟩ su trono; sus ojos ven, sus párpados ⟨son⟩ ⟨los que⟩ prueban ⟨a⟩ los hijos de Adam.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בהיכל",
-      "english": "en su palacio"
+      "gloss": "en su palacio"
     },
     {
       "surface": "קדשו",
-      "english": "santo"
+      "gloss": "santo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בשמים",
-      "english": "en los cielos"
+      "gloss": "en los cielos"
     },
     {
       "surface": "כסאו",
-      "english": "su trono"
+      "gloss": "su trono"
     },
     {
       "surface": "עיניו",
-      "english": "sus ojos"
+      "gloss": "sus ojos"
     },
     {
       "surface": "יחזו",
-      "english": "ven"
+      "gloss": "ven"
     },
     {
       "surface": "עפעפיו",
-      "english": "sus párpados"
+      "gloss": "sus párpados"
     },
     {
       "surface": "יבחנו",
-      "english": "son los que prueban"
+      "gloss": "son los que prueban"
     },
     {
       "surface": "בני",
-      "english": "los hijos"
+      "gloss": "los hijos"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-06-09T23:02:04.959358698Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 37:24",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69949,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70294
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:43.575705312Z",
   "translation": "Though he fall, he shall not be utterly cast down, for YHWH is sustaining ⟨his⟩ hand ⟨with⟩ ⟨his⟩ hand.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Though"
+      "gloss": "Though"
     },
     {
       "surface": "יפל",
-      "english": "he fall"
+      "gloss": "he fall"
     },
     {
       "surface": "לא",
-      "english": "he shall not be utterly"
+      "gloss": "he shall not be utterly"
     },
     {
       "surface": "יוטל",
-      "english": "cast down"
+      "gloss": "cast down"
     },
     {
       "surface": "כי",
-      "english": "for"
+      "gloss": "for"
     },
     {
       "surface": "י�הוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "סומך",
-      "english": "is sustaining"
+      "gloss": "is sustaining"
     },
     {
       "surface": "ידו",
-      "english": "⟨his⟩ hand",
+      "gloss": "⟨his⟩ hand",
       "marks": "⟨his⟩ hand"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:43.575705312Z",
-  "model": "glm-4.5"
+  ]
 }

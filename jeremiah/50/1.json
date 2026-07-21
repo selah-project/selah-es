@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 50:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "jeremiah",
+  "chapter": 50,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:10:18.618442392Z",
+  "translation": "La palabra que YHWH habló ⟨sobre⟩ Bavel ⟨y⟩ ⟨sobre⟩ la tierra de los caldeos por mano de Irmeyahu, ⟨el⟩ profeta:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "La palabra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "habló"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sobre⟩",
+      "marks": "Babel"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨y⟩",
+      "marks": "la tierra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ tierra"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "de los caldeos"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "por mano"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "de Irmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨el⟩ profeta"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Babel",
@@ -13,74 +70,6 @@
       "hebrew": "בבל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 50,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17392,
-    "prompt_tokens_details": {
-      "cached_tokens": 16048
-    },
-    "total_tokens": 17849
-  },
-  "translation": "La palabra que YHWH habló ⟨sobre⟩ Bavel ⟨y⟩ ⟨sobre⟩ la tierra de los caldeos por mano de Irmeyahu, ⟨el⟩ profeta:",
-  "tokens": [
-    {
-      "surface": "הדבר",
-      "english": "La palabra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "דבר",
-      "english": "habló"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨sobre⟩",
-      "marks": "Babel"
-    },
-    {
-      "surface": "בבל",
-      "english": "Bavel"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨y⟩",
-      "marks": "la tierra"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
-    },
-    {
-      "surface": "כשדים",
-      "english": "de los caldeos"
-    },
-    {
-      "surface": "ביד",
-      "english": "por mano"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "de Irmeyahu"
-    },
-    {
-      "surface": "הנביא",
-      "english": "⟨el⟩ profeta"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:10:18.618442392Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

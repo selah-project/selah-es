@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "psalms 68:35",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 442,
-    "prompt_tokens": 70131,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70573
-  },
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:32:45.591181163Z",
   "translation": "Dad fortaleza ⟨a⟩ Elohim, sobre Yisrael ⟨es⟩ su majestad y su poder en las nubes.",
   "tokens": [
     {
       "surface": "תנו",
-      "english": "Dad"
+      "gloss": "Dad"
     },
     {
       "surface": "עז",
-      "english": "fortaleza"
+      "gloss": "fortaleza"
     },
     {
       "surface": "לאלהים",
-      "english": "⟨a⟩ Elohim"
+      "gloss": "⟨a⟩ Elohim"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "גאותו",
-      "english": "⟨es⟩ su majestad"
+      "gloss": "⟨es⟩ su majestad"
     },
     {
       "surface": "ועזו",
-      "english": "y su poder"
+      "gloss": "y su poder"
     },
     {
       "surface": "בשחקים",
-      "english": "en las nubes"
+      "gloss": "en las nubes"
     }
-  ],
-  "timestamp": "2026-07-16T23:32:45.591181163Z",
-  "model": "glm-4.5"
+  ]
 }

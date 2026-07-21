@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 49:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69722,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70131
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:21:15.829004954Z",
   "translation": "El hombre ⟨en⟩ honor y no ⟨lo⟩ entiende ⟨es⟩ como las bestias que perecen",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "El hombre"
+      "gloss": "El hombre"
     },
     {
       "surface": "ביקר",
-      "english": "⟨en⟩ honor",
+      "gloss": "⟨en⟩ honor",
       "marks": "honor"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יבין",
-      "english": "⟨lo⟩ entiende",
+      "gloss": "⟨lo⟩ entiende",
       "marks": "lo"
     },
     {
       "surface": "נמשל",
-      "english": "⟨es⟩ como",
+      "gloss": "⟨es⟩ como",
       "marks": "como"
     },
     {
       "surface": "כבהמות",
-      "english": "las bestias"
+      "gloss": "las bestias"
     },
     {
       "surface": "נדמו",
-      "english": "que perecen"
+      "gloss": "que perecen"
     }
-  ],
-  "timestamp": "2026-06-09T23:21:15.829004954Z",
-  "model": "glm-4.5"
+  ]
 }

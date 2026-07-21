@@ -1,42 +1,31 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "lamentations 3:6",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38808,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39100
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:41:25.869493576Z",
   "translation": "En las tinieblas ⟨el⟩ me hizo habitar como ⟨los⟩ muertos de antaño.",
   "tokens": [
     {
       "surface": "במחשכים",
-      "english": "En las tinieblas"
+      "gloss": "En las tinieblas"
     },
     {
       "surface": "הושיבני",
-      "english": "⟨el⟩ me hizo habitar",
+      "gloss": "⟨el⟩ me hizo habitar",
       "marks": "toda la frase precedente"
     },
     {
       "surface": "כמתי",
-      "english": "como ⟨los⟩ muertos",
+      "gloss": "como ⟨los⟩ muertos",
       "marks": "muertos de antaño"
     },
     {
       "surface": "עולם",
-      "english": "de antaño"
+      "gloss": "de antaño"
     }
-  ],
-  "timestamp": "2026-06-09T22:41:25.869493576Z",
-  "model": "glm-4.5"
+  ]
 }

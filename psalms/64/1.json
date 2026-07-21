@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 64:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 160,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69554,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 69714
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:03.694703779Z",
   "translation": "Para ⟨el⟩ director ⟨del⟩ coro. Un salmo a David.",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Para ⟨el⟩ director ⟨del⟩ coro"
+      "gloss": "Para ⟨el⟩ director ⟨del⟩ coro"
     },
     {
       "surface": "מזמור",
-      "english": "Un salmo"
+      "gloss": "Un salmo"
     },
     {
       "surface": "לדוד",
-      "english": "a David"
+      "gloss": "a David"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:03.694703779Z",
-  "model": "glm-4.5"
+  ]
 }

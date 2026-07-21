@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "exodus 24:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 24,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:56:26.544963895Z",
+  "translation": "Y la apariencia de la gloria de YHWH ⟨era⟩ como fuego consumidor en ⟨la⟩ cima del monte a ⟨los⟩ ojos de ⟨los⟩ hijos de Yisrael",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "Y la apariencia"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "de la gloria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "como fuego"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "consumidor"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "en ⟨la⟩ cima"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "del monte"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "a ⟨los⟩ ojos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de ⟨los⟩ hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,64 +60,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16759,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 17160
-  },
-  "translation": "Y la apariencia de la gloria de YHWH ⟨era⟩ como fuego consumidor en ⟨la⟩ cima del monte a ⟨los⟩ ojos de ⟨los⟩ hijos de Yisrael",
-  "tokens": [
-    {
-      "surface": "ומראה",
-      "english": "Y la apariencia"
-    },
-    {
-      "surface": "כבוד",
-      "english": "de la gloria"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "כאש",
-      "english": "como fuego"
-    },
-    {
-      "surface": "אכלת",
-      "english": "consumidor"
-    },
-    {
-      "surface": "בראש",
-      "english": "en ⟨la⟩ cima"
-    },
-    {
-      "surface": "ההר",
-      "english": "del monte"
-    },
-    {
-      "surface": "לעיני",
-      "english": "a ⟨los⟩ ojos"
-    },
-    {
-      "surface": "בני",
-      "english": "de ⟨los⟩ hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:56:26.544963895Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

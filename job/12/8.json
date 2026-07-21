@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 12:8",
   "book": "job",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27093,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27528
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:35.721578384Z",
   "translation": "O habla ⟨a⟩ la tierra, y ella ⟨te⟩ enseñará, y ⟨los⟩ peces ⟨del⟩ mar ⟨te⟩ contarán.",
   "tokens": [
     {
       "surface": "או",
-      "english": "O"
+      "gloss": "O"
     },
     {
       "surface": "שיח",
-      "english": "habla"
+      "gloss": "habla"
     },
     {
       "surface": "לארץ",
-      "english": "⟨a⟩ la tierra"
+      "gloss": "⟨a⟩ la tierra"
     },
     {
       "surface": "ותרך",
-      "english": "y ella ⟨te⟩ enseñará"
+      "gloss": "y ella ⟨te⟩ enseñará"
     },
     {
       "surface": "ויספרו",
-      "english": "y ⟨los⟩ peces"
+      "gloss": "y ⟨los⟩ peces"
     },
     {
       "surface": "לך",
-      "english": "⟨del⟩ mar ⟨te⟩ contarán"
+      "gloss": "⟨del⟩ mar ⟨te⟩ contarán"
     },
     {
       "surface": "דגי",
-      "english": "⟨del⟩ mar"
+      "gloss": "⟨del⟩ mar"
     },
     {
       "surface": "הים",
-      "english": "⟨del⟩ mar ⟨te⟩ contarán"
+      "gloss": "⟨del⟩ mar ⟨te⟩ contarán"
     }
-  ],
-  "timestamp": "2026-06-10T01:59:35.721578384Z",
-  "model": "glm-4.5"
+  ]
 }

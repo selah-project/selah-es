@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 59:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69885,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70259
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:26:21.614574923Z",
   "translation": "Y tú, YHWH, ⟨se⟩ reirás ⟨de⟩ ellos; ⟨te⟩ burlarás ⟨de⟩ todas ⟨las⟩ naciones",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Y tú"
+      "gloss": "Y tú"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "תשחק",
-      "english": "⟨se⟩ reirás"
+      "gloss": "⟨se⟩ reirás"
     },
     {
       "surface": "למו",
-      "english": "⟨de⟩ ellos"
+      "gloss": "⟨de⟩ ellos"
     },
     {
       "surface": "תלעג",
-      "english": "⟨te⟩ burlarás"
+      "gloss": "⟨te⟩ burlarás"
     },
     {
       "surface": "לכל",
-      "english": "⟨de⟩ todas"
+      "gloss": "⟨de⟩ todas"
     },
     {
       "surface": "גוים",
-      "english": "⟨las⟩ naciones"
+      "gloss": "⟨las⟩ naciones"
     }
-  ],
-  "timestamp": "2026-06-09T23:26:21.614574923Z",
-  "model": "glm-4.5"
+  ]
 }

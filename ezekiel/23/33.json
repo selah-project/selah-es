@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "ezekiel 23:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 23,
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:32:48.047562083Z",
+  "translation": "De borrachera y de lamento te llenarás, ⟨con⟩ la copa ⟨de⟩ espanto y ⟨de⟩ asolamiento, la copa de tu hermana Shomrón.",
+  "tokens": [
+    {
+      "surface": "שכרון",
+      "gloss": "De borrachera"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "y de lamento"
+    },
+    {
+      "surface": "תמלאי",
+      "gloss": "te llenarás"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "⟨con⟩ la copa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨de⟩ espanto"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "y ⟨de⟩ asolamiento"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "la copa"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "de tu hermana"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomrón"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,60 +56,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17198,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17674
-  },
-  "translation": "De borrachera y de lamento te llenarás, ⟨con⟩ la copa ⟨de⟩ espanto y ⟨de⟩ asolamiento, la copa de tu hermana Shomrón.",
-  "tokens": [
-    {
-      "surface": "שכרון",
-      "english": "De borrachera"
-    },
-    {
-      "surface": "ויגון",
-      "english": "y de lamento"
-    },
-    {
-      "surface": "תמלאי",
-      "english": "te llenarás"
-    },
-    {
-      "surface": "כוס",
-      "english": "⟨con⟩ la copa"
-    },
-    {
-      "surface": "שמה",
-      "english": "⟨de⟩ espanto"
-    },
-    {
-      "surface": "ושממה",
-      "english": "y ⟨de⟩ asolamiento"
-    },
-    {
-      "surface": "כוס",
-      "english": "la copa"
-    },
-    {
-      "surface": "אחותך",
-      "english": "de tu hermana"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomrón"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:32:48.047562083Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

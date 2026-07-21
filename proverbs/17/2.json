@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 17:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 548,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60033,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60581
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:40:58.074749341Z",
   "translation": "Un siervo ⟨que se comporta⟩ con inteligencia ⟨se⟩ gobernará ⟨sobre⟩ un hijo ⟨que avergüenza⟩ ⟨y⟩ entre ⟨los⟩ hermanos ⟨él⟩ ⟨partirá⟩ herencia ⟨את⟩",
   "tokens": [
     {
       "surface": "עבד",
-      "english": "Un siervo"
+      "gloss": "Un siervo"
     },
     {
       "surface": "משכיל",
-      "english": "⟨que se comporta⟩ con inteligencia"
+      "gloss": "⟨que se comporta⟩ con inteligencia"
     },
     {
       "surface": "ימשל",
-      "english": "⟨se⟩ gobernará"
+      "gloss": "⟨se⟩ gobernará"
     },
     {
       "surface": "בבן",
-      "english": "⟨sobre⟩ un hijo"
+      "gloss": "⟨sobre⟩ un hijo"
     },
     {
       "surface": "מביש",
-      "english": "⟨que avergüenza⟩"
+      "gloss": "⟨que avergüenza⟩"
     },
     {
       "surface": "ובתוך",
-      "english": "⟨y⟩ entre ⟨los⟩"
+      "gloss": "⟨y⟩ entre ⟨los⟩"
     },
     {
       "surface": "אחים",
-      "english": "hermanos"
+      "gloss": "hermanos"
     },
     {
       "surface": "יחלק",
-      "english": "⟨él⟩ ⟨partirá⟩"
+      "gloss": "⟨él⟩ ⟨partirá⟩"
     },
     {
       "surface": "נחלה",
-      "english": "herencia"
+      "gloss": "herencia"
     }
-  ],
-  "timestamp": "2026-06-10T01:40:58.074749341Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 22:8",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 564,
-    "prompt_tokens": 26497,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27061
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:25:14.639213444Z",
   "translation": "Y ⟨desveló⟩ ⟨el⟩ cobertura de Yehudá, y tú miraste en aquel día a las armas de la casa del bosque",
   "tokens": [
     {
       "surface": "ויגל",
-      "english": "Y ⟨desveló⟩"
+      "gloss": "Y ⟨desveló⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el cobertura"
     },
     {
       "surface": "מסך",
-      "english": "cobertura"
+      "gloss": "cobertura"
     },
     {
       "surface": "יהודה",
-      "english": "de Yehudá"
+      "gloss": "de Yehudá"
     },
     {
       "surface": "ותבט",
-      "english": "y tú miraste"
+      "gloss": "y tú miraste"
     },
     {
       "surface": "ביום",
-      "english": "en aquel día"
+      "gloss": "en aquel día"
     },
     {
       "surface": "ההוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "נשק",
-      "english": "las armas"
+      "gloss": "las armas"
     },
     {
       "surface": "בית",
-      "english": "de la casa"
+      "gloss": "de la casa"
     },
     {
       "surface": "היער",
-      "english": "del bosque"
+      "gloss": "del bosque"
     }
-  ],
-  "timestamp": "2026-07-16T21:25:14.639213444Z",
-  "model": "glm-4.5"
+  ]
 }

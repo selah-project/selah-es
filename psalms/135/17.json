@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 135:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 362,
-    "prompt_tokens": 70082,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70444
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:39.578267058Z",
   "translation": "Oídos tienen, pero no oyen; ⟨tampoco⟩ hay aliento en sus bocas.",
   "tokens": [
     {
       "surface": "אזנים",
-      "english": "Oídos"
+      "gloss": "Oídos"
     },
     {
       "surface": "להם",
-      "english": "tienen"
+      "gloss": "tienen"
     },
     {
       "surface": "ולא",
-      "english": "pero no"
+      "gloss": "pero no"
     },
     {
       "surface": "יאזינו",
-      "english": "oyen"
+      "gloss": "oyen"
     },
     {
       "surface": "אף",
-      "english": "⟨tampoco⟩"
+      "gloss": "⟨tampoco⟩"
     },
     {
       "surface": "אין",
-      "english": "hay"
+      "gloss": "hay"
     },
     {
       "surface": "יש",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "רוח",
-      "english": "aliento"
+      "gloss": "aliento"
     },
     {
       "surface": "בפיהם",
-      "english": "en sus bocas"
+      "gloss": "en sus bocas"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:39.578267058Z",
-  "model": "glm-4.5"
+  ]
 }

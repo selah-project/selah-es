@@ -1,9 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "ezekiel 20:36",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 20,
+  "verse": 36,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:29:03.437261790Z",
+  "translation": "Como ⟨juzgué⟩ ⟨a⟩ vuestros padres en el desierto ⟨de la⟩ tierra de Mitzráyim, así ⟨juzgaré⟩ ⟨a⟩ vosotros, ⟨oráculo de⟩ Adonai YHWH.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Como"
+    },
+    {
+      "surface": "נשפטתי",
+      "gloss": "⟨juzgué⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "אבותיכם"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vuestros padres"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "en el desierto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨de la⟩ tierra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "así"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "⟨juzgaré⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨a⟩ vosotros",
+      "marks": "אתכם"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨oráculo de⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -13,78 +74,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17667,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 18223
-  },
-  "translation": "Como ⟨juzgué⟩ ⟨a⟩ vuestros padres en el desierto ⟨de la⟩ tierra de Mitzráyim, así ⟨juzgaré⟩ ⟨a⟩ vosotros, ⟨oráculo de⟩ Adonai YHWH.",
-  "tokens": [
-    {
-      "surface": "כאשר",
-      "english": "Como"
-    },
-    {
-      "surface": "נשפטתי",
-      "english": "⟨juzgué⟩"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "אבותיכם"
-    },
-    {
-      "surface": "אבותיכם",
-      "english": "vuestros padres"
-    },
-    {
-      "surface": "במדבר",
-      "english": "en el desierto"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨de la⟩ tierra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "כן",
-      "english": "así"
-    },
-    {
-      "surface": "אשפט",
-      "english": "⟨juzgaré⟩"
-    },
-    {
-      "surface": "אתכם",
-      "english": "⟨a⟩ vosotros",
-      "marks": "אתכם"
-    },
-    {
-      "surface": "נאם",
-      "english": "⟨oráculo de⟩"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:29:03.437261790Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

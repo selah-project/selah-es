@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "psalms 35:28",
   "book": "psalms",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 298,
-    "prompt_tokens": 69878,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70176
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:28:27.661560853Z",
   "translation": "Y mi lengua proclamará ⟨es⟩ tu justicia y tu alabanza todo el día.",
   "tokens": [
     {
       "surface": "ולשוני",
-      "english": "Y mi lengua"
+      "gloss": "Y mi lengua"
     },
     {
       "surface": "תהגה",
-      "english": "proclamará"
+      "gloss": "proclamará"
     },
     {
       "surface": "צדקך",
-      "english": "tu justicia"
+      "gloss": "tu justicia"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "היום",
-      "english": "el día"
+      "gloss": "el día"
     },
     {
       "surface": "תהלתך",
-      "english": "tu alabanza"
+      "gloss": "tu alabanza"
     }
-  ],
-  "timestamp": "2026-07-16T23:28:27.661560853Z",
-  "model": "glm-4.5"
+  ]
 }

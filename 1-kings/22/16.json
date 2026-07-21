@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-kings 22:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 22,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:17:40.261859955Z",
+  "translation": "Y el rey dijo a él: ¿Hasta cuántas veces ⟨estoy⟩ conjurándote que no hables a mí sino ⟨solo⟩ Emet en el nombre de YHWH?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a él"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "עד",
+      "gloss": "¿Hasta"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "cuántas"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "veces"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨estoy⟩"
+    },
+    {
+      "surface": "משבעך",
+      "gloss": "conjurándote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "hables"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sino ⟨solo⟩"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Emet"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "en el nombre de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdad",
@@ -13,85 +84,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 541,
-    "prompt_tokens": 62724,
-    "prompt_tokens_details": {
-      "cached_tokens": 60928
-    },
-    "total_tokens": 63265
-  },
-  "translation": "Y el rey dijo a él: ¿Hasta cuántas veces ⟨estoy⟩ conjurándote que no hables a mí sino ⟨solo⟩ Emet en el nombre de YHWH?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "אליו",
-      "english": "a él"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "עד",
-      "english": "¿Hasta"
-    },
-    {
-      "surface": "כמה",
-      "english": "cuántas"
-    },
-    {
-      "surface": "פעמים",
-      "english": "veces"
-    },
-    {
-      "surface": "אני",
-      "english": "⟨estoy⟩"
-    },
-    {
-      "surface": "משבעך",
-      "english": "conjurándote"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "תדבר",
-      "english": "hables"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mí"
-    },
-    {
-      "surface": "רק",
-      "english": "sino ⟨solo⟩"
-    },
-    {
-      "surface": "אמת",
-      "english": "Emet"
-    },
-    {
-      "surface": "בשם",
-      "english": "en el nombre de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:17:40.261859955Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

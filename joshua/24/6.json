@@ -1,81 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "joshua 24:6",
   "book": "joshua",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24138,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 24680
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:25:30.057460638Z",
   "translation": "Y saqué ⟨a⟩ vuestros padres de Egipto y vinieron ⟨al⟩ mar, y persiguieron ⟨a⟩ los egipcios ⟨a⟩ vuestros padres con carros y con jinetes ⟨al⟩ Mar Rojo",
   "tokens": [
     {
       "surface": "ואוציא",
-      "english": "Y saqué"
+      "gloss": "Y saqué"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "vuestros padres"
     },
     {
       "surface": "אבותיכם",
-      "english": "vuestros padres"
+      "gloss": "vuestros padres"
     },
     {
       "surface": "ממצרים",
-      "english": "de Egipto"
+      "gloss": "de Egipto"
     },
     {
       "surface": "ותבאו",
-      "english": "y vinieron"
+      "gloss": "y vinieron"
     },
     {
       "surface": "הימה",
-      "english": "⟨al⟩ mar"
+      "gloss": "⟨al⟩ mar"
     },
     {
       "surface": "וירדפו",
-      "english": "y persiguieron"
+      "gloss": "y persiguieron"
     },
     {
       "surface": "מצרים",
-      "english": "⟨a⟩ los egipcios"
+      "gloss": "⟨a⟩ los egipcios"
     },
     {
       "surface": "אחרי",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "אבותיכם",
-      "english": "vuestros padres"
+      "gloss": "vuestros padres"
     },
     {
       "surface": "ברכב",
-      "english": "con carros"
+      "gloss": "con carros"
     },
     {
       "surface": "ובפרשים",
-      "english": "y con jinetes"
+      "gloss": "y con jinetes"
     },
     {
       "surface": "ים",
-      "english": "⟨al⟩ Mar"
+      "gloss": "⟨al⟩ Mar"
     },
     {
       "surface": "סוף",
-      "english": "Rojo"
+      "gloss": "Rojo"
     }
-  ],
-  "timestamp": "2026-06-10T01:25:30.057460638Z",
-  "model": "glm-4.5"
+  ]
 }

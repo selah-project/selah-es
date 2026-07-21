@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 13:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24749,
-    "prompt_tokens_details": {
-      "cached_tokens": 23998
-    },
-    "total_tokens": 25081
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:49:00.186529071Z",
   "translation": "לְ\/מַטֵּ֣ה שִׁמְע֔וֹן שָׁפָ֖ט בֶּן חוֹרִֽי ⟨de⟩ la tribu ⟨de⟩ Shimón Shafat ⟨el⟩ ben ⟨de⟩ Jori",
   "tokens": [
     {
       "surface": "למטה",
-      "english": "De la tribu"
+      "gloss": "De la tribu"
     },
     {
       "surface": "שמעון",
-      "english": "Shimón"
+      "gloss": "Shimón"
     },
     {
       "surface": "שפט",
-      "english": "Shafat"
+      "gloss": "Shafat"
     },
     {
       "surface": "בן",
-      "english": "el ben"
+      "gloss": "el ben"
     },
     {
       "surface": "חורי",
-      "english": "de Jori"
+      "gloss": "de Jori"
     }
-  ],
-  "timestamp": "2026-06-10T04:49:00.186529071Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 2:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26107,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26467
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:20:08.226379831Z",
   "translation": "La palabra ⟨que⟩ vio Yeshayahu ben Amoz ⟨acerca de⟩ Yehudá ⟨y⟩ Yerushalayim",
   "tokens": [
     {
       "surface": "הדבר",
-      "english": "La palabra"
+      "gloss": "La palabra"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "חזה",
-      "english": "vio"
+      "gloss": "vio"
     },
     {
       "surface": "ישעיהו",
-      "english": "Yeshayahu"
+      "gloss": "Yeshayahu"
     },
     {
       "surface": "בן",
-      "english": "ben"
+      "gloss": "ben"
     },
     {
       "surface": "אמוץ",
-      "english": "Amoz"
+      "gloss": "Amoz"
     },
     {
       "surface": "על",
-      "english": "⟨acerca de⟩"
+      "gloss": "⟨acerca de⟩"
     },
     {
       "surface": "יהודה",
-      "english": "Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "וירושלם",
-      "english": "⟨y⟩ Yerushalayim"
+      "gloss": "⟨y⟩ Yerushalayim"
     }
-  ],
-  "timestamp": "2026-06-10T02:20:08.226379831Z",
-  "model": "glm-4.5"
+  ]
 }

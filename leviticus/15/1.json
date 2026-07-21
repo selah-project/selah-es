@@ -1,9 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "leviticus 15:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 15,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:52:41.992140327Z",
+  "translation": "Y YHWH habló a Moshé ⟨y⟩ a Aharón ⟨para⟩ decir:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Y habló",
+      "marks": null
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH",
+      "marks": null
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": "Moisés"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé",
+      "marks": null
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨y⟩ a",
+      "marks": "Aarón"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón",
+      "marks": null
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨para⟩ decir",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moisés",
@@ -20,59 +62,6 @@
       "hebrew": "אהרן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16884,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 17224
-  },
-  "translation": "Y YHWH habló a Moshé ⟨y⟩ a Aharón ⟨para⟩ decir:",
-  "tokens": [
-    {
-      "surface": "וידבר",
-      "english": "Y habló",
-      "marks": null
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH",
-      "marks": null
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": "Moisés"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé",
-      "marks": null
-    },
-    {
-      "surface": "ואל",
-      "english": "⟨y⟩ a",
-      "marks": "Aarón"
-    },
-    {
-      "surface": "אהרן",
-      "english": "Aharón",
-      "marks": null
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨para⟩ decir",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:52:41.992140327Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 1:20",
   "book": "job",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 439,
-    "prompt_tokens": 27674,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 28113
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:56:37.339610104Z",
   "translation": "Entonces Iyov se levantó y rasgó ⟨את⟩ su manto y cortó ⟨את⟩ su cabeza y cayó ⟨a⟩ tierra y se prosternó",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "Entonces ... se levantó"
+      "gloss": "Entonces ... se levantó"
     },
     {
       "surface": "איוב",
-      "english": "Iyov"
+      "gloss": "Iyov"
     },
     {
       "surface": "ויקרע",
-      "english": "y rasgó"
+      "gloss": "y rasgó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su manto"
     },
     {
       "surface": "מעלו",
-      "english": "su manto"
+      "gloss": "su manto"
     },
     {
       "surface": "ויגז",
-      "english": "y cortó"
+      "gloss": "y cortó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su cabeza"
     },
     {
       "surface": "ראשו",
-      "english": "su cabeza"
+      "gloss": "su cabeza"
     },
     {
       "surface": "ויפל",
-      "english": "y cayó"
+      "gloss": "y cayó"
     },
     {
       "surface": "ארצה",
-      "english": "⟨a⟩ tierra"
+      "gloss": "⟨a⟩ tierra"
     },
     {
       "surface": "וישתחו",
-      "english": "y se prosternó"
+      "gloss": "y se prosternó"
     }
-  ],
-  "timestamp": "2026-07-16T21:56:37.339610104Z",
-  "model": "glm-4.5"
+  ]
 }

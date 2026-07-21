@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 34:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70064,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70534
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:13:42.914372607Z",
   "translation": "Como jóvenes leones, ⟨son⟩ pobres y hambrientos; pero ⟨los⟩ que buscan a YHWH ⟨no⟩ carecerán de ningún ⟨bien⟩.",
   "tokens": [
     {
       "surface": "כפירים",
-      "english": "Como jóvenes leones"
+      "gloss": "Como jóvenes leones"
     },
     {
       "surface": "רשו",
-      "english": "⟨son⟩ pobres"
+      "gloss": "⟨son⟩ pobres"
     },
     {
       "surface": "ורעבו",
-      "english": "y hambrientos"
+      "gloss": "y hambrientos"
     },
     {
       "surface": "ודרשי",
-      "english": "pero ⟨los⟩ que buscan"
+      "gloss": "pero ⟨los⟩ que buscan"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "יחסרו",
-      "english": "carecerán"
+      "gloss": "carecerán"
     },
     {
       "surface": "כל",
-      "english": "ningún"
+      "gloss": "ningún"
     },
     {
       "surface": "טוב",
-      "english": "⟨bien⟩"
+      "gloss": "⟨bien⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:13:42.914372607Z",
-  "model": "glm-4.5"
+  ]
 }

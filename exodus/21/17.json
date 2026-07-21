@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "exodus 21:17",
   "book": "exodus",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 350,
-    "prompt_tokens": 23711,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24061
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:17:19.694394196Z",
   "translation": "Y ⟨el que⟩ maldice ⟨a⟩ su padre o ⟨a⟩ su madre, muerte ⟨le⟩ morirá.",
   "tokens": [
     {
       "surface": "ומקלל",
-      "english": "Y ⟨el que⟩ maldice"
+      "gloss": "Y ⟨el que⟩ maldice"
     },
     {
       "surface": "אביו",
-      "english": "⟨a⟩ su padre"
+      "gloss": "⟨a⟩ su padre"
     },
     {
       "surface": "ואמו",
-      "english": "o ⟨a⟩ su madre"
+      "gloss": "o ⟨a⟩ su madre"
     },
     {
       "surface": "מות",
-      "english": "muerte"
+      "gloss": "muerte"
     },
     {
       "surface": "יומת",
-      "english": "⟨le⟩ morirá"
+      "gloss": "⟨le⟩ morirá"
     }
-  ],
-  "timestamp": "2026-07-16T20:17:19.694394196Z",
-  "model": "glm-4.5"
+  ]
 }

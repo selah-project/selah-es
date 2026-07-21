@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 126,
   "ref": "psalms 119:126",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 327,
-    "prompt_tokens": 69739,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70066
-  },
+  "verse": 126,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:57.037103187Z",
   "translation": "Es tiempo ⟨para⟩ YHWH obrar: porque han quebrantado tu Torá.",
   "tokens": [
     {
       "surface": "עת",
-      "english": "tiempo"
+      "gloss": "tiempo"
     },
     {
       "surface": "לעשות",
-      "english": "obrar"
+      "gloss": "obrar"
     },
     {
       "surface": "ליהוה",
-      "english": "para YHWH"
+      "gloss": "para YHWH"
     },
     {
       "surface": "הפרו",
-      "english": "quebrantado"
+      "gloss": "quebrantado"
     },
     {
       "surface": "תורתך",
-      "english": "tu Torá"
+      "gloss": "tu Torá"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:57.037103187Z",
-  "model": "glm-4.5"
+  ]
 }

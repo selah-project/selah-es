@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 28:5",
   "book": "job",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27118,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27476
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:11.067502264Z",
   "translation": "⟨La⟩ tierra de ella ⟨es⟩ comida que sale, y debajo de ella ⟨se⟩ vuelve como ⟨el⟩ fuego.",
   "tokens": [
     {
       "surface": "ארץ",
-      "english": "Tierra"
+      "gloss": "Tierra"
     },
     {
       "surface": "ממנה",
-      "english": "de ella"
+      "gloss": "de ella"
     },
     {
       "surface": "יצא",
-      "english": "sale"
+      "gloss": "sale"
     },
     {
       "surface": "לחם",
-      "english": "comida"
+      "gloss": "comida"
     },
     {
       "surface": "ותחתיה",
-      "english": "y debajo de ella"
+      "gloss": "y debajo de ella"
     },
     {
       "surface": "נהפך",
-      "english": "vuelve"
+      "gloss": "vuelve"
     },
     {
       "surface": "כמו",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אש",
-      "english": "fuego"
+      "gloss": "fuego"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:11.067502264Z",
-  "model": "glm-4.5"
+  ]
 }

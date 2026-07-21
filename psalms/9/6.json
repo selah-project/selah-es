@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 9:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70017,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70375
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:53.529225543Z",
   "translation": "Has reprendido ⟨a⟩ las naciones, has destruido ⟨al⟩ malvado, has borrado su nombre para siempre y para siempre jamás.",
   "tokens": [
     {
       "surface": "גערת",
-      "english": "Has reprendido"
+      "gloss": "Has reprendido"
     },
     {
       "surface": "גוים",
-      "english": "⟨a⟩ las naciones"
+      "gloss": "⟨a⟩ las naciones"
     },
     {
       "surface": "אבדת",
-      "english": "has destruido"
+      "gloss": "has destruido"
     },
     {
       "surface": "רשע",
-      "english": "⟨al⟩ malvado"
+      "gloss": "⟨al⟩ malvado"
     },
     {
       "surface": "שמם",
-      "english": "su nombre"
+      "gloss": "su nombre"
     },
     {
       "surface": "מחית",
-      "english": "has borrado"
+      "gloss": "has borrado"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "ועד",
-      "english": "y para siempre jamás"
+      "gloss": "y para siempre jamás"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:53.529225543Z",
-  "model": "glm-4.5"
+  ]
 }

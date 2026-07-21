@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 26:15",
   "book": "exodus",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 449,
-    "prompt_tokens": 24036,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24485
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:19:20.690545113Z",
   "translation": "Y harás ⟨את⟩ las tablas para el Mishkán, maderas de acacia, de pie",
   "tokens": [
     {
       "surface": "ועשית",
-      "english": "Y harás"
+      "gloss": "Y harás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las tablas"
     },
     {
       "surface": "הקרשים",
-      "english": "las tablas"
+      "gloss": "las tablas"
     },
     {
       "surface": "למשכן",
-      "english": "para el Mishkán"
+      "gloss": "para el Mishkán"
     },
     {
       "surface": "עצי",
-      "english": "maderas"
+      "gloss": "maderas"
     },
     {
       "surface": "שטים",
-      "english": "de acacia"
+      "gloss": "de acacia"
     },
     {
       "surface": "עמדים",
-      "english": "de pie"
+      "gloss": "de pie"
     }
-  ],
-  "timestamp": "2026-07-16T20:19:20.690545113Z",
-  "model": "glm-4.5"
+  ]
 }

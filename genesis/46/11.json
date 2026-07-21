@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 46:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 224,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28093,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28317
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:43:29.728734942Z",
   "translation": "y los hijos de Leví: Guersón, Quehat y Merarí",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "Y los hijos de"
+      "gloss": "Y los hijos de"
     },
     {
       "surface": "לוי",
-      "english": "Leví"
+      "gloss": "Leví"
     },
     {
       "surface": "גרשון",
-      "english": "Guersón"
+      "gloss": "Guersón"
     },
     {
       "surface": "קהת",
-      "english": "Quehat"
+      "gloss": "Quehat"
     },
     {
       "surface": "ומררי",
-      "english": "y Merarí"
+      "gloss": "y Merarí"
     }
-  ],
-  "timestamp": "2026-06-10T05:43:29.728734942Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 96:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70136,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70550
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:47:26.539150366Z",
   "translation": "¡Exultará el campo y todo lo ⟨que⟩ ⟨está⟩ en él; entonces se regocijarán con júbilo todos los árboles ⟨del⟩ bosque",
   "tokens": [
     {
       "surface": "יעלז",
-      "english": "¡Exultará"
+      "gloss": "¡Exultará"
     },
     {
       "surface": "שדי",
-      "english": "el campo"
+      "gloss": "el campo"
     },
     {
       "surface": "וכל",
-      "english": "y todo"
+      "gloss": "y todo"
     },
     {
       "surface": "אשר",
-      "english": "lo ⟨que⟩"
+      "gloss": "lo ⟨que⟩"
     },
     {
       "surface": "בו",
-      "english": "⟨está⟩ en él"
+      "gloss": "⟨está⟩ en él"
     },
     {
       "surface": "אז",
-      "english": "entonces"
+      "gloss": "entonces"
     },
     {
       "surface": "ירננו",
-      "english": "se regocijarán con júbilo"
+      "gloss": "se regocijarán con júbilo"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "עצי",
-      "english": "los árboles ⟨del⟩"
+      "gloss": "los árboles ⟨del⟩"
     },
     {
       "surface": "יער",
-      "english": "bosque"
+      "gloss": "bosque"
     }
-  ],
-  "timestamp": "2026-06-09T23:47:26.539150366Z",
-  "model": "glm-4.5"
+  ]
 }

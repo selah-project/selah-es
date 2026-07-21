@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 96:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 345,
-    "prompt_tokens": 70068,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70413
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:10.723615800Z",
   "translation": "Dad a YHWH la gloria de su nombre, llevad una ofrenda y venid a sus atrios",
   "tokens": [
     {
       "surface": "הבו",
-      "english": "Dad"
+      "gloss": "Dad"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "כבוד",
-      "english": "la gloria"
+      "gloss": "la gloria"
     },
     {
       "surface": "שמו",
-      "english": "de su nombre"
+      "gloss": "de su nombre"
     },
     {
       "surface": "שאו",
-      "english": "llevad"
+      "gloss": "llevad"
     },
     {
       "surface": "מנחה",
-      "english": "una ofrenda"
+      "gloss": "una ofrenda"
     },
     {
       "surface": "ובאו",
-      "english": "y venid"
+      "gloss": "y venid"
     },
     {
       "surface": "לחצרותיו",
-      "english": "a sus atrios"
+      "gloss": "a sus atrios"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:10.723615800Z",
-  "model": "glm-4.5"
+  ]
 }

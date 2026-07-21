@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 44:4",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25948,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26384
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:48:18.968430357Z",
   "translation": "Y ⟨ellos⟩ crecerán ⟨es⟩ entre ⟨el⟩ hierba como sauces ⟨sobre⟩ los arroyos de aguas",
   "tokens": [
     {
       "surface": "וצמחו",
-      "english": "Y ⟨ellos⟩ crecerán"
+      "gloss": "Y ⟨ellos⟩ crecerán"
     },
     {
       "surface": "בבין",
-      "english": "entre"
+      "gloss": "entre"
     },
     {
       "surface": "חציר",
-      "english": "⟨el⟩ hierba"
+      "gloss": "⟨el⟩ hierba"
     },
     {
       "surface": "כערבים",
-      "english": "como sauces"
+      "gloss": "como sauces"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "יבלי",
-      "english": "los arroyos"
+      "gloss": "los arroyos"
     },
     {
       "surface": "מים",
-      "english": "de aguas"
+      "gloss": "de aguas"
     }
-  ],
-  "timestamp": "2026-06-10T02:48:18.968430357Z",
-  "model": "glm-4.5"
+  ]
 }

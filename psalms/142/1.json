@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 142:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 142,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69763,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70161
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:09:43.971177346Z",
   "translation": "Una instrucción de David: una oración ⟨is⟩ cuando ⟨está⟩ en ⟨la⟩ cueva. ⟨את⟩ mi oración ⟨he⟩ derramado ante Él; ⟨a⟩ Él ⟨he⟩ declarado ⟨mi⟩ angustia.",
   "tokens": [
     {
       "surface": "משכיל",
-      "english": "Una instrucción"
+      "gloss": "Una instrucción"
     },
     {
       "surface": "לדוד",
-      "english": "de David"
+      "gloss": "de David"
     },
     {
       "surface": "בהיותו",
-      "english": "cuando ⟨está⟩"
+      "gloss": "cuando ⟨está⟩"
     },
     {
       "surface": "במערה",
-      "english": "en ⟨la⟩ cueva"
+      "gloss": "en ⟨la⟩ cueva"
     },
     {
       "surface": "תפלה",
-      "english": "una oración"
+      "gloss": "una oración"
     }
-  ],
-  "timestamp": "2026-06-10T00:09:43.971177346Z",
-  "model": "glm-4.5"
+  ]
 }

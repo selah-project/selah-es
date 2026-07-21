@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "psalms 119:40",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 358,
-    "prompt_tokens": 69779,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70137
-  },
+  "verse": 40,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:12.219925055Z",
   "translation": "He aquí, he deseado ⟨את⟩ tus preceptos; por tu justicia vivifícame.",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "תאבתי",
-      "english": "he deseado"
+      "gloss": "he deseado"
     },
     {
       "surface": "לפקדיך",
-      "english": "⟨את⟩ tus preceptos",
+      "gloss": "⟨את⟩ tus preceptos",
       "marks": "tus preceptos"
     },
     {
       "surface": "בצדקתך",
-      "english": "por tu justicia"
+      "gloss": "por tu justicia"
     },
     {
       "surface": "חיני",
-      "english": "vivifícame"
+      "gloss": "vivifícame"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:12.219925055Z",
-  "model": "glm-4.5"
+  ]
 }

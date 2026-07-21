@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 29:14",
   "book": "job",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27050,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27392
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:09:09.709480899Z",
   "translation": "Justicia me ⟨vestí⟩ y ⟨me⟩ vistió ⟨como⟩ manto y ⟨un⟩ turbante ⟨es⟩ mi juicio",
   "tokens": [
     {
       "surface": "צדק",
-      "english": "Justicia"
+      "gloss": "Justicia"
     },
     {
       "surface": "לבשתי",
-      "english": "me ⟨vestí⟩"
+      "gloss": "me ⟨vestí⟩"
     },
     {
       "surface": "וילבשני",
-      "english": "⟨me⟩ vistió"
+      "gloss": "⟨me⟩ vistió"
     },
     {
       "surface": "כמעיל",
-      "english": "⟨como⟩ manto"
+      "gloss": "⟨como⟩ manto"
     },
     {
       "surface": "וצניף",
-      "english": "⟨un⟩ turbante"
+      "gloss": "⟨un⟩ turbante"
     },
     {
       "surface": "משפטי",
-      "english": "⟨es⟩ mi juicio"
+      "gloss": "⟨es⟩ mi juicio"
     }
-  ],
-  "timestamp": "2026-06-10T02:09:09.709480899Z",
-  "model": "glm-4.5"
+  ]
 }

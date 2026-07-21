@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 111:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69871,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70234
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:34.610467898Z",
   "translation": "Grandes ⟨son⟩ ⟨los⟩ hechos de YHWH, ⟨son⟩ buscados por todos ⟨los⟩ que ⟨los⟩ desean",
   "tokens": [
     {
       "surface": "גדלים",
-      "english": "Grandes"
+      "gloss": "Grandes"
     },
     {
       "surface": "מעשי",
-      "english": "⟨los⟩ hechos"
+      "gloss": "⟨los⟩ hechos"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "דרושים",
-      "english": "⟨son⟩ buscados"
+      "gloss": "⟨son⟩ buscados"
     },
     {
       "surface": "לכל",
-      "english": "por todos ⟨los⟩"
+      "gloss": "por todos ⟨los⟩"
     },
     {
       "surface": "חפציהם",
-      "english": "que ⟨los⟩ desean"
+      "gloss": "que ⟨los⟩ desean"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:34.610467898Z",
-  "model": "glm-4.5"
+  ]
 }

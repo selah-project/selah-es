@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 102:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69794,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70149
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:49:14.363237436Z",
   "translation": "Días míos ⟨son⟩ como sombra que se extiende, y yo ⟨soy⟩ como hierba que se seca",
   "tokens": [
     {
       "surface": "ימי",
-      "english": "Días míos"
+      "gloss": "Días míos"
     },
     {
       "surface": "כצל",
-      "english": "como sombra"
+      "gloss": "como sombra"
     },
     {
       "surface": "נטוי",
-      "english": "que se extiende"
+      "gloss": "que se extiende"
     },
     {
       "surface": "ואני",
-      "english": "y yo"
+      "gloss": "y yo"
     },
     {
       "surface": "כעשב",
-      "english": "como hierba"
+      "gloss": "como hierba"
     },
     {
       "surface": "איבש",
-      "english": "que se seca"
+      "gloss": "que se seca"
     }
-  ],
-  "timestamp": "2026-06-09T23:49:14.363237436Z",
-  "model": "glm-4.5"
+  ]
 }

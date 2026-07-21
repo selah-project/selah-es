@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 34:5",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26988,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27329
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:34.478736239Z",
   "translation": "Porque Iyov dijo: ⟨He sido⟩ justo ⟨y⟩ Elohim ⟨ha⟩ quitado ⟨mi⟩ juicio.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אמר",
-      "english": "dijo"
+      "gloss": "dijo"
     },
     {
       "surface": "איוב",
-      "english": "Iyov"
+      "gloss": "Iyov"
     },
     {
       "surface": "צדקתי",
-      "english": "⟨He sido⟩ justo"
+      "gloss": "⟨He sido⟩ justo"
     },
     {
       "surface": "ואל",
-      "english": "⟨y⟩ Elohim"
+      "gloss": "⟨y⟩ Elohim"
     },
     {
       "surface": "הסיר",
-      "english": "⟨ha⟩ quitado"
+      "gloss": "⟨ha⟩ quitado"
     },
     {
       "surface": "משפטי",
-      "english": "⟨mi⟩ juicio"
+      "gloss": "⟨mi⟩ juicio"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:34.478736239Z",
-  "model": "glm-4.5"
+  ]
 }

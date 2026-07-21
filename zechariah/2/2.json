@@ -1,95 +1,87 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "zechariah 2:2",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 657,
-    "prompt_tokens": 24220,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 24877
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:49:23.817405956Z",
   "translation": "Y dije al ángel que hablaba en mí: ¿Qué son ⟨estos⟩? Y me dijo: ⟨Estos⟩ son los cuernos que dispersaron ⟨a⟩ Yehudá ⟨a⟩ Yisrael y Yerushalayim.",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "Y dije"
+      "gloss": "Y dije"
     },
     {
       "surface": "אל",
-      "english": "al"
+      "gloss": "al"
     },
     {
       "surface": "המלאך",
-      "english": "ángel"
+      "gloss": "ángel"
     },
     {
       "surface": "הדבר",
-      "english": "que hablaba"
+      "gloss": "que hablaba"
     },
     {
       "surface": "בי",
-      "english": "en mí"
+      "gloss": "en mí"
     },
     {
       "surface": "מה",
-      "english": "¿Qué son"
+      "gloss": "¿Qué son"
     },
     {
       "surface": "אלה",
-      "english": "⟨estos⟩"
+      "gloss": "⟨estos⟩"
     },
     {
       "surface": "ויאמר",
-      "english": "Y me dijo"
+      "gloss": "Y me dijo"
     },
     {
       "surface": "אלי",
-      "english": "a mí"
+      "gloss": "a mí"
     },
     {
       "surface": "אלה",
-      "english": "⟨Estos⟩"
+      "gloss": "⟨Estos⟩"
     },
     {
       "surface": "הקרנות",
-      "english": "son los cuernos"
+      "gloss": "son los cuernos"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "זרו",
-      "english": "dispersaron"
+      "gloss": "dispersaron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yehudá"
     },
     {
       "surface": "יהודה",
-      "english": "Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "וירושלם",
-      "english": "y Yerushalayim"
+      "gloss": "y Yerushalayim"
     }
-  ],
-  "timestamp": "2026-07-16T23:49:23.817405956Z",
-  "model": "glm-4.5"
+  ]
 }

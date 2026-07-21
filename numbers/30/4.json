@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "numbers 30:4",
   "book": "numbers",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 583,
-    "prompt_tokens": 25469,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26052
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:12:41.517288581Z",
   "translation": "Y también si una mujer ⟨hace⟩ un voto a YHWH, y ⟨se obliga⟩ con una obligación, estando en ⟨la⟩ casa de su padre en su juventud,",
   "tokens": [
     {
       "surface": "ואשה",
-      "english": "Y también si una mujer"
+      "gloss": "Y también si una mujer"
     },
     {
       "surface": "כי",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "תדר",
-      "english": "⟨hace⟩ un voto"
+      "gloss": "⟨hace⟩ un voto"
     },
     {
       "surface": "נדר",
-      "english": "voto"
+      "gloss": "voto"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "ואסרה",
-      "english": "y ⟨se obliga⟩"
+      "gloss": "y ⟨se obliga⟩"
     },
     {
       "surface": "אסר",
-      "english": "con una obligación"
+      "gloss": "con una obligación"
     },
     {
       "surface": "בבית",
-      "english": "estando en ⟨la⟩ casa"
+      "gloss": "estando en ⟨la⟩ casa"
     },
     {
       "surface": "אביה",
-      "english": "de su padre"
+      "gloss": "de su padre"
     },
     {
       "surface": "בנעריה",
-      "english": "en su juventud"
+      "gloss": "en su juventud"
     }
-  ],
-  "timestamp": "2026-07-16T23:12:41.517288581Z",
-  "model": "glm-4.5"
+  ]
 }

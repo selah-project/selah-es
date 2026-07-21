@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 29:16",
   "book": "exodus",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 338,
-    "prompt_tokens": 24336,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24674
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:21:44.036780410Z",
   "translation": "y sacrificarás ⟨את⟩ el carnero, y tomarás ⟨את⟩ su sangre, y la rociarás sobre el altar por todos lados",
   "tokens": [
     {
       "surface": "ושחטת",
-      "english": "y sacrificarás"
+      "gloss": "y sacrificarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el carnero"
     },
     {
       "surface": "האיל",
-      "english": "el carnero"
+      "gloss": "el carnero"
     },
     {
       "surface": "ולקחת",
-      "english": "y tomarás"
+      "gloss": "y tomarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su sangre"
     },
     {
       "surface": "דמו",
-      "english": "su sangre"
+      "gloss": "su sangre"
     },
     {
       "surface": "וזרקת",
-      "english": "y la rociarás"
+      "gloss": "y la rociarás"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "המזבח",
-      "english": "el altar"
+      "gloss": "el altar"
     },
     {
       "surface": "סביב",
-      "english": "por todos lados"
+      "gloss": "por todos lados"
     }
-  ],
-  "timestamp": "2026-07-16T20:21:44.036780410Z",
-  "model": "glm-4.5"
+  ]
 }

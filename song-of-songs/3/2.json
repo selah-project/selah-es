@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "song-of-songs 3:2",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 664,
-    "prompt_tokens": 28322,
-    "prompt_tokens_details": {
-      "cached_tokens": 26496
-    },
-    "total_tokens": 28986
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:48:26.626632112Z",
   "translation": "Me levantaré, ahora, y recorreré la ciudad; en las calles y en las plazas buscaré ⟨את⟩ a quien ama mi nefesh: lo busqué, y no lo hallé.",
   "tokens": [
     {
       "surface": "אקומה",
-      "english": "Me levantaré"
+      "gloss": "Me levantaré"
     },
     {
       "surface": "נא",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "ואסובבה",
-      "english": "y recorreré"
+      "gloss": "y recorreré"
     },
     {
       "surface": "בעיר",
-      "english": "la ciudad"
+      "gloss": "la ciudad"
     },
     {
       "surface": "בשוקים",
-      "english": "en las calles"
+      "gloss": "en las calles"
     },
     {
       "surface": "וברחבות",
-      "english": "y en las plazas"
+      "gloss": "y en las plazas"
     },
     {
       "surface": "אבקשה",
-      "english": "buscaré"
+      "gloss": "buscaré"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a quien ama mi nefesh"
     },
     {
       "surface": "שאהבה",
-      "english": "a quien ama"
+      "gloss": "a quien ama"
     },
     {
       "surface": "נפשי",
-      "english": "mi nefesh"
+      "gloss": "mi nefesh"
     },
     {
       "surface": "בקשתיו",
-      "english": "lo busqué"
+      "gloss": "lo busqué"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "מצאתיו",
-      "english": "lo hallé"
+      "gloss": "lo hallé"
     }
-  ],
-  "timestamp": "2026-07-16T23:48:26.626632112Z",
-  "model": "glm-4.5"
+  ]
 }

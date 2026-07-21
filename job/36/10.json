@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 36:10",
   "book": "job",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27038,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27398
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:13:44.594930326Z",
   "translation": "Y abre ⟨el⟩ oído ⟨de ellos⟩ a la disciplina y dice que se vuelvan ⟨de⟩ la iniquidad",
   "tokens": [
     {
       "surface": "ויגל",
-      "english": "Y abre"
+      "gloss": "Y abre"
     },
     {
       "surface": "אזנם",
-      "english": "⟨el⟩ oído ⟨de ellos⟩",
+      "gloss": "⟨el⟩ oído ⟨de ellos⟩",
       "marks": "⟨el⟩ oído ⟨de ellos⟩"
     },
     {
       "surface": "למוסר",
-      "english": "a la disciplina"
+      "gloss": "a la disciplina"
     },
     {
       "surface": "ויאמר",
-      "english": "y dice"
+      "gloss": "y dice"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "ישבון",
-      "english": "se vuelvan"
+      "gloss": "se vuelvan"
     },
     {
       "surface": "מאון",
-      "english": "⟨de⟩ la iniquidad"
+      "gloss": "⟨de⟩ la iniquidad"
     }
-  ],
-  "timestamp": "2026-06-10T02:13:44.594930326Z",
-  "model": "glm-4.5"
+  ]
 }

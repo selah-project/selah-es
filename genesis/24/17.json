@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 24:17",
   "book": "genesis",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28483,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28918
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:20:36.044692732Z",
   "translation": "Y el siervo corrió a su encuentro ⟨y⟩ ⟨le⟩ dijo: Dame de beber ⟨lo⟩ imploro ⟨un⟩ poco ⟨de⟩ agua de tu cántaro.",
   "tokens": [
     {
       "surface": "וירץ",
-      "english": "Y el siervo corrió"
+      "gloss": "Y el siervo corrió"
     },
     {
       "surface": "העבד",
-      "english": "siervo"
+      "gloss": "siervo"
     },
     {
       "surface": "לקראתה",
-      "english": "a su encuentro"
+      "gloss": "a su encuentro"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨y⟩ ⟨le⟩ dijo"
+      "gloss": "⟨y⟩ ⟨le⟩ dijo"
     },
     {
       "surface": "הגמיאיני",
-      "english": "Dame de beber"
+      "gloss": "Dame de beber"
     },
     {
       "surface": "נא",
-      "english": "⟨lo⟩ imploro"
+      "gloss": "⟨lo⟩ imploro"
     },
     {
       "surface": "מעט",
-      "english": "⟨un⟩ poco"
+      "gloss": "⟨un⟩ poco"
     },
     {
       "surface": "מים",
-      "english": "⟨de⟩ agua"
+      "gloss": "⟨de⟩ agua"
     },
     {
       "surface": "מכדך",
-      "english": "de tu cántaro"
+      "gloss": "de tu cántaro"
     }
-  ],
-  "timestamp": "2026-06-10T05:20:36.044692732Z",
-  "model": "glm-4.5"
+  ]
 }

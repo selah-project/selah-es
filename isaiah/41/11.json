@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 41:11",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26402,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26948
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:45:55.641985697Z",
   "translation": "He aquí, todos ⟨los⟩ ⟨que⟩ se irritan contra ti se avergonzarán y serán avergonzados; ⟨ellos⟩ serán como nada y perecerán ⟨los⟩ hombres de tu contienda.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "יבשו",
-      "english": "se avergonzarán"
+      "gloss": "se avergonzarán"
     },
     {
       "surface": "ויכלמו",
-      "english": "y serán avergonzados"
+      "gloss": "y serán avergonzados"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "הנחרים",
-      "english": "⟨los⟩ ⟨que⟩ se irritan contra ti"
+      "gloss": "⟨los⟩ ⟨que⟩ se irritan contra ti"
     },
     {
       "surface": "בך",
-      "english": "contra ti"
+      "gloss": "contra ti"
     },
     {
       "surface": "יהיו",
-      "english": "⟨ellos⟩ serán"
+      "gloss": "⟨ellos⟩ serán"
     },
     {
       "surface": "כאין",
-      "english": "como nada"
+      "gloss": "como nada"
     },
     {
       "surface": "ויאבדו",
-      "english": "y perecerán"
+      "gloss": "y perecerán"
     },
     {
       "surface": "אנשי",
-      "english": "⟨los⟩ hombres"
+      "gloss": "⟨los⟩ hombres"
     },
     {
       "surface": "ריבך",
-      "english": "de tu contienda"
+      "gloss": "de tu contienda"
     }
-  ],
-  "timestamp": "2026-06-10T02:45:55.641985697Z",
-  "model": "glm-4.5"
+  ]
 }

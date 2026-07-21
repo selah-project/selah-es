@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "numbers 12:3",
   "book": "numbers",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25167,
-    "prompt_tokens_details": {
-      "cached_tokens": 23998
-    },
-    "total_tokens": 25589
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:48:41.474389016Z",
   "translation": "Y el hombre Moshé ⟨era⟩ muy humilde, más que ⟨cualquier⟩ hombre ⟨que⟩ ⟨estuviera⟩ sobre ⟨la⟩ faz ⟨de⟩ ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "והאיש",
-      "english": "Y el hombre"
+      "gloss": "Y el hombre"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "ענו",
-      "english": "⟨era⟩ muy humilde"
+      "gloss": "⟨era⟩ muy humilde"
     },
     {
       "surface": "מאד",
-      "english": "muy"
+      "gloss": "muy"
     },
     {
       "surface": "מכל",
-      "english": "más que ⟨cualquier⟩"
+      "gloss": "más que ⟨cualquier⟩"
     },
     {
       "surface": "האדם",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "אשר",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פני",
-      "english": "⟨la⟩ faz"
+      "gloss": "⟨la⟩ faz"
     },
     {
       "surface": "האדמה",
-      "english": "⟨de⟩ ⟨la⟩ tierra"
+      "gloss": "⟨de⟩ ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-10T04:48:41.474389016Z",
-  "model": "glm-4.5"
+  ]
 }

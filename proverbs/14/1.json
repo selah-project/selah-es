@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 14:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59816,
-    "prompt_tokens_details": {
-      "cached_tokens": 58554
-    },
-    "total_tokens": 60182
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:52:19.815711254Z",
   "translation": "La mujer sabia ⟨ha⟩ construido su casa; y la mujer necia ⟨con⟩ sus manos ⟨la⟩ destruye.",
   "tokens": [
     {
       "surface": "חכמות",
-      "english": "La mujer sabia"
+      "gloss": "La mujer sabia"
     },
     {
       "surface": "נשים",
-      "english": "mujer"
+      "gloss": "mujer"
     },
     {
       "surface": "בנתה",
-      "english": "construido"
+      "gloss": "construido"
     },
     {
       "surface": "ביתה",
-      "english": "su casa"
+      "gloss": "su casa"
     },
     {
       "surface": "ואולת",
-      "english": "y la mujer necia"
+      "gloss": "y la mujer necia"
     },
     {
       "surface": "בידיה",
-      "english": "con sus manos"
+      "gloss": "con sus manos"
     },
     {
       "surface": "תהרסנו",
-      "english": "⟨la⟩ destruye"
+      "gloss": "⟨la⟩ destruye"
     }
-  ],
-  "timestamp": "2026-06-10T03:52:19.815711254Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 21:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69988,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70381
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:06:29.623349990Z",
   "translation": "⟨Tu⟩ mano hallará a todos tus enemigos, ⟨Tu⟩ mano derecha hallará ⟨a⟩ ⟨los que⟩ te odian",
   "tokens": [
     {
       "surface": "תמצא",
-      "english": "Hallará"
+      "gloss": "Hallará"
     },
     {
       "surface": "ידך",
-      "english": "mano"
+      "gloss": "mano"
     },
     {
       "surface": "לכל",
-      "english": "a todos"
+      "gloss": "a todos"
     },
     {
       "surface": "איביך",
-      "english": "tus enemigos"
+      "gloss": "tus enemigos"
     },
     {
       "surface": "ימינך",
-      "english": "mano derecha"
+      "gloss": "mano derecha"
     },
     {
       "surface": "תמצא",
-      "english": "hallará"
+      "gloss": "hallará"
     },
     {
       "surface": "שנאיך",
-      "english": "⟨a⟩ ⟨los que⟩ te odian"
+      "gloss": "⟨a⟩ ⟨los que⟩ te odian"
     }
-  ],
-  "timestamp": "2026-06-09T23:06:29.623349990Z",
-  "model": "glm-4.5"
+  ]
 }

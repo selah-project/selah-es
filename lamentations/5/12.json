@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "lamentations 5:12",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 39014,
-    "prompt_tokens_details": {
-      "cached_tokens": 38098
-    },
-    "total_tokens": 39363
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:43:37.225505489Z",
   "translation": "Princes ⟨are⟩ hanged up by their hand; ⟨the⟩ faces of elders are not honoured.",
   "tokens": [
     {
       "surface": "שָׂרִים",
-      "english": "Princes"
+      "gloss": "Princes"
     },
     {
       "surface": "בְּ\/יָדָם",
-      "english": "by their hand"
+      "gloss": "by their hand"
     },
     {
       "surface": "נִתְלוּ",
-      "english": "hanged up"
+      "gloss": "hanged up"
     },
     {
       "surface": "פְּנֵי",
-      "english": "⟨the⟩ faces"
+      "gloss": "⟨the⟩ faces"
     },
     {
       "surface": "זְקֵנִים",
-      "english": "of elders"
+      "gloss": "of elders"
     },
     {
       "surface": "לֹא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "נֶהְדָּרוּ",
-      "english": "are honoured"
+      "gloss": "are honoured"
     }
-  ],
-  "timestamp": "2026-06-09T22:43:37.225505489Z",
-  "model": "glm-4.5"
+  ]
 }

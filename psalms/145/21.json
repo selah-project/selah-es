@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 145:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70142,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70649
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:11:30.034804710Z",
   "translation": "La alabanza de YHWH ⟨es⟩ lo que hablará mi boca, y bendecirá ⟨el⟩ todo ser su nombre santo para siempre y para ⟨siempre⟩.",
   "tokens": [
     {
       "surface": "תהלת",
-      "english": "La alabanza"
+      "gloss": "La alabanza"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ידבר",
-      "english": "⟨es⟩ lo que hablará"
+      "gloss": "⟨es⟩ lo que hablará"
     },
     {
       "surface": "פי",
-      "english": "mi boca"
+      "gloss": "mi boca"
     },
     {
       "surface": "ויברך",
-      "english": "y bendecirá"
+      "gloss": "y bendecirá"
     },
     {
       "surface": "כל",
-      "english": "⟨el⟩ todo"
+      "gloss": "⟨el⟩ todo"
     },
     {
       "surface": "בשר",
-      "english": "ser"
+      "gloss": "ser"
     },
     {
       "surface": "שם",
-      "english": "su nombre"
+      "gloss": "su nombre"
     },
     {
       "surface": "קדשו",
-      "english": "santo"
+      "gloss": "santo"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "ועד",
-      "english": "y para ⟨siempre⟩"
+      "gloss": "y para ⟨siempre⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:11:30.034804710Z",
-  "model": "glm-4.5"
+  ]
 }

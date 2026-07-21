@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 10:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 10,
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:09:17.013516293Z",
+  "translation": "Y ⟨a⟩ Shem también ⟨le⟩ nació ⟨un hijo⟩, ⟨el cual es⟩ padre de todos ⟨los⟩ hijos de Heber, hermano de Yéfet ⟨el⟩ grande.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "Y ⟨a⟩ Shem"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "también ⟨le⟩ nació"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨un hijo⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨el cual es⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos ⟨los⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "de Heber"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hermano"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "de Yéfet"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "⟨el⟩ grande"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jafet",
@@ -13,68 +64,6 @@
       "hebrew": "יפת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21258,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21801
-  },
-  "translation": "Y ⟨a⟩ Shem también ⟨le⟩ nació ⟨un hijo⟩, ⟨el cual es⟩ padre de todos ⟨los⟩ hijos de Heber, hermano de Yéfet ⟨el⟩ grande.",
-  "tokens": [
-    {
-      "surface": "ולשם",
-      "english": "Y ⟨a⟩ Shem"
-    },
-    {
-      "surface": "ילד",
-      "english": "también ⟨le⟩ nació"
-    },
-    {
-      "surface": "גם",
-      "english": "⟨un hijo⟩"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨el cual es⟩"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre"
-    },
-    {
-      "surface": "כל",
-      "english": "todos ⟨los⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos"
-    },
-    {
-      "surface": "עבר",
-      "english": "de Heber"
-    },
-    {
-      "surface": "אחי",
-      "english": "hermano"
-    },
-    {
-      "surface": "יפת",
-      "english": "de Yéfet"
-    },
-    {
-      "surface": "הגדול",
-      "english": "⟨el⟩ grande"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:09:17.013516293Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

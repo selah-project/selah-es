@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "daniel 2:3",
   "book": "daniel",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 518,
-    "prompt_tokens": 24542,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 25060
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:34:14.548111804Z",
   "translation": "Y el rey dijo a ellos: 'Un sueño ⟨he⟩ soñado, y ⟨está⟩ perturbada mi Rúaj para saber ⟨את⟩ el sueño.'",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "להם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "המלך",
-      "english": "el rey"
+      "gloss": "el rey"
     },
     {
       "surface": "חלום",
-      "english": "un sueño"
+      "gloss": "un sueño"
     },
     {
       "surface": "חלמתי",
-      "english": "⟨he⟩ soñado"
+      "gloss": "⟨he⟩ soñado"
     },
     {
       "surface": "ותפעם",
-      "english": "y ⟨está⟩ perturbada"
+      "gloss": "y ⟨está⟩ perturbada"
     },
     {
       "surface": "רוחי",
-      "english": "mi Rúaj"
+      "gloss": "mi Rúaj"
     },
     {
       "surface": "לדעת",
-      "english": "para saber"
+      "gloss": "para saber"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el sueño"
     },
     {
       "surface": "החלום",
-      "english": "el sueño"
+      "gloss": "el sueño"
     }
-  ],
-  "timestamp": "2026-07-16T19:34:14.548111804Z",
-  "model": "glm-4.5"
+  ]
 }

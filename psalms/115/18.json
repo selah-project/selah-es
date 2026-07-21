@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 115:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 430,
-    "prompt_tokens": 69966,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70396
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:54.616952368Z",
   "translation": "Pero nosotros bendeciremos a YHWH desde ahora ⟨y⟩ hasta ⟨el⟩ olam. ¡Alaben a YHWH!",
   "tokens": [
     {
       "surface": "ואנחנו",
-      "english": "Pero nosotros"
+      "gloss": "Pero nosotros"
     },
     {
       "surface": "נברך",
-      "english": "bendeciremos a"
+      "gloss": "bendeciremos a"
     },
     {
       "surface": "יה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מעתה",
-      "english": "desde ahora"
+      "gloss": "desde ahora"
     },
     {
       "surface": "ועד",
-      "english": "⟨y⟩ hasta"
+      "gloss": "⟨y⟩ hasta"
     },
     {
       "surface": "עולם",
-      "english": "⟨el⟩ olam"
+      "gloss": "⟨el⟩ olam"
     },
     {
       "surface": "הללו",
-      "english": "¡Alaben a"
+      "gloss": "¡Alaben a"
     },
     {
       "surface": "יה",
-      "english": "YHWH!"
+      "gloss": "YHWH!"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:54.616952368Z",
-  "model": "glm-4.5"
+  ]
 }

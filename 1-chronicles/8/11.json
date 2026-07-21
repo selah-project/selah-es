@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-chronicles 8:11",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 320,
-    "prompt_tokens": 64174,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64494
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:05:44.184183962Z",
   "translation": "Y de Jushim engendró ⟨את⟩ a Avitub y ⟨את⟩ a Elpaal",
   "tokens": [
     {
       "surface": "וּ\/מֵ\/חֻשִׁים",
-      "english": "Y de Jushim"
+      "gloss": "Y de Jushim"
     },
     {
       "surface": "הוֹלִיד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Avitub"
     },
     {
       "surface": "אֲבִיטוּב",
-      "english": "Avitub"
+      "gloss": "Avitub"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "a Elpaal"
     },
     {
       "surface": "אֶלְפָּֽעַל",
-      "english": "Elpaal"
+      "gloss": "Elpaal"
     }
-  ],
-  "timestamp": "2026-07-16T18:05:44.184183962Z",
-  "model": "glm-4.5"
+  ]
 }

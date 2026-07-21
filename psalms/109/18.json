@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 109:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70026,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70465
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:10.266003570Z",
   "translation": "⟨He⟩ vistió ⟨a⟩ maldición como ⟨a⟩ su vestidura, y vino ⟨como⟩ agua en ⟨el⟩ interior de él, y como aceite en ⟨sus⟩ huesos.",
   "tokens": [
     {
       "surface": "וילבש",
-      "english": "Vistió ⟨a⟩"
+      "gloss": "Vistió ⟨a⟩"
     },
     {
       "surface": "קללה",
-      "english": "maldición"
+      "gloss": "maldición"
     },
     {
       "surface": "כמדו",
-      "english": "como ⟨a⟩ su vestidura"
+      "gloss": "como ⟨a⟩ su vestidura"
     },
     {
       "surface": "ותבא",
-      "english": "y vino ⟨como⟩"
+      "gloss": "y vino ⟨como⟩"
     },
     {
       "surface": "כמים",
-      "english": "agua"
+      "gloss": "agua"
     },
     {
       "surface": "בקרבו",
-      "english": "en ⟨el⟩ interior de él"
+      "gloss": "en ⟨el⟩ interior de él"
     },
     {
       "surface": "וכשמן",
-      "english": "y como aceite"
+      "gloss": "y como aceite"
     },
     {
       "surface": "בעצמותיו",
-      "english": "en ⟨sus⟩ huesos"
+      "gloss": "en ⟨sus⟩ huesos"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:10.266003570Z",
-  "model": "glm-4.5"
+  ]
 }

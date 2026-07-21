@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "song-of-songs 7:8",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27481,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27837
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:38:01.084615211Z",
   "translation": "Esta tu estatura ⟨es⟩ semejante ⟨a⟩ una palma y tus pechos ⟨a⟩ racimos ⟨de⟩ ⟨uvas⟩",
   "tokens": [
     {
       "surface": "זאת",
-      "english": "Esta"
+      "gloss": "Esta"
     },
     {
       "surface": "קומתך",
-      "english": "tu estatura"
+      "gloss": "tu estatura"
     },
     {
       "surface": "דמתה",
-      "english": "⟨es⟩ semejante ⟨a⟩"
+      "gloss": "⟨es⟩ semejante ⟨a⟩"
     },
     {
       "surface": "לתמר",
-      "english": "una palma"
+      "gloss": "una palma"
     },
     {
       "surface": "ושדיך",
-      "english": "y tus pechos ⟨a⟩"
+      "gloss": "y tus pechos ⟨a⟩"
     },
     {
       "surface": "לאשכלות",
-      "english": "racimos ⟨de⟩ ⟨uvas⟩"
+      "gloss": "racimos ⟨de⟩ ⟨uvas⟩"
     }
-  ],
-  "timestamp": "2026-06-09T22:38:01.084615211Z",
-  "model": "glm-4.5"
+  ]
 }

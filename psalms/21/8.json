@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 21:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69980,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70303
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:06:04.732421192Z",
   "translation": "Porque ⟨el⟩ rey confía en YHWH y en ⟨el⟩ Jésed ⟨leal⟩ del Altísimo no será movido",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "המלך",
-      "english": "⟨el⟩ rey"
+      "gloss": "⟨el⟩ rey"
     },
     {
       "surface": "בטח",
-      "english": "confía"
+      "gloss": "confía"
     },
     {
       "surface": "ביהוה",
-      "english": "en YHWH"
+      "gloss": "en YHWH"
     },
     {
       "surface": "ובחסד",
-      "english": "y en ⟨el⟩ Jésed ⟨leal⟩"
+      "gloss": "y en ⟨el⟩ Jésed ⟨leal⟩"
     },
     {
       "surface": "עליון",
-      "english": "del Altísimo"
+      "gloss": "del Altísimo"
     },
     {
       "surface": "בל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ימוט",
-      "english": "será movido"
+      "gloss": "será movido"
     }
-  ],
-  "timestamp": "2026-06-09T23:06:04.732421192Z",
-  "model": "glm-4.5"
+  ]
 }

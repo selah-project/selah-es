@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "ezekiel 48:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 48,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:57:45.176305978Z",
+  "translation": "Y sobre ⟨el⟩ borde de Efráyim, desde ⟨el⟩ lado del oriente hasta ⟨el⟩ lado del mar, ⟨porción para⟩ Reuvén, una ⟨porción⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Y sobre"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨el⟩ borde"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "desde ⟨el⟩ lado"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "del oriente"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨el⟩ lado"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "del mar"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "⟨porción para⟩ Reuvén"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una ⟨porción⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraín",
@@ -20,64 +67,6 @@
       "hebrew": "ראובן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 48,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17166,
-    "prompt_tokens_details": {
-      "cached_tokens": 15965
-    },
-    "total_tokens": 17580
-  },
-  "translation": "Y sobre ⟨el⟩ borde de Efráyim, desde ⟨el⟩ lado del oriente hasta ⟨el⟩ lado del mar, ⟨porción para⟩ Reuvén, una ⟨porción⟩.",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "Y sobre"
-    },
-    {
-      "surface": "גבול",
-      "english": "⟨el⟩ borde"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "מפאת",
-      "english": "desde ⟨el⟩ lado"
-    },
-    {
-      "surface": "קדים",
-      "english": "del oriente"
-    },
-    {
-      "surface": "ועד",
-      "english": "hasta"
-    },
-    {
-      "surface": "פאת",
-      "english": "⟨el⟩ lado"
-    },
-    {
-      "surface": "ימה",
-      "english": "del mar"
-    },
-    {
-      "surface": "ראובן",
-      "english": "⟨porción para⟩ Reuvén"
-    },
-    {
-      "surface": "אחד",
-      "english": "una ⟨porción⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:57:45.176305978Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

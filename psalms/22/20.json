@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 22:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69875,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70333
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:06:14.620255713Z",
   "translation": "Pero tú, YHWH, ⟨no⟩ ⟨estés⟩ lejos; ⟨el⟩ poder ⟨de⟩ ⟨mi⟩ alma, apresúrate a ayudarme.",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Pero tú"
+      "gloss": "Pero tú"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תרחק",
-      "english": "⟨estés⟩ lejos"
+      "gloss": "⟨estés⟩ lejos"
     },
     {
       "surface": "אילותי",
-      "english": "⟨el⟩ poder ⟨de⟩ ⟨mi⟩ alma"
+      "gloss": "⟨el⟩ poder ⟨de⟩ ⟨mi⟩ alma"
     },
     {
       "surface": "לעזרתי",
-      "english": "a ayudarme"
+      "gloss": "a ayudarme"
     },
     {
       "surface": "חושה",
-      "english": "apresúrate"
+      "gloss": "apresúrate"
     }
-  ],
-  "timestamp": "2026-06-09T23:06:14.620255713Z",
-  "model": "glm-4.5"
+  ]
 }

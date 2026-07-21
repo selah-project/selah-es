@@ -1,67 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "numbers 32:24",
   "book": "numbers",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25182,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25775
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:05:29.705534206Z",
   "translation": "construyan ⟨para⟩ ustedes ⟨los⟩ muros ⟨para⟩ sus pequeños y ⟨los⟩ corrales ⟨para⟩ sus rebaños, y ⟨lo⟩ que sale de ⟨la⟩ boca de ustedes hagan",
   "tokens": [
     {
       "surface": "בנו",
-      "english": "Construyan"
+      "gloss": "Construyan"
     },
     {
       "surface": "לכם",
-      "english": "⟨para⟩ ustedes",
+      "gloss": "⟨para⟩ ustedes",
       "marks": "ustedes"
     },
     {
       "surface": "ערים",
-      "english": "⟨los⟩ muros",
+      "gloss": "⟨los⟩ muros",
       "marks": "muros"
     },
     {
       "surface": "לטפכם",
-      "english": "⟨para⟩ sus pequeños",
+      "gloss": "⟨para⟩ sus pequeños",
       "marks": "sus pequeños"
     },
     {
       "surface": "וגדרת",
-      "english": "⟨los⟩ corrales",
+      "gloss": "⟨los⟩ corrales",
       "marks": "corrales"
     },
     {
       "surface": "לצנאכם",
-      "english": "⟨para⟩ sus rebaños",
+      "gloss": "⟨para⟩ sus rebaños",
       "marks": "sus rebaños"
     },
     {
       "surface": "והיצא",
-      "english": "y ⟨lo⟩ que sale",
+      "gloss": "y ⟨lo⟩ que sale",
       "marks": "lo que sale"
     },
     {
       "surface": "מפיכם",
-      "english": "de ⟨la⟩ boca de ustedes",
+      "gloss": "de ⟨la⟩ boca de ustedes",
       "marks": "boca de ustedes"
     },
     {
       "surface": "תעשו",
-      "english": "hagan"
+      "gloss": "hagan"
     }
-  ],
-  "timestamp": "2026-06-10T05:05:29.705534206Z",
-  "model": "glm-4.5"
+  ]
 }

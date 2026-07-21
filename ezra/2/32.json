@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "ezra 2:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 270,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44211,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 44481
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:11:58.992505088Z",
   "translation": "los hijos de Jarim ⟨son⟩ trescientos y veinte",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Los hijos de",
+      "gloss": "Los hijos de",
       "marks": "Jarim"
     },
     {
       "surface": "חרם",
-      "english": "Jarim"
+      "gloss": "Jarim"
     },
     {
       "surface": "שלש",
-      "english": "tres"
+      "gloss": "tres"
     },
     {
       "surface": "מאות",
-      "english": "cientos"
+      "gloss": "cientos"
     },
     {
       "surface": "ועשרים",
-      "english": "y veinte"
+      "gloss": "y veinte"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:11:58.992505088Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

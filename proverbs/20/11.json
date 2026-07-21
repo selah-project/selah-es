@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "proverbs 20:11",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59984,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60283
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:43:11.095237774Z",
   "translation": "Even a child is known by ⟨his⟩ doings, whether ⟨his⟩ work ⟨is⟩ pure, and whether it ⟨is⟩ right.",
   "tokens": [
     {
       "surface": "גם",
-      "english": "Even"
+      "gloss": "Even"
     },
     {
       "surface": "במעלליו",
-      "english": "by ⟨his⟩ doings",
+      "gloss": "by ⟨his⟩ doings",
       "marks": "his doings"
     },
     {
       "surface": "יתנכר",
-      "english": "is known"
+      "gloss": "is known"
     },
     {
       "surface": "נער",
-      "english": "a child"
+      "gloss": "a child"
     },
     {
       "surface": "אם",
-      "english": "whether"
+      "gloss": "whether"
     },
     {
       "surface": "זך",
-      "english": "pure"
+      "gloss": "pure"
     },
     {
       "surface": "ואם",
-      "english": "and whether"
+      "gloss": "and whether"
     },
     {
       "surface": "ישר",
-      "english": "right"
+      "gloss": "right"
     },
     {
       "surface": "פעלו",
-      "english": "⟨his⟩ work",
+      "gloss": "⟨his⟩ work",
       "marks": "his work"
     }
-  ],
-  "timestamp": "2026-06-10T01:43:11.095237774Z",
-  "model": "glm-4.5"
+  ]
 }

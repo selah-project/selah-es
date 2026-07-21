@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 96:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69948,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70410
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:41.828822960Z",
   "translation": "Porque ⟨todos⟩ los dioses ⟨de⟩ los pueblos ⟨son⟩ ídolos, ⟨y⟩ YHWH ⟨los⟩ cielos ⟨hizo⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "אלהי",
-      "english": "dioses"
+      "gloss": "dioses"
     },
     {
       "surface": "העמים",
-      "english": "⟨de⟩ los pueblos"
+      "gloss": "⟨de⟩ los pueblos"
     },
     {
       "surface": "אלילים",
-      "english": "⟨son⟩ ídolos"
+      "gloss": "⟨son⟩ ídolos"
     },
     {
       "surface": "ויהוה",
-      "english": "⟨y⟩ YHWH"
+      "gloss": "⟨y⟩ YHWH"
     },
     {
       "surface": "שמים",
-      "english": "⟨los⟩ cielos"
+      "gloss": "⟨los⟩ cielos"
     },
     {
       "surface": "עשה",
-      "english": "⟨hizo⟩"
+      "gloss": "⟨hizo⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:41.828822960Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 69:26",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69899,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70293
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:21.323936714Z",
   "translation": "Sea ⟨el⟩ campamento de ellos devastado; en ⟨las⟩ tiendas de ellos no ⟨haya⟩ morador.",
   "tokens": [
     {
       "surface": "תהי",
-      "english": "Sea"
+      "gloss": "Sea"
     },
     {
       "surface": "טירתם",
-      "english": "⟨el⟩ campamento de ellos"
+      "gloss": "⟨el⟩ campamento de ellos"
     },
     {
       "surface": "נשמה",
-      "english": "devastado"
+      "gloss": "devastado"
     },
     {
       "surface": "באהליהם",
-      "english": "en ⟨las⟩ tiendas de ellos"
+      "gloss": "en ⟨las⟩ tiendas de ellos"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יהי",
-      "english": "⟨haya⟩"
+      "gloss": "⟨haya⟩"
     },
     {
       "surface": "ישב",
-      "english": "morador"
+      "gloss": "morador"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:21.323936714Z",
-  "model": "glm-4.5"
+  ]
 }

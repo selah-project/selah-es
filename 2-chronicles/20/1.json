@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 20:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 20,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:20:29.744668797Z",
+  "translation": "Y ⟨fue⟩ después de esto, vinieron ⟨los⟩ hijos de Moav y ⟨los⟩ hijos de Ammón y con ellos ⟨de⟩ los amonitas contra Yehoshafat para ⟨la⟩ guerra",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y ⟨fue⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "después de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "esto"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vinieron"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "y ⟨los⟩ hijos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "de Ammón"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "y con ellos"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "⟨de⟩ los amonitas"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "para ⟨la⟩ guerra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moab",
@@ -27,76 +86,6 @@
       "hebrew": "יהושפט"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58234,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58754
-  },
-  "translation": "Y ⟨fue⟩ después de esto, vinieron ⟨los⟩ hijos de Moav y ⟨los⟩ hijos de Ammón y con ellos ⟨de⟩ los amonitas contra Yehoshafat para ⟨la⟩ guerra",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y ⟨fue⟩"
-    },
-    {
-      "surface": "אחרי",
-      "english": "después de"
-    },
-    {
-      "surface": "כן",
-      "english": "esto"
-    },
-    {
-      "surface": "באו",
-      "english": "vinieron"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "ובני",
-      "english": "y ⟨los⟩ hijos"
-    },
-    {
-      "surface": "עמון",
-      "english": "de Ammón"
-    },
-    {
-      "surface": "ועמהם",
-      "english": "y con ellos"
-    },
-    {
-      "surface": "מהעמונים",
-      "english": "⟨de⟩ los amonitas"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "למלחמה",
-      "english": "para ⟨la⟩ guerra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:20:29.744668797Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 3:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26072,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26492
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:22:26.660496943Z",
   "translation": "Decid ⟨lo⟩ justo ⟨que es⟩ bueno, ⟨porque⟩ ⟨el⟩ fruto de ⟨sus⟩ hechos comerán",
   "tokens": [
     {
       "surface": "אמרו",
-      "english": "Decid"
+      "gloss": "Decid"
     },
     {
       "surface": "צדיק",
-      "english": "⟨lo⟩ justo"
+      "gloss": "⟨lo⟩ justo"
     },
     {
       "surface": "כי",
-      "english": "⟨que es⟩"
+      "gloss": "⟨que es⟩"
     },
     {
       "surface": "טוב",
-      "english": "bueno"
+      "gloss": "bueno"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "פרי",
-      "english": "⟨el⟩ fruto"
+      "gloss": "⟨el⟩ fruto"
     },
     {
       "surface": "מעלליהם",
-      "english": "de ⟨sus⟩ hechos"
+      "gloss": "de ⟨sus⟩ hechos"
     },
     {
       "surface": "יאכלו",
-      "english": "comerán"
+      "gloss": "comerán"
     }
-  ],
-  "timestamp": "2026-06-10T02:22:26.660496943Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "deuteronomy 32:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 32,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:28:06.223102759Z",
+  "translation": "Porque ⟨es⟩ ⟨la⟩ porción de YHWH su pueblo, Yaakov ⟨el⟩ cordel de ⟨su⟩ herencia",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "porción"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su pueblo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "cordel"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "su herencia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jacob",
@@ -13,52 +48,6 @@
       "hebrew": "יעקב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 277,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17223,
-    "prompt_tokens_details": {
-      "cached_tokens": 16232
-    },
-    "total_tokens": 17500
-  },
-  "translation": "Porque ⟨es⟩ ⟨la⟩ porción de YHWH su pueblo, Yaakov ⟨el⟩ cordel de ⟨su⟩ herencia",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "חלק",
-      "english": "porción"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "עמו",
-      "english": "su pueblo"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "חבל",
-      "english": "cordel"
-    },
-    {
-      "surface": "נחלתו",
-      "english": "su herencia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:28:06.223102759Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

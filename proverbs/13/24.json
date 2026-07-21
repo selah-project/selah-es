@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "proverbs 13:24",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59891,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60359
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:38:32.409059140Z",
   "translation": "El que retiene ⟨el⟩ vara de ⟨su⟩ hijo ⟨lo⟩ aborrece; pero ⟨el⟩ que ⟨lo⟩ ama ⟨lo⟩ busca temprano ⟨con⟩ corrección",
   "tokens": [
     {
       "surface": "חושך",
-      "english": "Retiene"
+      "gloss": "Retiene"
     },
     {
       "surface": "שבטו",
-      "english": "vara",
+      "gloss": "vara",
       "marks": "de ⟨su⟩ hijo"
     },
     {
       "surface": "שונא",
-      "english": "aborrece"
+      "gloss": "aborrece"
     },
     {
       "surface": "בנו",
-      "english": "hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "ואהבו",
-      "english": "ama"
+      "gloss": "ama"
     },
     {
       "surface": "שחרו",
-      "english": "busca temprano"
+      "gloss": "busca temprano"
     },
     {
       "surface": "מוסר",
-      "english": "corrección"
+      "gloss": "corrección"
     }
-  ],
-  "timestamp": "2026-06-10T01:38:32.409059140Z",
-  "model": "glm-4.5"
+  ]
 }

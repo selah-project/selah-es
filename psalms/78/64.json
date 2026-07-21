@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 64,
   "ref": "psalms 78:64",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69782,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70271
-  },
+  "verse": 64,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:00.395736666Z",
   "translation": "sus sacerdotes ⟨cayeron⟩ ⟨por⟩ ⟨la⟩ espada ⟨y⟩ sus viudas ⟨no⟩ ⟨hacían⟩ lamentación",
   "tokens": [
     {
       "surface": "כהניו",
-      "english": "Sus sacerdotes"
+      "gloss": "Sus sacerdotes"
     },
     {
       "surface": "בחרב",
-      "english": "⟨por⟩ ⟨la⟩ espada"
+      "gloss": "⟨por⟩ ⟨la⟩ espada"
     },
     {
       "surface": "נפלו",
-      "english": "⟨cayeron⟩"
+      "gloss": "⟨cayeron⟩"
     },
     {
       "surface": "ואלמנתיו",
-      "english": "⟨y⟩ sus viudas"
+      "gloss": "⟨y⟩ sus viudas"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תבכינה",
-      "english": "⟨hacían⟩ lamentación"
+      "gloss": "⟨hacían⟩ lamentación"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:00.395736666Z",
-  "model": "glm-4.5"
+  ]
 }

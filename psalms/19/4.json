@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 19:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69897,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70255
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:36.404995328Z",
   "translation": "Sin ⟨hay⟩ palabra y ⟨hay⟩ ⟨palabras⟩ ⟨en⟩ ⟨quien⟩ no ⟨escuche⟩ ⟨su⟩ voz.",
   "tokens": [
     {
       "surface": "אין",
-      "english": "Sin"
+      "gloss": "Sin"
     },
     {
       "surface": "אמר",
-      "english": "⟨hay⟩ palabra"
+      "gloss": "⟨hay⟩ palabra"
     },
     {
       "surface": "ואין",
-      "english": "y ⟨hay⟩"
+      "gloss": "y ⟨hay⟩"
     },
     {
       "surface": "דברים",
-      "english": "⟨palabras⟩"
+      "gloss": "⟨palabras⟩"
     },
     {
       "surface": "בלי",
-      "english": "⟨en⟩ ⟨quien⟩"
+      "gloss": "⟨en⟩ ⟨quien⟩"
     },
     {
       "surface": "נשמע",
-      "english": "no ⟨escuche⟩"
+      "gloss": "no ⟨escuche⟩"
     },
     {
       "surface": "קולם",
-      "english": "⟨su⟩ voz"
+      "gloss": "⟨su⟩ voz"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:36.404995328Z",
-  "model": "glm-4.5"
+  ]
 }

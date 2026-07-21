@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 31:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 31,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:35:07.636325831Z",
+  "translation": "Y dijo al ⟨pueblo⟩, ⟨a⟩ ⟨los⟩ habitantes ⟨de⟩ Yerushalayim, ⟨que⟩ diesen la porción ⟨de⟩ los sacerdotes y ⟨de⟩ los levitas, para que se fortalecieran ⟨en⟩ ⟨la⟩ Torá ⟨de⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨al⟩ ⟨pueblo⟩"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "⟨a⟩ ⟨los⟩ habitantes"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨de⟩ Yerushalayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "⟨que⟩ diesen"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "la porción"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨de⟩ los sacerdotes"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "y ⟨de⟩ los levitas"
+    },
+    {
+      "surface": "למען",
+      "gloss": "para que"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "se fortalecieran"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "⟨en⟩ ⟨la⟩ Torá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalén",
@@ -13,72 +68,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 618,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58237,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58855
-  },
-  "translation": "Y dijo al ⟨pueblo⟩, ⟨a⟩ ⟨los⟩ habitantes ⟨de⟩ Yerushalayim, ⟨que⟩ diesen la porción ⟨de⟩ los sacerdotes y ⟨de⟩ los levitas, para que se fortalecieran ⟨en⟩ ⟨la⟩ Torá ⟨de⟩ YHWH.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "לעם",
-      "english": "⟨al⟩ ⟨pueblo⟩"
-    },
-    {
-      "surface": "ליושבי",
-      "english": "⟨a⟩ ⟨los⟩ habitantes"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨de⟩ Yerushalayim"
-    },
-    {
-      "surface": "לתת",
-      "english": "⟨que⟩ diesen"
-    },
-    {
-      "surface": "מנת",
-      "english": "la porción"
-    },
-    {
-      "surface": "הכהנים",
-      "english": "⟨de⟩ los sacerdotes"
-    },
-    {
-      "surface": "והלוים",
-      "english": "y ⟨de⟩ los levitas"
-    },
-    {
-      "surface": "למען",
-      "english": "para que"
-    },
-    {
-      "surface": "יחזקו",
-      "english": "se fortalecieran"
-    },
-    {
-      "surface": "בתורת",
-      "english": "⟨en⟩ ⟨la⟩ Torá"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:35:07.636325831Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,108 +1,97 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-chronicles 19:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 1037,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57495,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 58532
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:48:59.463700726Z",
   "translation": "Y Joab vio que ⟨la⟩ guerra ⟨estaba⟩ puesta ⟨a⟩ ⟨él⟩ de frente y por detrás, y eligió de todos los escogidos ⟨de⟩ Israel y ⟨se⟩ dispuso ⟨para⟩ encontrarse ⟨con⟩ Aram",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y Joab vio",
+      "gloss": "Y Joab vio",
       "rationale": "Traducción común del verbo ver con sujeto"
     },
     {
       "surface": "יואב",
-      "english": "Joab",
+      "gloss": "Joab",
       "rationale": "Nombre propio conservado"
     },
     {
       "surface": "כי",
-      "english": "que",
+      "gloss": "que",
       "rationale": "Traducción como conjunción causal o explicativa"
     },
     {
       "surface": "היתה",
-      "english": "⟨estaba⟩",
+      "gloss": "⟨estaba⟩",
       "rationale": "Hebrew lacks copula - 'was' added"
     },
     {
       "surface": "פני",
-      "english": "de frente",
+      "gloss": "de frente",
       "rationale": "Idioma hebreo - 'frente' como indicador de posición"
     },
     {
       "surface": "המלחמה",
-      "english": "⟨la⟩ guerra",
+      "gloss": "⟨la⟩ guerra",
       "rationale": "Hebrew lacks article - 'the' added"
     },
     {
       "surface": "אליו",
-      "english": "⟨a⟩ ⟨él⟩",
+      "gloss": "⟨a⟩ ⟨él⟩",
       "rationale": "Preposición compuesta que requiere artículo y pronombre en español"
     },
     {
       "surface": "פנים",
-      "english": "y por detrás",
+      "gloss": "y por detrás",
       "rationale": "Segunda aparición de 'frente' con sentido diferente - traducida como 'detrás' según contexto"
     },
     {
       "surface": "ואחור",
-      "english": "y por detrás",
+      "gloss": "y por detrás",
       "rationale": "Añadido para clarificar el significado de 'frente y espalda'"
     },
     {
       "surface": "ויבחר",
-      "english": "y eligió",
+      "gloss": "y eligió",
       "rationale": "Traducción del verbo elegir"
     },
     {
       "surface": "מכל",
-      "english": "de todos",
+      "gloss": "de todos",
       "rationale": "Preposición compuesta 'de todos'"
     },
     {
       "surface": "בחור",
-      "english": "⟨los⟩ escogidos",
+      "gloss": "⟨los⟩ escogidos",
       "rationale": "Hebrew lacks article - 'the' added; 'escogidos' como sustantivo derivado del verbo"
     },
     {
       "surface": "בישראל",
-      "english": "⟨de⟩ Israel",
+      "gloss": "⟨de⟩ Israel",
       "rationale": "Preposición 'de' requerida en español"
     },
     {
       "surface": "ויערך",
-      "english": "⟨se⟩ dispuso",
+      "gloss": "⟨se⟩ dispuso",
       "rationale": "Verbo poner en orden\/dispuesto; pronombre reflexivo añadido"
     },
     {
       "surface": "לקראת",
-      "english": "⟨para⟩ encontrarse ⟨con⟩",
+      "gloss": "⟨para⟩ encontrarse ⟨con⟩",
       "rationale": "Preposición que requiere 'para' y 'con' en español"
     },
     {
       "surface": "ארם",
-      "english": "Aram",
+      "gloss": "Aram",
       "rationale": "Nombre propio conservado (Siria)"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:48:59.463700726Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

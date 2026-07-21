@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "jeremiah 29:5",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 446,
-    "prompt_tokens": 24622,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25068
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:44:00.348124784Z",
   "translation": "Construid casas y habitad ⟨en⟩ ellas, y plantad huertos, y comed ⟨el⟩ fruto ⟨de⟩ ellas.",
   "tokens": [
     {
       "surface": "בנו",
-      "english": "Construid"
+      "gloss": "Construid"
     },
     {
       "surface": "בתים",
-      "english": "casas"
+      "gloss": "casas"
     },
     {
       "surface": "ושבו",
-      "english": "y habitad"
+      "gloss": "y habitad"
     },
     {
       "surface": "ונטעו",
-      "english": "y plantad"
+      "gloss": "y plantad"
     },
     {
       "surface": "גנות",
-      "english": "huertos"
+      "gloss": "huertos"
     },
     {
       "surface": "ואכלו",
-      "english": "y comed"
+      "gloss": "y comed"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩ ⟨את⟩",
+      "gloss": "⟨el⟩ ⟨את⟩",
       "marks": "el fruto ⟨de⟩ ellas"
     },
     {
       "surface": "פרין",
-      "english": "fruto"
+      "gloss": "fruto"
     }
-  ],
-  "timestamp": "2026-07-16T21:44:00.348124784Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 23:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69771,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70185
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:07:22.668007917Z",
   "translation": "Un salmo de David. YHWH ⟨es⟩ mi pastor, ⟨no⟩ faltaré.",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "Un salmo"
+      "gloss": "Un salmo"
     },
     {
       "surface": "לדוד",
-      "english": "de David"
+      "gloss": "de David"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "רעי",
-      "english": "⟨es⟩ mi pastor",
+      "gloss": "⟨es⟩ mi pastor",
       "marks": "YHWH"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "אחסר",
-      "english": "faltaré"
+      "gloss": "faltaré"
     }
-  ],
-  "timestamp": "2026-06-09T23:07:22.668007917Z",
-  "model": "glm-4.5"
+  ]
 }

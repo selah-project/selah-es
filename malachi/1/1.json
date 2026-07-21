@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "malachi 1:1",
   "book": "malachi",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 561,
-    "prompt_tokens": 23595,
-    "prompt_tokens_details": {
-      "cached_tokens": 22656
-    },
-    "total_tokens": 24156
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:48:03.650622630Z",
   "translation": "La carga de ⟨el⟩ davar de YHWH ⟨para⟩ Yisrael, ⟨por⟩ ⟨la⟩ mano de Malají:",
   "tokens": [
     {
       "surface": "משא",
-      "english": "La carga"
+      "gloss": "La carga"
     },
     {
       "surface": "דבר",
-      "english": "davar"
+      "gloss": "davar"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨para⟩"
+      "gloss": "⟨para⟩"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ביד",
-      "english": "⟨por⟩ ⟨la⟩ mano"
+      "gloss": "⟨por⟩ ⟨la⟩ mano"
     },
     {
       "surface": "מלאכי",
-      "english": "Malají"
+      "gloss": "Malají"
     }
-  ],
-  "timestamp": "2026-07-16T22:48:03.650622630Z",
-  "model": "glm-4.5"
+  ]
 }

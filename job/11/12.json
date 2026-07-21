@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 11:12",
   "book": "job",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27024,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27560
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:12.216444920Z",
   "translation": "y ⟨un⟩ hombre ⟨es⟩ hueco ⟨y⟩ presumido, ⟨y⟩ ⟨el⟩ potrillo ⟨de⟩ asno salvaje ⟨un⟩ hombre nace",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "Y ⟨un⟩ hombre",
+      "gloss": "Y ⟨un⟩ hombre",
       "marks": "hombre"
     },
     {
       "surface": "נבוב",
-      "english": "⟨es⟩ hueco",
+      "gloss": "⟨es⟩ hueco",
       "marks": ""
     },
     {
       "surface": "ילבב",
-      "english": "⟨y⟩ presumido",
+      "gloss": "⟨y⟩ presumido",
       "marks": ""
     },
     {
       "surface": "ועיר",
-      "english": "⟨y⟩ ⟨el⟩ potrillo",
+      "gloss": "⟨y⟩ ⟨el⟩ potrillo",
       "marks": "potrillo"
     },
     {
       "surface": "פרא",
-      "english": "⟨de⟩ asno salvaje",
+      "gloss": "⟨de⟩ asno salvaje",
       "marks": "asno salvaje"
     },
     {
       "surface": "אדם",
-      "english": "⟨un⟩ hombre",
+      "gloss": "⟨un⟩ hombre",
       "marks": "hombre"
     },
     {
       "surface": "יולד",
-      "english": "nace",
+      "gloss": "nace",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T01:59:12.216444920Z",
-  "model": "glm-4.5"
+  ]
 }

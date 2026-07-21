@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 147:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69918,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70318
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:08.919733668Z",
   "translation": "⟨No⟩ ⟨en⟩ la fuerza ⟨del⟩ caballo ⟨se⟩ complace ⟨el⟩ YHWH ⟨ni⟩ ⟨en⟩ las piernas ⟨del⟩ hombre ⟨le⟩ agrada",
   "tokens": [
     {
       "surface": "לא",
-      "english": "⟨No⟩"
+      "gloss": "⟨No⟩"
     },
     {
       "surface": "בגבורת",
-      "english": "⟨en⟩ la fuerza ⟨del⟩"
+      "gloss": "⟨en⟩ la fuerza ⟨del⟩"
     },
     {
       "surface": "הסוס",
-      "english": "caballo"
+      "gloss": "caballo"
     },
     {
       "surface": "יחפץ",
-      "english": "⟨se⟩ complace ⟨el⟩ YHWH"
+      "gloss": "⟨se⟩ complace ⟨el⟩ YHWH"
     },
     {
       "surface": "לא",
-      "english": "⟨ni⟩"
+      "gloss": "⟨ni⟩"
     },
     {
       "surface": "בשוקי",
-      "english": "⟨en⟩ las piernas ⟨del⟩"
+      "gloss": "⟨en⟩ las piernas ⟨del⟩"
     },
     {
       "surface": "האיש",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "ירצה",
-      "english": "⟨le⟩ agrada"
+      "gloss": "⟨le⟩ agrada"
     }
-  ],
-  "timestamp": "2026-06-10T00:12:08.919733668Z",
-  "model": "glm-4.5"
+  ]
 }

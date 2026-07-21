@@ -1,80 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 22:15",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 688,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60006,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60694
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:45:15.651611870Z",
   "translation": "La insensatez ⟨está⟩ atada en ⟨el⟩ corazón de un muchacho; ⟨la⟩ vara de corrección ⟨la⟩ alejará de él.",
   "tokens": [
     {
       "surface": "אולת",
-      "english": "La insensatez",
+      "gloss": "La insensatez",
       "lemma": "אולת",
-      "strongs": 200,
-      "gloss": "silliness, foolishness"
+      "strongs": 200
     },
     {
       "surface": "קשורה",
-      "english": "atada",
+      "gloss": "atada",
       "lemma": "קשר",
-      "strongs": 7194,
-      "gloss": "to tie, bind"
+      "strongs": 7194
     },
     {
       "surface": "בלב",
-      "english": "en ⟨el⟩ corazón",
+      "gloss": "en ⟨el⟩ corazón",
       "lemma": "לב",
-      "strongs": 3820,
-      "gloss": "heart"
+      "strongs": 3820
     },
     {
       "surface": "נער",
-      "english": "de un muchacho",
+      "gloss": "de un muchacho",
       "lemma": "נער",
-      "strongs": 5288,
-      "gloss": "boy, youth"
+      "strongs": 5288
     },
     {
       "surface": "שבט",
-      "english": "⟨la⟩ vara",
+      "gloss": "⟨la⟩ vara",
       "lemma": "שבט",
-      "strongs": 7626,
-      "gloss": "rod, staff"
+      "strongs": 7626
     },
     {
       "surface": "מוסר",
-      "english": "de corrección",
+      "gloss": "de corrección",
       "lemma": "מוסר",
-      "strongs": 4148,
-      "gloss": "chastisement, discipline"
+      "strongs": 4148
     },
     {
       "surface": "ירחיקנה",
-      "english": "⟨la⟩ alejará",
+      "gloss": "⟨la⟩ alejará",
       "lemma": "רחק",
-      "strongs": 7368,
-      "gloss": "to remove, put far from"
+      "strongs": 7368
     },
     {
       "surface": "ממנו",
-      "english": "de él",
+      "gloss": "de él",
       "lemma": "מן",
-      "strongs": 4480,
-      "gloss": "from"
+      "strongs": 4480
     }
-  ],
-  "timestamp": "2026-06-10T01:45:15.651611870Z",
-  "model": "glm-4.5"
+  ]
 }

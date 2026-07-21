@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "2-chronicles 6:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 6,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:05:12.110350837Z",
+  "translation": "Y sucedió con el corazón de Davidd mi padre ⟨el⟩ construir una casa para ⟨el⟩ Nombre de YHWH, Elohim de Yisrael",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "el corazón"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mi padre"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "⟨el⟩ construir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa",
+      "marks": "una casa"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "para ⟨el⟩ Nombre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,69 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57962,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58357
-  },
-  "translation": "Y sucedió con el corazón de Davidd mi padre ⟨el⟩ construir una casa para ⟨el⟩ Nombre de YHWH, Elohim de Yisrael",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "לבב",
-      "english": "el corazón"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "אבי",
-      "english": "mi padre"
-    },
-    {
-      "surface": "לבנות",
-      "english": "⟨el⟩ construir"
-    },
-    {
-      "surface": "בית",
-      "english": "una casa",
-      "marks": "una casa"
-    },
-    {
-      "surface": "לשם",
-      "english": "para ⟨el⟩ Nombre"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:05:12.110350837Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

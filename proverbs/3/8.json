@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 3:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59672,
-    "prompt_tokens_details": {
-      "cached_tokens": 5
-    },
-    "total_tokens": 59988
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:29:07.199874041Z",
   "translation": "Sanidad ⟨será⟩ para tu ombligo y humedad para tus huesos",
   "tokens": [
     {
       "surface": "רפאות",
-      "english": "Sanidad"
+      "gloss": "Sanidad"
     },
     {
       "surface": "תהי",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "לשרך",
-      "english": "para tu ombligo"
+      "gloss": "para tu ombligo"
     },
     {
       "surface": "ושקוי",
-      "english": "y humedad"
+      "gloss": "y humedad"
     },
     {
       "surface": "לעצמותיך",
-      "english": "para tus huesos"
+      "gloss": "para tus huesos"
     }
-  ],
-  "timestamp": "2026-06-10T01:29:07.199874041Z",
-  "model": "glm-4.5"
+  ]
 }

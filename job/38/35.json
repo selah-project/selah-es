@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "job 38:35",
   "book": "job",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26961,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27286
-  },
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:15:51.290060984Z",
   "translation": "¿Puedes tú enviar relámpagos ⟨y que⟩ vayan ⟨y que⟩ digan a ti: Heme aquí?",
   "tokens": [
     {
       "surface": "התשלח",
-      "english": "¿Puedes tú enviar"
+      "gloss": "¿Puedes tú enviar"
     },
     {
       "surface": "ברקים",
-      "english": "relámpagos"
+      "gloss": "relámpagos"
     },
     {
       "surface": "וילכו",
-      "english": "⟨y que⟩ vayan"
+      "gloss": "⟨y que⟩ vayan"
     },
     {
       "surface": "ויאמרו",
-      "english": "⟨y que⟩ digan"
+      "gloss": "⟨y que⟩ digan"
     },
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "הננו",
-      "english": "Heme aquí"
+      "gloss": "Heme aquí"
     }
-  ],
-  "timestamp": "2026-06-10T02:15:51.290060984Z",
-  "model": "glm-4.5"
+  ]
 }

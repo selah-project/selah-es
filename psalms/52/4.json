@@ -1,56 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 52:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 753,
-    "prompt_tokens": 70023,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70776
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:10.327817134Z",
   "translation": "Amas ⟨todas⟩ las palabras devoradoras, ¡oh lengua engañosa!",
   "tokens": [
     {
       "surface": "הוות",
-      "english": "Amas",
+      "gloss": "Amas",
       "notes": "הוות: participio pass. de הוה (ser), aquí imperativo con valor de '¡ama!'"
     },
     {
       "surface": "תחשב",
-      "english": "",
+      "gloss": "",
       "notes": "תחשב: literalmente 'tú pensarás', aquí elíptico; contexto exige 'todas las palabras'"
     },
     {
       "surface": "לשונך",
-      "english": "¡oh lengua engañosa!",
+      "gloss": "¡oh lengua engañosa!",
       "notes": "לשונך: vocativo 'tu lengua', con epíteto 'engañosa' implícito en רמיה"
     },
     {
       "surface": "כתער",
-      "english": "",
+      "gloss": "",
       "notes": "כתער: preposición 'como' + 'una navaja', aquí elíptico; concepto recupera en 'palabras devoradoras'"
     },
     {
       "surface": "מלטש",
-      "english": "",
+      "gloss": "",
       "notes": "מלטש: participio 'afilada', aquí elíptico; 'navaja afilada' se entiende del contexto"
     },
     {
       "surface": "עשה",
-      "english": "",
+      "gloss": "",
       "notes": "עשה: participio 'que hace', aquí elíptico; concepto se funde en el predicado verbal"
     },
     {
       "surface": "רמיה",
-      "english": "",
+      "gloss": "",
       "notes": "רמיה: sustantivo 'engaño'; traducido como adjetivo 'engañosa' aplicado a 'lengua'"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:10.327817134Z",
-  "model": "glm-4.5"
+  ]
 }

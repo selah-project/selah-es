@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "numbers 21:32",
   "book": "numbers",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25538,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25989
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:57:32.465946052Z",
   "translation": "Y Moshé envió a espiar ⟨a⟩ Jaazer ⟨את⟩ y capturaron sus hijas ⟨וילכדו בנתיה⟩ y desposeyeron ⟨a⟩ el amorreo ⟨את⟩ que ⟨está⟩ allí",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "Y envió"
+      "gloss": "Y envió"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לרגל",
-      "english": "a espiar"
+      "gloss": "a espiar"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Jaazer"
     },
     {
       "surface": "יעזר",
-      "english": "Jaazer"
+      "gloss": "Jaazer"
     },
     {
       "surface": "וילכדו",
-      "english": "y capturaron"
+      "gloss": "y capturaron"
     },
     {
       "surface": "בנתיה",
-      "english": "sus hijas"
+      "gloss": "sus hijas"
     },
     {
       "surface": "ויירש",
-      "english": "y desposeyeron"
+      "gloss": "y desposeyeron"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "el amorreo"
     },
     {
       "surface": "האמרי",
-      "english": "el amorreo"
+      "gloss": "el amorreo"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     }
-  ],
-  "timestamp": "2026-06-10T04:57:32.465946052Z",
-  "model": "glm-4.5"
+  ]
 }

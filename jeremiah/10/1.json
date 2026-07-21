@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 10:1",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 420,
-    "prompt_tokens": 24711,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25131
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:35:53.553733243Z",
   "translation": "Oíd ⟨את⟩ la palabra que YHWH habló sobre vosotros, casa de Yisrael",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "Oíd"
+      "gloss": "Oíd"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la palabra"
     },
     {
       "surface": "הדבר",
-      "english": "la palabra"
+      "gloss": "la palabra"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "דבר",
-      "english": "habló"
+      "gloss": "habló"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עליכם",
-      "english": "sobre vosotros"
+      "gloss": "sobre vosotros"
     },
     {
       "surface": "בית",
-      "english": "casa de"
+      "gloss": "casa de"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T21:35:53.553733243Z",
-  "model": "glm-4.5"
+  ]
 }

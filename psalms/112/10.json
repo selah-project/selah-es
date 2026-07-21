@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 112:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 112,
-  "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70076,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70735
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:48.047693822Z",
   "translation": "El malvado ⟨se lo⟩ verá y se ⟨estará⟩ enojado; ⟨sus⟩ dientes ⟨los⟩ rechinará y ⟨se⟩ derretirá; el deseo ⟨de los⟩ malvados perecerá.",
   "tokens": [
     {
       "surface": "רשע",
-      "english": "El malvado"
+      "gloss": "El malvado"
     },
     {
       "surface": "יראה",
-      "english": "⟨se lo⟩ verá",
+      "gloss": "⟨se lo⟩ verá",
       "marks": "El malvado"
     },
     {
       "surface": "וכעס",
-      "english": "y se ⟨estará⟩ enojado"
+      "gloss": "y se ⟨estará⟩ enojado"
     },
     {
       "surface": "שניו",
-      "english": "⟨sus⟩ dientes"
+      "gloss": "⟨sus⟩ dientes"
     },
     {
       "surface": "יחרק",
-      "english": "⟨los⟩ rechinará",
+      "gloss": "⟨los⟩ rechinará",
       "marks": "⟨sus⟩ dientes"
     },
     {
       "surface": "ונמס",
-      "english": "y ⟨se⟩ derretirá"
+      "gloss": "y ⟨se⟩ derretirá"
     },
     {
       "surface": "תאות",
-      "english": "el deseo"
+      "gloss": "el deseo"
     },
     {
       "surface": "רשעים",
-      "english": "⟨de los⟩ malvados",
+      "gloss": "⟨de los⟩ malvados",
       "marks": "el deseo"
     },
     {
       "surface": "תאבד",
-      "english": "perecerá"
+      "gloss": "perecerá"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:48.047693822Z",
-  "model": "glm-4.5"
+  ]
 }

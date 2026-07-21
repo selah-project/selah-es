@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 107:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62513,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 62856
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:21:53.691415434Z",
   "translation": "Y los reunió ⟨de⟩ las tierras, ⟨desde⟩ el oriente y ⟨desde⟩ el occidente, ⟨desde⟩ el norte y ⟨desde⟩ el mar.",
   "tokens": [
     {
       "surface": "ומארצות",
-      "english": "Y ⟨de⟩ las tierras"
+      "gloss": "Y ⟨de⟩ las tierras"
     },
     {
       "surface": "קבצם",
-      "english": "los reunió"
+      "gloss": "los reunió"
     },
     {
       "surface": "ממזרח",
-      "english": "⟨desde⟩ el oriente"
+      "gloss": "⟨desde⟩ el oriente"
     },
     {
       "surface": "וממערב",
-      "english": "y ⟨desde⟩ el occidente"
+      "gloss": "y ⟨desde⟩ el occidente"
     },
     {
       "surface": "מצפון",
-      "english": "⟨desde⟩ el norte"
+      "gloss": "⟨desde⟩ el norte"
     },
     {
       "surface": "ומים",
-      "english": "y ⟨desde⟩ el mar"
+      "gloss": "y ⟨desde⟩ el mar"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:21:53.691415434Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

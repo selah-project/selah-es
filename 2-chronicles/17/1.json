@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 17:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 17,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:16:50.741348952Z",
+  "translation": "Y reinó Yehoshafat ⟨el⟩ hijo de él en lugar de él y se fortaleció sobre Yisrael",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "Y reinó"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨el⟩ hijo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "de él en lugar de él"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "y se fortaleció"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,52 +48,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57705,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58138
-  },
-  "translation": "Y reinó Yehoshafat ⟨el⟩ hijo de él en lugar de él y se fortaleció sobre Yisrael",
-  "tokens": [
-    {
-      "surface": "וימלך",
-      "english": "Y reinó"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨el⟩ hijo"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "de él en lugar de él"
-    },
-    {
-      "surface": "ויתחזק",
-      "english": "y se fortaleció"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:16:50.741348952Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

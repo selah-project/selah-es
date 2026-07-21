@@ -1,9 +1,91 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "1-kings 15:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 15,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:07:11.537977624Z",
+  "translation": "Y Baashá ⟨el⟩ hijo de Ahíyá ⟨de⟩ ⟨la⟩ casa de Isajar conspiró contra ⟨él⟩, y Baashá ⟨lo⟩ hirió en Guibetón ⟨que ⟨era⟩⟩ ⟨de⟩ ⟨los⟩ filisteos—pues Nadab y todo Yisrael ⟨estaban⟩ sitiando Guibetón.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "Y Baashá conspiró"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contra ⟨él⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Y Baashá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨el⟩ hijo"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "de Ahíyá"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨de⟩ ⟨la⟩ casa",
+      "marks": "Isajar"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Isajar"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "y Baashá ⟨lo⟩ hirió"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "y Baashá"
+    },
+    {
+      "surface": "בגבתון",
+      "gloss": "en Guibetón"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que ⟨era⟩⟩",
+      "marks": "Gibbetón de los filisteos"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "⟨de⟩ ⟨los⟩ filisteos"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "pues Nadab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "⟨estaban⟩ sitiando"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Guibetón"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,99 +95,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 865,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63078,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63943
-  },
-  "translation": "Y Baashá ⟨el⟩ hijo de Ahíyá ⟨de⟩ ⟨la⟩ casa de Isajar conspiró contra ⟨él⟩, y Baashá ⟨lo⟩ hirió en Guibetón ⟨que ⟨era⟩⟩ ⟨de⟩ ⟨los⟩ filisteos—pues Nadab y todo Yisrael ⟨estaban⟩ sitiando Guibetón.",
-  "tokens": [
-    {
-      "surface": "ויקשר",
-      "english": "Y Baashá conspiró"
-    },
-    {
-      "surface": "עליו",
-      "english": "contra ⟨él⟩",
-      "marks": "Nadab"
-    },
-    {
-      "surface": "בעשא",
-      "english": "Y Baashá"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨el⟩ hijo"
-    },
-    {
-      "surface": "אחיה",
-      "english": "de Ahíyá"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨de⟩ ⟨la⟩ casa",
-      "marks": "Isajar"
-    },
-    {
-      "surface": "יששכר",
-      "english": "Isajar"
-    },
-    {
-      "surface": "ויכהו",
-      "english": "y Baashá ⟨lo⟩ hirió"
-    },
-    {
-      "surface": "בעשא",
-      "english": "y Baashá"
-    },
-    {
-      "surface": "בגבתון",
-      "english": "en Guibetón"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que ⟨era⟩⟩",
-      "marks": "Gibbetón de los filisteos"
-    },
-    {
-      "surface": "לפלשתים",
-      "english": "⟨de⟩ ⟨los⟩ filisteos"
-    },
-    {
-      "surface": "ונדב",
-      "english": "pues Nadab"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "צרים",
-      "english": "⟨estaban⟩ sitiando"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "גבתון",
-      "english": "Guibetón"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:07:11.537977624Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

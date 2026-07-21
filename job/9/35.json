@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "job 9:35",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27037,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27443
-  },
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:34.625476797Z",
   "translation": "Entonces hablaría y no temería ⟨a⟩ él; porque no ⟨es⟩ así ⟨con⟩migo.",
   "tokens": [
     {
       "surface": "אדברה",
-      "english": "Entonces hablaría"
+      "gloss": "Entonces hablaría"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "איראנו",
-      "english": "temería ⟨a⟩ él",
+      "gloss": "temería ⟨a⟩ él",
       "marks": "a él"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "כן",
-      "english": "⟨es⟩ así"
+      "gloss": "⟨es⟩ así"
     },
     {
       "surface": "אנכי",
-      "english": "⟨con⟩migo",
+      "gloss": "⟨con⟩migo",
       "marks": "conmigo"
     },
     {
       "surface": "עמדי",
-      "english": "⟨con⟩migo"
+      "gloss": "⟨con⟩migo"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:34.625476797Z",
-  "model": "glm-4.5"
+  ]
 }

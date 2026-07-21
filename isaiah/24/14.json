@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "isaiah 24:14",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26110,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26591
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:34:50.654113823Z",
   "translation": "Ellos ⟨han⟩ de alzar ⟨su⟩ voz, ⟨han⟩ de gritar ⟨con⟩ júbilo ⟨por⟩ la majestuosidad de YHWH, ⟨han⟩ de gritar ⟨de⟩ alegría desde ⟨el⟩ mar",
   "tokens": [
     {
       "surface": "המה",
-      "english": "Ellos"
+      "gloss": "Ellos"
     },
     {
       "surface": "ישאו",
-      "english": "⟨han⟩ de alzar"
+      "gloss": "⟨han⟩ de alzar"
     },
     {
       "surface": "קולם",
-      "english": "⟨su⟩ voz"
+      "gloss": "⟨su⟩ voz"
     },
     {
       "surface": "ירנו",
-      "english": "⟨han⟩ de gritar ⟨con⟩ júbilo"
+      "gloss": "⟨han⟩ de gritar ⟨con⟩ júbilo"
     },
     {
       "surface": "בגאון",
-      "english": "⟨por⟩ la majestuosidad de YHWH"
+      "gloss": "⟨por⟩ la majestuosidad de YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צהלו",
-      "english": "⟨han⟩ de gritar ⟨de⟩ alegría"
+      "gloss": "⟨han⟩ de gritar ⟨de⟩ alegría"
     },
     {
       "surface": "מים",
-      "english": "desde ⟨el⟩ mar"
+      "gloss": "desde ⟨el⟩ mar"
     }
-  ],
-  "timestamp": "2026-06-10T02:34:50.654113823Z",
-  "model": "glm-4.5"
+  ]
 }

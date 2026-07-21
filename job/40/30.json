@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "job 40:30",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26769,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27105
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:27.945770103Z",
   "translation": "¿Harán banquetes ⟨de⟩ él los compañeros de pescadores? ¿Lo ⟨dividirán⟩ entre los comerciantes cananeos?",
   "tokens": [
     {
       "surface": "יכרו",
-      "english": "¿Harán banquetes"
+      "gloss": "¿Harán banquetes"
     },
     {
       "surface": "עליו",
-      "english": "⟨de⟩ él",
+      "gloss": "⟨de⟩ él",
       "marks": "él"
     },
     {
       "surface": "חברים",
-      "english": "los compañeros"
+      "gloss": "los compañeros"
     },
     {
       "surface": "יחצוהו",
-      "english": "¿Lo ⟨dividirán⟩",
+      "gloss": "¿Lo ⟨dividirán⟩",
       "marks": "lo"
     },
     {
       "surface": "בין",
-      "english": "entre"
+      "gloss": "entre"
     },
     {
       "surface": "כנענים",
-      "english": "los comerciantes cananeos"
+      "gloss": "los comerciantes cananeos"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:27.945770103Z",
-  "model": "glm-4.5"
+  ]
 }

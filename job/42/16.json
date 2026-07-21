@@ -1,83 +1,75 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 42:16",
   "book": "job",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 488,
-    "prompt_tokens": 27862,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 28350
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:03:36.900956414Z",
   "translation": "Y vivió Iyov después de esto ⟨ciento⟩ y cuarenta años, y vio ⟨את⟩ sus hijos y ⟨את⟩ los hijos de sus hijos, cuatro generaciones.",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "Y vivió"
+      "gloss": "Y vivió"
     },
     {
       "surface": "איוב",
-      "english": "Iyov"
+      "gloss": "Iyov"
     },
     {
       "surface": "אחרי",
-      "english": "después de"
+      "gloss": "después de"
     },
     {
       "surface": "זאת",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "מאה",
-      "english": "⟨ciento⟩"
+      "gloss": "⟨ciento⟩"
     },
     {
       "surface": "וארבעים",
-      "english": "y cuarenta"
+      "gloss": "y cuarenta"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "וירא",
-      "english": "y vio"
+      "gloss": "y vio"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus hijos"
     },
     {
       "surface": "בניו",
-      "english": "sus hijos"
+      "gloss": "sus hijos"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los hijos de sus hijos"
     },
     {
       "surface": "בני",
-      "english": "los hijos de"
+      "gloss": "los hijos de"
     },
     {
       "surface": "בניו",
-      "english": "sus hijos"
+      "gloss": "sus hijos"
     },
     {
       "surface": "ארבעה",
-      "english": "cuatro"
+      "gloss": "cuatro"
     },
     {
       "surface": "דרות",
-      "english": "generaciones"
+      "gloss": "generaciones"
     }
-  ],
-  "timestamp": "2026-07-16T22:03:36.900956414Z",
-  "model": "glm-4.5"
+  ]
 }

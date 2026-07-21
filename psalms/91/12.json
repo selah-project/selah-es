@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 91:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69952,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70318
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:27.962686932Z",
   "translation": "Sobre las manos ⟨te⟩ levantarán, ⟨para que⟩ no ⟨te⟩ golpees ⟨con⟩ la piedra ⟨tu⟩ pie",
   "tokens": [
     {
       "surface": "על",
-      "english": "Sobre"
+      "gloss": "Sobre"
     },
     {
       "surface": "כפים",
-      "english": "las manos"
+      "gloss": "las manos"
     },
     {
       "surface": "ישאונך",
-      "english": "⟨te⟩ levantarán"
+      "gloss": "⟨te⟩ levantarán"
     },
     {
       "surface": "פן",
-      "english": "⟨para que⟩"
+      "gloss": "⟨para que⟩"
     },
     {
       "surface": "תגף",
-      "english": "no ⟨te⟩ golpees"
+      "gloss": "no ⟨te⟩ golpees"
     },
     {
       "surface": "באבן",
-      "english": "⟨con⟩ la piedra"
+      "gloss": "⟨con⟩ la piedra"
     },
     {
       "surface": "רגלך",
-      "english": "⟨tu⟩ pie"
+      "gloss": "⟨tu⟩ pie"
     }
-  ],
-  "timestamp": "2026-06-09T23:44:27.962686932Z",
-  "model": "glm-4.5"
+  ]
 }

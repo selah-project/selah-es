@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 97:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 97,
-  "usage": {
-    "completion_tokens": 287,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69904,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70191
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:47:23.705251223Z",
   "translation": "YHWH reina ⟨se⟩ alegre ⟨la⟩ tierra; regocíjense ⟨las⟩ muchas islas.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מלך",
-      "english": "reina"
+      "gloss": "reina"
     },
     {
       "surface": "תגל",
-      "english": "⟨se⟩ alegre"
+      "gloss": "⟨se⟩ alegre"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "ישמחו",
-      "english": "regocíjense"
+      "gloss": "regocíjense"
     },
     {
       "surface": "איים",
-      "english": "islas"
+      "gloss": "islas"
     },
     {
       "surface": "רבים",
-      "english": "muchas"
+      "gloss": "muchas"
     }
-  ],
-  "timestamp": "2026-06-09T23:47:23.705251223Z",
-  "model": "glm-4.5"
+  ]
 }

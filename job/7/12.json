@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 7:12",
   "book": "job",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27069,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27528
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:14.607371246Z",
   "translation": "¿⟨Soy⟩ yo el ⟨mar⟩ ⟨o⟩ ⟨un⟩ monstruo ⟨marino⟩, ⟨para⟩ que tú ⟨pongas⟩ ⟨sobre⟩ mí ⟨una⟩ guardia?",
   "tokens": [
     {
       "surface": "הים",
-      "english": "⟨Mar⟩"
+      "gloss": "⟨Mar⟩"
     },
     {
       "surface": "אני",
-      "english": "⟨Soy⟩ yo"
+      "gloss": "⟨Soy⟩ yo"
     },
     {
       "surface": "אם",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "תנין",
-      "english": "⟨un⟩ monstruo ⟨marino⟩"
+      "gloss": "⟨un⟩ monstruo ⟨marino⟩"
     },
     {
       "surface": "כי",
-      "english": "⟨para⟩ que"
+      "gloss": "⟨para⟩ que"
     },
     {
       "surface": "תשים",
-      "english": "⟨pongas⟩"
+      "gloss": "⟨pongas⟩"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩ mí"
+      "gloss": "⟨sobre⟩ mí"
     },
     {
       "surface": "משמר",
-      "english": "⟨una⟩ guardia"
+      "gloss": "⟨una⟩ guardia"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:14.607371246Z",
-  "model": "glm-4.5"
+  ]
 }

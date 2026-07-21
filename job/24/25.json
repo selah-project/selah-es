@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 24:25",
   "book": "job",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27090,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27464
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:07:01.088455531Z",
   "translation": "Y si no ⟨es⟩ así ahora, ¿quién me hará mentiroso, y pondrá ⟨a⟩ nada mi palabra?",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "Y si"
+      "gloss": "Y si"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אפו",
-      "english": "⟨es⟩ así ahora"
+      "gloss": "⟨es⟩ así ahora"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "י�כזיבני",
-      "english": "me hará mentiroso"
+      "gloss": "me hará mentiroso"
     },
     {
       "surface": "וישם",
-      "english": "y pondrá ⟨a⟩"
+      "gloss": "y pondrá ⟨a⟩"
     },
     {
       "surface": "לאל",
-      "english": "nada"
+      "gloss": "nada"
     },
     {
       "surface": "מלתי",
-      "english": "mi palabra"
+      "gloss": "mi palabra"
     }
-  ],
-  "timestamp": "2026-06-10T02:07:01.088455531Z",
-  "model": "glm-4.5"
+  ]
 }

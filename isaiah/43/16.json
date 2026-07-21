@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "isaiah 43:16",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26113,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26577
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:48:15.891814869Z",
   "translation": "Así dice YHWH, el ⟨que⟩ da ⟨un⟩ camino en ⟨el⟩ mar, y ⟨un⟩ sendero en ⟨las⟩ aguas poderosas,",
   "tokens": [
     {
       "surface": "כה",
-      "english": "Así"
+      "gloss": "Así"
     },
     {
       "surface": "אמר",
-      "english": "dice"
+      "gloss": "dice"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הנותן",
-      "english": "el ⟨que⟩ da",
+      "gloss": "el ⟨que⟩ da",
       "marks": "camino"
     },
     {
       "surface": "בים",
-      "english": "en ⟨el⟩ mar"
+      "gloss": "en ⟨el⟩ mar"
     },
     {
       "surface": "דרך",
-      "english": "camino"
+      "gloss": "camino"
     },
     {
       "surface": "ובמים",
-      "english": "y ⟨un⟩ sendero en ⟨las⟩ aguas",
+      "gloss": "y ⟨un⟩ sendero en ⟨las⟩ aguas",
       "marks": "sendero"
     },
     {
       "surface": "עזים",
-      "english": "poderosas"
+      "gloss": "poderosas"
     },
     {
       "surface": "נתיבה",
-      "english": "sendero"
+      "gloss": "sendero"
     }
-  ],
-  "timestamp": "2026-06-10T02:48:15.891814869Z",
-  "model": "glm-4.5"
+  ]
 }

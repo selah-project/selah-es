@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 63:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 403,
-    "prompt_tokens": 69972,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70375
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:52.250484040Z",
   "translation": "Porque tú has sido ⟨mi⟩ ayuda, y en la sombra de tus alas cantaré con júbilo",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "היית",
-      "english": "tú has sido"
+      "gloss": "tú has sido"
     },
     {
       "surface": "עזרתה",
-      "english": "⟨mi⟩ ayuda"
+      "gloss": "⟨mi⟩ ayuda"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "ובצל",
-      "english": "y en la sombra"
+      "gloss": "y en la sombra"
     },
     {
       "surface": "כנפיך",
-      "english": "de tus alas"
+      "gloss": "de tus alas"
     },
     {
       "surface": "ארנן",
-      "english": "cantaré con júbilo"
+      "gloss": "cantaré con júbilo"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:52.250484040Z",
-  "model": "glm-4.5"
+  ]
 }

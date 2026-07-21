@@ -1,43 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 39:12",
   "book": "exodus",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 406,
-    "prompt_tokens": 23701,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24107
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:28:03.740155720Z",
   "translation": "y ⟨el⟩ tercer ⟨rango⟩, ⟨את⟩ el ligurio, ⟨את⟩ el ágata, y la amatista;",
   "tokens": [
     {
       "surface": "וְ\/הַ\/טּ֖וּר",
-      "english": "y ⟨el⟩ tercer ⟨rango⟩"
+      "gloss": "y ⟨el⟩ tercer ⟨rango⟩"
     },
     {
       "surface": "הַ\/שְּׁלִישִׁ֑י",
-      "english": "⟨el⟩ tercer"
+      "gloss": "⟨el⟩ tercer"
     },
     {
       "surface": "לֶ֥שֶׁם",
-      "english": "⟨את⟩ el ligurio",
+      "gloss": "⟨את⟩ el ligurio",
       "marks": "ligurio"
     },
     {
       "surface": "שְׁבוֹ",
-      "english": "⟨את⟩ el ágata",
+      "gloss": "⟨את⟩ el ágata",
       "marks": "ágata"
     },
     {
       "surface": "וְ\/אַחְלָֽמָה",
-      "english": "y la amatista"
+      "gloss": "y la amatista"
     }
-  ],
-  "timestamp": "2026-07-16T20:28:03.740155720Z",
-  "model": "glm-4.5"
+  ]
 }

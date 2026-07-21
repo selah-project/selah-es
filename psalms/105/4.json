@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 105:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69791,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70161
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:51.324275966Z",
   "translation": "Busquen a YHWH ⟨y⟩ su fortaleza; busquen ⟨a⟩ su rostro ⟨את⟩ siempre ⟨⟩.",
   "tokens": [
     {
       "surface": "דרשו",
-      "english": "Busquen"
+      "gloss": "Busquen"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "ועזו",
-      "english": "⟨y⟩ su fortaleza"
+      "gloss": "⟨y⟩ su fortaleza"
     },
     {
       "surface": "בקשו",
-      "english": "busquen"
+      "gloss": "busquen"
     },
     {
       "surface": "פניו",
-      "english": "⟨a⟩ su rostro"
+      "gloss": "⟨a⟩ su rostro"
     },
     {
       "surface": "תמיד",
-      "english": "siempre ⟨⟩"
+      "gloss": "siempre ⟨⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:51.324275966Z",
-  "model": "glm-4.5"
+  ]
 }

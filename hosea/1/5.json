@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "hosea 1:5",
   "book": "hosea",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26772,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 27133
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:44:15.657498184Z",
   "translation": "Y será en aquel día que ⟨yo⟩ romperé ⟨el⟩ arco de Israel en el valle de Yizreel.",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "Y será"
+      "gloss": "Y será"
     },
     {
       "surface": "ביום",
-      "english": "en aquel día"
+      "gloss": "en aquel día"
     },
     {
       "surface": "ההוא",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "ושברתי",
-      "english": "⟨yo⟩ romperé"
+      "gloss": "⟨yo⟩ romperé"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "arco"
     },
     {
       "surface": "קשת",
-      "english": "arco"
+      "gloss": "arco"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     },
     {
       "surface": "בעמק",
-      "english": "en el valle"
+      "gloss": "en el valle"
     },
     {
       "surface": "יזרעאל",
-      "english": "de Yizreel"
+      "gloss": "de Yizreel"
     }
-  ],
-  "timestamp": "2026-06-09T22:44:15.657498184Z",
-  "model": "glm-4.5"
+  ]
 }

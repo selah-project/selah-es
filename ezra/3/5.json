@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "ezra 3:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 3,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:13:07.770726668Z",
+  "translation": "Y después ⟨de⟩ esto, ⟨el⟩ Olá continuo y ⟨los⟩ nuevos meses y ⟨en⟩ todas ⟨las⟩ fiestas señaladas de YHWH ⟨que eran⟩ santificadas, y ⟨en⟩ todo ⟨lo que⟩ se ofrece voluntariamente ⟨como⟩ ofrenda voluntaria a YHWH",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Y después"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨de⟩ esto"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "⟨el⟩ Olá continuo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuo"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "y ⟨los⟩ nuevos meses"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "y ⟨en⟩ todas ⟨las⟩"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "fiestas señaladas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "⟨que eran⟩ santificadas"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "y ⟨en⟩ todo ⟨lo que⟩"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "se ofrece voluntariamente"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "⟨como⟩ ofrenda voluntaria"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "holocausto",
@@ -13,76 +72,6 @@
       "hebrew": "עלה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 709,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45204,
-    "prompt_tokens_details": {
-      "cached_tokens": 43518
-    },
-    "total_tokens": 45913
-  },
-  "translation": "Y después ⟨de⟩ esto, ⟨el⟩ Olá continuo y ⟨los⟩ nuevos meses y ⟨en⟩ todas ⟨las⟩ fiestas señaladas de YHWH ⟨que eran⟩ santificadas, y ⟨en⟩ todo ⟨lo que⟩ se ofrece voluntariamente ⟨como⟩ ofrenda voluntaria a YHWH",
-  "tokens": [
-    {
-      "surface": "ואחרי",
-      "english": "Y después"
-    },
-    {
-      "surface": "כן",
-      "english": "⟨de⟩ esto"
-    },
-    {
-      "surface": "עלת",
-      "english": "⟨el⟩ Olá continuo"
-    },
-    {
-      "surface": "תמיד",
-      "english": "continuo"
-    },
-    {
-      "surface": "ולחדשים",
-      "english": "y ⟨los⟩ nuevos meses"
-    },
-    {
-      "surface": "ולכל",
-      "english": "y ⟨en⟩ todas ⟨las⟩"
-    },
-    {
-      "surface": "מועדי",
-      "english": "fiestas señaladas"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "המקדשים",
-      "english": "⟨que eran⟩ santificadas"
-    },
-    {
-      "surface": "ולכל",
-      "english": "y ⟨en⟩ todo ⟨lo que⟩"
-    },
-    {
-      "surface": "מתנדב",
-      "english": "se ofrece voluntariamente"
-    },
-    {
-      "surface": "נדבה",
-      "english": "⟨como⟩ ofrenda voluntaria"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "a YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:13:07.770726668Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

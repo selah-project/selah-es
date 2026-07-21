@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 11:16",
   "book": "job",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27038,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27350
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:10.057125455Z",
   "translation": "Porque ⟨tú⟩ ⟨el⟩ trabajo olvidarás, como ⟨las⟩ aguas que pasaron recordarás",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אתה",
-      "english": "⟨tú⟩"
+      "gloss": "⟨tú⟩"
     },
     {
       "surface": "עמל",
-      "english": "⟨el⟩ trabajo"
+      "gloss": "⟨el⟩ trabajo"
     },
     {
       "surface": "תשכח",
-      "english": "olvidarás"
+      "gloss": "olvidarás"
     },
     {
       "surface": "כמים",
-      "english": "como ⟨las⟩ aguas"
+      "gloss": "como ⟨las⟩ aguas"
     },
     {
       "surface": "עברו",
-      "english": "que pasaron"
+      "gloss": "que pasaron"
     },
     {
       "surface": "תזכר",
-      "english": "recordarás"
+      "gloss": "recordarás"
     }
-  ],
-  "timestamp": "2026-06-10T01:59:10.057125455Z",
-  "model": "glm-4.5"
+  ]
 }

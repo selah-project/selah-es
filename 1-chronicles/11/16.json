@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-chronicles 11:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 11,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:39:30.384600229Z",
+  "translation": "y David ⟨estaba⟩ entonces ⟨en⟩ la fortaleza, y la guarnición ⟨de los⟩ filisteos ⟨estaba⟩ entonces ⟨en⟩ Bet-Léjem",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Y David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "entonces"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "⟨en⟩ la fortaleza"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "y la guarnición"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨de los⟩ filisteos"
+    },
+    {
+      "surface": "אז",
+      "gloss": "entonces"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Léjem"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Belén",
@@ -13,56 +52,6 @@
       "hebrew": "בית־לחם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56761,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57145
-  },
-  "translation": "y David ⟨estaba⟩ entonces ⟨en⟩ la fortaleza, y la guarnición ⟨de los⟩ filisteos ⟨estaba⟩ entonces ⟨en⟩ Bet-Léjem",
-  "tokens": [
-    {
-      "surface": "ודויד",
-      "english": "Y David"
-    },
-    {
-      "surface": "אז",
-      "english": "entonces"
-    },
-    {
-      "surface": "במצודה",
-      "english": "⟨en⟩ la fortaleza"
-    },
-    {
-      "surface": "ונציב",
-      "english": "y la guarnición"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨de los⟩ filisteos"
-    },
-    {
-      "surface": "אז",
-      "english": "entonces"
-    },
-    {
-      "surface": "בבית",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "לחם",
-      "english": "Bet-Léjem"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:39:30.384600229Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

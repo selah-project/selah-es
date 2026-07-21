@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 10:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 10,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:08:11.871707368Z",
+  "translation": "Hijos de Yéfet: Gomer, y Magog, y Madai, y Javán, y Tubal, y Mesec, y Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Hijos"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "de Yéfet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "y Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "y Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "y Javán"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "y Tubal"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "y Mesec"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "y Tiras"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jafet",
@@ -13,60 +56,6 @@
       "hebrew": "יפת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21171,
-    "prompt_tokens_details": {
-      "cached_tokens": 19977
-    },
-    "total_tokens": 21486
-  },
-  "translation": "Hijos de Yéfet: Gomer, y Magog, y Madai, y Javán, y Tubal, y Mesec, y Tiras.",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Hijos"
-    },
-    {
-      "surface": "יפת",
-      "english": "de Yéfet"
-    },
-    {
-      "surface": "גמר",
-      "english": "Gomer"
-    },
-    {
-      "surface": "ומגוג",
-      "english": "y Magog"
-    },
-    {
-      "surface": "ומדי",
-      "english": "y Madai"
-    },
-    {
-      "surface": "ויון",
-      "english": "y Javán"
-    },
-    {
-      "surface": "ותבל",
-      "english": "y Tubal"
-    },
-    {
-      "surface": "ומשך",
-      "english": "y Mesec"
-    },
-    {
-      "surface": "ותירס",
-      "english": "y Tiras"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:08:11.871707368Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

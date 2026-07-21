@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "song-of-songs 2:16",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27256,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27560
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:35:47.640994231Z",
   "translation": "Mi amado ⟨es⟩ mío y yo ⟨soy⟩ suya: ⟨el⟩ que apacenta entre ⟨las⟩ azucenas.",
   "tokens": [
     {
       "surface": "דודי",
-      "english": "Mi amado"
+      "gloss": "Mi amado"
     },
     {
       "surface": "לי",
-      "english": "mío"
+      "gloss": "mío"
     },
     {
       "surface": "ואני",
-      "english": "y yo"
+      "gloss": "y yo"
     },
     {
       "surface": "לו",
-      "english": "suya"
+      "gloss": "suya"
     },
     {
       "surface": "הרעה",
-      "english": "⟨el⟩ que apacenta"
+      "gloss": "⟨el⟩ que apacenta"
     },
     {
       "surface": "בשושנים",
-      "english": "entre ⟨las⟩ azucenas"
+      "gloss": "entre ⟨las⟩ azucenas"
     }
-  ],
-  "timestamp": "2026-06-09T22:35:47.640994231Z",
-  "model": "glm-4.5"
+  ]
 }

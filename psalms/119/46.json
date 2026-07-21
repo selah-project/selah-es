@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 46,
   "ref": "psalms 119:46",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69736,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70133
-  },
+  "verse": 46,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:53.486703478Z",
   "translation": "Y hablaré de tus testimonios ⟨en⟩ presencia de reyes, y no ⟨estaré⟩ avergonzado.",
   "tokens": [
     {
       "surface": "ואדברה",
-      "english": "Y hablaré"
+      "gloss": "Y hablaré"
     },
     {
       "surface": "בעדתיך",
-      "english": "de tus testimonios"
+      "gloss": "de tus testimonios"
     },
     {
       "surface": "נגד",
-      "english": "⟨en⟩ presencia de",
+      "gloss": "⟨en⟩ presencia de",
       "marks": "reyes"
     },
     {
       "surface": "מלכים",
-      "english": "reyes"
+      "gloss": "reyes"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "אבוש",
-      "english": "⟨estaré⟩ avergonzado"
+      "gloss": "⟨estaré⟩ avergonzado"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:53.486703478Z",
-  "model": "glm-4.5"
+  ]
 }

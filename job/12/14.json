@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 12:14",
   "book": "job",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27203,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27649
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:47.271223308Z",
   "translation": "He aquí, ⟨Él⟩ derriba, y ⟨eso⟩ no ⟨puede⟩ ser edificado; ⟨Él⟩ encierra sobre un hombre, y no ⟨puede⟩ ser abierto.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "יהרוס",
-      "english": "derriba"
+      "gloss": "derriba"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨eso⟩ no"
+      "gloss": "y ⟨eso⟩ no"
     },
     {
       "surface": "יבנה",
-      "english": "⟨puede⟩ ser edificado"
+      "gloss": "⟨puede⟩ ser edificado"
     },
     {
       "surface": "יסגר",
-      "english": "⟨Él⟩ encierra"
+      "gloss": "⟨Él⟩ encierra"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "איש",
-      "english": "un hombre"
+      "gloss": "un hombre"
     },
     {
       "surface": "ולא",
-      "english": "y no ⟨puede⟩"
+      "gloss": "y no ⟨puede⟩"
     },
     {
       "surface": "יפתח",
-      "english": "ser abierto"
+      "gloss": "ser abierto"
     }
-  ],
-  "timestamp": "2026-06-10T01:59:47.271223308Z",
-  "model": "glm-4.5"
+  ]
 }

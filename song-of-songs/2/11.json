@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "song-of-songs 2:11",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27381,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27836
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:35:38.941328806Z",
   "translation": "Porque, he aquí ⟨el⟩ invierno ⟨ha⟩ pasado, ⟨el⟩ aguacero ⟨ha⟩ cesado, ⟨se⟩ fue ⟨para⟩ sí.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "הנה",
-      "english": "he aquí"
+      "gloss": "he aquí"
     },
     {
       "surface": "הסתו",
-      "english": "⟨el⟩ invierno"
+      "gloss": "⟨el⟩ invierno"
     },
     {
       "surface": "עבר",
-      "english": "⟨ha⟩ pasado"
+      "gloss": "⟨ha⟩ pasado"
     },
     {
       "surface": "הגשם",
-      "english": "⟨el⟩ aguacero"
+      "gloss": "⟨el⟩ aguacero"
     },
     {
       "surface": "חלף",
-      "english": "⟨ha⟩ cesado"
+      "gloss": "⟨ha⟩ cesado"
     },
     {
       "surface": "הלך",
-      "english": "⟨se⟩ fue"
+      "gloss": "⟨se⟩ fue"
     },
     {
       "surface": "לו",
-      "english": "⟨para⟩ sí"
+      "gloss": "⟨para⟩ sí"
     }
-  ],
-  "timestamp": "2026-06-09T22:35:38.941328806Z",
-  "model": "glm-4.5"
+  ]
 }

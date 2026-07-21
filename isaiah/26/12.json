@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 26:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26257,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26640
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:36:20.691395269Z",
   "translation": "YHWH tú establecerás shalom ⟨para⟩ nosotros, porque también ⟨el⟩ todo ⟨de⟩ nuestras obras tú has hecho ⟨para⟩ nosotros.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "תשפת",
-      "english": "tú establecerás"
+      "gloss": "tú establecerás"
     },
     {
       "surface": "שלום",
-      "english": "shalom"
+      "gloss": "shalom"
     },
     {
       "surface": "לנו",
-      "english": "⟨para⟩ nosotros"
+      "gloss": "⟨para⟩ nosotros"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "גם",
-      "english": "también"
+      "gloss": "también"
     },
     {
       "surface": "כל",
-      "english": "⟨el⟩ todo"
+      "gloss": "⟨el⟩ todo"
     },
     {
       "surface": "מעשינו",
-      "english": "⟨de⟩ nuestras obras"
+      "gloss": "⟨de⟩ nuestras obras"
     },
     {
       "surface": "פעלת",
-      "english": "tú has hecho"
+      "gloss": "tú has hecho"
     },
     {
       "surface": "לנו",
-      "english": "⟨para⟩ nosotros"
+      "gloss": "⟨para⟩ nosotros"
     }
-  ],
-  "timestamp": "2026-06-10T02:36:20.691395269Z",
-  "model": "glm-4.5"
+  ]
 }

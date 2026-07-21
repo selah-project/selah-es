@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 9:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 372,
-    "prompt_tokens": 59836,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60208
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:18:11.308659406Z",
   "translation": "Venid, comed de mi pan y bebed del vino que ⟨he⟩ mezclado.",
   "tokens": [
     {
       "surface": "לכו",
-      "english": "Venid"
+      "gloss": "Venid"
     },
     {
       "surface": "לחמו",
-      "english": "comed de mi pan"
+      "gloss": "comed de mi pan"
     },
     {
       "surface": "בלחמי",
-      "english": "de mi pan"
+      "gloss": "de mi pan"
     },
     {
       "surface": "ושתו",
-      "english": "y bebed"
+      "gloss": "y bebed"
     },
     {
       "surface": "ביין",
-      "english": "del vino"
+      "gloss": "del vino"
     },
     {
       "surface": "מסכתי",
-      "english": "que ⟨he⟩ mezclado"
+      "gloss": "que ⟨he⟩ mezclado"
     }
-  ],
-  "timestamp": "2026-07-16T23:18:11.308659406Z",
-  "model": "glm-4.5"
+  ]
 }

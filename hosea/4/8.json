@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "hosea 4:8",
   "book": "hosea",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 525,
-    "prompt_tokens": 26560,
-    "prompt_tokens_details": {
-      "cached_tokens": 25472
-    },
-    "total_tokens": 27085
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:20:38.073115542Z",
   "translation": "El pecado de mi pueblo ⟨lo⟩ comen, y hacia su iniquidad ⟨ellos⟩ alzan su alma.",
   "tokens": [
     {
       "surface": "חטאת",
-      "english": "El pecado"
+      "gloss": "El pecado"
     },
     {
       "surface": "עמי",
-      "english": "de mi pueblo"
+      "gloss": "de mi pueblo"
     },
     {
       "surface": "יאכלו",
-      "english": "⟨lo⟩ comen"
+      "gloss": "⟨lo⟩ comen"
     },
     {
       "surface": "ואל",
-      "english": "y hacia"
+      "gloss": "y hacia"
     },
     {
       "surface": "עונם",
-      "english": "su iniquidad"
+      "gloss": "su iniquidad"
     },
     {
       "surface": "ישאו",
-      "english": "⟨ellos⟩ alzan"
+      "gloss": "⟨ellos⟩ alzan"
     },
     {
       "surface": "נפשו",
-      "english": "su alma"
+      "gloss": "su alma"
     }
-  ],
-  "timestamp": "2026-07-16T21:20:38.073115542Z",
-  "model": "glm-4.5"
+  ]
 }

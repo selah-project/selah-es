@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "ezra 6:19",
   "book": "ezra",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 405,
-    "prompt_tokens": 52183,
-    "prompt_tokens_details": {
-      "cached_tokens": 50688
-    },
-    "total_tokens": 52588
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:48:36.366995832Z",
   "translation": "Y los hijos de la deportación hicieron ⟨el⟩ Pésaj en el catorce del primer mes",
   "tokens": [
     {
       "surface": "ויעשו",
-      "english": "Y ... hicieron"
+      "gloss": "Y ... hicieron"
     },
     {
       "surface": "בני",
-      "english": "los hijos de"
+      "gloss": "los hijos de"
     },
     {
       "surface": "הגולה",
-      "english": "la deportación"
+      "gloss": "la deportación"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "Pésaj"
     },
     {
       "surface": "הפסח",
-      "english": "Pésaj"
+      "gloss": "Pésaj"
     },
     {
       "surface": "בארבעה",
-      "english": "en el catorce"
+      "gloss": "en el catorce"
     },
     {
       "surface": "עשר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לחדש",
-      "english": "del"
+      "gloss": "del"
     },
     {
       "surface": "הראשון",
-      "english": "primer mes"
+      "gloss": "primer mes"
     }
-  ],
-  "timestamp": "2026-07-16T20:48:36.366995832Z",
-  "model": "glm-4.5"
+  ]
 }

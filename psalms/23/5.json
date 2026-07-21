@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 23:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70262,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70760
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:08:00.557791999Z",
   "translation": "Tú preparas ⟨una⟩ mesa ante mí en ⟨la⟩ presencia de mis adversarios; unge mi cabeza ⟨con⟩ aceite; mi copa ⟨está⟩ rebosante.",
   "tokens": [
     {
       "surface": "תערך",
-      "english": "Tú preparas"
+      "gloss": "Tú preparas"
     },
     {
       "surface": "לפני",
-      "english": "ante mí"
+      "gloss": "ante mí"
     },
     {
       "surface": "שלחן",
-      "english": "⟨una⟩ mesa"
+      "gloss": "⟨una⟩ mesa"
     },
     {
       "surface": "נגד",
-      "english": "en ⟨la⟩ presencia de"
+      "gloss": "en ⟨la⟩ presencia de"
     },
     {
       "surface": "צררי",
-      "english": "mis adversarios"
+      "gloss": "mis adversarios"
     },
     {
       "surface": "דשנת",
-      "english": "unges"
+      "gloss": "unges"
     },
     {
       "surface": "בשמן",
-      "english": "mi cabeza ⟨con⟩ aceite"
+      "gloss": "mi cabeza ⟨con⟩ aceite"
     },
     {
       "surface": "ראשי",
-      "english": "mi cabeza"
+      "gloss": "mi cabeza"
     },
     {
       "surface": "כוסי",
-      "english": "mi copa"
+      "gloss": "mi copa"
     },
     {
       "surface": "רויה",
-      "english": "⟨está⟩ rebosante"
+      "gloss": "⟨está⟩ rebosante"
     }
-  ],
-  "timestamp": "2026-06-09T23:08:00.557791999Z",
-  "model": "glm-4.5"
+  ]
 }

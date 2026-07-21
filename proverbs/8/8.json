@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 8:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59877,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60392
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:33:51.303948227Z",
   "translation": "En ⟨el⟩ justo ⟨son⟩ todas las palabras de mi boca, ⟨no hay⟩ ⟨en⟩ ellas ⟨lo⟩ torcido ⟨y⟩ ⟨lo⟩ perverso",
   "tokens": [
     {
       "surface": "בצדק",
-      "english": "En ⟨el⟩ justo"
+      "gloss": "En ⟨el⟩ justo"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "אמרי",
-      "english": "las palabras de"
+      "gloss": "las palabras de"
     },
     {
       "surface": "פי",
-      "english": "mi boca"
+      "gloss": "mi boca"
     },
     {
       "surface": "אין",
-      "english": "⟨no hay⟩"
+      "gloss": "⟨no hay⟩"
     },
     {
       "surface": "בהם",
-      "english": "⟨en⟩ ellas"
+      "gloss": "⟨en⟩ ellas"
     },
     {
       "surface": "נפתל",
-      "english": "⟨lo⟩ torcido"
+      "gloss": "⟨lo⟩ torcido"
     },
     {
       "surface": "ועקש",
-      "english": "⟨y⟩ ⟨lo⟩ perverso"
+      "gloss": "⟨y⟩ ⟨lo⟩ perverso"
     }
-  ],
-  "timestamp": "2026-06-10T01:33:51.303948227Z",
-  "model": "glm-4.5"
+  ]
 }

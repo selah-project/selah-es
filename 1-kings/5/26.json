@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "1-kings 5:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 5,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:49:45.828804446Z",
+  "translation": "Y YHWH ⟨dio⟩ ⟨la⟩ Jojmá a Shelomó ⟨como⟩ ⟨lo⟩ ⟨que⟩ ⟨le⟩ ⟨dijo⟩ y ⟨fue⟩ ⟨la⟩ Shalom entre Jirám y ⟨entre⟩ Shelomó y ⟨ellos⟩ ⟨cortaron⟩ ⟨un⟩ Brit ⟨de⟩ ⟨los⟩ dos",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Y YHWH"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨dio⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "⟨la⟩ Jojmá"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "a Shelomó"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "⟨como⟩ ⟨lo⟩ ⟨que⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨le⟩ ⟨dijo⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y ⟨fue⟩"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "⟨la⟩ Shalom"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Jirám"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "y ⟨entre⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomó"
+    },
+    {
+      "surface": "ויכרתו",
+      "gloss": "y ⟨ellos⟩ ⟨cortaron⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨un⟩ Brit"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "⟨de⟩ ⟨los⟩ dos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabiduría",
@@ -27,88 +98,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 1071,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62347,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63418
-  },
-  "translation": "Y YHWH ⟨dio⟩ ⟨la⟩ Jojmá a Shelomó ⟨como⟩ ⟨lo⟩ ⟨que⟩ ⟨le⟩ ⟨dijo⟩ y ⟨fue⟩ ⟨la⟩ Shalom entre Jirám y ⟨entre⟩ Shelomó y ⟨ellos⟩ ⟨cortaron⟩ ⟨un⟩ Brit ⟨de⟩ ⟨los⟩ dos",
-  "tokens": [
-    {
-      "surface": "ויהוה",
-      "english": "Y YHWH"
-    },
-    {
-      "surface": "נתן",
-      "english": "⟨dio⟩"
-    },
-    {
-      "surface": "חכמה",
-      "english": "⟨la⟩ Jojmá"
-    },
-    {
-      "surface": "לשלמה",
-      "english": "a Shelomó"
-    },
-    {
-      "surface": "כאשר",
-      "english": "⟨como⟩ ⟨lo⟩ ⟨que⟩"
-    },
-    {
-      "surface": "דבר",
-      "english": "⟨le⟩ ⟨dijo⟩"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨le⟩"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y ⟨fue⟩"
-    },
-    {
-      "surface": "שלם",
-      "english": "⟨la⟩ Shalom"
-    },
-    {
-      "surface": "בין",
-      "english": "entre"
-    },
-    {
-      "surface": "חירם",
-      "english": "Jirám"
-    },
-    {
-      "surface": "ובין",
-      "english": "y ⟨entre⟩"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomó"
-    },
-    {
-      "surface": "ויכרתו",
-      "english": "y ⟨ellos⟩ ⟨cortaron⟩"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨un⟩ Brit"
-    },
-    {
-      "surface": "שניהם",
-      "english": "⟨de⟩ ⟨los⟩ dos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:49:45.828804446Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

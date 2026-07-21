@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "2-kings 14:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 14,
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:34:55.721832128Z",
+  "translation": "Y Yarovám durmió con sus padres, con los reyes de Yisrael, y reinó Zekharyá su hijo en su lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Y durmió"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovám"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sus padres"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "los reyes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "y reinó"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekharyá"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su hijo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "en su lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeroboam",
@@ -27,68 +78,6 @@
       "hebrew": "זכריה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16839,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17167
-  },
-  "translation": "Y Yarovám durmió con sus padres, con los reyes de Yisrael, y reinó Zekharyá su hijo en su lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "Y durmió"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yarovám"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "sus padres"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "מלכי",
-      "english": "los reyes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "וימלך",
-      "english": "y reinó"
-    },
-    {
-      "surface": "זכריה",
-      "english": "Zekharyá"
-    },
-    {
-      "surface": "בנו",
-      "english": "su hijo"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "en su lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:34:55.721832128Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

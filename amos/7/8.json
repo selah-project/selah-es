@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "amos 7:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 7,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:05:01.369190195Z",
+  "translation": "Y YHWH dijo a mí: ¿Qué ⟨estás⟩ viendo, Amos? Y dije: Un plomada. Y dijo Adonai: He aquí ⟨estoy⟩ poniendo un plomada en medio de mi pueblo Yisrael; no añadiré ⟨a⟩ pasar ⟨por⟩ ⟨él⟩ ⟨de nuevo⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a mí"
+    },
+    {
+      "surface": "מה",
+      "gloss": "¿Qué"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨estás⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viendo"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amos"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Y dije"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "Un plomada"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "He aquí ⟨estoy⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "poniendo"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "un plomada"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "en medio"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "de mi pueblo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "añadiré ⟨a⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨de nuevo⟩"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "pasar ⟨por⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨él⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,112 +108,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 641,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17425,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 18066
-  },
-  "translation": "Y YHWH dijo a mí: ¿Qué ⟨estás⟩ viendo, Amos? Y dije: Un plomada. Y dijo Adonai: He aquí ⟨estoy⟩ poniendo un plomada en medio de mi pueblo Yisrael; no añadiré ⟨a⟩ pasar ⟨por⟩ ⟨él⟩ ⟨de nuevo⟩:",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלי",
-      "english": "a mí"
-    },
-    {
-      "surface": "מה",
-      "english": "¿Qué"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨estás⟩"
-    },
-    {
-      "surface": "ראה",
-      "english": "viendo"
-    },
-    {
-      "surface": "עמוס",
-      "english": "Amos"
-    },
-    {
-      "surface": "ואמר",
-      "english": "Y dije"
-    },
-    {
-      "surface": "אנך",
-      "english": "Un plomada"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "הנני",
-      "english": "He aquí ⟨estoy⟩"
-    },
-    {
-      "surface": "שם",
-      "english": "poniendo"
-    },
-    {
-      "surface": "אנך",
-      "english": "un plomada"
-    },
-    {
-      "surface": "בקרב",
-      "english": "en medio"
-    },
-    {
-      "surface": "עמי",
-      "english": "de mi pueblo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "אוסיף",
-      "english": "añadiré ⟨a⟩"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨de nuevo⟩"
-    },
-    {
-      "surface": "עבור",
-      "english": "pasar ⟨por⟩"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨él⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:05:01.369190195Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

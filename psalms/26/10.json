@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 26:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69788,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70184
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:09:08.632716600Z",
   "translation": "en cuyas manos ⟨está⟩ ⟨el⟩ artificio malvado ⟨y⟩ su mano derecha ⟨está⟩ llena ⟨de⟩ soborno",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "En cuyas"
+      "gloss": "En cuyas"
     },
     {
       "surface": "בידיהם",
-      "english": "manos",
+      "gloss": "manos",
       "notes": "addition of ⟨el⟩; Hebrew lacks definite article"
     },
     {
       "surface": "זמה",
-      "english": "⟨el⟩ artificio malvado"
+      "gloss": "⟨el⟩ artificio malvado"
     },
     {
       "surface": "וימינם",
-      "english": "⟨y⟩ su mano derecha"
+      "gloss": "⟨y⟩ su mano derecha"
     },
     {
       "surface": "מלאה",
-      "english": "⟨está⟩ llena ⟨de⟩"
+      "gloss": "⟨está⟩ llena ⟨de⟩"
     },
     {
       "surface": "שחד",
-      "english": "soborno"
+      "gloss": "soborno"
     }
-  ],
-  "timestamp": "2026-06-09T23:09:08.632716600Z",
-  "model": "glm-4.5"
+  ]
 }

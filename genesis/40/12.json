@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 40:12",
   "book": "genesis",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28525,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28976
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:37:17.564426065Z",
   "translation": "Y Joseph dijo a él: Este ⟨es⟩ ⟨el⟩ significado de ⟨él⟩: las tres ⟨ramas⟩ ⟨son⟩ tres días, ellos ⟨son⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y Joseph dijo"
+      "gloss": "Y Joseph dijo"
     },
     {
       "surface": "לו",
-      "english": "a él"
+      "gloss": "a él"
     },
     {
       "surface": "יוסף",
-      "english": "Joseph"
+      "gloss": "Joseph"
     },
     {
       "surface": "זה",
-      "english": "Este"
+      "gloss": "Este"
     },
     {
       "surface": "פתרנו",
-      "english": "⟨el⟩ significado de ⟨él⟩"
+      "gloss": "⟨el⟩ significado de ⟨él⟩"
     },
     {
       "surface": "שלשת",
-      "english": "las tres"
+      "gloss": "las tres"
     },
     {
       "surface": "השרגים",
-      "english": "⟨ramas⟩"
+      "gloss": "⟨ramas⟩"
     },
     {
       "surface": "שלשת",
-      "english": "tres"
+      "gloss": "tres"
     },
     {
       "surface": "ימים",
-      "english": "días"
+      "gloss": "días"
     },
     {
       "surface": "הם",
-      "english": "ellos ⟨son⟩"
+      "gloss": "ellos ⟨son⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:37:17.564426065Z",
-  "model": "glm-4.5"
+  ]
 }

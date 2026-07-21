@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 37:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 37,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:20:02.671289411Z",
+  "translation": "Y ⟨él⟩ hizo Kapporet ⟨de⟩ oro puro ⟨de⟩ dos codos y medio ⟨su⟩ longitud y ⟨un⟩ codo y medio ⟨su⟩ anchura",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Y ⟨él⟩ hizo"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "Kapporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨de⟩ oro"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "⟨de⟩ dos codos"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "y medio"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "⟨su⟩ longitud"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "y ⟨un⟩ codo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "y medio"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "⟨su⟩ anchura"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el propiciatorio",
@@ -13,64 +60,6 @@
       "hebrew": "כפרת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 37,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16790,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17309
-  },
-  "translation": "Y ⟨él⟩ hizo Kapporet ⟨de⟩ oro puro ⟨de⟩ dos codos y medio ⟨su⟩ longitud y ⟨un⟩ codo y medio ⟨su⟩ anchura",
-  "tokens": [
-    {
-      "surface": "ויעש",
-      "english": "Y ⟨él⟩ hizo"
-    },
-    {
-      "surface": "כפרת",
-      "english": "Kapporet"
-    },
-    {
-      "surface": "זהב",
-      "english": "⟨de⟩ oro"
-    },
-    {
-      "surface": "טהור",
-      "english": "puro"
-    },
-    {
-      "surface": "אמתים",
-      "english": "⟨de⟩ dos codos"
-    },
-    {
-      "surface": "וחצי",
-      "english": "y medio"
-    },
-    {
-      "surface": "ארכה",
-      "english": "⟨su⟩ longitud"
-    },
-    {
-      "surface": "ואמה",
-      "english": "y ⟨un⟩ codo"
-    },
-    {
-      "surface": "וחצי",
-      "english": "y medio"
-    },
-    {
-      "surface": "רחבה",
-      "english": "⟨su⟩ anchura"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:20:02.671289411Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 50:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28351,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28707
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:46:55.387067033Z",
   "translation": "Y Yosef se postró ⟨sobre⟩ ⟨el⟩ rostro de su padre y lloró ⟨sobre⟩ él y lo besó",
   "tokens": [
     {
       "surface": "ויפל",
-      "english": "Y Yosef se postró"
+      "gloss": "Y Yosef se postró"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "פני",
-      "english": "⟨el⟩ rostro"
+      "gloss": "⟨el⟩ rostro"
     },
     {
       "surface": "אביו",
-      "english": "de su padre"
+      "gloss": "de su padre"
     },
     {
       "surface": "ויבך",
-      "english": "y lloró"
+      "gloss": "y lloró"
     },
     {
       "surface": "עליו",
-      "english": "⟨sobre⟩ él"
+      "gloss": "⟨sobre⟩ él"
     },
     {
       "surface": "ואישק",
-      "english": "y lo besó"
+      "gloss": "y lo besó"
     },
     {
       "surface": "לו",
-      "english": "lo"
+      "gloss": "lo"
     }
-  ],
-  "timestamp": "2026-06-10T05:46:55.387067033Z",
-  "model": "glm-4.5"
+  ]
 }

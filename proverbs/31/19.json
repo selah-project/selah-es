@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "proverbs 31:19",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59790,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60110
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:53:02.383702413Z",
   "translation": "Sus manos ⟨han⟩ enviado ⟨a⟩ ⟨la⟩ rueca ⟨את⟩, y sus manos sostienen ⟨el⟩ huso.",
   "tokens": [
     {
       "surface": "ידיה",
-      "english": "Sus manos"
+      "gloss": "Sus manos"
     },
     {
       "surface": "שלחה",
-      "english": "⟨han⟩ enviado"
+      "gloss": "⟨han⟩ enviado"
     },
     {
       "surface": "בכישור",
-      "english": "⟨a⟩ ⟨la⟩ rueca"
+      "gloss": "⟨a⟩ ⟨la⟩ rueca"
     },
     {
       "surface": "וכפיה",
-      "english": "y sus manos"
+      "gloss": "y sus manos"
     },
     {
       "surface": "תמכו",
-      "english": "sostienen"
+      "gloss": "sostienen"
     },
     {
       "surface": "פלך",
-      "english": "⟨el⟩ huso",
+      "gloss": "⟨el⟩ huso",
       "marks": "⟨el⟩ huso"
     }
-  ],
-  "timestamp": "2026-06-10T01:53:02.383702413Z",
-  "model": "glm-4.5"
+  ]
 }

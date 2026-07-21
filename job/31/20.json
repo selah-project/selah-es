@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 31:20",
   "book": "job",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27064,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27531
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:10:37.642956470Z",
   "translation": "Si ⟨los⟩ lomos de ⟨el⟩ pobre no me han bendecido, y ⟨no⟩ fue calentado con la lana de mis ovejas",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "לא",
-      "english": "⟨los⟩"
+      "gloss": "⟨los⟩"
     },
     {
       "surface": "ברכוני",
-      "english": "lomos de ⟨el⟩ pobre no me han bendecido"
+      "gloss": "lomos de ⟨el⟩ pobre no me han bendecido"
     },
     {
       "surface": "חלצו",
-      "english": "lomos"
+      "gloss": "lomos"
     },
     {
       "surface": "ומגז",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "כבשי",
-      "english": "con la lana de mis ovejas"
+      "gloss": "con la lana de mis ovejas"
     },
     {
       "surface": "יתחמם",
-      "english": "fue calentado"
+      "gloss": "fue calentado"
     }
-  ],
-  "timestamp": "2026-06-10T02:10:37.642956470Z",
-  "model": "glm-4.5"
+  ]
 }

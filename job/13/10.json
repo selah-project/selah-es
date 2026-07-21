@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 13:10",
   "book": "job",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 449,
-    "prompt_tokens": 27238,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27687
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:58:12.572082723Z",
   "translation": "Él ⟨ciertamente⟩ reprenderá ⟨את⟩ vosotros, si en secreto ⟨aceptáis⟩ ⟨el⟩ rostro.",
   "tokens": [
     {
       "surface": "הוכח",
-      "english": "Él ciertamente reprenderá"
+      "gloss": "Él ciertamente reprenderá"
     },
     {
       "surface": "יוכיח",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vosotros"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "בסתר",
-      "english": "en secreto"
+      "gloss": "en secreto"
     },
     {
       "surface": "פנים",
-      "english": "el rostro"
+      "gloss": "el rostro"
     },
     {
       "surface": "תשאון",
-      "english": "⟨aceptáis⟩"
+      "gloss": "⟨aceptáis⟩"
     }
-  ],
-  "timestamp": "2026-07-16T21:58:12.572082723Z",
-  "model": "glm-4.5"
+  ]
 }

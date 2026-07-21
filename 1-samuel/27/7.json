@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-samuel 27:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 27,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:11:59.541248401Z",
+  "translation": "Y el número de los días que Davidd habitó ⟨en⟩ el campo de los filisteos ⟨fue⟩ un año y cuatro meses",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "el número"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "de los días"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habitó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "⟨en⟩ el campo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de los filisteos"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "un año"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "y cuatro"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "meses"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,68 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16423,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16809
-  },
-  "translation": "Y el número de los días que Davidd habitó ⟨en⟩ el campo de los filisteos ⟨fue⟩ un año y cuatro meses",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y"
-    },
-    {
-      "surface": "מספר",
-      "english": "el número"
-    },
-    {
-      "surface": "הימים",
-      "english": "de los días"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ישב",
-      "english": "habitó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בשדה",
-      "english": "⟨en⟩ el campo"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "de los filisteos"
-    },
-    {
-      "surface": "ימים",
-      "english": "un año"
-    },
-    {
-      "surface": "וארבעה",
-      "english": "y cuatro"
-    },
-    {
-      "surface": "חדשים",
-      "english": "meses"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:11:59.541248401Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

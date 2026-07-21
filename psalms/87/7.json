@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 87:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 87,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62329,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 62653
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:19:14.422773020Z",
   "translation": "Y los cantores ⟨son⟩ como danzantes: todos mis manantiales ⟨están⟩ en ti",
   "tokens": [
     {
       "surface": "ושרים",
-      "english": "Y los cantores"
+      "gloss": "Y los cantores"
     },
     {
       "surface": "כחללים",
-      "english": "⟨son⟩ como danzantes",
+      "gloss": "⟨son⟩ como danzantes",
       "marks": "los cantores"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "מעיני",
-      "english": "mis manantiales"
+      "gloss": "mis manantiales"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:19:14.422773020Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

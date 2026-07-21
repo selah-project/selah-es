@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "1-samuel 25:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 25,
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:10:18.133524276Z",
+  "translation": "Y Davidd dijo a Abigail: 'Bendito ⟨es⟩ YHWH, Elohim de Yisrael, que te envió hoy ⟨el⟩ día este para venir a mi encuentro'.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y ... dijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "a Abigail"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bendito ⟨es⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "te envió"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy ⟨el⟩ día"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "para venir a mi encuentro"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,72 +75,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16515,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16975
-  },
-  "translation": "Y Davidd dijo a Abigail: 'Bendito ⟨es⟩ YHWH, Elohim de Yisrael, que te envió hoy ⟨el⟩ día este para venir a mi encuentro'.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y ... dijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לאביגל",
-      "english": "a Abigail"
-    },
-    {
-      "surface": "ברוך",
-      "english": "Bendito ⟨es⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim de"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "שלחך",
-      "english": "te envió"
-    },
-    {
-      "surface": "היום",
-      "english": "hoy ⟨el⟩ día"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    },
-    {
-      "surface": "לקראתי",
-      "english": "para venir a mi encuentro"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:10:18.133524276Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "job 36:23",
   "book": "job",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27108,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27599
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:14.415025027Z",
   "translation": "¿Quién ⟨ha⟩ encomendado sobre ⟨él⟩ ⟨su⟩ camino? ¿y quién ⟨ha⟩ dicho: ⟨has⟩ obrado ⟨la⟩ iniquidad?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "פקד",
-      "english": "⟨ha⟩ encomendado"
+      "gloss": "⟨ha⟩ encomendado"
     },
     {
       "surface": "עליו",
-      "english": "sobre ⟨él⟩"
+      "gloss": "sobre ⟨él⟩"
     },
     {
       "surface": "דרכו",
-      "english": "⟨su⟩ camino"
+      "gloss": "⟨su⟩ camino"
     },
     {
       "surface": "ומי",
-      "english": "¿y quién"
+      "gloss": "¿y quién"
     },
     {
       "surface": "אמר",
-      "english": "⟨ha⟩ dicho"
+      "gloss": "⟨ha⟩ dicho"
     },
     {
       "surface": "פעלת",
-      "english": "⟨has⟩ obrado"
+      "gloss": "⟨has⟩ obrado"
     },
     {
       "surface": "עולה",
-      "english": "⟨la⟩ iniquidad"
+      "gloss": "⟨la⟩ iniquidad"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:14.415025027Z",
-  "model": "glm-4.5"
+  ]
 }

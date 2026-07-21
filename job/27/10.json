@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 27:10",
   "book": "job",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27050,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27528
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:00.780355351Z",
   "translation": "¿⟨Se⟩ ⟨deleitará⟩ ⟨en⟩ ⟨el⟩ Todopoderoso? ⟨¿⟩llamará ⟨a⟩ Elohim ⟨en⟩ todo tiempo?",
   "tokens": [
     {
       "surface": "אם",
-      "english": "¿"
+      "gloss": "¿"
     },
     {
       "surface": "על",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "שדי",
-      "english": "⟨el⟩ Todopoderoso"
+      "gloss": "⟨el⟩ Todopoderoso"
     },
     {
       "surface": "יתענג",
-      "english": "⟨deleitará⟩"
+      "gloss": "⟨deleitará⟩"
     },
     {
       "surface": "יקרא",
-      "english": "¿llamará"
+      "gloss": "¿llamará"
     },
     {
       "surface": "אלוה",
-      "english": "⟨a⟩ Elohim"
+      "gloss": "⟨a⟩ Elohim"
     },
     {
       "surface": "בכל",
-      "english": "⟨en⟩ todo"
+      "gloss": "⟨en⟩ todo"
     },
     {
       "surface": "עת",
-      "english": "tiempo"
+      "gloss": "tiempo"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:00.780355351Z",
-  "model": "glm-4.5"
+  ]
 }

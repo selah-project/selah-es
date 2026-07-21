@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "numbers 20:22",
   "book": "numbers",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25090,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25542
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:55:54.703290914Z",
   "translation": "Y viajaron desde Cades y vinieron ⟨los⟩ hijos de Yisrael, ⟨la⟩ asamblea completa ⟨al⟩ monte Hor, ⟨a⟩ ⟨el⟩ monte",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "Y viajaron"
+      "gloss": "Y viajaron"
     },
     {
       "surface": "מקדש",
-      "english": "desde Cades"
+      "gloss": "desde Cades"
     },
     {
       "surface": "ויבאו",
-      "english": "y vinieron"
+      "gloss": "y vinieron"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "כל",
-      "english": "⟨la⟩ asamblea completa"
+      "gloss": "⟨la⟩ asamblea completa"
     },
     {
       "surface": "העדה",
-      "english": "asamblea"
+      "gloss": "asamblea"
     },
     {
       "surface": "הר",
-      "english": "⟨al⟩ monte Hor"
+      "gloss": "⟨al⟩ monte Hor"
     },
     {
       "surface": "ההר",
-      "english": "⟨a⟩ ⟨el⟩ monte"
+      "gloss": "⟨a⟩ ⟨el⟩ monte"
     }
-  ],
-  "timestamp": "2026-06-10T04:55:54.703290914Z",
-  "model": "glm-4.5"
+  ]
 }

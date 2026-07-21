@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 3:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69795,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70213
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:58:11.345857970Z",
   "translation": "Un salmo ⟨de⟩ David ⟨cuando⟩ huía de la presencia de Absalón su hijo",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "Un salmo"
+      "gloss": "Un salmo"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David",
+      "gloss": "⟨de⟩ David",
       "marks": "David"
     },
     {
       "surface": "בברחו",
-      "english": "⟨cuando⟩ huía"
+      "gloss": "⟨cuando⟩ huía"
     },
     {
       "surface": "מפני",
-      "english": "de la presencia"
+      "gloss": "de la presencia"
     },
     {
       "surface": "אבשלום",
-      "english": "⟨de⟩ Absalón",
+      "gloss": "⟨de⟩ Absalón",
       "marks": "Absalón"
     },
     {
       "surface": "בנו",
-      "english": "su hijo"
+      "gloss": "su hijo"
     }
-  ],
-  "timestamp": "2026-06-09T22:58:11.345857970Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "lamentations 3:42",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 367,
-    "prompt_tokens": 39023,
-    "prompt_tokens_details": {
-      "cached_tokens": 38144
-    },
-    "total_tokens": 39390
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:30:53.408328082Z",
   "translation": "Nosotros hemos transgredido y nos hemos rebelado: Tú no has perdonado.",
   "tokens": [
     {
       "surface": "נחנו",
-      "english": "Nosotros"
+      "gloss": "Nosotros"
     },
     {
       "surface": "פשענו",
-      "english": "hemos transgredido"
+      "gloss": "hemos transgredido"
     },
     {
       "surface": "ומרינו",
-      "english": "y nos hemos rebelado"
+      "gloss": "y nos hemos rebelado"
     },
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "סלחת",
-      "english": "has perdonado"
+      "gloss": "has perdonado"
     }
-  ],
-  "timestamp": "2026-07-16T22:30:53.408328082Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "numbers 2:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 2,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:09:13.153152338Z",
+  "translation": "Todos los que estaban contados ⟨en⟩ el campamento de Yehudá ⟨eran⟩ ciento ⟨y⟩ ochenta ⟨y⟩ seis mil ⟨y⟩ cuatrocientos ⟨por⟩ sus ejércitos; ⟨en⟩ orden ⟨de⟩ partida ⟨ellos⟩ viajarán primero.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Todos"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "los que estaban contados"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "⟨en⟩ el campamento"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ciento"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨y⟩ ochenta"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "⟨y⟩ ochenta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seis mil"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "⟨y⟩ seis"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "⟨y⟩ cuatro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cientos"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "⟨por⟩ sus ejércitos"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "⟨en⟩ orden ⟨de⟩ partida"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "⟨ellos⟩ viajarán primero"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,84 +80,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 608,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18414,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 19022
-  },
-  "translation": "Todos los que estaban contados ⟨en⟩ el campamento de Yehudá ⟨eran⟩ ciento ⟨y⟩ ochenta ⟨y⟩ seis mil ⟨y⟩ cuatrocientos ⟨por⟩ sus ejércitos; ⟨en⟩ orden ⟨de⟩ partida ⟨ellos⟩ viajarán primero.",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Todos"
-    },
-    {
-      "surface": "הפקדים",
-      "english": "los que estaban contados"
-    },
-    {
-      "surface": "למחנה",
-      "english": "⟨en⟩ el campamento"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "מאת",
-      "english": "ciento"
-    },
-    {
-      "surface": "אלף",
-      "english": "⟨y⟩ ochenta"
-    },
-    {
-      "surface": "ושמנים",
-      "english": "⟨y⟩ ochenta"
-    },
-    {
-      "surface": "אלף",
-      "english": "seis mil"
-    },
-    {
-      "surface": "וששת",
-      "english": "⟨y⟩ seis"
-    },
-    {
-      "surface": "אלפים",
-      "english": "mil"
-    },
-    {
-      "surface": "וארבע",
-      "english": "⟨y⟩ cuatro"
-    },
-    {
-      "surface": "מאות",
-      "english": "cientos"
-    },
-    {
-      "surface": "לצבאתם",
-      "english": "⟨por⟩ sus ejércitos"
-    },
-    {
-      "surface": "ראשנה",
-      "english": "⟨en⟩ orden ⟨de⟩ partida"
-    },
-    {
-      "surface": "יסעו",
-      "english": "⟨ellos⟩ viajarán primero"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:09:13.153152338Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

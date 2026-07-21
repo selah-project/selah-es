@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 14:11",
   "book": "job",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26995,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27326
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:13.677938459Z",
   "translation": "Las aguas se alejan ⟨de⟩ ⟨el⟩ mar, y ⟨el⟩ río se agota y se seca",
   "tokens": [
     {
       "surface": "אזלו",
-      "english": "Las aguas se alejan"
+      "gloss": "Las aguas se alejan"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "מני",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "ים",
-      "english": "⟨el⟩ mar",
+      "gloss": "⟨el⟩ mar",
       "marks": "mar"
     },
     {
       "surface": "ונהר",
-      "english": "y ⟨el⟩ río"
+      "gloss": "y ⟨el⟩ río"
     },
     {
       "surface": "יחרב",
-      "english": "se agota"
+      "gloss": "se agota"
     },
     {
       "surface": "ובש",
-      "english": "y se seca"
+      "gloss": "y se seca"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:13.677938459Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 6:4",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26122,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26650
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:23:45.805883288Z",
   "translation": "Y los umbrales ⟨de las⟩ puertas se estremecieron ⟨por⟩ la voz del que clamaba, y la Casa ⟨de⟩ Elohim se llenó ⟨de⟩ humo.",
   "tokens": [
     {
       "surface": "וינעו",
-      "english": "Y se estremecieron"
+      "gloss": "Y se estremecieron"
     },
     {
       "surface": "אמות",
-      "english": "los umbrales ⟨de las⟩ puertas"
+      "gloss": "los umbrales ⟨de las⟩ puertas"
     },
     {
       "surface": "הספים",
-      "english": "⟨de las⟩ puertas"
+      "gloss": "⟨de las⟩ puertas"
     },
     {
       "surface": "מקול",
-      "english": "⟨por⟩ la voz"
+      "gloss": "⟨por⟩ la voz"
     },
     {
       "surface": "הקורא",
-      "english": "del que clamaba"
+      "gloss": "del que clamaba"
     },
     {
       "surface": "והבית",
-      "english": "y la Casa ⟨de⟩ Elohim"
+      "gloss": "y la Casa ⟨de⟩ Elohim"
     },
     {
       "surface": "ימלא",
-      "english": "se llenó ⟨de⟩"
+      "gloss": "se llenó ⟨de⟩"
     },
     {
       "surface": "עשן",
-      "english": "humo"
+      "gloss": "humo"
     }
-  ],
-  "timestamp": "2026-06-10T02:23:45.805883288Z",
-  "model": "glm-4.5"
+  ]
 }

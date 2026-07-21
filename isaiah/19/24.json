@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "isaiah 19:24",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26288,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26772
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:32:28.660368228Z",
   "translation": "En aquel día Israel ⟨será⟩ tercero ⟨junto⟩ a Egipto y ⟨junto⟩ a Asiria ⟨como⟩ una bendición en medio ⟨de⟩ ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "En aquel día"
+      "gloss": "En aquel día"
     },
     {
       "surface": "ההוא",
-      "english": "aquel"
+      "gloss": "aquel"
     },
     {
       "surface": "יהיה",
-      "english": "será"
+      "gloss": "será"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "שלישיה",
-      "english": "tercero"
+      "gloss": "tercero"
     },
     {
       "surface": "למצרים",
-      "english": "junto a Egipto"
+      "gloss": "junto a Egipto"
     },
     {
       "surface": "ולאשור",
-      "english": "y junto a Asiria"
+      "gloss": "y junto a Asiria"
     },
     {
       "surface": "ברכה",
-      "english": "como una bendición"
+      "gloss": "como una bendición"
     },
     {
       "surface": "בקרב",
-      "english": "en medio"
+      "gloss": "en medio"
     },
     {
       "surface": "הארץ",
-      "english": "de la tierra"
+      "gloss": "de la tierra"
     }
-  ],
-  "timestamp": "2026-06-10T02:32:28.660368228Z",
-  "model": "glm-4.5"
+  ]
 }

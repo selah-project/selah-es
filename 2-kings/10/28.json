@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "2-kings 10:28",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 244,
-    "prompt_tokens": 23687,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 23931
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:09:51.417155046Z",
   "translation": "Así Yehu destruyó ⟨את⟩ HaBa‘al de Yisrael",
   "tokens": [
     {
       "surface": "וישמד",
-      "english": "Así Yehu destruyó"
+      "gloss": "Así Yehu destruyó"
     },
     {
       "surface": "יהוא",
-      "english": "Yehu"
+      "gloss": "Yehu"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "HaBa‘al"
     },
     {
       "surface": "הבעל",
-      "english": "HaBa‘al"
+      "gloss": "HaBa‘al"
     },
     {
       "surface": "מישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T19:09:51.417155046Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 25:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 706,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70027,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70733
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:07:54.806457101Z",
   "translation": "Elohim mío ⟨en⟩ ti ⟨he⟩ confiado: ⟨que⟩ no sea avergonzado; ⟨que⟩ no ⟨se⟩ alegren ⟨sobre⟩ mí mis enemigos.",
   "tokens": [
     {
       "surface": "אלהי",
-      "english": "Elohim mío",
+      "gloss": "Elohim mío",
       "notes": "El término deposesivo 'mío' se añade para reflejar la relación personal implícita en el contexto."
     },
     {
       "surface": "בך",
-      "english": "⟨en⟩ ti",
+      "gloss": "⟨en⟩ ti",
       "notes": "Preposición 'en' añadida para completar la sintaxis en español."
     },
     {
       "surface": "בטחתי",
-      "english": "⟨he⟩ confiado",
+      "gloss": "⟨he⟩ confiado",
       "notes": "Traducción literal de 'he confiado' (pretérito perfecto), mostrando acción completa con presente vigencia."
     },
     {
       "surface": "אל",
-      "english": "⟨que⟩ no",
+      "gloss": "⟨que⟩ no",
       "notes": "La partícula negativa 'al' se traduce como 'que no' para formar una petición negativa."
     },
     {
       "surface": "אבושה",
-      "english": "sea avergonzado",
+      "gloss": "sea avergonzado",
       "notes": "Traducción del verbo 'bosh' (avergonzarse), aquí en forma de jussivo (petición)."
     },
     {
       "surface": "אל",
-      "english": "⟨que⟩ no",
+      "gloss": "⟨que⟩ no",
       "notes": "Segunda ocurrencia de la negativa 'al' con la misma traducción."
     },
     {
       "surface": "יעלצו",
-      "english": "⟨se⟩ alegren",
+      "gloss": "⟨se⟩ alegren",
       "notes": "Traducción de 'alatz' (alegrarse, triunfar) con matiz de triunfo sobre otro."
     },
     {
       "surface": "איבי",
-      "english": "mis enemigos",
+      "gloss": "mis enemigos",
       "notes": "La posesión 'mis' se añade para reflejar el sufijo posesivo hebreo '-i'."
     },
     {
       "surface": "לי",
-      "english": "⟨sobre⟩ mí",
+      "gloss": "⟨sobre⟩ mí",
       "notes": "Preposición 'sobre' añadida para completar el sentido espacial del hebreo 'li' (a mí, para mí)."
     }
-  ],
-  "timestamp": "2026-06-09T23:07:54.806457101Z",
-  "model": "glm-4.5"
+  ]
 }

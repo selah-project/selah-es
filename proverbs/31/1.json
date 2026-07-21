@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 31:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 472,
-    "prompt_tokens": 59920,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60392
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:23:35.293247639Z",
   "translation": "Las palabras de Lemuel, rey, ⟨el oráculo⟩ que su madre le enseñó:",
   "tokens": [
     {
       "surface": "דברי",
-      "english": "Las palabras de"
+      "gloss": "Las palabras de"
     },
     {
       "surface": "למואל",
-      "english": "Lemuel"
+      "gloss": "Lemuel"
     },
     {
       "surface": "מלך",
-      "english": ", rey,"
+      "gloss": ", rey,"
     },
     {
       "surface": "משא",
-      "english": "⟨el oráculo⟩"
+      "gloss": "⟨el oráculo⟩"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יסרתו",
-      "english": "su madre le enseñó"
+      "gloss": "su madre le enseñó"
     },
     {
       "surface": "אמו",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T23:23:35.293247639Z",
-  "model": "glm-4.5"
+  ]
 }

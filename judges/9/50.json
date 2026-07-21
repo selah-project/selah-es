@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "judges 9:50",
   "book": "judges",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23179,
-    "prompt_tokens_details": {
-      "cached_tokens": 22160
-    },
-    "total_tokens": 23526
-  },
+  "verse": 50,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:56:09.683577910Z",
   "translation": "Y fue Abimélec ⟨a⟩ Tebets y acampó en Tebets y ⟨la⟩ capturó",
   "tokens": [
     {
       "surface": "וילך",
-      "english": "Y fue"
+      "gloss": "Y fue"
     },
     {
       "surface": "אבימלך",
-      "english": "Abimélec"
+      "gloss": "Abimélec"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "תבץ",
-      "english": "Tebets"
+      "gloss": "Tebets"
     },
     {
       "surface": "ויחן",
-      "english": "y acampó en"
+      "gloss": "y acampó en"
     },
     {
       "surface": "בתבץ",
-      "english": "Tebets"
+      "gloss": "Tebets"
     },
     {
       "surface": "וילכדה",
-      "english": "y ⟨la⟩ capturó"
+      "gloss": "y ⟨la⟩ capturó"
     }
-  ],
-  "timestamp": "2026-06-10T00:56:09.683577910Z",
-  "model": "glm-4.5"
+  ]
 }

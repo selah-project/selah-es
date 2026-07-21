@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 25:17",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 524,
-    "prompt_tokens": 59991,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60515
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:22:03.201680755Z",
   "translation": "Haz ⟨raro⟩ tu pie de la casa de tu compañero, ⟨no sea que⟩ se sacie de ti y te aborrezca.",
   "tokens": [
     {
       "surface": "הקר",
-      "english": "Haz ⟨raro⟩"
+      "gloss": "Haz ⟨raro⟩"
     },
     {
       "surface": "רגלך",
-      "english": "tu pie"
+      "gloss": "tu pie"
     },
     {
       "surface": "מבית",
-      "english": "de la casa"
+      "gloss": "de la casa"
     },
     {
       "surface": "רעך",
-      "english": "de tu compañero"
+      "gloss": "de tu compañero"
     },
     {
       "surface": "פן",
-      "english": "⟨no sea que⟩"
+      "gloss": "⟨no sea que⟩"
     },
     {
       "surface": "ישבעך",
-      "english": "se sacie de ti"
+      "gloss": "se sacie de ti"
     },
     {
       "surface": "ושנאך",
-      "english": "y te aborrezca"
+      "gloss": "y te aborrezca"
     }
-  ],
-  "timestamp": "2026-07-16T23:22:03.201680755Z",
-  "model": "glm-4.5"
+  ]
 }

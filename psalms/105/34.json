@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "psalms 105:34",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 371,
-    "prompt_tokens": 69848,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70219
-  },
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:37.212011222Z",
   "translation": "Dijo, y vino ⟨את⟩ la langosta, y ⟨el⟩ devorador, y ⟨no⟩ ⟨hay⟩ número",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "Dijo"
+      "gloss": "Dijo"
     },
     {
       "surface": "ויבא",
-      "english": "y vino"
+      "gloss": "y vino"
     },
     {
       "surface": "ארבה",
-      "english": "⟨את⟩ la langosta",
+      "gloss": "⟨את⟩ la langosta",
       "marks": "la langosta"
     },
     {
       "surface": "ולק",
-      "english": "y ⟨el⟩ devorador"
+      "gloss": "y ⟨el⟩ devorador"
     },
     {
       "surface": "ואין",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "מספר",
-      "english": "⟨hay⟩ número"
+      "gloss": "⟨hay⟩ número"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:37.212011222Z",
-  "model": "glm-4.5"
+  ]
 }

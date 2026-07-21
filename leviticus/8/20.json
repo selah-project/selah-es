@@ -1,73 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "leviticus 8:20",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 572,
-    "prompt_tokens": 25096,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25668
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:35:53.174393958Z",
   "translation": "y ⟨את⟩ el carnero cortó en ⟨⟩ sus piezas, y Moshé hizo humear ⟨את⟩ la cabeza y ⟨את⟩ las piezas y ⟨את⟩ el sebo",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el carnero"
     },
     {
       "surface": "האיל",
-      "english": "el carnero"
+      "gloss": "el carnero"
     },
     {
       "surface": "נתח",
-      "english": "cortó"
+      "gloss": "cortó"
     },
     {
       "surface": "לנתחיו",
-      "english": "en ⟨⟩ sus piezas"
+      "gloss": "en ⟨⟩ sus piezas"
     },
     {
       "surface": "ויקטר",
-      "english": "y Moshé hizo humear"
+      "gloss": "y Moshé hizo humear"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la cabeza"
     },
     {
       "surface": "הראש",
-      "english": "la cabeza"
+      "gloss": "la cabeza"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "las piezas"
     },
     {
       "surface": "הנתחים",
-      "english": "las piezas"
+      "gloss": "las piezas"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el sebo"
     },
     {
       "surface": "הפדר",
-      "english": "el sebo"
+      "gloss": "el sebo"
     }
-  ],
-  "timestamp": "2026-07-16T22:35:53.174393958Z",
-  "model": "glm-4.5"
+  ]
 }

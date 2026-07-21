@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "deuteronomy 34:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 34,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:36:35.477768555Z",
+  "translation": "Y murió allí Moshé, siervo de YHWH, ⟨en⟩ la tierra de Moav, ⟨según⟩ ⟨la⟩ palabra de YHWH",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Y murió"
+    },
+    {
+      "surface": "שם",
+      "gloss": "allí"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "siervo de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨en⟩ la tierra"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moav"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨según⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨la⟩ palabra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moab",
@@ -13,64 +60,6 @@
       "hebrew": "מואב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17431,
-    "prompt_tokens_details": {
-      "cached_tokens": 16230
-    },
-    "total_tokens": 17894
-  },
-  "translation": "Y murió allí Moshé, siervo de YHWH, ⟨en⟩ la tierra de Moav, ⟨según⟩ ⟨la⟩ palabra de YHWH",
-  "tokens": [
-    {
-      "surface": "וימת",
-      "english": "Y murió"
-    },
-    {
-      "surface": "שם",
-      "english": "allí"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "עבד",
-      "english": "siervo de"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "בארץ",
-      "english": "⟨en⟩ la tierra"
-    },
-    {
-      "surface": "מואב",
-      "english": "de Moav"
-    },
-    {
-      "surface": "על",
-      "english": "⟨según⟩"
-    },
-    {
-      "surface": "פי",
-      "english": "⟨la⟩ palabra"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:36:35.477768555Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

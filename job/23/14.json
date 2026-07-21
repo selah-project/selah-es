@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 23:14",
   "book": "job",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26979,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27361
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:06:27.797219962Z",
   "translation": "Porque él ⟨es⟩ quien ⟨se encargará⟩ de mi decreto ⟨y⟩ ⟨con⟩ él ⟨están⟩ muchas cosas.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "ישלים",
-      "english": "⟨se encargará⟩"
+      "gloss": "⟨se encargará⟩"
     },
     {
       "surface": "חקי",
-      "english": "de mi decreto"
+      "gloss": "de mi decreto"
     },
     {
       "surface": "וכהנה",
-      "english": "⟨y⟩ ⟨con⟩ él"
+      "gloss": "⟨y⟩ ⟨con⟩ él"
     },
     {
       "surface": "רבות",
-      "english": "⟨están⟩ muchas cosas"
+      "gloss": "⟨están⟩ muchas cosas"
     },
     {
       "surface": "עמו",
-      "english": "⟨con⟩ él"
+      "gloss": "⟨con⟩ él"
     }
-  ],
-  "timestamp": "2026-06-10T02:06:27.797219962Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 68:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69959,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70494
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:35.685103603Z",
   "translation": "Elohim ⟨al⟩ tu salida ⟨delante⟩ ⟨de⟩ tu pueblo ⟨al⟩ tu caminar ⟨en⟩ Sinai, Selah.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim",
+      "gloss": "Elohim",
       "lemma": 430,
       "gv": 86,
       "freq": 679
     },
     {
       "surface": "בצאתך",
-      "english": "⟨al⟩ tu salida",
+      "gloss": "⟨al⟩ tu salida",
       "lemma": "b\/3318",
       "gv": 513,
       "freq": 5
     },
     {
       "surface": "לפני",
-      "english": "⟨delante⟩ ⟨de⟩",
+      "gloss": "⟨delante⟩ ⟨de⟩",
       "lemma": "l\/6440",
       "gv": 170,
       "freq": 668
     },
     {
       "surface": "עמך",
-      "english": "tu pueblo",
+      "gloss": "tu pueblo",
       "lemma": 5971,
       "gv": 130,
       "freq": 205
     },
     {
       "surface": "בצעדך",
-      "english": "⟨al⟩ tu caminar",
+      "gloss": "⟨al⟩ tu caminar",
       "lemma": "b\/6805",
       "gv": 186,
       "freq": 2
     },
     {
       "surface": "בישימון",
-      "english": "⟨en⟩ Sinai",
+      "gloss": "⟨en⟩ Sinai",
       "lemma": "b\/3452",
       "gv": 418,
       "freq": 4
     },
     {
       "surface": "סלה",
-      "english": "Selah",
+      "gloss": "Selah",
       "lemma": 5542,
       "gv": 95,
       "freq": 75
     }
-  ],
-  "timestamp": "2026-06-09T23:30:35.685103603Z",
-  "model": "glm-4.5"
+  ]
 }

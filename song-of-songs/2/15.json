@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "song-of-songs 2:15",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27648,
-    "prompt_tokens_details": {
-      "cached_tokens": 26434
-    },
-    "total_tokens": 28210
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:35:52.933468009Z",
   "translation": "Apresad ⟨por⟩ nosotros ⟨los⟩ zorritos ⟨los⟩ zorritos diminutos ⟨que⟩ destruyen ⟨las⟩ viñas ⟨y⟩ nuestras viñas ⟨están⟩ en flor",
   "tokens": [
     {
       "surface": "אחזו",
-      "english": "Apresad"
+      "gloss": "Apresad"
     },
     {
       "surface": "לנו",
-      "english": "⟨por⟩ nosotros"
+      "gloss": "⟨por⟩ nosotros"
     },
     {
       "surface": "שועלים",
-      "english": "⟨los⟩ zorritos"
+      "gloss": "⟨los⟩ zorritos"
     },
     {
       "surface": "שועלים",
-      "english": "⟨los⟩ zorritos"
+      "gloss": "⟨los⟩ zorritos"
     },
     {
       "surface": "קטנים",
-      "english": "diminutos"
+      "gloss": "diminutos"
     },
     {
       "surface": "מחבלים",
-      "english": "⟨que⟩ destruyen"
+      "gloss": "⟨que⟩ destruyen"
     },
     {
       "surface": "כרמים",
-      "english": "⟨las⟩ viñas"
+      "gloss": "⟨las⟩ viñas"
     },
     {
       "surface": "וכרמינו",
-      "english": "⟨y⟩ nuestras viñas"
+      "gloss": "⟨y⟩ nuestras viñas"
     },
     {
       "surface": "סמדר",
-      "english": "⟨están⟩ en flor"
+      "gloss": "⟨están⟩ en flor"
     }
-  ],
-  "timestamp": "2026-06-09T22:35:52.933468009Z",
-  "model": "glm-4.5"
+  ]
 }

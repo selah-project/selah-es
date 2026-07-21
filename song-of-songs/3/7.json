@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "song-of-songs 3:7",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27617,
-    "prompt_tokens_details": {
-      "cached_tokens": 26434
-    },
-    "total_tokens": 28106
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:36:38.305787260Z",
   "translation": "⟨Lo⟩ ⟨el⟩ lecho de Shlomó ⟨está⟩ ⟨rodeado de⟩ sesenta valientes ⟨de entre⟩ los valientes de Israel",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "⟨Lo⟩"
+      "gloss": "⟨Lo⟩"
     },
     {
       "surface": "מטתו",
-      "english": "⟨el⟩ lecho"
+      "gloss": "⟨el⟩ lecho"
     },
     {
       "surface": "שלשלמה",
-      "english": "de Shlomó"
+      "gloss": "de Shlomó"
     },
     {
       "surface": "ששים",
-      "english": "sesenta"
+      "gloss": "sesenta"
     },
     {
       "surface": "גברים",
-      "english": "valientes"
+      "gloss": "valientes"
     },
     {
       "surface": "סביב",
-      "english": "⟨rodeado de⟩"
+      "gloss": "⟨rodeado de⟩"
     },
     {
       "surface": "לה",
-      "english": "⟨de entre⟩"
+      "gloss": "⟨de entre⟩"
     },
     {
       "surface": "מגברי",
-      "english": "los valientes"
+      "gloss": "los valientes"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     }
-  ],
-  "timestamp": "2026-06-09T22:36:38.305787260Z",
-  "model": "glm-4.5"
+  ]
 }

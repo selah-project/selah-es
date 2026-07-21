@@ -1,88 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "joshua 9:4",
   "book": "joshua",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 811,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24071,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 24882
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:13:10.656506Z",
   "translation": "Y hicieron ⟨ellos⟩ también con astucia y fueron y fingieron ⟨ser⟩ embajadores y tomaron sacos viejos ⟨para⟩ sus asnos y odres de vino viejos ⟨y⟩ rotos y ⟨atados⟩",
   "tokens": [
     {
       "surface": "ויעשו",
-      "english": "Y hicieron"
+      "gloss": "Y hicieron"
     },
     {
       "surface": "גם",
-      "english": "también"
+      "gloss": "también"
     },
     {
       "surface": "המה",
-      "english": "⟨ellos⟩",
+      "gloss": "⟨ellos⟩",
       "rationale": "Hebrew lacks explicit pronoun where English requires it"
     },
     {
       "surface": "בערמה",
-      "english": "con astucia"
+      "gloss": "con astucia"
     },
     {
       "surface": "וילכו",
-      "english": "y fueron"
+      "gloss": "y fueron"
     },
     {
       "surface": "ויצטירו",
-      "english": "y fingieron ⟨ser⟩",
+      "gloss": "y fingieron ⟨ser⟩",
       "rationale": "Hebrew lacks the verb 'to be' that English requires"
     },
     {
       "surface": "ויקחו",
-      "english": "y tomaron"
+      "gloss": "y tomaron"
     },
     {
       "surface": "שקים",
-      "english": "sacos"
+      "gloss": "sacos"
     },
     {
       "surface": "בלים",
-      "english": "viejos"
+      "gloss": "viejos"
     },
     {
       "surface": "לחמוריהם",
-      "english": "⟨para⟩ sus asnos",
+      "gloss": "⟨para⟩ sus asnos",
       "rationale": "The preposition לְ here indicates purpose rather than possession"
     },
     {
       "surface": "ונאדות",
-      "english": "y odres"
+      "gloss": "y odres"
     },
     {
       "surface": "יין",
-      "english": "de vino"
+      "gloss": "de vino"
     },
     {
       "surface": "בלים",
-      "english": "viejos"
+      "gloss": "viejos"
     },
     {
       "surface": "ומבקעים",
-      "english": "⟨y⟩ rotos"
+      "gloss": "⟨y⟩ rotos"
     },
     {
       "surface": "ומצררים",
-      "english": "⟨atados⟩",
+      "gloss": "⟨atados⟩",
       "rationale": "מצררים means 'bound up' or 'tied up', implying the wine skins were repaired by tying"
     }
-  ],
-  "timestamp": "2026-06-10T01:13:10.656506Z",
-  "model": "glm-4.5"
+  ]
 }

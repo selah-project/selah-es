@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 15:12",
   "book": "job",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26956,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27362
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:47.284183644Z",
   "translation": "¿Qué ⟨se lleva⟩ tu corazón ⟨את⟩ y qué ⟨titilan⟩ tus ojos?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "יקחך",
-      "english": "⟨se lleva⟩ tu corazón"
+      "gloss": "⟨se lleva⟩ tu corazón"
     },
     {
       "surface": "לבך",
-      "english": "corazón"
+      "gloss": "corazón"
     },
     {
       "surface": "ומה",
-      "english": "y qué"
+      "gloss": "y qué"
     },
     {
       "surface": "ירזמון",
-      "english": "⟨titilan⟩"
+      "gloss": "⟨titilan⟩"
     },
     {
       "surface": "עיניך",
-      "english": "tus ojos"
+      "gloss": "tus ojos"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:47.284183644Z",
-  "model": "glm-4.5"
+  ]
 }

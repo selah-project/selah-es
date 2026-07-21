@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 142,
   "ref": "psalms 119:142",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 354,
-    "prompt_tokens": 69783,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70137
-  },
+  "verse": 142,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:53.520218990Z",
   "translation": "Tu justicia ⟨es⟩ justicia para siempre, y tu Torá ⟨es⟩ emet.",
   "tokens": [
     {
       "surface": "צדקתך",
-      "english": "Tu justicia"
+      "gloss": "Tu justicia"
     },
     {
       "surface": "צדק",
-      "english": "justicia"
+      "gloss": "justicia"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "ותורתך",
-      "english": "y tu Torá"
+      "gloss": "y tu Torá"
     },
     {
       "surface": "אמת",
-      "english": "emet"
+      "gloss": "emet"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:53.520218990Z",
-  "model": "glm-4.5"
+  ]
 }

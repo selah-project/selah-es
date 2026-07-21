@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 88:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69927,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70476
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:23.204149083Z",
   "translation": "Porque está satisfecha ⟨de⟩ calamidades mi alma y ⟨mis⟩ vida ⟨al⟩ Seol han llegado",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "שבעה",
-      "english": "está satisfecha"
+      "gloss": "está satisfecha"
     },
     {
       "surface": "ברעות",
-      "english": "⟨de⟩ calamidades",
+      "gloss": "⟨de⟩ calamidades",
       "marks": "calamidades"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "וחיי",
-      "english": "⟨mis⟩ vida",
+      "gloss": "⟨mis⟩ vida",
       "marks": "vida"
     },
     {
       "surface": "לשאול",
-      "english": "⟨al⟩ Seol",
+      "gloss": "⟨al⟩ Seol",
       "marks": "Seol"
     },
     {
       "surface": "הגיעו",
-      "english": "han llegado"
+      "gloss": "han llegado"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:23.204149083Z",
-  "model": "glm-4.5"
+  ]
 }

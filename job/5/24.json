@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 5:24",
   "book": "job",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27177,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27555
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:03.655811990Z",
   "translation": "y sabrás que ⟨está en⟩ paz tu tienda y ⟨al⟩ inspeccionar tu morada ⟨no⟩ pecarás",
   "tokens": [
     {
       "surface": "וידעת",
-      "english": "Y sabrás"
+      "gloss": "Y sabrás"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "שלום",
-      "english": "en paz"
+      "gloss": "en paz"
     },
     {
       "surface": "אהלך",
-      "english": "tu tienda"
+      "gloss": "tu tienda"
     },
     {
       "surface": "ופקדת",
-      "english": "y ⟨al⟩ inspeccionar"
+      "gloss": "y ⟨al⟩ inspeccionar"
     },
     {
       "surface": "נוך",
-      "english": "tu morada"
+      "gloss": "tu morada"
     },
     {
       "surface": "ולא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תחטא",
-      "english": "pecarás"
+      "gloss": "pecarás"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:03.655811990Z",
-  "model": "glm-4.5"
+  ]
 }

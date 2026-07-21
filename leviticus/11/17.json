@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "leviticus 11:17",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 403,
-    "prompt_tokens": 24514,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24917
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:37:50.792908350Z",
   "translation": "y ⟨el⟩ búho, y ⟨el⟩ cuervo, y ⟨el⟩ gran búho",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨el⟩",
+      "gloss": "y ⟨el⟩",
       "marks": "búho"
     },
     {
       "surface": "הכוס",
-      "english": "búho"
+      "gloss": "búho"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨el⟩",
+      "gloss": "y ⟨el⟩",
       "marks": "cuervo"
     },
     {
       "surface": "השלך",
-      "english": "cuervo"
+      "gloss": "cuervo"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨el⟩",
+      "gloss": "y ⟨el⟩",
       "marks": "gran búho"
     },
     {
       "surface": "הינשוף",
-      "english": "gran búho"
+      "gloss": "gran búho"
     }
-  ],
-  "timestamp": "2026-07-16T22:37:50.792908350Z",
-  "model": "glm-4.5"
+  ]
 }

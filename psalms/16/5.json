@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 16:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 354,
-    "prompt_tokens": 70053,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70407
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:17.604353905Z",
   "translation": "YHWH ⟨es⟩ la porción de mi parte y de mi copa; tú sostienes mi suerte.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מנת",
-      "english": "la porción de"
+      "gloss": "la porción de"
     },
     {
       "surface": "חלקי",
-      "english": "mi parte"
+      "gloss": "mi parte"
     },
     {
       "surface": "וכוסי",
-      "english": "y de mi copa"
+      "gloss": "y de mi copa"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "תומיך",
-      "english": "sostienes"
+      "gloss": "sostienes"
     },
     {
       "surface": "גורלי",
-      "english": "mi suerte"
+      "gloss": "mi suerte"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:17.604353905Z",
-  "model": "glm-4.5"
+  ]
 }

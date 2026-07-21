@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 13:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 517,
-    "prompt_tokens": 28899,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29416
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:56:31.068458789Z",
   "translation": "porque toda la tierra que tú ves, a ti te ⟨la⟩ daré, y a tu simiente, hasta el olam",
   "tokens": [
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda la tierra"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "ראה",
-      "english": "ves"
+      "gloss": "ves"
     },
     {
       "surface": "לך",
-      "english": "a ti te"
+      "gloss": "a ti te"
     },
     {
       "surface": "אתננה",
-      "english": "daré"
+      "gloss": "daré"
     },
     {
       "surface": "ולזרעך",
-      "english": "y a tu simiente"
+      "gloss": "y a tu simiente"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "עולם",
-      "english": "el olam"
+      "gloss": "el olam"
     }
-  ],
-  "timestamp": "2026-07-16T20:56:31.068458789Z",
-  "model": "glm-4.5"
+  ]
 }

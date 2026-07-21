@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 72:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 69975,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70360
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:32.389155662Z",
   "translation": "Y se postrarán ante él todos los reyes, todas las naciones lo servirán",
   "tokens": [
     {
       "surface": "וישתחוו",
-      "english": "y se postrarán"
+      "gloss": "y se postrarán"
     },
     {
       "surface": "לו",
-      "english": "ante él"
+      "gloss": "ante él"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "מלכים",
-      "english": "los reyes"
+      "gloss": "los reyes"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "גוים",
-      "english": "las naciones"
+      "gloss": "las naciones"
     },
     {
       "surface": "יעבדוהו",
-      "english": "lo servirán"
+      "gloss": "lo servirán"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:32.389155662Z",
-  "model": "glm-4.5"
+  ]
 }

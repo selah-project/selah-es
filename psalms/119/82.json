@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 82,
   "ref": "psalms 119:82",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 322,
-    "prompt_tokens": 69871,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70193
-  },
+  "verse": 82,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:28.334908137Z",
   "translation": "Mis ojos se consumen ⟨por⟩ tu palabra, ⟨mientras⟩ digo: ¿Cuándo me consolarás?",
   "tokens": [
     {
       "surface": "כלו",
-      "english": "se consumen"
+      "gloss": "se consumen"
     },
     {
       "surface": "עיני",
-      "english": "mis ojos"
+      "gloss": "mis ojos"
     },
     {
       "surface": "לאמרתך",
-      "english": "⟨por⟩ tu palabra"
+      "gloss": "⟨por⟩ tu palabra"
     },
     {
       "surface": "לאמר",
-      "english": "⟨mientras⟩ digo"
+      "gloss": "⟨mientras⟩ digo"
     },
     {
       "surface": "מתי",
-      "english": "¿cuándo"
+      "gloss": "¿cuándo"
     },
     {
       "surface": "תנחמני",
-      "english": "me consolarás"
+      "gloss": "me consolarás"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:28.334908137Z",
-  "model": "glm-4.5"
+  ]
 }

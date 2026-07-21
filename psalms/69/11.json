@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 69:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69721,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70300
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:39.233413136Z",
   "translation": "Y ⟨he⟩ lloré ⟨con⟩ ayuno ⟨el⟩ aliento ⟨de⟩ mí; y ⟨fue⟩ ⟨a⟩ oprobios ⟨para⟩ mí",
   "tokens": [
     {
       "surface": "ואבכה",
-      "english": "Y ⟨he⟩ lloré"
+      "gloss": "Y ⟨he⟩ lloré"
     },
     {
       "surface": "בצום",
-      "english": "⟨con⟩ ayuno"
+      "gloss": "⟨con⟩ ayuno"
     },
     {
       "surface": "נפשי",
-      "english": "⟨el⟩ aliento ⟨de⟩ mí"
+      "gloss": "⟨el⟩ aliento ⟨de⟩ mí"
     },
     {
       "surface": "ותהי",
-      "english": "y ⟨fue⟩"
+      "gloss": "y ⟨fue⟩"
     },
     {
       "surface": "לחרפות",
-      "english": "⟨a⟩ oprobios"
+      "gloss": "⟨a⟩ oprobios"
     },
     {
       "surface": "לי",
-      "english": "⟨para⟩ mí"
+      "gloss": "⟨para⟩ mí"
     }
-  ],
-  "timestamp": "2026-06-09T23:31:39.233413136Z",
-  "model": "glm-4.5"
+  ]
 }

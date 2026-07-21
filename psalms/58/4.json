@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 58:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69908,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70463
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:26:18.347979026Z",
   "translation": "Los malvados ⟨son⟩ extraños ⟨desde⟩ ⟨el⟩ vientre, ⟨se⟩ desvían ⟨desde⟩ ⟨el⟩ seno, ⟨los⟩ habladores ⟨de⟩ mentira ⟨porque⟩ nacieron.",
   "tokens": [
     {
       "surface": "זרו",
-      "english": "Los malvados",
+      "gloss": "Los malvados",
       "notes": null
     },
     {
       "surface": "רשעים",
-      "english": "⟨son⟩ extraños",
+      "gloss": "⟨son⟩ extraños",
       "notes": null
     },
     {
       "surface": "מרחם",
-      "english": "⟨desde⟩ ⟨el⟩ vientre",
+      "gloss": "⟨desde⟩ ⟨el⟩ vientre",
       "notes": null
     },
     {
       "surface": "תעו",
-      "english": "⟨se⟩ desvían",
+      "gloss": "⟨se⟩ desvían",
       "notes": null
     },
     {
       "surface": "מבטן",
-      "english": "⟨desde⟩ ⟨el⟩ seno",
+      "gloss": "⟨desde⟩ ⟨el⟩ seno",
       "notes": null
     },
     {
       "surface": "דברי",
-      "english": "⟨los⟩ habladores ⟨de⟩ mentira",
+      "gloss": "⟨los⟩ habladores ⟨de⟩ mentira",
       "notes": null
     },
     {
       "surface": "כזב",
-      "english": "⟨porque⟩ nacieron",
+      "gloss": "⟨porque⟩ nacieron",
       "notes": null
     }
-  ],
-  "timestamp": "2026-06-09T23:26:18.347979026Z",
-  "model": "glm-4.5"
+  ]
 }

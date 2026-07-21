@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 2,
   "ref": "job 35:2",
   "book": "job",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 667,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26955,
-    "prompt_tokens_details": {
-      "cached_tokens": 26048
-    },
-    "total_tokens": 27622
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T04:02:57.431826476Z",
   "translation": "¿Tienes por justo esto? ⟨¿Es⟩ ⟨lo que⟩ dijiste: 'Mi justicia ⟨es⟩ mayor que ⟨la de⟩ El'?",
   "tokens": [
     {
       "surface": "הֲ֭\/זֹאת",
-      "english": "¿Tienes por justo esto?"
+      "gloss": "¿Tienes por justo esto?"
     },
     {
       "surface": "חָשַׁ֣בְתָּ",
-      "english": "tienes por justo"
+      "gloss": "tienes por justo"
     },
     {
       "surface": "לְ\/מִשְׁפָּ֑ט",
-      "english": "por justo"
+      "gloss": "por justo"
     },
     {
       "surface": "אָ֝מַ֗רְתָּ",
-      "english": "dijiste"
+      "gloss": "dijiste"
     },
     {
       "surface": "צִדְקִ֥\/י",
-      "english": "Mi justicia"
+      "gloss": "Mi justicia"
     },
     {
       "surface": "מֵ\/אֵֽל",
-      "english": "mayor que El"
+      "gloss": "mayor que El"
     }
-  ],
-  "timestamp": "2026-06-13T04:02:57.431826476Z",
-  "model": "glm-5.1"
+  ]
 }

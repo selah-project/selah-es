@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 42:8",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 407,
-    "prompt_tokens": 28432,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28839
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:12:53.463177952Z",
   "translation": "Yosef reconoció a sus hermanos, pero ellos no lo reconocieron a él.",
   "tokens": [
     {
       "surface": "ויכר",
-      "english": "Yosef reconoció"
+      "gloss": "Yosef reconoció"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a sus hermanos"
     },
     {
       "surface": "אחיו",
-      "english": "sus hermanos"
+      "gloss": "sus hermanos"
     },
     {
       "surface": "והם",
-      "english": "pero ellos"
+      "gloss": "pero ellos"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "הכרהו",
-      "english": "lo reconocieron a él"
+      "gloss": "lo reconocieron a él"
     }
-  ],
-  "timestamp": "2026-07-16T21:12:53.463177952Z",
-  "model": "glm-4.5"
+  ]
 }

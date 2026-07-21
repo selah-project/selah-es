@@ -1,84 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 36:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 1158,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70324,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71482
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:14:54.141958037Z",
   "translation": "La iniquidad ⟨es⟩ ⟨la⟩ trama de su lecho; ⟨lo⟩ se establece sobre un camino que ⟨es⟩ no bueno; ⟨el⟩ mal no lo rechaza",
   "tokens": [
     {
       "surface": "און",
-      "english": "La iniquidad",
+      "gloss": "La iniquidad",
       "notes": "La palabra און (aven) significa 'nada', 'vanidad' o 'iniquidad'; aquí se refiere a maldad o perversidad."
     },
     {
       "surface": "יחשב",
-      "english": "⟨es⟩ ⟨la⟩ trama",
+      "gloss": "⟨es⟩ ⟨la⟩ trama",
       "notes": "Literalmente 'teje' o 'calcula'; implica diseñar o planear deliberadamente, como un tejido."
     },
     {
       "surface": "על",
-      "english": "de",
+      "gloss": "de",
       "notes": "Preposición que indica 'sobre' o 'cerca de'."
     },
     {
       "surface": "משכבו",
-      "english": "su lecho",
+      "gloss": "su lecho",
       "notes": "De משכב (mishkav), literalmente 'lugar para acostarse', aquí figurativamente 'su cama' o 'su lecho'."
     },
     {
       "surface": "יתיצב",
-      "english": "⟨lo⟩ se establece",
+      "gloss": "⟨lo⟩ se establece",
       "notes": "Reflexivo de יצב (yatsav), 'colocarse' o 'establecerse'; implica tomar posición firmemente."
     },
     {
       "surface": "על",
-      "english": "sobre",
+      "gloss": "sobre",
       "notes": "Preposición que indica 'sobre' o 'encima de'."
     },
     {
       "surface": "דרך",
-      "english": "un camino",
+      "gloss": "un camino",
       "notes": "דרך (derek) significa 'camino', 'senda' o 'modo de vida'."
     },
     {
       "surface": "לא",
-      "english": "que ⟨es⟩ no",
+      "gloss": "que ⟨es⟩ no",
       "notes": "Negación simple; combinada con 'bueno' forma 'no bueno'."
     },
     {
       "surface": "טוב",
-      "english": "bueno",
+      "gloss": "bueno",
       "notes": "טוב (tov) significa 'bueno' en sentido amplío, moral o práctico."
     },
     {
       "surface": "רע",
-      "english": "⟨el⟩ mal",
+      "gloss": "⟨el⟩ mal",
       "notes": "רע (ra) significa 'malo' o 'evil'; aquí como sustantivo 'el mal'."
     },
     {
       "surface": "לא",
-      "english": "no",
+      "gloss": "no",
       "notes": "Negación que modifica el verbo 'rechaza'."
     },
     {
       "surface": "ימאס",
-      "english": "lo rechaza",
+      "gloss": "lo rechaza",
       "notes": "De מאס (ma'as), 'rechazar', 'despreciar' o 'abominar'. El hebreo usa la forma intensiva."
     }
-  ],
-  "timestamp": "2026-06-09T23:14:54.141958037Z",
-  "model": "glm-4.5"
+  ]
 }

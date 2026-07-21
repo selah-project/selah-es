@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "joel 1:15",
   "book": "joel",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23408,
-    "prompt_tokens_details": {
-      "cached_tokens": 22278
-    },
-    "total_tokens": 23824
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:27:43.332133124Z",
   "translation": "¡Ay! ¡Ay! ⟨por⟩ ⟨el⟩ día, porque cercano ⟨es⟩ ⟨el⟩ día de YHWH y ⟨como⟩ devastación desde ⟨el⟩ Todopoderoso vendrá",
   "tokens": [
     {
       "surface": "אהה",
-      "english": "¡Ay!"
+      "gloss": "¡Ay!"
     },
     {
       "surface": "ליום",
-      "english": "⟨por⟩ ⟨el⟩ día"
+      "gloss": "⟨por⟩ ⟨el⟩ día"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "קרוב",
-      "english": "cercano"
+      "gloss": "cercano"
     },
     {
       "surface": "יום",
-      "english": "⟨el⟩ día"
+      "gloss": "⟨el⟩ día"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "וכשד",
-      "english": "y ⟨como⟩ devastación"
+      "gloss": "y ⟨como⟩ devastación"
     },
     {
       "surface": "משדי",
-      "english": "desde ⟨el⟩ Todopoderoso"
+      "gloss": "desde ⟨el⟩ Todopoderoso"
     },
     {
       "surface": "יבוא",
-      "english": "vendrá"
+      "gloss": "vendrá"
     }
-  ],
-  "timestamp": "2026-06-10T00:27:43.332133124Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 51:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69902,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70249
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:22:48.728340497Z",
   "translation": "He aquí ⟨en⟩ iniquidad fui formado y ⟨en⟩ pecado me concibió mi madre",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "בעוון",
-      "english": "⟨en⟩ iniquidad",
+      "gloss": "⟨en⟩ iniquidad",
       "marks": "iniquidad"
     },
     {
       "surface": "חוללתי",
-      "english": "fui formado"
+      "gloss": "fui formado"
     },
     {
       "surface": "ובחטא",
-      "english": "y ⟨en⟩ pecado",
+      "gloss": "y ⟨en⟩ pecado",
       "marks": "pecado"
     },
     {
       "surface": "יחמתני",
-      "english": "me concibió"
+      "gloss": "me concibió"
     },
     {
       "surface": "אמי",
-      "english": "mi madre"
+      "gloss": "mi madre"
     }
-  ],
-  "timestamp": "2026-06-09T23:22:48.728340497Z",
-  "model": "glm-4.5"
+  ]
 }

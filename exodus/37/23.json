@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "exodus 37:23",
   "book": "exodus",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 396,
-    "prompt_tokens": 24156,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24552
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:26:54.723540833Z",
   "translation": "Y él hizo ⟨את⟩ sus siete lámparas, y sus despabiladeras, y sus platillos, de oro puro",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "Y él hizo"
+      "gloss": "Y él hizo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus siete lámparas"
     },
     {
       "surface": "נרתיה",
-      "english": "sus siete lámparas"
+      "gloss": "sus siete lámparas"
     },
     {
       "surface": "שבעה",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "ומלקחיה",
-      "english": "y sus despabiladeras"
+      "gloss": "y sus despabiladeras"
     },
     {
       "surface": "ומחתתיה",
-      "english": "y sus platillos"
+      "gloss": "y sus platillos"
     },
     {
       "surface": "זהב",
-      "english": "de oro"
+      "gloss": "de oro"
     },
     {
       "surface": "טהור",
-      "english": "puro"
+      "gloss": "puro"
     }
-  ],
-  "timestamp": "2026-07-16T20:26:54.723540833Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 89:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70003,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70363
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:27.854294915Z",
   "translation": "¡Dichoso ⟨el⟩ pueblo que conoce ⟨el⟩ grito de júbilo: YHWH en ⟨la⟩ luz de tu rostro caminarán",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Dichoso"
+      "gloss": "¡Dichoso"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "יודעי",
-      "english": "que conoce"
+      "gloss": "que conoce"
     },
     {
       "surface": "תרועה",
-      "english": "⟨el⟩ grito de júbilo"
+      "gloss": "⟨el⟩ grito de júbilo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "באור",
-      "english": "en ⟨la⟩ luz"
+      "gloss": "en ⟨la⟩ luz"
     },
     {
       "surface": "פניך",
-      "english": "de tu rostro"
+      "gloss": "de tu rostro"
     },
     {
       "surface": "יהלכון",
-      "english": "caminarán"
+      "gloss": "caminarán"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:27.854294915Z",
-  "model": "glm-4.5"
+  ]
 }

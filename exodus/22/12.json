@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 22:12",
   "book": "exodus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 336,
-    "prompt_tokens": 24027,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24363
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:18:18.033540613Z",
   "translation": "Si ⟨es⟩ despedazado, ⟨él⟩ lo traerá ⟨como⟩ ⟨את⟩ testigo ⟨el⟩ despedazamiento, no ⟨él⟩ hará restitution.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "טרף",
-      "english": "⟨es⟩ despedazado"
+      "gloss": "⟨es⟩ despedazado"
     },
     {
       "surface": "יטרף",
-      "english": "⟨él⟩ lo traerá"
+      "gloss": "⟨él⟩ lo traerá"
     },
     {
       "surface": "יבאהו",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "testigo"
     },
     {
       "surface": "עד",
-      "english": "testigo"
+      "gloss": "testigo"
     },
     {
       "surface": "הטרפה",
-      "english": "⟨el⟩ despedazamiento"
+      "gloss": "⟨el⟩ despedazamiento"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ישלם",
-      "english": "⟨él⟩ hará restitution"
+      "gloss": "⟨él⟩ hará restitution"
     }
-  ],
-  "timestamp": "2026-07-16T20:18:18.033540613Z",
-  "model": "glm-4.5"
+  ]
 }

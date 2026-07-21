@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "psalms 89:44",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 400,
-    "prompt_tokens": 69948,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70348
-  },
+  "verse": 44,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:52.180634112Z",
   "translation": "Incluso has hecho retroceder el filo de su espada, y no lo has hecho sostenerse en la batalla",
   "tokens": [
     {
       "surface": "אף",
-      "english": "Incluso"
+      "gloss": "Incluso"
     },
     {
       "surface": "תשיב",
-      "english": "has hecho retroceder"
+      "gloss": "has hecho retroceder"
     },
     {
       "surface": "צור",
-      "english": "el filo"
+      "gloss": "el filo"
     },
     {
       "surface": "חרבו",
-      "english": "de su espada"
+      "gloss": "de su espada"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "הקימתו",
-      "english": "lo has hecho sostenerse"
+      "gloss": "lo has hecho sostenerse"
     },
     {
       "surface": "במלחמה",
-      "english": "en la batalla"
+      "gloss": "en la batalla"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:52.180634112Z",
-  "model": "glm-4.5"
+  ]
 }

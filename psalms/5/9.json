@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 5:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70125,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70642
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:56.228018224Z",
   "translation": "YHWH guíame ⟨en⟩ tu rectitud ⟨por⟩ causa de ⟨mis⟩ enemigos; haz ⟨que⟩ ⟨tu⟩ camino ⟨sea⟩ recto ⟨delante⟩ de ⟨mi⟩ rostro.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "נחני",
-      "english": "guíame"
+      "gloss": "guíame"
     },
     {
       "surface": "בצדקתך",
-      "english": "⟨en⟩ tu rectitud"
+      "gloss": "⟨en⟩ tu rectitud"
     },
     {
       "surface": "למען",
-      "english": "⟨por⟩ causa de"
+      "gloss": "⟨por⟩ causa de"
     },
     {
       "surface": "שוררי",
-      "english": "⟨mis⟩ enemigos"
+      "gloss": "⟨mis⟩ enemigos"
     },
     {
       "surface": "הושר",
-      "english": "haz ⟨que⟩ ⟨tu⟩ camino ⟨sea⟩ recto"
+      "gloss": "haz ⟨que⟩ ⟨tu⟩ camino ⟨sea⟩ recto"
     },
     {
       "surface": "לפני",
-      "english": "⟨delante⟩ de"
+      "gloss": "⟨delante⟩ de"
     },
     {
       "surface": "דרכך",
-      "english": "⟨mi⟩ rostro"
+      "gloss": "⟨mi⟩ rostro"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:56.228018224Z",
-  "model": "glm-4.5"
+  ]
 }

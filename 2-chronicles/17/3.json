@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 17:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 17,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:17:47.107616138Z",
+  "translation": "Y YHWH estuvo con Yehoshafat, porque ⟨el⟩ ⟨caminó⟩ en los primeros caminos de Davidd su padre, y no buscó ⟨a⟩ los Baales",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עם",
+      "gloss": "estuvo con"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨el⟩ ⟨caminó⟩"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "en"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "su padre"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "primeros"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "buscó"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "⟨a⟩ los Baales"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58202,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58749
-  },
-  "translation": "Y YHWH estuvo con Yehoshafat, porque ⟨el⟩ ⟨caminó⟩ en los primeros caminos de Davidd su padre, y no buscó ⟨a⟩ los Baales",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "עם",
-      "english": "estuvo con"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "הלך",
-      "english": "⟨el⟩ ⟨caminó⟩"
-    },
-    {
-      "surface": "בדרכי",
-      "english": "en"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אביו",
-      "english": "su padre"
-    },
-    {
-      "surface": "הראשנים",
-      "english": "primeros"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "דרש",
-      "english": "buscó"
-    },
-    {
-      "surface": "לבעלים",
-      "english": "⟨a⟩ los Baales"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:17:47.107616138Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

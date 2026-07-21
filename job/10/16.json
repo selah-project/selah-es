@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 10:16",
   "book": "job",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 265,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27060,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27325
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:39.603334824Z",
   "translation": "Y si se exalta ⟨es⟩, tú me cazas como un león; y al volver ⟨te⟩, ⟨te⟩ maravillas ⟨de⟩ mí.",
   "tokens": [
     {
       "surface": "ויגאה",
-      "english": "Y si se exalta"
+      "gloss": "Y si se exalta"
     },
     {
       "surface": "כשחל",
-      "english": "como un león"
+      "gloss": "como un león"
     },
     {
       "surface": "תצודני",
-      "english": "tú me cazas"
+      "gloss": "tú me cazas"
     },
     {
       "surface": "ותשב",
-      "english": "y al volver"
+      "gloss": "y al volver"
     },
     {
       "surface": "תתפלא",
-      "english": "te maravillas"
+      "gloss": "te maravillas"
     },
     {
       "surface": "בי",
-      "english": "de mí"
+      "gloss": "de mí"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:39.603334824Z",
-  "model": "glm-4.5"
+  ]
 }

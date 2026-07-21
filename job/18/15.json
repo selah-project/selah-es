@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 18:15",
   "book": "job",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27123,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27623
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:11.588230596Z",
   "translation": "⟨It⟩ shall dwell in ⟨the⟩ tent, ⟨because it is⟩ none of his: brimstone ⟨is⟩ scattered upon ⟨his⟩ habitation.",
   "tokens": [
     {
       "surface": "תשכון",
-      "english": "Shall dwell"
+      "gloss": "Shall dwell"
     },
     {
       "surface": "באהלו",
-      "english": "in ⟨the⟩ tent"
+      "gloss": "in ⟨the⟩ tent"
     },
     {
       "surface": "מבלי",
-      "english": "⟨because it is⟩ none of"
+      "gloss": "⟨because it is⟩ none of"
     },
     {
       "surface": "לו",
-      "english": "his"
+      "gloss": "his"
     },
     {
       "surface": "יזרה",
-      "english": "scattered"
+      "gloss": "scattered"
     },
     {
       "surface": "על",
-      "english": "upon"
+      "gloss": "upon"
     },
     {
       "surface": "נוהו",
-      "english": "⟨his⟩ habitation"
+      "gloss": "⟨his⟩ habitation"
     },
     {
       "surface": "גפרית",
-      "english": "brimstone"
+      "gloss": "brimstone"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:11.588230596Z",
-  "model": "glm-4.5"
+  ]
 }

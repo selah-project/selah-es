@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 143:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 367,
-    "prompt_tokens": 70098,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70465
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:30.991130251Z",
   "translation": "Extendí mis manos hacia ti: mi alma ⟨está⟩ como tierra seca para ti. Selah",
   "tokens": [
     {
       "surface": "פרשתי",
-      "english": "Extendí"
+      "gloss": "Extendí"
     },
     {
       "surface": "ידי",
-      "english": "mis manos"
+      "gloss": "mis manos"
     },
     {
       "surface": "אליך",
-      "english": "hacia ti"
+      "gloss": "hacia ti"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "כארץ",
-      "english": "como tierra"
+      "gloss": "como tierra"
     },
     {
       "surface": "עיפה",
-      "english": "seca"
+      "gloss": "seca"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:30.991130251Z",
-  "model": "glm-4.5"
+  ]
 }

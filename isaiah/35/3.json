@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 35:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 249,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25939,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26188
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:41:14.289611617Z",
   "translation": "Fortalezcan ⟨las⟩ manos débiles y ⟨las⟩ rodillas que tropiezan confirmen",
   "tokens": [
     {
       "surface": "חזקו",
-      "english": "Fortalezcan"
+      "gloss": "Fortalezcan"
     },
     {
       "surface": "ידים",
-      "english": "⟨las⟩ manos",
+      "gloss": "⟨las⟩ manos",
       "marks": "manos"
     },
     {
       "surface": "רפות",
-      "english": "débiles"
+      "gloss": "débiles"
     },
     {
       "surface": "וברכים",
-      "english": "y ⟨las⟩ rodillas",
+      "gloss": "y ⟨las⟩ rodillas",
       "marks": "rodillas"
     },
     {
       "surface": "כשלות",
-      "english": "que tropiezan"
+      "gloss": "que tropiezan"
     },
     {
       "surface": "אמצו",
-      "english": "confirmen"
+      "gloss": "confirmen"
     }
-  ],
-  "timestamp": "2026-06-10T02:41:14.289611617Z",
-  "model": "glm-4.5"
+  ]
 }

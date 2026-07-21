@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 23:9",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 538,
-    "prompt_tokens": 60008,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60546
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:21:43.754205223Z",
   "translation": "No hables en los oídos ⟨de⟩ un kesil; porque despreciará ⟨el⟩ sekel ⟨de⟩ tus palabras",
   "tokens": [
     {
       "surface": "באזני",
-      "english": "en los oídos"
+      "gloss": "en los oídos"
     },
     {
       "surface": "כסיל",
-      "english": "un kesil"
+      "gloss": "un kesil"
     },
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תדבר",
-      "english": "hables"
+      "gloss": "hables"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "יבוז",
-      "english": "despreciará"
+      "gloss": "despreciará"
     },
     {
       "surface": "לשכל",
-      "english": "⟨el⟩ sekel"
+      "gloss": "⟨el⟩ sekel"
     },
     {
       "surface": "מליך",
-      "english": "⟨de⟩ tus palabras"
+      "gloss": "⟨de⟩ tus palabras"
     }
-  ],
-  "timestamp": "2026-07-16T23:21:43.754205223Z",
-  "model": "glm-4.5"
+  ]
 }

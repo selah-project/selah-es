@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "proverbs 17:22",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59896,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60411
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:41:31.428988784Z",
   "translation": "Un corazón ⟨que se regocija⟩ es ⟨una⟩ medicina ⟨buena⟩ ⟨לב⟩, y ⟨un⟩ espíritu ⟨que⟩ ⟨es⟩ afligido seca ⟨los⟩ huesos ⟨גרם⟩.",
   "tokens": [
     {
       "surface": "לב",
-      "english": "Un corazón",
+      "gloss": "Un corazón",
       "marks": "Un corazón ⟨que se regocija⟩ es ⟨una⟩ medicina ⟨buena⟩"
     },
     {
       "surface": "שמח",
-      "english": "que se regocija"
+      "gloss": "que se regocija"
     },
     {
       "surface": "ייטב",
-      "english": "es ⟨una⟩ medicina ⟨buena⟩"
+      "gloss": "es ⟨una⟩ medicina ⟨buena⟩"
     },
     {
       "surface": "גהה",
-      "english": "medicina"
+      "gloss": "medicina"
     },
     {
       "surface": "ורוח",
-      "english": "y ⟨un⟩ espíritu",
+      "gloss": "y ⟨un⟩ espíritu",
       "marks": "y ⟨un⟩ espíritu ⟨que⟩ ⟨es⟩ afligido seca ⟨los⟩ huesos"
     },
     {
       "surface": "נכאה",
-      "english": "que ⟨es⟩ afligido"
+      "gloss": "que ⟨es⟩ afligido"
     },
     {
       "surface": "תיבש",
-      "english": "seca"
+      "gloss": "seca"
     },
     {
       "surface": "גרם",
-      "english": "los huesos"
+      "gloss": "los huesos"
     }
-  ],
-  "timestamp": "2026-06-10T01:41:31.428988784Z",
-  "model": "glm-4.5"
+  ]
 }

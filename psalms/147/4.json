@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 147:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69819,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70202
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:11:57.353320505Z",
   "translation": "Él ⟨está⟩ contando ⟨el⟩ número de las estrellas; ⟨a⟩ todas ellas ⟨las⟩ llama por sus nombres.",
   "tokens": [
     {
       "surface": "מונה",
-      "english": "Él ⟨está⟩ contando"
+      "gloss": "Él ⟨está⟩ contando"
     },
     {
       "surface": "מספר",
-      "english": "⟨el⟩ número"
+      "gloss": "⟨el⟩ número"
     },
     {
       "surface": "לכוכבים",
-      "english": "de las estrellas"
+      "gloss": "de las estrellas"
     },
     {
       "surface": "לכלם",
-      "english": "⟨a⟩ todas ellas"
+      "gloss": "⟨a⟩ todas ellas"
     },
     {
       "surface": "שמות",
-      "english": "⟨las⟩ llama por sus"
+      "gloss": "⟨las⟩ llama por sus"
     },
     {
       "surface": "יקרא",
-      "english": "nombres"
+      "gloss": "nombres"
     }
-  ],
-  "timestamp": "2026-06-10T00:11:57.353320505Z",
-  "model": "glm-4.5"
+  ]
 }

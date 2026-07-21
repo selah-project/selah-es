@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 1:8",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26275,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26798
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:20:42.978831803Z",
   "translation": "Y ⟨que queda⟩ hija de Tzión ⟨como⟩ cabaña ⟨en⟩ viña, ⟨como⟩ cabaña de melón ⟨en⟩ campo, ⟨como⟩ ciudad cercada.",
   "tokens": [
     {
       "surface": "ונותרה",
-      "english": "Y ⟨que queda⟩"
+      "gloss": "Y ⟨que queda⟩"
     },
     {
       "surface": "בת",
-      "english": "hija"
+      "gloss": "hija"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     },
     {
       "surface": "כסכה",
-      "english": "⟨como⟩ cabaña"
+      "gloss": "⟨como⟩ cabaña"
     },
     {
       "surface": "בכרם",
-      "english": "⟨en⟩ viña"
+      "gloss": "⟨en⟩ viña"
     },
     {
       "surface": "כמלונה",
-      "english": "⟨como⟩ cabaña de melón"
+      "gloss": "⟨como⟩ cabaña de melón"
     },
     {
       "surface": "במקשה",
-      "english": "⟨en⟩ campo"
+      "gloss": "⟨en⟩ campo"
     },
     {
       "surface": "כעיר",
-      "english": "⟨como⟩ ciudad"
+      "gloss": "⟨como⟩ ciudad"
     },
     {
       "surface": "נצורה",
-      "english": "cercada"
+      "gloss": "cercada"
     }
-  ],
-  "timestamp": "2026-06-10T02:20:42.978831803Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 122:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 244,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69681,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69925
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:03:56.291212005Z",
   "translation": "Sea paz ⟨en⟩ tus murallas ⟨את⟩, y prosperidad ⟨en⟩ tus palacios ⟨את⟩.",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "Sea"
+      "gloss": "Sea"
     },
     {
       "surface": "שלום",
-      "english": "paz"
+      "gloss": "paz"
     },
     {
       "surface": "בחילך",
-      "english": "⟨en⟩ tus murallas"
+      "gloss": "⟨en⟩ tus murallas"
     },
     {
       "surface": "שלוה",
-      "english": "y prosperidad"
+      "gloss": "y prosperidad"
     },
     {
       "surface": "בארמנותיך",
-      "english": "⟨en⟩ tus palacios"
+      "gloss": "⟨en⟩ tus palacios"
     }
-  ],
-  "timestamp": "2026-06-10T00:03:56.291212005Z",
-  "model": "glm-4.5"
+  ]
 }

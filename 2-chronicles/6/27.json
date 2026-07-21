@@ -1,9 +1,112 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "2-chronicles 6:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 6,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:05:59.407571534Z",
+  "translation": "y tú ⟨es⟩ ⟨el que⟩ escucha ⟨desde⟩ los cielos y perdonas ⟨el⟩ pecado de tus siervos y ⟨de⟩ tu pueblo Yisrael porque tú ⟨los⟩ diriges hacia ⟨el⟩ buen camino en ⟨el⟩ que deben caminar y das lluvia sobre tu tierra que has dado a tu pueblo como herencia.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Y tú"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "⟨es⟩ ⟨el que⟩ escucha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨desde⟩ los cielos"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "y perdonas"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "⟨el⟩ pecado"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "de tus siervos"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "y ⟨de⟩ tu pueblo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "תורם",
+      "gloss": "tú ⟨los⟩ diriges"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hacia"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "⟨el⟩ camino"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "buen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "en ⟨el⟩ que"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "deben caminar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨en⟩ ⟨él⟩"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "y das"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "lluvia"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tu tierra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "has dado"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "a tu pueblo"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "como herencia"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,120 +116,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 1105,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59288,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60393
-  },
-  "translation": "y tú ⟨es⟩ ⟨el que⟩ escucha ⟨desde⟩ los cielos y perdonas ⟨el⟩ pecado de tus siervos y ⟨de⟩ tu pueblo Yisrael porque tú ⟨los⟩ diriges hacia ⟨el⟩ buen camino en ⟨el⟩ que deben caminar y das lluvia sobre tu tierra que has dado a tu pueblo como herencia.",
-  "tokens": [
-    {
-      "surface": "ואתה",
-      "english": "Y tú"
-    },
-    {
-      "surface": "תשמע",
-      "english": "⟨es⟩ ⟨el que⟩ escucha"
-    },
-    {
-      "surface": "השמים",
-      "english": "⟨desde⟩ los cielos"
-    },
-    {
-      "surface": "וסלחת",
-      "english": "y perdonas"
-    },
-    {
-      "surface": "לחטאת",
-      "english": "⟨el⟩ pecado"
-    },
-    {
-      "surface": "עבדיך",
-      "english": "de tus siervos"
-    },
-    {
-      "surface": "ועמך",
-      "english": "y ⟨de⟩ tu pueblo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "תורם",
-      "english": "tú ⟨los⟩ diriges"
-    },
-    {
-      "surface": "אל",
-      "english": "hacia"
-    },
-    {
-      "surface": "הדרך",
-      "english": "⟨el⟩ camino"
-    },
-    {
-      "surface": "הטובה",
-      "english": "buen"
-    },
-    {
-      "surface": "אשר",
-      "english": "en ⟨el⟩ que"
-    },
-    {
-      "surface": "ילכו",
-      "english": "deben caminar"
-    },
-    {
-      "surface": "בה",
-      "english": "⟨en⟩ ⟨él⟩"
-    },
-    {
-      "surface": "ונתתה",
-      "english": "y das"
-    },
-    {
-      "surface": "מטר",
-      "english": "lluvia"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ארצך",
-      "english": "tu tierra"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "נתתה",
-      "english": "has dado"
-    },
-    {
-      "surface": "לעמך",
-      "english": "a tu pueblo"
-    },
-    {
-      "surface": "לנחלה",
-      "english": "como herencia"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:05:59.407571534Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

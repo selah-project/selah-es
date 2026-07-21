@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 53:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 53,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70229,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70796
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:23:29.306156939Z",
   "translation": "El necio ha dicho en su corazón: ⟨no⟩ hay Elohim; se han corrompido ⟨y⟩ han cometido abominable iniquidad; ⟨no⟩ hay ⟨el que⟩ hace ⟨lo⟩ bueno.",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "Ha dicho"
+      "gloss": "Ha dicho"
     },
     {
       "surface": "נבל",
-      "english": "El necio"
+      "gloss": "El necio"
     },
     {
       "surface": "בלבו",
-      "english": "en su corazón"
+      "gloss": "en su corazón"
     },
     {
       "surface": "אין",
-      "english": "⟨no⟩ hay"
+      "gloss": "⟨no⟩ hay"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "השחיתו",
-      "english": "se han corrompido"
+      "gloss": "se han corrompido"
     },
     {
       "surface": "והתעיבו",
-      "english": "⟨y⟩ han cometido abominable iniquidad"
+      "gloss": "⟨y⟩ han cometido abominable iniquidad"
     },
     {
       "surface": "עול",
-      "english": "abominable iniquidad"
+      "gloss": "abominable iniquidad"
     },
     {
       "surface": "אין",
-      "english": "⟨no⟩ hay"
+      "gloss": "⟨no⟩ hay"
     },
     {
       "surface": "עשה",
-      "english": "⟨el que⟩ hace"
+      "gloss": "⟨el que⟩ hace"
     },
     {
       "surface": "טוב",
-      "english": "⟨lo⟩ bueno"
+      "gloss": "⟨lo⟩ bueno"
     }
-  ],
-  "timestamp": "2026-06-09T23:23:29.306156939Z",
-  "model": "glm-4.5"
+  ]
 }

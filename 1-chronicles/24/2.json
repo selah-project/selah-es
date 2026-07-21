@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 24:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 24,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:53:36.756078770Z",
+  "translation": "Y murieron Nadab y Abihu ⟨en presencia de⟩ su padre, y no hubo hijos para ellos, y sirvieron ⟨como⟩ sacerdotes Elazar e Itamar",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Y murieron"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "y Abihu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨en presencia de⟩"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "su padre"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היו",
+      "gloss": "hubo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para ellos"
+    },
+    {
+      "surface": "ויכהנו",
+      "gloss": "y sirvieron ⟨como⟩ sacerdotes"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "e Itamar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eleazar",
@@ -13,72 +68,6 @@
       "hebrew": "אלעזר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57105,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57647
-  },
-  "translation": "Y murieron Nadab y Abihu ⟨en presencia de⟩ su padre, y no hubo hijos para ellos, y sirvieron ⟨como⟩ sacerdotes Elazar e Itamar",
-  "tokens": [
-    {
-      "surface": "וימת",
-      "english": "Y murieron"
-    },
-    {
-      "surface": "נדב",
-      "english": "Nadab"
-    },
-    {
-      "surface": "ואביהוא",
-      "english": "y Abihu"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨en presencia de⟩"
-    },
-    {
-      "surface": "אביהם",
-      "english": "su padre"
-    },
-    {
-      "surface": "ובנים",
-      "english": "hijos"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "היו",
-      "english": "hubo"
-    },
-    {
-      "surface": "להם",
-      "english": "para ellos"
-    },
-    {
-      "surface": "ויכהנו",
-      "english": "y sirvieron ⟨como⟩ sacerdotes"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "Elazar"
-    },
-    {
-      "surface": "ואיתמר",
-      "english": "e Itamar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:53:36.756078770Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

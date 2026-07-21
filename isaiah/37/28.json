@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "isaiah 37:28",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 501,
-    "prompt_tokens": 26279,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26780
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:28:35.643721984Z",
   "translation": "Y tu quedar, y tu salir, y tu entrar, he conocido, y ⟨את⟩ tu enoje contra mí",
   "tokens": [
     {
       "surface": "וְ\/שִׁבְתְּ\/ךָ֛",
-      "english": "y tu quedar"
+      "gloss": "y tu quedar"
     },
     {
       "surface": "וְ\/צֵאתְ\/ךָ֥",
-      "english": "y tu salir"
+      "gloss": "y tu salir"
     },
     {
       "surface": "וּ\/בוֹאֲ\/ךָ֖",
-      "english": "y tu entrar"
+      "gloss": "y tu entrar"
     },
     {
       "surface": "יָדָ֑עְתִּי",
-      "english": "he conocido"
+      "gloss": "he conocido"
     },
     {
       "surface": "וְ\/אֵ֖ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu enoje"
     },
     {
       "surface": "הִֽתְרַגֶּזְ\/ךָ֥",
-      "english": "tu enoje"
+      "gloss": "tu enoje"
     },
     {
       "surface": "אֵלָֽ\/י",
-      "english": "contra mí"
+      "gloss": "contra mí"
     }
-  ],
-  "timestamp": "2026-07-16T21:28:35.643721984Z",
-  "model": "glm-4.5"
+  ]
 }

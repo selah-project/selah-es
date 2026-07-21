@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 37:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28585,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29161
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:34:42.116071936Z",
   "translation": "Y un ⟨hombre⟩ ⟨lo⟩ encontró y ⟨he aquí⟩ ⟨estaba⟩ errando en el campo y ⟨el⟩ hombre ⟨le⟩ preguntó diciendo Qué ⟨estás⟩ buscando",
   "tokens": [
     {
       "surface": "וימצאהו",
-      "english": "Y un ⟨hombre⟩ ⟨lo⟩ encontró"
+      "gloss": "Y un ⟨hombre⟩ ⟨lo⟩ encontró"
     },
     {
       "surface": "איש",
-      "english": "⟨hombre⟩"
+      "gloss": "⟨hombre⟩"
     },
     {
       "surface": "והנה",
-      "english": "y ⟨he aquí⟩"
+      "gloss": "y ⟨he aquí⟩"
     },
     {
       "surface": "תעה",
-      "english": "⟨estaba⟩ errando"
+      "gloss": "⟨estaba⟩ errando"
     },
     {
       "surface": "בשדה",
-      "english": "en el campo"
+      "gloss": "en el campo"
     },
     {
       "surface": "וישאלהו",
-      "english": "y ⟨el⟩ hombre ⟨le⟩ preguntó"
+      "gloss": "y ⟨el⟩ hombre ⟨le⟩ preguntó"
     },
     {
       "surface": "האיש",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     },
     {
       "surface": "מה",
-      "english": "Qué"
+      "gloss": "Qué"
     },
     {
       "surface": "תבקש",
-      "english": "⟨estás⟩ buscando"
+      "gloss": "⟨estás⟩ buscando"
     }
-  ],
-  "timestamp": "2026-06-10T05:34:42.116071936Z",
-  "model": "glm-4.5"
+  ]
 }

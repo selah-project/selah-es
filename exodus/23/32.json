@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "exodus 23:32",
   "book": "exodus",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 313,
-    "prompt_tokens": 23724,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24037
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:18:50.663773729Z",
   "translation": "No harás ⟨un⟩ pacto con ellos ni con sus elohim.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תכרת",
-      "english": "harás ⟨un⟩"
+      "gloss": "harás ⟨un⟩"
     },
     {
       "surface": "להם",
-      "english": "con ellos"
+      "gloss": "con ellos"
     },
     {
       "surface": "ולאלהיהם",
-      "english": "ni con sus elohim"
+      "gloss": "ni con sus elohim"
     },
     {
       "surface": "ברית",
-      "english": "pacto"
+      "gloss": "pacto"
     }
-  ],
-  "timestamp": "2026-07-16T20:18:50.663773729Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-chronicles 5:30",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 350,
-    "prompt_tokens": 64160,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64510
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:03:14.367760781Z",
   "translation": "Elazar engendró ⟨את⟩ Pinejas; Pinejas engendró ⟨את⟩ Avishúa.",
   "tokens": [
     {
       "surface": "אלעזר",
-      "english": "Elazar"
+      "gloss": "Elazar"
     },
     {
       "surface": "הוליד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Pinejas"
     },
     {
       "surface": "פינחס",
-      "english": "Pinejas"
+      "gloss": "Pinejas"
     },
     {
       "surface": "פינחס",
-      "english": "Pinejas"
+      "gloss": "Pinejas"
     },
     {
       "surface": "הליד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avishúa"
     },
     {
       "surface": "אבישוע",
-      "english": "Avishúa"
+      "gloss": "Avishúa"
     }
-  ],
-  "timestamp": "2026-07-16T18:03:14.367760781Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 13:4",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59893,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60273
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:36:47.447775168Z",
   "translation": "El alma del perezoso desea ⟨y⟩ ⟨no⟩ ⟨tiene⟩ nada; ⟨pero⟩ el alma ⟨de los⟩ diligentes ⟨será⟩ engrasada",
   "tokens": [
     {
       "surface": "מתאוה",
-      "english": "El alma del perezoso desea"
+      "gloss": "El alma del perezoso desea"
     },
     {
       "surface": "ואין",
-      "english": "⟨y⟩ ⟨no⟩ ⟨tiene⟩ nada",
+      "gloss": "⟨y⟩ ⟨no⟩ ⟨tiene⟩ nada",
       "marks": "nada"
     },
     {
       "surface": "נפשו",
-      "english": "nada",
+      "gloss": "nada",
       "marks": "El alma del perezoso"
     },
     {
       "surface": "עצל",
-      "english": "perezoso"
+      "gloss": "perezoso"
     },
     {
       "surface": "ונפש",
-      "english": "⟨pero⟩ el alma"
+      "gloss": "⟨pero⟩ el alma"
     },
     {
       "surface": "חרצים",
-      "english": "⟨de los⟩ diligentes"
+      "gloss": "⟨de los⟩ diligentes"
     },
     {
       "surface": "תדשן",
-      "english": "⟨será⟩ engrasada"
+      "gloss": "⟨será⟩ engrasada"
     }
-  ],
-  "timestamp": "2026-06-10T01:36:47.447775168Z",
-  "model": "glm-4.5"
+  ]
 }

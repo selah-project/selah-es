@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-kings 13:30",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 69618,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 70020
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:26:20.676194978Z",
   "translation": "Y puso ⟨את⟩ su cuerpo en su tumba, y lamentaron sobre él: ¡Ay, hermano mío!",
   "tokens": [
     {
       "surface": "וינח",
-      "english": "Y puso"
+      "gloss": "Y puso"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su cuerpo"
     },
     {
       "surface": "נבלתו",
-      "english": "su cuerpo"
+      "gloss": "su cuerpo"
     },
     {
       "surface": "בקברו",
-      "english": "en su tumba"
+      "gloss": "en su tumba"
     },
     {
       "surface": "ויספדו",
-      "english": "y lamentaron"
+      "gloss": "y lamentaron"
     },
     {
       "surface": "עליו",
-      "english": "sobre él"
+      "gloss": "sobre él"
     },
     {
       "surface": "הוי",
-      "english": "¡Ay"
+      "gloss": "¡Ay"
     },
     {
       "surface": "אחי",
-      "english": "hermano mío"
+      "gloss": "hermano mío"
     }
-  ],
-  "timestamp": "2026-07-16T18:26:20.676194978Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "joshua 12:24",
   "book": "joshua",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 240,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23163,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23403
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:16:42.644497695Z",
   "translation": "El rey de Tirzá, uno; ⟨todos⟩ los reyes, treinta y uno.",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "El rey"
+      "gloss": "El rey"
     },
     {
       "surface": "תרצה",
-      "english": "de Tirzá"
+      "gloss": "de Tirzá"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "מלכים",
-      "english": "los reyes"
+      "gloss": "los reyes"
     },
     {
       "surface": "שלשים",
-      "english": "treinta"
+      "gloss": "treinta"
     },
     {
       "surface": "ואחד",
-      "english": "y uno"
+      "gloss": "y uno"
     }
-  ],
-  "timestamp": "2026-06-10T01:16:42.644497695Z",
-  "model": "glm-4.5"
+  ]
 }

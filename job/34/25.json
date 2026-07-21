@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 34:25",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26989,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27412
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:52:44.677355366Z",
   "translation": "Por lo tanto ⟨él⟩ conoce ⟨את⟩ sus obras y ⟨ella⟩ voltea la noche y ⟨ellos⟩ son quebrantados",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "Por lo tanto"
+      "gloss": "Por lo tanto"
     },
     {
       "surface": "יכיר",
-      "english": "conoce",
+      "gloss": "conoce",
       "marks": "sus obras"
     },
     {
       "surface": "מעבדיהם",
-      "english": "sus obras"
+      "gloss": "sus obras"
     },
     {
       "surface": "והפך",
-      "english": "y ⟨ella⟩ voltea"
+      "gloss": "y ⟨ella⟩ voltea"
     },
     {
       "surface": "לילה",
-      "english": "la noche"
+      "gloss": "la noche"
     },
     {
       "surface": "וידכאו",
-      "english": "y ⟨ellos⟩ son quebrantados"
+      "gloss": "y ⟨ellos⟩ son quebrantados"
     }
-  ],
-  "timestamp": "2026-06-10T03:52:44.677355366Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 26:15",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 397,
-    "prompt_tokens": 60019,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60416
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:23:07.605876646Z",
   "translation": "El perezoso esconde su mano en el plato; le ⟨es⟩ fatigoso devolverla a su boca.",
   "tokens": [
     {
       "surface": "טמן",
-      "english": "esconde"
+      "gloss": "esconde"
     },
     {
       "surface": "עצל",
-      "english": "el perezoso"
+      "gloss": "el perezoso"
     },
     {
       "surface": "ידו",
-      "english": "su mano"
+      "gloss": "su mano"
     },
     {
       "surface": "בצלחת",
-      "english": "en el plato"
+      "gloss": "en el plato"
     },
     {
       "surface": "נלאה",
-      "english": "le ⟨es⟩ fatigoso"
+      "gloss": "le ⟨es⟩ fatigoso"
     },
     {
       "surface": "להשיבה",
-      "english": "devolverla"
+      "gloss": "devolverla"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "פיו",
-      "english": "su boca"
+      "gloss": "su boca"
     }
-  ],
-  "timestamp": "2026-07-16T23:23:07.605876646Z",
-  "model": "glm-4.5"
+  ]
 }

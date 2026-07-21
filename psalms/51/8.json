@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 51:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69928,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70360
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:23:02.379472468Z",
   "translation": "He aquí, verdad ⟨has⟩ desead ⟨en⟩ ⟨lo⟩ profundo, y ⟨en⟩ ⟨lo⟩ oculto ⟨la⟩ sabiduría ⟨me⟩ harás conocer.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "אמת",
-      "english": "verdad"
+      "gloss": "verdad"
     },
     {
       "surface": "חפצת",
-      "english": "⟨has⟩ desead",
+      "gloss": "⟨has⟩ desead",
       "marks": "verdad ⟨en⟩ ⟨lo⟩ profundo"
     },
     {
       "surface": "בטחות",
-      "english": "⟨en⟩ ⟨lo⟩ profundo"
+      "gloss": "⟨en⟩ ⟨lo⟩ profundo"
     },
     {
       "surface": "ובסתם",
-      "english": "y ⟨en⟩ ⟨lo⟩ oculto"
+      "gloss": "y ⟨en⟩ ⟨lo⟩ oculto"
     },
     {
       "surface": "חכמה",
-      "english": "⟨la⟩ sabiduría"
+      "gloss": "⟨la⟩ sabiduría"
     },
     {
       "surface": "תודיעני",
-      "english": "⟨me⟩ harás conocer"
+      "gloss": "⟨me⟩ harás conocer"
     }
-  ],
-  "timestamp": "2026-06-09T23:23:02.379472468Z",
-  "model": "glm-4.5"
+  ]
 }

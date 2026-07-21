@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-samuel 5:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 5,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:19:55.338255102Z",
+  "translation": "Hijo de treinta años ⟨es⟩ Davidd al comenzar su reinar; cuarenta años reinó",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Hijo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treinta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "al comenzar su reinar"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "cuarenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,56 +52,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16857,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17181
-  },
-  "translation": "Hijo de treinta años ⟨es⟩ Davidd al comenzar su reinar; cuarenta años reinó",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Hijo"
-    },
-    {
-      "surface": "שלשים",
-      "english": "treinta"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "במלכו",
-      "english": "al comenzar su reinar"
-    },
-    {
-      "surface": "ארבעים",
-      "english": "cuarenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:19:55.338255102Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

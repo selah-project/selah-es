@@ -1,43 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 68:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69653,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69929
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:04.408862910Z",
   "translation": "⟨al⟩ Director ⟨al⟩ David ⟨el⟩ mizmor ⟨el⟩ shir",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Al⟩ Director",
+      "gloss": "⟨Al⟩ Director",
       "marks": "to"
     },
     {
       "surface": "לדוד",
-      "english": "⟨al⟩ David",
+      "gloss": "⟨al⟩ David",
       "marks": "to"
     },
     {
       "surface": "מזמור",
-      "english": "⟨el⟩ mizmor",
+      "gloss": "⟨el⟩ mizmor",
       "marks": "a"
     },
     {
       "surface": "שיר",
-      "english": "⟨el⟩ shir"
+      "gloss": "⟨el⟩ shir"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:04.408862910Z",
-  "model": "glm-4.5"
+  ]
 }

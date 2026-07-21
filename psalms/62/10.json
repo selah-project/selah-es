@@ -1,84 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 62:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 789,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70274,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71063
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:11.557464306Z",
   "translation": "Ciertamente ⟨son⟩ vanidad ⟨los⟩ hijos de Adam, mentira ⟨los⟩ hijos ⟨de⟩ un varón ⟨en⟩ balanzas para subir ⟨ellos⟩ ⟨son⟩ juntamente ⟨más⟩ ligeros que ⟨la⟩ vanidad ⟨en⟩ unidad",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Ciertamente",
+      "gloss": "Ciertamente",
       "rationale": "Particle of affirmation, emphasizing the statement"
     },
     {
       "surface": "הבל",
-      "english": "vanidad",
+      "gloss": "vanidad",
       "rationale": "Emptiness, vanity, transitory satisfaction"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos",
+      "gloss": "⟨los⟩ hijos",
       "rationale": "Sons, descendants; article added in English"
     },
     {
       "surface": "אדם",
-      "english": "Adam",
+      "gloss": "Adam",
       "rationale": "Humanity, mankind; kept as proper name Adam"
     },
     {
       "surface": "כזב",
-      "english": "mentira",
+      "gloss": "mentira",
       "rationale": "Falsehood, lie, deception"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos",
+      "gloss": "⟨los⟩ hijos",
       "rationale": "Sons, descendants; article added in English"
     },
     {
       "surface": "איש",
-      "english": "⟨de⟩ un varón",
+      "gloss": "⟨de⟩ un varón",
       "rationale": "Man, male person; preposition and article added for English"
     },
     {
       "surface": "במאזנים",
-      "english": "⟨en⟩ balanzas",
+      "gloss": "⟨en⟩ balanzas",
       "rationale": "In the scales, balances; preposition added"
     },
     {
       "surface": "לעלות",
-      "english": "para subir",
+      "gloss": "para subir",
       "rationale": "To go up, ascend; infinitive expressing purpose"
     },
     {
       "surface": "המה",
-      "english": "⟨ellos⟩",
+      "gloss": "⟨ellos⟩",
       "rationale": "Emphatic they; pronoun added for clarity"
     },
     {
       "surface": "מהבל",
-      "english": "⟨más⟩ ligeros que ⟨la⟩ vanidad",
+      "gloss": "⟨más⟩ ligeros que ⟨la⟩ vanidad",
       "rationale": "From vanity; comparative construction with articles added"
     },
     {
       "surface": "יחד",
-      "english": "⟨en⟩ unidad",
+      "gloss": "⟨en⟩ unidad",
       "rationale": "Together, unitedly; preposition added for English"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:11.557464306Z",
-  "model": "glm-4.5"
+  ]
 }

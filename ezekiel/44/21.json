@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "ezekiel 44:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 44,
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:54:00.608817400Z",
+  "translation": "Y vino ⟨no⟩ beberá todo Kohen en su entrada ⟨a⟩ ⟨el⟩ patio ⟨el⟩ interior",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Y vino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "beberá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "en su entrada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨el⟩ patio"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "⟨el⟩ interior"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,60 +56,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 44,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17025,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17404
-  },
-  "translation": "Y vino ⟨no⟩ beberá todo Kohen en su entrada ⟨a⟩ ⟨el⟩ patio ⟨el⟩ interior",
-  "tokens": [
-    {
-      "surface": "ויין",
-      "english": "Y vino"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "ישתו",
-      "english": "beberá"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "כהן",
-      "english": "Kohen"
-    },
-    {
-      "surface": "בבואם",
-      "english": "en su entrada"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "החצר",
-      "english": "⟨el⟩ patio"
-    },
-    {
-      "surface": "הפנימית",
-      "english": "⟨el⟩ interior"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:54:00.608817400Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

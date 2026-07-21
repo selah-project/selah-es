@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 68:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69938,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70336
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:09.933911302Z",
   "translation": "Adonai ha dicho: ⟨el⟩ retornaré de Bashan, ⟨lo⟩ retornaré de ⟨las⟩ profundidades del mar:",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "Ha dicho"
+      "gloss": "Ha dicho"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "מבשן",
-      "english": "de Bashan"
+      "gloss": "de Bashan"
     },
     {
       "surface": "אשיב",
-      "english": "⟨el⟩ retornaré"
+      "gloss": "⟨el⟩ retornaré"
     },
     {
       "surface": "אשיב",
-      "english": "⟨lo⟩ retornaré"
+      "gloss": "⟨lo⟩ retornaré"
     },
     {
       "surface": "ממצלות",
-      "english": "de ⟨las⟩ profundidades"
+      "gloss": "de ⟨las⟩ profundidades"
     },
     {
       "surface": "ים",
-      "english": "del mar"
+      "gloss": "del mar"
     }
-  ],
-  "timestamp": "2026-06-09T23:31:09.933911302Z",
-  "model": "glm-4.5"
+  ]
 }

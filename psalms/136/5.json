@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 136:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69774,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70053
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:07:03.893516479Z",
   "translation": "To ⟨the⟩ One making ⟨the⟩ heavens by understanding, for to eternity ⟨is⟩ His kindness.",
   "tokens": [
     {
       "surface": "לעשה",
-      "english": "To ⟨the⟩ One making"
+      "gloss": "To ⟨the⟩ One making"
     },
     {
       "surface": "השמים",
-      "english": "⟨the⟩ heavens"
+      "gloss": "⟨the⟩ heavens"
     },
     {
       "surface": "בתבונה",
-      "english": "by understanding"
+      "gloss": "by understanding"
     },
     {
       "surface": "כי",
-      "english": "for"
+      "gloss": "for"
     },
     {
       "surface": "לעולם",
-      "english": "to eternity"
+      "gloss": "to eternity"
     },
     {
       "surface": "חסדו",
-      "english": "⟨is⟩ His kindness"
+      "gloss": "⟨is⟩ His kindness"
     }
-  ],
-  "timestamp": "2026-06-10T00:07:03.893516479Z",
-  "model": "glm-4.5"
+  ]
 }

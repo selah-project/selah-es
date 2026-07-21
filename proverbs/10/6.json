@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 10:6",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59845,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60136
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:34:37.573601558Z",
   "translation": "Blessings ⟨are⟩ for ⟨the⟩ head of ⟨the⟩ righteous, but ⟨the⟩ mouth of ⟨the⟩ wicked covers violence",
   "tokens": [
     {
       "surface": "ברכות",
-      "english": "Blessings"
+      "gloss": "Blessings"
     },
     {
       "surface": "לראש",
-      "english": "for ⟨the⟩ head"
+      "gloss": "for ⟨the⟩ head"
     },
     {
       "surface": "צדיק",
-      "english": "of ⟨the⟩ righteous"
+      "gloss": "of ⟨the⟩ righteous"
     },
     {
       "surface": "ופי",
-      "english": "but ⟨the⟩ mouth"
+      "gloss": "but ⟨the⟩ mouth"
     },
     {
       "surface": "רשעים",
-      "english": "of ⟨the⟩ wicked"
+      "gloss": "of ⟨the⟩ wicked"
     },
     {
       "surface": "יכסה",
-      "english": "covers"
+      "gloss": "covers"
     },
     {
       "surface": "חמס",
-      "english": "violence"
+      "gloss": "violence"
     }
-  ],
-  "timestamp": "2026-06-10T01:34:37.573601558Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 8:1",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 344,
-    "prompt_tokens": 64345,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64689
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:05:42.095395307Z",
   "translation": "Y Binyamín engendró ⟨את⟩ Bela su primogénito, Ashbel el segundo, y Ajará el tercero",
   "tokens": [
     {
       "surface": "ובנימן",
-      "english": "Y Binyamín"
+      "gloss": "Y Binyamín"
     },
     {
       "surface": "הוליד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Bela"
     },
     {
       "surface": "בלע",
-      "english": "Bela"
+      "gloss": "Bela"
     },
     {
       "surface": "בכרו",
-      "english": "su primogénito"
+      "gloss": "su primogénito"
     },
     {
       "surface": "אשבל",
-      "english": "Ashbel"
+      "gloss": "Ashbel"
     },
     {
       "surface": "השני",
-      "english": "el segundo"
+      "gloss": "el segundo"
     },
     {
       "surface": "ואחרח",
-      "english": "y Ajará"
+      "gloss": "y Ajará"
     },
     {
       "surface": "השלישי",
-      "english": "el tercero"
+      "gloss": "el tercero"
     }
-  ],
-  "timestamp": "2026-07-16T18:05:42.095395307Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 140,
   "ref": "psalms 119:140",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 261,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69658,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69919
-  },
+  "verse": 140,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:58.944585215Z",
   "translation": "⟨es⟩Tu palabra ⟨es⟩ probadísima, ⟨y⟩ tu siervo la ama vehementemente.",
   "tokens": [
     {
       "surface": "צרופה",
-      "english": "Probadísima"
+      "gloss": "Probadísima"
     },
     {
       "surface": "אמרתך",
-      "english": "⟨es⟩ Tu palabra"
+      "gloss": "⟨es⟩ Tu palabra"
     },
     {
       "surface": "מאד",
-      "english": "vehementemente"
+      "gloss": "vehementemente"
     },
     {
       "surface": "ועבדך",
-      "english": "⟨y⟩ tu siervo"
+      "gloss": "⟨y⟩ tu siervo"
     },
     {
       "surface": "אהבה",
-      "english": "la ama"
+      "gloss": "la ama"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:58.944585215Z",
-  "model": "glm-4.5"
+  ]
 }

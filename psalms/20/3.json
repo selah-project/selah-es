@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 20:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69747,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70263
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:39.929076234Z",
   "translation": "⟨Él⟩ enviará ⟨el⟩ auxilio ⟨para⟩ ti desde ⟨el⟩ santuario y ⟨desde⟩ Sion ⟨Él⟩ te sostendrá",
   "tokens": [
     {
       "surface": "ישלח",
-      "english": "⟨Él⟩ enviará"
+      "gloss": "⟨Él⟩ enviará"
     },
     {
       "surface": "עזרך",
-      "english": "⟨el⟩ auxilio ⟨para⟩ ti"
+      "gloss": "⟨el⟩ auxilio ⟨para⟩ ti"
     },
     {
       "surface": "מקדש",
-      "english": "desde ⟨el⟩ santuario"
+      "gloss": "desde ⟨el⟩ santuario"
     },
     {
       "surface": "ומציון",
-      "english": "y ⟨desde⟩ Sion"
+      "gloss": "y ⟨desde⟩ Sion"
     },
     {
       "surface": "יסעדך",
-      "english": "⟨Él⟩ te sostendrá"
+      "gloss": "⟨Él⟩ te sostendrá"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:39.929076234Z",
-  "model": "glm-4.5"
+  ]
 }

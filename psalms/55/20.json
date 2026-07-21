@@ -1,73 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 55:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 549,
-    "prompt_tokens": 70427,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70976
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:36.259756338Z",
   "translation": "Él ⟨es⟩ quien escucha y responde, y ⟨quien⟩ se sienta desde Kedem, Selah; ⟨pues⟩ no hay cambios para ellos, y no temen a Elohim.",
   "tokens": [
     {
       "surface": "ישמע",
-      "english": "Él ⟨es⟩ quien escucha"
+      "gloss": "Él ⟨es⟩ quien escucha"
     },
     {
       "surface": "אל",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ויענם",
-      "english": "responde"
+      "gloss": "responde"
     },
     {
       "surface": "וישב",
-      "english": "y ⟨quien⟩ se sienta"
+      "gloss": "y ⟨quien⟩ se sienta"
     },
     {
       "surface": "קדם",
-      "english": "desde Kedem"
+      "gloss": "desde Kedem"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     },
     {
       "surface": "אשר",
-      "english": "⟨pues⟩"
+      "gloss": "⟨pues⟩"
     },
     {
       "surface": "אין",
-      "english": "no hay"
+      "gloss": "no hay"
     },
     {
       "surface": "חליפות",
-      "english": "cambios"
+      "gloss": "cambios"
     },
     {
       "surface": "למו",
-      "english": "para ellos"
+      "gloss": "para ellos"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יראו",
-      "english": "temen"
+      "gloss": "temen"
     },
     {
       "surface": "אלהים",
-      "english": "a Elohim"
+      "gloss": "a Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:36.259756338Z",
-  "model": "glm-4.5"
+  ]
 }

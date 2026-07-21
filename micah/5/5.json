@@ -1,91 +1,83 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "micah 5:5",
   "book": "micah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 650,
-    "prompt_tokens": 23984,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 24634
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:49:45.023245619Z",
   "translation": "Y ⟨את⟩ la tierra de Ashshur con ⟨la⟩ espada, y ⟨את⟩ la tierra de Nimrod en sus entradas; y nos liberará de Ashshur cuando él venga a nuestra tierra, y cuando pise nuestro territorio",
   "tokens": [
     {
       "surface": "ורעו",
-      "english": "Y ⟨את⟩ la tierra de Ashshur con ⟨la⟩ espada, y ⟨את⟩ la tierra de Nimrod en sus entradas; y nos liberará"
+      "gloss": "Y ⟨את⟩ la tierra de Ashshur con ⟨la⟩ espada, y ⟨את⟩ la tierra de Nimrod en sus entradas; y nos liberará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la tierra de Ashshur"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "אשור",
-      "english": "de Ashshur"
+      "gloss": "de Ashshur"
     },
     {
       "surface": "בחרב",
-      "english": "con ⟨la⟩ espada"
+      "gloss": "con ⟨la⟩ espada"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la tierra de Nimrod"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "נמרד",
-      "english": "de Nimrod"
+      "gloss": "de Nimrod"
     },
     {
       "surface": "בפתחיה",
-      "english": "en sus entradas"
+      "gloss": "en sus entradas"
     },
     {
       "surface": "והציל",
-      "english": "y nos liberará"
+      "gloss": "y nos liberará"
     },
     {
       "surface": "מאשור",
-      "english": "de Ashshur"
+      "gloss": "de Ashshur"
     },
     {
       "surface": "כי",
-      "english": "cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "יבוא",
-      "english": "él venga"
+      "gloss": "él venga"
     },
     {
       "surface": "בארצנו",
-      "english": "a nuestra tierra"
+      "gloss": "a nuestra tierra"
     },
     {
       "surface": "וכי",
-      "english": "y cuando"
+      "gloss": "y cuando"
     },
     {
       "surface": "ידרך",
-      "english": "pise"
+      "gloss": "pise"
     },
     {
       "surface": "בגבולנו",
-      "english": "nuestro territorio"
+      "gloss": "nuestro territorio"
     }
-  ],
-  "timestamp": "2026-07-16T22:49:45.023245619Z",
-  "model": "glm-4.5"
+  ]
 }

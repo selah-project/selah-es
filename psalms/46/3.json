@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 46:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70097,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70554
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:41.179572097Z",
   "translation": "⟨Por⟩ esto ⟨we will⟩ not fear though ⟨the⟩ earth ⟨be⟩ removed and ⟨the⟩ mountains ⟨be⟩ carried into ⟨the⟩ heart of ⟨the⟩ seas",
   "tokens": [
     {
       "surface": "על",
-      "english": "⟨Por⟩ esto"
+      "gloss": "⟨Por⟩ esto"
     },
     {
       "surface": "כן",
-      "english": "⟨we will⟩"
+      "gloss": "⟨we will⟩"
     },
     {
       "surface": "לא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "נירא",
-      "english": "fear"
+      "gloss": "fear"
     },
     {
       "surface": "בהמיר",
-      "english": "though ⟨the⟩ earth ⟨be⟩ removed"
+      "gloss": "though ⟨the⟩ earth ⟨be⟩ removed"
     },
     {
       "surface": "ארץ",
-      "english": "earth"
+      "gloss": "earth"
     },
     {
       "surface": "ובמוט",
-      "english": "and ⟨the⟩ mountains ⟨be⟩ carried"
+      "gloss": "and ⟨the⟩ mountains ⟨be⟩ carried"
     },
     {
       "surface": "הרים",
-      "english": "mountains"
+      "gloss": "mountains"
     },
     {
       "surface": "בלב",
-      "english": "into ⟨the⟩ heart"
+      "gloss": "into ⟨the⟩ heart"
     },
     {
       "surface": "ימים",
-      "english": "of ⟨the⟩ seas"
+      "gloss": "of ⟨the⟩ seas"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:41.179572097Z",
-  "model": "glm-4.5"
+  ]
 }

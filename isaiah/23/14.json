@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "isaiah 23:14",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25933,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26301
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:34:56.804334257Z",
   "translation": "Aullad, barcos ⟨de⟩ Tarshish, porque ⟨el⟩ baluarte ⟨de⟩ vosotros ⟨es⟩ devastado.",
   "tokens": [
     {
       "surface": "הילילו",
-      "english": "Aullad"
+      "gloss": "Aullad"
     },
     {
       "surface": "אניות",
-      "english": "barcos ⟨de⟩"
+      "gloss": "barcos ⟨de⟩"
     },
     {
       "surface": "תרשיש",
-      "english": "Tarshish"
+      "gloss": "Tarshish"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "שדד",
-      "english": "⟨el⟩ baluarte ⟨de⟩"
+      "gloss": "⟨el⟩ baluarte ⟨de⟩"
     },
     {
       "surface": "מעזכן",
-      "english": "vosotros ⟨es⟩ devastado"
+      "gloss": "vosotros ⟨es⟩ devastado"
     }
-  ],
-  "timestamp": "2026-06-10T02:34:56.804334257Z",
-  "model": "glm-4.5"
+  ]
 }

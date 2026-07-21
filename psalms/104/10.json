@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 104:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69789,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70163
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:10.549572331Z",
   "translation": "El ⟨que⟩ envía ⟨את⟩ las fuentes en ⟨los⟩ valles, ⟨en⟩ medio de ⟨las⟩ montañas ⟨se⟩ irán ⟨entre⟩.",
   "tokens": [
     {
       "surface": "המשלח",
-      "english": "El ⟨que⟩ envía"
+      "gloss": "El ⟨que⟩ envía"
     },
     {
       "surface": "מעינים",
-      "english": "las fuentes"
+      "gloss": "las fuentes"
     },
     {
       "surface": "בנחלים",
-      "english": "en ⟨los⟩ valles"
+      "gloss": "en ⟨los⟩ valles"
     },
     {
       "surface": "בין",
-      "english": "⟨en⟩ medio de"
+      "gloss": "⟨en⟩ medio de"
     },
     {
       "surface": "הרים",
-      "english": "⟨las⟩ montañas"
+      "gloss": "⟨las⟩ montañas"
     },
     {
       "surface": "יהלכון",
-      "english": "⟨se⟩ irán ⟨entre⟩"
+      "gloss": "⟨se⟩ irán ⟨entre⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:10.549572331Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 115,
   "ref": "psalms 119:115",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69796,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70150
-  },
+  "verse": 115,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:40.323226928Z",
   "translation": "Apártense ⟨de⟩ mí, malhechores, ⟨y⟩ guardaré ⟨los⟩ mandamientos de mi Elohim.",
   "tokens": [
     {
       "surface": "סורו",
-      "english": "Apártense"
+      "gloss": "Apártense"
     },
     {
       "surface": "ממני",
-      "english": "⟨de⟩ mí",
+      "gloss": "⟨de⟩ mí",
       "marks": "mí"
     },
     {
       "surface": "מרעים",
-      "english": "malhechores"
+      "gloss": "malhechores"
     },
     {
       "surface": "ואצרה",
-      "english": "⟨y⟩ guardaré"
+      "gloss": "⟨y⟩ guardaré"
     },
     {
       "surface": "מצות",
-      "english": "⟨los⟩ mandamientos"
+      "gloss": "⟨los⟩ mandamientos"
     },
     {
       "surface": "אלהי",
-      "english": "de mi Elohim"
+      "gloss": "de mi Elohim"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:40.323226928Z",
-  "model": "glm-4.5"
+  ]
 }

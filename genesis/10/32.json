@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "genesis 10:32",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 10,
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:09:06.128943622Z",
+  "translation": "Estos ⟨son⟩ ⟨las⟩ familias de ⟨los⟩ hijos de Noaj, según sus generaciones en sus naciones; y de estos se separaron ⟨las⟩ naciones en ⟨la⟩ tierra después del diluvio.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estos"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familias"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "según sus generaciones"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "en sus naciones"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "y de estos"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "se separaron"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "naciones"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "en tierra"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "después"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "del diluvio"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,72 +68,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21375,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21859
-  },
-  "translation": "Estos ⟨son⟩ ⟨las⟩ familias de ⟨los⟩ hijos de Noaj, según sus generaciones en sus naciones; y de estos se separaron ⟨las⟩ naciones en ⟨la⟩ tierra después del diluvio.",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estos"
-    },
-    {
-      "surface": "משפחת",
-      "english": "familias"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos"
-    },
-    {
-      "surface": "נח",
-      "english": "Noaj"
-    },
-    {
-      "surface": "לתולדתם",
-      "english": "según sus generaciones"
-    },
-    {
-      "surface": "בגויהם",
-      "english": "en sus naciones"
-    },
-    {
-      "surface": "ומאלה",
-      "english": "y de estos"
-    },
-    {
-      "surface": "נפרדו",
-      "english": "se separaron"
-    },
-    {
-      "surface": "הגוים",
-      "english": "naciones"
-    },
-    {
-      "surface": "בארץ",
-      "english": "en tierra"
-    },
-    {
-      "surface": "אחר",
-      "english": "después"
-    },
-    {
-      "surface": "המבול",
-      "english": "del diluvio"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:09:06.128943622Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

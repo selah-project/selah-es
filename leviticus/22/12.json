@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "leviticus 22:12",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24751,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 25241
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:38:19.057448545Z",
   "translation": "Y ⟨la⟩ hija de kohen, si ⟨es⟩ ⟨para⟩ un hombre extraño, ella ⟨en⟩ ofrenda-alzada ⟨de⟩ las cosas sagradas no comerá.",
   "tokens": [
     {
       "surface": "ובת",
-      "english": "Y ⟨la⟩ hija"
+      "gloss": "Y ⟨la⟩ hija"
     },
     {
       "surface": "כהן",
-      "english": "de kohen"
+      "gloss": "de kohen"
     },
     {
       "surface": "כי",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "תהיה",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "לאיש",
-      "english": "⟨para⟩ un hombre"
+      "gloss": "⟨para⟩ un hombre"
     },
     {
       "surface": "זר",
-      "english": "extraño"
+      "gloss": "extraño"
     },
     {
       "surface": "הוא",
-      "english": "ella"
+      "gloss": "ella"
     },
     {
       "surface": "בתרומת",
-      "english": "⟨en⟩ ofrenda-alzada"
+      "gloss": "⟨en⟩ ofrenda-alzada"
     },
     {
       "surface": "הקדשים",
-      "english": "⟨de⟩ las cosas sagradas"
+      "gloss": "⟨de⟩ las cosas sagradas"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תאכל",
-      "english": "comerá"
+      "gloss": "comerá"
     }
-  ],
-  "timestamp": "2026-06-10T04:38:19.057448545Z",
-  "model": "glm-4.5"
+  ]
 }

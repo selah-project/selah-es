@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "proverbs 6:24",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 426,
-    "prompt_tokens": 59855,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60281
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:17:34.603949005Z",
   "translation": "Para guardarte de la mujer malvada, de la suavidad de la lengua de la mujer extraña.",
   "tokens": [
     {
       "surface": "לשמרך",
-      "english": "Para guardarte"
+      "gloss": "Para guardarte"
     },
     {
       "surface": "מאשת",
-      "english": "de la mujer"
+      "gloss": "de la mujer"
     },
     {
       "surface": "רע",
-      "english": "malvada"
+      "gloss": "malvada"
     },
     {
       "surface": "מחלקת",
-      "english": "de la suavidad"
+      "gloss": "de la suavidad"
     },
     {
       "surface": "לשון",
-      "english": "de la lengua"
+      "gloss": "de la lengua"
     },
     {
       "surface": "נכריה",
-      "english": "de la mujer extraña"
+      "gloss": "de la mujer extraña"
     }
-  ],
-  "timestamp": "2026-07-16T23:17:34.603949005Z",
-  "model": "glm-4.5"
+  ]
 }

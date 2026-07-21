@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-chronicles 35:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 35,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:40:41.984662905Z",
+  "translation": "Y lo ⟨restante⟩ de ⟨los⟩ actos de Yoshiyahu y ⟨de⟩ sus ⟨hechos de⟩ misericordia, ⟨están⟩ escrito ⟨como está⟩ escrito en ⟨la⟩ Torá ⟨de⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Y lo ⟨restante⟩ de"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨los⟩ actos"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "de Yoshiyahu"
+    },
+    {
+      "surface": "וחסדיו",
+      "gloss": "y ⟨de⟩ sus ⟨hechos de⟩ misericordia"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "⟨están⟩ escrito ⟨como está⟩ escrito"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "en ⟨la⟩ Torá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josías",
@@ -13,52 +48,6 @@
       "hebrew": "יאשיהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57710,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58218
-  },
-  "translation": "Y lo ⟨restante⟩ de ⟨los⟩ actos de Yoshiyahu y ⟨de⟩ sus ⟨hechos de⟩ misericordia, ⟨están⟩ escrito ⟨como está⟩ escrito en ⟨la⟩ Torá ⟨de⟩ YHWH",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "Y lo ⟨restante⟩ de"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨los⟩ actos"
-    },
-    {
-      "surface": "יאשיהו",
-      "english": "de Yoshiyahu"
-    },
-    {
-      "surface": "וחסדיו",
-      "english": "y ⟨de⟩ sus ⟨hechos de⟩ misericordia"
-    },
-    {
-      "surface": "ככתוב",
-      "english": "⟨están⟩ escrito ⟨como está⟩ escrito"
-    },
-    {
-      "surface": "בתורת",
-      "english": "en ⟨la⟩ Torá"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:40:41.984662905Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

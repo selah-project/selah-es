@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 109:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 269,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69734,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70003
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:10.939127149Z",
   "translation": "como la sombra ⟨que⟩ declina, me voy; soy sacudido ⟨como⟩ la langosta",
   "tokens": [
     {
       "surface": "כצל",
-      "english": "Como la sombra"
+      "gloss": "Como la sombra"
     },
     {
       "surface": "כנטותו",
-      "english": "⟨que⟩ declina"
+      "gloss": "⟨que⟩ declina"
     },
     {
       "surface": "נהלכתי",
-      "english": "me voy"
+      "gloss": "me voy"
     },
     {
       "surface": "ננערתי",
-      "english": "soy sacudido"
+      "gloss": "soy sacudido"
     },
     {
       "surface": "כארבה",
-      "english": "⟨como⟩ la langosta"
+      "gloss": "⟨como⟩ la langosta"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:10.939127149Z",
-  "model": "glm-4.5"
+  ]
 }

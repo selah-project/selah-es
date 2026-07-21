@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "psalms 94:21",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69825,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70290
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:33.219077611Z",
   "translation": "⟨They⟩ crowd together against ⟨the⟩ soul of ⟨the⟩ righteous, ⟨and⟩ ⟨blood⟩ of ⟨the⟩ innocent ⟨they⟩ declare wicked.",
   "tokens": [
     {
       "surface": "יגודו",
-      "english": "Crowd together"
+      "gloss": "Crowd together"
     },
     {
       "surface": "על",
-      "english": "against"
+      "gloss": "against"
     },
     {
       "surface": "נפש",
-      "english": "soul"
+      "gloss": "soul"
     },
     {
       "surface": "צדיק",
-      "english": "righteous"
+      "gloss": "righteous"
     },
     {
       "surface": "ודם",
-      "english": "blood"
+      "gloss": "blood"
     },
     {
       "surface": "נקי",
-      "english": "innocent"
+      "gloss": "innocent"
     },
     {
       "surface": "ירשיעו",
-      "english": "declare wicked"
+      "gloss": "declare wicked"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:33.219077611Z",
-  "model": "glm-4.5"
+  ]
 }

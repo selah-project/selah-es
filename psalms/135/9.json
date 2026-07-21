@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 135:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 460,
-    "prompt_tokens": 70066,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70526
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:48.223080257Z",
   "translation": "Quien envió señales y prodigios en medio de ti, oh Mitsráyim, sobre Paró y sobre todos sus siervos",
   "tokens": [
     {
       "surface": "שלח",
-      "english": "envió"
+      "gloss": "envió"
     },
     {
       "surface": "אתות",
-      "english": "señales"
+      "gloss": "señales"
     },
     {
       "surface": "ומפתים",
-      "english": "y prodigios"
+      "gloss": "y prodigios"
     },
     {
       "surface": "בתוככי",
-      "english": "en medio de ti"
+      "gloss": "en medio de ti"
     },
     {
       "surface": "מצרים",
-      "english": "oh Mitsráyim"
+      "gloss": "oh Mitsráyim"
     },
     {
       "surface": "בפרעה",
-      "english": "sobre Paró"
+      "gloss": "sobre Paró"
     },
     {
       "surface": "ובכל",
-      "english": "y sobre todos"
+      "gloss": "y sobre todos"
     },
     {
       "surface": "עבדיו",
-      "english": "sus siervos"
+      "gloss": "sus siervos"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:48.223080257Z",
-  "model": "glm-4.5"
+  ]
 }

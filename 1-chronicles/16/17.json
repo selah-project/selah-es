@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-chronicles 16:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 16,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:45:12.447450166Z",
+  "translation": "Y ⟨lo⟩ estableció ⟨a⟩ Jacob ⟨como⟩ estatuto, ⟨a⟩ Israel ⟨como⟩ Brit perpetuo",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "Y ⟨lo⟩ estableció"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "⟨a⟩ Jacob"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "⟨como⟩ estatuto"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "⟨a⟩ Israel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨como⟩ Brit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpetuo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,48 +44,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56573,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 56898
-  },
-  "translation": "Y ⟨lo⟩ estableció ⟨a⟩ Jacob ⟨como⟩ estatuto, ⟨a⟩ Israel ⟨como⟩ Brit perpetuo",
-  "tokens": [
-    {
-      "surface": "ויעמידה",
-      "english": "Y ⟨lo⟩ estableció"
-    },
-    {
-      "surface": "ליעקב",
-      "english": "⟨a⟩ Jacob"
-    },
-    {
-      "surface": "לחק",
-      "english": "⟨como⟩ estatuto"
-    },
-    {
-      "surface": "לישראל",
-      "english": "⟨a⟩ Israel"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨como⟩ Brit"
-    },
-    {
-      "surface": "עולם",
-      "english": "perpetuo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:45:12.447450166Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

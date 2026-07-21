@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "leviticus 16:30",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 558,
-    "prompt_tokens": 25173,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25731
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:41:24.003835004Z",
   "translation": "Porque en este día se hará expiación por vosotros para limpiaros ⟨de⟩ todos vuestros pecados ⟨ante⟩ YHWH seréis limpios",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "ביום",
-      "english": "en este día"
+      "gloss": "en este día"
     },
     {
       "surface": "הזה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "יכפר",
-      "english": "se hará expiación"
+      "gloss": "se hará expiación"
     },
     {
       "surface": "עליכם",
-      "english": "por vosotros"
+      "gloss": "por vosotros"
     },
     {
       "surface": "לטהר",
-      "english": "para limpiaros"
+      "gloss": "para limpiaros"
     },
     {
       "surface": "אתכם",
-      "english": "⟨de⟩",
+      "gloss": "⟨de⟩",
       "marks": "todos vuestros pecados"
     },
     {
       "surface": "מכל",
-      "english": "todos vuestros"
+      "gloss": "todos vuestros"
     },
     {
       "surface": "חטאתיכם",
-      "english": "pecados"
+      "gloss": "pecados"
     },
     {
       "surface": "לפני",
-      "english": "⟨ante⟩"
+      "gloss": "⟨ante⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "תטהרו",
-      "english": "seréis limpios"
+      "gloss": "seréis limpios"
     }
-  ],
-  "timestamp": "2026-07-16T22:41:24.003835004Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 10:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70238,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70764
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:01:33.650302847Z",
   "translation": "Porque ⟨el⟩ malvado se jacta de ⟨el⟩ deseo de su alma, y ⟨el⟩ codicioso bendice, ⟨y⟩ desprecia ⟨a⟩ YHWH",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque",
+      "gloss": "Porque",
       "marks": ""
     },
     {
       "surface": "הלל",
-      "english": "se jacta",
+      "gloss": "se jacta",
       "marks": ""
     },
     {
       "surface": "רשע",
-      "english": "⟨el⟩ malvado",
+      "gloss": "⟨el⟩ malvado",
       "marks": "el malvado"
     },
     {
       "surface": "על",
-      "english": "de",
+      "gloss": "de",
       "marks": ""
     },
     {
       "surface": "תאות",
-      "english": "⟨el⟩ deseo",
+      "gloss": "⟨el⟩ deseo",
       "marks": "el deseo"
     },
     {
       "surface": "נפשו",
-      "english": "de su alma",
+      "gloss": "de su alma",
       "marks": ""
     },
     {
       "surface": "ובצע",
-      "english": "y ⟨el⟩ codicioso",
+      "gloss": "y ⟨el⟩ codicioso",
       "marks": "el codicioso"
     },
     {
       "surface": "ברך",
-      "english": "bendice",
+      "gloss": "bendice",
       "marks": ""
     },
     {
       "surface": "נאץ",
-      "english": "desprecia ⟨a⟩",
+      "gloss": "desprecia ⟨a⟩",
       "marks": "desprecia a"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:01:33.650302847Z",
-  "model": "glm-4.5"
+  ]
 }

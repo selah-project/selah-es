@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "micah 3:2",
   "book": "micah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 656,
-    "prompt_tokens": 23131,
-    "prompt_tokens_details": {
-      "cached_tokens": 21248
-    },
-    "total_tokens": 23787
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:49:01.276762746Z",
   "translation": "A quienes odian ⟨el⟩ bien y aman ⟨el⟩ mal, quienes desuellan ⟨את⟩ la piel de ellos ⟨de⟩ sobre ellos, y su carne ⟨de⟩ sobre sus huesos",
   "tokens": [
     {
       "surface": "שנאי",
-      "english": "A quienes odian"
+      "gloss": "A quienes odian"
     },
     {
       "surface": "טוב",
-      "english": "⟨el⟩ bien"
+      "gloss": "⟨el⟩ bien"
     },
     {
       "surface": "ואהבי",
-      "english": "y aman"
+      "gloss": "y aman"
     },
     {
       "surface": "רעה",
-      "english": "⟨el⟩ mal"
+      "gloss": "⟨el⟩ mal"
     },
     {
       "surface": "גזלי",
-      "english": "quienes desuellan"
+      "gloss": "quienes desuellan"
     },
     {
       "surface": "עורם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la piel de ellos"
     },
     {
       "surface": "מעליהם",
-      "english": "⟨de⟩ sobre ellos"
+      "gloss": "⟨de⟩ sobre ellos"
     },
     {
       "surface": "ושארם",
-      "english": "y su carne"
+      "gloss": "y su carne"
     },
     {
       "surface": "מעל",
-      "english": "⟨de⟩ sobre"
+      "gloss": "⟨de⟩ sobre"
     },
     {
       "surface": "עצמותם",
-      "english": "sus huesos"
+      "gloss": "sus huesos"
     }
-  ],
-  "timestamp": "2026-07-16T22:49:01.276762746Z",
-  "model": "glm-4.5"
+  ]
 }

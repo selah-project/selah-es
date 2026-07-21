@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "amos 8:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 8,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:05:26.543865004Z",
+  "translation": "Por esto ⟨no⟩ temblará ⟨la⟩ tierra, y ⟨de⟩ plañir ⟨todo⟩ morador en ella, y se levantará toda ella ⟨como⟩ ⟨un⟩ río, y será derribada y hundida como ⟨el⟩ río ⟨de⟩ Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Por esto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "esto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "תרגז",
+      "gloss": "temblará"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ tierra"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "y ⟨de⟩ plañir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨todo⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "morador"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en ella"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "y se levantará"
+    },
+    {
+      "surface": "כאר",
+      "gloss": "toda ella ⟨como⟩"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨un⟩ río"
+    },
+    {
+      "surface": "ונגרשה",
+      "gloss": "y será derribada"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "y hundida"
+    },
+    {
+      "surface": "כיאור",
+      "gloss": "como ⟨el⟩ río"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨de⟩ Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -13,88 +84,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 897,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16891,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 17788
-  },
-  "translation": "Por esto ⟨no⟩ temblará ⟨la⟩ tierra, y ⟨de⟩ plañir ⟨todo⟩ morador en ella, y se levantará toda ella ⟨como⟩ ⟨un⟩ río, y será derribada y hundida como ⟨el⟩ río ⟨de⟩ Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "העל",
-      "english": "Por esto"
-    },
-    {
-      "surface": "זאת",
-      "english": "esto"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "תרגז",
-      "english": "temblará"
-    },
-    {
-      "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
-    },
-    {
-      "surface": "ואבל",
-      "english": "y ⟨de⟩ plañir"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨todo⟩"
-    },
-    {
-      "surface": "יושב",
-      "english": "morador"
-    },
-    {
-      "surface": "בה",
-      "english": "en ella"
-    },
-    {
-      "surface": "ועלתה",
-      "english": "y se levantará"
-    },
-    {
-      "surface": "כאר",
-      "english": "toda ella ⟨como⟩"
-    },
-    {
-      "surface": "כלה",
-      "english": "⟨un⟩ río"
-    },
-    {
-      "surface": "ונגרשה",
-      "english": "y será derribada"
-    },
-    {
-      "surface": "ונשקה",
-      "english": "y hundida"
-    },
-    {
-      "surface": "כיאור",
-      "english": "como ⟨el⟩ río"
-    },
-    {
-      "surface": "מצרים",
-      "english": "⟨de⟩ Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:05:26.543865004Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

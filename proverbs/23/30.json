@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "proverbs 23:30",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59751,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60215
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:46:45.479631125Z",
   "translation": "Para ⟨los que⟩ se demoran ⟨en⟩ ⟨el⟩ vino, ⟨los que⟩ entran ⟨para⟩ buscar ⟨vino⟩ mezclado ⟨del⟩ trago",
   "tokens": [
     {
       "surface": "למאחרים",
-      "english": "Para ⟨los que⟩ se demoran"
+      "gloss": "Para ⟨los que⟩ se demoran"
     },
     {
       "surface": "על",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "היין",
-      "english": "⟨el⟩ vino"
+      "gloss": "⟨el⟩ vino"
     },
     {
       "surface": "לבאים",
-      "english": "⟨los que⟩ entran ⟨para⟩ buscar"
+      "gloss": "⟨los que⟩ entran ⟨para⟩ buscar"
     },
     {
       "surface": "לחקר",
-      "english": "buscar ⟨vino⟩ mezclado"
+      "gloss": "buscar ⟨vino⟩ mezclado"
     },
     {
       "surface": "ממסך",
-      "english": "mezclado ⟨del⟩ trago"
+      "gloss": "mezclado ⟨del⟩ trago"
     }
-  ],
-  "timestamp": "2026-06-10T01:46:45.479631125Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 71:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69986,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70387
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:33.347251649Z",
   "translation": "⟨Do not⟩ throw me down ⟨to⟩ ⟨the⟩ time ⟨of⟩ old age; ⟨when⟩ my strength ⟨is⟩ completely spent, ⟨do not⟩ forsake me.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "⟨Do not⟩"
+      "gloss": "⟨Do not⟩"
     },
     {
       "surface": "תשליכני",
-      "english": "throw me down"
+      "gloss": "throw me down"
     },
     {
       "surface": "לעת",
-      "english": "⟨to⟩"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "זקנה",
-      "english": "⟨the⟩ time ⟨of⟩ old age"
+      "gloss": "⟨the⟩ time ⟨of⟩ old age"
     },
     {
       "surface": "ככלות",
-      "english": "⟨when⟩"
+      "gloss": "⟨when⟩"
     },
     {
       "surface": "כחי",
-      "english": "my strength ⟨is⟩ completely spent"
+      "gloss": "my strength ⟨is⟩ completely spent"
     },
     {
       "surface": "אל",
-      "english": "⟨do not⟩"
+      "gloss": "⟨do not⟩"
     },
     {
       "surface": "תעזבני",
-      "english": "forsake me"
+      "gloss": "forsake me"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:33.347251649Z",
-  "model": "glm-4.5"
+  ]
 }

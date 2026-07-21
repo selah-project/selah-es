@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 36:11",
   "book": "job",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27180,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27678
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:04.204033065Z",
   "translation": "Si ⟨ellos⟩ escuchan y ⟨le⟩ sirven, ⟨ellos⟩ completarán sus días en ⟨el⟩ bien y sus años en ⟨lo⟩ agradable.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "ישמעו",
-      "english": "escuchan"
+      "gloss": "escuchan"
     },
     {
       "surface": "ויעבדו",
-      "english": "y ⟨le⟩ sirven",
+      "gloss": "y ⟨le⟩ sirven",
       "marks": "le (refiriéndose a Él)"
     },
     {
       "surface": "יכלו",
-      "english": "⟨ellos⟩ completarán",
+      "gloss": "⟨ellos⟩ completarán",
       "marks": "ellos"
     },
     {
       "surface": "ימיהם",
-      "english": "sus días"
+      "gloss": "sus días"
     },
     {
       "surface": "בטוב",
-      "english": "en ⟨el⟩ bien"
+      "gloss": "en ⟨el⟩ bien"
     },
     {
       "surface": "ושניהם",
-      "english": "y sus años"
+      "gloss": "y sus años"
     },
     {
       "surface": "בנעימים",
-      "english": "en ⟨lo⟩ agradable"
+      "gloss": "en ⟨lo⟩ agradable"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:04.204033065Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 34:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26209,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26694
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:41:42.318408347Z",
   "translation": "A ⟨los⟩ nobles de ella ⟨se⟩ llamarán ⟨al⟩ reino, y ⟨no⟩ habrá allí; y todos sus príncipes serán ⟨un⟩ cese.",
   "tokens": [
     {
       "surface": "חריה",
-      "english": "A ⟨los⟩ nobles de ella"
+      "gloss": "A ⟨los⟩ nobles de ella"
     },
     {
       "surface": "ואין",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "מלוכה",
-      "english": "⟨al⟩ reino"
+      "gloss": "⟨al⟩ reino"
     },
     {
       "surface": "יקראו",
-      "english": "⟨se⟩ llamarán"
+      "gloss": "⟨se⟩ llamarán"
     },
     {
       "surface": "וכל",
-      "english": "y todos"
+      "gloss": "y todos"
     },
     {
       "surface": "שריה",
-      "english": "sus príncipes"
+      "gloss": "sus príncipes"
     },
     {
       "surface": "יהיו",
-      "english": "serán"
+      "gloss": "serán"
     },
     {
       "surface": "אפס",
-      "english": "⟨un⟩ cese"
+      "gloss": "⟨un⟩ cese"
     }
-  ],
-  "timestamp": "2026-06-10T02:41:42.318408347Z",
-  "model": "glm-4.5"
+  ]
 }

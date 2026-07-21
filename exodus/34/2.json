@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 34:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 34,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:14:04.196995749Z",
+  "translation": "Y está ⟨listo⟩ ⟨por⟩ ⟨la⟩ mañana y subiste ⟨por⟩ ⟨la⟩ mañana ⟨al⟩ monte Sinai y te presentaste para mí allí ⟨en⟩ ⟨la⟩ cumbre ⟨del⟩ monte",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Y está"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨listo⟩"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "⟨por⟩ ⟨la⟩ mañana"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "y subiste"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨por⟩ ⟨la⟩ mañana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "y te presentaste"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para mí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "allí"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨en⟩ ⟨la⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "cumbre"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨del⟩ monte"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Sinaí",
@@ -13,80 +76,6 @@
       "hebrew": "סיני"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 594,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17003,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17597
-  },
-  "translation": "Y está ⟨listo⟩ ⟨por⟩ ⟨la⟩ mañana y subiste ⟨por⟩ ⟨la⟩ mañana ⟨al⟩ monte Sinai y te presentaste para mí allí ⟨en⟩ ⟨la⟩ cumbre ⟨del⟩ monte",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "Y está"
-    },
-    {
-      "surface": "נכון",
-      "english": "⟨listo⟩"
-    },
-    {
-      "surface": "לבקר",
-      "english": "⟨por⟩ ⟨la⟩ mañana"
-    },
-    {
-      "surface": "ועלית",
-      "english": "y subiste"
-    },
-    {
-      "surface": "בבקר",
-      "english": "⟨por⟩ ⟨la⟩ mañana"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨al⟩"
-    },
-    {
-      "surface": "הר",
-      "english": "monte"
-    },
-    {
-      "surface": "סיני",
-      "english": "Sinai"
-    },
-    {
-      "surface": "ונצבת",
-      "english": "y te presentaste"
-    },
-    {
-      "surface": "לי",
-      "english": "para mí"
-    },
-    {
-      "surface": "שם",
-      "english": "allí"
-    },
-    {
-      "surface": "על",
-      "english": "⟨en⟩ ⟨la⟩"
-    },
-    {
-      "surface": "ראש",
-      "english": "cumbre"
-    },
-    {
-      "surface": "ההר",
-      "english": "⟨del⟩ monte"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:14:04.196995749Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

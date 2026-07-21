@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "joel 2:18",
   "book": "joel",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23189,
-    "prompt_tokens_details": {
-      "cached_tokens": 22278
-    },
-    "total_tokens": 23593
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:28:33.053520653Z",
   "translation": "Y entonces ⟨את⟩ YHWH ⟨se⟩ celó por su tierra y ⟨se⟩ compadeció de su pueblo",
   "tokens": [
     {
       "surface": "ויקנא",
-      "english": "Y entonces ⟨se⟩ celó"
+      "gloss": "Y entonces ⟨se⟩ celó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לארצו",
-      "english": "por su tierra"
+      "gloss": "por su tierra"
     },
     {
       "surface": "ויחמל",
-      "english": "y ⟨se⟩ compadeció de"
+      "gloss": "y ⟨se⟩ compadeció de"
     },
     {
       "surface": "על",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "עמו",
-      "english": "su pueblo"
+      "gloss": "su pueblo"
     }
-  ],
-  "timestamp": "2026-06-10T00:28:33.053520653Z",
-  "model": "glm-4.5"
+  ]
 }

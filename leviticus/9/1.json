@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "leviticus 9:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 9,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:39:15.733234224Z",
+  "translation": "Y sucedió ⟨en⟩ el día octavo, Moshé llamó a Aharón y a sus hijos y a los ancianos de Yisrael",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨en⟩ el día"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "octavo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "llamó"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "a Aharón"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "y a sus hijos"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "y a los ancianos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17206,
-    "prompt_tokens_details": {
-      "cached_tokens": 16069
-    },
-    "total_tokens": 17509
-  },
-  "translation": "Y sucedió ⟨en⟩ el día octavo, Moshé llamó a Aharón y a sus hijos y a los ancianos de Yisrael",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "ביום",
-      "english": "⟨en⟩ el día"
-    },
-    {
-      "surface": "השמיני",
-      "english": "octavo"
-    },
-    {
-      "surface": "קרא",
-      "english": "llamó"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לאהרן",
-      "english": "a Aharón"
-    },
-    {
-      "surface": "ולבניו",
-      "english": "y a sus hijos"
-    },
-    {
-      "surface": "ולזקני",
-      "english": "y a los ancianos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:39:15.733234224Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 38:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69921,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70284
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:16:57.136435171Z",
   "translation": "Y yo ⟨es⟩ como un varón que no ⟨es⟩ ⟨uno⟩ que oye, y en cuya boca no ⟨hay⟩ reprensiones",
   "tokens": [
     {
       "surface": "ואהי",
-      "english": "Y yo ⟨es⟩"
+      "gloss": "Y yo ⟨es⟩"
     },
     {
       "surface": "כאיש",
-      "english": "como un varón"
+      "gloss": "como un varón"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לא",
-      "english": "no ⟨es⟩"
+      "gloss": "no ⟨es⟩"
     },
     {
       "surface": "שמע",
-      "english": "⟨uno⟩ que oye"
+      "gloss": "⟨uno⟩ que oye"
     },
     {
       "surface": "ואין",
-      "english": "y en cuya boca"
+      "gloss": "y en cuya boca"
     },
     {
       "surface": "בפיו",
-      "english": "no ⟨hay⟩"
+      "gloss": "no ⟨hay⟩"
     },
     {
       "surface": "תוכחות",
-      "english": "reprensiones"
+      "gloss": "reprensiones"
     }
-  ],
-  "timestamp": "2026-06-09T23:16:57.136435171Z",
-  "model": "glm-4.5"
+  ]
 }

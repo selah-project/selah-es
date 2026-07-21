@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "song-of-songs 3:3",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 612,
-    "prompt_tokens": 27786,
-    "prompt_tokens_details": {
-      "cached_tokens": 26496
-    },
-    "total_tokens": 28398
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:48:45.233905014Z",
   "translation": "Los guardas que rondan ⟨por⟩ la ciudad ⟨me⟩ encontraron: ¿A ⟨quien⟩ ama mi alma ⟨lo⟩ habéis visto?",
   "tokens": [
     {
       "surface": "מצאוני",
-      "english": "⟨me⟩ encontraron"
+      "gloss": "⟨me⟩ encontraron"
     },
     {
       "surface": "השמרים",
-      "english": "los guardas"
+      "gloss": "los guardas"
     },
     {
       "surface": "הסבבים",
-      "english": "que rondan"
+      "gloss": "que rondan"
     },
     {
       "surface": "בעיר",
-      "english": "⟨por⟩ la ciudad"
+      "gloss": "⟨por⟩ la ciudad"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨quien⟩ ama mi alma"
     },
     {
       "surface": "שאהבה",
-      "english": "⟨quien⟩ ama"
+      "gloss": "⟨quien⟩ ama"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "ראיתם",
-      "english": "⟨lo⟩ habéis visto"
+      "gloss": "⟨lo⟩ habéis visto"
     }
-  ],
-  "timestamp": "2026-07-16T23:48:45.233905014Z",
-  "model": "glm-4.5"
+  ]
 }

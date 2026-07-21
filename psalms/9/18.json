@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 9:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69911,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70330
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:01:51.149729753Z",
   "translation": "⟨los⟩ malvados volverán ⟨al⟩ Seol, todas las naciones ⟨que⟩ se olvidan ⟨de⟩ Elohim.",
   "tokens": [
     {
       "surface": "ישובו",
-      "english": "Volverán"
+      "gloss": "Volverán"
     },
     {
       "surface": "רשעים",
-      "english": "⟨los⟩ malvados"
+      "gloss": "⟨los⟩ malvados"
     },
     {
       "surface": "לשאולה",
-      "english": "⟨al⟩ Seol",
+      "gloss": "⟨al⟩ Seol",
       "marks": "lugar adonde vuelven los malvados"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "גוים",
-      "english": "naciones"
+      "gloss": "naciones"
     },
     {
       "surface": "שכחי",
-      "english": "⟨que⟩ se olvidan ⟨de⟩"
+      "gloss": "⟨que⟩ se olvidan ⟨de⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-06-09T23:01:51.149729753Z",
-  "model": "glm-4.5"
+  ]
 }

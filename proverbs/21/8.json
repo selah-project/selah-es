@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 21:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 461,
-    "prompt_tokens": 59985,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60446
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:20:58.261945948Z",
   "translation": "Muy perverso ⟨es⟩ el camino de un hombre, y el crimen de uno puro; pero su obra ⟨es⟩ recta.",
   "tokens": [
     {
       "surface": "הפכפך",
-      "english": "Muy perverso"
+      "gloss": "Muy perverso"
     },
     {
       "surface": "דרך",
-      "english": "el camino"
+      "gloss": "el camino"
     },
     {
       "surface": "איש",
-      "english": "de un hombre"
+      "gloss": "de un hombre"
     },
     {
       "surface": "וזר",
-      "english": "y el crimen"
+      "gloss": "y el crimen"
     },
     {
       "surface": "וזך",
-      "english": "de uno puro"
+      "gloss": "de uno puro"
     },
     {
       "surface": "ישר",
-      "english": "recta"
+      "gloss": "recta"
     },
     {
       "surface": "פעלו",
-      "english": "pero su obra"
+      "gloss": "pero su obra"
     }
-  ],
-  "timestamp": "2026-07-16T23:20:58.261945948Z",
-  "model": "glm-4.5"
+  ]
 }

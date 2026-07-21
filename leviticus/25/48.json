@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 48,
   "ref": "leviticus 25:48",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 25,
+  "verse": 48,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:03:54.168498558Z",
+  "translation": "Después de que ⟨es⟩ vendido, Gueulá habrá para él; uno de sus hermanos lo redimirá.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Después de que"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "⟨es⟩ vendido"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "Gueulá"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "habrá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para él"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "de sus hermanos"
+    },
+    {
+      "surface": "יגאלנו",
+      "gloss": "lo redimirá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "redención",
@@ -13,56 +52,6 @@
       "hebrew": "גאולה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17171,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 17453
-  },
-  "translation": "Después de que ⟨es⟩ vendido, Gueulá habrá para él; uno de sus hermanos lo redimirá.",
-  "tokens": [
-    {
-      "surface": "אחרי",
-      "english": "Después de que"
-    },
-    {
-      "surface": "נמכר",
-      "english": "⟨es⟩ vendido"
-    },
-    {
-      "surface": "גאלה",
-      "english": "Gueulá"
-    },
-    {
-      "surface": "תהיה",
-      "english": "habrá"
-    },
-    {
-      "surface": "לו",
-      "english": "para él"
-    },
-    {
-      "surface": "אחד",
-      "english": "uno"
-    },
-    {
-      "surface": "מאחיו",
-      "english": "de sus hermanos"
-    },
-    {
-      "surface": "יגאלנו",
-      "english": "lo redimirá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:03:54.168498558Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

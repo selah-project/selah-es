@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 73:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69853,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70265
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:02.761495509Z",
   "translation": "Y yo ⟨soy⟩ bruto y no ⟨⟩ sé. ⟨Como⟩ bestia ⟨he sido⟩ ⟨את⟩ ⟨⟩ contigo.",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "Y yo"
+      "gloss": "Y yo"
     },
     {
       "surface": "בער",
-      "english": "bruto"
+      "gloss": "bruto"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "אדע",
-      "english": "sé"
+      "gloss": "sé"
     },
     {
       "surface": "בהמות",
-      "english": "bestia"
+      "gloss": "bestia"
     },
     {
       "surface": "הייתי",
-      "english": "he sido"
+      "gloss": "he sido"
     },
     {
       "surface": "עמך",
-      "english": "contigo"
+      "gloss": "contigo"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:02.761495509Z",
-  "model": "glm-4.5"
+  ]
 }

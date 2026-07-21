@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 50:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69872,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70310
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:22:25.260559005Z",
   "translation": "Reunid ⟨a⟩ mí mis jasidim, los que hacen ⟨un⟩ pacto ⟨con⟩migo ⟨sobre⟩ ⟨un⟩ sacrificio",
   "tokens": [
     {
       "surface": "אספו",
-      "english": "Reunid"
+      "gloss": "Reunid"
     },
     {
       "surface": "לי",
-      "english": "⟨a⟩ mí",
+      "gloss": "⟨a⟩ mí",
       "marks": "mí"
     },
     {
       "surface": "חסידי",
-      "english": "mis jasidim"
+      "gloss": "mis jasidim"
     },
     {
       "surface": "כרתי",
-      "english": "los que hacen ⟨un⟩ pacto"
+      "gloss": "los que hacen ⟨un⟩ pacto"
     },
     {
       "surface": "בריתי",
-      "english": "⟨con⟩migo",
+      "gloss": "⟨con⟩migo",
       "marks": "mí"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "זבח",
-      "english": "⟨un⟩ sacrificio"
+      "gloss": "⟨un⟩ sacrificio"
     }
-  ],
-  "timestamp": "2026-06-09T23:22:25.260559005Z",
-  "model": "glm-4.5"
+  ]
 }

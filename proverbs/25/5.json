@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 25:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59794,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60341
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:47:49.323927038Z",
   "translation": "Quita ⟨al⟩ malvado de ⟨delante de⟩ ⟨el⟩ rey, y ⟨se⟩ establecerá ⟨su⟩ trono en ⟨la⟩ justicia.",
   "tokens": [
     {
       "surface": "הגו",
-      "english": "Quita ⟨a⟩"
+      "gloss": "Quita ⟨a⟩"
     },
     {
       "surface": "רשע",
-      "english": "malvado"
+      "gloss": "malvado"
     },
     {
       "surface": "לפני",
-      "english": "de ⟨delante de⟩"
+      "gloss": "de ⟨delante de⟩"
     },
     {
       "surface": "מלך",
-      "english": "⟨el⟩ rey"
+      "gloss": "⟨el⟩ rey"
     },
     {
       "surface": "ויכון",
-      "english": "y ⟨se⟩ establecerá"
+      "gloss": "y ⟨se⟩ establecerá"
     },
     {
       "surface": "בצדק",
-      "english": "en ⟨la⟩ justicia"
+      "gloss": "en ⟨la⟩ justicia"
     },
     {
       "surface": "כסאו",
-      "english": "⟨su⟩ trono"
+      "gloss": "⟨su⟩ trono"
     }
-  ],
-  "timestamp": "2026-06-10T01:47:49.323927038Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 47:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 517,
-    "prompt_tokens": 70348,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70865
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:53.246922024Z",
   "translation": "Él ⟨את⟩ escoge ⟨para⟩ nosotros la heredad ⟨את⟩ de nosotros, el esplendor de Yaakov, el que amó. Selah.",
   "tokens": [
     {
       "surface": "יבחר",
-      "english": "Él ... escoge"
+      "gloss": "Él ... escoge"
     },
     {
       "surface": "לנו",
-      "english": "⟨para⟩ nosotros"
+      "gloss": "⟨para⟩ nosotros"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la heredad ⟨את⟩ de nosotros"
     },
     {
       "surface": "נחלתנו",
-      "english": "la heredad ⟨את⟩ de nosotros"
+      "gloss": "la heredad ⟨את⟩ de nosotros"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el esplendor de Yaakov"
     },
     {
       "surface": "גאון",
-      "english": "el esplendor"
+      "gloss": "el esplendor"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     },
     {
       "surface": "אשר",
-      "english": "el que"
+      "gloss": "el que"
     },
     {
       "surface": "אהב",
-      "english": "amó"
+      "gloss": "amó"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:53.246922024Z",
-  "model": "glm-4.5"
+  ]
 }

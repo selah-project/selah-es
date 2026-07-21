@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 29:12",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59900,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60289
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T06:38:42.737851101Z",
   "translation": "El que gobierna ⟨está⟩ ⟨atento⟩ ⟨a⟩ ⟨palabras⟩ de mentira, ⟨todos⟩ sus siervos ⟨son⟩ impíos",
   "tokens": [
     {
       "surface": "משל",
-      "english": "El que gobierna"
+      "gloss": "El que gobierna"
     },
     {
       "surface": "מקשיב",
-      "english": "⟨está⟩ ⟨atento⟩"
+      "gloss": "⟨está⟩ ⟨atento⟩"
     },
     {
       "surface": "על",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "דבר",
-      "english": "⟨palabras⟩"
+      "gloss": "⟨palabras⟩"
     },
     {
       "surface": "שקר",
-      "english": "de mentira"
+      "gloss": "de mentira"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "משרתיו",
-      "english": "sus siervos"
+      "gloss": "sus siervos"
     },
     {
       "surface": "רשעים",
-      "english": "⟨son⟩ impíos"
+      "gloss": "⟨son⟩ impíos"
     }
-  ],
-  "timestamp": "2026-06-10T06:38:42.737851101Z",
-  "model": "glm-4.5"
+  ]
 }

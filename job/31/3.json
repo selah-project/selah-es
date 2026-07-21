@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 31:3",
   "book": "job",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26882,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27329
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:10:25.576818974Z",
   "translation": "¿⟨no es⟩ calamidad ⟨para⟩ el perverso, y ⟨un⟩ castigo extraño ⟨para⟩ ⟨los⟩ que obran ⟨la⟩ iniquidad?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "¿⟨No es⟩",
+      "gloss": "¿⟨No es⟩",
       "marks": "calamidad"
     },
     {
       "surface": "איד",
-      "english": "calamidad"
+      "gloss": "calamidad"
     },
     {
       "surface": "לעול",
-      "english": "⟨para⟩ el perverso"
+      "gloss": "⟨para⟩ el perverso"
     },
     {
       "surface": "ונכר",
-      "english": "y ⟨un⟩ castigo extraño"
+      "gloss": "y ⟨un⟩ castigo extraño"
     },
     {
       "surface": "לפעלי",
-      "english": "⟨para⟩ ⟨los⟩ que obran"
+      "gloss": "⟨para⟩ ⟨los⟩ que obran"
     },
     {
       "surface": "און",
-      "english": "⟨la⟩ iniquidad"
+      "gloss": "⟨la⟩ iniquidad"
     }
-  ],
-  "timestamp": "2026-06-10T02:10:25.576818974Z",
-  "model": "glm-4.5"
+  ]
 }

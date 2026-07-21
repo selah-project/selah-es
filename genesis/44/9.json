@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 44:9",
   "book": "genesis",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 28659,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29103
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:13:58.822868737Z",
   "translation": "Con quienquiera de tus siervos sea hallado ⟨את⟩ con él, muera, y también nosotros seremos para mi señor ⟨por⟩ siervos.",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Con quienquiera"
+      "gloss": "Con quienquiera"
     },
     {
       "surface": "ימצא",
-      "english": "sea hallado"
+      "gloss": "sea hallado"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "con él"
     },
     {
       "surface": "מעבדיך",
-      "english": "de tus siervos"
+      "gloss": "de tus siervos"
     },
     {
       "surface": "ומת",
-      "english": "muera"
+      "gloss": "muera"
     },
     {
       "surface": "וגם",
-      "english": "y también"
+      "gloss": "y también"
     },
     {
       "surface": "אנחנו",
-      "english": "nosotros"
+      "gloss": "nosotros"
     },
     {
       "surface": "נהיה",
-      "english": "seremos"
+      "gloss": "seremos"
     },
     {
       "surface": "לאדני",
-      "english": "para mi señor"
+      "gloss": "para mi señor"
     },
     {
       "surface": "לעבדים",
-      "english": "⟨por⟩ siervos"
+      "gloss": "⟨por⟩ siervos"
     }
-  ],
-  "timestamp": "2026-07-16T21:13:58.822868737Z",
-  "model": "glm-4.5"
+  ]
 }

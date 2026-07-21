@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "exodus 4:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 4,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:25:19.281271181Z",
+  "translation": "Y dirás a Paró: Así dice YHWH: Yisrael ⟨es⟩ mi hijo, ⟨mi⟩ primogénito",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Y dirás"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mi hijo"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "⟨mi⟩ primogénito"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -20,60 +63,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16684,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17011
-  },
-  "translation": "Y dirás a Paró: Así dice YHWH: Yisrael ⟨es⟩ mi hijo, ⟨mi⟩ primogénito",
-  "tokens": [
-    {
-      "surface": "ואמרת",
-      "english": "Y dirás"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "כה",
-      "english": "Así"
-    },
-    {
-      "surface": "אמר",
-      "english": "dice"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "בני",
-      "english": "mi hijo"
-    },
-    {
-      "surface": "בכרי",
-      "english": "⟨mi⟩ primogénito"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:25:19.281271181Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

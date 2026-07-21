@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 102:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69790,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70127
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:47.584731563Z",
   "translation": "para declarar ⟨el⟩ nombre de YHWH en Tzión, y ⟨la⟩ alabanza de él ⟨es⟩ en Yerushalayim",
   "tokens": [
     {
       "surface": "לספר",
-      "english": "Para declarar"
+      "gloss": "Para declarar"
     },
     {
       "surface": "בציון",
-      "english": "en Tzión"
+      "gloss": "en Tzión"
     },
     {
       "surface": "שם",
-      "english": "nombre"
+      "gloss": "nombre"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ותהלתו",
-      "english": "y ⟨la⟩ alabanza de él"
+      "gloss": "y ⟨la⟩ alabanza de él"
     },
     {
       "surface": "בירושלם",
-      "english": "⟨es⟩ en Yerushalayim"
+      "gloss": "⟨es⟩ en Yerushalayim"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:47.584731563Z",
-  "model": "glm-4.5"
+  ]
 }

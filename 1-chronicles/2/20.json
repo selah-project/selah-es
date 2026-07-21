@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-chronicles 2:20",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 64288,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64663
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:02:26.511339244Z",
   "translation": "Y Júr engendró a Uri, y Uri engendró a Betsalel",
   "tokens": [
     {
       "surface": "וְ\/חוּר",
-      "english": "Y Júr"
+      "gloss": "Y Júr"
     },
     {
       "surface": "הוֹלִ֣יד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Uri"
     },
     {
       "surface": "אוּרִ֔י",
-      "english": "Uri"
+      "gloss": "Uri"
     },
     {
       "surface": "וְ\/אוּרִ֖י",
-      "english": "y Uri"
+      "gloss": "y Uri"
     },
     {
       "surface": "הוֹלִ֥יד",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Betsalel"
     },
     {
       "surface": "בְּצַלְאֵֽל",
-      "english": "Betsalel"
+      "gloss": "Betsalel"
     }
-  ],
-  "timestamp": "2026-07-16T18:02:26.511339244Z",
-  "model": "glm-4.5"
+  ]
 }

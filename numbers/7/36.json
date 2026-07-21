@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "numbers 7:36",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 36,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:19:55.495606295Z",
+  "translation": "En el día ⟨el⟩ quinto, el príncipe ⟨de⟩ los hijos de Shimón: Shelumiel ⟨hijo de⟩ Tzurishaddai",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "En el día"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "⟨el⟩ quinto"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "el príncipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨de⟩ los hijos"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "de Shimón"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Shelumiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨hijo de⟩"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Tzurishaddai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Simeón",
@@ -13,56 +52,6 @@
       "hebrew": "שמעון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17772,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 18113
-  },
-  "translation": "En el día ⟨el⟩ quinto, el príncipe ⟨de⟩ los hijos de Shimón: Shelumiel ⟨hijo de⟩ Tzurishaddai",
-  "tokens": [
-    {
-      "surface": "ביום",
-      "english": "En el día"
-    },
-    {
-      "surface": "החמישי",
-      "english": "⟨el⟩ quinto"
-    },
-    {
-      "surface": "נשיא",
-      "english": "el príncipe"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨de⟩ los hijos"
-    },
-    {
-      "surface": "שמעון",
-      "english": "de Shimón"
-    },
-    {
-      "surface": "שלמיאל",
-      "english": "Shelumiel"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨hijo de⟩"
-    },
-    {
-      "surface": "צורישדי",
-      "english": "Tzurishaddai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:19:55.495606295Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

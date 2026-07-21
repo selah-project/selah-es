@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 106:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 419,
-    "prompt_tokens": 69856,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70275
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:55.703779829Z",
   "translation": "Y el fuego se encendió en ⟨su⟩ asamblea; la llama consumió ⟨a⟩ los malvados.",
   "tokens": [
     {
       "surface": "וַ\/תִּבְעַר",
-      "english": "Y el fuego se encendió"
+      "gloss": "Y el fuego se encendió"
     },
     {
       "surface": "אֵשׁ",
-      "english": "fuego"
+      "gloss": "fuego"
     },
     {
       "surface": "בַּ\/עֲדָתָ\/ם",
-      "english": "en ⟨su⟩ asamblea"
+      "gloss": "en ⟨su⟩ asamblea"
     },
     {
       "surface": "לֶהָבָה",
-      "english": "la llama"
+      "gloss": "la llama"
     },
     {
       "surface": "תְּלַהֵט",
-      "english": "consumió"
+      "gloss": "consumió"
     },
     {
       "surface": "רְשָׁעִֽים",
-      "english": "⟨a⟩ los malvados"
+      "gloss": "⟨a⟩ los malvados"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:55.703779829Z",
-  "model": "glm-4.5"
+  ]
 }

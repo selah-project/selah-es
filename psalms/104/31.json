@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "psalms 104:31",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 358,
-    "prompt_tokens": 70013,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70371
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:07.394231332Z",
   "translation": "Sea la gloria de YHWH para siempre; YHWH se alegrará en sus obras.",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "Sea"
+      "gloss": "Sea"
     },
     {
       "surface": "כבוד",
-      "english": "la gloria de"
+      "gloss": "la gloria de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "ישמח",
-      "english": "YHWH se alegrará"
+      "gloss": "YHWH se alegrará"
     },
     {
       "surface": "יהוה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "במעשיו",
-      "english": "en sus obras"
+      "gloss": "en sus obras"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:07.394231332Z",
-  "model": "glm-4.5"
+  ]
 }

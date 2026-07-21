@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 62:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69933,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70375
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:28:00.983304470Z",
   "translation": "Solo ⟨a⟩ Elohim ⟨calla⟩ mi alma; porque ⟨de⟩ ⟨Él⟩ ⟨es⟩ mi esperanza.",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Solo"
+      "gloss": "Solo"
     },
     {
       "surface": "לאלהים",
-      "english": "⟨a⟩ Elohim"
+      "gloss": "⟨a⟩ Elohim"
     },
     {
       "surface": "דומי",
-      "english": "⟨calla⟩"
+      "gloss": "⟨calla⟩"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "ממנו",
-      "english": "⟨de⟩ ⟨Él⟩"
+      "gloss": "⟨de⟩ ⟨Él⟩"
     },
     {
       "surface": "תקותי",
-      "english": "⟨es⟩ mi esperanza"
+      "gloss": "⟨es⟩ mi esperanza"
     }
-  ],
-  "timestamp": "2026-06-09T23:28:00.983304470Z",
-  "model": "glm-4.5"
+  ]
 }

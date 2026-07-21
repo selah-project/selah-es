@@ -1,9 +1,85 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "1-kings 1:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 1,
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:44:03.225877312Z",
+  "translation": "Y subiréis ⟨después⟩ ⟨de⟩ él y entrará y se sentará ⟨sobre⟩ mi trono ⟨y⟩ él reinará ⟨en⟩ mi lugar ⟨y⟩ ⟨a⟩ él ⟨he⟩ ordenado ⟨para⟩ ⟨que⟩ ⟨sea⟩ gobernante ⟨sobre⟩ Yisrael ⟨y⟩ ⟨sobre⟩ Yehudá",
+  "tokens": [
+    {
+      "surface": "ועליתם",
+      "gloss": "Y subiréis"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "⟨después⟩ ⟨de⟩ él"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "y entrará"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "y se sentará"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "mi trono"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨y⟩ él"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "reinará"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "⟨en⟩ mi lugar"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨y⟩ ⟨a⟩ él",
+      "marks": "⟨he⟩ ordenado"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "⟨he⟩ ordenado"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨para⟩ ⟨que⟩ ⟨sea⟩"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "gobernante"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "⟨y⟩ ⟨sobre⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,93 +96,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 786,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63058,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63844
-  },
-  "translation": "Y subiréis ⟨después⟩ ⟨de⟩ él y entrará y se sentará ⟨sobre⟩ mi trono ⟨y⟩ él reinará ⟨en⟩ mi lugar ⟨y⟩ ⟨a⟩ él ⟨he⟩ ordenado ⟨para⟩ ⟨que⟩ ⟨sea⟩ gobernante ⟨sobre⟩ Yisrael ⟨y⟩ ⟨sobre⟩ Yehudá",
-  "tokens": [
-    {
-      "surface": "ועליתם",
-      "english": "Y subiréis"
-    },
-    {
-      "surface": "אחריו",
-      "english": "⟨después⟩ ⟨de⟩ él"
-    },
-    {
-      "surface": "ובא",
-      "english": "y entrará"
-    },
-    {
-      "surface": "וישב",
-      "english": "y se sentará"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "כסאי",
-      "english": "mi trono"
-    },
-    {
-      "surface": "והוא",
-      "english": "⟨y⟩ él"
-    },
-    {
-      "surface": "ימלך",
-      "english": "reinará"
-    },
-    {
-      "surface": "תחתי",
-      "english": "⟨en⟩ mi lugar"
-    },
-    {
-      "surface": "ואתו",
-      "english": "⟨y⟩ ⟨a⟩ él",
-      "marks": "⟨he⟩ ordenado"
-    },
-    {
-      "surface": "צויתי",
-      "english": "⟨he⟩ ordenado"
-    },
-    {
-      "surface": "להיות",
-      "english": "⟨para⟩ ⟨que⟩ ⟨sea⟩"
-    },
-    {
-      "surface": "נגיד",
-      "english": "gobernante"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ועל",
-      "english": "⟨y⟩ ⟨sobre⟩"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:44:03.225877312Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

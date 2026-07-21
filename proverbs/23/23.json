@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "proverbs 23:23",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59796,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60237
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:46:52.191482452Z",
   "translation": "Comprad ⟨la⟩ verdad, y ⟨no la⟩ vendáis; ⟨también⟩ sabiduría, e instrucción, y entendimiento.",
   "tokens": [
     {
       "surface": "אמת",
-      "english": "⟨La⟩ verdad",
+      "gloss": "⟨La⟩ verdad",
       "marks": "verdad"
     },
     {
       "surface": "קנה",
-      "english": "Comprad"
+      "gloss": "Comprad"
     },
     {
       "surface": "ואל",
-      "english": "y ⟨no la⟩"
+      "gloss": "y ⟨no la⟩"
     },
     {
       "surface": "תמכר",
-      "english": "vendáis"
+      "gloss": "vendáis"
     },
     {
       "surface": "חכמה",
-      "english": "sabiduría"
+      "gloss": "sabiduría"
     },
     {
       "surface": "ומוסר",
-      "english": "e instrucción"
+      "gloss": "e instrucción"
     },
     {
       "surface": "ובינה",
-      "english": "y entendimiento"
+      "gloss": "y entendimiento"
     }
-  ],
-  "timestamp": "2026-06-10T01:46:52.191482452Z",
-  "model": "glm-4.5"
+  ]
 }

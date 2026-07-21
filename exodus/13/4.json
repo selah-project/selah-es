@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "exodus 13:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 229,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16296,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 16525
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:39:22.925914205Z",
   "translation": "Hoy ⟨vosotros⟩ salís ⟨en el⟩ mes de Aviv.",
   "tokens": [
     {
       "surface": "היום",
-      "english": "Hoy"
+      "gloss": "Hoy"
     },
     {
       "surface": "אתם",
-      "english": "⟨vosotros⟩"
+      "gloss": "⟨vosotros⟩"
     },
     {
       "surface": "יצאים",
-      "english": "salís"
+      "gloss": "salís"
     },
     {
       "surface": "בחדש",
-      "english": "⟨en el⟩ mes"
+      "gloss": "⟨en el⟩ mes"
     },
     {
       "surface": "האביב",
-      "english": "de Aviv"
+      "gloss": "de Aviv"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:39:22.925914205Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

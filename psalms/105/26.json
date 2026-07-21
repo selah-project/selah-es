@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 105:26",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69768,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70053
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:52:00.055936326Z",
   "translation": "Envió Mosheh su siervo ⟨y⟩ Aharón ⟨el⟩ que había elegido en él",
   "tokens": [
     {
       "surface": "שלח",
-      "english": "Envió"
+      "gloss": "Envió"
     },
     {
       "surface": "משה",
-      "english": "Mosheh"
+      "gloss": "Mosheh"
     },
     {
       "surface": "עבדו",
-      "english": "su siervo"
+      "gloss": "su siervo"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "אשר",
-      "english": "⟨el⟩ que"
+      "gloss": "⟨el⟩ que"
     },
     {
       "surface": "בחר",
-      "english": "había elegido"
+      "gloss": "había elegido"
     },
     {
       "surface": "בו",
-      "english": "en él"
+      "gloss": "en él"
     }
-  ],
-  "timestamp": "2026-06-09T23:52:00.055936326Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "1-chronicles 26:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 26,
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:55:36.700882402Z",
+  "translation": "De los Izharitas, Quenanías ⟨היה⟩ con sus hijos para ⟨el⟩ trabajo externo sobre Yisrael, ⟨como⟩ oficiales ⟨y⟩ jueces",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "De los Izharitas"
+    },
+    {
+      "surface": "כנניהו",
+      "gloss": "Quenanías"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "con sus hijos"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "para ⟨el⟩ trabajo"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "externo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשטרים",
+      "gloss": "⟨como⟩ oficiales"
+    },
+    {
+      "surface": "ולשפטים",
+      "gloss": "⟨y⟩ jueces"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57015,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57420
-  },
-  "translation": "De los Izharitas, Quenanías ⟨היה⟩ con sus hijos para ⟨el⟩ trabajo externo sobre Yisrael, ⟨como⟩ oficiales ⟨y⟩ jueces",
-  "tokens": [
-    {
-      "surface": "ליצהרי",
-      "english": "De los Izharitas"
-    },
-    {
-      "surface": "כנניהו",
-      "english": "Quenanías"
-    },
-    {
-      "surface": "ובניו",
-      "english": "con sus hijos"
-    },
-    {
-      "surface": "למלאכה",
-      "english": "para ⟨el⟩ trabajo"
-    },
-    {
-      "surface": "החיצונה",
-      "english": "externo"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לשטרים",
-      "english": "⟨como⟩ oficiales"
-    },
-    {
-      "surface": "ולשפטים",
-      "english": "⟨y⟩ jueces"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:55:36.700882402Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 112:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 112,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69878,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70280
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:19.004711471Z",
   "translation": "⟨Un⟩ poderoso en ⟨la⟩ tierra ⟨es⟩ su simiente; ⟨la⟩ generación de ⟨los⟩ rectos será bendecida.",
   "tokens": [
     {
       "surface": "גבור",
-      "english": "⟨Un⟩ poderoso"
+      "gloss": "⟨Un⟩ poderoso"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     },
     {
       "surface": "יהיה",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "זרעו",
-      "english": "su simiente"
+      "gloss": "su simiente"
     },
     {
       "surface": "דור",
-      "english": "⟨la⟩ generación"
+      "gloss": "⟨la⟩ generación"
     },
     {
       "surface": "ישרים",
-      "english": "de ⟨los⟩ rectos"
+      "gloss": "de ⟨los⟩ rectos"
     },
     {
       "surface": "יברך",
-      "english": "será bendecida"
+      "gloss": "será bendecida"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:19.004711471Z",
-  "model": "glm-4.5"
+  ]
 }

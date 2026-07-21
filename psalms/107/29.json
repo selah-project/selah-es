@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "psalms 107:29",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69695,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70122
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:30.362808981Z",
   "translation": "El ⟨hizo⟩ levantarse ⟨את⟩ la tormenta a calma, y se calmaron ⟨את⟩ sus olas.",
   "tokens": [
     {
       "surface": "יקם",
-      "english": "⟨Hizo⟩ levantarse",
+      "gloss": "⟨Hizo⟩ levantarse",
       "marks": "la tormenta"
     },
     {
       "surface": "סערה",
-      "english": "la tormenta",
+      "gloss": "la tormenta",
       "marks": null
     },
     {
       "surface": "לדממה",
-      "english": "a calma",
+      "gloss": "a calma",
       "marks": null
     },
     {
       "surface": "ויחשו",
-      "english": "y se calmaron",
+      "gloss": "y se calmaron",
       "marks": "sus olas"
     },
     {
       "surface": "גליהם",
-      "english": "sus olas",
+      "gloss": "sus olas",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-09T23:54:30.362808981Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 10:13",
   "book": "job",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27052,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27332
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:44.160815387Z",
   "translation": "Y estas cosas ⟨has⟩ escondido en ⟨tu⟩ corazón: yo sé que esto ⟨está⟩ contigo.",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "Y estas cosas"
+      "gloss": "Y estas cosas"
     },
     {
       "surface": "צפנת",
-      "english": "⟨has⟩ escondido"
+      "gloss": "⟨has⟩ escondido"
     },
     {
       "surface": "בלבבך",
-      "english": "en ⟨tu⟩ corazón"
+      "gloss": "en ⟨tu⟩ corazón"
     },
     {
       "surface": "ידעתי",
-      "english": "yo sé"
+      "gloss": "yo sé"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "זאת",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "עמך",
-      "english": "contigo"
+      "gloss": "contigo"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:44.160815387Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 119:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 287,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69680,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69967
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:10.612319668Z",
   "translation": "¡Ojalá ⟨que⟩ mis caminos ⟨fueran⟩ dirigidos ⟨para⟩ guardar tus estatutos!",
   "tokens": [
     {
       "surface": "אחלי",
-      "english": "¡Ojalá ⟨que⟩",
+      "gloss": "¡Ojalá ⟨que⟩",
       "marks": ""
     },
     {
       "surface": "יכנו",
-      "english": "mis caminos ⟨fueran⟩ dirigidos",
+      "gloss": "mis caminos ⟨fueran⟩ dirigidos",
       "marks": ""
     },
     {
       "surface": "דרכי",
-      "english": "caminos",
+      "gloss": "caminos",
       "marks": ""
     },
     {
       "surface": "לשמר",
-      "english": "⟨para⟩ guardar",
+      "gloss": "⟨para⟩ guardar",
       "marks": ""
     },
     {
       "surface": "חקיך",
-      "english": "tus estatutos",
+      "gloss": "tus estatutos",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:59:10.612319668Z",
-  "model": "glm-4.5"
+  ]
 }

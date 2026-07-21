@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 21:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 572,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59920,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60492
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:56.129775068Z",
   "translation": "Un tesoro deseado y aceite ⟨están⟩ en ⟨la⟩ morada ⟨del⟩ sabio, pero ⟨un⟩ hombre necio ⟨lo⟩ devora.",
   "tokens": [
     {
       "surface": "אוצר",
-      "english": "Un tesoro"
+      "gloss": "Un tesoro"
     },
     {
       "surface": "נחמד",
-      "english": "deseado"
+      "gloss": "deseado"
     },
     {
       "surface": "ושמן",
-      "english": "y aceite"
+      "gloss": "y aceite"
     },
     {
       "surface": "בנוה",
-      "english": "en ⟨la⟩ morada",
+      "gloss": "en ⟨la⟩ morada",
       "marks": "⟨la⟩ morada ⟨del⟩ sabio"
     },
     {
       "surface": "חכם",
-      "english": "sabio"
+      "gloss": "sabio"
     },
     {
       "surface": "וכסיל",
-      "english": "pero ⟨un⟩ hombre necio"
+      "gloss": "pero ⟨un⟩ hombre necio"
     },
     {
       "surface": "אדם",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "יבלענו",
-      "english": "⟨lo⟩ devora",
+      "gloss": "⟨lo⟩ devora",
       "marks": "Un tesoro deseado y aceite"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:56.129775068Z",
-  "model": "glm-4.5"
+  ]
 }

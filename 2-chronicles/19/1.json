@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 19:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 19,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:19:51.522388985Z",
+  "translation": "Y Jehoshafat, ⟨el⟩ rey de Yehudá, volvió ⟨a⟩ su casa en paz ⟨a⟩ Jerusalén",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Volvió"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Y Jehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "su casa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "en paz"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "⟨a⟩ Jerusalén"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,56 +52,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57716,
-    "prompt_tokens_details": {
-      "cached_tokens": 56680
-    },
-    "total_tokens": 58033
-  },
-  "translation": "Y Jehoshafat, ⟨el⟩ rey de Yehudá, volvió ⟨a⟩ su casa en paz ⟨a⟩ Jerusalén",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "Volvió"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Y Jehoshafat"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "ביתו",
-      "english": "su casa"
-    },
-    {
-      "surface": "בשלום",
-      "english": "en paz"
-    },
-    {
-      "surface": "לירושלם",
-      "english": "⟨a⟩ Jerusalén"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:19:51.522388985Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

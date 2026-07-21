@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "2-chronicles 32:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 32,
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:36:49.661784224Z",
+  "translation": "Y Yehizqiyahu durmió ⟨con⟩ sus padres, y ⟨lo⟩ enterraron en ⟨la⟩ parte alta de ⟨los⟩ sepulcros de ⟨los⟩ hijos de Davidd; y ⟨el⟩ honor hicieron para él en ⟨su⟩ muerte, todo Yahudá y ⟨los⟩ habitantes de Yerushaláyim; y Menashé su hijo reinó en su lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Y durmió"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizqiyahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨con⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sus padres"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "y ⟨lo⟩ enterraron"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "en ⟨la⟩ parte alta"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "⟨los⟩ sepulcros"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "y ⟨el⟩ honor"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hicieron"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para él"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "en ⟨su⟩ muerte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudá"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "y ⟨los⟩ habitantes"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushaláyim"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "y reinó"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su hijo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "en su lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,108 +104,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 797,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59085,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 59882
-  },
-  "translation": "Y Yehizqiyahu durmió ⟨con⟩ sus padres, y ⟨lo⟩ enterraron en ⟨la⟩ parte alta de ⟨los⟩ sepulcros de ⟨los⟩ hijos de Davidd; y ⟨el⟩ honor hicieron para él en ⟨su⟩ muerte, todo Yahudá y ⟨los⟩ habitantes de Yerushaláyim; y Menashé su hijo reinó en su lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "Y durmió"
-    },
-    {
-      "surface": "יחזקיהו",
-      "english": "Yehizqiyahu"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨con⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "sus padres"
-    },
-    {
-      "surface": "ויקברהו",
-      "english": "y ⟨lo⟩ enterraron"
-    },
-    {
-      "surface": "במעלה",
-      "english": "en ⟨la⟩ parte alta"
-    },
-    {
-      "surface": "קברי",
-      "english": "⟨los⟩ sepulcros"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "וכבוד",
-      "english": "y ⟨el⟩ honor"
-    },
-    {
-      "surface": "עשו",
-      "english": "hicieron"
-    },
-    {
-      "surface": "לו",
-      "english": "para él"
-    },
-    {
-      "surface": "במותו",
-      "english": "en ⟨su⟩ muerte"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yahudá"
-    },
-    {
-      "surface": "וישבי",
-      "english": "y ⟨los⟩ habitantes"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushaláyim"
-    },
-    {
-      "surface": "וימלך",
-      "english": "y reinó"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "בנו",
-      "english": "su hijo"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "en su lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:36:49.661784224Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

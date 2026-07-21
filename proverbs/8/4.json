@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 8:4",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 616,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59845,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60461
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:33:56.444491041Z",
   "translation": "⟨A⟩ vosotros, oh hombres, yo ⟨el⟩ llamo, y ⟨el⟩ sonido de ⟨mi⟩ voz ⟨es⟩ a ⟨los⟩ hijos de Adam",
   "tokens": [
     {
       "surface": "אליכם",
-      "english": "⟨A⟩ vosotros"
+      "gloss": "⟨A⟩ vosotros"
     },
     {
       "surface": "אישים",
-      "english": "oh hombres"
+      "gloss": "oh hombres"
     },
     {
       "surface": "אקרא",
-      "english": "yo ⟨el⟩ llamo"
+      "gloss": "yo ⟨el⟩ llamo"
     },
     {
       "surface": "וקולי",
-      "english": "y ⟨el⟩ sonido de ⟨mi⟩ voz",
+      "gloss": "y ⟨el⟩ sonido de ⟨mi⟩ voz",
       "marks": "mi voz"
     },
     {
       "surface": "אל",
-      "english": "⟨A⟩"
+      "gloss": "⟨A⟩"
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-06-10T01:33:56.444491041Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 29:5",
   "book": "genesis",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28551,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29017
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:26:12.450003301Z",
   "translation": "Y él dijo a ellos: ¿Conocéis ⟨a⟩ Labán hijo de Najor? Y dijeron: ⟨Lo⟩ conocemos.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y él dijo"
+      "gloss": "Y él dijo"
     },
     {
       "surface": "להם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "הידעתם",
-      "english": "¿Conocéis"
+      "gloss": "¿Conocéis"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Labán"
     },
     {
       "surface": "לבן",
-      "english": "Labán"
+      "gloss": "Labán"
     },
     {
       "surface": "בן",
-      "english": "hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "נחור",
-      "english": "de Najor"
+      "gloss": "de Najor"
     },
     {
       "surface": "ויאמרו",
-      "english": "Y dijeron"
+      "gloss": "Y dijeron"
     },
     {
       "surface": "ידענו",
-      "english": "⟨Lo⟩ conocemos"
+      "gloss": "⟨Lo⟩ conocemos"
     }
-  ],
-  "timestamp": "2026-06-10T05:26:12.450003301Z",
-  "model": "glm-4.5"
+  ]
 }

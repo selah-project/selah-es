@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 38:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 494,
-    "prompt_tokens": 70141,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70635
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:45.802295122Z",
   "translation": "Adonai, delante de ti ⟨está⟩ todo mi anhelo, y mi suspiro de ti no ⟨fue⟩ ocultado.",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "נגדך",
-      "english": "delante de ti"
+      "gloss": "delante de ti"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "תאותי",
-      "english": "mi anhelo"
+      "gloss": "mi anhelo"
     },
     {
       "surface": "ואנחתי",
-      "english": "y mi suspiro"
+      "gloss": "y mi suspiro"
     },
     {
       "surface": "ממך",
-      "english": "de ti"
+      "gloss": "de ti"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "נסתרה",
-      "english": "⟨fue⟩ ocultado"
+      "gloss": "⟨fue⟩ ocultado"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:45.802295122Z",
-  "model": "glm-4.5"
+  ]
 }

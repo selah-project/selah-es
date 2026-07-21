@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "job 10:21",
   "book": "job",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27124,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27533
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:00.531860478Z",
   "translation": "Antes de que yo vaya y ⟨no⟩ vuelva, ⟨a⟩ ⟨la⟩ tierra de oscuridad y ⟨de⟩ ⟨la⟩ sombra de muerte",
   "tokens": [
     {
       "surface": "בטרם",
-      "english": "Antes de que"
+      "gloss": "Antes de que"
     },
     {
       "surface": "אלך",
-      "english": "yo vaya"
+      "gloss": "yo vaya"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no⟩"
+      "gloss": "y ⟨no⟩"
     },
     {
       "surface": "אשוב",
-      "english": "vuelva"
+      "gloss": "vuelva"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "חשך",
-      "english": "de oscuridad"
+      "gloss": "de oscuridad"
     },
     {
       "surface": "וצלמות",
-      "english": "y ⟨de⟩ ⟨la⟩ sombra de muerte"
+      "gloss": "y ⟨de⟩ ⟨la⟩ sombra de muerte"
     }
-  ],
-  "timestamp": "2026-06-10T01:59:00.531860478Z",
-  "model": "glm-4.5"
+  ]
 }

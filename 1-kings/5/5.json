@@ -1,9 +1,82 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-kings 5:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 5,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:48:55.683776955Z",
+  "translation": "Y habitó Yehudá e Israel con seguridad, cada cual ⟨bajo⟩ su vid y ⟨bajo⟩ su higuera, desde Dan hasta Beer-seba, todos los días de Shelomó",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Y habitó"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Israel"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "con seguridad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cada cual"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨bajo⟩",
+      "marks": "su vid"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "su vid"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "⟨bajo⟩",
+      "marks": "su higuera"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "su higuera"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "desde Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos los"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "días de"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomó"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,90 +86,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 686,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62840,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63526
-  },
-  "translation": "Y habitó Yehudá e Israel con seguridad, cada cual ⟨bajo⟩ su vid y ⟨bajo⟩ su higuera, desde Dan hasta Beer-seba, todos los días de Shelomó",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "Y habitó"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "וישראל",
-      "english": "e Israel"
-    },
-    {
-      "surface": "לבטח",
-      "english": "con seguridad"
-    },
-    {
-      "surface": "איש",
-      "english": "cada cual"
-    },
-    {
-      "surface": "תחת",
-      "english": "⟨bajo⟩",
-      "marks": "su vid"
-    },
-    {
-      "surface": "גפנו",
-      "english": "su vid"
-    },
-    {
-      "surface": "ותחת",
-      "english": "⟨bajo⟩",
-      "marks": "su higuera"
-    },
-    {
-      "surface": "תאנתו",
-      "english": "su higuera"
-    },
-    {
-      "surface": "מדן",
-      "english": "desde Dan"
-    },
-    {
-      "surface": "ועד",
-      "english": "hasta"
-    },
-    {
-      "surface": "באר",
-      "english": "Beer-"
-    },
-    {
-      "surface": "שבע",
-      "english": "seba"
-    },
-    {
-      "surface": "כל",
-      "english": "todos los"
-    },
-    {
-      "surface": "ימי",
-      "english": "días de"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomó"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:48:55.683776955Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

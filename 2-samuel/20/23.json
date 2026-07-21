@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "2-samuel 20:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 20,
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:36:54.002828417Z",
+  "translation": "Y Joab ⟨estaba⟩ sobre ⟨el⟩ todo ⟨el⟩ ejército ⟨de⟩ Yisrael, y Benaía ⟨hijo⟩ de Joyadá ⟨estaba⟩ sobre ⟨los⟩ quereteos y sobre ⟨los⟩ pelethios",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Y Joab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨el⟩ todo"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "⟨el⟩ ejército"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "y Benaía"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨hijo⟩"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "de Joyadá"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הכרי",
+      "gloss": "⟨los⟩ quereteos"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "y sobre"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "⟨los⟩ pelethios"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17278,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 17873
-  },
-  "translation": "Y Joab ⟨estaba⟩ sobre ⟨el⟩ todo ⟨el⟩ ejército ⟨de⟩ Yisrael, y Benaía ⟨hijo⟩ de Joyadá ⟨estaba⟩ sobre ⟨los⟩ quereteos y sobre ⟨los⟩ pelethios",
-  "tokens": [
-    {
-      "surface": "ויואב",
-      "english": "Y Joab"
-    },
-    {
-      "surface": "אל",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨el⟩ todo"
-    },
-    {
-      "surface": "הצבא",
-      "english": "⟨el⟩ ejército"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "ובניה",
-      "english": "y Benaía"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨hijo⟩"
-    },
-    {
-      "surface": "יהוידע",
-      "english": "de Joyadá"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הכרי",
-      "english": "⟨los⟩ quereteos"
-    },
-    {
-      "surface": "ועל",
-      "english": "y sobre"
-    },
-    {
-      "surface": "הפלתי",
-      "english": "⟨los⟩ pelethios"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:36:54.002828417Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

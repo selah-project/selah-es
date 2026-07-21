@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 46:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69996,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70390
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:29.779453765Z",
   "translation": "Elohim ⟨está⟩ en medio de ⟨ella⟩; no será movida ⟨en absoluto⟩; Elohim ⟨la⟩ ayudará ⟨justo⟩ ⟨al⟩ amanecer.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בקרבה",
-      "english": "en medio de ⟨ella⟩"
+      "gloss": "en medio de ⟨ella⟩"
     },
     {
       "surface": "בל",
-      "english": "no ⟨en absoluto⟩"
+      "gloss": "no ⟨en absoluto⟩"
     },
     {
       "surface": "תמוט",
-      "english": "será movida"
+      "gloss": "será movida"
     },
     {
       "surface": "יעזרה",
-      "english": "⟨la⟩ ayudará"
+      "gloss": "⟨la⟩ ayudará"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "לפנות",
-      "english": "⟨justo⟩ ⟨al⟩"
+      "gloss": "⟨justo⟩ ⟨al⟩"
     },
     {
       "surface": "בקר",
-      "english": "amanecer"
+      "gloss": "amanecer"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:29.779453765Z",
-  "model": "glm-4.5"
+  ]
 }

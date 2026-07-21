@@ -1,65 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 48:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70000,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70467
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:21:17.230543485Z",
   "translation": "Porque ⟨este⟩ es Elohim, nuestro Elohim, para siempre y ⟨por⟩ siempre; ⟨él⟩ nos guiará sobre ⟨la⟩ muerte.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "זה",
-      "english": "⟨este⟩"
+      "gloss": "⟨este⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אלהינו",
-      "english": "nuestro Elohim"
+      "gloss": "nuestro Elohim"
     },
     {
       "surface": "עולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "ועד",
-      "english": "y ⟨por⟩ siempre"
+      "gloss": "y ⟨por⟩ siempre"
     },
     {
       "surface": "הוא",
-      "english": "⟨él⟩"
+      "gloss": "⟨él⟩"
     },
     {
       "surface": "ינהגנו",
-      "english": "nos guiará",
+      "gloss": "nos guiará",
       "marks": "nos"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מות",
-      "english": "⟨la⟩ muerte"
+      "gloss": "⟨la⟩ muerte"
     }
-  ],
-  "timestamp": "2026-06-09T23:21:17.230543485Z",
-  "model": "glm-4.5"
+  ]
 }

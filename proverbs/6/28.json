@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "proverbs 6:28",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59905,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60290
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:32:33.970066030Z",
   "translation": "¿⟨un⟩ hombre ⟨puede⟩ caminar ⟨sobre⟩ las brasas y sus pies no ⟨quedan⟩ quemados?",
   "tokens": [
     {
       "surface": "אם",
-      "english": "¿⟨Un⟩"
+      "gloss": "¿⟨Un⟩"
     },
     {
       "surface": "יהלך",
-      "english": "⟨puede⟩ caminar"
+      "gloss": "⟨puede⟩ caminar"
     },
     {
       "surface": "איש",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "הגחלים",
-      "english": "las brasas"
+      "gloss": "las brasas"
     },
     {
       "surface": "ורגליו",
-      "english": "y sus pies"
+      "gloss": "y sus pies"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תכוינה",
-      "english": "⟨quedan⟩ quemados"
+      "gloss": "⟨quedan⟩ quemados"
     }
-  ],
-  "timestamp": "2026-06-10T01:32:33.970066030Z",
-  "model": "glm-4.5"
+  ]
 }

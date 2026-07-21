@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 3:24",
   "book": "job",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 455,
-    "prompt_tokens": 27206,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27661
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:57:05.630659718Z",
   "translation": "Porque ⟨mi⟩ suspiro viene ⟨antes⟩ de ⟨mi⟩ pan, y mis rugidos se derraman como las aguas",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לפני",
-      "english": "⟨antes⟩ de"
+      "gloss": "⟨antes⟩ de"
     },
     {
       "surface": "לחמי",
-      "english": "⟨mi⟩ pan"
+      "gloss": "⟨mi⟩ pan"
     },
     {
       "surface": "אנחתי",
-      "english": "⟨mi⟩ suspiro"
+      "gloss": "⟨mi⟩ suspiro"
     },
     {
       "surface": "תבא",
-      "english": "viene"
+      "gloss": "viene"
     },
     {
       "surface": "ויתכו",
-      "english": "y se derraman"
+      "gloss": "y se derraman"
     },
     {
       "surface": "כמים",
-      "english": "como las aguas"
+      "gloss": "como las aguas"
     },
     {
       "surface": "שאגתי",
-      "english": "mis rugidos"
+      "gloss": "mis rugidos"
     }
-  ],
-  "timestamp": "2026-07-16T21:57:05.630659718Z",
-  "model": "glm-4.5"
+  ]
 }

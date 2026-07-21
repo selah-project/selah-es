@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "exodus 3:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 3,
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:23:58.217996443Z",
+  "translation": "Y yo sé que el rey de Mitzráyim no ⟨os⟩ permitirá ⟨את⟩ ir, ni con mano fuerte.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Y yo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "permitirá"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨os⟩",
+      "marks": "el rey de Egipto no permitirá ⟨את⟩ ir"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "con mano"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fuerte"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -13,73 +69,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17044,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17520
-  },
-  "translation": "Y yo sé que el rey de Mitzráyim no ⟨os⟩ permitirá ⟨את⟩ ir, ni con mano fuerte.",
-  "tokens": [
-    {
-      "surface": "ואני",
-      "english": "Y yo"
-    },
-    {
-      "surface": "ידעתי",
-      "english": "sé"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "יתן",
-      "english": "permitirá"
-    },
-    {
-      "surface": "אתכם",
-      "english": "⟨os⟩",
-      "marks": "el rey de Egipto no permitirá ⟨את⟩ ir"
-    },
-    {
-      "surface": "מלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "להלך",
-      "english": "ir"
-    },
-    {
-      "surface": "ולא",
-      "english": "ni"
-    },
-    {
-      "surface": "ביד",
-      "english": "con mano"
-    },
-    {
-      "surface": "חזקה",
-      "english": "fuerte"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:23:58.217996443Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

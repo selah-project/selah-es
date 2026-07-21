@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-kings 4:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 4,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:48:16.720664702Z",
+  "translation": "Yehudá e Israel ⟨son⟩ numerosos como la arena ⟨que está⟩ ⟨en⟩ el mar ⟨por⟩ su multitud, comiendo y bebiendo y alegrándose",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Israel"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "⟨son⟩ numerosos"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "como la arena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que está⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "el mar"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "⟨por⟩ su multitud"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "comiendo"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "y bebiendo"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "y alegrándose"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,68 +64,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62265,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 62713
-  },
-  "translation": "Yehudá e Israel ⟨son⟩ numerosos como la arena ⟨que está⟩ ⟨en⟩ el mar ⟨por⟩ su multitud, comiendo y bebiendo y alegrándose",
-  "tokens": [
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "וישראל",
-      "english": "e Israel"
-    },
-    {
-      "surface": "רבים",
-      "english": "⟨son⟩ numerosos"
-    },
-    {
-      "surface": "כחול",
-      "english": "como la arena"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que está⟩"
-    },
-    {
-      "surface": "על",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "הים",
-      "english": "el mar"
-    },
-    {
-      "surface": "לרב",
-      "english": "⟨por⟩ su multitud"
-    },
-    {
-      "surface": "אכלים",
-      "english": "comiendo"
-    },
-    {
-      "surface": "ושתים",
-      "english": "y bebiendo"
-    },
-    {
-      "surface": "ושמחים",
-      "english": "y alegrándose"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:48:16.720664702Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

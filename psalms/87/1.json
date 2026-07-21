@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 87:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 87,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69829,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70240
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:02.832173209Z",
   "translation": "A los hijos de Qoraj. Mizmór. Shir. ⟨el⟩ fundamento ⟨de⟩ Él ⟨está⟩ en ⟨las⟩ montañas santas.",
   "tokens": [
     {
       "surface": "לבני",
-      "english": "A los hijos de"
+      "gloss": "A los hijos de"
     },
     {
       "surface": "קרח",
-      "english": "Qoraj"
+      "gloss": "Qoraj"
     },
     {
       "surface": "מזמור",
-      "english": "Mizmór"
+      "gloss": "Mizmór"
     },
     {
       "surface": "שיר",
-      "english": "Shir"
+      "gloss": "Shir"
     },
     {
       "surface": "יסודתו",
-      "english": "⟨el⟩ fundamento ⟨de⟩ Él"
+      "gloss": "⟨el⟩ fundamento ⟨de⟩ Él"
     },
     {
       "surface": "בהררי",
-      "english": "en ⟨las⟩"
+      "gloss": "en ⟨las⟩"
     },
     {
       "surface": "קדש",
-      "english": "montañas santas"
+      "gloss": "montañas santas"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:02.832173209Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-samuel 12:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 12,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:26:31.225328857Z",
+  "translation": "Y Davidd se levantó de ⟨la⟩ tierra, y se lavó, y se ungió, y cambió sus vestidos, y entró en ⟨la⟩ casa de YHWH, y se postró, y entró en su casa, y preguntó, y pusieron ante él pan, y comió.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Y David se levantó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "de ⟨la⟩ tierra"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "y se lavó"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "y se ungió"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "y cambió"
+    },
+    {
+      "surface": "שמלתו",
+      "gloss": "sus vestidos"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "y entró"
+    },
+    {
+      "surface": "בית",
+      "gloss": "en ⟨la⟩ casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "y se postró"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "y entró"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "su casa"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "y preguntó"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "y pusieron"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ante él"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "y comió"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,100 +96,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 623,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18004,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 18627
-  },
-  "translation": "Y Davidd se levantó de ⟨la⟩ tierra, y se lavó, y se ungió, y cambió sus vestidos, y entró en ⟨la⟩ casa de YHWH, y se postró, y entró en su casa, y preguntó, y pusieron ante él pan, y comió.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Y David se levantó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "מהארץ",
-      "english": "de ⟨la⟩ tierra"
-    },
-    {
-      "surface": "וירחץ",
-      "english": "y se lavó"
-    },
-    {
-      "surface": "ויסך",
-      "english": "y se ungió"
-    },
-    {
-      "surface": "ויחלף",
-      "english": "y cambió"
-    },
-    {
-      "surface": "שמלתו",
-      "english": "sus vestidos"
-    },
-    {
-      "surface": "ויבא",
-      "english": "y entró"
-    },
-    {
-      "surface": "בית",
-      "english": "en ⟨la⟩ casa"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "וישתחו",
-      "english": "y se postró"
-    },
-    {
-      "surface": "ויבא",
-      "english": "y entró"
-    },
-    {
-      "surface": "אל",
-      "english": "en"
-    },
-    {
-      "surface": "ביתו",
-      "english": "su casa"
-    },
-    {
-      "surface": "וישאל",
-      "english": "y preguntó"
-    },
-    {
-      "surface": "וישימו",
-      "english": "y pusieron"
-    },
-    {
-      "surface": "לו",
-      "english": "ante él"
-    },
-    {
-      "surface": "לחם",
-      "english": "pan"
-    },
-    {
-      "surface": "ויאכל",
-      "english": "y comió"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:26:31.225328857Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

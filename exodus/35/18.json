@@ -1,56 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "exodus 35:18",
   "book": "exodus",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 454,
-    "prompt_tokens": 24179,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24633
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:26:03.450968938Z",
   "translation": "⟨את⟩ las estacas del Mishkán, y ⟨את⟩ las estacas del patio, y ⟨את⟩ las cuerdas de ellos",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las estacas"
     },
     {
       "surface": "יתדת",
-      "english": "las estacas"
+      "gloss": "las estacas"
     },
     {
       "surface": "המשכן",
-      "english": "del Mishkán"
+      "gloss": "del Mishkán"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "las estacas"
     },
     {
       "surface": "יתדת",
-      "english": "las estacas"
+      "gloss": "las estacas"
     },
     {
       "surface": "החצר",
-      "english": "del patio"
+      "gloss": "del patio"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "las cuerdas"
     },
     {
       "surface": "מיתריהם",
-      "english": "las cuerdas de ellos"
+      "gloss": "las cuerdas de ellos"
     }
-  ],
-  "timestamp": "2026-07-16T20:26:03.450968938Z",
-  "model": "glm-4.5"
+  ]
 }

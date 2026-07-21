@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "numbers 1:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 1,
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:07:00.525466507Z",
+  "translation": "De los hijos de Zevulún, ⟨las⟩ generaciones de ellos, ⟨las⟩ familias de ellos, ⟨a la⟩ casa de sus padres, ⟨en⟩ número de nombres, de hijo de veinte años y arriba, todo ⟨el que⟩ sale ⟨a⟩ ⟨el⟩ ejército:",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "De los hijos"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "de Zevulún"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "⟨las⟩ generaciones de ellos"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨las⟩ familias de ellos"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨a la⟩ casa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de sus padres"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "⟨en⟩ número"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "de nombres"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "de hijo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "de veinte"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "y arriba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "י�צא",
+      "gloss": "⟨el que⟩ sale"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨a⟩ ⟨el⟩ ejército"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Zabulón",
@@ -13,84 +80,6 @@
       "hebrew": "זבולן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18458,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 19041
-  },
-  "translation": "De los hijos de Zevulún, ⟨las⟩ generaciones de ellos, ⟨las⟩ familias de ellos, ⟨a la⟩ casa de sus padres, ⟨en⟩ número de nombres, de hijo de veinte años y arriba, todo ⟨el que⟩ sale ⟨a⟩ ⟨el⟩ ejército:",
-  "tokens": [
-    {
-      "surface": "לבני",
-      "english": "De los hijos"
-    },
-    {
-      "surface": "זבולן",
-      "english": "de Zevulún"
-    },
-    {
-      "surface": "תולדתם",
-      "english": "⟨las⟩ generaciones de ellos"
-    },
-    {
-      "surface": "למשפחתם",
-      "english": "⟨las⟩ familias de ellos"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨a la⟩ casa"
-    },
-    {
-      "surface": "אבתם",
-      "english": "de sus padres"
-    },
-    {
-      "surface": "במספר",
-      "english": "⟨en⟩ número"
-    },
-    {
-      "surface": "שמת",
-      "english": "de nombres"
-    },
-    {
-      "surface": "מבן",
-      "english": "de hijo"
-    },
-    {
-      "surface": "עשרים",
-      "english": "de veinte"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "ומעלה",
-      "english": "y arriba"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "י�צא",
-      "english": "⟨el que⟩ sale"
-    },
-    {
-      "surface": "צבא",
-      "english": "⟨a⟩ ⟨el⟩ ejército"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:07:00.525466507Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

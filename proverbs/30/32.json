@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "proverbs 30:32",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 657,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59868,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60525
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:38.145113806Z",
   "translation": "Si te has comportado neciamente en hacerte ⟨el⟩ orgulloso, y si has planeado maldad, ⟨la⟩ mano ⟨a⟩ ⟨la⟩ boca.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si",
+      "gloss": "Si",
       "rationale": "Introduce una condición"
     },
     {
       "surface": "נבלת",
-      "english": "te has comportado neciamente",
+      "gloss": "te has comportado neciamente",
       "rationale": "Del verbo נבל (nabal), ser necio, insensato"
     },
     {
       "surface": "בהתנשא",
-      "english": "en hacerte ⟨el⟩ orgulloso",
+      "gloss": "en hacerte ⟨el⟩ orgulloso",
       "rationale": "Del hitpael de נשא (nasa), levantarse, ensalzarse. Requiere ⟨el⟩ en español."
     },
     {
       "surface": "ואם",
-      "english": "y si",
+      "gloss": "y si",
       "rationale": "Introduce una segunda condición con 'y'"
     },
     {
       "surface": "זמות",
-      "english": "has planeado maldad",
+      "gloss": "has planeado maldad",
       "rationale": "Del verbe זמם (zamam), planear, tramar, idear; generalmente en mal sentido. 'Maldad' en lugar de 'mal' por connotación."
     },
     {
       "surface": "יד",
-      "english": "⟨la⟩ mano",
+      "gloss": "⟨la⟩ mano",
       "rationale": "Requiere artículo definido ⟨la⟩ en español."
     },
     {
       "surface": "לפה",
-      "english": "⟨a⟩ ⟨la⟩ boca",
+      "gloss": "⟨a⟩ ⟨la⟩ boca",
       "rationale": "La preposición ל (l) se traduce como 'a' indicando dirección. 'Boca' requiere ⟨la⟩."
     }
-  ],
-  "timestamp": "2026-06-10T01:52:38.145113806Z",
-  "model": "glm-4.5"
+  ]
 }

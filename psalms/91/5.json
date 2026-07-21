@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 91:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69865,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70266
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:49.683381784Z",
   "translation": "No temerás ⟨el⟩ terror de ⟨la⟩ noche, ni de ⟨la⟩ flecha que vuele de día",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תירא",
-      "english": "temerás"
+      "gloss": "temerás"
     },
     {
       "surface": "מפחד",
-      "english": "⟨el⟩ terror"
+      "gloss": "⟨el⟩ terror"
     },
     {
       "surface": "לילה",
-      "english": "de ⟨la⟩ noche"
+      "gloss": "de ⟨la⟩ noche"
     },
     {
       "surface": "מחץ",
-      "english": "ni de ⟨la⟩ flecha"
+      "gloss": "ni de ⟨la⟩ flecha"
     },
     {
       "surface": "יעוף",
-      "english": "que vuele"
+      "gloss": "que vuele"
     },
     {
       "surface": "יומם",
-      "english": "de día"
+      "gloss": "de día"
     }
-  ],
-  "timestamp": "2026-06-09T23:44:49.683381784Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "song-of-songs 5:15",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27811,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 28244
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:37:42.607471707Z",
   "translation": "Sus piernas ⟨son⟩ columnas de mármol, fundadas sobre pedestales de oro puro; su apariencia ⟨es⟩ como el Líbano, escogido ⟨como⟩ los cedros.",
   "tokens": [
     {
       "surface": "שוקיו",
-      "english": "Sus piernas"
+      "gloss": "Sus piernas"
     },
     {
       "surface": "עמודי",
-      "english": "columnas"
+      "gloss": "columnas"
     },
     {
       "surface": "שש",
-      "english": "de mármol"
+      "gloss": "de mármol"
     },
     {
       "surface": "מיסדים",
-      "english": "fundadas"
+      "gloss": "fundadas"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "אדני",
-      "english": "pedestales"
+      "gloss": "pedestales"
     },
     {
       "surface": "פז",
-      "english": "de oro puro"
+      "gloss": "de oro puro"
     },
     {
       "surface": "מראהו",
-      "english": "su apariencia"
+      "gloss": "su apariencia"
     },
     {
       "surface": "כלבנון",
-      "english": "como el Líbano"
+      "gloss": "como el Líbano"
     },
     {
       "surface": "בחור",
-      "english": "escogido ⟨como⟩"
+      "gloss": "escogido ⟨como⟩"
     },
     {
       "surface": "כארזים",
-      "english": "los cedros"
+      "gloss": "los cedros"
     }
-  ],
-  "timestamp": "2026-06-09T22:37:42.607471707Z",
-  "model": "glm-4.5"
+  ]
 }

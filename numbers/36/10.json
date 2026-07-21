@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 36:10",
   "book": "numbers",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 321,
-    "prompt_tokens": 25311,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25632
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:15:01.136916392Z",
   "translation": "Como YHWH ⟨את⟩ Moshé ordenó, así hicieron las hijas de Tzlofjad:",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "english": "ordenó"
+      "gloss": "ordenó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "עשו",
-      "english": "hicieron"
+      "gloss": "hicieron"
     },
     {
       "surface": "בנות",
-      "english": "las hijas de"
+      "gloss": "las hijas de"
     },
     {
       "surface": "צלפחד",
-      "english": "Tzlofjad"
+      "gloss": "Tzlofjad"
     }
-  ],
-  "timestamp": "2026-07-16T23:15:01.136916392Z",
-  "model": "glm-4.5"
+  ]
 }

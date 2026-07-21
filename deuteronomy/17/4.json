@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "deuteronomy 17:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 17,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:04:31.080552511Z",
+  "translation": "y ⟨es⟩ dicho a ti, y tú ⟨has⟩ oído, y buscaste con diligencia, y ⟨he aquí⟩ ⟨es⟩ Emet ⟨lo⟩ establecido, hecho ⟨está⟩ la abominación esta en Israel",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "Y ⟨es⟩ dicho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "y tú ⟨has⟩ oído"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "y buscaste"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "con diligencia"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "y ⟨he aquí⟩"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨es⟩ Emet"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨lo⟩ establecido"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hecho"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "⟨está⟩"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "la abominación"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "esta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "verdad",
@@ -13,76 +72,6 @@
       "hebrew": "אמת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17787,
-    "prompt_tokens_details": {
-      "cached_tokens": 16232
-    },
-    "total_tokens": 18325
-  },
-  "translation": "y ⟨es⟩ dicho a ti, y tú ⟨has⟩ oído, y buscaste con diligencia, y ⟨he aquí⟩ ⟨es⟩ Emet ⟨lo⟩ establecido, hecho ⟨está⟩ la abominación esta en Israel",
-  "tokens": [
-    {
-      "surface": "והגד",
-      "english": "Y ⟨es⟩ dicho"
-    },
-    {
-      "surface": "לך",
-      "english": "a ti"
-    },
-    {
-      "surface": "ושמעת",
-      "english": "y tú ⟨has⟩ oído"
-    },
-    {
-      "surface": "ודרשת",
-      "english": "y buscaste"
-    },
-    {
-      "surface": "היטב",
-      "english": "con diligencia"
-    },
-    {
-      "surface": "והנה",
-      "english": "y ⟨he aquí⟩"
-    },
-    {
-      "surface": "אמת",
-      "english": "⟨es⟩ Emet"
-    },
-    {
-      "surface": "נכון",
-      "english": "⟨lo⟩ establecido"
-    },
-    {
-      "surface": "הדבר",
-      "english": "hecho"
-    },
-    {
-      "surface": "נעשתה",
-      "english": "⟨está⟩"
-    },
-    {
-      "surface": "התועבה",
-      "english": "la abominación"
-    },
-    {
-      "surface": "הזאת",
-      "english": "esta"
-    },
-    {
-      "surface": "בישראל",
-      "english": "en Israel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:04:31.080552511Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

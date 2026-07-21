@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 144:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70158,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70632
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:11:15.420615364Z",
   "translation": "Nuestros ⟨son⟩ bien cargados, no ⟨hay⟩ irrupción ⟨y⟩ no ⟨hay⟩ salida, ⟨y⟩ no ⟨hay⟩ grito de angustia ⟨en⟩ nuestras plazas ⟨anchas⟩",
   "tokens": [
     {
       "surface": "אלופינו",
-      "english": "Nuestros ⟨son⟩ bien cargados"
+      "gloss": "Nuestros ⟨son⟩ bien cargados"
     },
     {
       "surface": "מסבלים",
-      "english": "bien cargados"
+      "gloss": "bien cargados"
     },
     {
       "surface": "אין",
-      "english": "no ⟨hay⟩"
+      "gloss": "no ⟨hay⟩"
     },
     {
       "surface": "פרץ",
-      "english": "irrupción"
+      "gloss": "irrupción"
     },
     {
       "surface": "ואין",
-      "english": "⟨y⟩ no ⟨hay⟩"
+      "gloss": "⟨y⟩ no ⟨hay⟩"
     },
     {
       "surface": "יוצאת",
-      "english": "salida"
+      "gloss": "salida"
     },
     {
       "surface": "ואין",
-      "english": "⟨y⟩ no ⟨hay⟩"
+      "gloss": "⟨y⟩ no ⟨hay⟩"
     },
     {
       "surface": "צוחה",
-      "english": "grito de angustia"
+      "gloss": "grito de angustia"
     },
     {
       "surface": "ברחבתינו",
-      "english": "⟨en⟩ nuestras plazas ⟨anchas⟩"
+      "gloss": "⟨en⟩ nuestras plazas ⟨anchas⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:11:15.420615364Z",
-  "model": "glm-4.5"
+  ]
 }

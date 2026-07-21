@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 37,
   "ref": "psalms 18:37",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 621,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69758,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70379
-  },
+  "verse": 37,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:41.271870444Z",
   "translation": "Tú amplias ⟨el⟩ paso debajo ⟨de⟩ mí ⟨y⟩ no ⟨mi⟩ tobillo ⟨ha⟩ titubeado",
   "tokens": [
     {
       "surface": "תרחיב",
-      "english": "Tú amplias",
+      "gloss": "Tú amplias",
       "lex": "to broaden",
       "gv": 620,
       "freq": 3,
@@ -28,16 +19,16 @@
     },
     {
       "surface": "צעדי",
-      "english": "⟨el⟩ paso",
+      "gloss": "⟨el⟩ paso",
+      "marks": "paso",
       "lex": "pace\/step",
       "gv": 174,
       "freq": 6,
-      "anagram": "דיעצ",
-      "marks": "paso"
+      "anagram": "דיעצ"
     },
     {
       "surface": "תחתי",
-      "english": "debajo ⟨de⟩ mí",
+      "gloss": "debajo ⟨de⟩ mí",
       "lex": "bottom\/below",
       "gv": 818,
       "freq": 8,
@@ -45,7 +36,7 @@
     },
     {
       "surface": "ולא",
-      "english": "⟨y⟩ no",
+      "gloss": "⟨y⟩ no",
       "lex": "and\/not",
       "gv": 37,
       "freq": 1596,
@@ -53,22 +44,20 @@
     },
     {
       "surface": "מעדו",
-      "english": "⟨mi⟩ tobillo ⟨ha⟩",
+      "gloss": "⟨mi⟩ tobillo ⟨ha⟩",
+      "marks": "tobillo",
       "lex": "waver\/stumble",
       "gv": 120,
       "freq": 2,
-      "anagram": "דומע",
-      "marks": "tobillo"
+      "anagram": "דומע"
     },
     {
       "surface": "קרסלי",
-      "english": "titubeado",
+      "gloss": "titubeado",
       "lex": "ankle",
       "gv": 400,
       "freq": 2,
       "anagram": "ילסקר"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:41.271870444Z",
-  "model": "glm-4.5"
+  ]
 }

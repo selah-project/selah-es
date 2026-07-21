@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "ecclesiastes 9:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 9,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:45:19.579813268Z",
+  "translation": "También ⟨esto⟩ ⟨vi⟩ Jojmá ⟨bajo⟩ ⟨el⟩ ⟨sol⟩ ⟨y⟩ ⟨grande⟩ ⟨es⟩ ⟨a⟩ mí:",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "También"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨esto⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "⟨vi⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨bajo⟩"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨el⟩ ⟨sol⟩"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "⟨y⟩ ⟨grande⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨es⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨a⟩ mí:"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabiduría",
@@ -13,60 +56,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 609,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17147,
-    "prompt_tokens_details": {
-      "cached_tokens": 16042
-    },
-    "total_tokens": 17756
-  },
-  "translation": "También ⟨esto⟩ ⟨vi⟩ Jojmá ⟨bajo⟩ ⟨el⟩ ⟨sol⟩ ⟨y⟩ ⟨grande⟩ ⟨es⟩ ⟨a⟩ mí:",
-  "tokens": [
-    {
-      "surface": "גם",
-      "english": "También"
-    },
-    {
-      "surface": "זה",
-      "english": "⟨esto⟩"
-    },
-    {
-      "surface": "ראיתי",
-      "english": "⟨vi⟩"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "תחת",
-      "english": "⟨bajo⟩"
-    },
-    {
-      "surface": "השמש",
-      "english": "⟨el⟩ ⟨sol⟩"
-    },
-    {
-      "surface": "וגדולה",
-      "english": "⟨y⟩ ⟨grande⟩"
-    },
-    {
-      "surface": "היא",
-      "english": "⟨es⟩"
-    },
-    {
-      "surface": "אלי",
-      "english": "⟨a⟩ mí:"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:45:19.579813268Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 65:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69938,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70392
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:36.000685238Z",
   "translation": "⟨a⟩ tí ⟨el⟩ silencio ⟨es⟩ alabanza ⟨para⟩ Elohim en Tzión; y ⟨a⟩ ti ⟨se⟩ cumplirá ⟨el⟩ voto",
   "tokens": [
     {
       "surface": "לך",
-      "english": "⟨A⟩ tí"
+      "gloss": "⟨A⟩ tí"
     },
     {
       "surface": "דמיה",
-      "english": "⟨el⟩ silencio ⟨es⟩ alabanza"
+      "gloss": "⟨el⟩ silencio ⟨es⟩ alabanza"
     },
     {
       "surface": "תהלה",
-      "english": "alabanza"
+      "gloss": "alabanza"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בציון",
-      "english": "en Tzión"
+      "gloss": "en Tzión"
     },
     {
       "surface": "ולך",
-      "english": "y ⟨a⟩ ti"
+      "gloss": "y ⟨a⟩ ti"
     },
     {
       "surface": "ישלם",
-      "english": "⟨se⟩ cumplirá"
+      "gloss": "⟨se⟩ cumplirá"
     },
     {
       "surface": "נדר",
-      "english": "⟨el⟩ voto"
+      "gloss": "⟨el⟩ voto"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:36.000685238Z",
-  "model": "glm-4.5"
+  ]
 }

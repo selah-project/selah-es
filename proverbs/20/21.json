@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "proverbs 20:21",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59759,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60313
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:43:54.484927709Z",
   "translation": "⟨Una⟩ herencia apresurada en el principio, y su fin no será bendecido ⟨será⟩.",
   "tokens": [
     {
       "surface": "נחלה",
-      "english": "⟨Una⟩ herencia",
+      "gloss": "⟨Una⟩ herencia",
       "gv": 93,
       "freq": 46
     },
     {
       "surface": "מבחלת",
-      "english": "apresurada",
+      "gloss": "apresurada",
       "gv": 480,
       "freq": 1
     },
     {
       "surface": "בראשנה",
-      "english": "en el principio",
+      "gloss": "en el principio",
       "gv": 558,
       "freq": 15
     },
     {
       "surface": "ואחריתה",
-      "english": "y su fin",
+      "gloss": "y su fin",
       "gv": 630,
       "freq": 6
     },
     {
       "surface": "לא",
-      "english": "no",
+      "gloss": "no",
       "gv": 31,
       "freq": 3321
     },
     {
       "surface": "תברך",
-      "english": "será bendecido",
+      "gloss": "será bendecido",
       "gv": 622,
       "freq": 7
     }
-  ],
-  "timestamp": "2026-06-10T01:43:54.484927709Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "psalms 106:27",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 497,
-    "prompt_tokens": 69829,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70326
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:05.867488737Z",
   "translation": "y ⟨para⟩ hacer caer ⟨את⟩ su simiente entre las naciones, y ⟨para⟩ dispersarlos en ⟨las⟩ tierras",
   "tokens": [
     {
       "surface": "ולהפיל",
-      "english": "y ⟨para⟩ hacer caer"
+      "gloss": "y ⟨para⟩ hacer caer"
     },
     {
       "surface": "זרעם",
-      "english": "⟨את⟩ su simiente",
+      "gloss": "⟨את⟩ su simiente",
       "marks": "su simiente"
     },
     {
       "surface": "בגוים",
-      "english": "entre las naciones"
+      "gloss": "entre las naciones"
     },
     {
       "surface": "ולזרותם",
-      "english": "y ⟨para⟩ dispersarlos"
+      "gloss": "y ⟨para⟩ dispersarlos"
     },
     {
       "surface": "בארצות",
-      "english": "en ⟨las⟩ tierras"
+      "gloss": "en ⟨las⟩ tierras"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:05.867488737Z",
-  "model": "glm-4.5"
+  ]
 }

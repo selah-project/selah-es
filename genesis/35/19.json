@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "genesis 35:19",
   "book": "genesis",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28313,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28832
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:33:00.070354431Z",
   "translation": "Y murió Raquel, y ⟨fue⟩ enterrada ⟨en⟩ ⟨el⟩ camino ⟨a⟩ Efrata, que ⟨es⟩ Bet-Léjem",
   "tokens": [
     {
       "surface": "ותמת",
-      "english": "Y murió"
+      "gloss": "Y murió"
     },
     {
       "surface": "רחל",
-      "english": "Raquel"
+      "gloss": "Raquel"
     },
     {
       "surface": "ותקבר",
-      "english": "y ⟨fue⟩ enterrada"
+      "gloss": "y ⟨fue⟩ enterrada"
     },
     {
       "surface": "בדרך",
-      "english": "⟨en⟩ ⟨el⟩ camino"
+      "gloss": "⟨en⟩ ⟨el⟩ camino"
     },
     {
       "surface": "אפרתה",
-      "english": "⟨a⟩ Efrata"
+      "gloss": "⟨a⟩ Efrata"
     },
     {
       "surface": "הוא",
-      "english": "que ⟨es⟩"
+      "gloss": "que ⟨es⟩"
     },
     {
       "surface": "בית",
-      "english": "Bet"
+      "gloss": "Bet"
     },
     {
       "surface": "לחם",
-      "english": "Léjem"
+      "gloss": "Léjem"
     }
-  ],
-  "timestamp": "2026-06-10T05:33:00.070354431Z",
-  "model": "glm-4.5"
+  ]
 }

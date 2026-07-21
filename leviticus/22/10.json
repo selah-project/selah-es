@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "leviticus 22:10",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 598,
-    "prompt_tokens": 24861,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25459
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:43:32.430684954Z",
   "translation": "Y ningún extranjero comerá ⟨de⟩ ⟨lo⟩ qódesh; el residente ⟨del⟩ Kohen, ⟨ni⟩ el asalariado, comerán ⟨de⟩ ⟨lo⟩ qódesh.",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "Y ningún"
+      "gloss": "Y ningún"
     },
     {
       "surface": "זר",
-      "english": "extranjero"
+      "gloss": "extranjero"
     },
     {
       "surface": "לא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יאכל",
-      "english": "comerá"
+      "gloss": "comerá"
     },
     {
       "surface": "קדש",
-      "english": "⟨de⟩ ⟨lo⟩ qódesh"
+      "gloss": "⟨de⟩ ⟨lo⟩ qódesh"
     },
     {
       "surface": "תושב",
-      "english": "el residente"
+      "gloss": "el residente"
     },
     {
       "surface": "כהן",
-      "english": "⟨del⟩ Kohen"
+      "gloss": "⟨del⟩ Kohen"
     },
     {
       "surface": "ושכיר",
-      "english": "⟨ni⟩ el asalariado"
+      "gloss": "⟨ni⟩ el asalariado"
     },
     {
       "surface": "לא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יאכל",
-      "english": "comerán"
+      "gloss": "comerán"
     },
     {
       "surface": "קדש",
-      "english": "⟨de⟩ ⟨lo⟩ qódesh"
+      "gloss": "⟨de⟩ ⟨lo⟩ qódesh"
     }
-  ],
-  "timestamp": "2026-07-16T22:43:32.430684954Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "proverbs 21:22",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59845,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60404
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:43.802103375Z",
   "translation": "Un hombre sabio ⟨asciende⟩ ⟨a⟩ ⟨la⟩ ciudad de los poderosos y ⟨derriba⟩ ⟨la⟩ fortaleza ⟨de⟩ ⟨la⟩ ⟨cual⟩ ⟨se⟩ ⟨fía.",
   "tokens": [
     {
       "surface": "עיר",
-      "english": "La ciudad"
+      "gloss": "La ciudad"
     },
     {
       "surface": "גברים",
-      "english": "de los poderosos"
+      "gloss": "de los poderosos"
     },
     {
       "surface": "עלה",
-      "english": "⟨asciende⟩",
+      "gloss": "⟨asciende⟩",
       "marks": "ciudad de los poderosos"
     },
     {
       "surface": "חכם",
-      "english": "Un hombre sabio"
+      "gloss": "Un hombre sabio"
     },
     {
       "surface": "וירד",
-      "english": "y ⟨derriba⟩"
+      "gloss": "y ⟨derriba⟩"
     },
     {
       "surface": "עז",
-      "english": "⟨la⟩ fortaleza"
+      "gloss": "⟨la⟩ fortaleza"
     },
     {
       "surface": "מבטחה",
-      "english": "⟨de⟩ ⟨la⟩ ⟨cual⟩ ⟨se⟩ ⟨fía"
+      "gloss": "⟨de⟩ ⟨la⟩ ⟨cual⟩ ⟨se⟩ ⟨fía"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:43.802103375Z",
-  "model": "glm-4.5"
+  ]
 }

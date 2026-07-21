@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-kings 14:20",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 24191,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 24626
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:12:10.212822246Z",
   "translation": "Y llevaron ⟨lo⟩ ⟨את⟩ sobre los caballos y fue sepultado en Yerushalayim con sus padres en la ciudad de David",
   "tokens": [
     {
       "surface": "וישאו",
-      "english": "Y llevaron"
+      "gloss": "Y llevaron"
     },
     {
       "surface": "אתו",
-      "english": "⟨lo⟩",
+      "gloss": "⟨lo⟩",
       "marks": "sobre los caballos"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הסוסים",
-      "english": "los caballos"
+      "gloss": "los caballos"
     },
     {
       "surface": "ויקבר",
-      "english": "y fue sepultado"
+      "gloss": "y fue sepultado"
     },
     {
       "surface": "בירושלם",
-      "english": "en Yerushalayim"
+      "gloss": "en Yerushalayim"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "אבתיו",
-      "english": "sus padres"
+      "gloss": "sus padres"
     },
     {
       "surface": "בעיר",
-      "english": "en la ciudad"
+      "gloss": "en la ciudad"
     },
     {
       "surface": "דוד",
-      "english": "de David"
+      "gloss": "de David"
     }
-  ],
-  "timestamp": "2026-07-16T19:12:10.212822246Z",
-  "model": "glm-4.5"
+  ]
 }

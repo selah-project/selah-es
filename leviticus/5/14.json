@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "leviticus 5:14",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 298,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24142,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 24440
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:34:29.379461288Z",
   "translation": "Y YHWH habló a Moshé, ⟨diciendo⟩",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Y habló",
+      "gloss": "Y habló",
       "marks": ""
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "marks": ""
     },
     {
       "surface": "אל",
-      "english": "a",
+      "gloss": "a",
       "marks": "Moshé"
     },
     {
       "surface": "משה",
-      "english": "Moshé",
+      "gloss": "Moshé",
       "marks": ""
     },
     {
       "surface": "לאמר",
-      "english": "⟨diciendo⟩",
+      "gloss": "⟨diciendo⟩",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T04:34:29.379461288Z",
-  "model": "glm-4.5"
+  ]
 }

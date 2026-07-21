@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 55:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 334,
-    "prompt_tokens": 69885,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70219
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:17.903886142Z",
   "translation": "Yo, a Elohim clamaré, y YHWH ⟨me⟩ salvará.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אקרא",
-      "english": "clamaré"
+      "gloss": "clamaré"
     },
     {
       "surface": "ויהוה",
-      "english": "y YHWH"
+      "gloss": "y YHWH"
     },
     {
       "surface": "יושיעני",
-      "english": "salvará"
+      "gloss": "salvará"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:17.903886142Z",
-  "model": "glm-4.5"
+  ]
 }

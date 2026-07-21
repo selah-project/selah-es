@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 123:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 123,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69952,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70382
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:04:10.721244873Z",
   "translation": "⟨Está⟩ abundantemente satisfecha nuestra alma ⟨con⟩ el escarnio ⟨de los⟩ que ⟨están⟩ en seguridad, y ⟨con⟩ el desprecio ⟨de los⟩ soberbios.",
   "tokens": [
     {
       "surface": "רבת",
-      "english": "⟨Está⟩ abundantemente"
+      "gloss": "⟨Está⟩ abundantemente"
     },
     {
       "surface": "שבעה",
-      "english": "satisfecha"
+      "gloss": "satisfecha"
     },
     {
       "surface": "לה",
-      "english": "⟨con⟩"
+      "gloss": "⟨con⟩"
     },
     {
       "surface": "נפשנו",
-      "english": "nuestra alma"
+      "gloss": "nuestra alma"
     },
     {
       "surface": "הלעג",
-      "english": "⟨con⟩ el escarnio"
+      "gloss": "⟨con⟩ el escarnio"
     },
     {
       "surface": "השאננים",
-      "english": "⟨de los⟩ que ⟨están⟩ en seguridad"
+      "gloss": "⟨de los⟩ que ⟨están⟩ en seguridad"
     },
     {
       "surface": "הבוז",
-      "english": "⟨con⟩ el desprecio"
+      "gloss": "⟨con⟩ el desprecio"
     },
     {
       "surface": "לגאיונים",
-      "english": "⟨de los⟩ soberbios"
+      "gloss": "⟨de los⟩ soberbios"
     }
-  ],
-  "timestamp": "2026-06-10T00:04:10.721244873Z",
-  "model": "glm-4.5"
+  ]
 }

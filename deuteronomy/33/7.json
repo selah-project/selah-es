@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "deuteronomy 33:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 33,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:30:56.401571081Z",
+  "translation": "Y esto ⟨es⟩ para Yehudá, y él dijo: Escucha, oh YHWH, la voz de Yehudá, y ⟨a⟩ su pueblo tráelo; sus manos contenderán ⟨por⟩ él, y ⟨un⟩ ayuda ⟨de⟩ sus adversarios tú serás.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Y esto"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "⟨es⟩ para Judá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y él dijo:"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Escucha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "oh YHWH"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voz"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "y ⟨a⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su pueblo"
+    },
+    {
+      "surface": "תביאנו",
+      "gloss": "tráelo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sus manos"
+    },
+    {
+      "surface": "רב",
+      "gloss": "contenderán"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨por⟩ él"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "y ⟨un⟩ ayuda"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "⟨de⟩ sus adversarios"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tú serás"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,88 +84,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 786,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18099,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 18885
-  },
-  "translation": "Y esto ⟨es⟩ para Yehudá, y él dijo: Escucha, oh YHWH, la voz de Yehudá, y ⟨a⟩ su pueblo tráelo; sus manos contenderán ⟨por⟩ él, y ⟨un⟩ ayuda ⟨de⟩ sus adversarios tú serás.",
-  "tokens": [
-    {
-      "surface": "וזאת",
-      "english": "Y esto"
-    },
-    {
-      "surface": "ליהודה",
-      "english": "⟨es⟩ para Judá"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y él dijo:"
-    },
-    {
-      "surface": "שמע",
-      "english": "Escucha"
-    },
-    {
-      "surface": "יהוה",
-      "english": "oh YHWH"
-    },
-    {
-      "surface": "קול",
-      "english": "la voz"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ואל",
-      "english": "y ⟨a⟩"
-    },
-    {
-      "surface": "עמו",
-      "english": "su pueblo"
-    },
-    {
-      "surface": "תביאנו",
-      "english": "tráelo"
-    },
-    {
-      "surface": "ידיו",
-      "english": "sus manos"
-    },
-    {
-      "surface": "רב",
-      "english": "contenderán"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨por⟩ él"
-    },
-    {
-      "surface": "ועזר",
-      "english": "y ⟨un⟩ ayuda"
-    },
-    {
-      "surface": "מצריו",
-      "english": "⟨de⟩ sus adversarios"
-    },
-    {
-      "surface": "תהיה",
-      "english": "tú serás"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:30:56.401571081Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

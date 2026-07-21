@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "joshua 15:20",
   "book": "joshua",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23204,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23512
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:18:22.123601096Z",
   "translation": "Esta ⟨es⟩ ⟨la⟩ herencia de ⟨la⟩ tribu de ⟨los⟩ hijos de Judá según sus familias",
   "tokens": [
     {
       "surface": "זאת",
-      "english": "Esta"
+      "gloss": "Esta"
     },
     {
       "surface": "נחלת",
-      "english": "herencia"
+      "gloss": "herencia"
     },
     {
       "surface": "מטה",
-      "english": "tribu"
+      "gloss": "tribu"
     },
     {
       "surface": "בני",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "יהודה",
-      "english": "Judá"
+      "gloss": "Judá"
     },
     {
       "surface": "למשפחתם",
-      "english": "según sus familias"
+      "gloss": "según sus familias"
     }
-  ],
-  "timestamp": "2026-06-10T01:18:22.123601096Z",
-  "model": "glm-4.5"
+  ]
 }

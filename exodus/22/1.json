@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 22:1",
   "book": "exodus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 548,
-    "prompt_tokens": 24094,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24642
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:17:44.254673567Z",
   "translation": "Si ⟨el⟩ ladrón ⟨es⟩ hallado ⟨en⟩ la ruptura y ⟨es⟩ herido y muerto, no hay sangre para él",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "במחתרת",
-      "english": "⟨en⟩ la ruptura"
+      "gloss": "⟨en⟩ la ruptura"
     },
     {
       "surface": "ימצא",
-      "english": "⟨es⟩ hallado"
+      "gloss": "⟨es⟩ hallado"
     },
     {
       "surface": "הגנב",
-      "english": "⟨el⟩ ladrón"
+      "gloss": "⟨el⟩ ladrón"
     },
     {
       "surface": "והכה",
-      "english": "y ⟨es⟩ herido"
+      "gloss": "y ⟨es⟩ herido"
     },
     {
       "surface": "ומת",
-      "english": "y muerto"
+      "gloss": "y muerto"
     },
     {
       "surface": "אין",
-      "english": "no hay"
+      "gloss": "no hay"
     },
     {
       "surface": "לו",
-      "english": "para él"
+      "gloss": "para él"
     },
     {
       "surface": "דמים",
-      "english": "sangre"
+      "gloss": "sangre"
     }
-  ],
-  "timestamp": "2026-07-16T20:17:44.254673567Z",
-  "model": "glm-4.5"
+  ]
 }

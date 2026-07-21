@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 107:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69811,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70225
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:09.810228892Z",
   "translation": "⟨Los⟩ que se sientan en la oscuridad y ⟨la⟩ sombra de muerte, prisioneros ⟨de⟩ aflicción y ⟨de⟩ hierro,",
   "tokens": [
     {
       "surface": "ישבי",
-      "english": "⟨Los⟩ que se sientan"
+      "gloss": "⟨Los⟩ que se sientan"
     },
     {
       "surface": "חשך",
-      "english": "en la oscuridad"
+      "gloss": "en la oscuridad"
     },
     {
       "surface": "וצלמות",
-      "english": "y ⟨la⟩ sombra de muerte"
+      "gloss": "y ⟨la⟩ sombra de muerte"
     },
     {
       "surface": "אסירי",
-      "english": "prisioneros"
+      "gloss": "prisioneros"
     },
     {
       "surface": "עני",
-      "english": "⟨de⟩ aflicción"
+      "gloss": "⟨de⟩ aflicción"
     },
     {
       "surface": "וברזל",
-      "english": "y ⟨de⟩ hierro"
+      "gloss": "y ⟨de⟩ hierro"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:09.810228892Z",
-  "model": "glm-4.5"
+  ]
 }

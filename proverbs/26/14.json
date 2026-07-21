@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "proverbs 26:14",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59834,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60323
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:48:08.698371381Z",
   "translation": "La puerta ⟨gira⟩ sobre su bisagra, ⟨y⟩ el perezoso ⟨gira⟩ sobre su cama",
   "tokens": [
     {
       "surface": "הדלת",
-      "english": "La puerta"
+      "gloss": "La puerta"
     },
     {
       "surface": "תסוב",
-      "english": "⟨gira⟩"
+      "gloss": "⟨gira⟩"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "צירה",
-      "english": "su bisagra"
+      "gloss": "su bisagra"
     },
     {
       "surface": "ועצל",
-      "english": "⟨y⟩ el perezoso"
+      "gloss": "⟨y⟩ el perezoso"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מטתו",
-      "english": "su cama"
+      "gloss": "su cama"
     }
-  ],
-  "timestamp": "2026-06-10T01:48:08.698371381Z",
-  "model": "glm-4.5"
+  ]
 }

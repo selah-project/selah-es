@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-chronicles 1:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 1,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:00:52.098511445Z",
+  "translation": "Y Shelomah dijo a Elohim: ⟨Tú⟩ has hecho con Davidd mi padre un ⟨hesed⟩ grande y has hecho reinar ⟨en⟩ mi lugar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y Shelomah dijo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨Tú⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "has hecho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mi padre"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "⟨hesed⟩"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "y has hecho reinar"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨en⟩ mi lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,72 +68,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58117,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58620
-  },
-  "translation": "Y Shelomah dijo a Elohim: ⟨Tú⟩ has hecho con Davidd mi padre un ⟨hesed⟩ grande y has hecho reinar ⟨en⟩ mi lugar.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y Shelomah dijo"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomah"
-    },
-    {
-      "surface": "לאלהים",
-      "english": "a Elohim"
-    },
-    {
-      "surface": "אתה",
-      "english": "⟨Tú⟩"
-    },
-    {
-      "surface": "עשית",
-      "english": "has hecho"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אבי",
-      "english": "mi padre"
-    },
-    {
-      "surface": "חסד",
-      "english": "⟨hesed⟩"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande"
-    },
-    {
-      "surface": "והמלכתני",
-      "english": "y has hecho reinar"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "⟨en⟩ mi lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:00:52.098511445Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "2-samuel 2:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 2,
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:17:09.864949378Z",
+  "translation": "Y Joab tocó ⟨el⟩ shofar, y todo el pueblo se detuvo, y no persiguieron más a Yisrael, y no añadieron más para pelear.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "Y tocó"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "⟨el⟩ shofar"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "y se detuvieron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "el pueblo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "persiguieron"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "más"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "añadieron"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "más"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "para pelear"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17501,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 18001
-  },
-  "translation": "Y Joab tocó ⟨el⟩ shofar, y todo el pueblo se detuvo, y no persiguieron más a Yisrael, y no añadieron más para pelear.",
-  "tokens": [
-    {
-      "surface": "ויתקע",
-      "english": "Y tocó"
-    },
-    {
-      "surface": "יואב",
-      "english": "Joab"
-    },
-    {
-      "surface": "בשופר",
-      "english": "⟨el⟩ shofar"
-    },
-    {
-      "surface": "ויעמדו",
-      "english": "y se detuvieron"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "העם",
-      "english": "el pueblo"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "ירדפו",
-      "english": "persiguieron"
-    },
-    {
-      "surface": "עוד",
-      "english": "más"
-    },
-    {
-      "surface": "אחרי",
-      "english": "a"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "יספו",
-      "english": "añadieron"
-    },
-    {
-      "surface": "עוד",
-      "english": "más"
-    },
-    {
-      "surface": "להלחם",
-      "english": "para pelear"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:17:09.864949378Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

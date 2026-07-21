@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "isaiah 42:23",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25985,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26425
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:47:30.363248043Z",
   "translation": "¿Quién ⟨de⟩ vosotros escuchará ⟨esto⟩? Prestará atención y ⟨se⟩ ⟨prestará⟩ ⟨oído⟩ para ⟨lo⟩ ⟨que⟩ ⟨viene⟩ ⟨después⟩",
   "tokens": [
     {
       "surface": "מי",
-      "english": "Quién"
+      "gloss": "Quién"
     },
     {
       "surface": "בכם",
-      "english": "⟨de⟩ vosotros"
+      "gloss": "⟨de⟩ vosotros"
     },
     {
       "surface": "יאזין",
-      "english": "escuchará"
+      "gloss": "escuchará"
     },
     {
       "surface": "זאת",
-      "english": "⟨esto⟩"
+      "gloss": "⟨esto⟩"
     },
     {
       "surface": "יקשב",
-      "english": "Prestará atención"
+      "gloss": "Prestará atención"
     },
     {
       "surface": "וישמע",
-      "english": "⟨se⟩ ⟨prestará⟩ ⟨oído⟩"
+      "gloss": "⟨se⟩ ⟨prestará⟩ ⟨oído⟩"
     },
     {
       "surface": "לאחור",
-      "english": "para ⟨lo⟩ ⟨que⟩ ⟨viene⟩ ⟨después⟩"
+      "gloss": "para ⟨lo⟩ ⟨que⟩ ⟨viene⟩ ⟨después⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:47:30.363248043Z",
-  "model": "glm-4.5"
+  ]
 }

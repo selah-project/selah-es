@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 19:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26074,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26530
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:31:50.632974210Z",
   "translation": "Y serán ⟨quien⟩ bases ⟨de⟩ ellas ⟨son⟩ quebrantados; todos ⟨los⟩ que hacen salarios ⟨están⟩ afligidos en alma.",
   "tokens": [
     {
       "surface": "והיו",
-      "english": "Y serán"
+      "gloss": "Y serán"
     },
     {
       "surface": "שתתיה",
-      "english": "⟨quien⟩ bases ⟨de⟩ ellas",
+      "gloss": "⟨quien⟩ bases ⟨de⟩ ellas",
       "marks": "sus bases"
     },
     {
       "surface": "מדכאים",
-      "english": "⟨son⟩ quebrantados"
+      "gloss": "⟨son⟩ quebrantados"
     },
     {
       "surface": "כל",
-      "english": "todos ⟨los⟩"
+      "gloss": "todos ⟨los⟩"
     },
     {
       "surface": "עשי",
-      "english": "que hacen"
+      "gloss": "que hacen"
     },
     {
       "surface": "שכר",
-      "english": "salarios"
+      "gloss": "salarios"
     },
     {
       "surface": "אגמי",
-      "english": "⟨están⟩ afligidos"
+      "gloss": "⟨están⟩ afligidos"
     },
     {
       "surface": "נפש",
-      "english": "en alma"
+      "gloss": "en alma"
     }
-  ],
-  "timestamp": "2026-06-10T02:31:50.632974210Z",
-  "model": "glm-4.5"
+  ]
 }

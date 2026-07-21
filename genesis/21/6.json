@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 21:6",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28453,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28852
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:17:25.246392065Z",
   "translation": "Y Sarah dijo ⟨el⟩ Elohim ⟨ha⟩ hecho risa para mí; todo ⟨el⟩ que oye ⟨está⟩ riendo conmigo",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "Y Sarah dijo"
+      "gloss": "Y Sarah dijo"
     },
     {
       "surface": "שרה",
-      "english": "Sarah"
+      "gloss": "Sarah"
     },
     {
       "surface": "צחק",
-      "english": "risa"
+      "gloss": "risa"
     },
     {
       "surface": "עשה",
-      "english": "⟨el⟩ Elohim ⟨ha⟩ hecho"
+      "gloss": "⟨el⟩ Elohim ⟨ha⟩ hecho"
     },
     {
       "surface": "לי",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "השמע",
-      "english": "⟨el⟩ que oye"
+      "gloss": "⟨el⟩ que oye"
     },
     {
       "surface": "יצחק",
-      "english": "⟨está⟩ riendo"
+      "gloss": "⟨está⟩ riendo"
     },
     {
       "surface": "לי",
-      "english": "conmigo"
+      "gloss": "conmigo"
     }
-  ],
-  "timestamp": "2026-06-10T05:17:25.246392065Z",
-  "model": "glm-4.5"
+  ]
 }

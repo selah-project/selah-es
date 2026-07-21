@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 60:8",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26027,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26406
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:58:19.280949437Z",
   "translation": "¿Quienes ⟨son⟩ estos ⟨que⟩ vuelan como nube y ⟨como⟩ palomas ⟨a⟩ ⟨sus⟩ ventanillas?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quienes"
+      "gloss": "¿Quienes"
     },
     {
       "surface": "אלה",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "כעב",
-      "english": "como nube"
+      "gloss": "como nube"
     },
     {
       "surface": "תעופינה",
-      "english": "vuelan"
+      "gloss": "vuelan"
     },
     {
       "surface": "וכיונים",
-      "english": "⟨como⟩ palomas"
+      "gloss": "⟨como⟩ palomas"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "ארבתיהם",
-      "english": "⟨sus⟩ ventanillas"
+      "gloss": "⟨sus⟩ ventanillas"
     }
-  ],
-  "timestamp": "2026-06-10T02:58:19.280949437Z",
-  "model": "glm-4.5"
+  ]
 }

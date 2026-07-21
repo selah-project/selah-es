@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "leviticus 19:1",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 201,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24055,
-    "prompt_tokens_details": {
-      "cached_tokens": 23415
-    },
-    "total_tokens": 24256
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:35:57.065311810Z",
   "translation": "Y YHWH habló a Moshé ⟨para⟩ decir",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Y habló"
+      "gloss": "Y habló"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "לאמר",
-      "english": "⟨para⟩ decir"
+      "gloss": "⟨para⟩ decir"
     }
-  ],
-  "timestamp": "2026-06-10T04:35:57.065311810Z",
-  "model": "glm-4.5"
+  ]
 }

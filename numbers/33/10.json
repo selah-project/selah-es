@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 33:10",
   "book": "numbers",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24811,
-    "prompt_tokens_details": {
-      "cached_tokens": 23998
-    },
-    "total_tokens": 25110
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:06:40.325198229Z",
   "translation": "Y partieron de Elim y acamparon ⟨sobre⟩ el ⟨mar⟩ ⟨de⟩ las cañas",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "Y partieron"
+      "gloss": "Y partieron"
     },
     {
       "surface": "מאילם",
-      "english": "de Elim"
+      "gloss": "de Elim"
     },
     {
       "surface": "ויחנו",
-      "english": "y acamparon"
+      "gloss": "y acamparon"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "ים",
-      "english": "⟨mar⟩"
+      "gloss": "⟨mar⟩"
     },
     {
       "surface": "סוף",
-      "english": "⟨de⟩ las cañas"
+      "gloss": "⟨de⟩ las cañas"
     }
-  ],
-  "timestamp": "2026-06-10T05:06:40.325198229Z",
-  "model": "glm-4.5"
+  ]
 }

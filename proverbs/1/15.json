@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 1:15",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59926,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60274
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:27:51.146348671Z",
   "translation": "Hijo mío, no andes ⟨en⟩ ⟨el⟩ camino con ellos; detén tu pie de su senda.",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Hijo mío"
+      "gloss": "Hijo mío"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תלך",
-      "english": "andes"
+      "gloss": "andes"
     },
     {
       "surface": "בדרך",
-      "english": "⟨en⟩ ⟨el⟩ camino"
+      "gloss": "⟨en⟩ ⟨el⟩ camino"
     },
     {
       "surface": "אתם",
-      "english": "con ellos"
+      "gloss": "con ellos"
     },
     {
       "surface": "מנע",
-      "english": "detén"
+      "gloss": "detén"
     },
     {
       "surface": "רגלך",
-      "english": "tu pie"
+      "gloss": "tu pie"
     },
     {
       "surface": "מנתיבתם",
-      "english": "de su senda"
+      "gloss": "de su senda"
     }
-  ],
-  "timestamp": "2026-06-10T01:27:51.146348671Z",
-  "model": "glm-4.5"
+  ]
 }

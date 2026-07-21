@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 18:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 391,
-    "prompt_tokens": 59868,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60259
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:20:34.167085246Z",
   "translation": "Quien ⟨se⟩ separa, busca su propio deseo; ⟨y⟩ contra todo discernimiento se rebela.",
   "tokens": [
     {
       "surface": "לתאוה",
-      "english": "su propio deseo"
+      "gloss": "su propio deseo"
     },
     {
       "surface": "יבקש",
-      "english": "busca"
+      "gloss": "busca"
     },
     {
       "surface": "נפרד",
-      "english": "separado"
+      "gloss": "separado"
     },
     {
       "surface": "בכל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "תושיה",
-      "english": "discernimiento"
+      "gloss": "discernimiento"
     },
     {
       "surface": "יתגלע",
-      "english": "se rebela"
+      "gloss": "se rebela"
     }
-  ],
-  "timestamp": "2026-07-16T23:20:34.167085246Z",
-  "model": "glm-4.5"
+  ]
 }

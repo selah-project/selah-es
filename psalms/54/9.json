@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 54:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 337,
-    "prompt_tokens": 69790,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70127
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:19.310752762Z",
   "translation": "Porque de toda angustia ⟨Él⟩ me ha librado, y en mis enemigos ha visto mi ojo.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "מכל",
-      "english": "de toda"
+      "gloss": "de toda"
     },
     {
       "surface": "צרה",
-      "english": "angustia"
+      "gloss": "angustia"
     },
     {
       "surface": "הצילני",
-      "english": "⟨Él⟩ me ha librado"
+      "gloss": "⟨Él⟩ me ha librado"
     },
     {
       "surface": "ובאיבי",
-      "english": "y en mis enemigos"
+      "gloss": "y en mis enemigos"
     },
     {
       "surface": "ראתה",
-      "english": "ha visto"
+      "gloss": "ha visto"
     },
     {
       "surface": "עיני",
-      "english": "mi ojo"
+      "gloss": "mi ojo"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:19.310752762Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 25:5",
   "book": "genesis",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28295,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28580
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:22:02.205120652Z",
   "translation": "Y Abraham ⟨a⟩ dio ⟨todo⟩ lo que ⟨era⟩ suyo ⟨a⟩ Yitzjak",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "Y ... dio"
+      "gloss": "Y ... dio"
     },
     {
       "surface": "אברהם",
-      "english": "Abraham"
+      "gloss": "Abraham"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "todo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "לו",
-      "english": "su"
+      "gloss": "su"
     },
     {
       "surface": "ליצחק",
-      "english": "⟨a⟩ Yitzjak"
+      "gloss": "⟨a⟩ Yitzjak"
     }
-  ],
-  "timestamp": "2026-06-10T05:22:02.205120652Z",
-  "model": "glm-4.5"
+  ]
 }

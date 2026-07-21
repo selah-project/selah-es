@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 14:5",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 478,
-    "prompt_tokens": 24958,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25436
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:39:23.929364462Z",
   "translation": "Y ordenará el kohen y sacrificará ⟨את⟩ el ave la una sobre un vaso de barro sobre aguas vivientes",
   "tokens": [
     {
       "surface": "וצוה",
-      "english": "Y ordenará"
+      "gloss": "Y ordenará"
     },
     {
       "surface": "הכהן",
-      "english": "el kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "ושחט",
-      "english": "y sacrificará"
+      "gloss": "y sacrificará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הצפור האחת"
     },
     {
       "surface": "הצפור",
-      "english": "el ave"
+      "gloss": "el ave"
     },
     {
       "surface": "האחת",
-      "english": "la una"
+      "gloss": "la una"
     },
     {
       "surface": "אל",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "כלי",
-      "english": "un vaso"
+      "gloss": "un vaso"
     },
     {
       "surface": "חרש",
-      "english": "de barro"
+      "gloss": "de barro"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "חיים",
-      "english": "vivientes"
+      "gloss": "vivientes"
     }
-  ],
-  "timestamp": "2026-07-16T22:39:23.929364462Z",
-  "model": "glm-4.5"
+  ]
 }

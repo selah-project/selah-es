@@ -1,82 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "leviticus 11:45",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 640,
-    "prompt_tokens": 25359,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25999
-  },
+  "verse": 45,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:38:11.507958294Z",
   "translation": "Porque yo soy YHWH, ⟨el⟩ que ⟨hizo subir⟩ ⟨את⟩ vosotros de la tierra de Mitzráyim para ser ⟨el⟩ Elohim para vosotros; y seréis santos, porque santo soy yo.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "המעלה",
-      "english": "⟨el⟩ que ⟨hizo subir⟩"
+      "gloss": "⟨el⟩ que ⟨hizo subir⟩"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vosotros"
     },
     {
       "surface": "מארץ",
-      "english": "de la tierra"
+      "gloss": "de la tierra"
     },
     {
       "surface": "מצרים",
-      "english": "de Mitzráyim"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "להית",
-      "english": "para ser"
+      "gloss": "para ser"
     },
     {
       "surface": "לכם",
-      "english": "para vosotros"
+      "gloss": "para vosotros"
     },
     {
       "surface": "לאלהים",
-      "english": "⟨el⟩ Elohim"
+      "gloss": "⟨el⟩ Elohim"
     },
     {
       "surface": "והייתם",
-      "english": "y seréis"
+      "gloss": "y seréis"
     },
     {
       "surface": "קדשים",
-      "english": "santos"
+      "gloss": "santos"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "קדוש",
-      "english": "santo"
+      "gloss": "santo"
     },
     {
       "surface": "אני",
-      "english": "soy yo"
+      "gloss": "soy yo"
     }
-  ],
-  "timestamp": "2026-07-16T22:38:11.507958294Z",
-  "model": "glm-4.5"
+  ]
 }

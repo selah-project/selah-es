@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 33:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69886,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70382
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:12:57.044533824Z",
   "translation": "Él ⟨es⟩ quien amontona ⟨como⟩ un montón ⟨las⟩ aguas del mar, ⟨el⟩ ⟨que⟩ deposita ⟨en⟩ tesoros ⟨los⟩ abismos.",
   "tokens": [
     {
       "surface": "כנס",
-      "english": "Él ⟨es⟩ quien amontona ⟨como⟩ un montón"
+      "gloss": "Él ⟨es⟩ quien amontona ⟨como⟩ un montón"
     },
     {
       "surface": "כנד",
-      "english": "⟨las⟩"
+      "gloss": "⟨las⟩"
     },
     {
       "surface": "מי",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "הים",
-      "english": "del mar"
+      "gloss": "del mar"
     },
     {
       "surface": "נתן",
-      "english": "⟨el⟩ ⟨que⟩ deposita ⟨en⟩"
+      "gloss": "⟨el⟩ ⟨que⟩ deposita ⟨en⟩"
     },
     {
       "surface": "באצרות",
-      "english": "tesoros"
+      "gloss": "tesoros"
     },
     {
       "surface": "תהומות",
-      "english": "⟨los⟩ abismos"
+      "gloss": "⟨los⟩ abismos"
     }
-  ],
-  "timestamp": "2026-06-09T23:12:57.044533824Z",
-  "model": "glm-4.5"
+  ]
 }

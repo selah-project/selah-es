@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "isaiah 49:17",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25983,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26423
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:52:51.733037770Z",
   "translation": "Tus constructores ⟨se apresuran⟩ ⟨los⟩ que te destruyen y ⟨los⟩ que te asolaran ⟨saldrán⟩ de ti",
   "tokens": [
     {
       "surface": "מהרו",
-      "english": "Tus constructores ⟨se apresuran⟩"
+      "gloss": "Tus constructores ⟨se apresuran⟩"
     },
     {
       "surface": "בניך",
-      "english": "Tus constructores"
+      "gloss": "Tus constructores"
     },
     {
       "surface": "מהרסיך",
-      "english": "⟨los⟩ que te destruyen"
+      "gloss": "⟨los⟩ que te destruyen"
     },
     {
       "surface": "ומחרביך",
-      "english": "y ⟨los⟩ que te asolaran"
+      "gloss": "y ⟨los⟩ que te asolaran"
     },
     {
       "surface": "ממך",
-      "english": "de ti"
+      "gloss": "de ti"
     },
     {
       "surface": "יצאו",
-      "english": "⟨saldrán⟩"
+      "gloss": "⟨saldrán⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:52:51.733037770Z",
-  "model": "glm-4.5"
+  ]
 }

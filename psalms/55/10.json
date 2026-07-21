@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 55:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70062,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70438
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:24:36.006199258Z",
   "translation": "Destruye, oh Adonai, ⟨y⟩ divide sus lenguas: porque ⟨he visto⟩ violencia ⟨y⟩ contienda en ⟨la⟩ ciudad.",
   "tokens": [
     {
       "surface": "בלע",
-      "english": "Destruye"
+      "gloss": "Destruye"
     },
     {
       "surface": "אדני",
-      "english": "oh Adonai"
+      "gloss": "oh Adonai"
     },
     {
       "surface": "פלג",
-      "english": "divide"
+      "gloss": "divide"
     },
     {
       "surface": "לשונם",
-      "english": "sus lenguas"
+      "gloss": "sus lenguas"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "ראיתי",
-      "english": "⟨he visto⟩"
+      "gloss": "⟨he visto⟩"
     },
     {
       "surface": "חמס",
-      "english": "violencia"
+      "gloss": "violencia"
     },
     {
       "surface": "וריב",
-      "english": "⟨y⟩ contienda"
+      "gloss": "⟨y⟩ contienda"
     },
     {
       "surface": "בעיר",
-      "english": "en ⟨la⟩ ciudad"
+      "gloss": "en ⟨la⟩ ciudad"
     }
-  ],
-  "timestamp": "2026-06-09T23:24:36.006199258Z",
-  "model": "glm-4.5"
+  ]
 }

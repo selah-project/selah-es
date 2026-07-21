@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "isaiah 40:18",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25973,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26309
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:44:46.004712086Z",
   "translation": "Y ¿⟨a⟩ quién ⟨⟩ compararéis ⟨⟩ a El ⟨⟩ y ⟨⟩ qué semejanza ⟨⟩ igualaréis ⟨⟩ a ⟨⟩ él ⟨⟩?",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "Y ¿⟨a⟩ quién ⟨⟩"
+      "gloss": "Y ¿⟨a⟩ quién ⟨⟩"
     },
     {
       "surface": "מי",
-      "english": "quién ⟨⟩"
+      "gloss": "quién ⟨⟩"
     },
     {
       "surface": "תדמיון",
-      "english": "compararéis ⟨⟩"
+      "gloss": "compararéis ⟨⟩"
     },
     {
       "surface": "אל",
-      "english": "a El ⟨⟩"
+      "gloss": "a El ⟨⟩"
     },
     {
       "surface": "ומה",
-      "english": "y ⟨⟩ qué ⟨⟩"
+      "gloss": "y ⟨⟩ qué ⟨⟩"
     },
     {
       "surface": "דמות",
-      "english": "semejanza ⟨⟩"
+      "gloss": "semejanza ⟨⟩"
     },
     {
       "surface": "תערכו",
-      "english": "igualaréis ⟨⟩"
+      "gloss": "igualaréis ⟨⟩"
     },
     {
       "surface": "לו",
-      "english": "a ⟨⟩ él ⟨⟩"
+      "gloss": "a ⟨⟩ él ⟨⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:44:46.004712086Z",
-  "model": "glm-4.5"
+  ]
 }

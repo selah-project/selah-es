@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 14:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70153,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70601
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:02:51.144872124Z",
   "translation": "Todos se han desviado, ⟨juntos⟩ se han corrompido; no hay quien ⟨haga⟩ ⟨lo⟩ bueno, no, ni ⟨uno⟩ ⟨solo⟩.",
   "tokens": [
     {
       "surface": "הכל",
-      "english": "Todos"
+      "gloss": "Todos"
     },
     {
       "surface": "סר",
-      "english": "se han desviado"
+      "gloss": "se han desviado"
     },
     {
       "surface": "יחדו",
-      "english": "⟨juntos⟩"
+      "gloss": "⟨juntos⟩"
     },
     {
       "surface": "נאלחו",
-      "english": "se han corrompido"
+      "gloss": "se han corrompido"
     },
     {
       "surface": "אין",
-      "english": "no hay"
+      "gloss": "no hay"
     },
     {
       "surface": "עשה",
-      "english": "⟨haga⟩"
+      "gloss": "⟨haga⟩"
     },
     {
       "surface": "טוב",
-      "english": "⟨lo⟩ bueno"
+      "gloss": "⟨lo⟩ bueno"
     },
     {
       "surface": "אין",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "גם",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "אחד",
-      "english": "⟨uno⟩ ⟨solo⟩"
+      "gloss": "⟨uno⟩ ⟨solo⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:02:51.144872124Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 98:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 409,
-    "prompt_tokens": 70007,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70416
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:06.541802683Z",
   "translation": "Con trompetas y sonido de cuerno, gritad de júbilo ante el Rey, YHWH.",
   "tokens": [
     {
       "surface": "בחצצרות",
-      "english": "Con trompetas"
+      "gloss": "Con trompetas"
     },
     {
       "surface": "וקול",
-      "english": "y sonido"
+      "gloss": "y sonido"
     },
     {
       "surface": "שופר",
-      "english": "de cuerno"
+      "gloss": "de cuerno"
     },
     {
       "surface": "הריעו",
-      "english": "gritad de júbilo"
+      "gloss": "gritad de júbilo"
     },
     {
       "surface": "לפני",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "המלך",
-      "english": "el Rey"
+      "gloss": "el Rey"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:06.541802683Z",
-  "model": "glm-4.5"
+  ]
 }

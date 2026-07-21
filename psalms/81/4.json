@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 81:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69811,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70191
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:39:43.992388526Z",
   "translation": "Tocad ⟨el⟩ shofar en ⟨la⟩ luna nueva, ⟨en⟩ el día señalado de nuestra fiesta",
   "tokens": [
     {
       "surface": "תקעו",
-      "english": "Tocad"
+      "gloss": "Tocad"
     },
     {
       "surface": "בחדש",
-      "english": "en ⟨la⟩ luna nueva"
+      "gloss": "en ⟨la⟩ luna nueva"
     },
     {
       "surface": "שופר",
-      "english": "shofar"
+      "gloss": "shofar"
     },
     {
       "surface": "בכסה",
-      "english": "en ⟨el⟩ día señalado"
+      "gloss": "en ⟨el⟩ día señalado"
     },
     {
       "surface": "ליום",
-      "english": "de nuestra"
+      "gloss": "de nuestra"
     },
     {
       "surface": "חגנו",
-      "english": "fiesta"
+      "gloss": "fiesta"
     }
-  ],
-  "timestamp": "2026-06-09T23:39:43.992388526Z",
-  "model": "glm-4.5"
+  ]
 }

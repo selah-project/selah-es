@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 4:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 361,
-    "prompt_tokens": 59926,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60287
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:17:11.006367451Z",
   "translation": "Tus ojos miren ⟨hacia⟩ adelante, y tus párpados se dirijan rectamente ⟨delante⟩ de ti.",
   "tokens": [
     {
       "surface": "עיניך",
-      "english": "Tus ojos"
+      "gloss": "Tus ojos"
     },
     {
       "surface": "לנכח",
-      "english": "hacia adelante"
+      "gloss": "hacia adelante"
     },
     {
       "surface": "יביטו",
-      "english": "miren"
+      "gloss": "miren"
     },
     {
       "surface": "ועפעפיך",
-      "english": "y tus párpados"
+      "gloss": "y tus párpados"
     },
     {
       "surface": "יישרו",
-      "english": "se dirijan rectamente"
+      "gloss": "se dirijan rectamente"
     },
     {
       "surface": "נגדך",
-      "english": "delante de ti"
+      "gloss": "delante de ti"
     }
-  ],
-  "timestamp": "2026-07-16T23:17:11.006367451Z",
-  "model": "glm-4.5"
+  ]
 }

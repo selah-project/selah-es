@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 39,
   "ref": "psalms 105:39",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69769,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70121
-  },
+  "verse": 39,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:51:31.161814974Z",
   "translation": "Él extendió ⟨un⟩ nube ⟨como⟩ cubierta ⟨y⟩ fuego ⟨para⟩ iluminar ⟨la⟩ noche.",
   "tokens": [
     {
       "surface": "פרש",
-      "english": "Él extendió"
+      "gloss": "Él extendió"
     },
     {
       "surface": "ענן",
-      "english": "un nube"
+      "gloss": "un nube"
     },
     {
       "surface": "למסך",
-      "english": "⟨como⟩ cubierta"
+      "gloss": "⟨como⟩ cubierta"
     },
     {
       "surface": "ואש",
-      "english": "⟨y⟩ fuego"
+      "gloss": "⟨y⟩ fuego"
     },
     {
       "surface": "להאיר",
-      "english": "⟨para⟩ iluminar"
+      "gloss": "⟨para⟩ iluminar"
     },
     {
       "surface": "לילה",
-      "english": "⟨la⟩ noche"
+      "gloss": "⟨la⟩ noche"
     }
-  ],
-  "timestamp": "2026-06-09T23:51:31.161814974Z",
-  "model": "glm-4.5"
+  ]
 }

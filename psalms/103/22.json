@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 103:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 516,
-    "prompt_tokens": 70528,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71044
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:32.344195569Z",
   "translation": "Bendecid ⟨a⟩ YHWH todas sus obras en todos los lugares de su dominio; bendice, oh alma mía, ⟨a⟩ YHWH",
   "tokens": [
     {
       "surface": "ברכו",
-      "english": "Bendecid"
+      "gloss": "Bendecid"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "מעשיו",
-      "english": "sus obras"
+      "gloss": "sus obras"
     },
     {
       "surface": "בכל",
-      "english": "en todos"
+      "gloss": "en todos"
     },
     {
       "surface": "מקמות",
-      "english": "los lugares"
+      "gloss": "los lugares"
     },
     {
       "surface": "ממשלתו",
-      "english": "de su dominio"
+      "gloss": "de su dominio"
     },
     {
       "surface": "ברכי",
-      "english": "bendice"
+      "gloss": "bendice"
     },
     {
       "surface": "נפשי",
-      "english": "oh alma mía"
+      "gloss": "oh alma mía"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:32.344195569Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "proverbs 14:17",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59819,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60259
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:38:14.521150310Z",
   "translation": "El ⟨que es⟩ corto ⟨de⟩ apetito ⟨hecho⟩ por ⟨la⟩ ira ⟨es⟩ ⟨para⟩ ⟨la⟩ necedad ⟨y⟩ un hombre ⟨de⟩ planes ⟨es⟩ odiado.",
   "tokens": [
     {
       "surface": "קצר",
-      "english": "Corto"
+      "gloss": "Corto"
     },
     {
       "surface": "אפים",
-      "english": "de apetito"
+      "gloss": "de apetito"
     },
     {
       "surface": "יעשה",
-      "english": "hecho por"
+      "gloss": "hecho por"
     },
     {
       "surface": "אולת",
-      "english": "la necedad"
+      "gloss": "la necedad"
     },
     {
       "surface": "ואיש",
-      "english": "y un hombre"
+      "gloss": "y un hombre"
     },
     {
       "surface": "מזמות",
-      "english": "de planes"
+      "gloss": "de planes"
     },
     {
       "surface": "ישנא",
-      "english": "es odiado"
+      "gloss": "es odiado"
     }
-  ],
-  "timestamp": "2026-06-10T01:38:14.521150310Z",
-  "model": "glm-4.5"
+  ]
 }

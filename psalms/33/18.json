@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 33:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69886,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70384
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:12:54.919525980Z",
   "translation": "¡Miren! El ojo ⟨de⟩ YHWH ⟨está sobre⟩ ⟨los⟩ que ⟨le⟩ temen, ⟨sobre⟩ ⟨los⟩ que esperan ⟨en⟩ su jésed.",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "¡Miren!"
+      "gloss": "¡Miren!"
     },
     {
       "surface": "עין",
-      "english": "El ojo"
+      "gloss": "El ojo"
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩ YHWH",
+      "gloss": "⟨de⟩ YHWH",
       "marks": "El ojo ⟨de⟩ YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨está sobre⟩"
+      "gloss": "⟨está sobre⟩"
     },
     {
       "surface": "יראיו",
-      "english": "⟨los⟩ que ⟨le⟩ temen",
+      "gloss": "⟨los⟩ que ⟨le⟩ temen",
       "marks": "⟨los⟩ que ⟨le⟩ temen"
     },
     {
       "surface": "למיחלים",
-      "english": "⟨sobre⟩ ⟨los⟩ que esperan ⟨en⟩",
+      "gloss": "⟨sobre⟩ ⟨los⟩ que esperan ⟨en⟩",
       "marks": "⟨sobre⟩ ⟨los⟩ que esperan ⟨en⟩"
     },
     {
       "surface": "לחסדו",
-      "english": "su jésed",
+      "gloss": "su jésed",
       "marks": "su jésed"
     }
-  ],
-  "timestamp": "2026-06-09T23:12:54.919525980Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "job 39:30",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 451,
-    "prompt_tokens": 27251,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27702
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:03:07.564879225Z",
   "translation": "Y sus crías sorben ⟨את⟩ sangre; y donde ⟨los⟩ perforados ⟨están⟩, allí ⟨está⟩ él.",
   "tokens": [
     {
       "surface": "ואפרחו",
-      "english": "Y sus crías"
+      "gloss": "Y sus crías"
     },
     {
       "surface": "יעלעו",
-      "english": "sorben"
+      "gloss": "sorben"
     },
     {
       "surface": "דם",
-      "english": "⟨את⟩ sangre",
+      "gloss": "⟨את⟩ sangre",
       "marks": "sangre"
     },
     {
       "surface": "ובאשר",
-      "english": "y donde"
+      "gloss": "y donde"
     },
     {
       "surface": "חללים",
-      "english": "⟨los⟩ perforados"
+      "gloss": "⟨los⟩ perforados"
     },
     {
       "surface": "שם",
-      "english": "allí ⟨está⟩"
+      "gloss": "allí ⟨está⟩"
     },
     {
       "surface": "הוא",
-      "english": "él"
+      "gloss": "él"
     }
-  ],
-  "timestamp": "2026-07-16T22:03:07.564879225Z",
-  "model": "glm-4.5"
+  ]
 }

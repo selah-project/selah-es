@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 2:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69874,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70277
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:58:10.354693930Z",
   "translation": "⟨You⟩ shalt rule them with ⟨a⟩ scepter of iron; ⟨as⟩ ⟨a⟩ vessel of ⟨a⟩ potter ⟨you⟩ shalt dash them ⟨in pieces⟩.",
   "tokens": [
     {
       "surface": "תרעם",
-      "english": "⟨You⟩ shalt rule them"
+      "gloss": "⟨You⟩ shalt rule them"
     },
     {
       "surface": "בשבט",
-      "english": "with ⟨a⟩ scepter"
+      "gloss": "with ⟨a⟩ scepter"
     },
     {
       "surface": "ברזל",
-      "english": "of iron"
+      "gloss": "of iron"
     },
     {
       "surface": "ככלי",
-      "english": "⟨as⟩ ⟨a⟩ vessel"
+      "gloss": "⟨as⟩ ⟨a⟩ vessel"
     },
     {
       "surface": "יוצר",
-      "english": "of ⟨a⟩ potter"
+      "gloss": "of ⟨a⟩ potter"
     },
     {
       "surface": "תנפצם",
-      "english": "⟨you⟩ shalt dash them ⟨in pieces⟩"
+      "gloss": "⟨you⟩ shalt dash them ⟨in pieces⟩"
     }
-  ],
-  "timestamp": "2026-06-09T22:58:10.354693930Z",
-  "model": "glm-4.5"
+  ]
 }

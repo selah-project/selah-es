@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "leviticus 13:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 569,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17336,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 17905
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:46:06.372263256Z",
   "translation": "y si el sacerdote ve que ⟨el⟩ sarpullido ⟨está⟩ extendido en ⟨el⟩ piel, ⟨entonces⟩ ⟨el⟩ sacerdote ⟨lo⟩ pronunciará inmundo: ⟨éste es⟩ lepra.",
   "tokens": [
     {
       "surface": "וראה",
-      "english": "Y si el sacerdote ve"
+      "gloss": "Y si el sacerdote ve"
     },
     {
       "surface": "הכהן",
-      "english": "el sacerdote"
+      "gloss": "el sacerdote"
     },
     {
       "surface": "והנה",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "פשתה",
-      "english": "⟨está⟩ extendido"
+      "gloss": "⟨está⟩ extendido"
     },
     {
       "surface": "המספחת",
-      "english": "⟨el⟩ sarpullido"
+      "gloss": "⟨el⟩ sarpullido"
     },
     {
       "surface": "בעור",
-      "english": "en ⟨el⟩ piel"
+      "gloss": "en ⟨el⟩ piel"
     },
     {
       "surface": "וטמאו",
-      "english": "⟨entonces⟩ ⟨el⟩ sacerdote ⟨lo⟩ pronunciará inmundo"
+      "gloss": "⟨entonces⟩ ⟨el⟩ sacerdote ⟨lo⟩ pronunciará inmundo"
     },
     {
       "surface": "הכהן",
-      "english": "el sacerdote"
+      "gloss": "el sacerdote"
     },
     {
       "surface": "צרעת",
-      "english": "lepra"
+      "gloss": "lepra"
     },
     {
       "surface": "הוא",
-      "english": "⟨éste es⟩"
+      "gloss": "⟨éste es⟩"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:46:06.372263256Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

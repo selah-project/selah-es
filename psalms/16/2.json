@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 16:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69890,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70251
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:02:57.500786745Z",
   "translation": "⟨He⟩ dijiste a YHWH: Tú ⟨eres⟩ mi Adonai; ⟨el⟩ bien ⟨que está⟩ en mí ⟨es⟩ para ti",
   "tokens": [
     {
       "surface": "אמרת",
-      "english": "Dijiste"
+      "gloss": "Dijiste"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "אדני",
-      "english": "mi Adonai"
+      "gloss": "mi Adonai"
     },
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "טובתי",
-      "english": "⟨el⟩ bien ⟨que está⟩ en mí"
+      "gloss": "⟨el⟩ bien ⟨que está⟩ en mí"
     },
     {
       "surface": "בל",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "עליך",
-      "english": "para ti"
+      "gloss": "para ti"
     }
-  ],
-  "timestamp": "2026-06-09T23:02:57.500786745Z",
-  "model": "glm-4.5"
+  ]
 }

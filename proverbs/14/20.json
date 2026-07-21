@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 14:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59795,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60199
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:38:31.544188821Z",
   "translation": "Incluso el pobre es odiado ⟨por⟩ su propio vecino, ⟨y los⟩ que aman ⟨al⟩ rico ⟨son⟩ muchos.",
   "tokens": [
     {
       "surface": "גם",
-      "english": "Incluso"
+      "gloss": "Incluso"
     },
     {
       "surface": "לרעהו",
-      "english": "⟨por⟩ su propio vecino"
+      "gloss": "⟨por⟩ su propio vecino"
     },
     {
       "surface": "ישנא",
-      "english": "es odiado"
+      "gloss": "es odiado"
     },
     {
       "surface": "רש",
-      "english": "⟨el⟩ pobre"
+      "gloss": "⟨el⟩ pobre"
     },
     {
       "surface": "ואהבי",
-      "english": "⟨y los⟩ que aman"
+      "gloss": "⟨y los⟩ que aman"
     },
     {
       "surface": "עשיר",
-      "english": "⟨al⟩ rico"
+      "gloss": "⟨al⟩ rico"
     },
     {
       "surface": "רבים",
-      "english": "⟨son⟩ muchos"
+      "gloss": "⟨son⟩ muchos"
     }
-  ],
-  "timestamp": "2026-06-10T01:38:31.544188821Z",
-  "model": "glm-4.5"
+  ]
 }

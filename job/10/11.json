@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "job 10:11",
   "book": "job",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27037,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27338
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:48.093073229Z",
   "translation": "Piel y carne me has vestido ⟨את⟩, y con huesos y tendones me has cercado.",
   "tokens": [
     {
       "surface": "עור",
-      "english": "Piel"
+      "gloss": "Piel"
     },
     {
       "surface": "ובשר",
-      "english": "y carne"
+      "gloss": "y carne"
     },
     {
       "surface": "תלבישני",
-      "english": "me has vestido"
+      "gloss": "me has vestido"
     },
     {
       "surface": "ובעצמות",
-      "english": "y con huesos"
+      "gloss": "y con huesos"
     },
     {
       "surface": "וגידים",
-      "english": "y tendones"
+      "gloss": "y tendones"
     },
     {
       "surface": "תסככני",
-      "english": "me has cercado"
+      "gloss": "me has cercado"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:48.093073229Z",
-  "model": "glm-4.5"
+  ]
 }

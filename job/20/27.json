@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "job 20:27",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 304,
-    "prompt_tokens": 27054,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27358
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:59:05.739629559Z",
   "translation": "Los cielos revelarán ⟨את⟩ su iniquidad, y la tierra se levantará contra él",
   "tokens": [
     {
       "surface": "יגלו",
-      "english": "revelarán"
+      "gloss": "revelarán"
     },
     {
       "surface": "שמים",
-      "english": "los cielos"
+      "gloss": "los cielos"
     },
     {
       "surface": "עונו",
-      "english": "su iniquidad"
+      "gloss": "su iniquidad"
     },
     {
       "surface": "וארץ",
-      "english": "y la tierra"
+      "gloss": "y la tierra"
     },
     {
       "surface": "מתקוממה",
-      "english": "se levantará"
+      "gloss": "se levantará"
     },
     {
       "surface": "לו",
-      "english": "contra él"
+      "gloss": "contra él"
     }
-  ],
-  "timestamp": "2026-07-16T21:59:05.739629559Z",
-  "model": "glm-4.5"
+  ]
 }

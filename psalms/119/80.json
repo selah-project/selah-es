@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 80,
   "ref": "psalms 119:80",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69843,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70229
-  },
+  "verse": 80,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:13.182322910Z",
   "translation": "Sea ⟨el⟩ corazón entero en tus estatutos, para que ⟨yo⟩ no sea avergonzado",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "Sea",
+      "gloss": "Sea",
       "marks": "el corazón"
     },
     {
       "surface": "לבי",
-      "english": "⟨el⟩ corazón"
+      "gloss": "⟨el⟩ corazón"
     },
     {
       "surface": "תמים",
-      "english": "entero"
+      "gloss": "entero"
     },
     {
       "surface": "בחקיך",
-      "english": "en tus estatutos"
+      "gloss": "en tus estatutos"
     },
     {
       "surface": "למען",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אבוש",
-      "english": "sea ⟨yo⟩ ⟨vergonzado⟩"
+      "gloss": "sea ⟨yo⟩ ⟨vergonzado⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:13.182322910Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "numbers 7:30",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:19:32.687887347Z",
+  "translation": "En ⟨el⟩ día cuarto, el príncipe de ⟨los⟩ hijos de Reuvén ⟨es⟩ Elitsur hijo de Shedejur",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "En ⟨el⟩ día"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "cuarto"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "el príncipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "de ⟨los⟩ hijos"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "de Reuvén"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "⟨es⟩ Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "de Shedejur"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Rubén",
@@ -13,56 +52,6 @@
       "hebrew": "ראובן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17716,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 18089
-  },
-  "translation": "En ⟨el⟩ día cuarto, el príncipe de ⟨los⟩ hijos de Reuvén ⟨es⟩ Elitsur hijo de Shedejur",
-  "tokens": [
-    {
-      "surface": "ביום",
-      "english": "En ⟨el⟩ día"
-    },
-    {
-      "surface": "הרביעי",
-      "english": "cuarto"
-    },
-    {
-      "surface": "נשיא",
-      "english": "el príncipe"
-    },
-    {
-      "surface": "לבני",
-      "english": "de ⟨los⟩ hijos"
-    },
-    {
-      "surface": "ראובן",
-      "english": "de Reuvén"
-    },
-    {
-      "surface": "אליצור",
-      "english": "⟨es⟩ Elitsur"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "שדיאור",
-      "english": "de Shedejur"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:19:32.687887347Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

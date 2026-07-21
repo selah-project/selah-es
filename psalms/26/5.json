@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 26:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69853,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70319
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:08:21.006872327Z",
   "translation": "He aborrecido ⟨el⟩ congregación de ⟨los⟩ malhechores y ⟨con⟩ ⟨los⟩ malvados no ⟨estaré⟩ sentado",
   "tokens": [
     {
       "surface": "שנאתי",
-      "english": "He aborrecido"
+      "gloss": "He aborrecido"
     },
     {
       "surface": "קהל",
-      "english": "⟨el⟩ congregación"
+      "gloss": "⟨el⟩ congregación"
     },
     {
       "surface": "מרעים",
-      "english": "de ⟨los⟩ malhechores"
+      "gloss": "de ⟨los⟩ malhechores"
     },
     {
       "surface": "ועם",
-      "english": "y ⟨con⟩"
+      "gloss": "y ⟨con⟩"
     },
     {
       "surface": "רשעים",
-      "english": "⟨los⟩ malvados"
+      "gloss": "⟨los⟩ malvados"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אשב",
-      "english": "⟨estaré⟩ sentado"
+      "gloss": "⟨estaré⟩ sentado"
     }
-  ],
-  "timestamp": "2026-06-09T23:08:21.006872327Z",
-  "model": "glm-4.5"
+  ]
 }

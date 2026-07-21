@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 137:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 70092,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70494
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:05.944326586Z",
   "translation": "¿Cómo cantaremos ⟨את⟩ el canto de YHWH sobre tierra de extranjero?",
   "tokens": [
     {
       "surface": "איך",
-      "english": "¿Cómo"
+      "gloss": "¿Cómo"
     },
     {
       "surface": "נשיר",
-      "english": "cantaremos"
+      "gloss": "cantaremos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el canto de YHWH"
     },
     {
       "surface": "שיר",
-      "english": "el canto"
+      "gloss": "el canto"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "אדמת",
-      "english": "tierra"
+      "gloss": "tierra"
     },
     {
       "surface": "נכר",
-      "english": "de extranjero"
+      "gloss": "de extranjero"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:05.944326586Z",
-  "model": "glm-4.5"
+  ]
 }

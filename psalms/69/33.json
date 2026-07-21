@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "psalms 69:33",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69878,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70399
-  },
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:59.755695332Z",
   "translation": "⟨Los⟩ humildes ⟨verán⟩, y ⟨se⟩ alegrarán; ⟨los que⟩ buscan ⟨a⟩ Elohim, ⟨y⟩ ⟨su⟩ corazón ⟨vivirá⟩.",
   "tokens": [
     {
       "surface": "ראו",
-      "english": "⟨Los⟩ humildes ⟨verán⟩"
+      "gloss": "⟨Los⟩ humildes ⟨verán⟩"
     },
     {
       "surface": "ענוים",
-      "english": "humildes"
+      "gloss": "humildes"
     },
     {
       "surface": "ישמחו",
-      "english": "y ⟨se⟩ alegrarán"
+      "gloss": "y ⟨se⟩ alegrarán"
     },
     {
       "surface": "דרשי",
-      "english": "⟨los que⟩ buscan"
+      "gloss": "⟨los que⟩ buscan"
     },
     {
       "surface": "אלהים",
-      "english": "⟨a⟩ Elohim"
+      "gloss": "⟨a⟩ Elohim"
     },
     {
       "surface": "ויחי",
-      "english": "⟨y⟩ ⟨su⟩ corazón ⟨vivirá⟩"
+      "gloss": "⟨y⟩ ⟨su⟩ corazón ⟨vivirá⟩"
     },
     {
       "surface": "לבבכם",
-      "english": "corazón"
+      "gloss": "corazón"
     }
-  ],
-  "timestamp": "2026-06-09T23:31:59.755695332Z",
-  "model": "glm-4.5"
+  ]
 }

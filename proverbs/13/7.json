@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "proverbs 13:7",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 557,
-    "prompt_tokens": 59965,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60522
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:19:00.777512403Z",
   "translation": "Hay quien se enriquece y no tiene ⟨nada⟩; y hay quien se empobrece ⟨y⟩ ⟨hay⟩ riqueza abundante.",
   "tokens": [
     {
       "surface": "יש",
-      "english": "Hay"
+      "gloss": "Hay"
     },
     {
       "surface": "מתעשר",
-      "english": "quien se enriquece"
+      "gloss": "quien se enriquece"
     },
     {
       "surface": "ואין",
-      "english": "y no tiene"
+      "gloss": "y no tiene"
     },
     {
       "surface": "כל",
-      "english": "⟨nada⟩"
+      "gloss": "⟨nada⟩"
     },
     {
       "surface": "מתרושש",
-      "english": "y hay quien se empobrece"
+      "gloss": "y hay quien se empobrece"
     },
     {
       "surface": "והון",
-      "english": "⟨y⟩ ⟨hay⟩ riqueza"
+      "gloss": "⟨y⟩ ⟨hay⟩ riqueza"
     },
     {
       "surface": "רב",
-      "english": "abundante"
+      "gloss": "abundante"
     }
-  ],
-  "timestamp": "2026-07-16T23:19:00.777512403Z",
-  "model": "glm-4.5"
+  ]
 }

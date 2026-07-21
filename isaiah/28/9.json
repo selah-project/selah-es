@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "isaiah 28:9",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 618,
-    "prompt_tokens": 26690,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27308
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:25:33.696217122Z",
   "translation": "¿a quién ⟨את⟩ enseña conocimiento, y a quién ⟨את⟩ hace entender ⟨el⟩ mensaje? ⟨a los⟩ destetados de la leche, ⟨a los⟩ quitados de ⟨los⟩ pechos,",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a quién"
     },
     {
       "surface": "מי",
-      "english": "a quién"
+      "gloss": "a quién"
     },
     {
       "surface": "יורה",
-      "english": "enseña"
+      "gloss": "enseña"
     },
     {
       "surface": "דעה",
-      "english": "conocimiento"
+      "gloss": "conocimiento"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "a quién"
     },
     {
       "surface": "מי",
-      "english": "a quién"
+      "gloss": "a quién"
     },
     {
       "surface": "יבין",
-      "english": "hace entender"
+      "gloss": "hace entender"
     },
     {
       "surface": "שמועה",
-      "english": "⟨el⟩ mensaje"
+      "gloss": "⟨el⟩ mensaje"
     },
     {
       "surface": "גמולי",
-      "english": "⟨a los⟩ destetados"
+      "gloss": "⟨a los⟩ destetados"
     },
     {
       "surface": "מחלב",
-      "english": "de la leche"
+      "gloss": "de la leche"
     },
     {
       "surface": "עתיקי",
-      "english": "⟨a los⟩ quitados"
+      "gloss": "⟨a los⟩ quitados"
     },
     {
       "surface": "משדים",
-      "english": "de ⟨los⟩ pechos"
+      "gloss": "de ⟨los⟩ pechos"
     }
-  ],
-  "timestamp": "2026-07-16T21:25:33.696217122Z",
-  "model": "glm-4.5"
+  ]
 }

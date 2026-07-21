@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "judges 14:20",
   "book": "judges",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23063,
-    "prompt_tokens_details": {
-      "cached_tokens": 22160
-    },
-    "total_tokens": 23486
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:59:26.949816223Z",
   "translation": "Y fue ⟨la⟩ mujer ⟨de⟩ Shimshón ⟨a⟩ su compañero, que ⟨era⟩ su amigo",
   "tokens": [
     {
       "surface": "ותהי",
-      "english": "Y fue"
+      "gloss": "Y fue"
     },
     {
       "surface": "אשת",
-      "english": "⟨la⟩ mujer",
+      "gloss": "⟨la⟩ mujer",
       "marks": "mujer de Shimshón"
     },
     {
       "surface": "שמשון",
-      "english": "⟨de⟩ Shimshón"
+      "gloss": "⟨de⟩ Shimshón"
     },
     {
       "surface": "למרעהו",
-      "english": "⟨a⟩ su compañero"
+      "gloss": "⟨a⟩ su compañero"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "רעה",
-      "english": "⟨era⟩"
+      "gloss": "⟨era⟩"
     },
     {
       "surface": "לו",
-      "english": "su amigo"
+      "gloss": "su amigo"
     }
-  ],
-  "timestamp": "2026-06-10T00:59:26.949816223Z",
-  "model": "glm-4.5"
+  ]
 }

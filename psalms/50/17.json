@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 50:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 259,
-    "prompt_tokens": 69896,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70155
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:29.144764582Z",
   "translation": "Porque tú aborreces la corrección y lanzas ⟨את⟩ mis palabras detrás de ti",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Porque tú"
+      "gloss": "Porque tú"
     },
     {
       "surface": "שנאת",
-      "english": "aborreces"
+      "gloss": "aborreces"
     },
     {
       "surface": "מוסר",
-      "english": "la corrección"
+      "gloss": "la corrección"
     },
     {
       "surface": "ותשלך",
-      "english": "y lanzas"
+      "gloss": "y lanzas"
     },
     {
       "surface": "דברי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mis palabras"
     },
     {
       "surface": "אחריך",
-      "english": "detrás de ti"
+      "gloss": "detrás de ti"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:29.144764582Z",
-  "model": "glm-4.5"
+  ]
 }

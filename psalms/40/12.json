@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 40:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70360,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70694
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:17:22.068833602Z",
   "translation": "Tú, YHWH, no ⟨detendrás⟩ tus misericordias de mí; tu bondad y tu verdad ⟨son⟩ continuamente me guardarán",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תכלא",
-      "english": "⟨detendrás⟩"
+      "gloss": "⟨detendrás⟩"
     },
     {
       "surface": "רחמיך",
-      "english": "tus misericordias"
+      "gloss": "tus misericordias"
     },
     {
       "surface": "ממני",
-      "english": "de mí"
+      "gloss": "de mí"
     },
     {
       "surface": "חסדך",
-      "english": "tu bondad"
+      "gloss": "tu bondad"
     },
     {
       "surface": "ואמתך",
-      "english": "y tu verdad"
+      "gloss": "y tu verdad"
     },
     {
       "surface": "תמיד",
-      "english": "continuamente"
+      "gloss": "continuamente"
     },
     {
       "surface": "יצרוני",
-      "english": "me guardarán"
+      "gloss": "me guardarán"
     }
-  ],
-  "timestamp": "2026-06-09T23:17:22.068833602Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "exodus 1:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 1,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:20:51.627403551Z",
+  "translation": "Y dijo ⟨a⟩ ⟨el⟩ pueblo: He aquí ⟨el⟩ pueblo ⟨de⟩ ⟨los⟩ hijos ⟨de⟩ Yisrael ⟨es⟩ numeroso y poderoso más que nosotros.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩",
+      "marks": "el pueblo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨el⟩ pueblo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "He aquí"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨el⟩ pueblo",
+      "marks": "de los hijos de Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨de⟩ ⟨los⟩ hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "numeroso"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "y poderoso"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "más que nosotros"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,66 +62,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16732,
-    "prompt_tokens_details": {
-      "cached_tokens": 15103
-    },
-    "total_tokens": 17188
-  },
-  "translation": "Y dijo ⟨a⟩ ⟨el⟩ pueblo: He aquí ⟨el⟩ pueblo ⟨de⟩ ⟨los⟩ hijos ⟨de⟩ Yisrael ⟨es⟩ numeroso y poderoso más que nosotros.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩",
-      "marks": "el pueblo"
-    },
-    {
-      "surface": "עמו",
-      "english": "⟨el⟩ pueblo"
-    },
-    {
-      "surface": "הנה",
-      "english": "He aquí"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨el⟩ pueblo",
-      "marks": "de los hijos de Israel"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨de⟩ ⟨los⟩ hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "רב",
-      "english": "numeroso"
-    },
-    {
-      "surface": "ועצום",
-      "english": "y poderoso"
-    },
-    {
-      "surface": "ממנו",
-      "english": "más que nosotros"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:20:51.627403551Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

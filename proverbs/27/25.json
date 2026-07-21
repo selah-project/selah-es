@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 27:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 387,
-    "prompt_tokens": 59932,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60319
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:22:45.203008993Z",
   "translation": "El forraje ⟨es⟩ quitado y la hierba tierna ⟨se⟩ muestra, y ⟨son⟩ recogidas las hierbas de los montes.",
   "tokens": [
     {
       "surface": "גלה",
-      "english": "El forraje ⟨es⟩ quitado"
+      "gloss": "El forraje ⟨es⟩ quitado"
     },
     {
       "surface": "חציר",
-      "english": "forraje"
+      "gloss": "forraje"
     },
     {
       "surface": "ונראה",
-      "english": "y la hierba tierna ⟨se⟩ muestra"
+      "gloss": "y la hierba tierna ⟨se⟩ muestra"
     },
     {
       "surface": "דשא",
-      "english": "hierba tierna"
+      "gloss": "hierba tierna"
     },
     {
       "surface": "ונאספו",
-      "english": "y ⟨son⟩ recogidas"
+      "gloss": "y ⟨son⟩ recogidas"
     },
     {
       "surface": "עשבות",
-      "english": "hierbas"
+      "gloss": "hierbas"
     },
     {
       "surface": "הרים",
-      "english": "de los montes"
+      "gloss": "de los montes"
     }
-  ],
-  "timestamp": "2026-07-16T23:22:45.203008993Z",
-  "model": "glm-4.5"
+  ]
 }

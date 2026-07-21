@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 5:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26444,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26972
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:23:15.931344966Z",
   "translation": "Cantaré ahora para mi amado, la canción de mi amado ⟨es⟩ ⟨para⟩ su viña. Una viña ⟨era⟩ ⟨para⟩ mi amado, en ⟨un⟩ cuerno ⟨de⟩ hijo ⟨de⟩ aceite.",
   "tokens": [
     {
       "surface": "אשירה",
-      "english": "Cantaré ahora"
+      "gloss": "Cantaré ahora"
     },
     {
       "surface": "נא",
-      "english": "para"
+      "gloss": "para"
     },
     {
       "surface": "לידידי",
-      "english": "mi amado"
+      "gloss": "mi amado"
     },
     {
       "surface": "שירת",
-      "english": "la canción de"
+      "gloss": "la canción de"
     },
     {
       "surface": "דודי",
-      "english": "mi amado"
+      "gloss": "mi amado"
     },
     {
       "surface": "לכרמו",
-      "english": "⟨para⟩ su viña"
+      "gloss": "⟨para⟩ su viña"
     },
     {
       "surface": "כרם",
-      "english": "Una viña"
+      "gloss": "Una viña"
     },
     {
       "surface": "היה",
-      "english": "⟨era⟩"
+      "gloss": "⟨era⟩"
     },
     {
       "surface": "לידידי",
-      "english": "⟨para⟩ mi amado"
+      "gloss": "⟨para⟩ mi amado"
     },
     {
       "surface": "בקרן",
-      "english": "en ⟨un⟩ cuerno"
+      "gloss": "en ⟨un⟩ cuerno"
     },
     {
       "surface": "בן",
-      "english": "⟨de⟩ hijo"
+      "gloss": "⟨de⟩ hijo"
     },
     {
       "surface": "שמן",
-      "english": "⟨de⟩ aceite"
+      "gloss": "⟨de⟩ aceite"
     }
-  ],
-  "timestamp": "2026-06-10T02:23:15.931344966Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 21:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 588,
-    "prompt_tokens": 26417,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27005
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:25:19.654105946Z",
   "translation": "El atalaya dijo: Viene ⟨el⟩ mañana y también ⟨la⟩ noche; si ⟨ustedes⟩ consultan, consulten; vuelvan y vengan.",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "dijo"
+      "gloss": "dijo"
     },
     {
       "surface": "שמר",
-      "english": "el atalaya"
+      "gloss": "el atalaya"
     },
     {
       "surface": "אתה",
-      "english": "viene"
+      "gloss": "viene"
     },
     {
       "surface": "בקר",
-      "english": "⟨el⟩ mañana"
+      "gloss": "⟨el⟩ mañana"
     },
     {
       "surface": "וגם",
-      "english": "y también"
+      "gloss": "y también"
     },
     {
       "surface": "לילה",
-      "english": "⟨la⟩ noche"
+      "gloss": "⟨la⟩ noche"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "תבעיון",
-      "english": "consultan"
+      "gloss": "consultan"
     },
     {
       "surface": "בעיו",
-      "english": "consulten"
+      "gloss": "consulten"
     },
     {
       "surface": "שבו",
-      "english": "vuelvan"
+      "gloss": "vuelvan"
     },
     {
       "surface": "אתיו",
-      "english": "vengan"
+      "gloss": "vengan"
     }
-  ],
-  "timestamp": "2026-07-16T21:25:19.654105946Z",
-  "model": "glm-4.5"
+  ]
 }

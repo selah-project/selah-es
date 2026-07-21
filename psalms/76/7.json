@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 76:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69842,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70225
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:09.582867587Z",
   "translation": "Desde tu ⟨la⟩ reprensión, oh Elohim de Yaakov, ⟨se⟩ quedaron atónitos ⟨el⟩ carro ⟨y⟩ ⟨el⟩ caballo.",
   "tokens": [
     {
       "surface": "מגערתך",
-      "english": "Desde tu ⟨la⟩ reprensión"
+      "gloss": "Desde tu ⟨la⟩ reprensión"
     },
     {
       "surface": "אלהי",
-      "english": "oh Elohim"
+      "gloss": "oh Elohim"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     },
     {
       "surface": "נרדם",
-      "english": "⟨se⟩ quedaron atónitos"
+      "gloss": "⟨se⟩ quedaron atónitos"
     },
     {
       "surface": "ורכב",
-      "english": "⟨el⟩ carro"
+      "gloss": "⟨el⟩ carro"
     },
     {
       "surface": "וסוס",
-      "english": "⟨el⟩ caballo"
+      "gloss": "⟨el⟩ caballo"
     }
-  ],
-  "timestamp": "2026-06-09T23:36:09.582867587Z",
-  "model": "glm-4.5"
+  ]
 }

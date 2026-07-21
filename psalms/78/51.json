@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 51,
   "ref": "psalms 78:51",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69929,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70350
-  },
+  "verse": 51,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:37:27.141911271Z",
   "translation": "Y ⟨el⟩ golpeó ⟨el⟩ primerogénito ⟨את⟩ en Egipto, ⟨el⟩ principio ⟨de⟩ su poder ⟨en⟩ ⟨las⟩ tiendas ⟨de⟩ Jam.",
   "tokens": [
     {
       "surface": "ויך",
-      "english": "Y ⟨el⟩ golpeó"
+      "gloss": "Y ⟨el⟩ golpeó"
     },
     {
       "surface": "כל",
-      "english": "⟨el⟩ primerogénito"
+      "gloss": "⟨el⟩ primerogénito"
     },
     {
       "surface": "בכור",
-      "english": "⟨el⟩ primerogénito"
+      "gloss": "⟨el⟩ primerogénito"
     },
     {
       "surface": "במצרים",
-      "english": "en Egipto"
+      "gloss": "en Egipto"
     },
     {
       "surface": "ראשית",
-      "english": "⟨el⟩ principio"
+      "gloss": "⟨el⟩ principio"
     },
     {
       "surface": "אונים",
-      "english": "⟨de⟩ su poder"
+      "gloss": "⟨de⟩ su poder"
     },
     {
       "surface": "באהלי",
-      "english": "⟨en⟩ ⟨las⟩ tiendas ⟨de⟩"
+      "gloss": "⟨en⟩ ⟨las⟩ tiendas ⟨de⟩"
     },
     {
       "surface": "חם",
-      "english": "Jam",
+      "gloss": "Jam",
       "marks": "Ham"
     }
-  ],
-  "timestamp": "2026-06-09T23:37:27.141911271Z",
-  "model": "glm-4.5"
+  ]
 }

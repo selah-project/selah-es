@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 33:16",
   "book": "numbers",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 202,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24873,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25075
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:06:51.131355272Z",
   "translation": "Y partieron de ⟨el⟩ desierto de Sinai y acamparon en Kibroth-hattaavah",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "Y partieron"
+      "gloss": "Y partieron"
     },
     {
       "surface": "ממדבר",
-      "english": "de ⟨el⟩ desierto"
+      "gloss": "de ⟨el⟩ desierto"
     },
     {
       "surface": "סיני",
-      "english": "de Sinai"
+      "gloss": "de Sinai"
     },
     {
       "surface": "ויחנו",
-      "english": "y acamparon"
+      "gloss": "y acamparon"
     },
     {
       "surface": "בקברת",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "התאוה",
-      "english": "Kibroth-hattaavah"
+      "gloss": "Kibroth-hattaavah"
     }
-  ],
-  "timestamp": "2026-06-10T05:06:51.131355272Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 46:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69993,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70472
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:20:57.519755673Z",
   "translation": "Desistid ⟨y⟩ sabed ⟨que⟩ yo ⟨soy⟩ Elohim: seré exaltado ⟨en⟩ ⟨las⟩ naciones, seré exaltado ⟨en⟩ ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "הרפו",
-      "english": "Desistid"
+      "gloss": "Desistid"
     },
     {
       "surface": "ודעו",
-      "english": "sabed"
+      "gloss": "sabed"
     },
     {
       "surface": "כי",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "אנכי",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ארום",
-      "english": "seré exaltado ⟨en⟩"
+      "gloss": "seré exaltado ⟨en⟩"
     },
     {
       "surface": "בגוים",
-      "english": "⟨las⟩ naciones"
+      "gloss": "⟨las⟩ naciones"
     },
     {
       "surface": "ארום",
-      "english": "seré exaltado ⟨en⟩"
+      "gloss": "seré exaltado ⟨en⟩"
     },
     {
       "surface": "בארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:20:57.519755673Z",
-  "model": "glm-4.5"
+  ]
 }

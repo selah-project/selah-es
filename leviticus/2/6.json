@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 2:6",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 464,
-    "prompt_tokens": 24678,
-    "prompt_tokens_details": {
-      "cached_tokens": 21248
-    },
-    "total_tokens": 25142
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:31:23.074155899Z",
   "translation": "Lo partirás ⟨en⟩ pedazos y derramarás ⟨el⟩ aceite ⟨sobre⟩ ⟨ella⟩: ⟨es⟩ una ofrenda de grano.",
   "tokens": [
     {
       "surface": "פתות",
-      "english": "partirás"
+      "gloss": "partirás"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "pedazos"
     },
     {
       "surface": "פתים",
-      "english": "pedazos"
+      "gloss": "pedazos"
     },
     {
       "surface": "ויצקת",
-      "english": "y derramarás"
+      "gloss": "y derramarás"
     },
     {
       "surface": "עליה",
-      "english": "⟨sobre⟩ ⟨ella⟩"
+      "gloss": "⟨sobre⟩ ⟨ella⟩"
     },
     {
       "surface": "שמן",
-      "english": "aceite"
+      "gloss": "aceite"
     },
     {
       "surface": "מנחה",
-      "english": "ofrenda de grano"
+      "gloss": "ofrenda de grano"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     }
-  ],
-  "timestamp": "2026-07-16T22:31:23.074155899Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 28:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 431,
-    "prompt_tokens": 25227,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25658
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:40:13.589098357Z",
   "translation": "y ⟨la⟩ décima parte ⟨del⟩ efa ⟨de⟩ harina fina para ⟨una⟩ ofrenda de grano, mezclada ⟨con el⟩ cuarto ⟨del⟩ hin ⟨de⟩ aceite batido",
   "tokens": [
     {
       "surface": "ועשירית",
-      "english": "y ⟨la⟩ décima parte"
+      "gloss": "y ⟨la⟩ décima parte"
     },
     {
       "surface": "האיפה",
-      "english": "⟨del⟩ efa"
+      "gloss": "⟨del⟩ efa"
     },
     {
       "surface": "סלת",
-      "english": "⟨de⟩ harina fina"
+      "gloss": "⟨de⟩ harina fina"
     },
     {
       "surface": "למנחה",
-      "english": "para ⟨una⟩ ofrenda de grano"
+      "gloss": "para ⟨una⟩ ofrenda de grano"
     },
     {
       "surface": "בלולה",
-      "english": "mezclada"
+      "gloss": "mezclada"
     },
     {
       "surface": "בשמן",
-      "english": "⟨con el⟩ aceite"
+      "gloss": "⟨con el⟩ aceite"
     },
     {
       "surface": "כתית",
-      "english": "batido"
+      "gloss": "batido"
     },
     {
       "surface": "רביעת",
-      "english": "⟨el⟩ cuarto"
+      "gloss": "⟨el⟩ cuarto"
     },
     {
       "surface": "ההין",
-      "english": "⟨del⟩ hin"
+      "gloss": "⟨del⟩ hin"
     }
-  ],
-  "timestamp": "2026-07-17T00:40:13.589098357Z",
-  "model": "glm-4.5"
+  ]
 }

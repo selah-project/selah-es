@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "ezekiel 12:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 12,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:20:00.942921933Z",
+  "translation": "Hijo de hombre, ¿no ha dicho ⟨a⟩ ti la casa de Yisrael, ⟨la⟩ casa rebelde: 'Qué ⟨es lo que⟩ tú ⟨estás⟩ haciendo?'",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Hijo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de hombre"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿no"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ha dicho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨a⟩ ti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨la⟩ casa"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "rebelde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qué"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tú"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨estás⟩ haciendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17272,
-    "prompt_tokens_details": {
-      "cached_tokens": 15965
-    },
-    "total_tokens": 17695
-  },
-  "translation": "Hijo de hombre, ¿no ha dicho ⟨a⟩ ti la casa de Yisrael, ⟨la⟩ casa rebelde: 'Qué ⟨es lo que⟩ tú ⟨estás⟩ haciendo?'",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Hijo"
-    },
-    {
-      "surface": "אדם",
-      "english": "de hombre"
-    },
-    {
-      "surface": "הלא",
-      "english": "¿no"
-    },
-    {
-      "surface": "אמרו",
-      "english": "ha dicho"
-    },
-    {
-      "surface": "אליך",
-      "english": "⟨a⟩ ti"
-    },
-    {
-      "surface": "בית",
-      "english": "la casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨la⟩ casa"
-    },
-    {
-      "surface": "המרי",
-      "english": "rebelde"
-    },
-    {
-      "surface": "מה",
-      "english": "Qué"
-    },
-    {
-      "surface": "אתה",
-      "english": "tú"
-    },
-    {
-      "surface": "עשה",
-      "english": "⟨estás⟩ haciendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:20:00.942921933Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,90 +1,82 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "judges 6:10",
   "book": "judges",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 564,
-    "prompt_tokens": 24322,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 24886
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:22:15.283292778Z",
   "translation": "y dije a ustedes: Yo soy YHWH su Elohim; no teman ⟨את⟩ los elohim del emori, en cuya tierra ustedes habitan, y no escucharon mi voz.",
   "tokens": [
     {
       "surface": "ואמרה",
-      "english": "y dije"
+      "gloss": "y dije"
     },
     {
       "surface": "לכם",
-      "english": "a ustedes"
+      "gloss": "a ustedes"
     },
     {
       "surface": "אני",
-      "english": "Yo soy"
+      "gloss": "Yo soy"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיכם",
-      "english": "su Elohim"
+      "gloss": "su Elohim"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תיראו",
-      "english": "teman"
+      "gloss": "teman"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los elohim del emori"
     },
     {
       "surface": "אלהי",
-      "english": "los elohim"
+      "gloss": "los elohim"
     },
     {
       "surface": "האמרי",
-      "english": "del emori"
+      "gloss": "del emori"
     },
     {
       "surface": "אשר",
-      "english": "en cuya"
+      "gloss": "en cuya"
     },
     {
       "surface": "אתם",
-      "english": "ustedes"
+      "gloss": "ustedes"
     },
     {
       "surface": "יושבים",
-      "english": "habitan"
+      "gloss": "habitan"
     },
     {
       "surface": "בארצם",
-      "english": "tierra"
+      "gloss": "tierra"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "שמעתם",
-      "english": "escucharon"
+      "gloss": "escucharon"
     },
     {
       "surface": "בקולי",
-      "english": "mi voz"
+      "gloss": "mi voz"
     }
-  ],
-  "timestamp": "2026-07-16T22:22:15.283292778Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 109:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 364,
-    "prompt_tokens": 69923,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70287
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:12.834917857Z",
   "translation": "En su juicio salga ⟨el⟩ culpable, y su oración sea para pecado.",
   "tokens": [
     {
       "surface": "בהשפטו",
-      "english": "En su juicio"
+      "gloss": "En su juicio"
     },
     {
       "surface": "יצא",
-      "english": "salga"
+      "gloss": "salga"
     },
     {
       "surface": "רשע",
-      "english": "⟨el⟩ culpable"
+      "gloss": "⟨el⟩ culpable"
     },
     {
       "surface": "ותפלתו",
-      "english": "y su oración"
+      "gloss": "y su oración"
     },
     {
       "surface": "תהיה",
-      "english": "sea"
+      "gloss": "sea"
     },
     {
       "surface": "לחטאה",
-      "english": "para pecado"
+      "gloss": "para pecado"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:12.834917857Z",
-  "model": "glm-4.5"
+  ]
 }

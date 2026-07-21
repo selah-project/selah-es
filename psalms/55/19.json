@@ -1,63 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 55:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70030,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70489
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:24:48.841649858Z",
   "translation": "⟨He⟩ ha rescatado en paz mi ⟨alma⟩ ⟨de⟩ ⟨la⟩ batalla ⟨contra mí⟩, porque ⟨eran⟩ muchos ⟨los que estaban⟩ conmigo",
   "tokens": [
     {
       "surface": "פדה",
-      "english": "⟨He⟩ ha rescatado",
+      "gloss": "⟨He⟩ ha rescatado",
       "marks": "mi alma en paz"
     },
     {
       "surface": "בשלום",
-      "english": "en paz"
+      "gloss": "en paz"
     },
     {
       "surface": "נפשי",
-      "english": "mi ⟨alma⟩",
+      "gloss": "mi ⟨alma⟩",
       "marks": "alma"
     },
     {
       "surface": "מקרב",
-      "english": "⟨de⟩ ⟨la⟩ batalla"
+      "gloss": "⟨de⟩ ⟨la⟩ batalla"
     },
     {
       "surface": "לי",
-      "english": "⟨contra mí⟩"
+      "gloss": "⟨contra mí⟩"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "ברבים",
-      "english": "muchos"
+      "gloss": "muchos"
     },
     {
       "surface": "היו",
-      "english": "⟨eran⟩",
+      "gloss": "⟨eran⟩",
       "marks": "los que estaban"
     },
     {
       "surface": "עמדי",
-      "english": "conmigo"
+      "gloss": "conmigo"
     }
-  ],
-  "timestamp": "2026-06-09T23:24:48.841649858Z",
-  "model": "glm-4.5"
+  ]
 }

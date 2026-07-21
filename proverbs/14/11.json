@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "proverbs 14:11",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59772,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60065
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:38:30.759323102Z",
   "translation": "La casa ⟨de los⟩ malvados será destruida, pero ⟨el⟩ tabernáculo ⟨de los⟩ justos florecerá.",
   "tokens": [
     {
       "surface": "בית",
-      "english": "La casa"
+      "gloss": "La casa"
     },
     {
       "surface": "רשעים",
-      "english": "⟨de los⟩ malvados"
+      "gloss": "⟨de los⟩ malvados"
     },
     {
       "surface": "ישמד",
-      "english": "será destruida"
+      "gloss": "será destruida"
     },
     {
       "surface": "ואהל",
-      "english": "pero ⟨el⟩ tabernáculo"
+      "gloss": "pero ⟨el⟩ tabernáculo"
     },
     {
       "surface": "ישרים",
-      "english": "⟨de los⟩ justos"
+      "gloss": "⟨de los⟩ justos"
     },
     {
       "surface": "יפריח",
-      "english": "florecerá"
+      "gloss": "florecerá"
     }
-  ],
-  "timestamp": "2026-06-10T01:38:30.759323102Z",
-  "model": "glm-4.5"
+  ]
 }

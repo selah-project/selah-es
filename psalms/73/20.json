@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 73:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69834,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70302
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:20.033252562Z",
   "translation": "Como un sueño ⟨al⟩ despertar, ⟨el⟩ Adonai ⟨en⟩ ⟨la⟩ ciudad ⟨su⟩ imagen despreciarás.",
   "tokens": [
     {
       "surface": "כחלום",
-      "english": "Como un sueño"
+      "gloss": "Como un sueño"
     },
     {
       "surface": "מהקיץ",
-      "english": "⟨al⟩ despertar"
+      "gloss": "⟨al⟩ despertar"
     },
     {
       "surface": "אדני",
-      "english": "⟨el⟩ Adonai"
+      "gloss": "⟨el⟩ Adonai"
     },
     {
       "surface": "בעיר",
-      "english": "⟨en⟩ ⟨la⟩ ciudad"
+      "gloss": "⟨en⟩ ⟨la⟩ ciudad"
     },
     {
       "surface": "צלמם",
-      "english": "⟨su⟩ imagen"
+      "gloss": "⟨su⟩ imagen"
     },
     {
       "surface": "תבזה",
-      "english": "despreciarás"
+      "gloss": "despreciarás"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:20.033252562Z",
-  "model": "glm-4.5"
+  ]
 }

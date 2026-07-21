@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 15:6",
   "book": "genesis",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 501,
-    "prompt_tokens": 28181,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28682
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:57:10.249102505Z",
   "translation": "Y él creyó en YHWH y ⟨lo⟩ contó para él ⟨como⟩ justicia",
   "tokens": [
     {
       "surface": "והאמן",
-      "english": "Y él creyó"
+      "gloss": "Y él creyó"
     },
     {
       "surface": "ביהוה",
-      "english": "en YHWH"
+      "gloss": "en YHWH"
     },
     {
       "surface": "ויחשבה",
-      "english": "y ⟨lo⟩ contó"
+      "gloss": "y ⟨lo⟩ contó"
     },
     {
       "surface": "לו",
-      "english": "para él"
+      "gloss": "para él"
     },
     {
       "surface": "צדקה",
-      "english": "⟨como⟩ justicia"
+      "gloss": "⟨como⟩ justicia"
     }
-  ],
-  "timestamp": "2026-07-16T20:57:10.249102505Z",
-  "model": "glm-4.5"
+  ]
 }

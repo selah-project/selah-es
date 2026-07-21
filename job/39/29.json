@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "job 39:29",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26923,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27227
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:16:48.010413406Z",
   "translation": "From there he seeks ⟨את⟩ food, to ⟨a⟩ distant place his eyes gaze intently",
   "tokens": [
     {
       "surface": "משם",
-      "english": "From there"
+      "gloss": "From there"
     },
     {
       "surface": "חפר",
-      "english": "he seeks"
+      "gloss": "he seeks"
     },
     {
       "surface": "אכל",
-      "english": "⟨את⟩ food",
+      "gloss": "⟨את⟩ food",
       "marks": "food"
     },
     {
       "surface": "למרחוק",
-      "english": "to ⟨a⟩ distant place"
+      "gloss": "to ⟨a⟩ distant place"
     },
     {
       "surface": "עיניו",
-      "english": "his eyes"
+      "gloss": "his eyes"
     },
     {
       "surface": "יביטו",
-      "english": "gaze intently"
+      "gloss": "gaze intently"
     }
-  ],
-  "timestamp": "2026-06-10T02:16:48.010413406Z",
-  "model": "glm-4.5"
+  ]
 }

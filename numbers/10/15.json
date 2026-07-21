@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "numbers 10:15",
   "book": "numbers",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25054,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25393
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:47:10.026576237Z",
   "translation": "y ⟨al⟩ ⟨el⟩ tsavá ⟨del⟩ majtáh bené Yisakhar Netanel ⟨hijo de⟩ Tzuá",
   "tokens": [
     {
       "surface": "ועל",
-      "english": "Y ⟨al⟩"
+      "gloss": "Y ⟨al⟩"
     },
     {
       "surface": "צבא",
-      "english": "⟨el⟩ tsavá"
+      "gloss": "⟨el⟩ tsavá"
     },
     {
       "surface": "מטה",
-      "english": "⟨del⟩ majtáh"
+      "gloss": "⟨del⟩ majtáh"
     },
     {
       "surface": "בני",
-      "english": "bené"
+      "gloss": "bené"
     },
     {
       "surface": "יששכר",
-      "english": "Yisakhar"
+      "gloss": "Yisakhar"
     },
     {
       "surface": "נתנאל",
-      "english": "Netanel"
+      "gloss": "Netanel"
     },
     {
       "surface": "בן",
-      "english": "⟨hijo de⟩"
+      "gloss": "⟨hijo de⟩"
     },
     {
       "surface": "צוער",
-      "english": "Tzuá"
+      "gloss": "Tzuá"
     }
-  ],
-  "timestamp": "2026-06-10T04:47:10.026576237Z",
-  "model": "glm-4.5"
+  ]
 }

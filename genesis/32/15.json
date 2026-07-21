@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 32:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28468,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28813
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:30:19.359652867Z",
   "translation": "cabras machos doscientos y ⟨los⟩ veinte machos cabríos, ovejas doscientas y ⟨los⟩ veinte carneros",
   "tokens": [
     {
       "surface": "עזים",
-      "english": "Cabras machos"
+      "gloss": "Cabras machos"
     },
     {
       "surface": "מאתים",
-      "english": "doscientos"
+      "gloss": "doscientos"
     },
     {
       "surface": "ותישים",
-      "english": "y ⟨los⟩ veinte machos cabríos"
+      "gloss": "y ⟨los⟩ veinte machos cabríos"
     },
     {
       "surface": "עשרים",
-      "english": "veinte"
+      "gloss": "veinte"
     },
     {
       "surface": "רחלים",
-      "english": "ovejas"
+      "gloss": "ovejas"
     },
     {
       "surface": "מאתים",
-      "english": "doscientas"
+      "gloss": "doscientas"
     },
     {
       "surface": "ואילים",
-      "english": "y ⟨los⟩ veinte carneros"
+      "gloss": "y ⟨los⟩ veinte carneros"
     },
     {
       "surface": "עשרים",
-      "english": "veinte"
+      "gloss": "veinte"
     }
-  ],
-  "timestamp": "2026-06-10T05:30:19.359652867Z",
-  "model": "glm-4.5"
+  ]
 }

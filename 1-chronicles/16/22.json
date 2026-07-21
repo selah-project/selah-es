@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-chronicles 16:22",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 304,
-    "prompt_tokens": 64001,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64305
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:08:57.105444980Z",
   "translation": "No toquéis ⟨a⟩ mis ungidos, y ⟨a⟩ mis profetas no ⟨hagáis⟩ mal.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תגעו",
-      "english": "toquéis"
+      "gloss": "toquéis"
     },
     {
       "surface": "במשיחי",
-      "english": "⟨a⟩ mis ungidos",
+      "gloss": "⟨a⟩ mis ungidos",
       "marks": "mis ungidos"
     },
     {
       "surface": "ובנביאי",
-      "english": "y ⟨a⟩ mis profetas",
+      "gloss": "y ⟨a⟩ mis profetas",
       "marks": "mis profetas"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תרעו",
-      "english": "⟨hagáis⟩ mal"
+      "gloss": "⟨hagáis⟩ mal"
     }
-  ],
-  "timestamp": "2026-07-16T18:08:57.105444980Z",
-  "model": "glm-4.5"
+  ]
 }

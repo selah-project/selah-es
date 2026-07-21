@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 11:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59887,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60364
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:35:52.945164796Z",
   "translation": "En ⟨el⟩ bien de ⟨los⟩ justos ⟨la⟩ ciudad se alegra, y en ⟨la⟩ perdición de ⟨los⟩ malvados ⟨hay⟩ gritos de alegría",
   "tokens": [
     {
       "surface": "בטוב",
-      "english": "En ⟨el⟩ bien"
+      "gloss": "En ⟨el⟩ bien"
     },
     {
       "surface": "צדיקים",
-      "english": "de ⟨los⟩ justos"
+      "gloss": "de ⟨los⟩ justos"
     },
     {
       "surface": "תעלץ",
-      "english": "⟨la⟩ ciudad se alegra"
+      "gloss": "⟨la⟩ ciudad se alegra"
     },
     {
       "surface": "קריה",
-      "english": "⟨la⟩ ciudad"
+      "gloss": "⟨la⟩ ciudad"
     },
     {
       "surface": "ובאבד",
-      "english": "y en ⟨la⟩ perdición"
+      "gloss": "y en ⟨la⟩ perdición"
     },
     {
       "surface": "רשעים",
-      "english": "de ⟨los⟩ malvados"
+      "gloss": "de ⟨los⟩ malvados"
     },
     {
       "surface": "רנה",
-      "english": "⟨hay⟩ gritos de alegría"
+      "gloss": "⟨hay⟩ gritos de alegría"
     }
-  ],
-  "timestamp": "2026-06-10T01:35:52.945164796Z",
-  "model": "glm-4.5"
+  ]
 }

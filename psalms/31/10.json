@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 31:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70230,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70856
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:11:38.637990502Z",
   "translation": "Ten piedad ⟨de⟩ mí, oh YHWH, porque ⟨en⟩ aflicción ⟨está⟩ ⟨el⟩ alma ⟨de⟩ mí ⟨y⟩ ⟨el⟩ vientre ⟨de⟩ mí ⟨y⟩ mis ojos ⟨están⟩ consumidos ⟨por⟩ ⟨el⟩ pesar, ⟨sí⟩, ⟨el⟩ alma ⟨y⟩ ⟨el⟩ vientre ⟨de⟩ mí.",
   "tokens": [
     {
       "surface": "חנני",
-      "english": "Ten piedad"
+      "gloss": "Ten piedad"
     },
     {
       "surface": "יהוה",
-      "english": "oh YHWH"
+      "gloss": "oh YHWH"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "צר",
-      "english": "en aflicción"
+      "gloss": "en aflicción"
     },
     {
       "surface": "לי",
-      "english": "de mí"
+      "gloss": "de mí"
     },
     {
       "surface": "עששה",
-      "english": "está"
+      "gloss": "está"
     },
     {
       "surface": "בכעס",
-      "english": "el pesar"
+      "gloss": "el pesar"
     },
     {
       "surface": "עיני",
-      "english": "mis ojos"
+      "gloss": "mis ojos"
     },
     {
       "surface": "נפשי",
-      "english": "el alma"
+      "gloss": "el alma"
     },
     {
       "surface": "ובטני",
-      "english": "y el vientre"
+      "gloss": "y el vientre"
     }
-  ],
-  "timestamp": "2026-06-09T23:11:38.637990502Z",
-  "model": "glm-4.5"
+  ]
 }

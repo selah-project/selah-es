@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "numbers 22:24",
   "book": "numbers",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 611,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25192,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25803
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:58:12.744750341Z",
   "translation": "Y ⟨el⟩ ángel de YHWH se ⟨paró⟩ ⟨en⟩ ⟨el⟩ sendero ⟨de⟩ ⟨los⟩ viñedos ⟨con⟩ ⟨un⟩ muro ⟨por⟩ ⟨este⟩ lado y ⟨un⟩ muro ⟨por⟩ ⟨este⟩",
   "tokens": [
     {
       "surface": "ויעמד",
-      "english": "Y ⟨el⟩ ángel se ⟨paró⟩"
+      "gloss": "Y ⟨el⟩ ángel se ⟨paró⟩"
     },
     {
       "surface": "מלאך",
-      "english": "ángel"
+      "gloss": "ángel"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "במשעול",
-      "english": "⟨en⟩ ⟨el⟩ sendero"
+      "gloss": "⟨en⟩ ⟨el⟩ sendero"
     },
     {
       "surface": "הכרמים",
-      "english": "⟨de⟩ ⟨los⟩ viñedos"
+      "gloss": "⟨de⟩ ⟨los⟩ viñedos"
     },
     {
       "surface": "גדר",
-      "english": "⟨con⟩ ⟨un⟩ muro"
+      "gloss": "⟨con⟩ ⟨un⟩ muro"
     },
     {
       "surface": "מזה",
-      "english": "⟨por⟩ ⟨este⟩ lado"
+      "gloss": "⟨por⟩ ⟨este⟩ lado"
     },
     {
       "surface": "וגדר",
-      "english": "y ⟨un⟩ muro"
+      "gloss": "y ⟨un⟩ muro"
     },
     {
       "surface": "מזה",
-      "english": "⟨por⟩ ⟨este⟩"
+      "gloss": "⟨por⟩ ⟨este⟩"
     }
-  ],
-  "timestamp": "2026-06-10T04:58:12.744750341Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 33:4",
   "book": "genesis",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28561,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29111
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:30:58.716257277Z",
   "translation": "Y Esav corrió a ⟨el⟩ encontrarse ⟨con⟩ él ⟨y⟩ ⟨lo⟩ abrazó y cayó sobre ⟨su⟩ cuello y ⟨lo⟩ besó y lloraron",
   "tokens": [
     {
       "surface": "וירץ",
-      "english": "Y Esav corrió"
+      "gloss": "Y Esav corrió"
     },
     {
       "surface": "עשו",
-      "english": "Esav"
+      "gloss": "Esav"
     },
     {
       "surface": "לקראתו",
-      "english": "a ⟨el⟩ encontrarse ⟨con⟩ él"
+      "gloss": "a ⟨el⟩ encontrarse ⟨con⟩ él"
     },
     {
       "surface": "ויחבקהו",
-      "english": "⟨y⟩ ⟨lo⟩ abrazó"
+      "gloss": "⟨y⟩ ⟨lo⟩ abrazó"
     },
     {
       "surface": "ויפל",
-      "english": "y cayó"
+      "gloss": "y cayó"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "צוארו",
-      "english": "⟨su⟩ cuello"
+      "gloss": "⟨su⟩ cuello"
     },
     {
       "surface": "וישקהו",
-      "english": "y ⟨lo⟩ besó"
+      "gloss": "y ⟨lo⟩ besó"
     },
     {
       "surface": "ויבכו",
-      "english": "y lloraron"
+      "gloss": "y lloraron"
     }
-  ],
-  "timestamp": "2026-06-10T05:30:58.716257277Z",
-  "model": "glm-4.5"
+  ]
 }

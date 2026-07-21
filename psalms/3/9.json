@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 3:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 419,
-    "prompt_tokens": 69717,
-    "prompt_tokens_details": {
-      "cached_tokens": 65536
-    },
-    "total_tokens": 70136
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:31.135720499Z",
   "translation": "La salvación ⟨es⟩ ⟨de⟩ YHWH; ⟨está⟩ sobre tu pueblo tu bendición. Selah.",
   "tokens": [
     {
       "surface": "ליהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הישועה",
-      "english": "La salvación"
+      "gloss": "La salvación"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "עמך",
-      "english": "tu pueblo"
+      "gloss": "tu pueblo"
     },
     {
       "surface": "ברכתך",
-      "english": "tu bendición"
+      "gloss": "tu bendición"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:31.135720499Z",
-  "model": "glm-4.5"
+  ]
 }

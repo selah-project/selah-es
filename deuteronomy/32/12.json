@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "deuteronomy 32:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17165,
-    "prompt_tokens_details": {
-      "cached_tokens": 16230
-    },
-    "total_tokens": 17640
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:35:48.375901216Z",
   "translation": "YHWH ⟨por⟩ sí solo ⟨lo⟩ guió, y ⟨no⟩ había ⟨con⟩ él ⟨un⟩ dios extranjero.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בדד",
-      "english": "⟨por⟩ sí solo"
+      "gloss": "⟨por⟩ sí solo"
     },
     {
       "surface": "ינחנו",
-      "english": "⟨lo⟩ guió"
+      "gloss": "⟨lo⟩ guió"
     },
     {
       "surface": "ואין",
-      "english": "y ⟨no⟩ había"
+      "gloss": "y ⟨no⟩ había"
     },
     {
       "surface": "עמו",
-      "english": "⟨con⟩ él"
+      "gloss": "⟨con⟩ él"
     },
     {
       "surface": "אל",
-      "english": "⟨un⟩ dios"
+      "gloss": "⟨un⟩ dios"
     },
     {
       "surface": "נכר",
-      "english": "extranjero"
+      "gloss": "extranjero"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:35:48.375901216Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

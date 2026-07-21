@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "numbers 11:3",
   "book": "numbers",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25148,
-    "prompt_tokens_details": {
-      "cached_tokens": 23998
-    },
-    "total_tokens": 25605
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:47:40.735482903Z",
   "translation": "Y ⟨he⟩ llamó ⟨el⟩ nombre ⟨de⟩ ⟨el⟩ lugar aquel Taberah porque ⟨se⟩ ⟨encendió⟩ ⟨en⟩ ellos ⟨el⟩ fuego ⟨de⟩ YHWH",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "Y ⟨he⟩ llamó"
+      "gloss": "Y ⟨he⟩ llamó"
     },
     {
       "surface": "שם",
-      "english": "⟨el⟩ nombre"
+      "gloss": "⟨el⟩ nombre"
     },
     {
       "surface": "המקום",
-      "english": "⟨de⟩ ⟨el⟩ lugar"
+      "gloss": "⟨de⟩ ⟨el⟩ lugar"
     },
     {
       "surface": "ההוא",
-      "english": "aquel"
+      "gloss": "aquel"
     },
     {
       "surface": "תבערה",
-      "english": "Taberah"
+      "gloss": "Taberah"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "בערה",
-      "english": "⟨se⟩ ⟨encendió⟩"
+      "gloss": "⟨se⟩ ⟨encendió⟩"
     },
     {
       "surface": "בם",
-      "english": "⟨en⟩ ellos"
+      "gloss": "⟨en⟩ ellos"
     },
     {
       "surface": "אש",
-      "english": "⟨el⟩ fuego"
+      "gloss": "⟨el⟩ fuego"
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
+      "gloss": "⟨de⟩ YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T04:47:40.735482903Z",
-  "model": "glm-4.5"
+  ]
 }

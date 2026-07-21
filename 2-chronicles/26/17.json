@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "2-chronicles 26:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 26,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:28:14.995120961Z",
+  "translation": "Y vino Azarías Kohen tras él, y con él Kohens de YHWH, ⟨los⟩ ochenta, hijos de ⟨los⟩ valientes",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Y vino"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "tras él"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azarías"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "el sacerdote"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "y con él"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "Kohens"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "⟨los⟩ ochenta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos de"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨los⟩ valientes"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,64 +60,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57989,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58380
-  },
-  "translation": "Y vino Azarías Kohen tras él, y con él Kohens de YHWH, ⟨los⟩ ochenta, hijos de ⟨los⟩ valientes",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "Y vino"
-    },
-    {
-      "surface": "אחריו",
-      "english": "tras él"
-    },
-    {
-      "surface": "עזריהו",
-      "english": "Azarías"
-    },
-    {
-      "surface": "הכהן",
-      "english": "el sacerdote"
-    },
-    {
-      "surface": "ועמו",
-      "english": "y con él"
-    },
-    {
-      "surface": "כהנים",
-      "english": "Kohens"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "שמונים",
-      "english": "⟨los⟩ ochenta"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos de"
-    },
-    {
-      "surface": "חיל",
-      "english": "⟨los⟩ valientes"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:28:14.995120961Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

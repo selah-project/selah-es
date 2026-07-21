@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-samuel 1:5",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 603,
-    "prompt_tokens": 23947,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24550
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:33:54.929396944Z",
   "translation": "pero ⟨a⟩ Janá le daba una porción doble, porqué ⟨a⟩ Janá amaba, y YHWH había cerrado su matriz",
   "tokens": [
     {
       "surface": "ולחנה",
-      "english": "pero ⟨a⟩ Janá"
+      "gloss": "pero ⟨a⟩ Janá"
     },
     {
       "surface": "יתן",
-      "english": "daba"
+      "gloss": "daba"
     },
     {
       "surface": "מנה",
-      "english": "una porción"
+      "gloss": "una porción"
     },
     {
       "surface": "אחת",
-      "english": "doble"
+      "gloss": "doble"
     },
     {
       "surface": "אפים",
-      "english": "⟨por⟩ ⟨nada⟩"
+      "gloss": "⟨por⟩ ⟨nada⟩"
     },
     {
       "surface": "כי",
-      "english": "porqué"
+      "gloss": "porqué"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Janá"
     },
     {
       "surface": "חנה",
-      "english": "Janá"
+      "gloss": "Janá"
     },
     {
       "surface": "אהב",
-      "english": "amaba"
+      "gloss": "amaba"
     },
     {
       "surface": "ויהוה",
-      "english": "y YHWH"
+      "gloss": "y YHWH"
     },
     {
       "surface": "סגר",
-      "english": "había cerrado"
+      "gloss": "había cerrado"
     },
     {
       "surface": "רחמה",
-      "english": "su matriz"
+      "gloss": "su matriz"
     }
-  ],
-  "timestamp": "2026-07-16T18:33:54.929396944Z",
-  "model": "glm-4.5"
+  ]
 }

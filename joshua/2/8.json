@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "joshua 2:8",
   "book": "joshua",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 297,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23338,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23635
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:06:45.827032419Z",
   "translation": "Y antes de que ⟨ellos⟩ se acostaran, ella subió ⟨a⟩ ellos ⟨sobre⟩ el techo",
   "tokens": [
     {
       "surface": "והמה",
-      "english": "Y antes de que"
+      "gloss": "Y antes de que"
     },
     {
       "surface": "טרם",
-      "english": "ellos"
+      "gloss": "ellos"
     },
     {
       "surface": "ישכבון",
-      "english": "se acostaran"
+      "gloss": "se acostaran"
     },
     {
       "surface": "והיא",
-      "english": "ella"
+      "gloss": "ella"
     },
     {
       "surface": "עלתה",
-      "english": "subió"
+      "gloss": "subió"
     },
     {
       "surface": "עליהם",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הגג",
-      "english": "el techo"
+      "gloss": "el techo"
     }
-  ],
-  "timestamp": "2026-06-10T01:06:45.827032419Z",
-  "model": "glm-4.5"
+  ]
 }

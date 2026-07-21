@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "leviticus 16:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 16,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:54:30.286594218Z",
+  "translation": "Y ⟨ningún⟩ humano ⟨será⟩ en ⟨el⟩ Ohel Moed en su entrada para hacer expiación en ⟨el⟩ lugar santísimo hasta su salida, y hará expiación por sí, y por ⟨su⟩ casa, y por toda la asamblea de Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Y ⟨ningún⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "humano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨será⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "en"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "⟨el⟩ Ohel Moed"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "su entrada"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "para hacer expiación"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "en ⟨el⟩ lugar santísimo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "su salida"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "y hará expiación"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "por sí"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "y por"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨su⟩ casa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "y por"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "asamblea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,100 +96,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 710,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18245,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 18955
-  },
-  "translation": "Y ⟨ningún⟩ humano ⟨será⟩ en ⟨el⟩ Ohel Moed en su entrada para hacer expiación en ⟨el⟩ lugar santísimo hasta su salida, y hará expiación por sí, y por ⟨su⟩ casa, y por toda la asamblea de Yisrael.",
-  "tokens": [
-    {
-      "surface": "וכל",
-      "english": "Y ⟨ningún⟩"
-    },
-    {
-      "surface": "אדם",
-      "english": "humano"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨será⟩"
-    },
-    {
-      "surface": "יהיה",
-      "english": "en"
-    },
-    {
-      "surface": "באהל",
-      "english": "⟨el⟩ Ohel Moed"
-    },
-    {
-      "surface": "מועד",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "בבאו",
-      "english": "su entrada"
-    },
-    {
-      "surface": "לכפר",
-      "english": "para hacer expiación"
-    },
-    {
-      "surface": "בקדש",
-      "english": "en ⟨el⟩ lugar santísimo"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta"
-    },
-    {
-      "surface": "צאתו",
-      "english": "su salida"
-    },
-    {
-      "surface": "וכפר",
-      "english": "y hará expiación"
-    },
-    {
-      "surface": "בעדו",
-      "english": "por sí"
-    },
-    {
-      "surface": "ובעד",
-      "english": "y por"
-    },
-    {
-      "surface": "ביתו",
-      "english": "⟨su⟩ casa"
-    },
-    {
-      "surface": "ובעד",
-      "english": "y por"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "קהל",
-      "english": "asamblea"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:54:30.286594218Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

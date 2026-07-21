@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 49:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69823,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70316
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:21:44.681230786Z",
   "translation": "⟨el⟩ habla ⟨la⟩ boca ⟨de⟩ sabidurías ⟨y⟩ meditaciones ⟨de⟩ ⟨el⟩ corazón ⟨son⟩ entendimientos",
   "tokens": [
     {
       "surface": "פי",
-      "english": "⟨El⟩ habla ⟨la⟩ boca"
+      "gloss": "⟨El⟩ habla ⟨la⟩ boca"
     },
     {
       "surface": "ידבר",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "חכמות",
-      "english": "sabidurías"
+      "gloss": "sabidurías"
     },
     {
       "surface": "והגות",
-      "english": "⟨y⟩ meditaciones"
+      "gloss": "⟨y⟩ meditaciones"
     },
     {
       "surface": "לבי",
-      "english": "⟨de⟩ ⟨el⟩ corazón"
+      "gloss": "⟨de⟩ ⟨el⟩ corazón"
     },
     {
       "surface": "תבונות",
-      "english": "⟨son⟩ entendimientos"
+      "gloss": "⟨son⟩ entendimientos"
     }
-  ],
-  "timestamp": "2026-06-09T23:21:44.681230786Z",
-  "model": "glm-4.5"
+  ]
 }

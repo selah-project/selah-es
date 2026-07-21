@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "1-samuel 2:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 205,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 15964,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16169
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:45:37.172925094Z",
   "translation": "YHHVH mata y da vida; desciende ⟨a⟩ Sheol y hace subir.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ממית",
-      "english": "mata"
+      "gloss": "mata"
     },
     {
       "surface": "ומחיה",
-      "english": "y da vida"
+      "gloss": "y da vida"
     },
     {
       "surface": "מוריד",
-      "english": "desciende",
+      "gloss": "desciende",
       "marks": "⟨a⟩ Sheol"
     },
     {
       "surface": "שאול",
-      "english": "Sheol"
+      "gloss": "Sheol"
     },
     {
       "surface": "ויעל",
-      "english": "y hace subir"
+      "gloss": "y hace subir"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:45:37.172925094Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,75 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "deuteronomy 12:22",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 634,
-    "prompt_tokens": 25382,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 26016
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:49:14.324403385Z",
   "translation": "Solo como se come ⟨el⟩ gacela y ⟨el⟩ ciervo, así ⟨lo⟩ comeréis ⟨el⟩ inmundo y ⟨el⟩ limpio ⟨juntos⟩ lo comerán.",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Solo"
+      "gloss": "Solo"
     },
     {
       "surface": "כאשר",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "יאכל",
-      "english": "se come"
+      "gloss": "se come"
     },
     {
       "surface": "את",
-      "english": "⟨el⟩",
+      "gloss": "⟨el⟩",
       "marks": "gacela"
     },
     {
       "surface": "הצבי",
-      "english": "gacela"
+      "gloss": "gacela"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨el⟩",
+      "gloss": "y ⟨el⟩",
       "marks": "ciervo"
     },
     {
       "surface": "האיל",
-      "english": "ciervo"
+      "gloss": "ciervo"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "תאכלנו",
-      "english": "⟨lo⟩ comeréis"
+      "gloss": "⟨lo⟩ comeréis"
     },
     {
       "surface": "הטמא",
-      "english": "⟨el⟩ inmundo"
+      "gloss": "⟨el⟩ inmundo"
     },
     {
       "surface": "והטהור",
-      "english": "y ⟨el⟩ limpio"
+      "gloss": "y ⟨el⟩ limpio"
     },
     {
       "surface": "יחדו",
-      "english": "⟨juntos⟩"
+      "gloss": "⟨juntos⟩"
     },
     {
       "surface": "יאכלנו",
-      "english": "lo comerán"
+      "gloss": "lo comerán"
     }
-  ],
-  "timestamp": "2026-07-16T19:49:14.324403385Z",
-  "model": "glm-4.5"
+  ]
 }

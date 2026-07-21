@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "numbers 21:21",
   "book": "numbers",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25038,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25338
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:56:55.680320495Z",
   "translation": "Y Israel envió mensajeros ⟨a⟩ Sijón rey ⟨de⟩ ⟨los⟩ amorreos, diciendo:",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "Y envió"
+      "gloss": "Y envió"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "מלאכים",
-      "english": "mensajeros"
+      "gloss": "mensajeros"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "סיחן",
-      "english": "Sijón"
+      "gloss": "Sijón"
     },
     {
       "surface": "מלך",
-      "english": "rey"
+      "gloss": "rey"
     },
     {
       "surface": "האמרי",
-      "english": "⟨de⟩ ⟨los⟩ amorreos"
+      "gloss": "⟨de⟩ ⟨los⟩ amorreos"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo:"
+      "gloss": "diciendo:"
     }
-  ],
-  "timestamp": "2026-06-10T04:56:55.680320495Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 96:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 266,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69767,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70033
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:47:10.296553173Z",
   "translation": "Majestía y esplendor están ante ⟨su⟩ faz; poder y hermosura en ⟨su⟩ santuario.",
   "tokens": [
     {
       "surface": "הוד",
-      "english": "Majestía"
+      "gloss": "Majestía"
     },
     {
       "surface": "והדר",
-      "english": "y esplendor"
+      "gloss": "y esplendor"
     },
     {
       "surface": "לפניו",
-      "english": "ante ⟨su⟩ faz"
+      "gloss": "ante ⟨su⟩ faz"
     },
     {
       "surface": "עז",
-      "english": "poder"
+      "gloss": "poder"
     },
     {
       "surface": "ותפארת",
-      "english": "y hermosura"
+      "gloss": "y hermosura"
     },
     {
       "surface": "במקדשו",
-      "english": "en ⟨su⟩ santuario"
+      "gloss": "en ⟨su⟩ santuario"
     }
-  ],
-  "timestamp": "2026-06-09T23:47:10.296553173Z",
-  "model": "glm-4.5"
+  ]
 }

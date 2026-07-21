@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 46,
   "ref": "psalms 78:46",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69699,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70221
-  },
+  "verse": 46,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:38:11.837046695Z",
   "translation": "Y ⟨dio⟩ ⟨el⟩ aumento ⟨de⟩ ellos ⟨a⟩ ⟨la⟩ oruga y ⟨el⟩ fruto ⟨de⟩ su trabajo ⟨a⟩ ⟨la⟩ langosta",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "Y ⟨dio⟩"
+      "gloss": "Y ⟨dio⟩"
     },
     {
       "surface": "לחסיל",
-      "english": "⟨el⟩ aumento ⟨de⟩ ellos ⟨a⟩ ⟨la⟩ oruga",
+      "gloss": "⟨el⟩ aumento ⟨de⟩ ellos ⟨a⟩ ⟨la⟩ oruga",
       "marks": "el aumento de ellos"
     },
     {
       "surface": "יבולם",
-      "english": "y ⟨el⟩ fruto ⟨de⟩ su trabajo"
+      "gloss": "y ⟨el⟩ fruto ⟨de⟩ su trabajo"
     },
     {
       "surface": "ויגיעם",
-      "english": "y ⟨el⟩ fruto ⟨de⟩ su trabajo",
+      "gloss": "y ⟨el⟩ fruto ⟨de⟩ su trabajo",
       "marks": "el fruto de su trabajo"
     },
     {
       "surface": "לארבה",
-      "english": "⟨a⟩ ⟨la⟩ langosta"
+      "gloss": "⟨a⟩ ⟨la⟩ langosta"
     }
-  ],
-  "timestamp": "2026-06-09T23:38:11.837046695Z",
-  "model": "glm-4.5"
+  ]
 }

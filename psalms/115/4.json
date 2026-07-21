@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 115:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69776,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70080
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:12.542028343Z",
   "translation": "Las imágenes de ellos ⟨son⟩ plata y ⟨el⟩ oro, obra ⟨de⟩ las manos ⟨de⟩ Adán",
   "tokens": [
     {
       "surface": "עצביהם",
-      "english": "Las imágenes de ellos"
+      "gloss": "Las imágenes de ellos"
     },
     {
       "surface": "כסף",
-      "english": "plata"
+      "gloss": "plata"
     },
     {
       "surface": "וזהב",
-      "english": "y ⟨el⟩ oro"
+      "gloss": "y ⟨el⟩ oro"
     },
     {
       "surface": "מעשה",
-      "english": "obra"
+      "gloss": "obra"
     },
     {
       "surface": "ידי",
-      "english": "⟨de⟩ las manos"
+      "gloss": "⟨de⟩ las manos"
     },
     {
       "surface": "אדם",
-      "english": "⟨de⟩ Adán"
+      "gloss": "⟨de⟩ Adán"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:12.542028343Z",
-  "model": "glm-4.5"
+  ]
 }

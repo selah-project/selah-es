@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-chronicles 29:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 29,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:32:23.470484919Z",
+  "translation": "Y ⟨los⟩ levitas se ⟨presentaron⟩ ⟨con⟩ los instrumentos de Davidd ⟨y⟩ los sacerdotes ⟨con⟩ las trompetas",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "Y ⟨los⟩ levitas se ⟨presentaron⟩"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitas"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "⟨con⟩ los instrumentos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "⟨y⟩ los sacerdotes"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "⟨con⟩ las trompetas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,48 +44,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57630,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58028
-  },
-  "translation": "Y ⟨los⟩ levitas se ⟨presentaron⟩ ⟨con⟩ los instrumentos de Davidd ⟨y⟩ los sacerdotes ⟨con⟩ las trompetas",
-  "tokens": [
-    {
-      "surface": "ויעמדו",
-      "english": "Y ⟨los⟩ levitas se ⟨presentaron⟩"
-    },
-    {
-      "surface": "הלוים",
-      "english": "levitas"
-    },
-    {
-      "surface": "בכלי",
-      "english": "⟨con⟩ los instrumentos"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "והכהנים",
-      "english": "⟨y⟩ los sacerdotes"
-    },
-    {
-      "surface": "בחצצרות",
-      "english": "⟨con⟩ las trompetas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:32:23.470484919Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 135:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69862,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70170
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:06:54.871706344Z",
   "translation": "YHWH ⟨el⟩ nombre tuyo ⟨es⟩ para siempre, YHWH ⟨el⟩ recuerdo tuyo ⟨es⟩ de generación en generación",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שמך",
-      "english": "⟨el⟩ nombre tuyo"
+      "gloss": "⟨el⟩ nombre tuyo"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "זכרך",
-      "english": "⟨el⟩ recuerdo tuyo"
+      "gloss": "⟨el⟩ recuerdo tuyo"
     },
     {
       "surface": "לדר",
-      "english": "de generación"
+      "gloss": "de generación"
     },
     {
       "surface": "ודר",
-      "english": "en generación"
+      "gloss": "en generación"
     }
-  ],
-  "timestamp": "2026-06-10T00:06:54.871706344Z",
-  "model": "glm-4.5"
+  ]
 }

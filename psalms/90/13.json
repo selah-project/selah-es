@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 90:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69861,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70182
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:27.519579178Z",
   "translation": "Vuelve, YHWH, ⟨hasta⟩ ¿cuándo? y ⟨te arrepientas⟩ sobre tus siervos.",
   "tokens": [
     {
       "surface": "שובה",
-      "english": "Vuelve"
+      "gloss": "Vuelve"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עד",
-      "english": "⟨hasta⟩"
+      "gloss": "⟨hasta⟩"
     },
     {
       "surface": "מתי",
-      "english": "¿cuándo?"
+      "gloss": "¿cuándo?"
     },
     {
       "surface": "והנחם",
-      "english": "⟨te arrepientas⟩"
+      "gloss": "⟨te arrepientas⟩"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "עבדיך",
-      "english": "tus siervos"
+      "gloss": "tus siervos"
     }
-  ],
-  "timestamp": "2026-06-09T23:44:27.519579178Z",
-  "model": "glm-4.5"
+  ]
 }

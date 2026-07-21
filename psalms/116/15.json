@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 116:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69682,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70083
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:56.336222199Z",
   "translation": "Precioso ⟨en⟩ ⟨los⟩ ojos ⟨de⟩ YHWH ⟨es⟩ ⟨la⟩ muerte ⟨de⟩ ⟨sus⟩ justos",
   "tokens": [
     {
       "surface": "יקר",
-      "english": "Precioso"
+      "gloss": "Precioso"
     },
     {
       "surface": "בעיני",
-      "english": "en ⟨los⟩ ojos",
+      "gloss": "en ⟨los⟩ ojos",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
+      "gloss": "⟨de⟩ YHWH"
     },
     {
       "surface": "המותה",
-      "english": "⟨la⟩ muerte"
+      "gloss": "⟨la⟩ muerte"
     },
     {
       "surface": "לחסידיו",
-      "english": "⟨de⟩ ⟨sus⟩ justos"
+      "gloss": "⟨de⟩ ⟨sus⟩ justos"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:56.336222199Z",
-  "model": "glm-4.5"
+  ]
 }

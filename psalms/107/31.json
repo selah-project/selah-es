@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "psalms 107:31",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69806,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70233
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:44.780942007Z",
   "translation": "⟨They⟩ give thanks ⟨to⟩ YHWH ⟨for⟩ His kindness, and ⟨for⟩ His wonderful works ⟨to⟩ ⟨the⟩ sons ⟨of⟩ man.",
   "tokens": [
     {
       "surface": "יודו",
-      "english": "⟨They⟩ give thanks"
+      "gloss": "⟨They⟩ give thanks"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨to⟩ YHWH"
+      "gloss": "⟨to⟩ YHWH"
     },
     {
       "surface": "חסדו",
-      "english": "⟨for⟩ His kindness"
+      "gloss": "⟨for⟩ His kindness"
     },
     {
       "surface": "ונפלאותיו",
-      "english": "⟨for⟩ His wonderful works"
+      "gloss": "⟨for⟩ His wonderful works"
     },
     {
       "surface": "לבני",
-      "english": "⟨to⟩ ⟨the⟩ sons ⟨of⟩"
+      "gloss": "⟨to⟩ ⟨the⟩ sons ⟨of⟩"
     },
     {
       "surface": "אדם",
-      "english": "man"
+      "gloss": "man"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:44.780942007Z",
-  "model": "glm-4.5"
+  ]
 }

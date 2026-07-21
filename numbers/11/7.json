@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "numbers 11:7",
   "book": "numbers",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24947,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25229
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:47:44.006971695Z",
   "translation": "y el manna ⟨es⟩ como semilla de coriandro y su apariencia ⟨como⟩ ⟨la⟩ apariencia ⟨del⟩ bedelio",
   "tokens": [
     {
       "surface": "והמן",
-      "english": "Y el manna"
+      "gloss": "Y el manna"
     },
     {
       "surface": "כזרע",
-      "english": "como semilla de"
+      "gloss": "como semilla de"
     },
     {
       "surface": "גד",
-      "english": "coriandro"
+      "gloss": "coriandro"
     },
     {
       "surface": "הוא",
-      "english": "y su"
+      "gloss": "y su"
     },
     {
       "surface": "ועינו",
-      "english": "apariencia ⟨como⟩"
+      "gloss": "apariencia ⟨como⟩"
     },
     {
       "surface": "כעין",
-      "english": "⟨la⟩ apariencia ⟨del⟩"
+      "gloss": "⟨la⟩ apariencia ⟨del⟩"
     },
     {
       "surface": "הבדלח",
-      "english": "bedelio"
+      "gloss": "bedelio"
     }
-  ],
-  "timestamp": "2026-06-10T04:47:44.006971695Z",
-  "model": "glm-4.5"
+  ]
 }

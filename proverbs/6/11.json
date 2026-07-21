@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "proverbs 6:11",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59787,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60265
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:32:07.561598698Z",
   "translation": "Y tu pobreza vendrá como ⟨el⟩ que camina, ⟨y⟩ tu necesidad como ⟨un⟩ hombre ⟨con⟩ escudo.",
   "tokens": [
     {
       "surface": "ובא",
-      "english": "Y",
+      "gloss": "Y",
       "rationale": "conjunction introducing consequence"
     },
     {
       "surface": "כמהלך",
-      "english": "tu pobreza vendrá como ⟨el⟩ que camina",
+      "gloss": "tu pobreza vendrá como ⟨el⟩ que camina",
       "rationale": "figurative description of poverty approaching like a traveler"
     },
     {
       "surface": "ראשך",
-      "english": "pobreza",
+      "gloss": "pobreza",
       "rationale": "literally 'your head' but here idiomatic for poverty\/need"
     },
     {
       "surface": "ומחסרך",
-      "english": "⟨y⟩ tu necesidad",
+      "gloss": "⟨y⟩ tu necesidad",
       "rationale": "literally 'and your lack' meaning want\/need"
     },
     {
       "surface": "כאיש",
-      "english": "como ⟨un⟩ hombre ⟨con⟩",
+      "gloss": "como ⟨un⟩ hombre ⟨con⟩",
       "rationale": "simile introducing the armed man"
     },
     {
       "surface": "מגן",
-      "english": "escudo",
+      "gloss": "escudo",
       "rationale": "literally 'shield' but idiomatically refers to an armed man (soldier)"
     }
-  ],
-  "timestamp": "2026-06-10T01:32:07.561598698Z",
-  "model": "glm-4.5"
+  ]
 }

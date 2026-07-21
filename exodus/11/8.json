@@ -1,9 +1,104 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "exodus 11:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 11,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:36:27.446227514Z",
+  "translation": "Y ⟨todos⟩ estos siervos tuyos vendrán ⟨a⟩ mí y ⟨se⟩ postrarán ⟨a⟩ mí, diciendo: 'Sal tú y ⟨todo⟩ el pueblo que ⟨está⟩ en tus pies, y después de esto saldré.' Y salió de ⟨la⟩ presencia de Paró enardecido ⟨de⟩ ira.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Vendrán"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨todos⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "siervos tuyos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "estos"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨a⟩ mí"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "y ⟨se⟩ postrarán"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨a⟩ mí"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Sal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tú"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y ⟨todo⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "el pueblo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ברגליך",
+      "gloss": "⟨está⟩ en tus pies"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "y después de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "esto"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "saldré"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "Y salió"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de ⟨la⟩ presencia de"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "enardecido"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨de⟩ ira"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -13,112 +108,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 806,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17770,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 18576
-  },
-  "translation": "Y ⟨todos⟩ estos siervos tuyos vendrán ⟨a⟩ mí y ⟨se⟩ postrarán ⟨a⟩ mí, diciendo: 'Sal tú y ⟨todo⟩ el pueblo que ⟨está⟩ en tus pies, y después de esto saldré.' Y salió de ⟨la⟩ presencia de Paró enardecido ⟨de⟩ ira.",
-  "tokens": [
-    {
-      "surface": "וירדו",
-      "english": "Vendrán"
-    },
-    {
-      "surface": "כל",
-      "english": "⟨todos⟩"
-    },
-    {
-      "surface": "עבדיך",
-      "english": "siervos tuyos"
-    },
-    {
-      "surface": "אלה",
-      "english": "estos"
-    },
-    {
-      "surface": "אלי",
-      "english": "⟨a⟩ mí"
-    },
-    {
-      "surface": "והשתחוו",
-      "english": "y ⟨se⟩ postrarán"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨a⟩ mí"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "צא",
-      "english": "Sal"
-    },
-    {
-      "surface": "אתה",
-      "english": "tú"
-    },
-    {
-      "surface": "וכל",
-      "english": "y ⟨todo⟩"
-    },
-    {
-      "surface": "העם",
-      "english": "el pueblo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ברגליך",
-      "english": "⟨está⟩ en tus pies"
-    },
-    {
-      "surface": "ואחרי",
-      "english": "y después de"
-    },
-    {
-      "surface": "כן",
-      "english": "esto"
-    },
-    {
-      "surface": "אצא",
-      "english": "saldré"
-    },
-    {
-      "surface": "ויצא",
-      "english": "Y salió"
-    },
-    {
-      "surface": "מעם",
-      "english": "de ⟨la⟩ presencia de"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "בחרי",
-      "english": "enardecido"
-    },
-    {
-      "surface": "אף",
-      "english": "⟨de⟩ ira"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:36:27.446227514Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

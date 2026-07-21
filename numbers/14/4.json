@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "numbers 14:4",
   "book": "numbers",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25038,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25383
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:50:03.869627410Z",
   "translation": "Y dijeron un hombre a su hermano 'Demos ⟨un⟩ cabeza y volvamos a Egipto.'",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "Y dijeron"
+      "gloss": "Y dijeron"
     },
     {
       "surface": "איש",
-      "english": "un hombre"
+      "gloss": "un hombre"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "אחיו",
-      "english": "su hermano"
+      "gloss": "su hermano"
     },
     {
       "surface": "נתנה",
-      "english": "Demos"
+      "gloss": "Demos"
     },
     {
       "surface": "ראש",
-      "english": "⟨un⟩ cabeza",
+      "gloss": "⟨un⟩ cabeza",
       "marks": "cabeza"
     },
     {
       "surface": "ונשובה",
-      "english": "y volvamos"
+      "gloss": "y volvamos"
     },
     {
       "surface": "מצרימה",
-      "english": "a Egipto"
+      "gloss": "a Egipto"
     }
-  ],
-  "timestamp": "2026-06-10T04:50:03.869627410Z",
-  "model": "glm-4.5"
+  ]
 }

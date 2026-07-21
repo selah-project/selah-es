@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 94:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69773,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70122
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:11.661112975Z",
   "translation": "Dios de ⟨את⟩ venganzas—YHWH—Dios de ⟨את⟩ venganzas, ⟨estás⟩ por ⟨manifestarte⟩.",
   "tokens": [
     {
       "surface": "אל",
-      "english": "Dios de"
+      "gloss": "Dios de"
     },
     {
       "surface": "נקמות",
-      "english": "venganzas"
+      "gloss": "venganzas"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "Dios de"
+      "gloss": "Dios de"
     },
     {
       "surface": "נקמות",
-      "english": "venganzas"
+      "gloss": "venganzas"
     },
     {
       "surface": "הופיע",
-      "english": "⟨estás⟩ por ⟨manifestarse⟩"
+      "gloss": "⟨estás⟩ por ⟨manifestarse⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:11.661112975Z",
-  "model": "glm-4.5"
+  ]
 }

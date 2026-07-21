@@ -1,83 +1,75 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-samuel 24:22",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 700,
-    "prompt_tokens": 24260,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24960
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:45:05.891964958Z",
   "translation": "Y ahora, júrame por YHWH ⟨que⟩ no cortarás ⟨את⟩ mi descendencia después de mí, y ⟨que⟩ no destruirás ⟨את⟩ mi nombre de la casa de mi padre.",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "Y ahora"
+      "gloss": "Y ahora"
     },
     {
       "surface": "השבעה",
-      "english": "júrame"
+      "gloss": "júrame"
     },
     {
       "surface": "לי",
-      "english": "por YHWH ⟨que⟩"
+      "gloss": "por YHWH ⟨que⟩"
     },
     {
       "surface": "ביהוה",
-      "english": "por YHWH"
+      "gloss": "por YHWH"
     },
     {
       "surface": "אם",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "תכרית",
-      "english": "no cortarás"
+      "gloss": "no cortarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mi descendencia"
     },
     {
       "surface": "זרעי",
-      "english": "mi descendencia"
+      "gloss": "mi descendencia"
     },
     {
       "surface": "אחרי",
-      "english": "después de mí"
+      "gloss": "después de mí"
     },
     {
       "surface": "ואם",
-      "english": ", y"
+      "gloss": ", y"
     },
     {
       "surface": "תשמיד",
-      "english": "no destruirás"
+      "gloss": "no destruirás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mi nombre"
     },
     {
       "surface": "שמי",
-      "english": "mi nombre"
+      "gloss": "mi nombre"
     },
     {
       "surface": "מבית",
-      "english": "de la casa"
+      "gloss": "de la casa"
     },
     {
       "surface": "אבי",
-      "english": "de mi padre"
+      "gloss": "de mi padre"
     }
-  ],
-  "timestamp": "2026-07-16T18:45:05.891964958Z",
-  "model": "glm-4.5"
+  ]
 }

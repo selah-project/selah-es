@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 71:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69954,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70395
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:20.962750133Z",
   "translation": "Porque ⟨los⟩ enemigos ⟨de⟩ mí dijeron, y ⟨los⟩ que acechan ⟨mi⟩ nefesh deliberaron unidos",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אמרו",
-      "english": "dijeron"
+      "gloss": "dijeron"
     },
     {
       "surface": "אויבי",
-      "english": "enemigos ⟨de⟩ mí"
+      "gloss": "enemigos ⟨de⟩ mí"
     },
     {
       "surface": "לי",
-      "english": "⟨de⟩ mí"
+      "gloss": "⟨de⟩ mí"
     },
     {
       "surface": "ושמרי",
-      "english": "⟨los⟩ que acechan"
+      "gloss": "⟨los⟩ que acechan"
     },
     {
       "surface": "נפשי",
-      "english": "⟨mi⟩ nefesh"
+      "gloss": "⟨mi⟩ nefesh"
     },
     {
       "surface": "נועצו",
-      "english": "deliberaron"
+      "gloss": "deliberaron"
     },
     {
       "surface": "יחדו",
-      "english": "unidos"
+      "gloss": "unidos"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:20.962750133Z",
-  "model": "glm-4.5"
+  ]
 }

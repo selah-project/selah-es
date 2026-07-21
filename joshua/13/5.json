@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "joshua 13:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "joshua",
+  "chapter": 13,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:35:38.932349628Z",
+  "translation": "y ⟨el⟩ país ⟨de⟩ los giblitas y todo el Líbano hacia ⟨el⟩ oriente ⟨del⟩ sol desde Baal-gad ⟨bajo⟩ el monte Jermón hasta la entrada de Hamat",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Y ⟨el⟩ país ⟨de⟩"
+    },
+    {
+      "surface": "הגבלי",
+      "gloss": "los giblitas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "el Líbano"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "hacia ⟨el⟩ oriente"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨del⟩ sol"
+    },
+    {
+      "surface": "מבעל",
+      "gloss": "desde Baal-gad"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Baal-gad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨bajo⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "el monte"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Jermón"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "la entrada"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "de Hamat"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Hermón",
@@ -13,80 +76,6 @@
       "hebrew": "חרמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16514,
-    "prompt_tokens_details": {
-      "cached_tokens": 14942
-    },
-    "total_tokens": 17021
-  },
-  "translation": "y ⟨el⟩ país ⟨de⟩ los giblitas y todo el Líbano hacia ⟨el⟩ oriente ⟨del⟩ sol desde Baal-gad ⟨bajo⟩ el monte Jermón hasta la entrada de Hamat",
-  "tokens": [
-    {
-      "surface": "והארץ",
-      "english": "Y ⟨el⟩ país ⟨de⟩"
-    },
-    {
-      "surface": "הגבלי",
-      "english": "los giblitas"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "הלבנון",
-      "english": "el Líbano"
-    },
-    {
-      "surface": "מזרח",
-      "english": "hacia ⟨el⟩ oriente"
-    },
-    {
-      "surface": "השמש",
-      "english": "⟨del⟩ sol"
-    },
-    {
-      "surface": "מבעל",
-      "english": "desde Baal-gad"
-    },
-    {
-      "surface": "גד",
-      "english": "Baal-gad"
-    },
-    {
-      "surface": "תחת",
-      "english": "⟨bajo⟩"
-    },
-    {
-      "surface": "הר",
-      "english": "el monte"
-    },
-    {
-      "surface": "חרמון",
-      "english": "Jermón"
-    },
-    {
-      "surface": "עד",
-      "english": "hasta"
-    },
-    {
-      "surface": "לבוא",
-      "english": "la entrada"
-    },
-    {
-      "surface": "חמת",
-      "english": "de Hamat"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:35:38.932349628Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

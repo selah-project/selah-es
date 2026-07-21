@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 3:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59899,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60334
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:29:36.482442583Z",
   "translation": "No temas ⟨al⟩ temor repentino, ni ⟨a⟩ la ruina ⟨de⟩ ⟨los⟩ malvados cuando venga",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תירא",
-      "english": "temas"
+      "gloss": "temas"
     },
     {
       "surface": "מפחד",
-      "english": "⟨al⟩ temor repentino"
+      "gloss": "⟨al⟩ temor repentino"
     },
     {
       "surface": "פתאם",
-      "english": "repentino"
+      "gloss": "repentino"
     },
     {
       "surface": "ומשאת",
-      "english": "ni ⟨a⟩ la ruina ⟨de⟩ ⟨los⟩ malvados"
+      "gloss": "ni ⟨a⟩ la ruina ⟨de⟩ ⟨los⟩ malvados"
     },
     {
       "surface": "רשעים",
-      "english": "⟨los⟩ malvados"
+      "gloss": "⟨los⟩ malvados"
     },
     {
       "surface": "כי",
-      "english": "cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "תבא",
-      "english": "venga"
+      "gloss": "venga"
     }
-  ],
-  "timestamp": "2026-06-10T01:29:36.482442583Z",
-  "model": "glm-4.5"
+  ]
 }

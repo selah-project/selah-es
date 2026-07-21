@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "exodus 28:31",
   "book": "exodus",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 307,
-    "prompt_tokens": 23954,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24261
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:21:20.769811881Z",
   "translation": "Y harás ⟨el⟩ manto del Efod, entero ⟨de⟩ azul",
   "tokens": [
     {
       "surface": "ועשית",
-      "english": "Y harás"
+      "gloss": "Y harás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el manto"
     },
     {
       "surface": "מעיל",
-      "english": "manto"
+      "gloss": "manto"
     },
     {
       "surface": "האפוד",
-      "english": "del Efod"
+      "gloss": "del Efod"
     },
     {
       "surface": "כליל",
-      "english": "entero"
+      "gloss": "entero"
     },
     {
       "surface": "תכלת",
-      "english": "azul"
+      "gloss": "azul"
     }
-  ],
-  "timestamp": "2026-07-16T20:21:20.769811881Z",
-  "model": "glm-4.5"
+  ]
 }

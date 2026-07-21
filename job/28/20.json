@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 28:20",
   "book": "job",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26966,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27401
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:09:03.734005202Z",
   "translation": "Y ⟨el⟩ sabiduría ¿de dónde viene? ¿y dónde ⟨es⟩ este lugar ⟨del⟩ entendimiento?",
   "tokens": [
     {
       "surface": "והחכמה",
-      "english": "Y ⟨el⟩ sabiduría"
+      "gloss": "Y ⟨el⟩ sabiduría"
     },
     {
       "surface": "מאין",
-      "english": "¿de dónde"
+      "gloss": "¿de dónde"
     },
     {
       "surface": "תבוא",
-      "english": "viene?"
+      "gloss": "viene?"
     },
     {
       "surface": "ואי",
-      "english": "¿y dónde"
+      "gloss": "¿y dónde"
     },
     {
       "surface": "זה",
-      "english": "⟨es⟩ este"
+      "gloss": "⟨es⟩ este"
     },
     {
       "surface": "מקום",
-      "english": "lugar"
+      "gloss": "lugar"
     },
     {
       "surface": "בינה",
-      "english": "⟨del⟩ entendimiento"
+      "gloss": "⟨del⟩ entendimiento"
     }
-  ],
-  "timestamp": "2026-06-10T02:09:03.734005202Z",
-  "model": "glm-4.5"
+  ]
 }

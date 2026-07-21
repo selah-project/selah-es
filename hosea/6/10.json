@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "hosea 6:10",
   "book": "hosea",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 363,
-    "prompt_tokens": 26821,
-    "prompt_tokens_details": {
-      "cached_tokens": 25472
-    },
-    "total_tokens": 27184
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:20:41.841843684Z",
   "translation": "En ⟨la⟩ casa de Yisrael vi ⟨una⟩ cosa horrorosa; allí ⟨está⟩ ⟨la⟩ fornicación de Efráyim, Yisrael se contaminó.",
   "tokens": [
     {
       "surface": "בבית",
-      "english": "En ⟨la⟩ casa"
+      "gloss": "En ⟨la⟩ casa"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ראיתי",
-      "english": "vi"
+      "gloss": "vi"
     },
     {
       "surface": "שעריריה",
-      "english": "⟨una⟩ cosa horrorosa"
+      "gloss": "⟨una⟩ cosa horrorosa"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "זנות",
-      "english": "⟨la⟩ fornicación"
+      "gloss": "⟨la⟩ fornicación"
     },
     {
       "surface": "לאפרים",
-      "english": "de Efráyim"
+      "gloss": "de Efráyim"
     },
     {
       "surface": "נטמא",
-      "english": "se contaminó"
+      "gloss": "se contaminó"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T21:20:41.841843684Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "genesis 40:23",
   "book": "genesis",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 463,
-    "prompt_tokens": 28398,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28861
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:11:37.045160803Z",
   "translation": "Pero el jefe de los coperos no recordó ⟨את⟩ a Yosef, y lo olvidó.",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "Pero"
+      "gloss": "Pero"
     },
     {
       "surface": "זכר",
-      "english": "recordó"
+      "gloss": "recordó"
     },
     {
       "surface": "שר",
-      "english": "el jefe"
+      "gloss": "el jefe"
     },
     {
       "surface": "המשקים",
-      "english": "de los coperos"
+      "gloss": "de los coperos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Yosef"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "וישכחהו",
-      "english": "y lo olvidó"
+      "gloss": "y lo olvidó"
     }
-  ],
-  "timestamp": "2026-07-16T21:11:37.045160803Z",
-  "model": "glm-4.5"
+  ]
 }

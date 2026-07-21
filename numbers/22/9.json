@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "numbers 22:9",
   "book": "numbers",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25084,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25421
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:57:26.272503710Z",
   "translation": "Y vino Elohim ⟨a⟩ Bilam y dijo: ¿Quiénes ⟨son⟩ estos hombres ⟨que están⟩ contigo?",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "Y vino"
+      "gloss": "Y vino"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Bilam"
     },
     {
       "surface": "בלעם",
-      "english": "Bilam"
+      "gloss": "Bilam"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "מי",
-      "english": "¿Quiénes"
+      "gloss": "¿Quiénes"
     },
     {
       "surface": "האנשים",
-      "english": "estos hombres"
+      "gloss": "estos hombres"
     },
     {
       "surface": "האלה",
-      "english": "⟨que están⟩",
+      "gloss": "⟨que están⟩",
       "marks": "contigo"
     },
     {
       "surface": "עמך",
-      "english": "contigo"
+      "gloss": "contigo"
     }
-  ],
-  "timestamp": "2026-06-10T04:57:26.272503710Z",
-  "model": "glm-4.5"
+  ]
 }

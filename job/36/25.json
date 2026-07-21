@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 36:25",
   "book": "job",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26934,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27279
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:25.555808846Z",
   "translation": "Todo ⟨el⟩ hombre ⟨lo⟩ ve ⟨el⟩ mortal mira desde lejos",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "אדם",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "חזו",
-      "english": "⟨lo⟩ ve"
+      "gloss": "⟨lo⟩ ve"
     },
     {
       "surface": "בו",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "אנוש",
-      "english": "mortal"
+      "gloss": "mortal"
     },
     {
       "surface": "יביט",
-      "english": "mira"
+      "gloss": "mira"
     },
     {
       "surface": "מרחוק",
-      "english": "desde lejos"
+      "gloss": "desde lejos"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:25.555808846Z",
-  "model": "glm-4.5"
+  ]
 }

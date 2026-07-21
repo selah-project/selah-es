@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 120:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 120,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69833,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70095
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:03:02.271635098Z",
   "translation": "Demasiado ⟨ha⟩ habitado mi alma con ⟨את⟩ quien aborrece la paz",
   "tokens": [
     {
       "surface": "רבת",
-      "english": "Demasiado"
+      "gloss": "Demasiado"
     },
     {
       "surface": "שכנה",
-      "english": "ha habitado"
+      "gloss": "ha habitado"
     },
     {
       "surface": "לה",
-      "english": "⟨ha⟩"
+      "gloss": "⟨ha⟩"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "שונא",
-      "english": "quien aborrece"
+      "gloss": "quien aborrece"
     },
     {
       "surface": "שלום",
-      "english": "la paz"
+      "gloss": "la paz"
     }
-  ],
-  "timestamp": "2026-06-10T00:03:02.271635098Z",
-  "model": "glm-4.5"
+  ]
 }

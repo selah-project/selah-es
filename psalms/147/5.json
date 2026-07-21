@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 147:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 305,
-    "prompt_tokens": 69954,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70259
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:45:49.451544709Z",
   "translation": "Grande ⟨es⟩ nuestro Adonai y de gran vigor; de su entendimiento no hay número.",
   "tokens": [
     {
       "surface": "גדול",
-      "english": "Grande"
+      "gloss": "Grande"
     },
     {
       "surface": "אדונינו",
-      "english": "nuestro Adonai"
+      "gloss": "nuestro Adonai"
     },
     {
       "surface": "ורב",
-      "english": "y de gran"
+      "gloss": "y de gran"
     },
     {
       "surface": "כח",
-      "english": "vigor"
+      "gloss": "vigor"
     },
     {
       "surface": "לתבונתו",
-      "english": "de su entendimiento"
+      "gloss": "de su entendimiento"
     },
     {
       "surface": "אין",
-      "english": "no hay"
+      "gloss": "no hay"
     },
     {
       "surface": "מספר",
-      "english": "número"
+      "gloss": "número"
     }
-  ],
-  "timestamp": "2026-07-16T23:45:49.451544709Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-chronicles 34:5",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 65653,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 66097
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:03:31.812153003Z",
   "translation": "y los huesos de los sacerdotes quemó sobre sus altares, y purificó ⟨את⟩ Yehudá y ⟨את⟩ Yerushalayim",
   "tokens": [
     {
       "surface": "ועצמות",
-      "english": "y los huesos"
+      "gloss": "y los huesos"
     },
     {
       "surface": "כהנים",
-      "english": "de los sacerdotes"
+      "gloss": "de los sacerdotes"
     },
     {
       "surface": "שרף",
-      "english": "quemó"
+      "gloss": "quemó"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מזבחותים",
-      "english": "sus altares"
+      "gloss": "sus altares"
     },
     {
       "surface": "ויטהר",
-      "english": "y purificó"
+      "gloss": "y purificó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yehudá"
     },
     {
       "surface": "יהודה",
-      "english": "Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Yerushalayim"
     },
     {
       "surface": "ירושלם",
-      "english": "Yerushalayim"
+      "gloss": "Yerushalayim"
     }
-  ],
-  "timestamp": "2026-07-16T19:03:31.812153003Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "proverbs 14:4",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59867,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60452
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:38:17.255306273Z",
   "translation": "Donde ⟨no⟩ hay bueyes, ⟨el⟩ pesebre ⟨está⟩ limpio; y mucha producción ⟨viene⟩ por ⟨la⟩ fuerza del buey.",
   "tokens": [
     {
       "surface": "באין",
-      "english": "Donde ⟨no⟩ hay"
+      "gloss": "Donde ⟨no⟩ hay"
     },
     {
       "surface": "אלפים",
-      "english": "bueyes"
+      "gloss": "bueyes"
     },
     {
       "surface": "אבוס",
-      "english": "⟨el⟩ pesebre"
+      "gloss": "⟨el⟩ pesebre"
     },
     {
       "surface": "בר",
-      "english": "limpio"
+      "gloss": "limpio"
     },
     {
       "surface": "ורב",
-      "english": "y mucha"
+      "gloss": "y mucha"
     },
     {
       "surface": "תבואות",
-      "english": "producción"
+      "gloss": "producción"
     },
     {
       "surface": "בכח",
-      "english": "por ⟨la⟩ fuerza"
+      "gloss": "por ⟨la⟩ fuerza"
     },
     {
       "surface": "שור",
-      "english": "del buey"
+      "gloss": "del buey"
     }
-  ],
-  "timestamp": "2026-06-10T01:38:17.255306273Z",
-  "model": "glm-4.5"
+  ]
 }

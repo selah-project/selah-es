@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 86:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69901,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70246
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:41:30.745688723Z",
   "translation": "Inclina ⟨el⟩ oído, YHWH, ⟨a⟩ mi súplica, y atiende ⟨a⟩ la voz de mis súplicas",
   "tokens": [
     {
       "surface": "האזינה",
-      "english": "Inclina ⟨el⟩ oído"
+      "gloss": "Inclina ⟨el⟩ oído"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "תפלתי",
-      "english": "⟨a⟩ mi súplica"
+      "gloss": "⟨a⟩ mi súplica"
     },
     {
       "surface": "והקשיבה",
-      "english": "y atiende"
+      "gloss": "y atiende"
     },
     {
       "surface": "בקול",
-      "english": "⟨a⟩ la voz"
+      "gloss": "⟨a⟩ la voz"
     },
     {
       "surface": "תחנונותי",
-      "english": "de mis súplicas"
+      "gloss": "de mis súplicas"
     }
-  ],
-  "timestamp": "2026-06-09T23:41:30.745688723Z",
-  "model": "glm-4.5"
+  ]
 }

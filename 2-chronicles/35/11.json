@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-chronicles 35:11",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 387,
-    "prompt_tokens": 65220,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 65607
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:03:48.936759148Z",
   "translation": "Y mataron ⟨el⟩ Pésaj, y los kohanim rociaron ⟨de sus manos⟩, y los leviim ⟨estaban⟩ desollando",
   "tokens": [
     {
       "surface": "וישחטו",
-      "english": "Y mataron"
+      "gloss": "Y mataron"
     },
     {
       "surface": "הפסח",
-      "english": "⟨el⟩ Pésaj"
+      "gloss": "⟨el⟩ Pésaj"
     },
     {
       "surface": "ויזרקו",
-      "english": "y los kohanim rociaron"
+      "gloss": "y los kohanim rociaron"
     },
     {
       "surface": "הכהנים",
-      "english": "los kohanim"
+      "gloss": "los kohanim"
     },
     {
       "surface": "מידם",
-      "english": "⟨de sus manos⟩"
+      "gloss": "⟨de sus manos⟩"
     },
     {
       "surface": "והלוים",
-      "english": "y los leviim"
+      "gloss": "y los leviim"
     },
     {
       "surface": "מפשיטים",
-      "english": "⟨estaban⟩ desollando"
+      "gloss": "⟨estaban⟩ desollando"
     }
-  ],
-  "timestamp": "2026-07-16T19:03:48.936759148Z",
-  "model": "glm-4.5"
+  ]
 }

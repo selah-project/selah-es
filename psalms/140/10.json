@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 140:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69792,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70169
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:08:40.160459252Z",
   "translation": "⟨El⟩cabeza de ⟨los que⟩alrededor de mí ⟨con⟩⟨la⟩carrera de sus labios ⟨sea⟩cubierta ⟨por⟩ellos.",
   "tokens": [
     {
       "surface": "ראש",
-      "english": "Cabeza"
+      "gloss": "Cabeza"
     },
     {
       "surface": "מסבי",
-      "english": "alrededor de mí"
+      "gloss": "alrededor de mí"
     },
     {
       "surface": "עמל",
-      "english": "carrera"
+      "gloss": "carrera"
     },
     {
       "surface": "שפתימו",
-      "english": "sus labios"
+      "gloss": "sus labios"
     },
     {
       "surface": "יכסומו",
-      "english": "cubierta por ellos"
+      "gloss": "cubierta por ellos"
     }
-  ],
-  "timestamp": "2026-06-10T00:08:40.160459252Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 72:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69947,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70492
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:33:14.229679329Z",
   "translation": "en ⟨is⟩ days ⟨of the⟩ righteous ⟨את⟩ ⟨the⟩ flourishing and abundance ⟨of⟩ peace until ⟨the⟩ moon ⟨is⟩ not",
   "tokens": [
     {
       "surface": "יפרח",
-      "english": "Flourishing"
+      "gloss": "Flourishing"
     },
     {
       "surface": "בימיו",
-      "english": "en ⟨is⟩ days ⟨of the⟩ righteous"
+      "gloss": "en ⟨is⟩ days ⟨of the⟩ righteous"
     },
     {
       "surface": "צדיק",
-      "english": "righteous"
+      "gloss": "righteous"
     },
     {
       "surface": "ורב",
-      "english": "and abundance"
+      "gloss": "and abundance"
     },
     {
       "surface": "שלום",
-      "english": "⟨of⟩ peace"
+      "gloss": "⟨of⟩ peace"
     },
     {
       "surface": "עד",
-      "english": "until"
+      "gloss": "until"
     },
     {
       "surface": "בלי",
-      "english": "⟨the⟩ moon ⟨is⟩ not"
+      "gloss": "⟨the⟩ moon ⟨is⟩ not"
     },
     {
       "surface": "ירח",
-      "english": "moon"
+      "gloss": "moon"
     }
-  ],
-  "timestamp": "2026-06-09T23:33:14.229679329Z",
-  "model": "glm-4.5"
+  ]
 }

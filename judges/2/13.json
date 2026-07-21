@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "judges 2:13",
   "book": "judges",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 265,
-    "prompt_tokens": 23269,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 23534
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:20:30.413947928Z",
   "translation": "Y dejaron ⟨את⟩ YHWH y sirvieron a Baal y a las Ashtarot",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "english": "Y dejaron"
+      "gloss": "Y dejaron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ויעבדו",
-      "english": "y sirvieron"
+      "gloss": "y sirvieron"
     },
     {
       "surface": "לבעל",
-      "english": "a Baal"
+      "gloss": "a Baal"
     },
     {
       "surface": "ולעשתרות",
-      "english": "y a las Ashtarot"
+      "gloss": "y a las Ashtarot"
     }
-  ],
-  "timestamp": "2026-07-16T22:20:30.413947928Z",
-  "model": "glm-4.5"
+  ]
 }

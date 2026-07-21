@@ -1,9 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-chronicles 12:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 12,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:41:11.122480363Z",
+  "translation": "Los hijos de Yehudá ⟨que⟩ llevan ⟨el⟩ escudo ⟨y⟩ ⟨la⟩ lanza: seis mil y ochocientos, ⟨como⟩ ⟨un⟩ ejército ⟨de⟩ ⟨los⟩ preparados ⟨para la⟩ guerra",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Hijos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudá"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "que llevan"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "⟨el⟩ escudo",
+      "marks": "escudo"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "⟨y⟩ ⟨la⟩ lanza",
+      "marks": "lanza"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "seis"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "y ocho"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cientos"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "⟨como⟩ ⟨un⟩ ejército ⟨de⟩ ⟨los⟩ preparados"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "guerra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -13,70 +66,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57022,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57524
-  },
-  "translation": "Los hijos de Yehudá ⟨que⟩ llevan ⟨el⟩ escudo ⟨y⟩ ⟨la⟩ lanza: seis mil y ochocientos, ⟨como⟩ ⟨un⟩ ejército ⟨de⟩ ⟨los⟩ preparados ⟨para la⟩ guerra",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Hijos"
-    },
-    {
-      "surface": "יהודה",
-      "english": "Yehudá"
-    },
-    {
-      "surface": "נשאי",
-      "english": "que llevan"
-    },
-    {
-      "surface": "צנה",
-      "english": "⟨el⟩ escudo",
-      "marks": "escudo"
-    },
-    {
-      "surface": "ורמח",
-      "english": "⟨y⟩ ⟨la⟩ lanza",
-      "marks": "lanza"
-    },
-    {
-      "surface": "ששת",
-      "english": "seis"
-    },
-    {
-      "surface": "אלפים",
-      "english": "mil"
-    },
-    {
-      "surface": "ושמונה",
-      "english": "y ocho"
-    },
-    {
-      "surface": "מאות",
-      "english": "cientos"
-    },
-    {
-      "surface": "חלוצי",
-      "english": "⟨como⟩ ⟨un⟩ ejército ⟨de⟩ ⟨los⟩ preparados"
-    },
-    {
-      "surface": "צבא",
-      "english": "guerra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:41:11.122480363Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

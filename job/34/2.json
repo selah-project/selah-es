@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "job 34:2",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26926,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27329
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:50.691336845Z",
   "translation": "Escuchad ⟨a⟩ ⟨ellos⟩ ⟨los⟩ sabios mis palabras, y ⟨los⟩ que conocen inclinad ⟨vuestros⟩ oídos ⟨a⟩ mí",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "Escuchad"
+      "gloss": "Escuchad"
     },
     {
       "surface": "חכמים",
-      "english": "⟨a⟩ ⟨ellos⟩ ⟨los⟩ sabios"
+      "gloss": "⟨a⟩ ⟨ellos⟩ ⟨los⟩ sabios"
     },
     {
       "surface": "מלי",
-      "english": "mis palabras"
+      "gloss": "mis palabras"
     },
     {
       "surface": "וידעים",
-      "english": "y ⟨los⟩ que conocen"
+      "gloss": "y ⟨los⟩ que conocen"
     },
     {
       "surface": "האזינו",
-      "english": "inclinad ⟨vuestros⟩ oídos"
+      "gloss": "inclinad ⟨vuestros⟩ oídos"
     },
     {
       "surface": "לי",
-      "english": "⟨a⟩ mí"
+      "gloss": "⟨a⟩ mí"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:50.691336845Z",
-  "model": "glm-4.5"
+  ]
 }

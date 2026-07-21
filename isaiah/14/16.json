@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "isaiah 14:16",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 634,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26415,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27049
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:29:57.861055959Z",
   "translation": "Los que te ven ⟨se⟩ inclinarán ⟨a⟩ ti, ⟨a⟩ ti ⟨te⟩ contemplarán. ¿⟨Es⟩ este ⟨el⟩ hombre ⟨que⟩ agitó ⟨la⟩ tierra, ⟨que⟩ hizo temblar ⟨a⟩ los reinos?",
   "tokens": [
     {
       "surface": "ראיך",
-      "english": "Los que te ven"
+      "gloss": "Los que te ven"
     },
     {
       "surface": "אליך",
-      "english": "⟨a⟩ ti"
+      "gloss": "⟨a⟩ ti"
     },
     {
       "surface": "ישגיחו",
-      "english": "⟨se⟩ inclinarán"
+      "gloss": "⟨se⟩ inclinarán"
     },
     {
       "surface": "אליך",
-      "english": "⟨a⟩ ti"
+      "gloss": "⟨a⟩ ti"
     },
     {
       "surface": "יתבוננו",
-      "english": "⟨te⟩ contemplarán"
+      "gloss": "⟨te⟩ contemplarán"
     },
     {
       "surface": "הזה",
-      "english": "¿⟨Es⟩"
+      "gloss": "¿⟨Es⟩"
     },
     {
       "surface": "האיש",
-      "english": "este ⟨el⟩ hombre"
+      "gloss": "este ⟨el⟩ hombre"
     },
     {
       "surface": "מרגיז",
-      "english": "⟨que⟩ agitó"
+      "gloss": "⟨que⟩ agitó"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "מרעיש",
-      "english": "⟨que⟩ hizo temblar"
+      "gloss": "⟨que⟩ hizo temblar"
     },
     {
       "surface": "ממלכות",
-      "english": "⟨a⟩ los reinos"
+      "gloss": "⟨a⟩ los reinos"
     }
-  ],
-  "timestamp": "2026-06-10T02:29:57.861055959Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "exodus 14:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 14,
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:41:07.467310165Z",
+  "translation": "Y el mensajero de Elohim que iba delante de ⟨el⟩ campamento de Yisrael se movió y fue tras ellos; y la columna ⟨de⟩ nube se movió de delante de ellos y se puso tras ellos",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Y se movió"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "el mensajero"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "que iba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "delante de"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "⟨el⟩ campamento"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "y fue"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "tras ellos"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "y se movió"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "la columna"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "⟨de⟩ nube"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "de delante de ellos"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "y se puso"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "tras ellos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17321,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17884
-  },
-  "translation": "Y el mensajero de Elohim que iba delante de ⟨el⟩ campamento de Yisrael se movió y fue tras ellos; y la columna ⟨de⟩ nube se movió de delante de ellos y se puso tras ellos",
-  "tokens": [
-    {
-      "surface": "ויסע",
-      "english": "Y se movió"
-    },
-    {
-      "surface": "מלאך",
-      "english": "el mensajero"
-    },
-    {
-      "surface": "האלהים",
-      "english": "de Elohim"
-    },
-    {
-      "surface": "ההלך",
-      "english": "que iba"
-    },
-    {
-      "surface": "לפני",
-      "english": "delante de"
-    },
-    {
-      "surface": "מחנה",
-      "english": "⟨el⟩ campamento"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "וילך",
-      "english": "y fue"
-    },
-    {
-      "surface": "מאחריהם",
-      "english": "tras ellos"
-    },
-    {
-      "surface": "ויסע",
-      "english": "y se movió"
-    },
-    {
-      "surface": "עמוד",
-      "english": "la columna"
-    },
-    {
-      "surface": "הענן",
-      "english": "⟨de⟩ nube"
-    },
-    {
-      "surface": "מפניהם",
-      "english": "de delante de ellos"
-    },
-    {
-      "surface": "ועמד",
-      "english": "y se puso"
-    },
-    {
-      "surface": "מאחריהם",
-      "english": "tras ellos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:41:07.467310165Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

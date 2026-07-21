@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 21:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 465,
-    "prompt_tokens": 70007,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70472
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:33.255692227Z",
   "translation": "Grande ⟨es⟩ su kavod en tu salvación; honor y majestad pones sobre él.",
   "tokens": [
     {
       "surface": "גדול",
-      "english": "Grande"
+      "gloss": "Grande"
     },
     {
       "surface": "כבודו",
-      "english": "su kavod",
+      "gloss": "su kavod",
       "marks": "kavod (esplendor\/peso)"
     },
     {
       "surface": "בישועתך",
-      "english": "en tu salvación"
+      "gloss": "en tu salvación"
     },
     {
       "surface": "הוד",
-      "english": "honor"
+      "gloss": "honor"
     },
     {
       "surface": "והדר",
-      "english": "y majestad"
+      "gloss": "y majestad"
     },
     {
       "surface": "תשוה",
-      "english": "pones"
+      "gloss": "pones"
     },
     {
       "surface": "עליו",
-      "english": "sobre él"
+      "gloss": "sobre él"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:33.255692227Z",
-  "model": "glm-4.5"
+  ]
 }

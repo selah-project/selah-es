@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 23:5",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25908,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26336
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:34:34.088728613Z",
   "translation": "Cuando ⟨el⟩ informe llegue ⟨a⟩ Egipto, ⟨ellos⟩ se retorcerán ⟨de⟩ dolor ⟨al⟩ ⟨oír⟩ ⟨el⟩ informe ⟨de⟩ Tiro",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "Cuando ⟨el⟩"
+      "gloss": "Cuando ⟨el⟩"
     },
     {
       "surface": "שמע",
-      "english": "informe"
+      "gloss": "informe"
     },
     {
       "surface": "למצרים",
-      "english": "llegue ⟨a⟩ Egipto"
+      "gloss": "llegue ⟨a⟩ Egipto"
     },
     {
       "surface": "יחילו",
-      "english": "⟨ellos⟩ se retorcerán ⟨de⟩ dolor"
+      "gloss": "⟨ellos⟩ se retorcerán ⟨de⟩ dolor"
     },
     {
       "surface": "כשמע",
-      "english": "⟨al⟩ ⟨oír⟩ ⟨el⟩ informe ⟨de⟩"
+      "gloss": "⟨al⟩ ⟨oír⟩ ⟨el⟩ informe ⟨de⟩"
     },
     {
       "surface": "צר",
-      "english": "Tiro"
+      "gloss": "Tiro"
     }
-  ],
-  "timestamp": "2026-06-10T02:34:34.088728613Z",
-  "model": "glm-4.5"
+  ]
 }

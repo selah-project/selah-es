@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 104:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69789,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70183
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:10.139358627Z",
   "translation": "hace ⟨los⟩ mensajeros de él espíritus ⟨y⟩ ⟨los⟩ ministros de él llama de fuego ⟨que arde⟩",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "Hace"
+      "gloss": "Hace"
     },
     {
       "surface": "מלאכיו",
-      "english": "⟨los⟩ mensajeros de él",
+      "gloss": "⟨los⟩ mensajeros de él",
       "marks": "espíritus"
     },
     {
       "surface": "רוחות",
-      "english": "espíritus"
+      "gloss": "espíritus"
     },
     {
       "surface": "משרתיו",
-      "english": "⟨los⟩ ministros de él",
+      "gloss": "⟨los⟩ ministros de él",
       "marks": "llama de fuego ⟨que arde⟩"
     },
     {
       "surface": "אש",
-      "english": "llama"
+      "gloss": "llama"
     },
     {
       "surface": "להט",
-      "english": "de fuego ⟨que arde⟩"
+      "gloss": "de fuego ⟨que arde⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:10.139358627Z",
-  "model": "glm-4.5"
+  ]
 }

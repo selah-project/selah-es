@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "leviticus 11:6",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 655,
-    "prompt_tokens": 24998,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25653
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:37:13.355341261Z",
   "translation": "y ⟨את⟩ la liebre, porque ⟨es⟩ ella que rumia, y ⟨la⟩ pezuña no ⟨ha⟩ dividido; impura ⟨es⟩ ella para vosotros.",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la liebre"
     },
     {
       "surface": "הארנבת",
-      "english": "la liebre"
+      "gloss": "la liebre"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "מעלת",
-      "english": "⟨es⟩ ella que rumia"
+      "gloss": "⟨es⟩ ella que rumia"
     },
     {
       "surface": "גרה",
-      "english": "rumia"
+      "gloss": "rumia"
     },
     {
       "surface": "הוא",
-      "english": "ella"
+      "gloss": "ella"
     },
     {
       "surface": "ופרסה",
-      "english": "y ⟨la⟩ pezuña"
+      "gloss": "y ⟨la⟩ pezuña"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "הפריסה",
-      "english": "⟨ha⟩ dividido"
+      "gloss": "⟨ha⟩ dividido"
     },
     {
       "surface": "טמאה",
-      "english": "impura"
+      "gloss": "impura"
     },
     {
       "surface": "הוא",
-      "english": "ella"
+      "gloss": "ella"
     },
     {
       "surface": "לכם",
-      "english": "para vosotros"
+      "gloss": "para vosotros"
     }
-  ],
-  "timestamp": "2026-07-16T22:37:13.355341261Z",
-  "model": "glm-4.5"
+  ]
 }

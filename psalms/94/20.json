@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 94:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 622,
-    "prompt_tokens": 69940,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70562
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:47.997535247Z",
   "translation": "¿Se ⟨ha⟩ aliado contigo el trono de la iniquidad, el que ⟨es⟩ ⟨un⟩ formador de aflicción por decreto?",
   "tokens": [
     {
       "surface": "היחברך",
-      "english": "¿Se ⟨ha⟩ aliado contigo"
+      "gloss": "¿Se ⟨ha⟩ aliado contigo"
     },
     {
       "surface": "כסא",
-      "english": "el trono"
+      "gloss": "el trono"
     },
     {
       "surface": "הוות",
-      "english": "de la iniquidad"
+      "gloss": "de la iniquidad"
     },
     {
       "surface": "יצר",
-      "english": "el que ⟨es⟩ ⟨un⟩ formador"
+      "gloss": "el que ⟨es⟩ ⟨un⟩ formador"
     },
     {
       "surface": "עמל",
-      "english": "de aflicción"
+      "gloss": "de aflicción"
     },
     {
       "surface": "עלי",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "חק",
-      "english": "decreto"
+      "gloss": "decreto"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:47.997535247Z",
-  "model": "glm-4.5"
+  ]
 }

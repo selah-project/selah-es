@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-chronicles 11:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 11,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:11:02.447141626Z",
+  "translation": "Y tomó para sí Rejavam ⟨una⟩ mujer ⟨a⟩ Majalat hija de Yerimot hijo de Davidd, ⟨y⟩ a Avijail hija de Eliab hijo de Isaí",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Y tomó"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sí"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨una⟩ mujer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Majalat hija de Yerimot hijo de David"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Majalat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hija"
+    },
+    {
+      "surface": "ירימות",
+      "gloss": "de Yerimot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "⟨y⟩ a Avijail"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hija"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "de Eliab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "de Isaí"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboam",
@@ -20,85 +88,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58451,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58942
-  },
-  "translation": "Y tomó para sí Rejavam ⟨una⟩ mujer ⟨a⟩ Majalat hija de Yerimot hijo de Davidd, ⟨y⟩ a Avijail hija de Eliab hijo de Isaí",
-  "tokens": [
-    {
-      "surface": "ויקח",
-      "english": "Y tomó"
-    },
-    {
-      "surface": "לו",
-      "english": "para sí"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "אשה",
-      "english": "⟨una⟩ mujer"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Majalat hija de Yerimot hijo de David"
-    },
-    {
-      "surface": "מחלת",
-      "english": "Majalat"
-    },
-    {
-      "surface": "בן",
-      "english": "hija"
-    },
-    {
-      "surface": "ירימות",
-      "english": "de Yerimot"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "אביהיל",
-      "english": "⟨y⟩ a Avijail"
-    },
-    {
-      "surface": "בת",
-      "english": "hija"
-    },
-    {
-      "surface": "אליאב",
-      "english": "de Eliab"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "ישי",
-      "english": "de Isaí"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:11:02.447141626Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

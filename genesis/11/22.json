@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "genesis 11:22",
   "book": "genesis",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 270,
-    "prompt_tokens": 28396,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28666
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:55:42.639276480Z",
   "translation": "Y Serug vivió treinta años y engendró ⟨את⟩ a Najor:",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "Y ... vivió"
+      "gloss": "Y ... vivió"
     },
     {
       "surface": "שרוג",
-      "english": "Serug"
+      "gloss": "Serug"
     },
     {
       "surface": "שלשים",
-      "english": "treinta"
+      "gloss": "treinta"
     },
     {
       "surface": "שנה",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "ויולד",
-      "english": "y engendró"
+      "gloss": "y engendró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Najor"
     },
     {
       "surface": "נחור",
-      "english": "Najor"
+      "gloss": "Najor"
     }
-  ],
-  "timestamp": "2026-07-16T20:55:42.639276480Z",
-  "model": "glm-4.5"
+  ]
 }

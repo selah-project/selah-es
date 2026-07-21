@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 21:3",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26964,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27409
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:36.160879510Z",
   "translation": "Soportadme ⟨y⟩ yo hablaré; ⟨y⟩ después de mis palabras burlaréis.",
   "tokens": [
     {
       "surface": "שאוני",
-      "english": "Soportadme"
+      "gloss": "Soportadme"
     },
     {
       "surface": "ואנכי",
-      "english": "⟨y⟩ yo",
+      "gloss": "⟨y⟩ yo",
       "marks": "yo"
     },
     {
       "surface": "אדבר",
-      "english": "hablaré"
+      "gloss": "hablaré"
     },
     {
       "surface": "ואחר",
-      "english": "⟨y⟩ después",
+      "gloss": "⟨y⟩ después",
       "marks": "después"
     },
     {
       "surface": "דברי",
-      "english": "de mis palabras"
+      "gloss": "de mis palabras"
     },
     {
       "surface": "תלעיג",
-      "english": "burlaréis"
+      "gloss": "burlaréis"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:36.160879510Z",
-  "model": "glm-4.5"
+  ]
 }

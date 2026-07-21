@@ -1,9 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-kings 20:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 20,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:13:19.063288088Z",
+  "translation": "Y ⟨el⟩ envió mensajeros ⟨a⟩ Ajab, rey ⟨de⟩ Yisrael, ⟨a⟩ ⟨la⟩ ciudad.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Y ⟨el⟩ envió"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mensajeros"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩",
+      "marks": "Ajab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael",
+      "marks": "rey"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "⟨a⟩ ⟨la⟩ ciudad"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,54 +50,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61926,
-    "prompt_tokens_details": {
-      "cached_tokens": 60967
-    },
-    "total_tokens": 62284
-  },
-  "translation": "Y ⟨el⟩ envió mensajeros ⟨a⟩ Ajab, rey ⟨de⟩ Yisrael, ⟨a⟩ ⟨la⟩ ciudad.",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "Y ⟨el⟩ envió"
-    },
-    {
-      "surface": "מלאכים",
-      "english": "mensajeros"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩",
-      "marks": "Ajab"
-    },
-    {
-      "surface": "אחאב",
-      "english": "Ajab"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael",
-      "marks": "rey"
-    },
-    {
-      "surface": "העירה",
-      "english": "⟨a⟩ ⟨la⟩ ciudad"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:13:19.063288088Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

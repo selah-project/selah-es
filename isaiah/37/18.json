@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "isaiah 37:18",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 399,
-    "prompt_tokens": 26517,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26916
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:28:24.618632596Z",
   "translation": "De verdad, YHWH, ⟨los⟩ reyes de Ashur han asolado ⟨את⟩ todas ⟨las⟩ tierras y ⟨את⟩ su tierra,",
   "tokens": [
     {
       "surface": "אמנם",
-      "english": "De verdad"
+      "gloss": "De verdad"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "החריבו",
-      "english": "han asolado"
+      "gloss": "han asolado"
     },
     {
       "surface": "מלכי",
-      "english": "⟨los⟩ reyes"
+      "gloss": "⟨los⟩ reyes"
     },
     {
       "surface": "אשור",
-      "english": "de Ashur"
+      "gloss": "de Ashur"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todas ⟨las⟩ tierras"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "הארצות",
-      "english": "⟨las⟩ tierras"
+      "gloss": "⟨las⟩ tierras"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "su tierra"
     },
     {
       "surface": "ארצם",
-      "english": "su tierra"
+      "gloss": "su tierra"
     }
-  ],
-  "timestamp": "2026-07-16T21:28:24.618632596Z",
-  "model": "glm-4.5"
+  ]
 }

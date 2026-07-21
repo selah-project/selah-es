@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 33:11",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25998,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26410
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:41:15.454794502Z",
   "translation": "Concebiréis ⟨el⟩ tamo, daréis a luz ⟨el⟩ rastrojo; vuestro ⟨es⟩ fuego, ⟨y⟩ devorará ⟨a⟩ vosotros.",
   "tokens": [
     {
       "surface": "תהרו",
-      "english": "Concebiréis"
+      "gloss": "Concebiréis"
     },
     {
       "surface": "חשש",
-      "english": "⟨el⟩ tamo"
+      "gloss": "⟨el⟩ tamo"
     },
     {
       "surface": "תלדו",
-      "english": "daréis a luz"
+      "gloss": "daréis a luz"
     },
     {
       "surface": "קש",
-      "english": "⟨el⟩ rastrojo"
+      "gloss": "⟨el⟩ rastrojo"
     },
     {
       "surface": "רוחכם",
-      "english": "vuestro ⟨es⟩ fuego"
+      "gloss": "vuestro ⟨es⟩ fuego"
     },
     {
       "surface": "אש",
-      "english": "⟨y⟩ devorará"
+      "gloss": "⟨y⟩ devorará"
     },
     {
       "surface": "תאכלכם",
-      "english": "⟨a⟩ vosotros"
+      "gloss": "⟨a⟩ vosotros"
     }
-  ],
-  "timestamp": "2026-06-10T02:41:15.454794502Z",
-  "model": "glm-4.5"
+  ]
 }

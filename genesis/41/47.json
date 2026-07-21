@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 47,
   "ref": "genesis 41:47",
   "book": "genesis",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28178,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28490
-  },
+  "verse": 47,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:38:28.118548929Z",
   "translation": "Y ⟨la⟩ tierra produjo ⟨es⟩ en los siete años ⟨de⟩ abundancia por puñados.",
   "tokens": [
     {
       "surface": "ותעש",
-      "english": "Y ⟨la⟩ tierra produjo ⟨es⟩"
+      "gloss": "Y ⟨la⟩ tierra produjo ⟨es⟩"
     },
     {
       "surface": "הארץ",
-      "english": "tierra"
+      "gloss": "tierra"
     },
     {
       "surface": "בשבע",
-      "english": "en los siete años"
+      "gloss": "en los siete años"
     },
     {
       "surface": "שני",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "השבע",
-      "english": "abundancia"
+      "gloss": "abundancia"
     },
     {
       "surface": "לקמצים",
-      "english": "por puñados"
+      "gloss": "por puñados"
     }
-  ],
-  "timestamp": "2026-06-10T05:38:28.118548929Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 4:3",
   "book": "job",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26933,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27244
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:54:47.623125117Z",
   "translation": "¡Mira! has instruido ⟨a⟩ ⟨muchos⟩ y ⟨las⟩ manos débiles has fortalecido.",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "¡Mira!"
+      "gloss": "¡Mira!"
     },
     {
       "surface": "יסרת",
-      "english": "has instruido"
+      "gloss": "has instruido"
     },
     {
       "surface": "רבים",
-      "english": "muchos"
+      "gloss": "muchos"
     },
     {
       "surface": "וידים",
-      "english": "manos"
+      "gloss": "manos"
     },
     {
       "surface": "רפות",
-      "english": "débiles"
+      "gloss": "débiles"
     },
     {
       "surface": "תחזק",
-      "english": "has fortalecido"
+      "gloss": "has fortalecido"
     }
-  ],
-  "timestamp": "2026-06-10T01:54:47.623125117Z",
-  "model": "glm-4.5"
+  ]
 }

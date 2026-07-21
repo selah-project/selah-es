@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 27:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 456,
-    "prompt_tokens": 70292,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70748
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:32.599395714Z",
   "translation": "A ti ⟨dijo⟩ mi corazón: buscad mi rostro. Tu rostro, YHWH, ⟨את⟩ buscaré.",
   "tokens": [
     {
       "surface": "לך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "אמר",
-      "english": "dijo"
+      "gloss": "dijo"
     },
     {
       "surface": "לבי",
-      "english": "mi corazón"
+      "gloss": "mi corazón"
     },
     {
       "surface": "בקשו",
-      "english": "buscad"
+      "gloss": "buscad"
     },
     {
       "surface": "פני",
-      "english": "mi rostro"
+      "gloss": "mi rostro"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu rostro"
     },
     {
       "surface": "פניך",
-      "english": "tu rostro"
+      "gloss": "tu rostro"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אבקש",
-      "english": "buscaré"
+      "gloss": "buscaré"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:32.599395714Z",
-  "model": "glm-4.5"
+  ]
 }

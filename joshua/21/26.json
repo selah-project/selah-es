@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "joshua 21:26",
   "book": "joshua",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23432,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23940
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:23:45.677935710Z",
   "translation": "Todas ⟨las⟩ ciudades ⟨eran⟩ diez ⟨y⟩ ⟨sus⟩ suburbios ⟨para⟩ ⟨las⟩ familias de ⟨los⟩ hijos de Coat, ⟨los⟩ que quedaban.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todas"
+      "gloss": "Todas"
     },
     {
       "surface": "ערים",
-      "english": "ciudades"
+      "gloss": "ciudades"
     },
     {
       "surface": "עשר",
-      "english": "diez"
+      "gloss": "diez"
     },
     {
       "surface": "ומגרשיהן",
-      "english": "⟨y⟩ ⟨sus⟩ suburbios",
+      "gloss": "⟨y⟩ ⟨sus⟩ suburbios",
       "marks": "ciudades"
     },
     {
       "surface": "למשפחות",
-      "english": "⟨para⟩ ⟨las⟩ familias"
+      "gloss": "⟨para⟩ ⟨las⟩ familias"
     },
     {
       "surface": "בני",
-      "english": "de ⟨los⟩ hijos"
+      "gloss": "de ⟨los⟩ hijos"
     },
     {
       "surface": "קהת",
-      "english": "de Coat"
+      "gloss": "de Coat"
     },
     {
       "surface": "הנותרים",
-      "english": "⟨los⟩ que quedaban"
+      "gloss": "⟨los⟩ que quedaban"
     }
-  ],
-  "timestamp": "2026-06-10T01:23:45.677935710Z",
-  "model": "glm-4.5"
+  ]
 }

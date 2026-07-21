@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "leviticus 9:8",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 387,
-    "prompt_tokens": 24839,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25226
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:36:24.519103691Z",
   "translation": "Y Aharón se acercó al altar y sacrificó ⟨את⟩ el becerro de la ofrenda por el pecado, que era para sí",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "y se acercó"
+      "gloss": "y se acercó"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "אל",
-      "english": "al"
+      "gloss": "al"
     },
     {
       "surface": "המזבח",
-      "english": "altar"
+      "gloss": "altar"
     },
     {
       "surface": "וישחט",
-      "english": "y sacrificó"
+      "gloss": "y sacrificó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el becerro de la ofrenda por el pecado"
     },
     {
       "surface": "עגל",
-      "english": "el becerro"
+      "gloss": "el becerro"
     },
     {
       "surface": "החטאת",
-      "english": "de la ofrenda por el pecado"
+      "gloss": "de la ofrenda por el pecado"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "לו",
-      "english": "era para sí"
+      "gloss": "era para sí"
     }
-  ],
-  "timestamp": "2026-07-16T22:36:24.519103691Z",
-  "model": "glm-4.5"
+  ]
 }

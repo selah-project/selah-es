@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "1-chronicles 12:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 12,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:41:29.390766737Z",
+  "translation": "Y ellos ayudaron a Davidd ⟨por⟩ el destacamento, porque todos ⟨eran⟩ héroes de ⟨el⟩ ejército, y eran comandantes en ⟨el⟩ ejército",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Y ellos"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "ayudaron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "destacamento"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "héroes"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "de ⟨el⟩ ejército"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "⟨eran⟩"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "comandantes"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "en ⟨el⟩ ejército"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57192,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57669
-  },
-  "translation": "Y ellos ayudaron a Davidd ⟨por⟩ el destacamento, porque todos ⟨eran⟩ héroes de ⟨el⟩ ejército, y eran comandantes en ⟨el⟩ ejército",
-  "tokens": [
-    {
-      "surface": "והמה",
-      "english": "Y ellos"
-    },
-    {
-      "surface": "עזרו",
-      "english": "ayudaron"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "על",
-      "english": "⟨el⟩"
-    },
-    {
-      "surface": "הגדוד",
-      "english": "destacamento"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "גבורי",
-      "english": "héroes"
-    },
-    {
-      "surface": "חיל",
-      "english": "de ⟨el⟩ ejército"
-    },
-    {
-      "surface": "כלם",
-      "english": "todos"
-    },
-    {
-      "surface": "ויהיו",
-      "english": "⟨eran⟩"
-    },
-    {
-      "surface": "שרים",
-      "english": "comandantes"
-    },
-    {
-      "surface": "בצבא",
-      "english": "en ⟨el⟩ ejército"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:41:29.390766737Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

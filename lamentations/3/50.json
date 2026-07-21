@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "lamentations 3:50",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38828,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39106
-  },
+  "verse": 50,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:42:22.292433776Z",
   "translation": "⟨Hasta⟩ que YHWH ⟨se incline⟩ y ⟨vea⟩ desde ⟨los⟩ cielos",
   "tokens": [
     {
       "surface": "עד",
-      "english": "⟨Hasta⟩ que"
+      "gloss": "⟨Hasta⟩ que"
     },
     {
       "surface": "ישקיף",
-      "english": "⟨se incline⟩"
+      "gloss": "⟨se incline⟩"
     },
     {
       "surface": "וירא",
-      "english": "⟨vea⟩"
+      "gloss": "⟨vea⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "משמים",
-      "english": "desde ⟨los⟩ cielos"
+      "gloss": "desde ⟨los⟩ cielos"
     }
-  ],
-  "timestamp": "2026-06-09T22:42:22.292433776Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-samuel 27:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 27,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:12:05.875472638Z",
+  "translation": "Y Akish dijo: ⟨¿⟩Contra quién os desplegasteis hoy? Y Davidd dijo: Contra el sur de Yehudá y contra el sur de los jerameleos y contra el sur de los quenitas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo",
+      "marks": ""
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨¿⟩Contra quién",
+      "marks": "la pregunta de Akish"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "os desplegasteis",
+      "marks": ""
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy",
+      "marks": ""
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo",
+      "marks": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd",
+      "marks": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "Contra",
+      "marks": ""
+    },
+    {
+      "surface": "נגב",
+      "gloss": "el sur",
+      "marks": ""
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá",
+      "marks": ""
+    },
+    {
+      "surface": "ועל",
+      "gloss": "y contra",
+      "marks": ""
+    },
+    {
+      "surface": "נגב",
+      "gloss": "el sur",
+      "marks": ""
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "de los jerameleos",
+      "marks": ""
+    },
+    {
+      "surface": "ואל",
+      "gloss": "y contra",
+      "marks": ""
+    },
+    {
+      "surface": "נגב",
+      "gloss": "el sur",
+      "marks": ""
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "de los quenitas",
+      "marks": ""
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,104 +107,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 681,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16959,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17640
-  },
-  "translation": "Y Akish dijo: ⟨¿⟩Contra quién os desplegasteis hoy? Y Davidd dijo: Contra el sur de Yehudá y contra el sur de los jerameleos y contra el sur de los quenitas.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo",
-      "marks": ""
-    },
-    {
-      "surface": "אכיש",
-      "english": "Akish",
-      "marks": ""
-    },
-    {
-      "surface": "אל",
-      "english": "⟨¿⟩Contra quién",
-      "marks": "la pregunta de Akish"
-    },
-    {
-      "surface": "פשטתם",
-      "english": "os desplegasteis",
-      "marks": ""
-    },
-    {
-      "surface": "היום",
-      "english": "hoy",
-      "marks": ""
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo",
-      "marks": ""
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd",
-      "marks": ""
-    },
-    {
-      "surface": "על",
-      "english": "Contra",
-      "marks": ""
-    },
-    {
-      "surface": "נגב",
-      "english": "el sur",
-      "marks": ""
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá",
-      "marks": ""
-    },
-    {
-      "surface": "ועל",
-      "english": "y contra",
-      "marks": ""
-    },
-    {
-      "surface": "נגב",
-      "english": "el sur",
-      "marks": ""
-    },
-    {
-      "surface": "הירחמאלי",
-      "english": "de los jerameleos",
-      "marks": ""
-    },
-    {
-      "surface": "ואל",
-      "english": "y contra",
-      "marks": ""
-    },
-    {
-      "surface": "נגב",
-      "english": "el sur",
-      "marks": ""
-    },
-    {
-      "surface": "הקיני",
-      "english": "de los quenitas",
-      "marks": ""
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:12:05.875472638Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

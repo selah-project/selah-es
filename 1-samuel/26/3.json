@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-samuel 26:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 26,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:11:04.623536284Z",
+  "translation": "Y Shaúl acampó en el monte de Hachila, que ⟨estaba⟩ ⟨en⟩ ⟨la⟩ ladera ⟨de⟩ Jeshimón, ⟨a⟩ ⟨lo⟩ largo ⟨del⟩ camino. Y David ⟨estaba⟩ habitando en el desierto, y vio que Shaúl venía tras él al desierto",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "Y Saúl acampó"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "en el monte de"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Hachila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨la⟩ ladera ⟨de⟩"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "Jeshimón"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩ ⟨lo⟩ largo ⟨del⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "camino"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Y David"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨estaba⟩ habitando"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "en el desierto"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "y vio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venía"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "tras él"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "al desierto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -20,100 +103,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 675,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17096,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17771
-  },
-  "translation": "Y Shaúl acampó en el monte de Hachila, que ⟨estaba⟩ ⟨en⟩ ⟨la⟩ ladera ⟨de⟩ Jeshimón, ⟨a⟩ ⟨lo⟩ largo ⟨del⟩ camino. Y David ⟨estaba⟩ habitando en el desierto, y vio que Shaúl venía tras él al desierto",
-  "tokens": [
-    {
-      "surface": "ויחן",
-      "english": "Y Saúl acampó"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "בגבעת",
-      "english": "en el monte de"
-    },
-    {
-      "surface": "החכילה",
-      "english": "Hachila"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "על",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "פני",
-      "english": "⟨la⟩ ladera ⟨de⟩"
-    },
-    {
-      "surface": "הישימן",
-      "english": "Jeshimón"
-    },
-    {
-      "surface": "על",
-      "english": "⟨a⟩ ⟨lo⟩ largo ⟨del⟩"
-    },
-    {
-      "surface": "הדרך",
-      "english": "camino"
-    },
-    {
-      "surface": "ודוד",
-      "english": "Y David"
-    },
-    {
-      "surface": "ישב",
-      "english": "⟨estaba⟩ habitando"
-    },
-    {
-      "surface": "במדבר",
-      "english": "en el desierto"
-    },
-    {
-      "surface": "וירא",
-      "english": "y vio"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "בא",
-      "english": "venía"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "אחריו",
-      "english": "tras él"
-    },
-    {
-      "surface": "המדברה",
-      "english": "al desierto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:11:04.623536284Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

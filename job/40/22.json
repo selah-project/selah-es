@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 40:22",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27000,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27312
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:15.474338293Z",
   "translation": "Las sombras ⟨is⟩ ⟨el⟩ loto lo cubren ⟨con⟩ su sombra; ⟨los⟩ sauces ⟨del⟩ arroyo lo rodean.",
   "tokens": [
     {
       "surface": "יסכהו",
-      "english": "Lo cubren"
+      "gloss": "Lo cubren"
     },
     {
       "surface": "צאלים",
-      "english": "⟨el⟩ loto"
+      "gloss": "⟨el⟩ loto"
     },
     {
       "surface": "צללו",
-      "english": "⟨con⟩ su sombra"
+      "gloss": "⟨con⟩ su sombra"
     },
     {
       "surface": "יסבוהו",
-      "english": "lo rodean"
+      "gloss": "lo rodean"
     },
     {
       "surface": "ערבי",
-      "english": "⟨los⟩ sauces ⟨del⟩"
+      "gloss": "⟨los⟩ sauces ⟨del⟩"
     },
     {
       "surface": "נחל",
-      "english": "arroyo"
+      "gloss": "arroyo"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:15.474338293Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 21:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59872,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60304
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:35.842049883Z",
   "translation": "El hombre que ⟨se⟩ desvía ⟨del⟩ camino ⟨del⟩ entendimiento ⟨descansará⟩ en ⟨el⟩ kahal de ⟨los⟩ refaím.",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "El hombre"
+      "gloss": "El hombre"
     },
     {
       "surface": "תועה",
-      "english": "que ⟨se⟩ desvía"
+      "gloss": "que ⟨se⟩ desvía"
     },
     {
       "surface": "מדרך",
-      "english": "⟨del⟩ camino"
+      "gloss": "⟨del⟩ camino"
     },
     {
       "surface": "השכל",
-      "english": "⟨del⟩ entendimiento"
+      "gloss": "⟨del⟩ entendimiento"
     },
     {
       "surface": "בקהל",
-      "english": "⟨en el⟩ kahal"
+      "gloss": "⟨en el⟩ kahal"
     },
     {
       "surface": "רפאים",
-      "english": "⟨de los⟩ refaím"
+      "gloss": "⟨de los⟩ refaím"
     },
     {
       "surface": "ינוח",
-      "english": "⟨descansará⟩"
+      "gloss": "⟨descansará⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:35.842049883Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 18:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 426,
-    "prompt_tokens": 69893,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70319
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:38.053665008Z",
   "translation": "Alabaré, invocaré a YHWH, ⟨y⟩ de mis enemigos seré salvado.",
   "tokens": [
     {
       "surface": "מהלל",
-      "english": "Alabaré"
+      "gloss": "Alabaré"
     },
     {
       "surface": "אקרא",
-      "english": "invocaré"
+      "gloss": "invocaré"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "ומן",
-      "english": "⟨y⟩",
+      "gloss": "⟨y⟩",
       "marks": "de mis enemigos seré salvado"
     },
     {
       "surface": "איבי",
-      "english": "de mis enemigos"
+      "gloss": "de mis enemigos"
     },
     {
       "surface": "אושע",
-      "english": "seré salvado"
+      "gloss": "seré salvado"
     }
-  ],
-  "timestamp": "2026-07-16T23:25:38.053665008Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "joshua 12:16",
   "book": "joshua",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 200,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23124,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23324
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:16:36.103826062Z",
   "translation": "rey de Makkedah, uno; rey de Bet-El, uno",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "Rey"
+      "gloss": "Rey"
     },
     {
       "surface": "מקדה",
-      "english": "de Makkedah"
+      "gloss": "de Makkedah"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "מלך",
-      "english": "rey"
+      "gloss": "rey"
     },
     {
       "surface": "בית",
-      "english": "de Bet"
+      "gloss": "de Bet"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     }
-  ],
-  "timestamp": "2026-06-10T01:16:36.103826062Z",
-  "model": "glm-4.5"
+  ]
 }

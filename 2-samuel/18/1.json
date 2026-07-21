@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 18:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 18,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:33:55.910258562Z",
+  "translation": "Y Davidd contó ⟨el⟩ pueblo que ⟨estaba⟩ con él, y puso sobre ellos capitanes ⟨de⟩ millares y capitanes ⟨de⟩ centenas",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Y David contó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨el⟩",
+      "marks": "העם (el pueblo)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pueblo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨estaba⟩"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "y puso"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sobre ellos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "capitanes"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "⟨de⟩ millares"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "y capitanes"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨de⟩ centenas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,73 +69,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17308,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17823
-  },
-  "translation": "Y Davidd contó ⟨el⟩ pueblo que ⟨estaba⟩ con él, y puso sobre ellos capitanes ⟨de⟩ millares y capitanes ⟨de⟩ centenas",
-  "tokens": [
-    {
-      "surface": "ויפקד",
-      "english": "Y David contó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "את",
-      "english": "⟨el⟩",
-      "marks": "העם (el pueblo)"
-    },
-    {
-      "surface": "העם",
-      "english": "pueblo"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אתו",
-      "english": "⟨estaba⟩"
-    },
-    {
-      "surface": "וישם",
-      "english": "y puso"
-    },
-    {
-      "surface": "עליהם",
-      "english": "sobre ellos"
-    },
-    {
-      "surface": "שרי",
-      "english": "capitanes"
-    },
-    {
-      "surface": "אלפים",
-      "english": "⟨de⟩ millares"
-    },
-    {
-      "surface": "ושרי",
-      "english": "y capitanes"
-    },
-    {
-      "surface": "מאות",
-      "english": "⟨de⟩ centenas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:33:55.910258562Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

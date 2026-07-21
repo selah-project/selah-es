@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 7:15",
   "book": "job",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26874,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27432
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:01.504200654Z",
   "translation": "Y ⟨eliges⟩ ⟨el⟩ estrangulamiento ⟨de⟩ mi nefesh ⟨por⟩ ⟨la⟩ muerte ⟨en lugar de⟩ ⟨mis⟩ huesos.",
   "tokens": [
     {
       "surface": "ותבחר",
-      "english": "Y ⟨eliges⟩"
+      "gloss": "Y ⟨eliges⟩"
     },
     {
       "surface": "מחנק",
-      "english": "⟨el⟩ estrangulamiento"
+      "gloss": "⟨el⟩ estrangulamiento"
     },
     {
       "surface": "נפשי",
-      "english": "⟨de⟩ mi nefesh",
+      "gloss": "⟨de⟩ mi nefesh",
       "marks": "mi nefesh"
     },
     {
       "surface": "מות",
-      "english": "⟨por⟩ ⟨la⟩ muerte"
+      "gloss": "⟨por⟩ ⟨la⟩ muerte"
     },
     {
       "surface": "מעצמותי",
-      "english": "⟨en lugar de⟩ ⟨mis⟩ huesos"
+      "gloss": "⟨en lugar de⟩ ⟨mis⟩ huesos"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:01.504200654Z",
-  "model": "glm-4.5"
+  ]
 }

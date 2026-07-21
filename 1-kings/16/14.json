@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-kings 16:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 16,
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:08:14.012644744Z",
+  "translation": "Y ⟨el⟩ resto de ⟨los⟩ hechos de Elá, y todo lo que hizo, ¿no están escritos en ⟨el⟩ libro de ⟨los⟩ hechos de ⟨los⟩ días de ⟨los⟩ reyes de Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Y el resto"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de ⟨los⟩ hechos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "de Elá"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "¿no"
+    },
+    {
+      "surface": "הם",
+      "gloss": "están"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "en"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "⟨el⟩ libro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de ⟨los⟩ hechos"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "de ⟨los⟩ días"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "de ⟨los⟩ reyes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62678,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63131
-  },
-  "translation": "Y ⟨el⟩ resto de ⟨los⟩ hechos de Elá, y todo lo que hizo, ¿no están escritos en ⟨el⟩ libro de ⟨los⟩ hechos de ⟨los⟩ días de ⟨los⟩ reyes de Yisrael?",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "Y el resto"
-    },
-    {
-      "surface": "דברי",
-      "english": "de ⟨los⟩ hechos"
-    },
-    {
-      "surface": "אלה",
-      "english": "de Elá"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "אשר",
-      "english": "lo que"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo"
-    },
-    {
-      "surface": "הלוא",
-      "english": "¿no"
-    },
-    {
-      "surface": "הם",
-      "english": "están"
-    },
-    {
-      "surface": "כתובים",
-      "english": "escritos"
-    },
-    {
-      "surface": "על",
-      "english": "en"
-    },
-    {
-      "surface": "ספר",
-      "english": "⟨el⟩ libro"
-    },
-    {
-      "surface": "דברי",
-      "english": "de ⟨los⟩ hechos"
-    },
-    {
-      "surface": "הימים",
-      "english": "de ⟨los⟩ días"
-    },
-    {
-      "surface": "למלכי",
-      "english": "de ⟨los⟩ reyes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:08:14.012644744Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

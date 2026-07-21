@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 71:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69970,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70424
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:51.534081443Z",
   "translation": "Vendré ⟨con⟩ las proezas ⟨de⟩ Adonai YHWH ⟨y⟩ haré memorable tu justicia, ⟨la⟩ tuya ⟨solamente⟩.",
   "tokens": [
     {
       "surface": "אבוא",
-      "english": "Vendré"
+      "gloss": "Vendré"
     },
     {
       "surface": "בגברות",
-      "english": "⟨con⟩ las proezas ⟨de⟩"
+      "gloss": "⟨con⟩ las proezas ⟨de⟩"
     },
     {
       "surface": "אדני",
-      "english": "Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אזכיר",
-      "english": "⟨y⟩ haré memorable"
+      "gloss": "⟨y⟩ haré memorable"
     },
     {
       "surface": "צדקתך",
-      "english": "tu justicia"
+      "gloss": "tu justicia"
     },
     {
       "surface": "לבדך",
-      "english": "⟨la⟩ tuya ⟨solamente⟩"
+      "gloss": "⟨la⟩ tuya ⟨solamente⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:51.534081443Z",
-  "model": "glm-4.5"
+  ]
 }

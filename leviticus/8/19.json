@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "leviticus 8:19",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 24596,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24998
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:35:46.068985769Z",
   "translation": "y ⟨él⟩ lo sacrificó, y Moshé roció ⟨את⟩ la sangre sobre el altar alrededor",
   "tokens": [
     {
       "surface": "וישחט",
-      "english": "y ⟨él⟩ lo sacrificó"
+      "gloss": "y ⟨él⟩ lo sacrificó"
     },
     {
       "surface": "ויזרק",
-      "english": "y Moshé roció"
+      "gloss": "y Moshé roció"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la sangre"
     },
     {
       "surface": "הדם",
-      "english": "la sangre"
+      "gloss": "la sangre"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "המזבח",
-      "english": "el altar"
+      "gloss": "el altar"
     },
     {
       "surface": "סביב",
-      "english": "alrededor"
+      "gloss": "alrededor"
     }
-  ],
-  "timestamp": "2026-07-16T22:35:46.068985769Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-samuel 20:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 20,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:36:47.819310437Z",
+  "translation": "Y también Ira ⟨el⟩ Jairita fue Kohen para David",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Y también"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ira"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "⟨el⟩ Jairita",
+      "marks": "Ira"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fue"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "para David"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -13,49 +45,6 @@
       "hebrew": "כהן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 287,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16590,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 16877
-  },
-  "translation": "Y también Ira ⟨el⟩ Jairita fue Kohen para David",
-  "tokens": [
-    {
-      "surface": "וגם",
-      "english": "Y también"
-    },
-    {
-      "surface": "עירא",
-      "english": "Ira"
-    },
-    {
-      "surface": "היארי",
-      "english": "⟨el⟩ Jairita",
-      "marks": "Ira"
-    },
-    {
-      "surface": "היה",
-      "english": "fue"
-    },
-    {
-      "surface": "כהן",
-      "english": "Kohen"
-    },
-    {
-      "surface": "לדוד",
-      "english": "para David"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:36:47.819310437Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

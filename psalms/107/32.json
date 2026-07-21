@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 107:32",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 608,
-    "prompt_tokens": 69922,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70530
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:02.397678989Z",
   "translation": "Y ⟨exalten⟩ a Elohim en la asamblea ⟨del⟩ pueblo, y en el lugar de reunión ⟨de⟩ los ancianos alaben a Elohim",
   "tokens": [
     {
       "surface": "וירממוהו",
-      "english": "Y ⟨exalten⟩ a Elohim"
+      "gloss": "Y ⟨exalten⟩ a Elohim"
     },
     {
       "surface": "בקהל",
-      "english": "en la asamblea"
+      "gloss": "en la asamblea"
     },
     {
       "surface": "עם",
-      "english": "⟨del⟩ pueblo"
+      "gloss": "⟨del⟩ pueblo"
     },
     {
       "surface": "ובמושב",
-      "english": "y en el lugar de reunión"
+      "gloss": "y en el lugar de reunión"
     },
     {
       "surface": "זקנים",
-      "english": "⟨de⟩ los ancianos"
+      "gloss": "⟨de⟩ los ancianos"
     },
     {
       "surface": "יהללוהו",
-      "english": "alaben a Elohim"
+      "gloss": "alaben a Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:02.397678989Z",
-  "model": "glm-4.5"
+  ]
 }

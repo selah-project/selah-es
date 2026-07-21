@@ -1,9 +1,111 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "1-chronicles 4:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 4,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:30:10.530832385Z",
+  "translation": "Y su esposa, la judía, dio a luz ⟨a⟩ Jered, padre de Gedor, y ⟨a⟩ Heber, padre de Soco, y ⟨a⟩ Jecutiel, padre de Zanoa; y estos ⟨son⟩ los hijos de Bithia, hija de Paró, que Mered tomó.",
+  "tokens": [
+    {
+      "surface": "ואשתו",
+      "gloss": "Y su esposa"
+    },
+    {
+      "surface": "היהדיה",
+      "gloss": "la judía"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dio a luz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Jered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "גדור",
+      "gloss": "Gedor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩",
+      "marks": "Heber"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Heber"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Soco"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩",
+      "marks": "Jecutiel"
+    },
+    {
+      "surface": "יקותיאל",
+      "gloss": "Jecutiel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "זנוח",
+      "gloss": "Zanoa"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "y estos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "בתיה",
+      "gloss": "Bithia"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hija"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tomó"
+    },
+    {
+      "surface": "מרד",
+      "gloss": "Mered"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -13,119 +115,6 @@
       "hebrew": "פרעה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 939,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58404,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 59343
-  },
-  "translation": "Y su esposa, la judía, dio a luz ⟨a⟩ Jered, padre de Gedor, y ⟨a⟩ Heber, padre de Soco, y ⟨a⟩ Jecutiel, padre de Zanoa; y estos ⟨son⟩ los hijos de Bithia, hija de Paró, que Mered tomó.",
-  "tokens": [
-    {
-      "surface": "ואשתו",
-      "english": "Y su esposa"
-    },
-    {
-      "surface": "היהדיה",
-      "english": "la judía"
-    },
-    {
-      "surface": "ילדה",
-      "english": "dio a luz"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Jered"
-    },
-    {
-      "surface": "ירד",
-      "english": "Jered"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre"
-    },
-    {
-      "surface": "גדור",
-      "english": "Gedor"
-    },
-    {
-      "surface": "ואת",
-      "english": "⟨a⟩",
-      "marks": "Heber"
-    },
-    {
-      "surface": "חבר",
-      "english": "Heber"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre"
-    },
-    {
-      "surface": "שוכו",
-      "english": "Soco"
-    },
-    {
-      "surface": "ואת",
-      "english": "⟨a⟩",
-      "marks": "Jecutiel"
-    },
-    {
-      "surface": "יקותיאל",
-      "english": "Jecutiel"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre"
-    },
-    {
-      "surface": "זנוח",
-      "english": "Zanoa"
-    },
-    {
-      "surface": "ואלה",
-      "english": "y estos"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "בתיה",
-      "english": "Bithia"
-    },
-    {
-      "surface": "בת",
-      "english": "hija"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לקח",
-      "english": "tomó"
-    },
-    {
-      "surface": "מרד",
-      "english": "Mered"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:30:10.530832385Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

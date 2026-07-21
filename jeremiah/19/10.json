@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "jeremiah 19:10",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24438,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24800
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:18:07.262738027Z",
   "translation": "Y quebraste ⟨el⟩ botijo ante ⟨los⟩ ojos de ⟨los⟩ hombres que van ⟨contigo⟩",
   "tokens": [
     {
       "surface": "ושברת",
-      "english": "Y quebraste"
+      "gloss": "Y quebraste"
     },
     {
       "surface": "הבקבק",
-      "english": "⟨el⟩ botijo"
+      "gloss": "⟨el⟩ botijo"
     },
     {
       "surface": "לעיני",
-      "english": "ante ⟨los⟩ ojos"
+      "gloss": "ante ⟨los⟩ ojos"
     },
     {
       "surface": "האנשים",
-      "english": "de ⟨los⟩ hombres"
+      "gloss": "de ⟨los⟩ hombres"
     },
     {
       "surface": "ההלכים",
-      "english": "que van"
+      "gloss": "que van"
     },
     {
       "surface": "אותך",
-      "english": "⟨contigo⟩",
+      "gloss": "⟨contigo⟩",
       "marks": "ההלכים"
     }
-  ],
-  "timestamp": "2026-06-10T03:18:07.262738027Z",
-  "model": "glm-4.5"
+  ]
 }

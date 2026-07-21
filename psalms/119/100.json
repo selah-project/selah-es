@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 100,
   "ref": "psalms 119:100",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69727,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70198
-  },
+  "verse": 100,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:10.660472983Z",
   "translation": "De ⟨los⟩ ancianos ⟨tengo⟩ entendimiento, porque ⟨tus⟩ preceptos ⟨los⟩ he guardado.",
   "tokens": [
     {
       "surface": "מזקנים",
-      "english": "De ⟨los⟩ ancianos"
+      "gloss": "De ⟨los⟩ ancianos"
     },
     {
       "surface": "אתבונן",
-      "english": "⟨tengo⟩ entendimiento"
+      "gloss": "⟨tengo⟩ entendimiento"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "פקודיך",
-      "english": "⟨tus⟩ preceptos"
+      "gloss": "⟨tus⟩ preceptos"
     },
     {
       "surface": "נצרתי",
-      "english": "⟨los⟩ he guardado"
+      "gloss": "⟨los⟩ he guardado"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:10.660472983Z",
-  "model": "glm-4.5"
+  ]
 }

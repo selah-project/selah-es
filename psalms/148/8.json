@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 148:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 432,
-    "prompt_tokens": 69996,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70428
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:00.726922518Z",
   "translation": "Fuego, y granizo, nieve y vapor, viento de tempestad, ⟨que⟩ ejecuta ⟨el⟩ davar de Él:",
   "tokens": [
     {
       "surface": "אש",
-      "english": "Fuego"
+      "gloss": "Fuego"
     },
     {
       "surface": "וברד",
-      "english": ", y granizo"
+      "gloss": ", y granizo"
     },
     {
       "surface": "שלג",
-      "english": ", nieve"
+      "gloss": ", nieve"
     },
     {
       "surface": "וקיטור",
-      "english": " y vapor"
+      "gloss": " y vapor"
     },
     {
       "surface": "רוח",
-      "english": ", viento"
+      "gloss": ", viento"
     },
     {
       "surface": "סערה",
-      "english": " de tempestad"
+      "gloss": " de tempestad"
     },
     {
       "surface": "עשה",
-      "english": ", ⟨que⟩ ejecuta"
+      "gloss": ", ⟨que⟩ ejecuta"
     },
     {
       "surface": "דברו",
-      "english": " ⟨el⟩ davar de Él:"
+      "gloss": " ⟨el⟩ davar de Él:"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:00.726922518Z",
-  "model": "glm-4.5"
+  ]
 }

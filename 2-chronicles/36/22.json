@@ -1,9 +1,113 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "2-chronicles 36:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 36,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:41:57.016712874Z",
+  "translation": "Y en el primer año de Koresh, rey de Persia, ⟨para⟩ que ⟨se⟩ cumpliera la palabra de YHWH ⟨por⟩ boca de Yirmeyáhu, despertó YHWH ⟨el⟩ espíritu ⟨de⟩ Koresh, rey de Persia, y pasó ⟨un⟩ proclama en todo su reino, y también ⟨por⟩ escrito, diciendo:",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "Y en"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "el primer año ⟨de⟩"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Ciro,"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey ⟨de⟩"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Persia,"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "⟨para⟩ que ⟨se⟩ cumpliera"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la palabra ⟨de⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "⟨por⟩ boca ⟨de⟩"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyáhu,"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "despertó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨el⟩",
+      "marks": "espíritu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espíritu"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "⟨de⟩ Koresh,"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey ⟨de⟩"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Persia,"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "y pasó"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨un⟩ proclama"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "en todo"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "su reino,"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "y también"
+    },
+    {
+      "surface": "במכתב",
+      "gloss": "⟨por⟩ escrito,"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo:"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Ciro",
@@ -13,121 +117,6 @@
       "hebrew": "כורש"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 980,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59383,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60363
-  },
-  "translation": "Y en el primer año de Koresh, rey de Persia, ⟨para⟩ que ⟨se⟩ cumpliera la palabra de YHWH ⟨por⟩ boca de Yirmeyáhu, despertó YHWH ⟨el⟩ espíritu ⟨de⟩ Koresh, rey de Persia, y pasó ⟨un⟩ proclama en todo su reino, y también ⟨por⟩ escrito, diciendo:",
-  "tokens": [
-    {
-      "surface": "ובשנת",
-      "english": "Y en"
-    },
-    {
-      "surface": "אחת",
-      "english": "el primer año ⟨de⟩"
-    },
-    {
-      "surface": "לכורש",
-      "english": "Ciro,"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey ⟨de⟩"
-    },
-    {
-      "surface": "פרס",
-      "english": "Persia,"
-    },
-    {
-      "surface": "לכלות",
-      "english": "⟨para⟩ que ⟨se⟩ cumpliera"
-    },
-    {
-      "surface": "דבר",
-      "english": "la palabra ⟨de⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "בפי",
-      "english": "⟨por⟩ boca ⟨de⟩"
-    },
-    {
-      "surface": "ירמיהו",
-      "english": "Yirmeyáhu,"
-    },
-    {
-      "surface": "העיר",
-      "english": "despertó"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "את",
-      "english": "⟨el⟩",
-      "marks": "espíritu"
-    },
-    {
-      "surface": "רוח",
-      "english": "espíritu"
-    },
-    {
-      "surface": "כורש",
-      "english": "⟨de⟩ Koresh,"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey ⟨de⟩"
-    },
-    {
-      "surface": "פרס",
-      "english": "Persia,"
-    },
-    {
-      "surface": "ויעבר",
-      "english": "y pasó"
-    },
-    {
-      "surface": "קול",
-      "english": "⟨un⟩ proclama"
-    },
-    {
-      "surface": "בכל",
-      "english": "en todo"
-    },
-    {
-      "surface": "מלכותו",
-      "english": "su reino,"
-    },
-    {
-      "surface": "וגם",
-      "english": "y también"
-    },
-    {
-      "surface": "במכתב",
-      "english": "⟨por⟩ escrito,"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo:"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:41:57.016712874Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

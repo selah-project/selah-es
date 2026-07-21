@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 26:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 447,
-    "prompt_tokens": 59946,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60393
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:22:06.721145639Z",
   "translation": "Responde ⟨al⟩ necio según su necedad, ⟨para que no⟩ sea sabio en sus propios ojos.",
   "tokens": [
     {
       "surface": "ענה",
-      "english": "Responde"
+      "gloss": "Responde"
     },
     {
       "surface": "כסיל",
-      "english": "⟨al⟩ necio"
+      "gloss": "⟨al⟩ necio"
     },
     {
       "surface": "כאולתו",
-      "english": "según su necedad"
+      "gloss": "según su necedad"
     },
     {
       "surface": "פן",
-      "english": "⟨para que no⟩"
+      "gloss": "⟨para que no⟩"
     },
     {
       "surface": "יהיה",
-      "english": "sea"
+      "gloss": "sea"
     },
     {
       "surface": "חכם",
-      "english": "sabio"
+      "gloss": "sabio"
     },
     {
       "surface": "בעיניו",
-      "english": "en sus propios ojos"
+      "gloss": "en sus propios ojos"
     }
-  ],
-  "timestamp": "2026-07-16T23:22:06.721145639Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "isaiah 4:6",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26236,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26630
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:22:58.264612178Z",
   "translation": "y una cabaña ⟨es⟩ para sombra en el día del calor, y para refugio y para escondite de la inundación y de la lluvia",
   "tokens": [
     {
       "surface": "וסכה",
-      "english": "Y una cabaña"
+      "gloss": "Y una cabaña"
     },
     {
       "surface": "תהיה",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "לצל",
-      "english": "para sombra"
+      "gloss": "para sombra"
     },
     {
       "surface": "יומם",
-      "english": "en el día"
+      "gloss": "en el día"
     },
     {
       "surface": "מחרב",
-      "english": "del calor"
+      "gloss": "del calor"
     },
     {
       "surface": "ולמחסה",
-      "english": "y para refugio"
+      "gloss": "y para refugio"
     },
     {
       "surface": "ולמסתור",
-      "english": "y para escondite"
+      "gloss": "y para escondite"
     },
     {
       "surface": "מזרם",
-      "english": "de la inundación"
+      "gloss": "de la inundación"
     },
     {
       "surface": "וממטר",
-      "english": "y de la lluvia"
+      "gloss": "y de la lluvia"
     }
-  ],
-  "timestamp": "2026-06-10T02:22:58.264612178Z",
-  "model": "glm-4.5"
+  ]
 }

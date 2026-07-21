@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 148:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 505,
-    "prompt_tokens": 70523,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71028
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:27.128067381Z",
   "translation": "Alaben ⟨el⟩ Nombre de YHWH, pues ⟨el⟩ Nombre de Él ⟨es⟩ exaltado, su majestad ⟨está⟩ sobre la tierra y ⟨los⟩ cielos.",
   "tokens": [
     {
       "surface": "יהללו",
-      "english": "Alaben"
+      "gloss": "Alaben"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Nombre de YHWH"
     },
     {
       "surface": "שם",
-      "english": "Nombre"
+      "gloss": "Nombre"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "נשגב",
-      "english": "exaltado"
+      "gloss": "exaltado"
     },
     {
       "surface": "שמו",
-      "english": "el Nombre de Él"
+      "gloss": "el Nombre de Él"
     },
     {
       "surface": "לבדו",
-      "english": "solo"
+      "gloss": "solo"
     },
     {
       "surface": "הודו",
-      "english": "su majestad"
+      "gloss": "su majestad"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "ושמים",
-      "english": "y ⟨los⟩ cielos"
+      "gloss": "y ⟨los⟩ cielos"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:27.128067381Z",
-  "model": "glm-4.5"
+  ]
 }

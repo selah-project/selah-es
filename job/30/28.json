@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "job 30:28",
   "book": "job",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27008,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27425
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:10:23.131361462Z",
   "translation": "Enlutado ⟨he⟩ caminé ⟨en⟩ ⟨sin⟩ sol; ⟨yo⟩ me levanté ⟨en⟩ ⟨la⟩ congregación y clamé ⟨por⟩ ayuda.",
   "tokens": [
     {
       "surface": "קדר",
-      "english": "Enlutado"
+      "gloss": "Enlutado"
     },
     {
       "surface": "הלכתי",
-      "english": "caminé"
+      "gloss": "caminé"
     },
     {
       "surface": "בלא",
-      "english": "⟨en⟩ ⟨sin⟩"
+      "gloss": "⟨en⟩ ⟨sin⟩"
     },
     {
       "surface": "חמה",
-      "english": "sol"
+      "gloss": "sol"
     },
     {
       "surface": "קמתי",
-      "english": "⟨yo⟩ me levanté"
+      "gloss": "⟨yo⟩ me levanté"
     },
     {
       "surface": "בקהל",
-      "english": "⟨en⟩ ⟨la⟩ congregación"
+      "gloss": "⟨en⟩ ⟨la⟩ congregación"
     },
     {
       "surface": "אשוע",
-      "english": "clamé ⟨por⟩ ayuda"
+      "gloss": "clamé ⟨por⟩ ayuda"
     }
-  ],
-  "timestamp": "2026-06-10T02:10:23.131361462Z",
-  "model": "glm-4.5"
+  ]
 }

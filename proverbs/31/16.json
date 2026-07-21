@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 31:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59877,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60181
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:45.692809940Z",
   "translation": "Ella considera un campo y lo compra; con el fruto de ⟨sus⟩ manos planta un viñedo.",
   "tokens": [
     {
       "surface": "זממה",
-      "english": "Ella considera"
+      "gloss": "Ella considera"
     },
     {
       "surface": "שדה",
-      "english": "un campo"
+      "gloss": "un campo"
     },
     {
       "surface": "ותקחהו",
-      "english": "y lo compra"
+      "gloss": "y lo compra"
     },
     {
       "surface": "מפרי",
-      "english": "con el fruto de"
+      "gloss": "con el fruto de"
     },
     {
       "surface": "כפיה",
-      "english": "⟨sus⟩ manos",
+      "gloss": "⟨sus⟩ manos",
       "marks": "manos"
     },
     {
       "surface": "נטע",
-      "english": "planta"
+      "gloss": "planta"
     },
     {
       "surface": "כרם",
-      "english": "un viñedo"
+      "gloss": "un viñedo"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:45.692809940Z",
-  "model": "glm-4.5"
+  ]
 }

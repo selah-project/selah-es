@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 13:5",
   "book": "genesis",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 420,
-    "prompt_tokens": 28591,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29011
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:56:02.686338499Z",
   "translation": "Y también ⟨para⟩ Lot, el que camina ⟨את⟩ Avram, ⟨había⟩ rebaños y ganado y tiendas",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "Y también"
+      "gloss": "Y también"
     },
     {
       "surface": "ללוט",
-      "english": "⟨para⟩ Lot"
+      "gloss": "⟨para⟩ Lot"
     },
     {
       "surface": "ההלך",
-      "english": "el que camina"
+      "gloss": "el que camina"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avram"
     },
     {
       "surface": "אברם",
-      "english": "Avram"
+      "gloss": "Avram"
     },
     {
       "surface": "היה",
-      "english": "⟨había⟩"
+      "gloss": "⟨había⟩"
     },
     {
       "surface": "צאן",
-      "english": "rebaños"
+      "gloss": "rebaños"
     },
     {
       "surface": "ובקר",
-      "english": "y ganado"
+      "gloss": "y ganado"
     },
     {
       "surface": "ואהלים",
-      "english": "y tiendas"
+      "gloss": "y tiendas"
     }
-  ],
-  "timestamp": "2026-07-16T20:56:02.686338499Z",
-  "model": "glm-4.5"
+  ]
 }

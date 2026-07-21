@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 35:20",
   "book": "genesis",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28592,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29107
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:32:45.180695865Z",
   "translation": "Y Yaakov ⟨erigió⟩ ⟨un⟩ pilar ⟨sobre⟩ ⟨el⟩ sepulcro de ella; ⟨este es⟩ ⟨el⟩ pilar ⟨del⟩ sepulcro de Rajel hasta ⟨el⟩ día de hoy",
   "tokens": [
     {
       "surface": "ויצב",
-      "english": "Y Yaakov ⟨erigió⟩"
+      "gloss": "Y Yaakov ⟨erigió⟩"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "מצבה",
-      "english": "⟨un⟩ pilar"
+      "gloss": "⟨un⟩ pilar"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "קברתה",
-      "english": "⟨el⟩ sepulcro de ella"
+      "gloss": "⟨el⟩ sepulcro de ella"
     },
     {
       "surface": "הוא",
-      "english": "⟨este es⟩"
+      "gloss": "⟨este es⟩"
     },
     {
       "surface": "מצבת",
-      "english": "⟨el⟩ pilar"
+      "gloss": "⟨el⟩ pilar"
     },
     {
       "surface": "קברת",
-      "english": "⟨del⟩ sepulcro"
+      "gloss": "⟨del⟩ sepulcro"
     },
     {
       "surface": "רחל",
-      "english": "Rajel"
+      "gloss": "Rajel"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "היום",
-      "english": "⟨el⟩ día de hoy"
+      "gloss": "⟨el⟩ día de hoy"
     }
-  ],
-  "timestamp": "2026-06-10T05:32:45.180695865Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 20:3",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26982,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27413
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:39.610963892Z",
   "translation": "⟨el⟩ castigo de ⟨mi⟩ deshonza ⟨yo⟩ oigo ⟨y⟩ ⟨el⟩ espíritu de ⟨mi⟩ entendimiento ⟨me⟩ responde",
   "tokens": [
     {
       "surface": "מוסר",
-      "english": "Castigo"
+      "gloss": "Castigo"
     },
     {
       "surface": "כלמתי",
-      "english": "de ⟨mi⟩ deshonza",
+      "gloss": "de ⟨mi⟩ deshonza",
       "marks": "deshonza"
     },
     {
       "surface": "אשמע",
-      "english": "⟨yo⟩ oigo"
+      "gloss": "⟨yo⟩ oigo"
     },
     {
       "surface": "ורוח",
-      "english": "⟨y⟩ ⟨el⟩ espíritu"
+      "gloss": "⟨y⟩ ⟨el⟩ espíritu"
     },
     {
       "surface": "מבינתי",
-      "english": "de ⟨mi⟩ entendimiento",
+      "gloss": "de ⟨mi⟩ entendimiento",
       "marks": "entendimiento"
     },
     {
       "surface": "יענני",
-      "english": "⟨me⟩ responde"
+      "gloss": "⟨me⟩ responde"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:39.610963892Z",
-  "model": "glm-4.5"
+  ]
 }

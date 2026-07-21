@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 20:16",
   "book": "exodus",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 351,
-    "prompt_tokens": 23676,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24027
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:17:11.680706621Z",
   "translation": "No ⟨responderás⟩ ⟨con⟩ falso ⟨testimonio⟩ ⟨contra⟩ tu prójimo.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תענה",
-      "english": "⟨responderás⟩"
+      "gloss": "⟨responderás⟩"
     },
     {
       "surface": "ברעך",
-      "english": "tu prójimo"
+      "gloss": "tu prójimo"
     },
     {
       "surface": "עד",
-      "english": "falso ⟨testimonio⟩"
+      "gloss": "falso ⟨testimonio⟩"
     },
     {
       "surface": "שקר",
-      "english": "falso"
+      "gloss": "falso"
     }
-  ],
-  "timestamp": "2026-07-16T20:17:11.680706621Z",
-  "model": "glm-4.5"
+  ]
 }

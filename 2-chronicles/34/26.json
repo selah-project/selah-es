@@ -1,9 +1,89 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-chronicles 34:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 34,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:39:10.296003068Z",
+  "translation": "Y al rey de Yehudá ⟨el⟩ que os envió a consultar a YHWH, así ⟨le⟩ diréis: así ⟨ha⟩ dicho YHWH, Elohim de Yisrael: acerca de las palabras que ⟨tú⟩ has oído",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Y al"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "⟨el⟩ que"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "os envió",
+      "marks": "al rey de Judá ⟨el⟩ que"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "a consultar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כה",
+      "gloss": "así"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "⟨le⟩ diréis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a él"
+    },
+    {
+      "surface": "כה",
+      "gloss": "así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨ha⟩ dicho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "las palabras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "⟨tú⟩ has oído"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -20,97 +100,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 661,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58854,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 59515
-  },
-  "translation": "Y al rey de Yehudá ⟨el⟩ que os envió a consultar a YHWH, así ⟨le⟩ diréis: así ⟨ha⟩ dicho YHWH, Elohim de Yisrael: acerca de las palabras que ⟨tú⟩ has oído",
-  "tokens": [
-    {
-      "surface": "ואל",
-      "english": "Y al"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "השלח",
-      "english": "⟨el⟩ que"
-    },
-    {
-      "surface": "אתכם",
-      "english": "os envió",
-      "marks": "al rey de Judá ⟨el⟩ que"
-    },
-    {
-      "surface": "לדרוש",
-      "english": "a consultar"
-    },
-    {
-      "surface": "ביהוה",
-      "english": "a YHWH"
-    },
-    {
-      "surface": "כה",
-      "english": "así"
-    },
-    {
-      "surface": "תאמרו",
-      "english": "⟨le⟩ diréis"
-    },
-    {
-      "surface": "אליו",
-      "english": "a él"
-    },
-    {
-      "surface": "כה",
-      "english": "así"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨ha⟩ dicho"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "הדברים",
-      "english": "las palabras"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "שמעת",
-      "english": "⟨tú⟩ has oído"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:39:10.296003068Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "job 41:16",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27003,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27378
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:52.293593843Z",
   "translation": "Su corazón ⟨es⟩ endurecido ⟨como⟩ ⟨la⟩ piedra ⟨y⟩ endurecido ⟨como⟩ ⟨la⟩ muela inferior",
   "tokens": [
     {
       "surface": "לבו",
-      "english": "Su corazón"
+      "gloss": "Su corazón"
     },
     {
       "surface": "יצוק",
-      "english": "endurecido"
+      "gloss": "endurecido"
     },
     {
       "surface": "כמו",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "אבן",
-      "english": "⟨la⟩ piedra"
+      "gloss": "⟨la⟩ piedra"
     },
     {
       "surface": "ויצוק",
-      "english": "⟨y⟩ endurecido"
+      "gloss": "⟨y⟩ endurecido"
     },
     {
       "surface": "כפלח",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "תחתית",
-      "english": "⟨la⟩ muela inferior"
+      "gloss": "⟨la⟩ muela inferior"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:52.293593843Z",
-  "model": "glm-4.5"
+  ]
 }

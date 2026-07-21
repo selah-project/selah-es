@@ -1,68 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "2-kings 23:14",
   "book": "2-kings",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 562,
-    "prompt_tokens": 24550,
-    "prompt_tokens_details": {
-      "cached_tokens": 22784
-    },
-    "total_tokens": 25112
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:17:48.072623880Z",
   "translation": "Y quebró ⟨את⟩ las estelas, y cortó ⟨את⟩ los asherim, y llenó ⟨את⟩ sus lugares con huesos de hombre.",
   "tokens": [
     {
       "surface": "ושבר",
-      "english": "y quebró"
+      "gloss": "y quebró"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las estelas"
     },
     {
       "surface": "המצבות",
-      "english": "las estelas"
+      "gloss": "las estelas"
     },
     {
       "surface": "ויכרת",
-      "english": "y cortó"
+      "gloss": "y cortó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los asherim"
     },
     {
       "surface": "האשרים",
-      "english": "los asherim"
+      "gloss": "los asherim"
     },
     {
       "surface": "וימלא",
-      "english": "y llenó"
+      "gloss": "y llenó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus lugares"
     },
     {
       "surface": "מקומם",
-      "english": "sus lugares"
+      "gloss": "sus lugares"
     },
     {
       "surface": "עצמות",
-      "english": "huesos"
+      "gloss": "huesos"
     },
     {
       "surface": "אדם",
-      "english": "hombre"
+      "gloss": "hombre"
     }
-  ],
-  "timestamp": "2026-07-16T19:17:48.072623880Z",
-  "model": "glm-4.5"
+  ]
 }

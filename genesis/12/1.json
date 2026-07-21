@@ -1,81 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 12:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28901,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 29437
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:10:38.545170803Z",
   "translation": "Y YHWH dijo ⟨a⟩ Avram: Anda, vete de tu tierra, y de tu parentela, y de ⟨la⟩ casa de tu padre, ⟨a⟩ ⟨la⟩ tierra que ⟨yo⟩ te mostraré",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y ... dijo",
+      "gloss": "Y ... dijo",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "אברם",
-      "english": "Avram"
+      "gloss": "Avram"
     },
     {
       "surface": "לך",
-      "english": "Anda"
+      "gloss": "Anda"
     },
     {
       "surface": "לך",
-      "english": "vete"
+      "gloss": "vete"
     },
     {
       "surface": "מארצך",
-      "english": "de tu tierra"
+      "gloss": "de tu tierra"
     },
     {
       "surface": "וממולדתך",
-      "english": "y de tu parentela"
+      "gloss": "y de tu parentela"
     },
     {
       "surface": "ומבית",
-      "english": "y de ⟨la⟩ casa"
+      "gloss": "y de ⟨la⟩ casa"
     },
     {
       "surface": "אביך",
-      "english": "de tu padre"
+      "gloss": "de tu padre"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אראך",
-      "english": "⟨yo⟩ te mostraré"
+      "gloss": "⟨yo⟩ te mostraré"
     }
-  ],
-  "timestamp": "2026-06-10T05:10:38.545170803Z",
-  "model": "glm-4.5"
+  ]
 }

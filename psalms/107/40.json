@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "psalms 107:40",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 394,
-    "prompt_tokens": 70033,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70427
-  },
+  "verse": 40,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:19.806545839Z",
   "translation": "Él derrama desprecio ⟨sobre⟩ los nobles y ⟨los⟩ hace errar en un ⟨yermo⟩, ⟨donde⟩ no hay camino.",
   "tokens": [
     {
       "surface": "שפך",
-      "english": "Él derrama"
+      "gloss": "Él derrama"
     },
     {
       "surface": "בוז",
-      "english": "desprecio"
+      "gloss": "desprecio"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "נדיבים",
-      "english": "los nobles"
+      "gloss": "los nobles"
     },
     {
       "surface": "ויתעם",
-      "english": "y ⟨los⟩ hace errar"
+      "gloss": "y ⟨los⟩ hace errar"
     },
     {
       "surface": "בתהו",
-      "english": "en un ⟨yermo⟩"
+      "gloss": "en un ⟨yermo⟩"
     },
     {
       "surface": "לא",
-      "english": "no hay"
+      "gloss": "no hay"
     },
     {
       "surface": "דרך",
-      "english": "camino"
+      "gloss": "camino"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:19.806545839Z",
-  "model": "glm-4.5"
+  ]
 }

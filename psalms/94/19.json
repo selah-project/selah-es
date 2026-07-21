@@ -1,51 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 94:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69802,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70249
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:04.159725596Z",
   "translation": "En la abundancia de mis pensamientos ⟨en⟩ ⟨el⟩ ⟨interior⟩ de mí, tus consuelos ⟨han⟩ alegrado mi alma ⟨falsamente⟩",
   "tokens": [
     {
       "surface": "ברב",
-      "english": "En la abundancia de"
+      "gloss": "En la abundancia de"
     },
     {
       "surface": "שרעפי",
-      "english": "mis pensamientos",
+      "gloss": "mis pensamientos",
       "marks": "שרעפי"
     },
     {
       "surface": "בקרבי",
-      "english": "⟨en⟩ ⟨el⟩ ⟨interior⟩ de mí",
+      "gloss": "⟨en⟩ ⟨el⟩ ⟨interior⟩ de mí",
       "marks": "שרעפי"
     },
     {
       "surface": "תנחומיך",
-      "english": "tus consuelos"
+      "gloss": "tus consuelos"
     },
     {
       "surface": "ישעשעו",
-      "english": "⟨han⟩ alegrado",
+      "gloss": "⟨han⟩ alegrado",
       "marks": "mi alma"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma ⟨falsamente⟩"
+      "gloss": "mi alma ⟨falsamente⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:04.159725596Z",
-  "model": "glm-4.5"
+  ]
 }

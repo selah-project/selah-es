@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 58:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70109,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70577
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:26:12.734410499Z",
   "translation": "Before ⟨they⟩ understand ⟨the⟩ thorns ⟨of⟩ you ⟨as⟩ a buckthorn ⟨as⟩ living ⟨as⟩ ⟨the⟩ heat ⟨of⟩ wrath ⟨he⟩ will sweep ⟨them⟩ away",
   "tokens": [
     {
       "surface": "בטרם",
-      "english": "Before"
+      "gloss": "Before"
     },
     {
       "surface": "יבינו",
-      "english": "⟨they⟩ understand"
+      "gloss": "⟨they⟩ understand"
     },
     {
       "surface": "סירתיכם",
-      "english": "⟨the⟩ thorns ⟨of⟩ you",
+      "gloss": "⟨the⟩ thorns ⟨of⟩ you",
       "marks": "thorns of you"
     },
     {
       "surface": "אטד",
-      "english": "⟨as⟩ a buckthorn"
+      "gloss": "⟨as⟩ a buckthorn"
     },
     {
       "surface": "כמו",
-      "english": "⟨as⟩"
+      "gloss": "⟨as⟩"
     },
     {
       "surface": "חי",
-      "english": "⟨as⟩ living"
+      "gloss": "⟨as⟩ living"
     },
     {
       "surface": "כמו",
-      "english": "⟨as⟩"
+      "gloss": "⟨as⟩"
     },
     {
       "surface": "חרון",
-      "english": "⟨the⟩ heat ⟨of⟩ wrath"
+      "gloss": "⟨the⟩ heat ⟨of⟩ wrath"
     },
     {
       "surface": "ישערנו",
-      "english": "⟨he⟩ will sweep ⟨them⟩ away"
+      "gloss": "⟨he⟩ will sweep ⟨them⟩ away"
     }
-  ],
-  "timestamp": "2026-06-09T23:26:12.734410499Z",
-  "model": "glm-4.5"
+  ]
 }

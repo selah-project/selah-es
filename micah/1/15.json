@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "micah 1:15",
   "book": "micah",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23100,
-    "prompt_tokens_details": {
-      "cached_tokens": 21745
-    },
-    "total_tokens": 23664
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:30:22.188876194Z",
   "translation": "⟨aun⟩ traeré ⟨un⟩ heredero ⟨a⟩ ti ⟨la⟩ habitante de Mareshá ⟨a⟩ Adullam vendrá ⟨el⟩ esplendor de Israel",
   "tokens": [
     {
       "surface": "עד",
-      "english": "⟨Aun⟩"
+      "gloss": "⟨Aun⟩"
     },
     {
       "surface": "הירש",
-      "english": "traeré ⟨un⟩ heredero"
+      "gloss": "traeré ⟨un⟩ heredero"
     },
     {
       "surface": "אבי",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "לך",
-      "english": "ti"
+      "gloss": "ti"
     },
     {
       "surface": "יושבת",
-      "english": "⟨la⟩ habitante"
+      "gloss": "⟨la⟩ habitante"
     },
     {
       "surface": "מרשה",
-      "english": "de Mareshá"
+      "gloss": "de Mareshá"
     },
     {
       "surface": "עד",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "עדלם",
-      "english": "Adullam"
+      "gloss": "Adullam"
     },
     {
       "surface": "יבוא",
-      "english": "vendrá"
+      "gloss": "vendrá"
     },
     {
       "surface": "כבוד",
-      "english": "⟨el⟩ esplendor"
+      "gloss": "⟨el⟩ esplendor"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     }
-  ],
-  "timestamp": "2026-06-10T00:30:22.188876194Z",
-  "model": "glm-4.5"
+  ]
 }

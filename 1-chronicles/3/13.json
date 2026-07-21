@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-chronicles 3:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 3,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:29:12.568904753Z",
+  "translation": "Achaz ⟨the⟩ hijo de Jezquías, ⟨el⟩ hijo de Menashé, ⟨el⟩ hijo",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨el⟩ hijo de"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jezquías"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨el⟩ hijo de"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨el⟩ hijo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Manasés",
@@ -13,48 +44,6 @@
       "hebrew": "מנשה־מלך"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 3,
-  "usage": {
-    "completion_tokens": 253,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56560,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 56813
-  },
-  "translation": "Achaz ⟨the⟩ hijo de Jezquías, ⟨el⟩ hijo de Menashé, ⟨el⟩ hijo",
-  "tokens": [
-    {
-      "surface": "אחז",
-      "english": "Achaz"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨el⟩ hijo de"
-    },
-    {
-      "surface": "חזקיהו",
-      "english": "Jezquías"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨el⟩ hijo de"
-    },
-    {
-      "surface": "מנשה",
-      "english": "Menashé"
-    },
-    {
-      "surface": "בנו",
-      "english": "⟨el⟩ hijo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:29:12.568904753Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

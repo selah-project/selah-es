@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 15:20",
   "book": "job",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27261,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27744
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:33.992246337Z",
   "translation": "Todos ⟨los⟩ días ⟨del⟩ malvado él ⟨está⟩ torciéndose y ⟨el⟩ número de años ⟨está⟩ oculto para ⟨el⟩ opresor",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todos"
+      "gloss": "Todos"
     },
     {
       "surface": "ימי",
-      "english": "⟨los⟩ días"
+      "gloss": "⟨los⟩ días"
     },
     {
       "surface": "רשע",
-      "english": "⟨del⟩ malvado"
+      "gloss": "⟨del⟩ malvado"
     },
     {
       "surface": "הוא",
-      "english": "él ⟨está⟩"
+      "gloss": "él ⟨está⟩"
     },
     {
       "surface": "מתחולל",
-      "english": "torciéndose"
+      "gloss": "torciéndose"
     },
     {
       "surface": "ומספר",
-      "english": "y ⟨el⟩ número"
+      "gloss": "y ⟨el⟩ número"
     },
     {
       "surface": "שנים",
-      "english": "de años"
+      "gloss": "de años"
     },
     {
       "surface": "נצפנו",
-      "english": "⟨está⟩ oculto"
+      "gloss": "⟨está⟩ oculto"
     },
     {
       "surface": "לעריץ",
-      "english": "para ⟨el⟩ opresor"
+      "gloss": "para ⟨el⟩ opresor"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:33.992246337Z",
-  "model": "glm-4.5"
+  ]
 }

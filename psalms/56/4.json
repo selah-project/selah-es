@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 56:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69730,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70184
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:24:14.108417840Z",
   "translation": "En el día ⟨que⟩ temo, yo, a Elohim ⟨tú⟩ confiaré",
   "tokens": [
     {
       "surface": "יום",
-      "english": "En el día",
+      "gloss": "En el día",
       "gv": 56,
       "freq": 241,
       "anagram_room": "וים"
     },
     {
       "surface": "אירא",
-      "english": "⟨que⟩ temo",
+      "gloss": "⟨que⟩ temo",
       "gv": 212,
       "freq": 9,
       "anagram_room": "אאיר"
     },
     {
       "surface": "אני",
-      "english": "yo",
+      "gloss": "yo",
       "gv": 61,
       "freq": 698,
       "anagram_room": "אינ"
     },
     {
       "surface": "אליך",
-      "english": "a Elohim ⟨tú⟩",
+      "gloss": "a Elohim ⟨tú⟩",
       "gv": 61,
       "freq": 253,
       "anagram_room": "איךל"
     },
     {
       "surface": "אבטח",
-      "english": "confiaré",
+      "gloss": "confiaré",
       "gv": 20,
       "freq": 5,
       "anagram_room": "אבחט"
     }
-  ],
-  "timestamp": "2026-06-09T23:24:14.108417840Z",
-  "model": "glm-4.5"
+  ]
 }

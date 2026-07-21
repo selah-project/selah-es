@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 28:10",
   "book": "numbers",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24983,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25357
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:02:43.670271731Z",
   "translation": "La ofrenda quemada del shabbat en su shabbat, además de ⟨el⟩ ofrenda quemada continuo y ⟨la⟩ libación de él.",
   "tokens": [
     {
       "surface": "עלת",
-      "english": "La ofrenda quemada"
+      "gloss": "La ofrenda quemada"
     },
     {
       "surface": "שבת",
-      "english": "del shabbat"
+      "gloss": "del shabbat"
     },
     {
       "surface": "בשבתו",
-      "english": "en su shabbat"
+      "gloss": "en su shabbat"
     },
     {
       "surface": "על",
-      "english": "además de"
+      "gloss": "además de"
     },
     {
       "surface": "עלת",
-      "english": "⟨el⟩ ofrenda quemada",
+      "gloss": "⟨el⟩ ofrenda quemada",
       "marks": "ofrenda quemada continuo"
     },
     {
       "surface": "התמיד",
-      "english": "continuo"
+      "gloss": "continuo"
     },
     {
       "surface": "ונסכה",
-      "english": "y ⟨la⟩ libación de él",
+      "gloss": "y ⟨la⟩ libación de él",
       "marks": "libación"
     }
-  ],
-  "timestamp": "2026-06-10T05:02:43.670271731Z",
-  "model": "glm-4.5"
+  ]
 }

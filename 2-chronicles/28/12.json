@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-chronicles 28:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 28,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:30:01.478732761Z",
+  "translation": "Y ⟨se⟩ levantaron ⟨los⟩ hombres de entre ⟨los⟩ principales de ⟨los⟩ hijos de Efráyim: Azaryahu ben Yehojanán, Berekyahu ben Meshillemot, Yehizkiyahu ben Shallum, y Amasái ben Jadlay, contra los que venían ⟨de⟩ ⟨el⟩ ejército",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Y ⟨se⟩ levantaron"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "⟨los⟩ hombres"
+    },
+    {
+      "surface": "מראשי",
+      "gloss": "de entre ⟨los⟩ principales"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de ⟨los⟩ hijos"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráyim"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Yehojanán"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Berekyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "משלמות",
+      "gloss": "Meshillemot"
+    },
+    {
+      "surface": "ויחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "ועמשא",
+      "gloss": "y Amasái"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "חדלי",
+      "gloss": "Jadlay"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "los que venían"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "⟨el⟩ ejército"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Efraín",
@@ -13,108 +104,6 @@
       "hebrew": "אפרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 814,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59143,
-    "prompt_tokens_details": {
-      "cached_tokens": 56680
-    },
-    "total_tokens": 59957
-  },
-  "translation": "Y ⟨se⟩ levantaron ⟨los⟩ hombres de entre ⟨los⟩ principales de ⟨los⟩ hijos de Efráyim: Azaryahu ben Yehojanán, Berekyahu ben Meshillemot, Yehizkiyahu ben Shallum, y Amasái ben Jadlay, contra los que venían ⟨de⟩ ⟨el⟩ ejército",
-  "tokens": [
-    {
-      "surface": "ויקמו",
-      "english": "Y ⟨se⟩ levantaron"
-    },
-    {
-      "surface": "אנשים",
-      "english": "⟨los⟩ hombres"
-    },
-    {
-      "surface": "מראשי",
-      "english": "de entre ⟨los⟩ principales"
-    },
-    {
-      "surface": "בני",
-      "english": "de ⟨los⟩ hijos"
-    },
-    {
-      "surface": "אפרים",
-      "english": "Efráyim"
-    },
-    {
-      "surface": "עזריהו",
-      "english": "Azaryahu"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "יהוחנן",
-      "english": "Yehojanán"
-    },
-    {
-      "surface": "ברכיהו",
-      "english": "Berekyahu"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "משלמות",
-      "english": "Meshillemot"
-    },
-    {
-      "surface": "ויחזקיהו",
-      "english": "Yehizkiyahu"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "שלם",
-      "english": "Shallum"
-    },
-    {
-      "surface": "ועמשא",
-      "english": "y Amasái"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "חדלי",
-      "english": "Jadlay"
-    },
-    {
-      "surface": "על",
-      "english": "contra"
-    },
-    {
-      "surface": "הבאים",
-      "english": "los que venían"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "הצבא",
-      "english": "⟨el⟩ ejército"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:30:01.478732761Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

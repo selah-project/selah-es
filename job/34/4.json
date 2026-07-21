@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 34:4",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27012,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27303
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:30.713932015Z",
   "translation": "Elijamos ⟨el⟩ juicio para ⟨nosotros⟩; conozcamos ⟨entre⟩ nosotros qué ⟨es⟩ lo bueno.",
   "tokens": [
     {
       "surface": "משפט",
-      "english": "⟨El⟩ juicio"
+      "gloss": "⟨El⟩ juicio"
     },
     {
       "surface": "נבחרה",
-      "english": "elijamos"
+      "gloss": "elijamos"
     },
     {
       "surface": "לנו",
-      "english": "para ⟨nosotros⟩"
+      "gloss": "para ⟨nosotros⟩"
     },
     {
       "surface": "נדעה",
-      "english": "conozcamos"
+      "gloss": "conozcamos"
     },
     {
       "surface": "בינינו",
-      "english": "⟨entre⟩ nosotros"
+      "gloss": "⟨entre⟩ nosotros"
     },
     {
       "surface": "מה",
-      "english": "qué"
+      "gloss": "qué"
     },
     {
       "surface": "טוב",
-      "english": "lo bueno"
+      "gloss": "lo bueno"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:30.713932015Z",
-  "model": "glm-4.5"
+  ]
 }

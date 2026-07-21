@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "song-of-songs 6:8",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27602,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 27882
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:38:10.050258346Z",
   "translation": "Sesenta ⟨son⟩ reinas y ochenta concubinas y doncellas sin número",
   "tokens": [
     {
       "surface": "ששים",
-      "english": "Sesenta"
+      "gloss": "Sesenta"
     },
     {
       "surface": "המה",
-      "english": "⟨son⟩"
+      "gloss": "⟨son⟩"
     },
     {
       "surface": "מלכות",
-      "english": "reinas"
+      "gloss": "reinas"
     },
     {
       "surface": "ושמנים",
-      "english": "y ochenta"
+      "gloss": "y ochenta"
     },
     {
       "surface": "פילגשים",
-      "english": "concubinas"
+      "gloss": "concubinas"
     },
     {
       "surface": "ועלמות",
-      "english": "y doncellas"
+      "gloss": "y doncellas"
     },
     {
       "surface": "אין",
-      "english": "sin"
+      "gloss": "sin"
     },
     {
       "surface": "מספר",
-      "english": "número"
+      "gloss": "número"
     }
-  ],
-  "timestamp": "2026-06-09T22:38:10.050258346Z",
-  "model": "glm-4.5"
+  ]
 }

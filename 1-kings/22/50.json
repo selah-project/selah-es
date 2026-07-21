@@ -1,9 +1,78 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "1-kings 22:50",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 22,
+  "verse": 50,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:18:57.530283467Z",
+  "translation": "En aquel tiempo, Ocozías ⟨es⟩ hijo de Ajáv dijo ⟨a⟩ Yehoshafat: Irán mis siervos con tus siervos ⟨en⟩ los barcos. Pero Yehoshafat no quiso.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "En aquel tiempo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ocozías"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "de Ajáv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩",
+      "marks": "Josafat"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "Irán"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mis siervos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tus siervos"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "⟨en⟩ los barcos",
+      "marks": "tus siervos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Pero"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "quiso"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Acab",
@@ -27,86 +96,6 @@
       "hebrew": "יהושפט"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 584,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62655,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63239
-  },
-  "translation": "En aquel tiempo, Ocozías ⟨es⟩ hijo de Ajáv dijo ⟨a⟩ Yehoshafat: Irán mis siervos con tus siervos ⟨en⟩ los barcos. Pero Yehoshafat no quiso.",
-  "tokens": [
-    {
-      "surface": "אז",
-      "english": "En aquel tiempo"
-    },
-    {
-      "surface": "אמר",
-      "english": "dijo"
-    },
-    {
-      "surface": "אחזיהו",
-      "english": "Ocozías"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "אחאב",
-      "english": "de Ajáv"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩",
-      "marks": "Josafat"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "ילכו",
-      "english": "Irán"
-    },
-    {
-      "surface": "עבדי",
-      "english": "mis siervos"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "עבדיך",
-      "english": "tus siervos"
-    },
-    {
-      "surface": "באניות",
-      "english": "⟨en⟩ los barcos",
-      "marks": "tus siervos"
-    },
-    {
-      "surface": "ולא",
-      "english": "Pero"
-    },
-    {
-      "surface": "אבה",
-      "english": "quiso"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:18:57.530283467Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

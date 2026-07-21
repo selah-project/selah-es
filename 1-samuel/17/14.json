@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-samuel 17:14",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 17,
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:00:26.603491504Z",
+  "translation": "Y David ⟨es⟩ el menor; y los tres mayores fueron después de Shaúl.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Y David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨es⟩"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "el menor"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "y los tres"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "mayores"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "fueron"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "después de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -13,56 +52,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 230,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16054,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 16284
-  },
-  "translation": "Y David ⟨es⟩ el menor; y los tres mayores fueron después de Shaúl.",
-  "tokens": [
-    {
-      "surface": "ודוד",
-      "english": "Y David"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨es⟩"
-    },
-    {
-      "surface": "הקטן",
-      "english": "el menor"
-    },
-    {
-      "surface": "ושלשה",
-      "english": "y los tres"
-    },
-    {
-      "surface": "הגדלים",
-      "english": "mayores"
-    },
-    {
-      "surface": "הלכו",
-      "english": "fueron"
-    },
-    {
-      "surface": "אחרי",
-      "english": "después de"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:00:26.603491504Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

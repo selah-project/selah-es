@@ -1,9 +1,116 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "ezekiel 33:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 33,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:42:10.279449145Z",
+  "translation": "Di a ellos: ⟨Vivo⟩ ⟨yo⟩ ⟨es⟩, dice ⟨el⟩ Señor YHWH: ⟨No⟩ me complazco ⟨en⟩ ⟨la⟩ muerte ⟨del⟩ malvado, sino ⟨en⟩ que ⟨el⟩ malvado se vuelva de su camino y viva. ¡Volveos, volveos de vuestros malos caminos! ¿Por qué ⟨habréis⟩ de morir, casa de Yisrael?",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Di"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "a ellos"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Vivo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "dice"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨el⟩ Señor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨No⟩"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "me complazco"
+    },
+    {
+      "surface": "במות",
+      "gloss": "⟨en⟩ ⟨la⟩ muerte"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "⟨del⟩ malvado"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨en⟩ que"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "⟨el⟩ malvado se vuelva"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "malvado"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "de su camino"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "y viva"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "¡Volveos,"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "volveos"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "de vuestros caminos"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "malos"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "¿Por qué"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "⟨habréis⟩ de morir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,124 +120,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 1102,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18631,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 19733
-  },
-  "translation": "Di a ellos: ⟨Vivo⟩ ⟨yo⟩ ⟨es⟩, dice ⟨el⟩ Señor YHWH: ⟨No⟩ me complazco ⟨en⟩ ⟨la⟩ muerte ⟨del⟩ malvado, sino ⟨en⟩ que ⟨el⟩ malvado se vuelva de su camino y viva. ¡Volveos, volveos de vuestros malos caminos! ¿Por qué ⟨habréis⟩ de morir, casa de Yisrael?",
-  "tokens": [
-    {
-      "surface": "אמר",
-      "english": "Di"
-    },
-    {
-      "surface": "אליהם",
-      "english": "a ellos"
-    },
-    {
-      "surface": "חי",
-      "english": "Vivo"
-    },
-    {
-      "surface": "אני",
-      "english": "yo"
-    },
-    {
-      "surface": "נאם",
-      "english": "dice"
-    },
-    {
-      "surface": "אדני",
-      "english": "⟨el⟩ Señor"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אם",
-      "english": "⟨No⟩"
-    },
-    {
-      "surface": "אחפץ",
-      "english": "me complazco"
-    },
-    {
-      "surface": "במות",
-      "english": "⟨en⟩ ⟨la⟩ muerte"
-    },
-    {
-      "surface": "הרשע",
-      "english": "⟨del⟩ malvado"
-    },
-    {
-      "surface": "כי",
-      "english": "sino"
-    },
-    {
-      "surface": "אם",
-      "english": "⟨en⟩ que"
-    },
-    {
-      "surface": "בשוב",
-      "english": "⟨el⟩ malvado se vuelva"
-    },
-    {
-      "surface": "רשע",
-      "english": "malvado"
-    },
-    {
-      "surface": "מדרכו",
-      "english": "de su camino"
-    },
-    {
-      "surface": "וחיה",
-      "english": "y viva"
-    },
-    {
-      "surface": "שובו",
-      "english": "¡Volveos,"
-    },
-    {
-      "surface": "שובו",
-      "english": "volveos"
-    },
-    {
-      "surface": "מדרכיכם",
-      "english": "de vuestros caminos"
-    },
-    {
-      "surface": "הרעים",
-      "english": "malos"
-    },
-    {
-      "surface": "ולמה",
-      "english": "¿Por qué"
-    },
-    {
-      "surface": "תמותו",
-      "english": "⟨habréis⟩ de morir"
-    },
-    {
-      "surface": "בית",
-      "english": "casa"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:42:10.279449145Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

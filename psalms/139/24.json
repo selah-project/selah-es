@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "psalms 139:24",
   "book": "psalms",
-  "lang": "es",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69861,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70296
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:09:14.443134778Z",
   "translation": "y ve ⟨si⟩ hay algún camino de ⟨dolor⟩ en mí, y guíame en el camino ⟨perpetuo⟩",
   "tokens": [
     {
       "surface": "וראה",
-      "english": "Y ve",
+      "gloss": "Y ve",
       "marks": null
     },
     {
       "surface": "אם",
-      "english": "⟨si⟩",
+      "gloss": "⟨si⟩",
       "marks": null
     },
     {
       "surface": "דרך",
-      "english": "camino",
+      "gloss": "camino",
       "marks": null
     },
     {
       "surface": "עצב",
-      "english": "⟨dolor⟩",
+      "gloss": "⟨dolor⟩",
       "marks": "camino de"
     },
     {
       "surface": "בי",
-      "english": "en mí",
+      "gloss": "en mí",
       "marks": null
     },
     {
       "surface": "ונחני",
-      "english": "y guíame",
+      "gloss": "y guíame",
       "marks": null
     },
     {
       "surface": "בדרך",
-      "english": "en el camino",
+      "gloss": "en el camino",
       "marks": null
     },
     {
       "surface": "עולם",
-      "english": "⟨perpetuo⟩",
+      "gloss": "⟨perpetuo⟩",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-10T00:09:14.443134778Z",
-  "model": "glm-4.5"
+  ]
 }

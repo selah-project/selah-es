@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 78:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69789,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70217
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:52.636490670Z",
   "translation": "y olvidaron ⟨los⟩ hechos de El y ⟨los⟩ prodigios de El que ⟨Él⟩ había mostrado ⟨a⟩ ellos",
   "tokens": [
     {
       "surface": "וישכחו",
-      "english": "Y olvidaron"
+      "gloss": "Y olvidaron"
     },
     {
       "surface": "עלילותיו",
-      "english": "⟨los⟩ hechos de El"
+      "gloss": "⟨los⟩ hechos de El"
     },
     {
       "surface": "ונפלאותיו",
-      "english": "⟨los⟩ prodigios de El"
+      "gloss": "⟨los⟩ prodigios de El"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "הראם",
-      "english": "⟨Él⟩ había mostrado ⟨a⟩ ellos"
+      "gloss": "⟨Él⟩ había mostrado ⟨a⟩ ellos"
     }
-  ],
-  "timestamp": "2026-06-09T23:36:52.636490670Z",
-  "model": "glm-4.5"
+  ]
 }

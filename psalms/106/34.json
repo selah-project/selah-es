@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "psalms 106:34",
   "book": "psalms",
-  "lang": "es",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 441,
-    "prompt_tokens": 70077,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70518
-  },
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:20.223427133Z",
   "translation": "No destruyeron ⟨את⟩ los pueblos que YHWH había dicho a ellos",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "השמידו",
-      "english": "destruyeron"
+      "gloss": "destruyeron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los pueblos"
     },
     {
       "surface": "העמים",
-      "english": "los pueblos"
+      "gloss": "los pueblos"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "אמר",
-      "english": "había dicho"
+      "gloss": "había dicho"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "להם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:20.223427133Z",
-  "model": "glm-4.5"
+  ]
 }

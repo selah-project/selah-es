@@ -1,9 +1,32 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "ezra 2:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezra",
+  "chapter": 2,
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:11:32.545335166Z",
+  "translation": "los hijos de Nevo, cincuenta y dos",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Los hijos de"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cincuenta"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "y dos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Nebo",
@@ -13,40 +36,6 @@
       "hebrew": "נבו"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 175,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 44138,
-    "prompt_tokens_details": {
-      "cached_tokens": 43520
-    },
-    "total_tokens": 44313
-  },
-  "translation": "los hijos de Nevo, cincuenta y dos",
-  "tokens": [
-    {
-      "surface": "בני",
-      "english": "Los hijos de"
-    },
-    {
-      "surface": "נבו",
-      "english": "Nevo"
-    },
-    {
-      "surface": "חמשים",
-      "english": "cincuenta"
-    },
-    {
-      "surface": "ושנים",
-      "english": "y dos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:11:32.545335166Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "leviticus 22:31",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 387,
-    "prompt_tokens": 24499,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24886
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:44:28.133205624Z",
   "translation": "Y guardaréis ⟨los⟩ mandamientos míos y ⟨los⟩ haréis; yo ⟨soy⟩ YHWH.",
   "tokens": [
     {
       "surface": "וּ\/שְׁמַרְתֶּם֙",
-      "english": "Y guardaréis"
+      "gloss": "Y guardaréis"
     },
     {
       "surface": "מִצְוֺתַ֔\/י",
-      "english": "⟨los⟩ mandamientos míos"
+      "gloss": "⟨los⟩ mandamientos míos"
     },
     {
       "surface": "וַ\/עֲשִׂיתֶ֖ם",
-      "english": "y ⟨los⟩ haréis"
+      "gloss": "y ⟨los⟩ haréis"
     },
     {
       "surface": "אֹתָ֑\/ם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "yo (אני)"
     },
     {
       "surface": "אֲנִ֖י",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "יְהוָֽה",
-      "english": "⟨soy⟩ YHWH"
+      "gloss": "⟨soy⟩ YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T22:44:28.133205624Z",
-  "model": "glm-4.5"
+  ]
 }

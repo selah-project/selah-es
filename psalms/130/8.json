@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 130:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 325,
-    "prompt_tokens": 69917,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70242
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:15.125235557Z",
   "translation": "Y él redimirá ⟨a⟩ Israel de todas ⟨sus⟩ iniquidades",
   "tokens": [
     {
       "surface": "וְהוּא",
-      "english": "Y él"
+      "gloss": "Y él"
     },
     {
       "surface": "יִפְדֶּה",
-      "english": "redimirá"
+      "gloss": "redimirá"
     },
     {
       "surface": "אֶת",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Israel"
     },
     {
       "surface": "יִשְׂרָאֵל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "מִכֹּל",
-      "english": "de todas"
+      "gloss": "de todas"
     },
     {
       "surface": "עֲוֺנֹתָיו",
-      "english": "⟨sus⟩ iniquidades"
+      "gloss": "⟨sus⟩ iniquidades"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:15.125235557Z",
-  "model": "glm-4.5"
+  ]
 }

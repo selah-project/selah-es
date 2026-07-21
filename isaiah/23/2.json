@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 23:2",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26146,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26616
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:34:10.656045861Z",
   "translation": "Callad ⟨los⟩ habitantes ⟨de la⟩ isla ⟨את⟩ comerciantes ⟨de⟩ Tzidón que cruzan ⟨el⟩ mar ⟨te⟩ han llenado",
   "tokens": [
     {
       "surface": "דמו",
-      "english": "Callad"
+      "gloss": "Callad"
     },
     {
       "surface": "ישבי",
-      "english": "⟨los⟩ habitantes"
+      "gloss": "⟨los⟩ habitantes"
     },
     {
       "surface": "אי",
-      "english": "⟨de la⟩ isla"
+      "gloss": "⟨de la⟩ isla"
     },
     {
       "surface": "סחר",
-      "english": "comerciantes"
+      "gloss": "comerciantes"
     },
     {
       "surface": "צידון",
-      "english": "⟨de⟩ Tzidón"
+      "gloss": "⟨de⟩ Tzidón"
     },
     {
       "surface": "עבר",
-      "english": "que cruzan"
+      "gloss": "que cruzan"
     },
     {
       "surface": "ים",
-      "english": "⟨el⟩ mar"
+      "gloss": "⟨el⟩ mar"
     },
     {
       "surface": "מלאוך",
-      "english": "⟨te⟩ han llenado"
+      "gloss": "⟨te⟩ han llenado"
     }
-  ],
-  "timestamp": "2026-06-10T02:34:10.656045861Z",
-  "model": "glm-4.5"
+  ]
 }

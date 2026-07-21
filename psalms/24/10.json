@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 24:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70178,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70639
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:07:22.200603734Z",
   "translation": "¿Quién ⟨es⟩ este ⟨el⟩ rey ⟨de⟩ ⟨la⟩ gloria? YHWH ⟨de⟩ ⟨los⟩ ejércitos, él ⟨es⟩ el rey ⟨de⟩ ⟨la⟩ gloria. Selah.",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "זה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "מלך",
-      "english": "⟨el⟩ rey"
+      "gloss": "⟨el⟩ rey"
     },
     {
       "surface": "הכבוד",
-      "english": "⟨de⟩ ⟨la⟩ gloria"
+      "gloss": "⟨de⟩ ⟨la⟩ gloria"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
-      "english": "⟨de⟩ ⟨los⟩ ejércitos"
+      "gloss": "⟨de⟩ ⟨los⟩ ejércitos"
     },
     {
       "surface": "הוא",
-      "english": "él"
+      "gloss": "él"
     },
     {
       "surface": "מלך",
-      "english": "⟨es⟩ el rey"
+      "gloss": "⟨es⟩ el rey"
     },
     {
       "surface": "הכבוד",
-      "english": "⟨de⟩ ⟨la⟩ gloria"
+      "gloss": "⟨de⟩ ⟨la⟩ gloria"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:07:22.200603734Z",
-  "model": "glm-4.5"
+  ]
 }

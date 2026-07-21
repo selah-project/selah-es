@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 20:7",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26985,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27391
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:27.210894752Z",
   "translation": "Como ⟨el⟩ estiércol él perecerá para siempre, ⟨los que⟩ lo ⟨han⟩ visto dirán: ⟨¿⟩dónde ⟨está⟩?",
   "tokens": [
     {
       "surface": "כגללו",
-      "english": "Como ⟨el⟩ estiércol"
+      "gloss": "Como ⟨el⟩ estiércol"
     },
     {
       "surface": "לנצח",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "יאבד",
-      "english": "él perecerá"
+      "gloss": "él perecerá"
     },
     {
       "surface": "ראיו",
-      "english": "⟨los que⟩ lo ⟨han⟩ visto"
+      "gloss": "⟨los que⟩ lo ⟨han⟩ visto"
     },
     {
       "surface": "יאמרו",
-      "english": "dirán"
+      "gloss": "dirán"
     },
     {
       "surface": "איו",
-      "english": "⟨¿⟩dónde ⟨está⟩"
+      "gloss": "⟨¿⟩dónde ⟨está⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:27.210894752Z",
-  "model": "glm-4.5"
+  ]
 }

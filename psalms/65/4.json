@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 65:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70063,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70608
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:15.451143103Z",
   "translation": "⟨Las⟩ palabras de ⟨los⟩ pecados ⟨son⟩ demasiado numerosas para mí; ⟨los⟩ crímenes nuestros, tú ⟨los⟩ expiarás.",
   "tokens": [
     {
       "surface": "דברי",
-      "english": "⟨Las⟩ palabras"
+      "gloss": "⟨Las⟩ palabras"
     },
     {
       "surface": "עונת",
-      "english": "de ⟨los⟩ pecados"
+      "gloss": "de ⟨los⟩ pecados"
     },
     {
       "surface": "גברו",
-      "english": "⟨son⟩ demasiado numerosas"
+      "gloss": "⟨son⟩ demasiado numerosas"
     },
     {
       "surface": "מני",
-      "english": "para mí"
+      "gloss": "para mí"
     },
     {
       "surface": "פשעינו",
-      "english": "⟨los⟩ crímenes nuestros"
+      "gloss": "⟨los⟩ crímenes nuestros"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "תכפרם",
-      "english": "⟨los⟩ expiarás"
+      "gloss": "⟨los⟩ expiarás"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:15.451143103Z",
-  "model": "glm-4.5"
+  ]
 }

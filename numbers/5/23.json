@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "numbers 5:23",
   "book": "numbers",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 527,
-    "prompt_tokens": 25344,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25871
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:57:45.159077792Z",
   "translation": "y el sacerdote escribirá ⟨את⟩ estas maldiciones en el libro, y las borrará en las aguas amargas.",
   "tokens": [
     {
       "surface": "וכתב",
-      "english": "y el sacerdote escribirá"
+      "gloss": "y el sacerdote escribirá"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "estas maldiciones"
     },
     {
       "surface": "האלת",
-      "english": "estas maldiciones"
+      "gloss": "estas maldiciones"
     },
     {
       "surface": "האלה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "הכהן",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "בספר",
-      "english": "en el libro"
+      "gloss": "en el libro"
     },
     {
       "surface": "ומחה",
-      "english": "y las borrará"
+      "gloss": "y las borrará"
     },
     {
       "surface": "אל",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "מי",
-      "english": "las aguas"
+      "gloss": "las aguas"
     },
     {
       "surface": "המרים",
-      "english": "amargas"
+      "gloss": "amargas"
     }
-  ],
-  "timestamp": "2026-07-16T22:57:45.159077792Z",
-  "model": "glm-4.5"
+  ]
 }

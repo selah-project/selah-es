@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 35:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 605,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70132,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70737
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:14:20.069454981Z",
   "translation": "Porque no hablan ⟨de⟩ paz ⟨y⟩ contra ⟨los⟩ quietos ⟨en⟩ ⟨la⟩ tierra ⟨las⟩ palabras ⟨de⟩ fraude meditan",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "שלום",
-      "english": "hablan ⟨de⟩ paz",
+      "gloss": "hablan ⟨de⟩ paz",
       "marks": "paz"
     },
     {
       "surface": "ידברו",
-      "english": "hablan"
+      "gloss": "hablan"
     },
     {
       "surface": "ועל",
-      "english": "⟨y⟩ contra"
+      "gloss": "⟨y⟩ contra"
     },
     {
       "surface": "רגעי",
-      "english": "⟨los⟩ quietos",
+      "gloss": "⟨los⟩ quietos",
       "marks": "quietos"
     },
     {
       "surface": "ארץ",
-      "english": "⟨en⟩ ⟨la⟩ tierra",
+      "gloss": "⟨en⟩ ⟨la⟩ tierra",
       "marks": "tierra"
     },
     {
       "surface": "דברי",
-      "english": "⟨las⟩ palabras ⟨de⟩",
+      "gloss": "⟨las⟩ palabras ⟨de⟩",
       "marks": "palabras"
     },
     {
       "surface": "מרמות",
-      "english": "fraude"
+      "gloss": "fraude"
     },
     {
       "surface": "יחשבון",
-      "english": "meditan"
+      "gloss": "meditan"
     }
-  ],
-  "timestamp": "2026-06-09T23:14:20.069454981Z",
-  "model": "glm-4.5"
+  ]
 }

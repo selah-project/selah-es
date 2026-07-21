@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "job 4:21",
   "book": "job",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 528,
-    "prompt_tokens": 27036,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27564
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:56:42.139353206Z",
   "translation": "¿No ⟨es⟩ arrancada ⟨את⟩ su excelencia en ellos? Mueren, y no en sabiduría.",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "¿No"
+      "gloss": "¿No"
     },
     {
       "surface": "נסע",
-      "english": "arrancada"
+      "gloss": "arrancada"
     },
     {
       "surface": "יתרם",
-      "english": "su excelencia",
+      "gloss": "su excelencia",
       "marks": "su excelencia"
     },
     {
       "surface": "בם",
-      "english": "en ellos"
+      "gloss": "en ellos"
     },
     {
       "surface": "ימותו",
-      "english": "Mueren"
+      "gloss": "Mueren"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "בחכמה",
-      "english": "en sabiduría"
+      "gloss": "en sabiduría"
     }
-  ],
-  "timestamp": "2026-07-16T21:56:42.139353206Z",
-  "model": "glm-4.5"
+  ]
 }

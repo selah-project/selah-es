@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 9:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69879,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70333
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:55.581941232Z",
   "translation": "Y él ⟨את⟩ juzgará ⟨el⟩ mundo en justicia, juzgará a ⟨las⟩ naciones en rectitud",
   "tokens": [
     {
       "surface": "והוא",
-      "english": "Y él"
+      "gloss": "Y él"
     },
     {
       "surface": "ישפט",
-      "english": "juzgará"
+      "gloss": "juzgará"
     },
     {
       "surface": "תבל",
-      "english": "⟨el⟩ mundo",
+      "gloss": "⟨el⟩ mundo",
       "marks": "mundo"
     },
     {
       "surface": "בצדק",
-      "english": "en justicia"
+      "gloss": "en justicia"
     },
     {
       "surface": "ידין",
-      "english": "juzgará"
+      "gloss": "juzgará"
     },
     {
       "surface": "לאמים",
-      "english": "a ⟨las⟩ naciones",
+      "gloss": "a ⟨las⟩ naciones",
       "marks": "naciones"
     },
     {
       "surface": "במישרים",
-      "english": "en rectitud"
+      "gloss": "en rectitud"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:55.581941232Z",
-  "model": "glm-4.5"
+  ]
 }

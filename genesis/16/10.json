@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 16:10",
   "book": "genesis",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 487,
-    "prompt_tokens": 28830,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29317
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:57:48.754353176Z",
   "translation": "Y dijo el mensajero de YHWH: Multiplicando multiplicaré ⟨את⟩ tu simiente, y no será contada por ⟨el⟩ multitud.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "לה",
-      "english": "a ella"
+      "gloss": "a ella"
     },
     {
       "surface": "מלאך",
-      "english": "el mensajero"
+      "gloss": "el mensajero"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "הרבה",
-      "english": "multiplicando"
+      "gloss": "multiplicando"
     },
     {
       "surface": "ארבה",
-      "english": "multiplicaré"
+      "gloss": "multiplicaré"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu simiente"
     },
     {
       "surface": "זרעך",
-      "english": "tu simiente"
+      "gloss": "tu simiente"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יספר",
-      "english": "será contada"
+      "gloss": "será contada"
     },
     {
       "surface": "מרב",
-      "english": "por ⟨el⟩ multitud"
+      "gloss": "por ⟨el⟩ multitud"
     }
-  ],
-  "timestamp": "2026-07-16T20:57:48.754353176Z",
-  "model": "glm-4.5"
+  ]
 }

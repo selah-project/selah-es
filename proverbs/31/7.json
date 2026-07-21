@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "proverbs 31:7",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59829,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60309
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:33.948671860Z",
   "translation": "Que beba y ⟨se⟩ olvide de su pobreza ⟨את⟩, y ⟨se⟩ acuerde de su miseria ⟨את⟩ no ⟨más⟩",
   "tokens": [
     {
       "surface": "ישתה",
-      "english": "Que beba"
+      "gloss": "Que beba"
     },
     {
       "surface": "וישכח",
-      "english": "y ⟨se⟩ olvide"
+      "gloss": "y ⟨se⟩ olvide"
     },
     {
       "surface": "רישו",
-      "english": "de su pobreza"
+      "gloss": "de su pobreza"
     },
     {
       "surface": "ועמלו",
-      "english": "y ⟨se⟩ acuerde"
+      "gloss": "y ⟨se⟩ acuerde"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יזכר",
-      "english": "⟨se⟩ acuerde"
+      "gloss": "⟨se⟩ acuerde"
     },
     {
       "surface": "עוד",
-      "english": "⟨más⟩"
+      "gloss": "⟨más⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:33.948671860Z",
-  "model": "glm-4.5"
+  ]
 }

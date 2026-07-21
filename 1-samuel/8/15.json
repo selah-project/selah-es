@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-samuel 8:15",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 555,
-    "prompt_tokens": 23489,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24044
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:36:49.628199669Z",
   "translation": "Y vuestra simiente y vuestras viñas ⟨él⟩ diezmará y ⟨la⟩ dará a sus oficiales y a sus siervos",
   "tokens": [
     {
       "surface": "וְ\/זַרְעֵי\/כֶ֥ם",
-      "english": "y vuestra simiente"
+      "gloss": "y vuestra simiente"
     },
     {
       "surface": "וְ\/כַרְמֵי\/כֶ֖ם",
-      "english": "y vuestras viñas"
+      "gloss": "y vuestras viñas"
     },
     {
       "surface": "יַעְשֹׂ֑ר",
-      "english": "⟨él⟩ diezmará"
+      "gloss": "⟨él⟩ diezmará"
     },
     {
       "surface": "וְ\/נָתַ֥ן",
-      "english": "y ⟨la⟩ dará"
+      "gloss": "y ⟨la⟩ dará"
     },
     {
       "surface": "לְ\/סָרִיסָ֖י\/ו",
-      "english": "a sus oficiales"
+      "gloss": "a sus oficiales"
     },
     {
       "surface": "וְ\/לַ\/עֲבָדָֽי\/ו",
-      "english": "y a sus siervos"
+      "gloss": "y a sus siervos"
     }
-  ],
-  "timestamp": "2026-07-16T18:36:49.628199669Z",
-  "model": "glm-4.5"
+  ]
 }

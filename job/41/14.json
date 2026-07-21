@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 41:14",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26973,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27444
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:53.367196032Z",
   "translation": "En su cuello ⟨permanece⟩ ⟨el⟩ vigor y ⟨el⟩ terror danza ⟨por⟩ su rostro",
   "tokens": [
     {
       "surface": "בצוארו",
-      "english": "En su cuello"
+      "gloss": "En su cuello"
     },
     {
       "surface": "ילין",
-      "english": "⟨permanece⟩",
+      "gloss": "⟨permanece⟩",
       "marks": "vigor"
     },
     {
       "surface": "עז",
-      "english": "⟨el⟩ vigor"
+      "gloss": "⟨el⟩ vigor"
     },
     {
       "surface": "ולפניו",
-      "english": "⟨por⟩ su rostro"
+      "gloss": "⟨por⟩ su rostro"
     },
     {
       "surface": "תדוץ",
-      "english": "danza",
+      "gloss": "danza",
       "marks": "terror"
     },
     {
       "surface": "דאבה",
-      "english": "⟨el⟩ terror"
+      "gloss": "⟨el⟩ terror"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:53.367196032Z",
-  "model": "glm-4.5"
+  ]
 }

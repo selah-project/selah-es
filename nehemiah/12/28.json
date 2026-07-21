@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "nehemiah 12:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "nehemiah",
+  "chapter": 12,
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:25:05.181522897Z",
+  "translation": "Y los hijos de los cantores ⟨fueron⟩ reunidos, tanto de ⟨la⟩ región alrededor de Yerushalayim como de las aldeas ⟨de⟩ ⟨los⟩ netofatitas",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "Y los hijos de los cantores ⟨fueron⟩ reunidos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "de los cantores"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "tanto de"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "⟨la⟩ región"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "alrededor de"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "como de"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "las aldeas"
+    },
+    {
+      "surface": "נטפתי",
+      "gloss": "⟨de⟩ ⟨los⟩ netofatitas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalén",
@@ -13,64 +60,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 49532,
-    "prompt_tokens_details": {
-      "cached_tokens": 48162
-    },
-    "total_tokens": 49986
-  },
-  "translation": "Y los hijos de los cantores ⟨fueron⟩ reunidos, tanto de ⟨la⟩ región alrededor de Yerushalayim como de las aldeas ⟨de⟩ ⟨los⟩ netofatitas",
-  "tokens": [
-    {
-      "surface": "ויאספו",
-      "english": "Y los hijos de los cantores ⟨fueron⟩ reunidos"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "המשררים",
-      "english": "de los cantores"
-    },
-    {
-      "surface": "ומן",
-      "english": "tanto de"
-    },
-    {
-      "surface": "הככר",
-      "english": "⟨la⟩ región"
-    },
-    {
-      "surface": "סביבות",
-      "english": "alrededor de"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "Yerushalayim"
-    },
-    {
-      "surface": "ומן",
-      "english": "como de"
-    },
-    {
-      "surface": "חצרי",
-      "english": "las aldeas"
-    },
-    {
-      "surface": "נטפתי",
-      "english": "⟨de⟩ ⟨los⟩ netofatitas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:25:05.181522897Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

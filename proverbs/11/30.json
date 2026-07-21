@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "proverbs 11:30",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59872,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60247
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:36:31.037123167Z",
   "translation": "El fruto del ⟨es⟩ justo ⟨el⟩ árbol ⟨de⟩ vida, y ⟨el⟩ que gana almas ⟨es⟩ sabio",
   "tokens": [
     {
       "surface": "פרי",
-      "english": "El fruto"
+      "gloss": "El fruto"
     },
     {
       "surface": "צדיק",
-      "english": "justo"
+      "gloss": "justo"
     },
     {
       "surface": "עץ",
-      "english": "⟨el⟩ árbol"
+      "gloss": "⟨el⟩ árbol"
     },
     {
       "surface": "חיים",
-      "english": "⟨de⟩ vida"
+      "gloss": "⟨de⟩ vida"
     },
     {
       "surface": "ולקח",
-      "english": "y ⟨el⟩ que gana"
+      "gloss": "y ⟨el⟩ que gana"
     },
     {
       "surface": "נפשות",
-      "english": "almas"
+      "gloss": "almas"
     },
     {
       "surface": "חכם",
-      "english": "sabio"
+      "gloss": "sabio"
     }
-  ],
-  "timestamp": "2026-06-10T01:36:31.037123167Z",
-  "model": "glm-4.5"
+  ]
 }

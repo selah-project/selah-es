@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 6:25",
   "book": "job",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27081,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27449
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:45.865746770Z",
   "translation": "¿Cómo han de ⟨ser⟩ vehementes las palabras ⟨del⟩ derecho? y ¿qué ⟨es⟩ lo que argumenta el que reprende de entre vosotros?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¿Cómo"
+      "gloss": "¿Cómo"
     },
     {
       "surface": "נמרצו",
-      "english": "han de ⟨ser⟩ vehementes"
+      "gloss": "han de ⟨ser⟩ vehementes"
     },
     {
       "surface": "אמרי",
-      "english": "las palabras"
+      "gloss": "las palabras"
     },
     {
       "surface": "ישר",
-      "english": "⟨del⟩ derecho"
+      "gloss": "⟨del⟩ derecho"
     },
     {
       "surface": "ומה",
-      "english": "y ¿qué"
+      "gloss": "y ¿qué"
     },
     {
       "surface": "יוכיח",
-      "english": "argumenta el que reprende"
+      "gloss": "argumenta el que reprende"
     },
     {
       "surface": "הוכח",
-      "english": "⟨es⟩ lo que"
+      "gloss": "⟨es⟩ lo que"
     },
     {
       "surface": "מכם",
-      "english": "de entre vosotros"
+      "gloss": "de entre vosotros"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:45.865746770Z",
-  "model": "glm-4.5"
+  ]
 }

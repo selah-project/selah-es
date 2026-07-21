@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 6:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69980,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70515
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:25.980805833Z",
   "translation": "⟨Por⟩ que ⟨no hay⟩ en ⟨la⟩ muerte ⟨el⟩ recuerdo de ti; ⟨en⟩ el Seol, ¿quién ⟨te⟩ alabará?",
   "tokens": [
     {
       "surface": "כי",
-      "english": "⟨Por⟩ que"
+      "gloss": "⟨Por⟩ que"
     },
     {
       "surface": "אין",
-      "english": "⟨no hay⟩"
+      "gloss": "⟨no hay⟩"
     },
     {
       "surface": "במות",
-      "english": "en ⟨la⟩ muerte"
+      "gloss": "en ⟨la⟩ muerte"
     },
     {
       "surface": "זכרך",
-      "english": "⟨el⟩ recuerdo de ti"
+      "gloss": "⟨el⟩ recuerdo de ti"
     },
     {
       "surface": "בשאול",
-      "english": "⟨en⟩ el Seol"
+      "gloss": "⟨en⟩ el Seol"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "יודה",
-      "english": "alabará"
+      "gloss": "alabará"
     },
     {
       "surface": "לך",
-      "english": "⟨te⟩"
+      "gloss": "⟨te⟩"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:25.980805833Z",
-  "model": "glm-4.5"
+  ]
 }

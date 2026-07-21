@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 48:8",
   "book": "genesis",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 319,
-    "prompt_tokens": 28562,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28881
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:15:45.853067477Z",
   "translation": "Yisrael vio ⟨את⟩ los hijos de Yosef y dijo: ¿Quiénes son ⟨estos⟩?",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "vio"
+      "gloss": "vio"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los hijos de Yosef"
     },
     {
       "surface": "בני",
-      "english": "los hijos de"
+      "gloss": "los hijos de"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "ואמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "מי",
-      "english": "¿Quiénes"
+      "gloss": "¿Quiénes"
     },
     {
       "surface": "אלה",
-      "english": "son ⟨estos⟩"
+      "gloss": "son ⟨estos⟩"
     }
-  ],
-  "timestamp": "2026-07-16T21:15:45.853067477Z",
-  "model": "glm-4.5"
+  ]
 }

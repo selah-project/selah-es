@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "ezekiel 21:33",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 21,
+  "verse": 33,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:30:44.111074874Z",
+  "translation": "Y tú, hijo del hombre, profetiza y dirás: Así dice Adonai YHWH a los hijos de ⟨el⟩ Ammón y a ⟨el⟩ oprobio suyo, y dirás: ⟨una⟩ espada, ⟨una⟩ espada ⟨está⟩ desenvainada para matar, afilada ⟨está⟩ para relucir, a causa de ⟨el⟩ relámpago.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Y tú"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "del hombre"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "profetiza"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "y dirás"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "⟨el⟩ Ammón"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "y a"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "⟨el⟩ oprobio suyo"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "y dirás"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨una⟩ espada"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨una⟩ espada"
+    },
+    {
+      "surface": "פתוחה",
+      "gloss": "⟨está⟩ desenvainada"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "para matar"
+    },
+    {
+      "surface": "מרוטה",
+      "gloss": "afilada ⟨está⟩"
+    },
+    {
+      "surface": "להכיל",
+      "gloss": "para relucir"
+    },
+    {
+      "surface": "למען",
+      "gloss": "a causa de"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "⟨el⟩ relámpago"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Amón",
@@ -13,116 +112,6 @@
       "hebrew": "עמון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 21,
-  "usage": {
-    "completion_tokens": 782,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18012,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 18794
-  },
-  "translation": "Y tú, hijo del hombre, profetiza y dirás: Así dice Adonai YHWH a los hijos de ⟨el⟩ Ammón y a ⟨el⟩ oprobio suyo, y dirás: ⟨una⟩ espada, ⟨una⟩ espada ⟨está⟩ desenvainada para matar, afilada ⟨está⟩ para relucir, a causa de ⟨el⟩ relámpago.",
-  "tokens": [
-    {
-      "surface": "ואתה",
-      "english": "Y tú"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "אדם",
-      "english": "del hombre"
-    },
-    {
-      "surface": "הנבא",
-      "english": "profetiza"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "y dirás"
-    },
-    {
-      "surface": "כה",
-      "english": "Así"
-    },
-    {
-      "surface": "אמר",
-      "english": "dice"
-    },
-    {
-      "surface": "אדני",
-      "english": "Adonai"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "עמון",
-      "english": "⟨el⟩ Ammón"
-    },
-    {
-      "surface": "ואל",
-      "english": "y a"
-    },
-    {
-      "surface": "חרפתם",
-      "english": "⟨el⟩ oprobio suyo"
-    },
-    {
-      "surface": "ואמרת",
-      "english": "y dirás"
-    },
-    {
-      "surface": "חרב",
-      "english": "⟨una⟩ espada"
-    },
-    {
-      "surface": "חרב",
-      "english": "⟨una⟩ espada"
-    },
-    {
-      "surface": "פתוחה",
-      "english": "⟨está⟩ desenvainada"
-    },
-    {
-      "surface": "לטבח",
-      "english": "para matar"
-    },
-    {
-      "surface": "מרוטה",
-      "english": "afilada ⟨está⟩"
-    },
-    {
-      "surface": "להכיל",
-      "english": "para relucir"
-    },
-    {
-      "surface": "למען",
-      "english": "a causa de"
-    },
-    {
-      "surface": "ברק",
-      "english": "⟨el⟩ relámpago"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:30:44.111074874Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 25:12",
   "book": "genesis",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28783,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29229
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:22:28.835175679Z",
   "translation": "Y estas ⟨son⟩ ⟨las⟩ generaciones de Yishmael, hijo de Avraham, ⟨el cual⟩ engendró Hagar ⟨la⟩ egipcia, sierva de Sará, a Avraham:",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "Y estas"
+      "gloss": "Y estas"
     },
     {
       "surface": "תלדת",
-      "english": "⟨son⟩ ⟨las⟩ generaciones"
+      "gloss": "⟨son⟩ ⟨las⟩ generaciones"
     },
     {
       "surface": "ישמעאל",
-      "english": "de Yishmael"
+      "gloss": "de Yishmael"
     },
     {
       "surface": "בן",
-      "english": "hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "אברהם",
-      "english": "de Avraham"
+      "gloss": "de Avraham"
     },
     {
       "surface": "אשר",
-      "english": "⟨el cual⟩"
+      "gloss": "⟨el cual⟩"
     },
     {
       "surface": "ילדה",
-      "english": "engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "הגר",
-      "english": "Hagar"
+      "gloss": "Hagar"
     },
     {
       "surface": "המצרית",
-      "english": "⟨la⟩ egipcia"
+      "gloss": "⟨la⟩ egipcia"
     },
     {
       "surface": "שפחת",
-      "english": "sierva"
+      "gloss": "sierva"
     },
     {
       "surface": "שרה",
-      "english": "de Sará"
+      "gloss": "de Sará"
     },
     {
       "surface": "לאברהם",
-      "english": "a Avraham"
+      "gloss": "a Avraham"
     }
-  ],
-  "timestamp": "2026-06-10T05:22:28.835175679Z",
-  "model": "glm-4.5"
+  ]
 }

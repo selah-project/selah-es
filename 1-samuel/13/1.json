@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 13:1",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 364,
-    "prompt_tokens": 23600,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 23964
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:38:40.607360787Z",
   "translation": "Un año ⟨era⟩ Shaúl en su reinado, y dos años ⟨reinó⟩ sobre Israel",
   "tokens": [
     {
       "surface": "בן",
-      "english": "Un"
+      "gloss": "Un"
     },
     {
       "surface": "שנה",
-      "english": "año"
+      "gloss": "año"
     },
     {
       "surface": "שאול",
-      "english": "Shaúl"
+      "gloss": "Shaúl"
     },
     {
       "surface": "במלכו",
-      "english": "en su reinado"
+      "gloss": "en su reinado"
     },
     {
       "surface": "ושתי",
-      "english": "y dos"
+      "gloss": "y dos"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "מלך",
-      "english": "⟨reinó⟩"
+      "gloss": "⟨reinó⟩"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     }
-  ],
-  "timestamp": "2026-07-16T18:38:40.607360787Z",
-  "model": "glm-4.5"
+  ]
 }

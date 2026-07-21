@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 50:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25990,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26456
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:52:59.000280968Z",
   "translation": "Clothe ⟨the⟩ heavens ⟨with⟩ blackness ⟨and⟩ sackcloth ⟨I make⟩ ⟨the⟩ covering of them",
   "tokens": [
     {
       "surface": "אלביש",
-      "english": "Clothe"
+      "gloss": "Clothe"
     },
     {
       "surface": "שמים",
-      "english": "⟨the⟩ heavens"
+      "gloss": "⟨the⟩ heavens"
     },
     {
       "surface": "קדרות",
-      "english": "⟨with⟩ blackness"
+      "gloss": "⟨with⟩ blackness"
     },
     {
       "surface": "ושק",
-      "english": "⟨and⟩ sackcloth"
+      "gloss": "⟨and⟩ sackcloth"
     },
     {
       "surface": "אשים",
-      "english": "⟨I make⟩"
+      "gloss": "⟨I make⟩"
     },
     {
       "surface": "כסותם",
-      "english": "⟨the⟩ covering of them"
+      "gloss": "⟨the⟩ covering of them"
     }
-  ],
-  "timestamp": "2026-06-10T02:52:59.000280968Z",
-  "model": "glm-4.5"
+  ]
 }

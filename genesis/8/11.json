@@ -1,9 +1,87 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 8:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
+  "chapter": 8,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:06:29.223485853Z",
+  "translation": "Y vino ⟨a⟩ él la paloma ⟨a⟩ tiempo de tarde, y he aquí una hoja de olivo fresca ⟨en⟩ su boca, y supo Noaj que ⟨se⟩ habían aliviado ⟨las⟩ aguas ⟨de⟩ sobre la tierra.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Y vino"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ él",
+      "marks": "Noé"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "la paloma"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "⟨a⟩ tiempo",
+      "marks": "de tarde"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "de tarde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "y he aquí"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "una hoja"
+    },
+    {
+      "surface": "זית",
+      "gloss": "de olivo"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "fresca"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "⟨en⟩ su boca"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "y supo"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "⟨se⟩ habían aliviado"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨las⟩ aguas"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨de⟩ sobre",
+      "marks": "las aguas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la tierra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Noé",
@@ -13,95 +91,6 @@
       "hebrew": "נח"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 690,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21712,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 22402
-  },
-  "translation": "Y vino ⟨a⟩ él la paloma ⟨a⟩ tiempo de tarde, y he aquí una hoja de olivo fresca ⟨en⟩ su boca, y supo Noaj que ⟨se⟩ habían aliviado ⟨las⟩ aguas ⟨de⟩ sobre la tierra.",
-  "tokens": [
-    {
-      "surface": "ותבא",
-      "english": "Y vino"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ él",
-      "marks": "Noé"
-    },
-    {
-      "surface": "היונה",
-      "english": "la paloma"
-    },
-    {
-      "surface": "לעת",
-      "english": "⟨a⟩ tiempo",
-      "marks": "de tarde"
-    },
-    {
-      "surface": "ערב",
-      "english": "de tarde"
-    },
-    {
-      "surface": "והנה",
-      "english": "y he aquí"
-    },
-    {
-      "surface": "עלה",
-      "english": "una hoja"
-    },
-    {
-      "surface": "זית",
-      "english": "de olivo"
-    },
-    {
-      "surface": "טרף",
-      "english": "fresca"
-    },
-    {
-      "surface": "בפיה",
-      "english": "⟨en⟩ su boca"
-    },
-    {
-      "surface": "וידע",
-      "english": "y supo"
-    },
-    {
-      "surface": "נח",
-      "english": "Noaj"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "קלו",
-      "english": "⟨se⟩ habían aliviado"
-    },
-    {
-      "surface": "המים",
-      "english": "⟨las⟩ aguas"
-    },
-    {
-      "surface": "מעל",
-      "english": "⟨de⟩ sobre",
-      "marks": "las aguas"
-    },
-    {
-      "surface": "הארץ",
-      "english": "la tierra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:06:29.223485853Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

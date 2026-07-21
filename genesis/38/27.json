@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "genesis 38:27",
   "book": "genesis",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28259,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28590
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:35:42.988614504Z",
   "translation": "Y aconteció ⟨a⟩ tiempo de su dar ⟨a⟩ luz, y he aquí, ⟨hay⟩ gemelos en su vientre",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y aconteció"
+      "gloss": "Y aconteció"
     },
     {
       "surface": "בעת",
-      "english": "⟨a⟩ tiempo"
+      "gloss": "⟨a⟩ tiempo"
     },
     {
       "surface": "לדתה",
-      "english": "de su dar ⟨a⟩ luz"
+      "gloss": "de su dar ⟨a⟩ luz"
     },
     {
       "surface": "והנה",
-      "english": "y he aquí"
+      "gloss": "y he aquí"
     },
     {
       "surface": "תאומים",
-      "english": "⟨hay⟩ gemelos"
+      "gloss": "⟨hay⟩ gemelos"
     },
     {
       "surface": "בבטנה",
-      "english": "en su vientre"
+      "gloss": "en su vientre"
     }
-  ],
-  "timestamp": "2026-06-10T05:35:42.988614504Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 10:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69977,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70539
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:01:23.447647182Z",
   "translation": "Break ⟨the⟩ arm of ⟨the⟩ wicked ⟨and⟩ ⟨the⟩ evil ⟨man⟩ — seek out his wickedness ⟨and⟩ ⟨you⟩ will find none.",
   "tokens": [
     {
       "surface": "שבר",
-      "english": "Break",
+      "gloss": "Break",
       "marks": ""
     },
     {
       "surface": "זרוע",
-      "english": "arm",
+      "gloss": "arm",
       "marks": ""
     },
     {
       "surface": "רשע",
-      "english": "of ⟨the⟩ wicked",
+      "gloss": "of ⟨the⟩ wicked",
       "marks": "arm"
     },
     {
       "surface": "ורע",
-      "english": "⟨and⟩ ⟨the⟩ evil ⟨man⟩",
+      "gloss": "⟨and⟩ ⟨the⟩ evil ⟨man⟩",
       "marks": "wicked"
     },
     {
       "surface": "תדרוש",
-      "english": "seek out",
+      "gloss": "seek out",
       "marks": ""
     },
     {
       "surface": "רשעו",
-      "english": "his wickedness",
+      "gloss": "his wickedness",
       "marks": ""
     },
     {
       "surface": "בל",
-      "english": "⟨and⟩ ⟨you⟩ will find",
+      "gloss": "⟨and⟩ ⟨you⟩ will find",
       "marks": "none"
     },
     {
       "surface": "תמצא",
-      "english": "none",
+      "gloss": "none",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:01:23.447647182Z",
-  "model": "glm-4.5"
+  ]
 }

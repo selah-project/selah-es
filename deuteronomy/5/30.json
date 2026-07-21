@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.1",
-  "verse": 30,
   "ref": "deuteronomy 5:30",
   "book": "deuteronomy",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24428,
-    "prompt_tokens_details": {
-      "cached_tokens": 23552
-    },
-    "total_tokens": 24799
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:10:29.993004008Z",
   "translation": "Ve, di ⟨a⟩ ellos: Vuélvanse ⟨para⟩ sí a ⟨sus⟩ tiendas.",
   "tokens": [
     {
       "surface": "לֵ֖ךְ",
-      "english": "Ve"
+      "gloss": "Ve"
     },
     {
       "surface": "אֱמֹ֣ר",
-      "english": "di"
+      "gloss": "di"
     },
     {
       "surface": "לָ\/הֶ֑ם",
-      "english": "a ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "שׁ֥וּבוּ",
-      "english": "Vuélvanse"
+      "gloss": "Vuélvanse"
     },
     {
       "surface": "לָ\/כֶ֖ם",
-      "english": "para sí"
+      "gloss": "para sí"
     },
     {
       "surface": "לְ\/אָהֳלֵי\/כֶֽם",
-      "english": "a sus tiendas"
+      "gloss": "a sus tiendas"
     }
-  ],
-  "timestamp": "2026-06-13T03:10:29.993004008Z",
-  "model": "glm-5.1"
+  ]
 }

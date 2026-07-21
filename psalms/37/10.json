@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.1",
-  "verse": 10,
   "ref": "psalms 37:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 589,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70015,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70604
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:56:23.858216750Z",
   "translation": "Y aún un poco, y no ⟨hay⟩ rashá; y te fijarás en su lugar, y ⟨él⟩ no está.",
   "tokens": [
     {
       "surface": "ועוד",
-      "english": "Y aún"
+      "gloss": "Y aún"
     },
     {
       "surface": "מעט",
-      "english": "un poco"
+      "gloss": "un poco"
     },
     {
       "surface": "ואין",
-      "english": "y no ⟨hay⟩"
+      "gloss": "y no ⟨hay⟩"
     },
     {
       "surface": "רשע",
-      "english": "rashá"
+      "gloss": "rashá"
     },
     {
       "surface": "והתבוננת",
-      "english": "y te fijarás"
+      "gloss": "y te fijarás"
     },
     {
       "surface": "על",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "מקומו",
-      "english": "su lugar"
+      "gloss": "su lugar"
     },
     {
       "surface": "ואיננו",
-      "english": "y ⟨él⟩ no está"
+      "gloss": "y ⟨él⟩ no está"
     }
-  ],
-  "timestamp": "2026-06-13T03:56:23.858216750Z",
-  "model": "glm-5.1"
+  ]
 }

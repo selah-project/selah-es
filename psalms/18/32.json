@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 18:32",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69987,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70426
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:27.440471286Z",
   "translation": "Pues ¿quién ⟨es⟩ Eloah, sino YHWH? ¿Y quién ⟨es⟩ una roca, excepto ⟨nuestro⟩ Elohim?",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pues"
+      "gloss": "Pues"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "אלוה",
-      "english": "Eloah"
+      "gloss": "Eloah"
     },
     {
       "surface": "מבלעדי",
-      "english": "sino YHWH"
+      "gloss": "sino YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ומי",
-      "english": "¿Y quién"
+      "gloss": "¿Y quién"
     },
     {
       "surface": "צור",
-      "english": "una roca"
+      "gloss": "una roca"
     },
     {
       "surface": "זולתי",
-      "english": "excepto ⟨nuestro⟩"
+      "gloss": "excepto ⟨nuestro⟩"
     },
     {
       "surface": "אלהינו",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-06-09T23:04:27.440471286Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "psalms 105:29",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 356,
-    "prompt_tokens": 70067,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70423
-  },
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:36.113729687Z",
   "translation": "Volvió ⟨את⟩ sus aguas a sangre y mató ⟨את⟩ sus peces",
   "tokens": [
     {
       "surface": "הפך",
-      "english": "Volvió"
+      "gloss": "Volvió"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus aguas"
     },
     {
       "surface": "מימיהם",
-      "english": "sus aguas"
+      "gloss": "sus aguas"
     },
     {
       "surface": "לדם",
-      "english": "a sangre"
+      "gloss": "a sangre"
     },
     {
       "surface": "וימת",
-      "english": "y mató"
+      "gloss": "y mató"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus peces"
     },
     {
       "surface": "דגתם",
-      "english": "sus peces"
+      "gloss": "sus peces"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:36.113729687Z",
-  "model": "glm-4.5"
+  ]
 }

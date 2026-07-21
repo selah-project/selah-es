@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-chronicles 10:7",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 10,
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:51:14.566665445Z",
+  "translation": "Y vieron todos los hombres de Yisrael que ⟨estaban⟩ en el valle que habían huido y que Shaúl y sus hijos murieron; y abandonaron sus ciudades y huyeron; y vinieron ⟨los⟩ filisteos y habitaron en ellas.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Y vieron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "los hombres"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "⟨estaban⟩ en el valle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "habían huido"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "y que"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "murieron"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "y sus hijos"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "y abandonaron"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "sus ciudades"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "y huyeron"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "y vinieron"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨los⟩ filisteos"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "y habitaron"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "en ellas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,100 +103,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 596,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57853,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 58449
-  },
-  "translation": "Y vieron todos los hombres de Yisrael que ⟨estaban⟩ en el valle que habían huido y que Shaúl y sus hijos murieron; y abandonaron sus ciudades y huyeron; y vinieron ⟨los⟩ filisteos y habitaron en ellas.",
-  "tokens": [
-    {
-      "surface": "ויראו",
-      "english": "Y vieron"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "איש",
-      "english": "los hombres"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בעמק",
-      "english": "⟨estaban⟩ en el valle"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "נסו",
-      "english": "habían huido"
-    },
-    {
-      "surface": "וכי",
-      "english": "y que"
-    },
-    {
-      "surface": "מתו",
-      "english": "murieron"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "ובניו",
-      "english": "y sus hijos"
-    },
-    {
-      "surface": "ויעזבו",
-      "english": "y abandonaron"
-    },
-    {
-      "surface": "עריהם",
-      "english": "sus ciudades"
-    },
-    {
-      "surface": "וינסו",
-      "english": "y huyeron"
-    },
-    {
-      "surface": "ויבאו",
-      "english": "y vinieron"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "⟨los⟩ filisteos"
-    },
-    {
-      "surface": "וישבו",
-      "english": "y habitaron"
-    },
-    {
-      "surface": "בהם",
-      "english": "en ellas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:51:14.566665445Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

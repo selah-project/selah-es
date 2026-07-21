@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-chronicles 30:20",
   "book": "2-chronicles",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 254,
-    "prompt_tokens": 65174,
-    "prompt_tokens_details": {
-      "cached_tokens": 64000
-    },
-    "total_tokens": 65428
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:01:08.187576194Z",
   "translation": "YHWH escuchó a Jizkiyahu y sanó ⟨את⟩ el pueblo",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "escuchó"
+      "gloss": "escuchó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יחזקיהו",
-      "english": "Jizkiyahu"
+      "gloss": "Jizkiyahu"
     },
     {
       "surface": "וירפא",
-      "english": "y sanó"
+      "gloss": "y sanó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el pueblo"
     },
     {
       "surface": "העם",
-      "english": "el pueblo"
+      "gloss": "el pueblo"
     }
-  ],
-  "timestamp": "2026-07-16T19:01:08.187576194Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 21:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59888,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60334
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:44:13.009134526Z",
   "translation": "El alma ⟨del⟩ impío desea el mal ⟨a⟩ su prójimo ⟨no⟩ hallará favor ⟨a los⟩ ojos ⟨de⟩ su compañero ⟨את⟩ ⟨el⟩ mal.",
   "tokens": [
     {
       "surface": "נפש",
-      "english": "El alma"
+      "gloss": "El alma"
     },
     {
       "surface": "רשע",
-      "english": "⟨del⟩ impío"
+      "gloss": "⟨del⟩ impío"
     },
     {
       "surface": "אותה",
-      "english": "desea"
+      "gloss": "desea"
     },
     {
       "surface": "רע",
-      "english": "⟨el⟩ mal"
+      "gloss": "⟨el⟩ mal"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "יחן",
-      "english": "hallará favor"
+      "gloss": "hallará favor"
     },
     {
       "surface": "בעיניו",
-      "english": "⟨a los⟩ ojos"
+      "gloss": "⟨a los⟩ ojos"
     },
     {
       "surface": "רעהו",
-      "english": "⟨de⟩ su compañero"
+      "gloss": "⟨de⟩ su compañero"
     }
-  ],
-  "timestamp": "2026-06-10T01:44:13.009134526Z",
-  "model": "glm-4.5"
+  ]
 }

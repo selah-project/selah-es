@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "1-samuel 20:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 20,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:05:10.556190250Z",
+  "translation": "Y el rey ⟨se⟩ sentó ⟨en⟩ su asiento como en otras veces ⟨en⟩ el asiento ⟨junto⟩ ⟨al⟩ muro, y Yehonatán ⟨se⟩ levantó, y Avner ⟨se⟩ sentó ⟨al⟩ lado de Shaúl, y ⟨el⟩ lugar ⟨de⟩ Davidd ⟨quedó⟩ vacío.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Y ⟨se⟩ sentó"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "su asiento"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "como en otras veces"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨junto⟩ ⟨al⟩"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "asiento"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "muro"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "y Yehonatán ⟨se⟩ levantó"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatán"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "y Avner ⟨se⟩ sentó"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "⟨al⟩ lado"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaúl"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "y ⟨el⟩ lugar ⟨de⟩ David ⟨quedó⟩ vacío"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,96 +92,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 695,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17014,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17709
-  },
-  "translation": "Y el rey ⟨se⟩ sentó ⟨en⟩ su asiento como en otras veces ⟨en⟩ el asiento ⟨junto⟩ ⟨al⟩ muro, y Yehonatán ⟨se⟩ levantó, y Avner ⟨se⟩ sentó ⟨al⟩ lado de Shaúl, y ⟨el⟩ lugar ⟨de⟩ Davidd ⟨quedó⟩ vacío.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "Y ⟨se⟩ sentó"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "על",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "מושבו",
-      "english": "su asiento"
-    },
-    {
-      "surface": "כפעם",
-      "english": "como en otras veces"
-    },
-    {
-      "surface": "בפעם",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨junto⟩ ⟨al⟩"
-    },
-    {
-      "surface": "מושב",
-      "english": "asiento"
-    },
-    {
-      "surface": "הקיר",
-      "english": "muro"
-    },
-    {
-      "surface": "ויקם",
-      "english": "y Yehonatán ⟨se⟩ levantó"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yehonatán"
-    },
-    {
-      "surface": "וישב",
-      "english": "y Avner ⟨se⟩ sentó"
-    },
-    {
-      "surface": "אבנר",
-      "english": "Avner"
-    },
-    {
-      "surface": "מצד",
-      "english": "⟨al⟩ lado"
-    },
-    {
-      "surface": "שאול",
-      "english": "de Shaúl"
-    },
-    {
-      "surface": "ויפקד",
-      "english": "y ⟨el⟩ lugar ⟨de⟩ David ⟨quedó⟩ vacío"
-    },
-    {
-      "surface": "מקום",
-      "english": "lugar"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:05:10.556190250Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

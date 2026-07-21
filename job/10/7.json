@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 10:7",
   "book": "job",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27088,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27562
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:31.386038140Z",
   "translation": "Sobre ⟨el⟩ conocimiento tuyo: porque ⟨yo⟩ no soy inicuo, y ⟨no⟩ hay ⟨quien⟩ ⟨de⟩ tu mano ⟨puede⟩ librar.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Sobre"
+      "gloss": "Sobre"
     },
     {
       "surface": "דעתך",
-      "english": "⟨el⟩ conocimiento tuyo"
+      "gloss": "⟨el⟩ conocimiento tuyo"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לא",
-      "english": "⟨yo⟩ no"
+      "gloss": "⟨yo⟩ no"
     },
     {
       "surface": "ארשע",
-      "english": "soy inicuo"
+      "gloss": "soy inicuo"
     },
     {
       "surface": "ואין",
-      "english": "y ⟨no⟩ hay"
+      "gloss": "y ⟨no⟩ hay"
     },
     {
       "surface": "מידך",
-      "english": "⟨quien⟩ ⟨de⟩ tu mano"
+      "gloss": "⟨quien⟩ ⟨de⟩ tu mano"
     },
     {
       "surface": "מציל",
-      "english": "⟨puede⟩ librar"
+      "gloss": "⟨puede⟩ librar"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:31.386038140Z",
-  "model": "glm-4.5"
+  ]
 }

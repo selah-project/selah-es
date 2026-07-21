@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-chronicles 13:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 13,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:42:37.357978604Z",
+  "translation": "Y David y todo Yisrael ⟨estaban⟩ jugando ante HaShem con toda ⟨su⟩ fuerza, y con cantos, y con arpas, y con liras, y con panderos, y con címbalos, y con trompetas",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Y David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "⟨estaban⟩ jugando"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ante"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaShem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con toda"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨su⟩ fuerza"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "y con cantos"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "y con arpas"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "y con liras"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "y con panderos"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "y con címbalos"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "y con trompetas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,80 +76,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 608,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57494,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 58102
-  },
-  "translation": "Y David y todo Yisrael ⟨estaban⟩ jugando ante HaShem con toda ⟨su⟩ fuerza, y con cantos, y con arpas, y con liras, y con panderos, y con címbalos, y con trompetas",
-  "tokens": [
-    {
-      "surface": "ודויד",
-      "english": "Y David"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "משחקים",
-      "english": "⟨estaban⟩ jugando"
-    },
-    {
-      "surface": "לפני",
-      "english": "ante"
-    },
-    {
-      "surface": "האלהים",
-      "english": "HaShem"
-    },
-    {
-      "surface": "בכל",
-      "english": "con toda"
-    },
-    {
-      "surface": "עז",
-      "english": "⟨su⟩ fuerza"
-    },
-    {
-      "surface": "ובשירים",
-      "english": "y con cantos"
-    },
-    {
-      "surface": "ובכנרות",
-      "english": "y con arpas"
-    },
-    {
-      "surface": "ובנבלים",
-      "english": "y con liras"
-    },
-    {
-      "surface": "ובתפים",
-      "english": "y con panderos"
-    },
-    {
-      "surface": "ובמצלתים",
-      "english": "y con címbalos"
-    },
-    {
-      "surface": "ובחצצרות",
-      "english": "y con trompetas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:42:37.357978604Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

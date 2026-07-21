@@ -1,51 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 60:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69892,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70177
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:26:19.602775357Z",
   "translation": "Elohim ⟨has⟩ rejected us, ⟨has⟩ broken us, in anger ⟨you⟩ return ⟨to⟩ us",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "זנחתנו",
-      "english": "⟨has⟩ rejected us",
+      "gloss": "⟨has⟩ rejected us",
       "marks": "us"
     },
     {
       "surface": "פרצתנו",
-      "english": "⟨has⟩ broken us",
+      "gloss": "⟨has⟩ broken us",
       "marks": "us"
     },
     {
       "surface": "אנפת",
-      "english": "in anger"
+      "gloss": "in anger"
     },
     {
       "surface": "תשובב",
-      "english": "⟨you⟩ return",
+      "gloss": "⟨you⟩ return",
       "marks": "to us"
     },
     {
       "surface": "לנו",
-      "english": "⟨to⟩ us"
+      "gloss": "⟨to⟩ us"
     }
-  ],
-  "timestamp": "2026-06-09T23:26:19.602775357Z",
-  "model": "glm-4.5"
+  ]
 }

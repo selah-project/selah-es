@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 5:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70016,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70507
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:41.686909992Z",
   "translation": "Heed ⟨the⟩ voice of my cry, my King, and my Elohim; for toward you ⟨I⟩ pray",
   "tokens": [
     {
       "surface": "הקשיבה",
-      "english": "Heed"
+      "gloss": "Heed"
     },
     {
       "surface": "לקול",
-      "english": "⟨the⟩ voice",
+      "gloss": "⟨the⟩ voice",
       "marks": "of my cry"
     },
     {
       "surface": "שועי",
-      "english": "of my cry"
+      "gloss": "of my cry"
     },
     {
       "surface": "מלכי",
-      "english": "my King"
+      "gloss": "my King"
     },
     {
       "surface": "ואלהי",
-      "english": "and my Elohim"
+      "gloss": "and my Elohim"
     },
     {
       "surface": "כי",
-      "english": "for"
+      "gloss": "for"
     },
     {
       "surface": "אליך",
-      "english": "toward you"
+      "gloss": "toward you"
     },
     {
       "surface": "אתפלל",
-      "english": "⟨I⟩ pray"
+      "gloss": "⟨I⟩ pray"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:41.686909992Z",
-  "model": "glm-4.5"
+  ]
 }

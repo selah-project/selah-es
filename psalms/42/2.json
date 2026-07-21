@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 42:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70155,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70597
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:18:31.849502179Z",
   "translation": "Como el ciervo ⟨se estremece⟩ ⟨por⟩ ⟨los⟩ arroyos de aguas, así ⟨mi⟩ alma ⟨se estremece⟩ por ti, Elohim",
   "tokens": [
     {
       "surface": "כאיל",
-      "english": "Como el ciervo"
+      "gloss": "Como el ciervo"
     },
     {
       "surface": "תערג",
-      "english": "⟨se estremece⟩"
+      "gloss": "⟨se estremece⟩"
     },
     {
       "surface": "על",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "אפיקי",
-      "english": "⟨los⟩ arroyos"
+      "gloss": "⟨los⟩ arroyos"
     },
     {
       "surface": "מים",
-      "english": "de aguas"
+      "gloss": "de aguas"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "נפשי",
-      "english": "⟨mi⟩ alma"
+      "gloss": "⟨mi⟩ alma"
     },
     {
       "surface": "תערג",
-      "english": "⟨se estremece⟩"
+      "gloss": "⟨se estremece⟩"
     },
     {
       "surface": "אליך",
-      "english": "por ti"
+      "gloss": "por ti"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     }
-  ],
-  "timestamp": "2026-06-09T23:18:31.849502179Z",
-  "model": "glm-4.5"
+  ]
 }

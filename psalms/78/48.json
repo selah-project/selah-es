@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 48,
   "ref": "psalms 78:48",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 274,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69714,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69988
-  },
+  "verse": 48,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:37:28.730336414Z",
   "translation": "Y entregó ⟨el⟩ ganado de ellos ⟨al⟩ granizo y ⟨el⟩ rebaño de ellos ⟨a⟩ los resplandores ardientes",
   "tokens": [
     {
       "surface": "ויסגר",
-      "english": "Y entregó"
+      "gloss": "Y entregó"
     },
     {
       "surface": "לברד",
-      "english": "⟨al⟩ granizo"
+      "gloss": "⟨al⟩ granizo"
     },
     {
       "surface": "בעירם",
-      "english": "⟨el⟩ ganado de ellos"
+      "gloss": "⟨el⟩ ganado de ellos"
     },
     {
       "surface": "ומקניהם",
-      "english": "y ⟨el⟩ rebaño de ellos"
+      "gloss": "y ⟨el⟩ rebaño de ellos"
     },
     {
       "surface": "לרשפים",
-      "english": "⟨a⟩ los resplandores ardientes"
+      "gloss": "⟨a⟩ los resplandores ardientes"
     }
-  ],
-  "timestamp": "2026-06-09T23:37:28.730336414Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 2:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 482,
-    "prompt_tokens": 28899,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29381
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:51:25.151425848Z",
   "translation": "El nombre del ⟨primero⟩ es Pishon; él es el que rodea ⟨את⟩ toda la tierra de Javilá, donde está el oro",
   "tokens": [
     {
       "surface": "שם",
-      "english": "El nombre"
+      "gloss": "El nombre"
     },
     {
       "surface": "האחד",
-      "english": "del ⟨primero⟩"
+      "gloss": "del ⟨primero⟩"
     },
     {
       "surface": "פישון",
-      "english": "Pishon"
+      "gloss": "Pishon"
     },
     {
       "surface": "הוא",
-      "english": "él"
+      "gloss": "él"
     },
     {
       "surface": "הסבב",
-      "english": "es el que rodea"
+      "gloss": "es el que rodea"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toda la tierra"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "החוילה",
-      "english": "de Javilá"
+      "gloss": "de Javilá"
     },
     {
       "surface": "אשר",
-      "english": "donde"
+      "gloss": "donde"
     },
     {
       "surface": "שם",
-      "english": "está"
+      "gloss": "está"
     },
     {
       "surface": "הזהב",
-      "english": "el oro"
+      "gloss": "el oro"
     }
-  ],
-  "timestamp": "2026-07-16T20:51:25.151425848Z",
-  "model": "glm-4.5"
+  ]
 }

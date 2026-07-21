@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 22:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 474,
-    "prompt_tokens": 70136,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70610
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:57.039716533Z",
   "translation": "Elohim mío, Elohim mío, ¿por qué me has desamparado? ⟨estando⟩ lejos de mi salvación, las palabras de mi rugido.",
   "tokens": [
     {
       "surface": "אלי",
-      "english": "Elohim mío"
+      "gloss": "Elohim mío"
     },
     {
       "surface": "אלי",
-      "english": "Elohim mío"
+      "gloss": "Elohim mío"
     },
     {
       "surface": "למה",
-      "english": "¿por qué"
+      "gloss": "¿por qué"
     },
     {
       "surface": "עזבתני",
-      "english": "me has desamparado"
+      "gloss": "me has desamparado"
     },
     {
       "surface": "רחוק",
-      "english": "⟨estando⟩ lejos"
+      "gloss": "⟨estando⟩ lejos"
     },
     {
       "surface": "מישועתי",
-      "english": "de mi salvación"
+      "gloss": "de mi salvación"
     },
     {
       "surface": "דברי",
-      "english": "las palabras de"
+      "gloss": "las palabras de"
     },
     {
       "surface": "שאגתי",
-      "english": "mi rugido"
+      "gloss": "mi rugido"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:57.039716533Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 68:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70429,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71053
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:34.980110528Z",
   "translation": "La tierra ⟨se estremeció⟩, también ⟨el⟩ cielo ⟨derramó⟩ ⟨a⟩ las gotas ⟨a⟩ ⟨presencia⟩ ⟨de⟩ Elohim; ⟨este⟩ Sinai ⟨a⟩ ⟨presencia⟩ ⟨de⟩ Elohim, Elohim ⟨de⟩ Yisrael.",
   "tokens": [
     {
       "surface": "ארץ",
-      "english": "La tierra"
+      "gloss": "La tierra"
     },
     {
       "surface": "רעשה",
-      "english": "⟨se estremeció⟩"
+      "gloss": "⟨se estremeció⟩"
     },
     {
       "surface": "אף",
-      "english": "también"
+      "gloss": "también"
     },
     {
       "surface": "שמים",
-      "english": "⟨el⟩ cielo"
+      "gloss": "⟨el⟩ cielo"
     },
     {
       "surface": "נטפו",
-      "english": "⟨derramó⟩ ⟨a⟩ las gotas"
+      "gloss": "⟨derramó⟩ ⟨a⟩ las gotas"
     },
     {
       "surface": "מפני",
-      "english": "⟨a⟩ ⟨presencia⟩ ⟨de⟩"
+      "gloss": "⟨a⟩ ⟨presencia⟩ ⟨de⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "זה",
-      "english": "⟨este⟩"
+      "gloss": "⟨este⟩"
     },
     {
       "surface": "סיני",
-      "english": "Sinai"
+      "gloss": "Sinai"
     },
     {
       "surface": "מפני",
-      "english": "⟨a⟩ ⟨presencia⟩ ⟨de⟩"
+      "gloss": "⟨a⟩ ⟨presencia⟩ ⟨de⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אלהי",
-      "english": "Elohim ⟨de⟩"
+      "gloss": "Elohim ⟨de⟩"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:34.980110528Z",
-  "model": "glm-4.5"
+  ]
 }

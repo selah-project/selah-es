@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 119:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 278,
-    "prompt_tokens": 69838,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70116
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:58.268705238Z",
   "translation": "También ⟨no⟩ practicaron iniquidad, en sus caminos anduvieron.",
   "tokens": [
     {
       "surface": "אף",
-      "english": "También"
+      "gloss": "También"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "פעלו",
-      "english": "practicaron"
+      "gloss": "practicaron"
     },
     {
       "surface": "עולה",
-      "english": "iniquidad"
+      "gloss": "iniquidad"
     },
     {
       "surface": "בדרכיו",
-      "english": "en sus caminos"
+      "gloss": "en sus caminos"
     },
     {
       "surface": "הלכו",
-      "english": "anduvieron"
+      "gloss": "anduvieron"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:58.268705238Z",
-  "model": "glm-4.5"
+  ]
 }

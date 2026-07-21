@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "job 41:19",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26921,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27346
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:56.764586183Z",
   "translation": "Él ⟨es⟩ ponderado ⟨como⟩ paja ⟨de⟩ hierro ⟨para⟩ madera carcomida ⟨de⟩ cobre",
   "tokens": [
     {
       "surface": "יחשב",
-      "english": "Él ⟨es⟩ ponderado"
+      "gloss": "Él ⟨es⟩ ponderado"
     },
     {
       "surface": "לתבן",
-      "english": "⟨como⟩ paja"
+      "gloss": "⟨como⟩ paja"
     },
     {
       "surface": "ברזל",
-      "english": "⟨de⟩ hierro"
+      "gloss": "⟨de⟩ hierro"
     },
     {
       "surface": "לעץ",
-      "english": "⟨para⟩ madera"
+      "gloss": "⟨para⟩ madera"
     },
     {
       "surface": "רקבון",
-      "english": "carcomida"
+      "gloss": "carcomida"
     },
     {
       "surface": "נחושה",
-      "english": "⟨de⟩ cobre"
+      "gloss": "⟨de⟩ cobre"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:56.764586183Z",
-  "model": "glm-4.5"
+  ]
 }

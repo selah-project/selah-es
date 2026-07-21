@@ -1,84 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 42:2",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28960,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29464
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:39:01.782571180Z",
   "translation": "Y dijo: ⟨He⟩ aquí, he oído que ⟨hay⟩ grano en Mitzráyim; id allá y comprad ⟨para⟩ nosotros de allí, y viviremos y no moriremos.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "הנה",
-      "english": "⟨He⟩ aquí"
+      "gloss": "⟨He⟩ aquí"
     },
     {
       "surface": "שמעתי",
-      "english": "he oído"
+      "gloss": "he oído"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יש",
-      "english": "⟨hay⟩"
+      "gloss": "⟨hay⟩"
     },
     {
       "surface": "שבר",
-      "english": "grano"
+      "gloss": "grano"
     },
     {
       "surface": "במצרים",
-      "english": "en Mitzráyim"
+      "gloss": "en Mitzráyim"
     },
     {
       "surface": "רדו",
-      "english": "id"
+      "gloss": "id"
     },
     {
       "surface": "שמה",
-      "english": "allá"
+      "gloss": "allá"
     },
     {
       "surface": "ושברו",
-      "english": "y comprad"
+      "gloss": "y comprad"
     },
     {
       "surface": "לנו",
-      "english": "⟨para⟩ nosotros"
+      "gloss": "⟨para⟩ nosotros"
     },
     {
       "surface": "משם",
-      "english": "de allí"
+      "gloss": "de allí"
     },
     {
       "surface": "ונחיה",
-      "english": "y viviremos"
+      "gloss": "y viviremos"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "נמות",
-      "english": "moriremos"
+      "gloss": "moriremos"
     }
-  ],
-  "timestamp": "2026-06-10T05:39:01.782571180Z",
-  "model": "glm-4.5"
+  ]
 }

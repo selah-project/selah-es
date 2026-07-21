@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "leviticus 17:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17105,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 17578
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:56:32.284282411Z",
   "translation": "Y si no ⟨los⟩ lava, ni ⟨su⟩ carne ⟨la⟩ lava, ⟨entonces⟩ llevará ⟨את⟩ su pecado.",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "Y si",
+      "gloss": "Y si",
       "marks": null
     },
     {
       "surface": "לא",
-      "english": "no",
+      "gloss": "no",
       "marks": "los"
     },
     {
       "surface": "יכבס",
-      "english": "⟨los⟩ lava",
+      "gloss": "⟨los⟩ lava",
       "marks": null
     },
     {
       "surface": "ובשרו",
-      "english": "ni ⟨su⟩ carne",
+      "gloss": "ni ⟨su⟩ carne",
       "marks": null
     },
     {
       "surface": "לא",
-      "english": "no",
+      "gloss": "no",
       "marks": "la"
     },
     {
       "surface": "ירחץ",
-      "english": "⟨la⟩ lava",
+      "gloss": "⟨la⟩ lava",
       "marks": null
     },
     {
       "surface": "ונשא",
-      "english": "⟨entonces⟩ llevará",
+      "gloss": "⟨entonces⟩ llevará",
       "marks": null
     },
     {
       "surface": "עונו",
-      "english": "⟨את⟩ su pecado",
+      "gloss": "⟨את⟩ su pecado",
       "marks": null
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:56:32.284282411Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

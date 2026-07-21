@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 83:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70061,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70370
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:35.387501361Z",
   "translation": "Coloquen ⟨a⟩ sus nobles como Oreb y como Zeeb, y ⟨a⟩ todos sus príncipes como Zebah y como Zalmuna:",
   "tokens": [
     {
       "surface": "שיתמו",
-      "english": "Coloquen"
+      "gloss": "Coloquen"
     },
     {
       "surface": "נדיבמו",
-      "english": "⟨a⟩ sus nobles",
+      "gloss": "⟨a⟩ sus nobles",
       "marks": "sus nobles"
     },
     {
       "surface": "כערב",
-      "english": "como Oreb"
+      "gloss": "como Oreb"
     },
     {
       "surface": "וכזאב",
-      "english": "y como Zeeb"
+      "gloss": "y como Zeeb"
     },
     {
       "surface": "וכזבח",
-      "english": "y ⟨a⟩ todos",
+      "gloss": "y ⟨a⟩ todos",
       "marks": "todos sus príncipes"
     },
     {
       "surface": "וכצלמנע",
-      "english": "como Zebah y como Zalmuna"
+      "gloss": "como Zebah y como Zalmuna"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "נסיכמו",
-      "english": "sus príncipes"
+      "gloss": "sus príncipes"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:35.387501361Z",
-  "model": "glm-4.5"
+  ]
 }

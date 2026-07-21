@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 41,
   "ref": "joshua 21:41",
   "book": "joshua",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23687,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 24242
-  },
+  "verse": 41,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:23:55.651964489Z",
   "translation": "Todas las ciudades ⟨de⟩ los levitas ⟨en medio⟩ ⟨de⟩ la posesión ⟨de⟩ los hijos ⟨de⟩ Israel ⟨eran⟩ ciudades cuarenta y ocho y sus pastizales.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todas"
+      "gloss": "Todas"
     },
     {
       "surface": "ערי",
-      "english": "ciudades"
+      "gloss": "ciudades"
     },
     {
       "surface": "הלוים",
-      "english": "⟨de⟩ los levitas"
+      "gloss": "⟨de⟩ los levitas"
     },
     {
       "surface": "בתוך",
-      "english": "⟨en medio⟩"
+      "gloss": "⟨en medio⟩"
     },
     {
       "surface": "אחזת",
-      "english": "⟨de⟩ la posesión"
+      "gloss": "⟨de⟩ la posesión"
     },
     {
       "surface": "בני",
-      "english": "⟨de⟩ los hijos"
+      "gloss": "⟨de⟩ los hijos"
     },
     {
       "surface": "ישראל",
-      "english": "⟨de⟩ Israel"
+      "gloss": "⟨de⟩ Israel"
     },
     {
       "surface": "ערים",
-      "english": "ciudades"
+      "gloss": "ciudades"
     },
     {
       "surface": "ארבעים",
-      "english": "cuarenta"
+      "gloss": "cuarenta"
     },
     {
       "surface": "ושמנה",
-      "english": "y ocho"
+      "gloss": "y ocho"
     },
     {
       "surface": "ומגרשיהן",
-      "english": "y sus pastizales"
+      "gloss": "y sus pastizales"
     }
-  ],
-  "timestamp": "2026-06-10T01:23:55.651964489Z",
-  "model": "glm-4.5"
+  ]
 }

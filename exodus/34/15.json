@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "exodus 34:15",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 34,
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:13:38.810567576Z",
+  "translation": "No hagas ⟨un⟩ Brit con ⟨el⟩ habitante de ⟨la⟩ tierra, y ⟨ellos⟩ se prostituyan tras sus dioses y sacrifiquen a sus dioses, y ⟨alguien⟩ te ⟨el⟩ invite y ⟨tú⟩ comas de ⟨su⟩ sacrificio",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "No"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "hagas ⟨un⟩ pacto"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Brit"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "con ⟨el⟩ habitante"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de ⟨la⟩ tierra"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "y ⟨ellos⟩ se prostituyan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "tras"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sus dioses"
+    },
+    {
+      "surface": "וזבחו",
+      "gloss": "y sacrifiquen"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "a sus dioses"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "y ⟨alguien⟩ te ⟨el⟩ invite"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "y ⟨tú⟩ comas"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "de ⟨su⟩ sacrificio"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "pacto",
@@ -13,80 +76,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 720,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17198,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 17918
-  },
-  "translation": "No hagas ⟨un⟩ Brit con ⟨el⟩ habitante de ⟨la⟩ tierra, y ⟨ellos⟩ se prostituyan tras sus dioses y sacrifiquen a sus dioses, y ⟨alguien⟩ te ⟨el⟩ invite y ⟨tú⟩ comas de ⟨su⟩ sacrificio",
-  "tokens": [
-    {
-      "surface": "פן",
-      "english": "No"
-    },
-    {
-      "surface": "תכרת",
-      "english": "hagas ⟨un⟩ pacto"
-    },
-    {
-      "surface": "ברית",
-      "english": "Brit"
-    },
-    {
-      "surface": "ליושב",
-      "english": "con ⟨el⟩ habitante"
-    },
-    {
-      "surface": "הארץ",
-      "english": "de ⟨la⟩ tierra"
-    },
-    {
-      "surface": "וזנו",
-      "english": "y ⟨ellos⟩ se prostituyan"
-    },
-    {
-      "surface": "אחרי",
-      "english": "tras"
-    },
-    {
-      "surface": "אלהיהם",
-      "english": "sus dioses"
-    },
-    {
-      "surface": "וזבחו",
-      "english": "y sacrifiquen"
-    },
-    {
-      "surface": "לאלהיהם",
-      "english": "a sus dioses"
-    },
-    {
-      "surface": "וקרא",
-      "english": "y ⟨alguien⟩ te ⟨el⟩ invite"
-    },
-    {
-      "surface": "לך",
-      "english": "te"
-    },
-    {
-      "surface": "ואכלת",
-      "english": "y ⟨tú⟩ comas"
-    },
-    {
-      "surface": "מזבחו",
-      "english": "de ⟨su⟩ sacrificio"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:13:38.810567576Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

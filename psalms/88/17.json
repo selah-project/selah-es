@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 88:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69752,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70087
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:57.666403214Z",
   "translation": "Sobre mí han pasado tus ardores ⟨de⟩ ira ⟨en⟩ tus alarmas me has desarraigado",
   "tokens": [
     {
       "surface": "עלי",
-      "english": "Sobre mí"
+      "gloss": "Sobre mí"
     },
     {
       "surface": "עברו",
-      "english": "han pasado"
+      "gloss": "han pasado"
     },
     {
       "surface": "חרוניך",
-      "english": "tus ardores ⟨de⟩ ira",
+      "gloss": "tus ardores ⟨de⟩ ira",
       "marks": "tus ardores"
     },
     {
       "surface": "בעותיך",
-      "english": "⟨en⟩ tus alarmas",
+      "gloss": "⟨en⟩ tus alarmas",
       "marks": "tus alarmas"
     },
     {
       "surface": "צמתותני",
-      "english": "me has desarraigado"
+      "gloss": "me has desarraigado"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:57.666403214Z",
-  "model": "glm-4.5"
+  ]
 }

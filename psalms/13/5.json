@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 13:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69988,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70415
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:02:19.498763293Z",
   "translation": "⟨Lest⟩ say my enemy, I have prevailed ⟨against⟩ him; ⟨and⟩ my adversaries rejoice because I totter",
   "tokens": [
     {
       "surface": "פן",
-      "english": "⟨Lest⟩"
+      "gloss": "⟨Lest⟩"
     },
     {
       "surface": "יאמר",
-      "english": "say"
+      "gloss": "say"
     },
     {
       "surface": "איבי",
-      "english": "my enemy"
+      "gloss": "my enemy"
     },
     {
       "surface": "יכלתיו",
-      "english": "I have prevailed ⟨against⟩ him"
+      "gloss": "I have prevailed ⟨against⟩ him"
     },
     {
       "surface": "צרי",
-      "english": "⟨and⟩ my adversaries"
+      "gloss": "⟨and⟩ my adversaries"
     },
     {
       "surface": "יגילו",
-      "english": "rejoice"
+      "gloss": "rejoice"
     },
     {
       "surface": "כי",
-      "english": "because"
+      "gloss": "because"
     },
     {
       "surface": "אמוט",
-      "english": "I totter"
+      "gloss": "I totter"
     }
-  ],
-  "timestamp": "2026-06-09T23:02:19.498763293Z",
-  "model": "glm-4.5"
+  ]
 }

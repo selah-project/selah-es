@@ -1,52 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "jeremiah 25:21",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 234,
-    "prompt_tokens": 24587,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24821
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:42:41.096299553Z",
   "translation": "⟨את⟩ Edom, y ⟨את⟩ Moab, y ⟨את⟩ los hijos de Amón,",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Edom"
     },
     {
       "surface": "אדום",
-      "english": "Edom"
+      "gloss": "Edom"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Moab"
     },
     {
       "surface": "מואב",
-      "english": "Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "los hijos"
     },
     {
       "surface": "בני",
-      "english": "los hijos"
+      "gloss": "los hijos"
     },
     {
       "surface": "עמון",
-      "english": "de Amón"
+      "gloss": "de Amón"
     }
-  ],
-  "timestamp": "2026-07-16T21:42:41.096299553Z",
-  "model": "glm-4.5"
+  ]
 }

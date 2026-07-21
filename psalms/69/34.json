@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "psalms 69:34",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 615,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70063,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70678
-  },
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:52.667079952Z",
   "translation": "Porque ⟨el⟩ que escucha ⟨a⟩ ⟨los⟩ necesitados, ⟨es⟩ YHWH, ⟨y⟩ ⟨a⟩ sus prisioneros ⟨את⟩ no ⟨es⟩ despreciado.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "שמע",
-      "english": "⟨el⟩ que escucha"
+      "gloss": "⟨el⟩ que escucha"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "אביונים",
-      "english": "⟨los⟩ necesitados"
+      "gloss": "⟨los⟩ necesitados"
     },
     {
       "surface": "יהוה",
-      "english": "⟨es⟩ YHWH"
+      "gloss": "⟨es⟩ YHWH"
     },
     {
       "surface": "ואת",
-      "english": "⟨y⟩ ⟨a⟩",
+      "gloss": "⟨y⟩ ⟨a⟩",
       "marks": "sus prisioneros"
     },
     {
       "surface": "אסיריו",
-      "english": "sus prisioneros"
+      "gloss": "sus prisioneros"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "בזה",
-      "english": "⟨es⟩ despreciado"
+      "gloss": "⟨es⟩ despreciado"
     }
-  ],
-  "timestamp": "2026-06-09T23:31:52.667079952Z",
-  "model": "glm-4.5"
+  ]
 }

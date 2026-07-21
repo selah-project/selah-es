@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 55,
   "ref": "judges 9:55",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "judges",
+  "chapter": 9,
+  "verse": 55,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:41:12.670174822Z",
+  "translation": "Y cuando los hombres ⟨de⟩ Yisrael vieron que ⟨estaba⟩ muerto Avimélec, ⟨el⟩ hombre ⟨se⟩ fue ⟨a⟩ su lugar.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Y cuando"
+    },
+    {
+      "surface": "איש",
+      "gloss": "los hombres"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מת",
+      "gloss": "⟨estaba⟩ muerto"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimélec"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "⟨el⟩ hombre ⟨se⟩ fue"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨a⟩ su"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 15985,
-    "prompt_tokens_details": {
-      "cached_tokens": 14814
-    },
-    "total_tokens": 16392
-  },
-  "translation": "Y cuando los hombres ⟨de⟩ Yisrael vieron que ⟨estaba⟩ muerto Avimélec, ⟨el⟩ hombre ⟨se⟩ fue ⟨a⟩ su lugar.",
-  "tokens": [
-    {
-      "surface": "ויראו",
-      "english": "Y cuando"
-    },
-    {
-      "surface": "איש",
-      "english": "los hombres"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "כי",
-      "english": "que"
-    },
-    {
-      "surface": "מת",
-      "english": "⟨estaba⟩ muerto"
-    },
-    {
-      "surface": "אבימלך",
-      "english": "Avimélec"
-    },
-    {
-      "surface": "ולכו",
-      "english": "⟨el⟩ hombre ⟨se⟩ fue"
-    },
-    {
-      "surface": "איש",
-      "english": "⟨a⟩ su"
-    },
-    {
-      "surface": "למקמו",
-      "english": "lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:41:12.670174822Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

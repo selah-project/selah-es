@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 45:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69956,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70239
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:20.056442156Z",
   "translation": "Ciñe tu espada ⟨את⟩ sobre ⟨el⟩ muslo, ⟨el⟩ poderoso, tu gloria y tu majestuosidad",
   "tokens": [
     {
       "surface": "חגור",
-      "english": "Ciñe"
+      "gloss": "Ciñe"
     },
     {
       "surface": "חרבך",
-      "english": "tu espada"
+      "gloss": "tu espada"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ירך",
-      "english": "⟨el⟩ muslo"
+      "gloss": "⟨el⟩ muslo"
     },
     {
       "surface": "גבור",
-      "english": "⟨el⟩ poderoso"
+      "gloss": "⟨el⟩ poderoso"
     },
     {
       "surface": "הודך",
-      "english": "tu gloria"
+      "gloss": "tu gloria"
     },
     {
       "surface": "והדרך",
-      "english": "y tu majestuosidad"
+      "gloss": "y tu majestuosidad"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:20.056442156Z",
-  "model": "glm-4.5"
+  ]
 }

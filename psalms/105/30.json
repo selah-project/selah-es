@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 105:30",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69713,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70054
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:51:59.060523887Z",
   "translation": "Su tierra ⟨hizo⟩ enjambre de ranas en ⟨los⟩ cuartos de ⟨sus⟩ reyes.",
   "tokens": [
     {
       "surface": "שרץ",
-      "english": "Hizo enjambre"
+      "gloss": "Hizo enjambre"
     },
     {
       "surface": "ארצם",
-      "english": "Su tierra"
+      "gloss": "Su tierra"
     },
     {
       "surface": "צפרדעים",
-      "english": "de ranas"
+      "gloss": "de ranas"
     },
     {
       "surface": "בחדרי",
-      "english": "en ⟨los⟩ cuartos de"
+      "gloss": "en ⟨los⟩ cuartos de"
     },
     {
       "surface": "מלכיהם",
-      "english": "⟨sus⟩ reyes"
+      "gloss": "⟨sus⟩ reyes"
     }
-  ],
-  "timestamp": "2026-06-09T23:51:59.060523887Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 30:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "isaiah",
+  "chapter": 30,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:52:57.747191689Z",
+  "translation": "Y será para ustedes ⟨un⟩ refugio, Paró ⟨para⟩ vergüenza, y ⟨el⟩ amparo en ⟨la⟩ sombra de Mitzráyim ⟨para⟩ oprobio.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Y será"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para ustedes"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "refugio"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "para vergüenza"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "y el amparo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "en la sombra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "para oprobio"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Faraón",
@@ -20,60 +63,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18763,
-    "prompt_tokens_details": {
-      "cached_tokens": 17660
-    },
-    "total_tokens": 19266
-  },
-  "translation": "Y será para ustedes ⟨un⟩ refugio, Paró ⟨para⟩ vergüenza, y ⟨el⟩ amparo en ⟨la⟩ sombra de Mitzráyim ⟨para⟩ oprobio.",
-  "tokens": [
-    {
-      "surface": "והיה",
-      "english": "Y será"
-    },
-    {
-      "surface": "לכם",
-      "english": "para ustedes"
-    },
-    {
-      "surface": "מעוז",
-      "english": "refugio"
-    },
-    {
-      "surface": "פרעה",
-      "english": "Paró"
-    },
-    {
-      "surface": "לבשת",
-      "english": "para vergüenza"
-    },
-    {
-      "surface": "והחסות",
-      "english": "y el amparo"
-    },
-    {
-      "surface": "בצל",
-      "english": "en la sombra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "לכלמה",
-      "english": "para oprobio"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:52:57.747191689Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 11:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 553,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26440,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26993
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:28:18.592281128Z",
   "translation": "Y ⟨hará⟩ prudente ⟨en⟩ el temor de YHWH, y no ⟨por⟩ la vista de sus ojos juzgará, y no ⟨por⟩ ⟨el⟩ oír de sus oídos argüirá.",
   "tokens": [
     {
       "surface": "והריחו",
-      "english": "Y ⟨hará⟩ prudente ⟨en⟩"
+      "gloss": "Y ⟨hará⟩ prudente ⟨en⟩"
     },
     {
       "surface": "ביראת",
-      "english": "el temor de"
+      "gloss": "el temor de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "למראה",
-      "english": "⟨por⟩ la vista de"
+      "gloss": "⟨por⟩ la vista de"
     },
     {
       "surface": "עיניו",
-      "english": "sus ojos"
+      "gloss": "sus ojos"
     },
     {
       "surface": "ישפוט",
-      "english": "juzgará"
+      "gloss": "juzgará"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "למשמע",
-      "english": "⟨por⟩ ⟨el⟩ oír de"
+      "gloss": "⟨por⟩ ⟨el⟩ oír de"
     },
     {
       "surface": "אזניו",
-      "english": "sus oídos"
+      "gloss": "sus oídos"
     },
     {
       "surface": "יוכיח",
-      "english": "argüirá"
+      "gloss": "argüirá"
     }
-  ],
-  "timestamp": "2026-06-10T02:28:18.592281128Z",
-  "model": "glm-4.5"
+  ]
 }

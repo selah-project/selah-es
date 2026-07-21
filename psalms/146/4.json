@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 146:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 420,
-    "prompt_tokens": 70088,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70508
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:45:37.308202764Z",
   "translation": "Su Rúaj sale, él ⟨se⟩ vuelve ⟨a⟩ su tierra; en aquel día perecen sus pensamientos.",
   "tokens": [
     {
       "surface": "תצא",
-      "english": "sale"
+      "gloss": "sale"
     },
     {
       "surface": "רוחו",
-      "english": "Su Rúaj"
+      "gloss": "Su Rúaj"
     },
     {
       "surface": "ישב",
-      "english": "él ⟨se⟩ vuelve"
+      "gloss": "él ⟨se⟩ vuelve"
     },
     {
       "surface": "לאדמתו",
-      "english": "⟨a⟩ su tierra"
+      "gloss": "⟨a⟩ su tierra"
     },
     {
       "surface": "ביום",
-      "english": "en aquel día"
+      "gloss": "en aquel día"
     },
     {
       "surface": "ההוא",
-      "english": "aquel"
+      "gloss": "aquel"
     },
     {
       "surface": "אבדו",
-      "english": "perecen"
+      "gloss": "perecen"
     },
     {
       "surface": "עשתנתיו",
-      "english": "sus pensamientos"
+      "gloss": "sus pensamientos"
     }
-  ],
-  "timestamp": "2026-07-16T23:45:37.308202764Z",
-  "model": "glm-4.5"
+  ]
 }

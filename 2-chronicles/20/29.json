@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "2-chronicles 20:29",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 20,
+  "verse": 29,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:21:43.004094518Z",
+  "translation": "Y hubo temor ⟨de⟩ Elohim sobre todos los reinos ⟨de⟩ ⟨las⟩ tierras ⟨cuando⟩ oyeron ⟨que⟩ YHWH había luchado ⟨con⟩ ⟨los⟩ enemigos ⟨de⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y hubo"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "temor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨de⟩ Elohim",
+      "marks": "temor de Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todos"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "⟨los⟩ reinos"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "⟨de⟩ ⟨las⟩ tierras"
+    },
+    {
+      "surface": "בשמעם",
+      "gloss": "⟨cuando⟩ oyeron",
+      "rationale": "ב- + שמע + ם: 'en-escuchar-ellos' = al escucharlos\/when they heard"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩",
+      "rationale": "Introduce la causalidad: 'porque'\/'que'"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "había luchado",
+      "rationale": "Nifal perfecto: fue luchado\/lucharon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨con⟩"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "⟨los⟩ enemigos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 20,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58304,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58908
-  },
-  "translation": "Y hubo temor ⟨de⟩ Elohim sobre todos los reinos ⟨de⟩ ⟨las⟩ tierras ⟨cuando⟩ oyeron ⟨que⟩ YHWH había luchado ⟨con⟩ ⟨los⟩ enemigos ⟨de⟩ Yisrael.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y hubo"
-    },
-    {
-      "surface": "פחד",
-      "english": "temor"
-    },
-    {
-      "surface": "אלהים",
-      "english": "⟨de⟩ Elohim",
-      "marks": "temor de Elohim"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "כל",
-      "english": "todos"
-    },
-    {
-      "surface": "ממלכות",
-      "english": "⟨los⟩ reinos"
-    },
-    {
-      "surface": "הארצות",
-      "english": "⟨de⟩ ⟨las⟩ tierras"
-    },
-    {
-      "surface": "בשמעם",
-      "english": "⟨cuando⟩ oyeron",
-      "rationale": "ב- + שמע + ם: 'en-escuchar-ellos' = al escucharlos\/when they heard"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨que⟩",
-      "rationale": "Introduce la causalidad: 'porque'\/'que'"
-    },
-    {
-      "surface": "נלחם",
-      "english": "había luchado",
-      "rationale": "Nifal perfecto: fue luchado\/lucharon"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨con⟩"
-    },
-    {
-      "surface": "אויבי",
-      "english": "⟨los⟩ enemigos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:21:43.004094518Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

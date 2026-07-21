@@ -1,75 +1,67 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "numbers 21:6",
   "book": "numbers",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 943,
-    "prompt_tokens": 25758,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26701
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:08:10.788559899Z",
   "translation": "Y YHWH envió ⟨el⟩ serpientes ⟨que⟩ queman ⟨a⟩ ⟨el⟩ pueblo, y ⟨ellos⟩ mordieron ⟨a⟩ ⟨el⟩ pueblo, y murió ⟨un⟩ pueblo ⟨mucho⟩ de Yisrael.",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "Y YHWH envió"
+      "gloss": "Y YHWH envió"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בעם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩ ⟨el⟩",
+      "gloss": "⟨a⟩ ⟨el⟩",
       "marks": "הנחשים"
     },
     {
       "surface": "הנחשים",
-      "english": "serpientes ⟨que⟩ queman"
+      "gloss": "serpientes ⟨que⟩ queman"
     },
     {
       "surface": "השרפים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "וינשכו",
-      "english": "y ⟨ellos⟩ mordieron"
+      "gloss": "y ⟨ellos⟩ mordieron"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩ ⟨el⟩",
+      "gloss": "⟨a⟩ ⟨el⟩",
       "marks": "העם"
     },
     {
       "surface": "העם",
-      "english": "pueblo"
+      "gloss": "pueblo"
     },
     {
       "surface": "וימת",
-      "english": "y murió"
+      "gloss": "y murió"
     },
     {
       "surface": "עם",
-      "english": "⟨un⟩ pueblo"
+      "gloss": "⟨un⟩ pueblo"
     },
     {
       "surface": "רב",
-      "english": "⟨mucho⟩"
+      "gloss": "⟨mucho⟩"
     },
     {
       "surface": "מישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-07-16T23:08:10.788559899Z",
-  "model": "glm-4.5"
+  ]
 }

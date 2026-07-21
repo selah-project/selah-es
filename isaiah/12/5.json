@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "isaiah 12:5",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26097,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26467
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:28:19.830233961Z",
   "translation": "Cantad ⟨a⟩ YHWH porque ha hecho gloriosamente ⟨esta⟩ ⟨es⟩ conocida en toda ⟨la⟩ tierra",
   "tokens": [
     {
       "surface": "זמרו",
-      "english": "Cantad"
+      "gloss": "Cantad"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "גאות",
-      "english": "gloriosamente"
+      "gloss": "gloriosamente"
     },
     {
       "surface": "עשה",
-      "english": "ha hecho"
+      "gloss": "ha hecho"
     },
     {
       "surface": "מידעת",
-      "english": "conocida"
+      "gloss": "conocida"
     },
     {
       "surface": "זאת",
-      "english": "⟨esta⟩"
+      "gloss": "⟨esta⟩"
     },
     {
       "surface": "בכל",
-      "english": "en toda"
+      "gloss": "en toda"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-10T02:28:19.830233961Z",
-  "model": "glm-4.5"
+  ]
 }

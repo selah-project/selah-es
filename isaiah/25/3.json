@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.1",
-  "verse": 3,
   "ref": "isaiah 25:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 898,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26183,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27081
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:37:41.288995084Z",
   "translation": "Por tanto, ⟨un⟩ pueblo fuerte te honrará, ⟨la⟩ ciudad-fortaleza de naciones, tiranos te temerán.",
   "tokens": [
     {
       "surface": "עַל",
-      "english": "Por"
+      "gloss": "Por"
     },
     {
       "surface": "כֵּן",
-      "english": "tanto"
+      "gloss": "tanto"
     },
     {
       "surface": "יְכַבְּדוּךָ",
-      "english": "te honrará"
+      "gloss": "te honrará"
     },
     {
       "surface": "עַם",
-      "english": "⟨un⟩ pueblo"
+      "gloss": "⟨un⟩ pueblo"
     },
     {
       "surface": "עָז",
-      "english": "fuerte"
+      "gloss": "fuerte"
     },
     {
       "surface": "קִרְיַת",
-      "english": "⟨la⟩ ciudad-fortaleza"
+      "gloss": "⟨la⟩ ciudad-fortaleza"
     },
     {
       "surface": "גּוֹיִם",
-      "english": "de naciones"
+      "gloss": "de naciones"
     },
     {
       "surface": "עָרִיצִים",
-      "english": "tiranos"
+      "gloss": "tiranos"
     },
     {
       "surface": "יִירָאֽוּךָ",
-      "english": "te temerán"
+      "gloss": "te temerán"
     }
-  ],
-  "timestamp": "2026-06-13T03:37:41.288995084Z",
-  "model": "glm-5.1"
+  ]
 }

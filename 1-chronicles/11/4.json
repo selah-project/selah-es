@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 11:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 11,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:39:14.892596156Z",
+  "translation": "Y Davidd y todo Yisrael fueron a Yerushalayim — la misma ⟨es⟩ Jebus — y allí ⟨estaban⟩ los jebuseos, los habitantes de ⟨la⟩ tierra.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Y"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "— la misma"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "⟨es⟩ Jebus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "— y allí"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "los jebuseos"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨estaban⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de ⟨la⟩ tierra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,68 +78,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57089,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57528
-  },
-  "translation": "Y Davidd y todo Yisrael fueron a Yerushalayim — la misma ⟨es⟩ Jebus — y allí ⟨estaban⟩ los jebuseos, los habitantes de ⟨la⟩ tierra.",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "Y"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "a Yerushalayim"
-    },
-    {
-      "surface": "היא",
-      "english": "— la misma"
-    },
-    {
-      "surface": "יבוס",
-      "english": "⟨es⟩ Jebus"
-    },
-    {
-      "surface": "ושם",
-      "english": "— y allí"
-    },
-    {
-      "surface": "היבוסי",
-      "english": "los jebuseos"
-    },
-    {
-      "surface": "ישבי",
-      "english": "⟨estaban⟩"
-    },
-    {
-      "surface": "הארץ",
-      "english": "de ⟨la⟩ tierra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:39:14.892596156Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

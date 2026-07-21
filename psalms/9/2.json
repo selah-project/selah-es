@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 9:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69941,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70347
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:10.073075303Z",
   "translation": "I will thank YHWH ⟨with⟩ ⟨all⟩ my heart; I will recount ⟨all⟩ ⟨Your⟩ wondrous deeds.",
   "tokens": [
     {
       "surface": "אודה",
-      "english": "I will thank"
+      "gloss": "I will thank"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בכל",
-      "english": "⟨with⟩ ⟨all⟩"
+      "gloss": "⟨with⟩ ⟨all⟩"
     },
     {
       "surface": "לבי",
-      "english": "my heart"
+      "gloss": "my heart"
     },
     {
       "surface": "אספרה",
-      "english": "I will recount"
+      "gloss": "I will recount"
     },
     {
       "surface": "כל",
-      "english": "⟨all⟩"
+      "gloss": "⟨all⟩"
     },
     {
       "surface": "נפלאותיך",
-      "english": "⟨Your⟩ wondrous deeds"
+      "gloss": "⟨Your⟩ wondrous deeds"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:10.073075303Z",
-  "model": "glm-4.5"
+  ]
 }

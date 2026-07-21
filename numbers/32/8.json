@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 32:8",
   "book": "numbers",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 565,
-    "prompt_tokens": 25462,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26027
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:13:37.370203914Z",
   "translation": "Así hicieron sus padres, al enviarlos ⟨את⟩ desde Kadesh-Barnea para ver ⟨את⟩ la tierra.",
   "tokens": [
     {
       "surface": "כה",
-      "english": "Así"
+      "gloss": "Así"
     },
     {
       "surface": "עשו",
-      "english": "hicieron"
+      "gloss": "hicieron"
     },
     {
       "surface": "אבתיכם",
-      "english": "sus padres"
+      "gloss": "sus padres"
     },
     {
       "surface": "בשלחי",
-      "english": "al enviarlos"
+      "gloss": "al enviarlos"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Kadesh-Barnea"
     },
     {
       "surface": "מקדש",
-      "english": "desde"
+      "gloss": "desde"
     },
     {
       "surface": "ברנע",
-      "english": "Kadesh-Barnea"
+      "gloss": "Kadesh-Barnea"
     },
     {
       "surface": "לראות",
-      "english": "para ver"
+      "gloss": "para ver"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la tierra"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T23:13:37.370203914Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "leviticus 21:22",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24421,
-    "prompt_tokens_details": {
-      "cached_tokens": 23417
-    },
-    "total_tokens": 24925
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:37:48.265763118Z",
   "translation": "Pan ⟨de⟩ su Elohim ⟨de⟩ ⟨las cosas⟩ muy santas y ⟨de⟩ ⟨las cosas⟩ santas comerá",
   "tokens": [
     {
       "surface": "לחם",
-      "english": "Pan"
+      "gloss": "Pan"
     },
     {
       "surface": "אלהיו",
-      "english": "⟨de⟩ su Elohim",
+      "gloss": "⟨de⟩ su Elohim",
       "marks": "Pan"
     },
     {
       "surface": "מקדשי",
-      "english": "⟨de⟩ ⟨las cosas⟩ muy santas",
+      "gloss": "⟨de⟩ ⟨las cosas⟩ muy santas",
       "marks": "Pan ⟨de⟩ su Elohim"
     },
     {
       "surface": "הקדשים",
-      "english": "⟨y⟩ ⟨de⟩ ⟨las cosas⟩ santas",
+      "gloss": "⟨y⟩ ⟨de⟩ ⟨las cosas⟩ santas",
       "marks": "Pan ⟨de⟩ su Elohim ⟨de⟩ ⟨las cosas⟩ muy santas"
     },
     {
       "surface": "ומן",
-      "english": "⟨y⟩ ⟨de⟩"
+      "gloss": "⟨y⟩ ⟨de⟩"
     },
     {
       "surface": "הקדשים",
-      "english": "⟨las cosas⟩ santas",
+      "gloss": "⟨las cosas⟩ santas",
       "marks": "Pan ⟨de⟩ su Elohim"
     },
     {
       "surface": "יאכל",
-      "english": "comerá"
+      "gloss": "comerá"
     }
-  ],
-  "timestamp": "2026-06-10T04:37:48.265763118Z",
-  "model": "glm-4.5"
+  ]
 }

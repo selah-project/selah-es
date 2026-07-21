@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "exodus 12:40",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 12,
+  "verse": 40,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:38:37.283167378Z",
+  "translation": "Y ⟨el⟩ morar de los hijos de Yisrael, que habitaron en Egipto, ⟨fue⟩ treinta años y cuatrocientos años",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "Y ⟨el⟩ morar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "habitaron"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Egipto"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treinta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "y cuatro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cientos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16864,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17221
-  },
-  "translation": "Y ⟨el⟩ morar de los hijos de Yisrael, que habitaron en Egipto, ⟨fue⟩ treinta años y cuatrocientos años",
-  "tokens": [
-    {
-      "surface": "ומושב",
-      "english": "Y ⟨el⟩ morar"
-    },
-    {
-      "surface": "בני",
-      "english": "de los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "ישבו",
-      "english": "habitaron"
-    },
-    {
-      "surface": "במצרים",
-      "english": "en Egipto"
-    },
-    {
-      "surface": "שלשים",
-      "english": "treinta"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "וארבע",
-      "english": "y cuatro"
-    },
-    {
-      "surface": "מאות",
-      "english": "cientos"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:38:37.283167378Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

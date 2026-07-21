@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 15:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 406,
-    "prompt_tokens": 28413,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28819
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:57:21.652458305Z",
   "translation": "Pero tú ⟨irás⟩ a tus padres en paz; serás sepultado en ⟨una⟩ buena vejez",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Pero tú"
+      "gloss": "Pero tú"
     },
     {
       "surface": "תבוא",
-      "english": "⟨irás⟩"
+      "gloss": "⟨irás⟩"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "אבתיך",
-      "english": "tus padres"
+      "gloss": "tus padres"
     },
     {
       "surface": "בשלום",
-      "english": "en paz"
+      "gloss": "en paz"
     },
     {
       "surface": "תקבר",
-      "english": "serás sepultado"
+      "gloss": "serás sepultado"
     },
     {
       "surface": "בשיבה",
-      "english": "en ⟨una⟩ buena vejez"
+      "gloss": "en ⟨una⟩ buena vejez"
     },
     {
       "surface": "טובה",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-16T20:57:21.652458305Z",
-  "model": "glm-4.5"
+  ]
 }

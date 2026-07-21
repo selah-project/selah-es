@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 29:20",
   "book": "job",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26958,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27237
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:09:31.048017465Z",
   "translation": "Mi gloria ⟨está⟩ fresca conmigo, y mi arco ⟨es⟩ renovado en mi mano.",
   "tokens": [
     {
       "surface": "כבודי",
-      "english": "Mi gloria"
+      "gloss": "Mi gloria"
     },
     {
       "surface": "חדש",
-      "english": "fresca"
+      "gloss": "fresca"
     },
     {
       "surface": "עמדי",
-      "english": "conmigo"
+      "gloss": "conmigo"
     },
     {
       "surface": "וקשתי",
-      "english": "y mi arco"
+      "gloss": "y mi arco"
     },
     {
       "surface": "בידי",
-      "english": "en mi mano"
+      "gloss": "en mi mano"
     },
     {
       "surface": "תחליף",
-      "english": "renovado"
+      "gloss": "renovado"
     }
-  ],
-  "timestamp": "2026-06-10T02:09:31.048017465Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 59:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69921,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70280
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:25:58.775042325Z",
   "translation": "⟨Deliver⟩ me from ⟨the⟩ workers of iniquity, and save me from ⟨the⟩ men of blood.",
   "tokens": [
     {
       "surface": "הצילני",
-      "english": "⟨Deliver⟩ me"
+      "gloss": "⟨Deliver⟩ me"
     },
     {
       "surface": "מפעלי",
-      "english": "from ⟨the⟩ workers of"
+      "gloss": "from ⟨the⟩ workers of"
     },
     {
       "surface": "און",
-      "english": "iniquity"
+      "gloss": "iniquity"
     },
     {
       "surface": "ומאנשי",
-      "english": "and save me from ⟨the⟩"
+      "gloss": "and save me from ⟨the⟩"
     },
     {
       "surface": "דמים",
-      "english": "men of blood"
+      "gloss": "men of blood"
     },
     {
       "surface": "הושיעני",
-      "english": "save me"
+      "gloss": "save me"
     }
-  ],
-  "timestamp": "2026-06-09T23:25:58.775042325Z",
-  "model": "glm-4.5"
+  ]
 }

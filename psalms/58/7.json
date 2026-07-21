@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 58:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 402,
-    "prompt_tokens": 70181,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70583
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:40.158575420Z",
   "translation": "Elohim, quiebra los dientes de su boca; YHWH, quebranta ⟨los⟩ molares de ⟨los⟩ cachorros de león.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "הרס",
-      "english": "quiebra"
+      "gloss": "quiebra"
     },
     {
       "surface": "שנימו",
-      "english": "los dientes de su boca"
+      "gloss": "los dientes de su boca"
     },
     {
       "surface": "בפימו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מלתעות",
-      "english": "molares"
+      "gloss": "molares"
     },
     {
       "surface": "כפירים",
-      "english": "cachorros de león"
+      "gloss": "cachorros de león"
     },
     {
       "surface": "נתץ",
-      "english": "quebranta"
+      "gloss": "quebranta"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:40.158575420Z",
-  "model": "glm-4.5"
+  ]
 }

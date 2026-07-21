@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 59:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69973,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70354
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:26:59.982013686Z",
   "translation": "⟨sin⟩ iniquidad correrán ⟨y⟩ se prepararán despierta ⟨para⟩ ⟨mi⟩ llamada ⟨y⟩ ve",
   "tokens": [
     {
       "surface": "בלי",
-      "english": "⟨Sin⟩",
+      "gloss": "⟨Sin⟩",
       "marks": "iniquidad"
     },
     {
       "surface": "עון",
-      "english": "iniquidad"
+      "gloss": "iniquidad"
     },
     {
       "surface": "ירוצון",
-      "english": "correrán"
+      "gloss": "correrán"
     },
     {
       "surface": "ויכוננו",
-      "english": "⟨y⟩ se prepararán"
+      "gloss": "⟨y⟩ se prepararán"
     },
     {
       "surface": "עורה",
-      "english": "despierta"
+      "gloss": "despierta"
     },
     {
       "surface": "לקראתי",
-      "english": "⟨para⟩ ⟨mi⟩ llamada"
+      "gloss": "⟨para⟩ ⟨mi⟩ llamada"
     },
     {
       "surface": "וראה",
-      "english": "⟨y⟩ ve"
+      "gloss": "⟨y⟩ ve"
     }
-  ],
-  "timestamp": "2026-06-09T23:26:59.982013686Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 8:9",
   "book": "job",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27213,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27608
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:01.341616393Z",
   "translation": "Porque ayer ⟨somos⟩, y no sabemos; porque ⟨el⟩ sombra de nuestros días ⟨está⟩ sobre ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "תמול",
-      "english": "ayer"
+      "gloss": "ayer"
     },
     {
       "surface": "אנחנו",
-      "english": "somos"
+      "gloss": "somos"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "נדע",
-      "english": "sabemos"
+      "gloss": "sabemos"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "צל",
-      "english": "sombra"
+      "gloss": "sombra"
     },
     {
       "surface": "ימינו",
-      "english": "de nuestros días"
+      "gloss": "de nuestros días"
     },
     {
       "surface": "עלי",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "ארץ",
-      "english": "tierra"
+      "gloss": "tierra"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:01.341616393Z",
-  "model": "glm-4.5"
+  ]
 }

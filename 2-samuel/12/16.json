@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-samuel 12:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 12,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:26:12.522498991Z",
+  "translation": "Y Davidd buscó a ⟨el⟩ Elohim por ⟨el⟩ muchacho, y Davidd ayunó ⟨un⟩ ayuno y entró y se quedó y se acostó ⟨en⟩ tierra.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Y buscó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "האלהים"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "a ⟨el⟩ Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "por"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨el⟩ muchacho"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "y David ayunó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "צום",
+      "gloss": "⟨un⟩ ayuno"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "y entró"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "y se quedó"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "y se acostó"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨en⟩ tierra"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,77 +80,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17375,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17862
-  },
-  "translation": "Y Davidd buscó a ⟨el⟩ Elohim por ⟨el⟩ muchacho, y Davidd ayunó ⟨un⟩ ayuno y entró y se quedó y se acostó ⟨en⟩ tierra.",
-  "tokens": [
-    {
-      "surface": "ויבקש",
-      "english": "Y buscó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "האלהים"
-    },
-    {
-      "surface": "האלהים",
-      "english": "a ⟨el⟩ Elohim"
-    },
-    {
-      "surface": "בעד",
-      "english": "por"
-    },
-    {
-      "surface": "הנער",
-      "english": "⟨el⟩ muchacho"
-    },
-    {
-      "surface": "ויצם",
-      "english": "y David ayunó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "צום",
-      "english": "⟨un⟩ ayuno"
-    },
-    {
-      "surface": "ובא",
-      "english": "y entró"
-    },
-    {
-      "surface": "ולן",
-      "english": "y se quedó"
-    },
-    {
-      "surface": "ושכב",
-      "english": "y se acostó"
-    },
-    {
-      "surface": "ארצה",
-      "english": "⟨en⟩ tierra"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:26:12.522498991Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

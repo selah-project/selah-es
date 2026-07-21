@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "lamentations 3:28",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38914,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39316
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:41:54.102196620Z",
   "translation": "Se sienta ⟨en⟩ soledad y calla, porque ⟨ha⟩ ⟨puesto⟩ ⟨sobre⟩ él",
   "tokens": [
     {
       "surface": "ישב",
-      "english": "Se sienta"
+      "gloss": "Se sienta"
     },
     {
       "surface": "בדד",
-      "english": "⟨en⟩ soledad"
+      "gloss": "⟨en⟩ soledad"
     },
     {
       "surface": "וידם",
-      "english": "y calla"
+      "gloss": "y calla"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "נטל",
-      "english": "⟨ha⟩ ⟨puesto⟩"
+      "gloss": "⟨ha⟩ ⟨puesto⟩"
     },
     {
       "surface": "עליו",
-      "english": "⟨sobre⟩ él"
+      "gloss": "⟨sobre⟩ él"
     }
-  ],
-  "timestamp": "2026-06-09T22:41:54.102196620Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "numbers 8:18",
   "book": "numbers",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 484,
-    "prompt_tokens": 25286,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25770
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:00:08.587833805Z",
   "translation": "Y he tomado ⟨את⟩ los levitas en lugar de todo primogénito de ⟨los⟩ hijos de Israel",
   "tokens": [
     {
       "surface": "ואקח",
-      "english": "Y he tomado"
+      "gloss": "Y he tomado"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los levitas"
     },
     {
       "surface": "הלוים",
-      "english": "los levitas"
+      "gloss": "los levitas"
     },
     {
       "surface": "תחת",
-      "english": "en lugar de"
+      "gloss": "en lugar de"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "בכור",
-      "english": "primogénito"
+      "gloss": "primogénito"
     },
     {
       "surface": "בבני",
-      "english": "de ⟨los⟩ hijos"
+      "gloss": "de ⟨los⟩ hijos"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     }
-  ],
-  "timestamp": "2026-07-16T23:00:08.587833805Z",
-  "model": "glm-4.5"
+  ]
 }

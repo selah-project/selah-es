@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 39:5",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27104,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27466
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:16:17.133891342Z",
   "translation": "¿Quién ⟨envió⟩ al asno salvaje ⟨libre⟩? Y ⟨quién⟩ ⟨aflojó⟩ ⟨las ataduras⟩ del onagro? ¿Quién ⟨abrió⟩?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "שלח",
-      "english": "envió"
+      "gloss": "envió"
     },
     {
       "surface": "פרא",
-      "english": "al asno salvaje"
+      "gloss": "al asno salvaje"
     },
     {
       "surface": "חפשי",
-      "english": "libre"
+      "gloss": "libre"
     },
     {
       "surface": "ומסרות",
-      "english": "⟨las ataduras⟩"
+      "gloss": "⟨las ataduras⟩"
     },
     {
       "surface": "ערוד",
-      "english": "del onagro"
+      "gloss": "del onagro"
     },
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "פתח",
-      "english": "abrió"
+      "gloss": "abrió"
     }
-  ],
-  "timestamp": "2026-06-10T02:16:17.133891342Z",
-  "model": "glm-4.5"
+  ]
 }

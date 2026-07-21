@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 139:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 403,
-    "prompt_tokens": 69944,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70347
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:26.609022800Z",
   "translation": "Tú desbaratas mi salida y mi reposo, y ⟨estás⟩ familiarizado con todos mis caminos.",
   "tokens": [
     {
       "surface": "ארחי",
-      "english": "mi salida"
+      "gloss": "mi salida"
     },
     {
       "surface": "ורבעי",
-      "english": "y mi reposo"
+      "gloss": "y mi reposo"
     },
     {
       "surface": "זרית",
-      "english": "desbaratas"
+      "gloss": "desbaratas"
     },
     {
       "surface": "וכל",
-      "english": "y todos"
+      "gloss": "y todos"
     },
     {
       "surface": "דרכי",
-      "english": "mis caminos"
+      "gloss": "mis caminos"
     },
     {
       "surface": "הסכנתה",
-      "english": "⟨estás⟩ familiarizado con"
+      "gloss": "⟨estás⟩ familiarizado con"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:26.609022800Z",
-  "model": "glm-4.5"
+  ]
 }

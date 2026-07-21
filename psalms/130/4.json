@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 130:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69694,
-    "prompt_tokens_details": {
-      "cached_tokens": 5
-    },
-    "total_tokens": 70134
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:05:15.632642835Z",
   "translation": "porque ⟨con⟩ ti ⟨está⟩ ⟨el⟩ perdón ⟨a fin de⟩ que ⟨ seas⟩ temido",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "עמך",
-      "english": "⟨con⟩ ti",
+      "gloss": "⟨con⟩ ti",
       "marks": "ti"
     },
     {
       "surface": "הסליחה",
-      "english": "⟨el⟩ perdón",
+      "gloss": "⟨el⟩ perdón",
       "marks": "perdón"
     },
     {
       "surface": "למען",
-      "english": "⟨a fin de⟩ que"
+      "gloss": "⟨a fin de⟩ que"
     },
     {
       "surface": "תורא",
-      "english": "⟨ seas ⟩ temido"
+      "gloss": "⟨ seas ⟩ temido"
     }
-  ],
-  "timestamp": "2026-06-10T00:05:15.632642835Z",
-  "model": "glm-4.5"
+  ]
 }

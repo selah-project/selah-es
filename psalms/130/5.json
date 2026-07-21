@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 130:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69857,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70226
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:04:47.593356180Z",
   "translation": "Esperé a YHWH, esperó mi alma ⟨en⟩ su palabra ⟨⟩ esperé",
   "tokens": [
     {
       "surface": "קויתי",
-      "english": "Esperé"
+      "gloss": "Esperé"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "קותה",
-      "english": "esperó"
+      "gloss": "esperó"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma ⟨⟩"
+      "gloss": "mi alma ⟨⟩"
     },
     {
       "surface": "ולדברו",
-      "english": "⟨en⟩ su palabra ⟨⟩"
+      "gloss": "⟨en⟩ su palabra ⟨⟩"
     },
     {
       "surface": "הוחלתי",
-      "english": "esperé"
+      "gloss": "esperé"
     }
-  ],
-  "timestamp": "2026-06-10T00:04:47.593356180Z",
-  "model": "glm-4.5"
+  ]
 }

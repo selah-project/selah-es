@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 39:3",
   "book": "genesis",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28703,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29070
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:35:52.009126776Z",
   "translation": "Y su señor vio que YHWH ⟨estaba⟩ con él y que todo lo que él hacía, YHWH ⟨lo⟩ hacía prosperar en su mano",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y vio"
+      "gloss": "Y vio"
     },
     {
       "surface": "אדניו",
-      "english": "su señor"
+      "gloss": "su señor"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אתו",
-      "english": "⟨estaba⟩",
+      "gloss": "⟨estaba⟩",
       "marks": "YHWH"
     },
     {
       "surface": "וכל",
-      "english": "y todo"
+      "gloss": "y todo"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "הוא",
-      "english": "él"
+      "gloss": "él"
     },
     {
       "surface": "עשה",
-      "english": "hacía"
+      "gloss": "hacía"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מצליח",
-      "english": "⟨lo⟩ hacía prosperar"
+      "gloss": "⟨lo⟩ hacía prosperar"
     },
     {
       "surface": "בידו",
-      "english": "en su mano"
+      "gloss": "en su mano"
     }
-  ],
-  "timestamp": "2026-06-10T05:35:52.009126776Z",
-  "model": "glm-4.5"
+  ]
 }

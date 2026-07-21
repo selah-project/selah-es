@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 10:9",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 542,
-    "prompt_tokens": 60000,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60542
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:18:47.399163489Z",
   "translation": "El que camina en integridad camina con seguridad, pero el que pervierte sus caminos será conocido.",
   "tokens": [
     {
       "surface": "הולך",
-      "english": "El que camina"
+      "gloss": "El que camina"
     },
     {
       "surface": "בתם",
-      "english": "en integridad"
+      "gloss": "en integridad"
     },
     {
       "surface": "ילך",
-      "english": "camina"
+      "gloss": "camina"
     },
     {
       "surface": "בטח",
-      "english": "con seguridad"
+      "gloss": "con seguridad"
     },
     {
       "surface": "ומעקש",
-      "english": "pero el que pervierte"
+      "gloss": "pero el que pervierte"
     },
     {
       "surface": "דרכיו",
-      "english": "sus caminos"
+      "gloss": "sus caminos"
     },
     {
       "surface": "יודע",
-      "english": "será conocido"
+      "gloss": "será conocido"
     }
-  ],
-  "timestamp": "2026-07-16T23:18:47.399163489Z",
-  "model": "glm-4.5"
+  ]
 }

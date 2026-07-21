@@ -1,9 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "2-chronicles 29:35",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 29,
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:32:46.959165808Z",
+  "translation": "Y también ⟨el⟩ Olá fue abundante, con ⟨la⟩ grosura de ⟨las⟩ ofrendas de bienestar y ⟨los⟩ libaciones para ⟨el⟩ Olá; y ⟨la⟩ obra de ⟨la⟩ casa de YHWH quedó ⟨את⟩establecida",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Y también"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "⟨el⟩ Olá"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "fue abundante"
+    },
+    {
+      "surface": "בחלבי",
+      "gloss": "con ⟨la⟩ grosura de"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "⟨las⟩ ofrendas de bienestar"
+    },
+    {
+      "surface": "ובנסכים",
+      "gloss": "y ⟨los⟩ libaciones para"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "⟨el⟩ holocausto"
+    },
+    {
+      "surface": "ותכון",
+      "gloss": "quedó"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "⟨la⟩ obra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de ⟨la⟩ casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH",
+      "marks": "la casa de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "holocausto",
@@ -13,69 +65,6 @@
       "hebrew": "עלה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 756,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58152,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58908
-  },
-  "translation": "Y también ⟨el⟩ Olá fue abundante, con ⟨la⟩ grosura de ⟨las⟩ ofrendas de bienestar y ⟨los⟩ libaciones para ⟨el⟩ Olá; y ⟨la⟩ obra de ⟨la⟩ casa de YHWH quedó ⟨את⟩establecida",
-  "tokens": [
-    {
-      "surface": "וגם",
-      "english": "Y también"
-    },
-    {
-      "surface": "עלה",
-      "english": "⟨el⟩ Olá"
-    },
-    {
-      "surface": "לרב",
-      "english": "fue abundante"
-    },
-    {
-      "surface": "בחלבי",
-      "english": "con ⟨la⟩ grosura de"
-    },
-    {
-      "surface": "השלמים",
-      "english": "⟨las⟩ ofrendas de bienestar"
-    },
-    {
-      "surface": "ובנסכים",
-      "english": "y ⟨los⟩ libaciones para"
-    },
-    {
-      "surface": "לעלה",
-      "english": "⟨el⟩ holocausto"
-    },
-    {
-      "surface": "ותכון",
-      "english": "quedó"
-    },
-    {
-      "surface": "עבודת",
-      "english": "⟨la⟩ obra"
-    },
-    {
-      "surface": "בית",
-      "english": "de ⟨la⟩ casa"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH",
-      "marks": "la casa de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:32:46.959165808Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "leviticus 25:3",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 24994,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25368
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:45:28.623048115Z",
   "translation": "Seis años ⟨tú⟩ sembrarás tu campo, y seis años ⟨tú⟩ podarás tu viña, y recogerás ⟨את⟩ su producto",
   "tokens": [
     {
       "surface": "שש",
-      "english": "Seis"
+      "gloss": "Seis"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "תזרע",
-      "english": "⟨tú⟩ sembrarás"
+      "gloss": "⟨tú⟩ sembrarás"
     },
     {
       "surface": "שדך",
-      "english": "tu campo"
+      "gloss": "tu campo"
     },
     {
       "surface": "ושש",
-      "english": "y seis"
+      "gloss": "y seis"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "תזמר",
-      "english": "⟨tú⟩ podarás"
+      "gloss": "⟨tú⟩ podarás"
     },
     {
       "surface": "כרמך",
-      "english": "tu viña"
+      "gloss": "tu viña"
     },
     {
       "surface": "ואספת",
-      "english": "y recogerás"
+      "gloss": "y recogerás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su producto"
     },
     {
       "surface": "תבואתה",
-      "english": "su producto"
+      "gloss": "su producto"
     }
-  ],
-  "timestamp": "2026-07-16T22:45:28.623048115Z",
-  "model": "glm-4.5"
+  ]
 }

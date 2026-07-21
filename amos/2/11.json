@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "amos 2:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 2,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:01:21.008038320Z",
+  "translation": "Y ⟨is⟩ de entre vuestros hijos ⟨los⟩ levanté ⟨como⟩ profetas y de entre vuestros jóvenes ⟨como⟩ nazareos ¿⟨o⟩ ⟨no⟩ ⟨es⟩ ⟨así⟩? hijos de Yisrael — oráculo de YHWH",
+  "tokens": [
+    {
+      "surface": "ואקים",
+      "gloss": "Y ⟨is⟩"
+    },
+    {
+      "surface": "מבניכם",
+      "gloss": "de entre vuestros hijos ⟨los⟩"
+    },
+    {
+      "surface": "לנביאים",
+      "gloss": "⟨como⟩ profetas"
+    },
+    {
+      "surface": "ומבחוריכם",
+      "gloss": "y de entre vuestros jóvenes ⟨como⟩"
+    },
+    {
+      "surface": "לנזרים",
+      "gloss": "nazareos"
+    },
+    {
+      "surface": "האף",
+      "gloss": "¿⟨o⟩ ⟨no⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨es⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨así⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "— oráculo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16572,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 17095
-  },
-  "translation": "Y ⟨is⟩ de entre vuestros hijos ⟨los⟩ levanté ⟨como⟩ profetas y de entre vuestros jóvenes ⟨como⟩ nazareos ¿⟨o⟩ ⟨no⟩ ⟨es⟩ ⟨así⟩? hijos de Yisrael — oráculo de YHWH",
-  "tokens": [
-    {
-      "surface": "ואקים",
-      "english": "Y ⟨is⟩"
-    },
-    {
-      "surface": "מבניכם",
-      "english": "de entre vuestros hijos ⟨los⟩"
-    },
-    {
-      "surface": "לנביאים",
-      "english": "⟨como⟩ profetas"
-    },
-    {
-      "surface": "ומבחוריכם",
-      "english": "y de entre vuestros jóvenes ⟨como⟩"
-    },
-    {
-      "surface": "לנזרים",
-      "english": "nazareos"
-    },
-    {
-      "surface": "האף",
-      "english": "¿⟨o⟩ ⟨no⟩"
-    },
-    {
-      "surface": "אין",
-      "english": "⟨es⟩"
-    },
-    {
-      "surface": "זאת",
-      "english": "⟨así⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "נאם",
-      "english": "— oráculo"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:01:21.008038320Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

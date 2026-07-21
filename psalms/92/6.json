@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 92:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69904,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70336
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:58.907277698Z",
   "translation": "¿Qué ⟨son⟩ tan grandes tus obras, ⟨oh⟩ YHWH? ⟨Son⟩ muy profundas tus meditaciones.",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¿Qué",
+      "gloss": "¿Qué",
       "marks": ""
     },
     {
       "surface": "גדלו",
-      "english": "⟨son⟩ tan grandes",
+      "gloss": "⟨son⟩ tan grandes",
       "marks": "tus obras"
     },
     {
       "surface": "מעשיך",
-      "english": "tus obras",
+      "gloss": "tus obras",
       "marks": ""
     },
     {
       "surface": "יהוה",
-      "english": "⟨oh⟩ YHWH",
+      "gloss": "⟨oh⟩ YHWH",
       "marks": ""
     },
     {
       "surface": "מאד",
-      "english": "⟨Son⟩ muy",
+      "gloss": "⟨Son⟩ muy",
       "marks": "profundas"
     },
     {
       "surface": "עמקו",
-      "english": "profundas",
+      "gloss": "profundas",
       "marks": ""
     },
     {
       "surface": "מחשבתיך",
-      "english": "tus meditaciones",
+      "gloss": "tus meditaciones",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:44:58.907277698Z",
-  "model": "glm-4.5"
+  ]
 }

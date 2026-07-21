@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "jeremiah 48:10",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 517,
-    "prompt_tokens": 24686,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25203
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:52:54.925005282Z",
   "translation": "Maldito ⟨el que hace⟩ ⟨את⟩ la obra de YHWH ⟨con⟩ remisión, y maldito ⟨el que⟩ ⟨את⟩ detiene su espada de sangre.",
   "tokens": [
     {
       "surface": "ארור",
-      "english": "Maldito"
+      "gloss": "Maldito"
     },
     {
       "surface": "עשה",
-      "english": "⟨el que hace⟩"
+      "gloss": "⟨el que hace⟩"
     },
     {
       "surface": "מלאכת",
-      "english": "la obra de"
+      "gloss": "la obra de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "רמיה",
-      "english": "remisión"
+      "gloss": "remisión"
     },
     {
       "surface": "וארור",
-      "english": "y maldito"
+      "gloss": "y maldito"
     },
     {
       "surface": "מנע",
-      "english": "⟨el que⟩"
+      "gloss": "⟨el que⟩"
     },
     {
       "surface": "חרבו",
-      "english": "detiene su espada"
+      "gloss": "detiene su espada"
     },
     {
       "surface": "מדם",
-      "english": "de sangre",
+      "gloss": "de sangre",
       "marks": "detiene su espada"
     }
-  ],
-  "timestamp": "2026-07-16T21:52:54.925005282Z",
-  "model": "glm-4.5"
+  ]
 }

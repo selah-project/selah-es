@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 83:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69765,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70167
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:39.369404995Z",
   "translation": "Eloim, haz que ⟨ellos sean⟩ como ⟨el⟩ tamo delante del viento; como ⟨el⟩ rastro delante del ⟨את⟩aliento",
   "tokens": [
     {
       "surface": "אלהי",
-      "english": "Eloim"
+      "gloss": "Eloim"
     },
     {
       "surface": "שיתמו",
-      "english": "haz que ⟨ellos sean⟩"
+      "gloss": "haz que ⟨ellos sean⟩"
     },
     {
       "surface": "כגלגל",
-      "english": "como ⟨el⟩ tamo"
+      "gloss": "como ⟨el⟩ tamo"
     },
     {
       "surface": "כקש",
-      "english": "como ⟨el⟩ rastro"
+      "gloss": "como ⟨el⟩ rastro"
     },
     {
       "surface": "לפני",
-      "english": "delante de"
+      "gloss": "delante de"
     },
     {
       "surface": "רוח",
-      "english": "⟨el⟩ aliento"
+      "gloss": "⟨el⟩ aliento"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:39.369404995Z",
-  "model": "glm-4.5"
+  ]
 }

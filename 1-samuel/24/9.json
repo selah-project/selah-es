@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-samuel 24:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 24,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:08:41.239018838Z",
+  "translation": "Y se levantó Davidd después ⟨de eso⟩ y salió de ⟨la⟩ cueva y llamó después de Shaúl, diciendo: 'Adonai ⟨el⟩ rey.' Y miró Shaúl detrás ⟨de él⟩ y Davidd se inclinó ⟨con su⟩ rostro ⟨hacia la⟩ tierra y se postró.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Y se levantó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "después"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨de eso⟩"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "y salió"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "⟨la⟩ cueva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "y llamó"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "después de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo:"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "'Adonai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨el⟩ rey.'"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "Y miró"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "detrás ⟨de él⟩"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "y David se inclinó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨con su⟩ rostro"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨hacia la⟩ tierra"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "y se postró"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -34,108 +125,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 720,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17271,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17991
-  },
-  "translation": "Y se levantó Davidd después ⟨de eso⟩ y salió de ⟨la⟩ cueva y llamó después de Shaúl, diciendo: 'Adonai ⟨el⟩ rey.' Y miró Shaúl detrás ⟨de él⟩ y Davidd se inclinó ⟨con su⟩ rostro ⟨hacia la⟩ tierra y se postró.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Y se levantó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אחרי",
-      "english": "después"
-    },
-    {
-      "surface": "כן",
-      "english": "⟨de eso⟩"
-    },
-    {
-      "surface": "ויצא",
-      "english": "y salió"
-    },
-    {
-      "surface": "מן",
-      "english": "de"
-    },
-    {
-      "surface": "המערה",
-      "english": "⟨la⟩ cueva"
-    },
-    {
-      "surface": "ויקרא",
-      "english": "y llamó"
-    },
-    {
-      "surface": "אחרי",
-      "english": "después de"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo:"
-    },
-    {
-      "surface": "אדני",
-      "english": "'Adonai"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨el⟩ rey.'"
-    },
-    {
-      "surface": "ויבט",
-      "english": "Y miró"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "אחריו",
-      "english": "detrás ⟨de él⟩"
-    },
-    {
-      "surface": "ויקד",
-      "english": "y David se inclinó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אפים",
-      "english": "⟨con su⟩ rostro"
-    },
-    {
-      "surface": "ארצה",
-      "english": "⟨hacia la⟩ tierra"
-    },
-    {
-      "surface": "וישתחו",
-      "english": "y se postró"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:08:41.239018838Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

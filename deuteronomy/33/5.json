@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "deuteronomy 33:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 33,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:30:42.330876493Z",
+  "translation": "Y fue rey en Yesurun ⟨al⟩ congregar ⟨los⟩ jefes ⟨del⟩ pueblo ⟨junto con⟩ las tribus ⟨de⟩ Yisrael",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y fue"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "en Yesurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "⟨al⟩ congregar"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "⟨los⟩ jefes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨del⟩ pueblo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨junto con⟩"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "⟨las⟩ tribus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 33,
-  "usage": {
-    "completion_tokens": 577,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17409,
-    "prompt_tokens_details": {
-      "cached_tokens": 16232
-    },
-    "total_tokens": 17986
-  },
-  "translation": "Y fue rey en Yesurun ⟨al⟩ congregar ⟨los⟩ jefes ⟨del⟩ pueblo ⟨junto con⟩ las tribus ⟨de⟩ Yisrael",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y fue"
-    },
-    {
-      "surface": "בישרון",
-      "english": "en Yesurun"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "בהתאסף",
-      "english": "⟨al⟩ congregar"
-    },
-    {
-      "surface": "ראשי",
-      "english": "⟨los⟩ jefes"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨del⟩ pueblo"
-    },
-    {
-      "surface": "יחד",
-      "english": "⟨junto con⟩"
-    },
-    {
-      "surface": "שבטי",
-      "english": "⟨las⟩ tribus"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:30:42.330876493Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

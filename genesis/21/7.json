@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "genesis 21:7",
   "book": "genesis",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28671,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29146
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:17:49.377746166Z",
   "translation": "Y ella dijo, ¿Quién ⟨diría⟩ a Abraham que Sara dé de mamar ⟨a⟩ hijos? porque ⟨he⟩ engendrado ⟨un⟩ hijo en ⟨su⟩ vejez.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "Y ella dijo"
+      "gloss": "Y ella dijo"
     },
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "מלל",
-      "english": "⟨diría⟩"
+      "gloss": "⟨diría⟩"
     },
     {
       "surface": "לאברהם",
-      "english": "a Abraham"
+      "gloss": "a Abraham"
     },
     {
       "surface": "היניקה",
-      "english": "que Sara dé de mamar"
+      "gloss": "que Sara dé de mamar"
     },
     {
       "surface": "בנים",
-      "english": "⟨a⟩ hijos"
+      "gloss": "⟨a⟩ hijos"
     },
     {
       "surface": "שרה",
-      "english": "Sara"
+      "gloss": "Sara"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "ילדתי",
-      "english": "⟨he⟩ engendrado"
+      "gloss": "⟨he⟩ engendrado"
     },
     {
       "surface": "בן",
-      "english": "⟨un⟩ hijo"
+      "gloss": "⟨un⟩ hijo"
     },
     {
       "surface": "לזקניו",
-      "english": "en ⟨su⟩ vejez"
+      "gloss": "en ⟨su⟩ vejez"
     }
-  ],
-  "timestamp": "2026-06-10T05:17:49.377746166Z",
-  "model": "glm-4.5"
+  ]
 }

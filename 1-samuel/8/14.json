@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-samuel 8:14",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 516,
-    "prompt_tokens": 23890,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24406
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:37:01.041014594Z",
   "translation": "y ⟨את⟩ vuestros campos, y ⟨את⟩ vuestras viñas y ⟨es⟩ vuestros olivos ⟨los⟩ mejores, tomará y dará a sus siervos",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "vuestros campos"
     },
     {
       "surface": "שדותיכם",
-      "english": "vuestros campos"
+      "gloss": "vuestros campos"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "vuestras viñas"
     },
     {
       "surface": "כרמיכם",
-      "english": "vuestras viñas"
+      "gloss": "vuestras viñas"
     },
     {
       "surface": "וזיתיכם",
-      "english": "y ⟨es⟩ vuestros olivos"
+      "gloss": "y ⟨es⟩ vuestros olivos"
     },
     {
       "surface": "הטובים",
-      "english": "⟨los⟩ mejores"
+      "gloss": "⟨los⟩ mejores"
     },
     {
       "surface": "יקח",
-      "english": "tomará"
+      "gloss": "tomará"
     },
     {
       "surface": "ונתן",
-      "english": "y dará"
+      "gloss": "y dará"
     },
     {
       "surface": "לעבדיו",
-      "english": "a sus siervos"
+      "gloss": "a sus siervos"
     }
-  ],
-  "timestamp": "2026-07-16T18:37:01.041014594Z",
-  "model": "glm-4.5"
+  ]
 }

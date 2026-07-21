@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 9:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 574,
-    "prompt_tokens": 70333,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70907
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:57.310269903Z",
   "translation": "Porque el que busca sangre, ⟨los⟩ recuerda; no ⟨ha⟩ olvidado ⟨el⟩ clamor de los humildes.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "דרש",
-      "english": "busca"
+      "gloss": "busca"
     },
     {
       "surface": "דמים",
-      "english": "sangre"
+      "gloss": "sangre"
     },
     {
       "surface": "אותם",
-      "english": "⟨los⟩",
+      "gloss": "⟨los⟩",
       "marks": "recuerda"
     },
     {
       "surface": "זכר",
-      "english": "recuerda"
+      "gloss": "recuerda"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "שכח",
-      "english": "⟨ha⟩ olvidado"
+      "gloss": "⟨ha⟩ olvidado"
     },
     {
       "surface": "צעקת",
-      "english": "⟨el⟩ clamor"
+      "gloss": "⟨el⟩ clamor"
     },
     {
       "surface": "עניים",
-      "english": "de los humildes"
+      "gloss": "de los humildes"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:57.310269903Z",
-  "model": "glm-4.5"
+  ]
 }

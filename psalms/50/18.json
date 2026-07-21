@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 50:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69973,
-    "prompt_tokens_details": {
-      "cached_tokens": 5
-    },
-    "total_tokens": 70365
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:22:35.901724326Z",
   "translation": "Si tú ⟨viste⟩ ⟨un⟩ ladrón, ⟨y⟩ corriste con él, ⟨y⟩ con ⟨los⟩ adúlteros ⟨es⟩ tu porción",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "ראית",
-      "english": "tú ⟨viste⟩"
+      "gloss": "tú ⟨viste⟩"
     },
     {
       "surface": "גנב",
-      "english": "⟨un⟩ ladrón"
+      "gloss": "⟨un⟩ ladrón"
     },
     {
       "surface": "ותרץ",
-      "english": "⟨y⟩ corriste"
+      "gloss": "⟨y⟩ corriste"
     },
     {
       "surface": "עמו",
-      "english": "con él"
+      "gloss": "con él"
     },
     {
       "surface": "ועם",
-      "english": "⟨y⟩ con"
+      "gloss": "⟨y⟩ con"
     },
     {
       "surface": "מנאפים",
-      "english": "⟨los⟩ adúlteros"
+      "gloss": "⟨los⟩ adúlteros"
     },
     {
       "surface": "חלקך",
-      "english": "⟨es⟩ tu porción"
+      "gloss": "⟨es⟩ tu porción"
     }
-  ],
-  "timestamp": "2026-06-09T23:22:35.901724326Z",
-  "model": "glm-4.5"
+  ]
 }

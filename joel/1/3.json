@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "joel 1:3",
   "book": "joel",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23391,
-    "prompt_tokens_details": {
-      "cached_tokens": 22278
-    },
-    "total_tokens": 23808
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:27:08.797034306Z",
   "translation": "De esto ⟨hablad⟩ a vuestros hijos, y vuestros hijos ⟨hablen⟩ a sus hijos, y sus hijos ⟨hablen⟩ ⟨a⟩ ⟨la⟩ generación siguiente.",
   "tokens": [
     {
       "surface": "עליה",
-      "english": "De esto"
+      "gloss": "De esto"
     },
     {
       "surface": "לבניכם",
-      "english": "a vuestros hijos"
+      "gloss": "a vuestros hijos"
     },
     {
       "surface": "ספרו",
-      "english": "⟨hablad⟩"
+      "gloss": "⟨hablad⟩"
     },
     {
       "surface": "ובניכם",
-      "english": "y vuestros hijos"
+      "gloss": "y vuestros hijos"
     },
     {
       "surface": "לבניהם",
-      "english": "⟨hablen⟩"
+      "gloss": "⟨hablen⟩"
     },
     {
       "surface": "ובניהם",
-      "english": "y sus hijos"
+      "gloss": "y sus hijos"
     },
     {
       "surface": "לדור",
-      "english": "⟨a⟩ ⟨la⟩ generación"
+      "gloss": "⟨a⟩ ⟨la⟩ generación"
     },
     {
       "surface": "אחר",
-      "english": "siguiente"
+      "gloss": "siguiente"
     }
-  ],
-  "timestamp": "2026-06-10T00:27:08.797034306Z",
-  "model": "glm-4.5"
+  ]
 }

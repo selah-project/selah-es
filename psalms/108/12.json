@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 108:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69885,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70259
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:58.716128041Z",
   "translation": "¿⟨has⟩ rechazado tú, Elohim, ⟨a⟩ nosotros, y no saldrá Elohim con nuestros ejércitos?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "¿⟨Has⟩"
+      "gloss": "¿⟨Has⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "זנחתנו",
-      "english": "rechazado tú, ⟨a⟩ nosotros"
+      "gloss": "rechazado tú, ⟨a⟩ nosotros"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "תצא",
-      "english": "saldrá"
+      "gloss": "saldrá"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בצבאתינו",
-      "english": "con nuestros ejércitos"
+      "gloss": "con nuestros ejércitos"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:58.716128041Z",
-  "model": "glm-4.5"
+  ]
 }

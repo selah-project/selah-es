@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "jeremiah 29:15",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 410,
-    "prompt_tokens": 24478,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24888
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:44:28.788002441Z",
   "translation": "Porque habéis dicho: YHWH ha suscitado para nosotros profetas en Bavel.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אמרתם",
-      "english": "habéis dicho"
+      "gloss": "habéis dicho"
     },
     {
       "surface": "הקים",
-      "english": "ha suscitado"
+      "gloss": "ha suscitado"
     },
     {
       "surface": "לנו",
-      "english": "para nosotros"
+      "gloss": "para nosotros"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "נבאים",
-      "english": "profetas"
+      "gloss": "profetas"
     },
     {
       "surface": "בבלה",
-      "english": "en Bavel"
+      "gloss": "en Bavel"
     }
-  ],
-  "timestamp": "2026-07-16T21:44:28.788002441Z",
-  "model": "glm-4.5"
+  ]
 }

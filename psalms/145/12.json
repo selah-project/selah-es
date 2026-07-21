@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 145:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 523,
-    "prompt_tokens": 69941,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70464
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:05.077351029Z",
   "translation": "para dar a conocer a los hijos de Adam sus poderosas obras, y la majestuosidad gloriosa de su reino",
   "tokens": [
     {
       "surface": "להודיע",
-      "english": "para dar a conocer"
+      "gloss": "para dar a conocer"
     },
     {
       "surface": "לבני",
-      "english": "a los hijos de"
+      "gloss": "a los hijos de"
     },
     {
       "surface": "האדם",
-      "english": "Adam"
+      "gloss": "Adam"
     },
     {
       "surface": "גבורתיו",
-      "english": "sus poderosas obras"
+      "gloss": "sus poderosas obras"
     },
     {
       "surface": "וכבוד",
-      "english": "y la majestuosidad"
+      "gloss": "y la majestuosidad"
     },
     {
       "surface": "הדר",
-      "english": "gloriosa"
+      "gloss": "gloriosa"
     },
     {
       "surface": "מלכותו",
-      "english": "de su reino"
+      "gloss": "de su reino"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:05.077351029Z",
-  "model": "glm-4.5"
+  ]
 }

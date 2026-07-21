@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 30:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69942,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70324
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:10:51.148777481Z",
   "translation": "Para que mi gloria ⟨te⟩ alabe con música y no ⟨se⟩ calle; YHWH mi Elohim, para siempre ⟨te⟩ daré gracias.",
   "tokens": [
     {
       "surface": "למען",
-      "english": "Para que"
+      "gloss": "Para que"
     },
     {
       "surface": "יזמרך",
-      "english": "mi gloria ⟨te⟩ alabe con música"
+      "gloss": "mi gloria ⟨te⟩ alabe con música"
     },
     {
       "surface": "כבוד",
-      "english": "mi gloria"
+      "gloss": "mi gloria"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "ידם",
-      "english": "⟨se⟩ calle"
+      "gloss": "⟨se⟩ calle"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "mi Elohim"
+      "gloss": "mi Elohim"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "אודך",
-      "english": "⟨te⟩ daré gracias"
+      "gloss": "⟨te⟩ daré gracias"
     }
-  ],
-  "timestamp": "2026-06-09T23:10:51.148777481Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 2:10",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 2,
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:08:58.730623691Z",
+  "translation": "⟨El⟩ estandarte ⟨de⟩ ⟨el⟩ campamento ⟨de⟩ Reuvén ⟨estará⟩ hacia el sur por sus ejércitos; ⟨y⟩ ⟨el⟩ príncipe ⟨de⟩ ⟨los⟩ hijos ⟨de⟩ Reuvén ⟨es⟩ Elitsur ⟨hijo⟩ ⟨de⟩ Shedejur",
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "Estandarte"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "campamento"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvén"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "hacia el sur"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "por sus ejércitos"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "príncipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "de los hijos"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvén"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedejur"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Rubén",
@@ -20,68 +71,6 @@
       "hebrew": "ראובן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 580,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18049,
-    "prompt_tokens_details": {
-      "cached_tokens": 16652
-    },
-    "total_tokens": 18629
-  },
-  "translation": "⟨El⟩ estandarte ⟨de⟩ ⟨el⟩ campamento ⟨de⟩ Reuvén ⟨estará⟩ hacia el sur por sus ejércitos; ⟨y⟩ ⟨el⟩ príncipe ⟨de⟩ ⟨los⟩ hijos ⟨de⟩ Reuvén ⟨es⟩ Elitsur ⟨hijo⟩ ⟨de⟩ Shedejur",
-  "tokens": [
-    {
-      "surface": "דגל",
-      "english": "Estandarte"
-    },
-    {
-      "surface": "מחנה",
-      "english": "campamento"
-    },
-    {
-      "surface": "ראובן",
-      "english": "Reuvén"
-    },
-    {
-      "surface": "תימנה",
-      "english": "hacia el sur"
-    },
-    {
-      "surface": "לצבאתם",
-      "english": "por sus ejércitos"
-    },
-    {
-      "surface": "ונשיא",
-      "english": "príncipe"
-    },
-    {
-      "surface": "לבני",
-      "english": "de los hijos"
-    },
-    {
-      "surface": "ראובן",
-      "english": "Reuvén"
-    },
-    {
-      "surface": "אליצור",
-      "english": "Elitsur"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "שדיאור",
-      "english": "Shedejur"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:08:58.730623691Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

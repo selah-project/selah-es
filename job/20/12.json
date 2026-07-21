@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 20:12",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27045,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27406
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:04:12.030276598Z",
   "translation": "Si dulcifica ⟨el⟩ mal en su boca, ⟨lo⟩ oculta ⟨el⟩ mal ⟨bajo⟩ su lengua;",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "תמתיק",
-      "english": "dulcifica"
+      "gloss": "dulcifica"
     },
     {
       "surface": "בפיו",
-      "english": "⟨el⟩ mal",
+      "gloss": "⟨el⟩ mal",
       "marks": "mal"
     },
     {
       "surface": "רעה",
-      "english": "⟨el⟩ mal"
+      "gloss": "⟨el⟩ mal"
     },
     {
       "surface": "יכחידנה",
-      "english": "⟨lo⟩ oculta",
+      "gloss": "⟨lo⟩ oculta",
       "marks": "mal"
     },
     {
       "surface": "תחת",
-      "english": "⟨bajo⟩"
+      "gloss": "⟨bajo⟩"
     },
     {
       "surface": "לשונו",
-      "english": "su lengua"
+      "gloss": "su lengua"
     }
-  ],
-  "timestamp": "2026-06-10T02:04:12.030276598Z",
-  "model": "glm-4.5"
+  ]
 }

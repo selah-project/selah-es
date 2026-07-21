@@ -1,9 +1,88 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-kings 16:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 16,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:36:45.666061184Z",
+  "translation": "Entonces Rezin rey de Aram y Pécaj hijo de Remalías rey de Yisrael subieron a Yerushalayim ⟨para la⟩ guerra; ⟨y⟩ sitiaron a Ajaz, pero no pudieron ⟨prevalecer en⟩ ⟨el⟩ combate.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Entonces"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "subieron"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Rezin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "de Aram"
+    },
+    {
+      "surface": "ופקח",
+      "gloss": "y Pécaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "de Remalías"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayim"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "para la guerra"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "y sitiaron"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pero no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "pudieron"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "prevalecer en el combate"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,96 +99,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17450,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17992
-  },
-  "translation": "Entonces Rezin rey de Aram y Pécaj hijo de Remalías rey de Yisrael subieron a Yerushalayim ⟨para la⟩ guerra; ⟨y⟩ sitiaron a Ajaz, pero no pudieron ⟨prevalecer en⟩ ⟨el⟩ combate.",
-  "tokens": [
-    {
-      "surface": "אז",
-      "english": "Entonces"
-    },
-    {
-      "surface": "יעלה",
-      "english": "subieron"
-    },
-    {
-      "surface": "רצין",
-      "english": "Rezin"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "ארם",
-      "english": "de Aram"
-    },
-    {
-      "surface": "ופקח",
-      "english": "y Pécaj"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "רמליהו",
-      "english": "de Remalías"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "a Yerushalayim"
-    },
-    {
-      "surface": "למלחמה",
-      "english": "para la guerra"
-    },
-    {
-      "surface": "ויצרו",
-      "english": "y sitiaron"
-    },
-    {
-      "surface": "על",
-      "english": "a"
-    },
-    {
-      "surface": "אחז",
-      "english": "Ajaz"
-    },
-    {
-      "surface": "ולא",
-      "english": "pero no"
-    },
-    {
-      "surface": "יכלו",
-      "english": "pudieron"
-    },
-    {
-      "surface": "להלחם",
-      "english": "prevalecer en el combate"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:36:45.666061184Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

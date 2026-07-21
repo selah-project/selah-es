@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "proverbs 2:15",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59728,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60078
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:28:45.345592268Z",
   "translation": "cuyos caminos ⟨son⟩ torcidos y ⟨son⟩ perversos en sus veredas",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Cuyos"
+      "gloss": "Cuyos"
     },
     {
       "surface": "ארחתיהם",
-      "english": "caminos"
+      "gloss": "caminos"
     },
     {
       "surface": "עקשים",
-      "english": "torcidos"
+      "gloss": "torcidos"
     },
     {
       "surface": "ונלוזים",
-      "english": "perversos"
+      "gloss": "perversos"
     },
     {
       "surface": "במעגלותם",
-      "english": "en sus veredas"
+      "gloss": "en sus veredas"
     }
-  ],
-  "timestamp": "2026-06-10T01:28:45.345592268Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "ezekiel 39:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 39,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:48:19.731912574Z",
+  "translation": "Y ⟨te⟩ haré ⟨volver⟩ atrás y ⟨te⟩ haré ⟨incitar⟩ y ⟨te⟩ haré ⟨subir⟩ de las partes del norte y ⟨te⟩ haré ⟨venir⟩ sobre los montes de Yisrael",
+  "tokens": [
+    {
+      "surface": "ושבבתיך",
+      "gloss": "Y ⟨te⟩ haré ⟨volver⟩"
+    },
+    {
+      "surface": "וששאתיך",
+      "gloss": "y ⟨te⟩ haré ⟨incitar⟩"
+    },
+    {
+      "surface": "והעליתיך",
+      "gloss": "y ⟨te⟩ haré ⟨subir⟩"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "de las partes"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "del norte"
+    },
+    {
+      "surface": "והבאותיך",
+      "gloss": "y ⟨te⟩ haré ⟨venir⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "los montes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,60 +56,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 39,
-  "usage": {
-    "completion_tokens": 681,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17335,
-    "prompt_tokens_details": {
-      "cached_tokens": 15965
-    },
-    "total_tokens": 18016
-  },
-  "translation": "Y ⟨te⟩ haré ⟨volver⟩ atrás y ⟨te⟩ haré ⟨incitar⟩ y ⟨te⟩ haré ⟨subir⟩ de las partes del norte y ⟨te⟩ haré ⟨venir⟩ sobre los montes de Yisrael",
-  "tokens": [
-    {
-      "surface": "ושבבתיך",
-      "english": "Y ⟨te⟩ haré ⟨volver⟩"
-    },
-    {
-      "surface": "וששאתיך",
-      "english": "y ⟨te⟩ haré ⟨incitar⟩"
-    },
-    {
-      "surface": "והעליתיך",
-      "english": "y ⟨te⟩ haré ⟨subir⟩"
-    },
-    {
-      "surface": "מירכתי",
-      "english": "de las partes"
-    },
-    {
-      "surface": "צפון",
-      "english": "del norte"
-    },
-    {
-      "surface": "והבאותיך",
-      "english": "y ⟨te⟩ haré ⟨venir⟩"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "הרי",
-      "english": "los montes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:48:19.731912574Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

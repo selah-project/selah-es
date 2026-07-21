@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 105:32",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69755,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70089
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:52:12.070625675Z",
   "translation": "dio ⟨a⟩ ellos granizo por lluvia, y llamas de fuego en ⟨su⟩ tierra",
   "tokens": [
     {
       "surface": "נתן",
-      "english": "Dio"
+      "gloss": "Dio"
     },
     {
       "surface": "גשמיהם",
-      "english": "lluvia",
+      "gloss": "lluvia",
       "marks": "por lluvia"
     },
     {
       "surface": "ברד",
-      "english": "granizo"
+      "gloss": "granizo"
     },
     {
       "surface": "אש",
-      "english": "fuego"
+      "gloss": "fuego"
     },
     {
       "surface": "להבות",
-      "english": "llamas de fuego"
+      "gloss": "llamas de fuego"
     },
     {
       "surface": "בארצם",
-      "english": "en ⟨su⟩ tierra",
+      "gloss": "en ⟨su⟩ tierra",
       "marks": "tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:52:12.070625675Z",
-  "model": "glm-4.5"
+  ]
 }

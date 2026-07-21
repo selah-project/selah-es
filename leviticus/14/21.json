@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "leviticus 14:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "leviticus",
+  "chapter": 14,
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:49:52.909712235Z",
+  "translation": "Y si ⟨es⟩ pobre, y su mano no alcanza, entonces tomará un cordero como ⟨una⟩ Asham para ⟨hacer⟩ ⟨la⟩ ofrenda mecida, para hacer expiación por ⟨él⟩, y ⟨una⟩ décima ⟨de⟩ flor de harina mezclada con aceite como ⟨una⟩ ofrenda de cereal, y ⟨un⟩ log de aceite.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Y si"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pobre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨es⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "y"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "su mano"
+    },
+    {
+      "surface": "משגת",
+      "gloss": "no alcanza"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "entonces tomará"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "un cordero"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "como ⟨una⟩"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "Asham"
+    },
+    {
+      "surface": "לתנופה",
+      "gloss": "para ⟨hacer⟩ ⟨la⟩ ofrenda mecida"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "para hacer expiación"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "por ⟨él⟩"
+    },
+    {
+      "surface": "ועשרון",
+      "gloss": "y ⟨una⟩ décima ⟨de⟩"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "flor de harina"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mezclada"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "con aceite"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "como ⟨una⟩"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "ofrenda de cereal"
+    },
+    {
+      "surface": "ולג",
+      "gloss": "y ⟨un⟩"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "log de aceite"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "ofrenda por la culpa",
@@ -13,108 +104,6 @@
       "hebrew": "אשם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 758,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18408,
-    "prompt_tokens_details": {
-      "cached_tokens": 16071
-    },
-    "total_tokens": 19166
-  },
-  "translation": "Y si ⟨es⟩ pobre, y su mano no alcanza, entonces tomará un cordero como ⟨una⟩ Asham para ⟨hacer⟩ ⟨la⟩ ofrenda mecida, para hacer expiación por ⟨él⟩, y ⟨una⟩ décima ⟨de⟩ flor de harina mezclada con aceite como ⟨una⟩ ofrenda de cereal, y ⟨un⟩ log de aceite.",
-  "tokens": [
-    {
-      "surface": "ואם",
-      "english": "Y si"
-    },
-    {
-      "surface": "דל",
-      "english": "pobre"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨es⟩"
-    },
-    {
-      "surface": "ואין",
-      "english": "y"
-    },
-    {
-      "surface": "ידו",
-      "english": "su mano"
-    },
-    {
-      "surface": "משגת",
-      "english": "no alcanza"
-    },
-    {
-      "surface": "ולקח",
-      "english": "entonces tomará"
-    },
-    {
-      "surface": "כבש",
-      "english": "un cordero"
-    },
-    {
-      "surface": "אחד",
-      "english": "como ⟨una⟩"
-    },
-    {
-      "surface": "אשם",
-      "english": "Asham"
-    },
-    {
-      "surface": "לתנופה",
-      "english": "para ⟨hacer⟩ ⟨la⟩ ofrenda mecida"
-    },
-    {
-      "surface": "לכפר",
-      "english": "para hacer expiación"
-    },
-    {
-      "surface": "עליו",
-      "english": "por ⟨él⟩"
-    },
-    {
-      "surface": "ועשרון",
-      "english": "y ⟨una⟩ décima ⟨de⟩"
-    },
-    {
-      "surface": "סלת",
-      "english": "flor de harina"
-    },
-    {
-      "surface": "אחד",
-      "english": "mezclada"
-    },
-    {
-      "surface": "בלול",
-      "english": "con aceite"
-    },
-    {
-      "surface": "בשמן",
-      "english": "como ⟨una⟩"
-    },
-    {
-      "surface": "למנחה",
-      "english": "ofrenda de cereal"
-    },
-    {
-      "surface": "ולג",
-      "english": "y ⟨un⟩"
-    },
-    {
-      "surface": "שמן",
-      "english": "log de aceite"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:49:52.909712235Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

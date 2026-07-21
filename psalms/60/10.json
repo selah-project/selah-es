@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 60:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70145,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70577
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:27:34.554573256Z",
   "translation": "Moab ⟨es⟩ mi vasija de lavado; sobre Edom ⟨estoy⟩ lanzando mi sandalia; sobre Filistia ⟨estoy⟩ gritando en victoria.",
   "tokens": [
     {
       "surface": "מואב",
-      "english": "Moab"
+      "gloss": "Moab"
     },
     {
       "surface": "סיר",
-      "english": "vasija de lavado"
+      "gloss": "vasija de lavado"
     },
     {
       "surface": "רחצי",
-      "english": "mi"
+      "gloss": "mi"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "אדום",
-      "english": "Edom"
+      "gloss": "Edom"
     },
     {
       "surface": "אשליך",
-      "english": "⟨estoy⟩ lanzando"
+      "gloss": "⟨estoy⟩ lanzando"
     },
     {
       "surface": "נעלי",
-      "english": "mi sandalia"
+      "gloss": "mi sandalia"
     },
     {
       "surface": "עלי",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פלשת",
-      "english": "Filistia"
+      "gloss": "Filistia"
     },
     {
       "surface": "התרעעי",
-      "english": "⟨estoy⟩ gritando en victoria"
+      "gloss": "⟨estoy⟩ gritando en victoria"
     }
-  ],
-  "timestamp": "2026-06-09T23:27:34.554573256Z",
-  "model": "glm-4.5"
+  ]
 }

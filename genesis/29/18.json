@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 29:18",
   "book": "genesis",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28702,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29153
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:26:45.530453237Z",
   "translation": "Y Jacob amó ⟨a⟩ Rachel y dijo: serviré ⟨a⟩ ti siete años por Rachel tu hija ⟨la⟩ menor",
   "tokens": [
     {
       "surface": "ויאהב",
-      "english": "Y Jacob amó"
+      "gloss": "Y Jacob amó"
     },
     {
       "surface": "יעקב",
-      "english": "Jacob"
+      "gloss": "Jacob"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Rachel"
     },
     {
       "surface": "רחל",
-      "english": "Rachel"
+      "gloss": "Rachel"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "אעבדך",
-      "english": "serviré ⟨a⟩ ti"
+      "gloss": "serviré ⟨a⟩ ti"
     },
     {
       "surface": "שבע",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "שנים",
-      "english": "años"
+      "gloss": "años"
     },
     {
       "surface": "ברחל",
-      "english": "por Rachel"
+      "gloss": "por Rachel"
     },
     {
       "surface": "בתך",
-      "english": "tu hija"
+      "gloss": "tu hija"
     },
     {
       "surface": "הקטנה",
-      "english": "⟨la⟩ menor"
+      "gloss": "⟨la⟩ menor"
     }
-  ],
-  "timestamp": "2026-06-10T05:26:45.530453237Z",
-  "model": "glm-4.5"
+  ]
 }

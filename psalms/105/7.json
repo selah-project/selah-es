@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 105:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69820,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70147
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:32.085088478Z",
   "translation": "Él es YHWH nuestro Elohim ⟨en⟩ toda ⟨la⟩ tierra ⟨son⟩ sus juicios",
   "tokens": [
     {
       "surface": "הוא",
-      "english": "Él"
+      "gloss": "Él"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהינו",
-      "english": "nuestro Elohim"
+      "gloss": "nuestro Elohim"
     },
     {
       "surface": "בכל",
-      "english": "⟨en⟩ toda",
+      "gloss": "⟨en⟩ toda",
       "marks": "⟨la⟩ tierra"
     },
     {
       "surface": "הארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "משפטיו",
-      "english": "⟨son⟩ sus juicios"
+      "gloss": "⟨son⟩ sus juicios"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:32.085088478Z",
-  "model": "glm-4.5"
+  ]
 }

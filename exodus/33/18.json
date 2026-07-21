@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "exodus 33:18",
   "book": "exodus",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 329,
-    "prompt_tokens": 23843,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24172
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:24:35.507167523Z",
   "translation": "Y dijo: Muéstrame, ⟨por favor⟩, ⟨את⟩ tu gloria.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "הראני",
-      "english": "Muéstrame"
+      "gloss": "Muéstrame"
     },
     {
       "surface": "נא",
-      "english": "⟨por favor⟩"
+      "gloss": "⟨por favor⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu gloria"
     },
     {
       "surface": "כבדך",
-      "english": "tu gloria"
+      "gloss": "tu gloria"
     }
-  ],
-  "timestamp": "2026-07-16T20:24:35.507167523Z",
-  "model": "glm-4.5"
+  ]
 }

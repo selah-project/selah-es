@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 32:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26082,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26470
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:40:26.984164854Z",
   "translation": "Sobre ⟨los⟩ pechos golpean ⟨sus⟩ pechos, sobre los campos de deseo, sobre ⟨la⟩ vid ⟨con⟩ su fruto",
   "tokens": [
     {
       "surface": "על",
-      "english": "Sobre"
+      "gloss": "Sobre"
     },
     {
       "surface": "שדים",
-      "english": "⟨los⟩ pechos"
+      "gloss": "⟨los⟩ pechos"
     },
     {
       "surface": "ספדים",
-      "english": "golpean ⟨sus⟩ pechos"
+      "gloss": "golpean ⟨sus⟩ pechos"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "שדי",
-      "english": "los campos"
+      "gloss": "los campos"
     },
     {
       "surface": "חמד",
-      "english": "de deseo"
+      "gloss": "de deseo"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "גפן",
-      "english": "⟨la⟩ vid"
+      "gloss": "⟨la⟩ vid"
     },
     {
       "surface": "פריה",
-      "english": "⟨con⟩ su fruto"
+      "gloss": "⟨con⟩ su fruto"
     }
-  ],
-  "timestamp": "2026-06-10T02:40:26.984164854Z",
-  "model": "glm-4.5"
+  ]
 }

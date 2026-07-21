@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "proverbs 22:26",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59749,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60238
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:45:35.673692297Z",
   "translation": "No ⟨estés⟩ entre ⟨los⟩ que golpean ⟨la⟩ mano, ni entre ⟨los⟩ que salen fiadores por ⟨las⟩ deudas",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תהי",
-      "english": "⟨estés⟩"
+      "gloss": "⟨estés⟩"
     },
     {
       "surface": "בתקעי",
-      "english": "entre ⟨los⟩ que golpean ⟨la⟩ mano"
+      "gloss": "entre ⟨los⟩ que golpean ⟨la⟩ mano"
     },
     {
       "surface": "כף",
-      "english": "mano"
+      "gloss": "mano"
     },
     {
       "surface": "בערבים",
-      "english": "ni entre ⟨los⟩ que salen fiadores por ⟨las⟩"
+      "gloss": "ni entre ⟨los⟩ que salen fiadores por ⟨las⟩"
     },
     {
       "surface": "משאות",
-      "english": "deudas"
+      "gloss": "deudas"
     }
-  ],
-  "timestamp": "2026-06-10T01:45:35.673692297Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 11:10",
   "book": "job",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27003,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27462
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:59:24.029653007Z",
   "translation": "Si ⟨el⟩ ⟨es⟩ que pasa, y ⟨el⟩ ⟨es⟩ que aprisiona, y ⟨el⟩ ⟨es⟩ que congrega, ¿quién ⟨lo⟩ ⟨hará⟩ retroceder?",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si",
+      "gloss": "Si",
       "marks": null
     },
     {
       "surface": "יחלף",
-      "english": "⟨el⟩ ⟨es⟩ que pasa",
+      "gloss": "⟨el⟩ ⟨es⟩ que pasa",
       "marks": null
     },
     {
       "surface": "ויסגיר",
-      "english": "y ⟨el⟩ ⟨es⟩ que aprisiona",
+      "gloss": "y ⟨el⟩ ⟨es⟩ que aprisiona",
       "marks": null
     },
     {
       "surface": "ויקהיל",
-      "english": "y ⟨el⟩ ⟨es⟩ que congrega",
+      "gloss": "y ⟨el⟩ ⟨es⟩ que congrega",
       "marks": null
     },
     {
       "surface": "ומי",
-      "english": "¿quién",
+      "gloss": "¿quién",
       "marks": null
     },
     {
       "surface": "ישיבנו",
-      "english": "⟨lo⟩ ⟨hará⟩ retroceder",
+      "gloss": "⟨lo⟩ ⟨hará⟩ retroceder",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-10T01:59:24.029653007Z",
-  "model": "glm-4.5"
+  ]
 }

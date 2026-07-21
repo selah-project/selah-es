@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 4:5",
   "book": "job",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27163,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27551
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:05.276548345Z",
   "translation": "כי עתה תבוא אליך ותלא תגע עדיך ותבהל",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "עתה",
-      "english": "ahora"
+      "gloss": "ahora"
     },
     {
       "surface": "תבוא",
-      "english": "viene"
+      "gloss": "viene"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "ותלא",
-      "english": "y estás"
+      "gloss": "y estás"
     },
     {
       "surface": "תגע",
-      "english": "⟨es⟩ herido"
+      "gloss": "⟨es⟩ herido"
     },
     {
       "surface": "עדיך",
-      "english": "hasta ti"
+      "gloss": "hasta ti"
     },
     {
       "surface": "ותבהל",
-      "english": "y ⟨estás⟩ espantado"
+      "gloss": "y ⟨estás⟩ espantado"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:05.276548345Z",
-  "model": "glm-4.5"
+  ]
 }

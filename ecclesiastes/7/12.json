@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "ecclesiastes 7:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 7,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:43:25.512186593Z",
+  "translation": "porque ⟨en⟩ sombra ⟨de⟩ la sabiduría ⟨y en⟩ sombra ⟨de⟩ la plata ⟨y⟩ ventaja ⟨de⟩ Daat ⟨de⟩ la sabiduría ⟨da⟩ vida ⟨a⟩ su dueño",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Porque"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "⟨en⟩ sombra"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "⟨de⟩ la sabiduría"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "⟨y en⟩ sombra"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "⟨de⟩ la plata"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "⟨y⟩ ventaja"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨de⟩ Daat"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "⟨de⟩ la sabiduría"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "⟨da⟩ vida"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "⟨a⟩ su dueño"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "conocimiento",
@@ -13,64 +60,6 @@
       "hebrew": "דעת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 641,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17262,
-    "prompt_tokens_details": {
-      "cached_tokens": 16040
-    },
-    "total_tokens": 17903
-  },
-  "translation": "porque ⟨en⟩ sombra ⟨de⟩ la sabiduría ⟨y en⟩ sombra ⟨de⟩ la plata ⟨y⟩ ventaja ⟨de⟩ Daat ⟨de⟩ la sabiduría ⟨da⟩ vida ⟨a⟩ su dueño",
-  "tokens": [
-    {
-      "surface": "כי",
-      "english": "Porque"
-    },
-    {
-      "surface": "בצל",
-      "english": "⟨en⟩ sombra"
-    },
-    {
-      "surface": "החכמה",
-      "english": "⟨de⟩ la sabiduría"
-    },
-    {
-      "surface": "בצל",
-      "english": "⟨y en⟩ sombra"
-    },
-    {
-      "surface": "הכסף",
-      "english": "⟨de⟩ la plata"
-    },
-    {
-      "surface": "ויתרון",
-      "english": "⟨y⟩ ventaja"
-    },
-    {
-      "surface": "דעת",
-      "english": "⟨de⟩ Daat"
-    },
-    {
-      "surface": "החכמה",
-      "english": "⟨de⟩ la sabiduría"
-    },
-    {
-      "surface": "תחיה",
-      "english": "⟨da⟩ vida"
-    },
-    {
-      "surface": "בעליה",
-      "english": "⟨a⟩ su dueño"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:43:25.512186593Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

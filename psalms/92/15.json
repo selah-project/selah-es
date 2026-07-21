@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 92:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 764,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69819,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70583
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:45:41.526303617Z",
   "translation": "⟨Todavía⟩ darán fruto ⟨en⟩ vejez ⟨estarán⟩ fértiles ⟨y⟩ frescos ⟨serán⟩",
   "tokens": [
     {
       "surface": "עוד",
-      "english": "⟨Todavía⟩",
+      "gloss": "⟨Todavía⟩",
       "marks": ""
     },
     {
       "surface": "ינובון",
-      "english": "darán fruto",
+      "gloss": "darán fruto",
       "marks": ""
     },
     {
       "surface": "בשיבה",
-      "english": "⟨en⟩ vejez",
+      "gloss": "⟨en⟩ vejez",
       "marks": ""
     },
     {
       "surface": "דשנים",
-      "english": "⟨estarán⟩ fértiles",
+      "gloss": "⟨estarán⟩ fértiles",
       "marks": ""
     },
     {
       "surface": "ורעננים",
-      "english": "⟨y⟩ frescos",
+      "gloss": "⟨y⟩ frescos",
       "marks": ""
     },
     {
       "surface": "יהיו",
-      "english": "⟨serán⟩",
+      "gloss": "⟨serán⟩",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T23:45:41.526303617Z",
-  "model": "glm-4.5"
+  ]
 }

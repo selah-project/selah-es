@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 39:22",
   "book": "job",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27086,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27524
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:17:24.531456784Z",
   "translation": "Él se ríe ⟨de⟩ ⟨el⟩ temor y no ⟨se⟩ quiebra y no ⟨se⟩ vuelve ⟨de⟩ ⟨la⟩ faz ⟨de⟩ ⟨la⟩ espada",
   "tokens": [
     {
       "surface": "ישחק",
-      "english": "Él se ríe"
+      "gloss": "Él se ríe"
     },
     {
       "surface": "לפחד",
-      "english": "⟨de⟩ ⟨el⟩ temor"
+      "gloss": "⟨de⟩ ⟨el⟩ temor"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יחת",
-      "english": "⟨se⟩ quiebra"
+      "gloss": "⟨se⟩ quiebra"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "ישוב",
-      "english": "⟨se⟩ vuelve"
+      "gloss": "⟨se⟩ vuelve"
     },
     {
       "surface": "מפני",
-      "english": "⟨de⟩ ⟨la⟩ faz ⟨de⟩"
+      "gloss": "⟨de⟩ ⟨la⟩ faz ⟨de⟩"
     },
     {
       "surface": "חרב",
-      "english": "⟨la⟩ espada"
+      "gloss": "⟨la⟩ espada"
     }
-  ],
-  "timestamp": "2026-06-10T02:17:24.531456784Z",
-  "model": "glm-4.5"
+  ]
 }

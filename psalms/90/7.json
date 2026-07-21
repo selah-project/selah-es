@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 90:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69779,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70063
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:16.662708540Z",
   "translation": "pues ⟨en⟩ tu furia somos consumidos, y ⟨en⟩ tu ira ⟨estamos⟩ aterrorizados",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Pues"
+      "gloss": "Pues"
     },
     {
       "surface": "כלינו",
-      "english": "somos consumidos"
+      "gloss": "somos consumidos"
     },
     {
       "surface": "באפך",
-      "english": "⟨en⟩ tu furia"
+      "gloss": "⟨en⟩ tu furia"
     },
     {
       "surface": "ובחמתך",
-      "english": "y ⟨en⟩ tu ira"
+      "gloss": "y ⟨en⟩ tu ira"
     },
     {
       "surface": "נבהלנו",
-      "english": "⟨estamos⟩ aterrorizados"
+      "gloss": "⟨estamos⟩ aterrorizados"
     }
-  ],
-  "timestamp": "2026-06-09T23:44:16.662708540Z",
-  "model": "glm-4.5"
+  ]
 }

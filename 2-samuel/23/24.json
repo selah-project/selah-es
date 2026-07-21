@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "2-samuel 23:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 23,
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:40:34.727360179Z",
+  "translation": "Asahel ⟨el⟩ hermano de Joab ⟨estaba entre⟩ los treinta; Elhanan hijo de Dodo ⟨de⟩ Bet-Léjem",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hermano"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "de Joab"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "⟨estaba entre⟩ los treinta"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elhanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "de Dodo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Léjem"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Belén",
@@ -13,64 +60,6 @@
       "hebrew": "בית־לחם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 23,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16985,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17405
-  },
-  "translation": "Asahel ⟨el⟩ hermano de Joab ⟨estaba entre⟩ los treinta; Elhanan hijo de Dodo ⟨de⟩ Bet-Léjem",
-  "tokens": [
-    {
-      "surface": "עשה",
-      "english": "Asahel"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨el⟩"
-    },
-    {
-      "surface": "אחי",
-      "english": "hermano"
-    },
-    {
-      "surface": "יואב",
-      "english": "de Joab"
-    },
-    {
-      "surface": "בשלשים",
-      "english": "⟨estaba entre⟩ los treinta"
-    },
-    {
-      "surface": "אלחנן",
-      "english": "Elhanan"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "דדו",
-      "english": "de Dodo"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "לחם",
-      "english": "Bet-Léjem"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:40:34.727360179Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

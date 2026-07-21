@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "jeremiah 23:23",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 471,
-    "prompt_tokens": 24472,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 24943
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:42:01.893123572Z",
   "translation": "¿Soy ⟨el⟩ Elohim cercano — declara YHWH — y no ⟨el⟩ Elohim lejano?",
   "tokens": [
     {
       "surface": "האלהי",
-      "english": "⟨el⟩ Elohim cercano"
+      "gloss": "⟨el⟩ Elohim cercano"
     },
     {
       "surface": "מקרב",
-      "english": "cercano"
+      "gloss": "cercano"
     },
     {
       "surface": "אני",
-      "english": "Soy"
+      "gloss": "Soy"
     },
     {
       "surface": "נאם",
-      "english": "declara"
+      "gloss": "declara"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "אלהי",
-      "english": "⟨el⟩ Elohim"
+      "gloss": "⟨el⟩ Elohim"
     },
     {
       "surface": "מרחק",
-      "english": "lejano"
+      "gloss": "lejano"
     }
-  ],
-  "timestamp": "2026-07-16T21:42:01.893123572Z",
-  "model": "glm-4.5"
+  ]
 }

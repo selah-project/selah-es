@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "jonah 2:11",
   "book": "jonah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 410,
-    "prompt_tokens": 26525,
-    "prompt_tokens_details": {
-      "cached_tokens": 25600
-    },
-    "total_tokens": 26935
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:06:06.605665027Z",
   "translation": "Y YHWH habló al gran pez, y este vomitó ⟨את⟩ a Yoná sobre la tierra seca.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y habló"
+      "gloss": "Y habló"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לדג",
-      "english": "al gran pez"
+      "gloss": "al gran pez"
     },
     {
       "surface": "ויקא",
-      "english": "y este vomitó"
+      "gloss": "y este vomitó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Yoná"
     },
     {
       "surface": "יונה",
-      "english": "a Yoná"
+      "gloss": "a Yoná"
     },
     {
       "surface": "אל",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "היבשה",
-      "english": "la tierra seca"
+      "gloss": "la tierra seca"
     }
-  ],
-  "timestamp": "2026-07-16T22:06:06.605665027Z",
-  "model": "glm-4.5"
+  ]
 }

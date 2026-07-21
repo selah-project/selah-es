@@ -1,9 +1,100 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-chronicles 13:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 13,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:12:57.750113683Z",
+  "translation": "Y ahora vosotros decís ⟨que⟩ ⟨sois⟩ para fortaleceros ante ⟨el⟩ reino de YHWH en ⟨la⟩ mano de ⟨los⟩ hijos de Davidd, y vosotros ⟨sois⟩ ⟨una⟩ multitud numerosa y con vosotros ⟨están⟩ ⟨los⟩ becerros de oro que hizo Yaravam para vosotros para dioses.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Y ahora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vosotros"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "decís"
+    },
+    {
+      "surface": "להתחזק",
+      "gloss": "para fortaleceros"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ante"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "⟨el⟩ reino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "en ⟨la⟩ mano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "y vosotros"
+    },
+    {
+      "surface": "המון",
+      "gloss": "⟨una⟩ multitud"
+    },
+    {
+      "surface": "רב",
+      "gloss": "numerosa"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "y con vosotros"
+    },
+    {
+      "surface": "עגלי",
+      "gloss": "⟨los⟩ becerros"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de oro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para vosotros"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "para dioses"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,108 +104,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 1054,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59032,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60086
-  },
-  "translation": "Y ahora vosotros decís ⟨que⟩ ⟨sois⟩ para fortaleceros ante ⟨el⟩ reino de YHWH en ⟨la⟩ mano de ⟨los⟩ hijos de Davidd, y vosotros ⟨sois⟩ ⟨una⟩ multitud numerosa y con vosotros ⟨están⟩ ⟨los⟩ becerros de oro que hizo Yaravam para vosotros para dioses.",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "english": "Y ahora"
-    },
-    {
-      "surface": "אתם",
-      "english": "vosotros"
-    },
-    {
-      "surface": "אמרים",
-      "english": "decís"
-    },
-    {
-      "surface": "להתחזק",
-      "english": "para fortaleceros"
-    },
-    {
-      "surface": "לפני",
-      "english": "ante"
-    },
-    {
-      "surface": "ממלכת",
-      "english": "⟨el⟩ reino"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "ביד",
-      "english": "en ⟨la⟩ mano"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ואתם",
-      "english": "y vosotros"
-    },
-    {
-      "surface": "המון",
-      "english": "⟨una⟩ multitud"
-    },
-    {
-      "surface": "רב",
-      "english": "numerosa"
-    },
-    {
-      "surface": "ועמכם",
-      "english": "y con vosotros"
-    },
-    {
-      "surface": "עגלי",
-      "english": "⟨los⟩ becerros"
-    },
-    {
-      "surface": "זהב",
-      "english": "de oro"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo"
-    },
-    {
-      "surface": "לכם",
-      "english": "para vosotros"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yaravam"
-    },
-    {
-      "surface": "לאלהים",
-      "english": "para dioses"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:12:57.750113683Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

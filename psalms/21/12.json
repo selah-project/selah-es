@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 21:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 474,
-    "prompt_tokens": 70083,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70557
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:44.357927806Z",
   "translation": "Porque se extendieron contra ti ⟨את⟩ el mal, diseñaron ⟨el⟩ plan, ⟨pero⟩ no podrán",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "נטו",
-      "english": "se extendieron"
+      "gloss": "se extendieron"
     },
     {
       "surface": "עליך",
-      "english": "contra ti"
+      "gloss": "contra ti"
     },
     {
       "surface": "רעה",
-      "english": "⟨את⟩ el mal",
+      "gloss": "⟨את⟩ el mal",
       "marks": "el mal"
     },
     {
       "surface": "חשבו",
-      "english": "diseñaron"
+      "gloss": "diseñaron"
     },
     {
       "surface": "מזמה",
-      "english": "⟨el⟩ plan"
+      "gloss": "⟨el⟩ plan"
     },
     {
       "surface": "בל",
-      "english": "⟨pero⟩ no"
+      "gloss": "⟨pero⟩ no"
     },
     {
       "surface": "יוכלו",
-      "english": "podrán"
+      "gloss": "podrán"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:44.357927806Z",
-  "model": "glm-4.5"
+  ]
 }

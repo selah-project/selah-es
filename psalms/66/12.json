@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 66:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 422,
-    "prompt_tokens": 70088,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70510
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:32:24.552206199Z",
   "translation": "Hiciste ⟨que⟩ el hombre cabalgara sobre nuestra cabeza; entramos en el fuego y en el agua, pero tú nos sacaste ⟨a⟩ la abundancia.",
   "tokens": [
     {
       "surface": "הרכבת",
-      "english": "Hiciste ⟨que⟩"
+      "gloss": "Hiciste ⟨que⟩"
     },
     {
       "surface": "אנוש",
-      "english": "el hombre"
+      "gloss": "el hombre"
     },
     {
       "surface": "לראשנו",
-      "english": "cabalgara sobre nuestra cabeza"
+      "gloss": "cabalgara sobre nuestra cabeza"
     },
     {
       "surface": "באנו",
-      "english": "entramos"
+      "gloss": "entramos"
     },
     {
       "surface": "באש",
-      "english": "en el fuego"
+      "gloss": "en el fuego"
     },
     {
       "surface": "ובמים",
-      "english": "y en el agua"
+      "gloss": "y en el agua"
     },
     {
       "surface": "ותוציאנו",
-      "english": "pero tú nos sacaste"
+      "gloss": "pero tú nos sacaste"
     },
     {
       "surface": "לרויה",
-      "english": "⟨a⟩ la abundancia"
+      "gloss": "⟨a⟩ la abundancia"
     }
-  ],
-  "timestamp": "2026-07-16T23:32:24.552206199Z",
-  "model": "glm-4.5"
+  ]
 }

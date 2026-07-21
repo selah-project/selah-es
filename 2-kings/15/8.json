@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-kings 15:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 15,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:35:39.213725197Z",
+  "translation": "En el año treinta y ocho de Azarías ⟨el⟩ rey de Yehudá, reinó Zekharyá hijo de Yarovám sobre Yisrael en Samaria seis meses",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "En el año"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "treinta"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "y ocho"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "año"
+    },
+    {
+      "surface": "לעזריהו",
+      "gloss": "de Azarías"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "de Yarovám"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "en Samaria"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "seis"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "meses"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Judá",
@@ -34,88 +105,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17301,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17722
-  },
-  "translation": "En el año treinta y ocho de Azarías ⟨el⟩ rey de Yehudá, reinó Zekharyá hijo de Yarovám sobre Yisrael en Samaria seis meses",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "En el año"
-    },
-    {
-      "surface": "שלשים",
-      "english": "treinta"
-    },
-    {
-      "surface": "ושמנה",
-      "english": "y ocho"
-    },
-    {
-      "surface": "שנה",
-      "english": "año"
-    },
-    {
-      "surface": "לעזריהו",
-      "english": "de Azarías"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    },
-    {
-      "surface": "זכריהו",
-      "english": "Zekharyá"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "de Yarovám"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בשמרון",
-      "english": "en Samaria"
-    },
-    {
-      "surface": "ששה",
-      "english": "seis"
-    },
-    {
-      "surface": "חדשים",
-      "english": "meses"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:35:39.213725197Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

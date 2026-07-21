@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 27:18",
   "book": "job",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26943,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27487
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:01.262829225Z",
   "translation": "⟨Él⟩ construye su casa ⟨como⟩ ⟨la⟩ polilla, y ⟨como⟩ una cabaña ⟨que⟩ hace ⟨el⟩ guardián.",
   "tokens": [
     {
       "surface": "בנה",
-      "english": "Construye"
+      "gloss": "Construye"
     },
     {
       "surface": "כעש",
-      "english": "⟨como⟩ ⟨la⟩ polilla"
+      "gloss": "⟨como⟩ ⟨la⟩ polilla"
     },
     {
       "surface": "ביתו",
-      "english": "su casa"
+      "gloss": "su casa"
     },
     {
       "surface": "וכסכה",
-      "english": "y ⟨como⟩ una cabaña"
+      "gloss": "y ⟨como⟩ una cabaña"
     },
     {
       "surface": "עשה",
-      "english": "⟨que⟩ hace"
+      "gloss": "⟨que⟩ hace"
     },
     {
       "surface": "נצר",
-      "english": "⟨el⟩ guardián"
+      "gloss": "⟨el⟩ guardián"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:01.262829225Z",
-  "model": "glm-4.5"
+  ]
 }

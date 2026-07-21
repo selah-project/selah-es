@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 107:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69821,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70103
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:38.902896535Z",
   "translation": "Los que descienden ⟨al⟩ mar en naves, haciendo comercio en ⟨las⟩ muchas aguas",
   "tokens": [
     {
       "surface": "יורדי",
-      "english": "Los que descienden"
+      "gloss": "Los que descienden"
     },
     {
       "surface": "הים",
-      "english": "mar"
+      "gloss": "mar"
     },
     {
       "surface": "באניות",
-      "english": "en naves"
+      "gloss": "en naves"
     },
     {
       "surface": "עשי",
-      "english": "haciendo"
+      "gloss": "haciendo"
     },
     {
       "surface": "מלאכה",
-      "english": "comercio"
+      "gloss": "comercio"
     },
     {
       "surface": "במים",
-      "english": "en ⟨las⟩"
+      "gloss": "en ⟨las⟩"
     },
     {
       "surface": "רבים",
-      "english": "muchas aguas"
+      "gloss": "muchas aguas"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:38.902896535Z",
-  "model": "glm-4.5"
+  ]
 }

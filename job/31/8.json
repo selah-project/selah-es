@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 31:8",
   "book": "job",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26913,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27284
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:10:06.489265624Z",
   "translation": "⟨que⟩ siembre yo, y ⟨que⟩ coma otro; y ⟨que⟩ mis descendientes ⟨sean⟩ desarraigados.",
   "tokens": [
     {
       "surface": "אזרעה",
-      "english": "⟨Que⟩ siembre yo"
+      "gloss": "⟨Que⟩ siembre yo"
     },
     {
       "surface": "ואחר",
-      "english": "y ⟨que⟩ coma otro"
+      "gloss": "y ⟨que⟩ coma otro"
     },
     {
       "surface": "יאכל",
-      "english": "⟨que⟩ coma"
+      "gloss": "⟨que⟩ coma"
     },
     {
       "surface": "וצאצאי",
-      "english": "y ⟨que⟩ mis descendientes"
+      "gloss": "y ⟨que⟩ mis descendientes"
     },
     {
       "surface": "ישרשו",
-      "english": "⟨sean⟩ desarraigados"
+      "gloss": "⟨sean⟩ desarraigados"
     }
-  ],
-  "timestamp": "2026-06-10T02:10:06.489265624Z",
-  "model": "glm-4.5"
+  ]
 }

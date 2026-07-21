@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "psalms 102:28",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 254,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69645,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69899
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:45.065059847Z",
   "translation": "y tú eres ⟨el⟩ mismo, y tus años no tendrán fin.",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "Y tú"
+      "gloss": "Y tú"
     },
     {
       "surface": "הוא",
-      "english": "eres ⟨el⟩ mismo"
+      "gloss": "eres ⟨el⟩ mismo"
     },
     {
       "surface": "ושנותיך",
-      "english": "y tus años"
+      "gloss": "y tus años"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יתמו",
-      "english": "tendrán fin"
+      "gloss": "tendrán fin"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:45.065059847Z",
-  "model": "glm-4.5"
+  ]
 }

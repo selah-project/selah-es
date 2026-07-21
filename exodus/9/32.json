@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 32,
   "ref": "exodus 9:32",
   "book": "exodus",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23814,
-    "prompt_tokens_details": {
-      "cached_tokens": 22848
-    },
-    "total_tokens": 24387
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T02:55:51.137619080Z",
   "translation": "Y ⟨la⟩ wheat y ⟨la⟩ spelt no ⟨fueron⟩ golpeadas, porque tardías son ellas.",
   "tokens": [
     {
       "surface": "וְ\/הַ\/חִטָּ֥ה",
-      "english": "Y ⟨la⟩ wheat"
+      "gloss": "Y ⟨la⟩ wheat"
     },
     {
       "surface": "וְ\/הַ\/כֻּסֶּ֖מֶת",
-      "english": "y ⟨la⟩ spelt"
+      "gloss": "y ⟨la⟩ spelt"
     },
     {
       "surface": "לֹ֣א",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "נֻכּ֑וּ",
-      "english": "⟨fueron⟩ golpeadas"
+      "gloss": "⟨fueron⟩ golpeadas"
     },
     {
       "surface": "כִּ֥י",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "אֲפִילֹ֖ת",
-      "english": "tardías"
+      "gloss": "tardías"
     },
     {
       "surface": "הֵֽנָּה",
-      "english": "son ellas"
+      "gloss": "son ellas"
     }
-  ],
-  "timestamp": "2026-06-13T02:55:51.137619080Z",
-  "model": "glm-5.1"
+  ]
 }

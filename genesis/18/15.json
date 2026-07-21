@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 18:15",
   "book": "genesis",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28675,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29211
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:15:25.368552277Z",
   "translation": "Y Sarah ⟨cayó⟩ en ⟨el⟩ temor y negó, diciendo: No me reí; ⟨porque⟩ tuvo temor. Y ⟨Él⟩ dijo: No ⟨es así⟩, ⟨sino que⟩ te reíste.",
   "tokens": [
     {
       "surface": "ותכחש",
-      "english": "Y ⟨cayó⟩"
+      "gloss": "Y ⟨cayó⟩"
     },
     {
       "surface": "שרה",
-      "english": "Sarah"
+      "gloss": "Sarah"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo:"
+      "gloss": "diciendo:"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "צחקתי",
-      "english": "me reí"
+      "gloss": "me reí"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "יראה",
-      "english": "tuvo temor"
+      "gloss": "tuvo temor"
     },
     {
       "surface": "ואמר",
-      "english": "Y ⟨Él⟩ dijo"
+      "gloss": "Y ⟨Él⟩ dijo"
     },
     {
       "surface": "לא",
-      "english": "No ⟨es así⟩"
+      "gloss": "No ⟨es así⟩"
     },
     {
       "surface": "כי",
-      "english": "⟨sino que⟩"
+      "gloss": "⟨sino que⟩"
     },
     {
       "surface": "צחקת",
-      "english": "te reíste"
+      "gloss": "te reíste"
     }
-  ],
-  "timestamp": "2026-06-10T05:15:25.368552277Z",
-  "model": "glm-4.5"
+  ]
 }

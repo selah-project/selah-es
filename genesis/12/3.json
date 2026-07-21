@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 12:3",
   "book": "genesis",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28561,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29088
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:11:03.157279998Z",
   "translation": "Y ⟨את⟩ bendeciré ⟨a⟩ los que ⟨te⟩ bendicen, y ⟨al⟩ que ⟨te⟩ maldiga maldeciré; y serán bendecidas en ti todas ⟨las⟩ familias de ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "ואברכה",
-      "english": "Y bendeciré"
+      "gloss": "Y bendeciré"
     },
     {
       "surface": "מברכיך",
-      "english": "⟨a⟩ los que ⟨te⟩ bendicen",
+      "gloss": "⟨a⟩ los que ⟨te⟩ bendicen",
       "marks": "a los que te bendicen"
     },
     {
       "surface": "ומקללך",
-      "english": "y ⟨al⟩ que ⟨te⟩ maldiga"
+      "gloss": "y ⟨al⟩ que ⟨te⟩ maldiga"
     },
     {
       "surface": "אאר",
-      "english": "maldeciré"
+      "gloss": "maldeciré"
     },
     {
       "surface": "ונברכו",
-      "english": "y serán bendecidas"
+      "gloss": "y serán bendecidas"
     },
     {
       "surface": "בך",
-      "english": "en ti"
+      "gloss": "en ti"
     },
     {
       "surface": "כל",
-      "english": "todas ⟨las⟩"
+      "gloss": "todas ⟨las⟩"
     },
     {
       "surface": "משפחת",
-      "english": "familias de ⟨la⟩"
+      "gloss": "familias de ⟨la⟩"
     },
     {
       "surface": "האדמה",
-      "english": "tierra"
+      "gloss": "tierra"
     }
-  ],
-  "timestamp": "2026-06-10T05:11:03.157279998Z",
-  "model": "glm-4.5"
+  ]
 }

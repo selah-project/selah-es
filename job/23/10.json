@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "job 23:10",
   "book": "job",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 27158,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27532
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:59:33.684663391Z",
   "translation": "Porque ⟨él⟩ conoce ⟨el⟩ camino ⟨que⟩ tomo; cuando me haya probado, saldré ⟨como⟩ oro.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "ידע",
-      "english": "conoce"
+      "gloss": "conoce"
     },
     {
       "surface": "דרך",
-      "english": "camino"
+      "gloss": "camino"
     },
     {
       "surface": "עמדי",
-      "english": "⟨que⟩ tomo"
+      "gloss": "⟨que⟩ tomo"
     },
     {
       "surface": "בחנני",
-      "english": "me haya probado"
+      "gloss": "me haya probado"
     },
     {
       "surface": "כזהב",
-      "english": "⟨como⟩ oro"
+      "gloss": "⟨como⟩ oro"
     },
     {
       "surface": "אצא",
-      "english": "saldré"
+      "gloss": "saldré"
     }
-  ],
-  "timestamp": "2026-07-16T21:59:33.684663391Z",
-  "model": "glm-4.5"
+  ]
 }

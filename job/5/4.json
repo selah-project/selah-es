@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 5:4",
   "book": "job",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27070,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27493
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:30.491342514Z",
   "translation": "Sus hijos ⟨están⟩ lejos ⟨de⟩ ⟨la⟩ salvación, y ⟨son⟩ aplastados en ⟨la⟩ puerta, y no hay ⟨nadie⟩ que ⟨los⟩ libre",
   "tokens": [
     {
       "surface": "ירחקו",
-      "english": "Sus hijos ⟨están⟩ lejos"
+      "gloss": "Sus hijos ⟨están⟩ lejos"
     },
     {
       "surface": "בניו",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "מישע",
-      "english": "⟨de⟩ ⟨la⟩ salvación"
+      "gloss": "⟨de⟩ ⟨la⟩ salvación"
     },
     {
       "surface": "וידכאו",
-      "english": "y ⟨son⟩ aplastados"
+      "gloss": "y ⟨son⟩ aplastados"
     },
     {
       "surface": "בשער",
-      "english": "en ⟨la⟩ puerta"
+      "gloss": "en ⟨la⟩ puerta"
     },
     {
       "surface": "ואין",
-      "english": "y no hay"
+      "gloss": "y no hay"
     },
     {
       "surface": "מציל",
-      "english": "⟨nadie⟩ que ⟨los⟩ libre"
+      "gloss": "⟨nadie⟩ que ⟨los⟩ libre"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:30.491342514Z",
-  "model": "glm-4.5"
+  ]
 }

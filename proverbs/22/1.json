@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 22:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 518,
-    "prompt_tokens": 59941,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60459
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:21:09.486787544Z",
   "translation": "Un buen nombre ⟨es⟩ ⟨para ser⟩ elegido antes ⟨que⟩ riqueza abundante, y el favor ⟨es⟩ mejor ⟨que⟩ la plata y ⟨que⟩ el oro.",
   "tokens": [
     {
       "surface": "נבחר",
-      "english": "elegido"
+      "gloss": "elegido"
     },
     {
       "surface": "שם",
-      "english": "nombre"
+      "gloss": "nombre"
     },
     {
       "surface": "מעשר",
-      "english": "antes ⟨que⟩"
+      "gloss": "antes ⟨que⟩"
     },
     {
       "surface": "רב",
-      "english": "abundante"
+      "gloss": "abundante"
     },
     {
       "surface": "מכסף",
-      "english": "plata"
+      "gloss": "plata"
     },
     {
       "surface": "ומזהב",
-      "english": "y ⟨que⟩ el oro"
+      "gloss": "y ⟨que⟩ el oro"
     },
     {
       "surface": "חן",
-      "english": "favor"
+      "gloss": "favor"
     },
     {
       "surface": "טוב",
-      "english": "mejor"
+      "gloss": "mejor"
     }
-  ],
-  "timestamp": "2026-07-16T23:21:09.486787544Z",
-  "model": "glm-4.5"
+  ]
 }

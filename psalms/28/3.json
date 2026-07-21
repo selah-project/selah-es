@@ -1,76 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 28:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70500,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 71011
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:10:14.397605157Z",
   "translation": "No me arrastres ⟨con⟩ ⟨los⟩ malvados y ⟨con⟩ ⟨los⟩ obradores ⟨de⟩ iniquidad que hablan paz ⟨a⟩ sus amigos y maldad en su corazón",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תמשכני",
-      "english": "me arrastres"
+      "gloss": "me arrastres"
     },
     {
       "surface": "עם",
-      "english": "⟨con⟩"
+      "gloss": "⟨con⟩"
     },
     {
       "surface": "רשעים",
-      "english": "⟨los⟩ malvados"
+      "gloss": "⟨los⟩ malvados"
     },
     {
       "surface": "ועם",
-      "english": "y ⟨con⟩"
+      "gloss": "y ⟨con⟩"
     },
     {
       "surface": "פעלי",
-      "english": "⟨los⟩ obradores"
+      "gloss": "⟨los⟩ obradores"
     },
     {
       "surface": "און",
-      "english": "⟨de⟩ iniquidad"
+      "gloss": "⟨de⟩ iniquidad"
     },
     {
       "surface": "דברי",
-      "english": "que hablan"
+      "gloss": "que hablan"
     },
     {
       "surface": "שלום",
-      "english": "paz"
+      "gloss": "paz"
     },
     {
       "surface": "עם",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "רעיהם",
-      "english": "sus amigos"
+      "gloss": "sus amigos"
     },
     {
       "surface": "ורעה",
-      "english": "y maldad"
+      "gloss": "y maldad"
     },
     {
       "surface": "בלבבם",
-      "english": "en su corazón"
+      "gloss": "en su corazón"
     }
-  ],
-  "timestamp": "2026-06-09T23:10:14.397605157Z",
-  "model": "glm-4.5"
+  ]
 }

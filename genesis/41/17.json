@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "genesis 41:17",
   "book": "genesis",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28475,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28816
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:37:51.024975234Z",
   "translation": "Y Paroh habló a Yosef: ⟨En⟩ mi sueño, he aquí, yo estaba ⟨de pie⟩ sobre ⟨la⟩ orilla del río",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "Y habló"
+      "gloss": "Y habló"
     },
     {
       "surface": "פרעה",
-      "english": "Paroh"
+      "gloss": "Paroh"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "בחלמי",
-      "english": "⟨En⟩ mi sueño"
+      "gloss": "⟨En⟩ mi sueño"
     },
     {
       "surface": "הנני",
-      "english": "he aquí"
+      "gloss": "he aquí"
     },
     {
       "surface": "עמד",
-      "english": "estaba ⟨de pie⟩"
+      "gloss": "estaba ⟨de pie⟩"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "שפת",
-      "english": "⟨la⟩ orilla"
+      "gloss": "⟨la⟩ orilla"
     },
     {
       "surface": "היאר",
-      "english": "del río"
+      "gloss": "del río"
     }
-  ],
-  "timestamp": "2026-06-10T05:37:51.024975234Z",
-  "model": "glm-4.5"
+  ]
 }

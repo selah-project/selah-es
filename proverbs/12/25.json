@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "proverbs 12:25",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59861,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60297
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:37:15.255219678Z",
   "translation": "Una ansiedad ⟨en⟩ ⟨el⟩ corazón de ⟨un⟩ hombre ⟨lo⟩ humilla ⟨y⟩ ⟨una⟩ buena palabra ⟨lo⟩ alegra",
   "tokens": [
     {
       "surface": "דאגה",
-      "english": "Una ansiedad"
+      "gloss": "Una ansiedad"
     },
     {
       "surface": "בלב",
-      "english": "⟨en⟩ ⟨el⟩ corazón"
+      "gloss": "⟨en⟩ ⟨el⟩ corazón"
     },
     {
       "surface": "איש",
-      "english": "⟨un⟩ hombre"
+      "gloss": "⟨un⟩ hombre"
     },
     {
       "surface": "ישחנה",
-      "english": "⟨lo⟩ humilla"
+      "gloss": "⟨lo⟩ humilla"
     },
     {
       "surface": "ודבר",
-      "english": "⟨y⟩ ⟨una⟩ buena palabra"
+      "gloss": "⟨y⟩ ⟨una⟩ buena palabra"
     },
     {
       "surface": "טוב",
-      "english": "buena"
+      "gloss": "buena"
     },
     {
       "surface": "ישמחנה",
-      "english": "⟨lo⟩ alegra"
+      "gloss": "⟨lo⟩ alegra"
     }
-  ],
-  "timestamp": "2026-06-10T01:37:15.255219678Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 38:4",
   "book": "job",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27094,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27555
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:14:59.611524737Z",
   "translation": "¿Dónde ⟨estabas⟩ ⟨cuando⟩ ⟨fundé⟩ ⟨la⟩ tierra? ⟨את⟩ ⟨declara⟩, si ⟨tienes⟩ entendimiento.",
   "tokens": [
     {
       "surface": "איפה",
-      "english": "¿Dónde"
+      "gloss": "¿Dónde"
     },
     {
       "surface": "היית",
-      "english": "⟨estabas⟩"
+      "gloss": "⟨estabas⟩"
     },
     {
       "surface": "ביסדי",
-      "english": "⟨cuando⟩ ⟨fundé⟩"
+      "gloss": "⟨cuando⟩ ⟨fundé⟩"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "הגד",
-      "english": "⟨declara⟩"
+      "gloss": "⟨declara⟩"
     },
     {
       "surface": "אם",
-      "english": "si"
+      "gloss": "si"
     },
     {
       "surface": "ידעת",
-      "english": "⟨tienes⟩"
+      "gloss": "⟨tienes⟩"
     },
     {
       "surface": "בינה",
-      "english": "entendimiento"
+      "gloss": "entendimiento"
     }
-  ],
-  "timestamp": "2026-06-10T02:14:59.611524737Z",
-  "model": "glm-4.5"
+  ]
 }

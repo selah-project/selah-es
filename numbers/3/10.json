@@ -1,68 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 3:10",
   "book": "numbers",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 604,
-    "prompt_tokens": 25661,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26265
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:56:30.398589827Z",
   "translation": "Y ⟨את⟩ Aharón y ⟨את⟩ sus hijos designarás, y guardarán ⟨את⟩ su sacerdocio; y el forastero que se acerque morirá.",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "Y ⟨את⟩",
+      "gloss": "Y ⟨את⟩",
       "marks": "Aharón"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "sus hijos"
     },
     {
       "surface": "בניו",
-      "english": "sus hijos"
+      "gloss": "sus hijos"
     },
     {
       "surface": "תפקד",
-      "english": "designarás"
+      "gloss": "designarás"
     },
     {
       "surface": "ושמרו",
-      "english": "y guardarán"
+      "gloss": "y guardarán"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su sacerdocio"
     },
     {
       "surface": "כהנתם",
-      "english": "su sacerdocio"
+      "gloss": "su sacerdocio"
     },
     {
       "surface": "והזר",
-      "english": "y el forastero"
+      "gloss": "y el forastero"
     },
     {
       "surface": "הקרב",
-      "english": "que se acerque"
+      "gloss": "que se acerque"
     },
     {
       "surface": "יומת",
-      "english": "morirá"
+      "gloss": "morirá"
     }
-  ],
-  "timestamp": "2026-07-16T22:56:30.398589827Z",
-  "model": "glm-4.5"
+  ]
 }

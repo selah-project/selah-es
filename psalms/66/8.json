@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 66:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69813,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70201
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:29:08.912127701Z",
   "translation": "Blessen ⟨a⟩ los pueblos nuestro Elohim y ⟨que⟩ ⟨sea⟩ oída ⟨la⟩ voz de ⟨su⟩ alabanza",
   "tokens": [
     {
       "surface": "ברכו",
-      "english": "Blessen"
+      "gloss": "Blessen"
     },
     {
       "surface": "עמים",
-      "english": "⟨a⟩ los pueblos"
+      "gloss": "⟨a⟩ los pueblos"
     },
     {
       "surface": "אלהינו",
-      "english": "nuestro Elohim"
+      "gloss": "nuestro Elohim"
     },
     {
       "surface": "והשמיעו",
-      "english": "y ⟨que⟩ ⟨sea⟩ oída"
+      "gloss": "y ⟨que⟩ ⟨sea⟩ oída"
     },
     {
       "surface": "קול",
-      "english": "⟨la⟩ voz"
+      "gloss": "⟨la⟩ voz"
     },
     {
       "surface": "תהלתו",
-      "english": "de ⟨su⟩ alabanza"
+      "gloss": "de ⟨su⟩ alabanza"
     }
-  ],
-  "timestamp": "2026-06-09T23:29:08.912127701Z",
-  "model": "glm-4.5"
+  ]
 }

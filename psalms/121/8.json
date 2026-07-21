@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 121:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 273,
-    "prompt_tokens": 69960,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70233
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:41.803704783Z",
   "translation": "YHWH guardará tu salida y tu entrada desde ahora y hasta el olam.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ישמר",
-      "english": "guardará"
+      "gloss": "guardará"
     },
     {
       "surface": "צאתך",
-      "english": "tu salida"
+      "gloss": "tu salida"
     },
     {
       "surface": "ובואך",
-      "english": "y tu entrada"
+      "gloss": "y tu entrada"
     },
     {
       "surface": "מעתה",
-      "english": "desde ahora"
+      "gloss": "desde ahora"
     },
     {
       "surface": "ועד",
-      "english": "y hasta"
+      "gloss": "y hasta"
     },
     {
       "surface": "עולם",
-      "english": "el olam"
+      "gloss": "el olam"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:41.803704783Z",
-  "model": "glm-4.5"
+  ]
 }

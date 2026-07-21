@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "proverbs 6:5",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59790,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60134
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:31:38.268571798Z",
   "translation": "Líbrate como una gacela de ⟨la⟩ mano del cazador, y como un ave de ⟨la⟩ mano del pajarero",
   "tokens": [
     {
       "surface": "הנצל",
-      "english": "Líbrate"
+      "gloss": "Líbrate"
     },
     {
       "surface": "כצבי",
-      "english": "como una gacela"
+      "gloss": "como una gacela"
     },
     {
       "surface": "מיד",
-      "english": "de ⟨la⟩ mano",
+      "gloss": "de ⟨la⟩ mano",
       "marks": "del cazador"
     },
     {
       "surface": "וכצפור",
-      "english": "y como un ave"
+      "gloss": "y como un ave"
     },
     {
       "surface": "מיד",
-      "english": "de ⟨la⟩ mano",
+      "gloss": "de ⟨la⟩ mano",
       "marks": "del pajarero"
     },
     {
       "surface": "יקוש",
-      "english": "del pajarero"
+      "gloss": "del pajarero"
     }
-  ],
-  "timestamp": "2026-06-10T01:31:38.268571798Z",
-  "model": "glm-4.5"
+  ]
 }

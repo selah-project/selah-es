@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 44:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70194,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70679
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:18:41.190287771Z",
   "translation": "Tú ⟨por⟩ tu mano desposeíste ⟨a⟩ ⟨los⟩ pueblos y los plantaste; ⟨a⟩ ⟨los⟩ pueblos ⟨que⟩ afligiste y los esparciste.",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "ידך",
-      "english": "⟨por⟩ tu mano",
+      "gloss": "⟨por⟩ tu mano",
       "marks": "tu mano"
     },
     {
       "surface": "גוים",
-      "english": "⟨los⟩ pueblos"
+      "gloss": "⟨los⟩ pueblos"
     },
     {
       "surface": "הורשת",
-      "english": "desposeíste"
+      "gloss": "desposeíste"
     },
     {
       "surface": "ותטעם",
-      "english": "y los plantaste"
+      "gloss": "y los plantaste"
     },
     {
       "surface": "תרע",
-      "english": "⟨a⟩ ⟨los⟩ pueblos",
+      "gloss": "⟨a⟩ ⟨los⟩ pueblos",
       "marks": "a los pueblos que afligiste"
     },
     {
       "surface": "לאמים",
-      "english": "⟨que⟩ afligiste",
+      "gloss": "⟨que⟩ afligiste",
       "marks": "los pueblos que afligiste"
     },
     {
       "surface": "ותשלחם",
-      "english": "y los esparciste"
+      "gloss": "y los esparciste"
     }
-  ],
-  "timestamp": "2026-06-09T23:18:41.190287771Z",
-  "model": "glm-4.5"
+  ]
 }

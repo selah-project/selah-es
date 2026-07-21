@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "leviticus 24:5",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 25030,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25474
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:45:24.894451599Z",
   "translation": "Y tomarás harina fina y cocerás ⟨את⟩ — doce panes, dos décimos será la harina del ⟨un⟩ pan",
   "tokens": [
     {
       "surface": "ולקחת",
-      "english": "Y tomarás"
+      "gloss": "Y tomarás"
     },
     {
       "surface": "סלת",
-      "english": "harina fina"
+      "gloss": "harina fina"
     },
     {
       "surface": "ואפית",
-      "english": "y cocerás"
+      "gloss": "y cocerás"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "doce panes"
     },
     {
       "surface": "שתים",
-      "english": "doce"
+      "gloss": "doce"
     },
     {
       "surface": "עשרה",
-      "english": "panes"
+      "gloss": "panes"
     },
     {
       "surface": "חלות",
-      "english": ","
+      "gloss": ","
     },
     {
       "surface": "שני",
-      "english": "dos décimos"
+      "gloss": "dos décimos"
     },
     {
       "surface": "עשרנים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יהיה",
-      "english": "será"
+      "gloss": "será"
     },
     {
       "surface": "החלה",
-      "english": "la harina del"
+      "gloss": "la harina del"
     },
     {
       "surface": "האחת",
-      "english": "⟨un⟩ pan"
+      "gloss": "⟨un⟩ pan"
     }
-  ],
-  "timestamp": "2026-07-16T22:45:24.894451599Z",
-  "model": "glm-4.5"
+  ]
 }

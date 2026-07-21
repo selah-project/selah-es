@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 29:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 315,
-    "prompt_tokens": 28432,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28747
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:04:24.695588775Z",
   "translation": "Y Yaakov besó a Rajel, y alzó ⟨את⟩ su voz, y lloró.",
   "tokens": [
     {
       "surface": "וישק",
-      "english": "Y besó"
+      "gloss": "Y besó"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "לרחל",
-      "english": "a Rajel"
+      "gloss": "a Rajel"
     },
     {
       "surface": "וישא",
-      "english": "y alzó"
+      "gloss": "y alzó"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su voz"
     },
     {
       "surface": "קלו",
-      "english": "su voz"
+      "gloss": "su voz"
     },
     {
       "surface": "ויבך",
-      "english": "y lloró"
+      "gloss": "y lloró"
     }
-  ],
-  "timestamp": "2026-07-16T21:04:24.695588775Z",
-  "model": "glm-4.5"
+  ]
 }

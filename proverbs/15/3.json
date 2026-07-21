@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 15:3",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59836,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60230
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:39:10.867435325Z",
   "translation": "En todo ⟨el⟩ lugar ⟨son⟩ los ojos de YHWH, velando ⟨a⟩ los malos y ⟨a⟩ los buenos",
   "tokens": [
     {
       "surface": "בכל",
-      "english": "En todo"
+      "gloss": "En todo"
     },
     {
       "surface": "מקום",
-      "english": "⟨el⟩ lugar"
+      "gloss": "⟨el⟩ lugar"
     },
     {
       "surface": "עיני",
-      "english": "los ojos"
+      "gloss": "los ojos"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "צפות",
-      "english": "velando"
+      "gloss": "velando"
     },
     {
       "surface": "רעים",
-      "english": "⟨a⟩ los malos"
+      "gloss": "⟨a⟩ los malos"
     },
     {
       "surface": "וטובים",
-      "english": "y ⟨a⟩ los buenos"
+      "gloss": "y ⟨a⟩ los buenos"
     }
-  ],
-  "timestamp": "2026-06-10T01:39:10.867435325Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 85:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 539,
-    "prompt_tokens": 69947,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70486
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:35:48.735288981Z",
   "translation": "Has apartado ⟨toda⟩ ⟨tu⟩ indignación, te has vuelto del ⟨furor de tu⟩ ira.",
   "tokens": [
     {
       "surface": "אספת",
-      "english": "Has apartado"
+      "gloss": "Has apartado"
     },
     {
       "surface": "כל",
-      "english": "⟨toda⟩"
+      "gloss": "⟨toda⟩"
     },
     {
       "surface": "עברתך",
-      "english": "⟨tu⟩ indignación"
+      "gloss": "⟨tu⟩ indignación"
     },
     {
       "surface": "השיבות",
-      "english": "te has vuelto"
+      "gloss": "te has vuelto"
     },
     {
       "surface": "מחרון",
-      "english": "del ⟨furor de tu⟩"
+      "gloss": "del ⟨furor de tu⟩"
     },
     {
       "surface": "אפך",
-      "english": "ira"
+      "gloss": "ira"
     }
-  ],
-  "timestamp": "2026-07-16T23:35:48.735288981Z",
-  "model": "glm-4.5"
+  ]
 }

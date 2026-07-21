@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 18:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69982,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70313
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:03:48.794925588Z",
   "translation": "Y cabalgó ⟨sobre⟩ un querubín y voló, ⟨y⟩ voló ⟨sobre⟩ las alas de Rúaj",
   "tokens": [
     {
       "surface": "וירכב",
-      "english": "Y cabalgó"
+      "gloss": "Y cabalgó"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "כרוב",
-      "english": "un querubín"
+      "gloss": "un querubín"
     },
     {
       "surface": "ויעף",
-      "english": "y voló"
+      "gloss": "y voló"
     },
     {
       "surface": "וידא",
-      "english": "⟨y⟩"
+      "gloss": "⟨y⟩"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "כנפי",
-      "english": "las alas"
+      "gloss": "las alas"
     },
     {
       "surface": "רוח",
-      "english": "de Rúaj"
+      "gloss": "de Rúaj"
     }
-  ],
-  "timestamp": "2026-06-09T23:03:48.794925588Z",
-  "model": "glm-4.5"
+  ]
 }

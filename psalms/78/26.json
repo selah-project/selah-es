@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 78:26",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69793,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70225
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:51.133657070Z",
   "translation": "He caused ⟨an⟩ east wind to journey ⟨in⟩ ⟨the⟩ heavens, and ⟨by⟩ his power he led ⟨a⟩ south wind",
   "tokens": [
     {
       "surface": "יסע",
-      "english": "He caused ... to journey",
+      "gloss": "He caused ... to journey",
       "marks": "east wind"
     },
     {
       "surface": "קדים",
-      "english": "east wind"
+      "gloss": "east wind"
     },
     {
       "surface": "בשמים",
-      "english": "in ⟨the⟩ heavens"
+      "gloss": "in ⟨the⟩ heavens"
     },
     {
       "surface": "וינהג",
-      "english": "and he led",
+      "gloss": "and he led",
       "marks": "south wind"
     },
     {
       "surface": "בעזו",
-      "english": "by his power"
+      "gloss": "by his power"
     },
     {
       "surface": "תימן",
-      "english": "south wind"
+      "gloss": "south wind"
     }
-  ],
-  "timestamp": "2026-06-09T23:36:51.133657070Z",
-  "model": "glm-4.5"
+  ]
 }

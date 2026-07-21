@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 107:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69807,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70190
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:06.161274901Z",
   "translation": "⟨were⟩ hungry ⟨and⟩ thirsty, their soul in them ⟨was⟩ fainting",
   "tokens": [
     {
       "surface": "רעבים",
-      "english": "⟨Were⟩ hungry"
+      "gloss": "⟨Were⟩ hungry"
     },
     {
       "surface": "גם",
-      "english": "⟨and⟩"
+      "gloss": "⟨and⟩"
     },
     {
       "surface": "צמאים",
-      "english": "thirsty"
+      "gloss": "thirsty"
     },
     {
       "surface": "נפשם",
-      "english": "their soul"
+      "gloss": "their soul"
     },
     {
       "surface": "בהם",
-      "english": "in them"
+      "gloss": "in them"
     },
     {
       "surface": "תתעטף",
-      "english": "⟨was⟩ fainting"
+      "gloss": "⟨was⟩ fainting"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:06.161274901Z",
-  "model": "glm-4.5"
+  ]
 }

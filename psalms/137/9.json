@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 137:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 486,
-    "prompt_tokens": 70004,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70490
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:15.655434137Z",
   "translation": "¡Dichoso ⟨el⟩ que ⟨es⟩ quien toma y destroza ⟨את⟩ a tus lactantes sobre la peña!",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Dichoso"
+      "gloss": "¡Dichoso"
     },
     {
       "surface": "שיאחז",
-      "english": "⟨el⟩ que ⟨es⟩ quien toma"
+      "gloss": "⟨el⟩ que ⟨es⟩ quien toma"
     },
     {
       "surface": "ונפץ",
-      "english": "y destroza"
+      "gloss": "y destroza"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a tus lactantes"
     },
     {
       "surface": "עלליך",
-      "english": "a tus lactantes"
+      "gloss": "a tus lactantes"
     },
     {
       "surface": "אל",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הסלע",
-      "english": "la peña"
+      "gloss": "la peña"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:15.655434137Z",
-  "model": "glm-4.5"
+  ]
 }

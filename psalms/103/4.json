@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 103:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69862,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70351
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:49:19.332182221Z",
   "translation": "⟨El que⟩ redime ⟨tu⟩ vida de ⟨la⟩ fosa; ⟨el que⟩ te corona ⟨con⟩ misericordia y ⟨con⟩ ternas misericordias",
   "tokens": [
     {
       "surface": "הגואל",
-      "english": "⟨El que⟩ redime",
+      "gloss": "⟨El que⟩ redime",
       "notes": "participio: 'el redentor'"
     },
     {
       "surface": "משחת",
-      "english": "⟨tu⟩ vida de ⟨la⟩ fosa",
+      "gloss": "⟨tu⟩ vida de ⟨la⟩ fosa",
       "notes": "משחת: 'fosa', 'abismo', no 'destrucción'"
     },
     {
       "surface": "חייכי",
-      "english": "vida",
+      "gloss": "vida",
       "notes": "vida: literalmente 'tus vidas' (plural enfático)"
     },
     {
       "surface": "המעטרכי",
-      "english": "⟨el que⟩ te corona ⟨con⟩",
+      "gloss": "⟨el que⟩ te corona ⟨con⟩",
       "notes": "המעטרכי: participio 'el que corona'"
     },
     {
       "surface": "חסד",
-      "english": "misericordia",
+      "gloss": "misericordia",
       "notes": "חסד: bondad leal, fidelidad en pacto"
     },
     {
       "surface": "ורחמים",
-      "english": "y ⟨con⟩ ternas misericordias",
+      "gloss": "y ⟨con⟩ ternas misericordias",
       "notes": "רחמים: literalmente 'entrañas', compasión profunda"
     }
-  ],
-  "timestamp": "2026-06-09T23:49:19.332182221Z",
-  "model": "glm-4.5"
+  ]
 }

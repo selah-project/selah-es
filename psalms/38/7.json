@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.1",
-  "verse": 7,
   "ref": "psalms 38:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69979,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70508
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:56:24.072800714Z",
   "translation": "Estoy encorvado, me he hundido ⟨hasta⟩ lo extremo; todo el día anduve enlutado.",
   "tokens": [
     {
       "surface": "נעויתי",
-      "english": "Estoy encorvado"
+      "gloss": "Estoy encorvado"
     },
     {
       "surface": "שחתי",
-      "english": "me he hundido"
+      "gloss": "me he hundido"
     },
     {
       "surface": "עד",
-      "english": "⟨hasta⟩"
+      "gloss": "⟨hasta⟩"
     },
     {
       "surface": "מאד",
-      "english": "lo extremo"
+      "gloss": "lo extremo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "היום",
-      "english": "el día"
+      "gloss": "el día"
     },
     {
       "surface": "קדר",
-      "english": "enlutado"
+      "gloss": "enlutado"
     },
     {
       "surface": "הלכתי",
-      "english": "anduve"
+      "gloss": "anduve"
     }
-  ],
-  "timestamp": "2026-06-13T03:56:24.072800714Z",
-  "model": "glm-5.1"
+  ]
 }

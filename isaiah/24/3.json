@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 24:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 494,
-    "prompt_tokens": 26552,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 27046
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:25:51.328703640Z",
   "translation": "La tierra será enteramente vaciada y enteramente saqueada, porque YHWH ha hablado ⟨את⟩ esta palabra.",
   "tokens": [
     {
       "surface": "הבוק",
-      "english": "será vaciada"
+      "gloss": "será vaciada"
     },
     {
       "surface": "תבוק",
-      "english": "enteramente"
+      "gloss": "enteramente"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "והבוז",
-      "english": "y será saqueada"
+      "gloss": "y será saqueada"
     },
     {
       "surface": "תבוז",
-      "english": "enteramente"
+      "gloss": "enteramente"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "דבר",
-      "english": "ha hablado"
+      "gloss": "ha hablado"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "esta palabra"
     },
     {
       "surface": "הדבר",
-      "english": "palabra"
+      "gloss": "palabra"
     },
     {
       "surface": "הזה",
-      "english": "esta"
+      "gloss": "esta"
     }
-  ],
-  "timestamp": "2026-07-16T21:25:51.328703640Z",
-  "model": "glm-4.5"
+  ]
 }

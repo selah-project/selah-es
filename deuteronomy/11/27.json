@@ -1,9 +1,70 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "deuteronomy 11:27",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 11,
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:54:16.672921812Z",
+  "translation": "⟨el⟩ bendecimiento ⟨את⟩, que escucharéis ⟨a⟩ los Mitzvás de YHWH, vuestro Elohim, que yo ⟨os⟩ mando ⟨את⟩ hoy",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨El⟩ bendecimiento",
+      "marks": "הברכה"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bendecimiento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "escucharéis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "Mitzvás"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vuestro Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "mando"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨os⟩",
+      "marks": "היום"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "mandamiento",
@@ -13,78 +74,6 @@
       "hebrew": "מצוה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17894,
-    "prompt_tokens_details": {
-      "cached_tokens": 16232
-    },
-    "total_tokens": 18376
-  },
-  "translation": "⟨el⟩ bendecimiento ⟨את⟩, que escucharéis ⟨a⟩ los Mitzvás de YHWH, vuestro Elohim, que yo ⟨os⟩ mando ⟨את⟩ hoy",
-  "tokens": [
-    {
-      "surface": "את",
-      "english": "⟨El⟩ bendecimiento",
-      "marks": "הברכה"
-    },
-    {
-      "surface": "הברכה",
-      "english": "bendecimiento"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "תשמעו",
-      "english": "escucharéis"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "מצות",
-      "english": "Mitzvás"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהיכם",
-      "english": "vuestro Elohim"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "אנכי",
-      "english": "yo"
-    },
-    {
-      "surface": "מצוה",
-      "english": "mando"
-    },
-    {
-      "surface": "אתכם",
-      "english": "⟨os⟩",
-      "marks": "היום"
-    },
-    {
-      "surface": "היום",
-      "english": "hoy"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:54:16.672921812Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 38:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70099,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70545
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:16:29.234017361Z",
   "translation": "Mis amantes y mis amigos ⟨se⟩ mantienen ⟨al⟩ margen ⟨de⟩ mi golpe, y mis parientes ⟨se⟩ mantienen ⟨a⟩ distancia.",
   "tokens": [
     {
       "surface": "אהבי",
-      "english": "Mis amantes"
+      "gloss": "Mis amantes"
     },
     {
       "surface": "ורעי",
-      "english": "y mis amigos"
+      "gloss": "y mis amigos"
     },
     {
       "surface": "מנגד",
-      "english": "⟨al⟩ margen"
+      "gloss": "⟨al⟩ margen"
     },
     {
       "surface": "נגעי",
-      "english": "⟨de⟩ mi golpe",
+      "gloss": "⟨de⟩ mi golpe",
       "marks": "mi golpe"
     },
     {
       "surface": "יעמדו",
-      "english": "⟨se⟩ mantienen"
+      "gloss": "⟨se⟩ mantienen"
     },
     {
       "surface": "וקרובי",
-      "english": "y mis parientes"
+      "gloss": "y mis parientes"
     },
     {
       "surface": "מרחק",
-      "english": "⟨a⟩ distancia"
+      "gloss": "⟨a⟩ distancia"
     },
     {
       "surface": "עמדו",
-      "english": "⟨se⟩ mantienen"
+      "gloss": "⟨se⟩ mantienen"
     }
-  ],
-  "timestamp": "2026-06-09T23:16:29.234017361Z",
-  "model": "glm-4.5"
+  ]
 }

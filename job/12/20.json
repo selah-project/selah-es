@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 12:20",
   "book": "job",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26941,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27237
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:00:01.944390317Z",
   "translation": "Él ⟨remueve⟩ ⟨el⟩ labio de ⟨los⟩ fieles y ⟨el⟩ discernimiento de ⟨los⟩ ancianos ⟨את⟩ ⟨toma⟩",
   "tokens": [
     {
       "surface": "מסיר",
-      "english": "Remueve"
+      "gloss": "Remueve"
     },
     {
       "surface": "שפה",
-      "english": "⟨el⟩ labio"
+      "gloss": "⟨el⟩ labio"
     },
     {
       "surface": "לנאמנים",
-      "english": "de ⟨los⟩ fieles"
+      "gloss": "de ⟨los⟩ fieles"
     },
     {
       "surface": "וטעם",
-      "english": "y ⟨el⟩ discernimiento"
+      "gloss": "y ⟨el⟩ discernimiento"
     },
     {
       "surface": "זקנים",
-      "english": "de ⟨los⟩ ancianos"
+      "gloss": "de ⟨los⟩ ancianos"
     },
     {
       "surface": "יקח",
-      "english": "⟨toma⟩",
+      "gloss": "⟨toma⟩",
       "marks": "el discernimiento"
     }
-  ],
-  "timestamp": "2026-06-10T02:00:01.944390317Z",
-  "model": "glm-4.5"
+  ]
 }

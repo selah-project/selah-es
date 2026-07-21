@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-samuel 18:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 18,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:02:31.577438241Z",
+  "translation": "Y sucedió ⟨que⟩ cuando ⟨él⟩ hubo terminado de hablar ⟨con⟩ Shaúl, el alma de Yonatán se ligó ⟨al⟩ alma de Davidd, y Yonatán lo amó como ⟨a⟩ su propia alma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y sucedió"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "⟨que⟩ cuando ⟨él⟩ hubo terminado"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "de hablar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨con⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "el alma de"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatán"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "se ligó"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "⟨al⟩ alma de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "y Yonatán lo amó"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatán"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "como ⟨a⟩ su propia alma"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -20,76 +79,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16597,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17160
-  },
-  "translation": "Y sucedió ⟨que⟩ cuando ⟨él⟩ hubo terminado de hablar ⟨con⟩ Shaúl, el alma de Yonatán se ligó ⟨al⟩ alma de Davidd, y Yonatán lo amó como ⟨a⟩ su propia alma.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y sucedió"
-    },
-    {
-      "surface": "ככלתו",
-      "english": "⟨que⟩ cuando ⟨él⟩ hubo terminado"
-    },
-    {
-      "surface": "לדבר",
-      "english": "de hablar"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨con⟩"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "ונפש",
-      "english": "el alma de"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yonatán"
-    },
-    {
-      "surface": "נקשרה",
-      "english": "se ligó"
-    },
-    {
-      "surface": "בנפש",
-      "english": "⟨al⟩ alma de"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ויאהבו",
-      "english": "y Yonatán lo amó"
-    },
-    {
-      "surface": "יהונתן",
-      "english": "Yonatán"
-    },
-    {
-      "surface": "כנפשו",
-      "english": "como ⟨a⟩ su propia alma"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:02:31.577438241Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "psalms 73:25",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69824,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70207
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:22.275465961Z",
   "translation": "¿Quién ⟨es⟩ ⟨para⟩ mí en ⟨los⟩ cielos? Y contigo, no he deseado ⟨nadie⟩ en ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "לי",
-      "english": "⟨es⟩ ⟨para⟩ mí"
+      "gloss": "⟨es⟩ ⟨para⟩ mí"
     },
     {
       "surface": "בשמים",
-      "english": "en ⟨los⟩ cielos"
+      "gloss": "en ⟨los⟩ cielos"
     },
     {
       "surface": "ועמך",
-      "english": "Y contigo"
+      "gloss": "Y contigo"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "חפצתי",
-      "english": "he deseado ⟨nadie⟩"
+      "gloss": "he deseado ⟨nadie⟩"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:22.275465961Z",
-  "model": "glm-4.5"
+  ]
 }

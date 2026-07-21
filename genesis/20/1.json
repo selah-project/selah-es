@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "genesis 20:1",
   "book": "genesis",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28648,
-    "prompt_tokens_details": {
-      "cached_tokens": 27323
-    },
-    "total_tokens": 28991
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:16:32.711673280Z",
   "translation": "Y Abraham partió de allí ⟨a⟩ tierra del Néguev y habitó entre Qadesh y entre Shur y residió como extranjero en Guerar",
   "tokens": [
     {
       "surface": "ויסע",
-      "english": "Y Abraham partió"
+      "gloss": "Y Abraham partió"
     },
     {
       "surface": "משם",
-      "english": "de allí"
+      "gloss": "de allí"
     },
     {
       "surface": "אברהם",
-      "english": "Abraham"
+      "gloss": "Abraham"
     },
     {
       "surface": "ארצה",
-      "english": "⟨a⟩ tierra"
+      "gloss": "⟨a⟩ tierra"
     },
     {
       "surface": "הנגב",
-      "english": "del Néguev"
+      "gloss": "del Néguev"
     },
     {
       "surface": "וישב",
-      "english": "y habitó"
+      "gloss": "y habitó"
     },
     {
       "surface": "בין",
-      "english": "entre"
+      "gloss": "entre"
     },
     {
       "surface": "קדש",
-      "english": "Qadesh"
+      "gloss": "Qadesh"
     },
     {
       "surface": "ובין",
-      "english": "y entre"
+      "gloss": "y entre"
     },
     {
       "surface": "שור",
-      "english": "Shur"
+      "gloss": "Shur"
     },
     {
       "surface": "ויגר",
-      "english": "y residió como extranjero"
+      "gloss": "y residió como extranjero"
     },
     {
       "surface": "בגרר",
-      "english": "en Guerar"
+      "gloss": "en Guerar"
     }
-  ],
-  "timestamp": "2026-06-10T05:16:32.711673280Z",
-  "model": "glm-4.5"
+  ]
 }

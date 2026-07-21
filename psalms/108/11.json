@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 108:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69978,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70325
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:40.782557459Z",
   "translation": "¿Quien me guiará ⟨a⟩ la ciudad fortificada? ¿Quien me guiará hasta Edom?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quien"
+      "gloss": "¿Quien"
     },
     {
       "surface": "יבלני",
-      "english": "me guiará"
+      "gloss": "me guiará"
     },
     {
       "surface": "עיר",
-      "english": "⟨a⟩ la ciudad",
+      "gloss": "⟨a⟩ la ciudad",
       "marks": "⟨a⟩ la ciudad"
     },
     {
       "surface": "מבצר",
-      "english": "fortificada?"
+      "gloss": "fortificada?"
     },
     {
       "surface": "מי",
-      "english": "¿Quien"
+      "gloss": "¿Quien"
     },
     {
       "surface": "נחני",
-      "english": "me guiará"
+      "gloss": "me guiará"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "אדום",
-      "english": "Edom?"
+      "gloss": "Edom?"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:40.782557459Z",
-  "model": "glm-4.5"
+  ]
 }

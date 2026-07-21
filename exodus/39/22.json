@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "exodus 39:22",
   "book": "exodus",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 369,
-    "prompt_tokens": 24144,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24513
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:28:11.919230263Z",
   "translation": "E hizo ⟨el⟩ manto ⟨del⟩ Efod, labor de tejedor, enteramente de Téjelet",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E hizo"
+      "gloss": "E hizo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el manto"
     },
     {
       "surface": "מעיל",
-      "english": "manto"
+      "gloss": "manto"
     },
     {
       "surface": "האפד",
-      "english": "⟨del⟩ Efod"
+      "gloss": "⟨del⟩ Efod"
     },
     {
       "surface": "מעשה",
-      "english": "labor"
+      "gloss": "labor"
     },
     {
       "surface": "ארג",
-      "english": "de tejedor"
+      "gloss": "de tejedor"
     },
     {
       "surface": "כליל",
-      "english": "enteramente"
+      "gloss": "enteramente"
     },
     {
       "surface": "תכלת",
-      "english": "de Téjelet"
+      "gloss": "de Téjelet"
     }
-  ],
-  "timestamp": "2026-07-16T20:28:11.919230263Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "2-samuel 5:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 5,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:20:10.860665898Z",
+  "translation": "Y Davidd tomó ⟨aún⟩ concubinas y esposas de Jerusalén, después de haber venido de Hebrón; y ⟨aun⟩ le nacieron ⟨a⟩ Davidd hijos e hijas.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Y tomó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨aún⟩"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "concubinas"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "y esposas"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "de Jerusalén"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "después de"
+    },
+    {
+      "surface": "באו",
+      "gloss": "haber venido"
+    },
+    {
+      "surface": "מחברון",
+      "gloss": "de Hebrón"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "y ⟨aun⟩ le nacieron"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨aun⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨a⟩ David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "hijos"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e hijas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,80 +76,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17448,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17963
-  },
-  "translation": "Y Davidd tomó ⟨aún⟩ concubinas y esposas de Jerusalén, después de haber venido de Hebrón; y ⟨aun⟩ le nacieron ⟨a⟩ Davidd hijos e hijas.",
-  "tokens": [
-    {
-      "surface": "ויקח",
-      "english": "Y tomó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨aún⟩"
-    },
-    {
-      "surface": "פלגשים",
-      "english": "concubinas"
-    },
-    {
-      "surface": "ונשים",
-      "english": "y esposas"
-    },
-    {
-      "surface": "מירושלם",
-      "english": "de Jerusalén"
-    },
-    {
-      "surface": "אחרי",
-      "english": "después de"
-    },
-    {
-      "surface": "באו",
-      "english": "haber venido"
-    },
-    {
-      "surface": "מחברון",
-      "english": "de Hebrón"
-    },
-    {
-      "surface": "ויולדו",
-      "english": "y ⟨aun⟩ le nacieron"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨aun⟩"
-    },
-    {
-      "surface": "לדוד",
-      "english": "⟨a⟩ David"
-    },
-    {
-      "surface": "בנים",
-      "english": "hijos"
-    },
-    {
-      "surface": "ובנות",
-      "english": "e hijas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:20:10.860665898Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

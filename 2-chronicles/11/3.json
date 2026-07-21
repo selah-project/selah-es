@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 11:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 11,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:10:59.813358476Z",
+  "translation": "Di a Rejavam hijo de Shlomó, rey de Yehudá, y a todo Yisrael en Yehudá y Benjamín ⟨para decir⟩",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shlomó"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "y a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "en Judá"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "y Benjamín"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨para decir⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboam",
@@ -34,76 +93,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58160,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58526
-  },
-  "translation": "Di a Rejavam hijo de Shlomó, rey de Yehudá, y a todo Yisrael en Yehudá y Benjamín ⟨para decir⟩",
-  "tokens": [
-    {
-      "surface": "אמר",
-      "english": "Di"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "שלמה",
-      "english": "de Shlomó"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ואל",
-      "english": "y a"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "en Judá"
-    },
-    {
-      "surface": "ובנימן",
-      "english": "y Benjamín"
-    },
-    {
-      "surface": "לאמר",
-      "english": "⟨para decir⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:10:59.813358476Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

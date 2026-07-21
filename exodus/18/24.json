@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "exodus 18:24",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 18,
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:47:12.466158072Z",
+  "translation": "Y Moshé escuchó ⟨a⟩ la voz de su suegro e hizo todo lo que había dicho",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Y escuchó"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨a⟩ la voz"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "de su suegro"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e hizo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo que"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "había dicho"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,56 +52,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16534,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 16805
-  },
-  "translation": "Y Moshé escuchó ⟨a⟩ la voz de su suegro e hizo todo lo que había dicho",
-  "tokens": [
-    {
-      "surface": "וישמע",
-      "english": "Y escuchó"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לקול",
-      "english": "⟨a⟩ la voz"
-    },
-    {
-      "surface": "חתנו",
-      "english": "de su suegro"
-    },
-    {
-      "surface": "ויעש",
-      "english": "e hizo"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "אשר",
-      "english": "lo que"
-    },
-    {
-      "surface": "אמר",
-      "english": "había dicho"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:47:12.466158072Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

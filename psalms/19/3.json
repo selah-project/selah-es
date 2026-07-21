@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 19:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69907,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70280
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:09.458780972Z",
   "translation": "día ⟨a⟩ día gusheth palabra, y noche ⟨a⟩ noche ⟨is⟩ revealed knowledge",
   "tokens": [
     {
       "surface": "יום",
-      "english": "Día"
+      "gloss": "Día"
     },
     {
       "surface": "ליום",
-      "english": "⟨a⟩ día",
+      "gloss": "⟨a⟩ día",
       "marks": "día"
     },
     {
       "surface": "יביע",
-      "english": "gusheth"
+      "gloss": "gusheth"
     },
     {
       "surface": "אמר",
-      "english": "palabra"
+      "gloss": "palabra"
     },
     {
       "surface": "ולילה",
-      "english": "y noche"
+      "gloss": "y noche"
     },
     {
       "surface": "ללילה",
-      "english": "⟨a⟩ noche",
+      "gloss": "⟨a⟩ noche",
       "marks": "noche"
     },
     {
       "surface": "יחוה",
-      "english": "⟨is⟩ revealed"
+      "gloss": "⟨is⟩ revealed"
     },
     {
       "surface": "דעת",
-      "english": "knowledge"
+      "gloss": "knowledge"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:09.458780972Z",
-  "model": "glm-4.5"
+  ]
 }

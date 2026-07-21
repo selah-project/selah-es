@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 97:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 97,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69737,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70296
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:47:57.519419693Z",
   "translation": "Regocijaos ⟨los⟩ justos en YHWH, ⟨y⟩ dad gracias ⟨al⟩ recuerdo ⟨de su⟩ santidad.",
   "tokens": [
     {
       "surface": "שמחו",
-      "english": "Regocijaos"
+      "gloss": "Regocijaos"
     },
     {
       "surface": "צדיקים",
-      "english": "⟨los⟩ justos",
+      "gloss": "⟨los⟩ justos",
       "marks": "Regocijaos"
     },
     {
       "surface": "ביהוה",
-      "english": "en YHWH"
+      "gloss": "en YHWH"
     },
     {
       "surface": "והודו",
-      "english": "⟨y⟩ dad gracias"
+      "gloss": "⟨y⟩ dad gracias"
     },
     {
       "surface": "לזכר",
-      "english": "⟨al⟩ recuerdo"
+      "gloss": "⟨al⟩ recuerdo"
     },
     {
       "surface": "קדשו",
-      "english": "⟨de su⟩ santidad"
+      "gloss": "⟨de su⟩ santidad"
     }
-  ],
-  "timestamp": "2026-06-09T23:47:57.519419693Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "job 21:34",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26980,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27566
-  },
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:24.447932352Z",
   "translation": "Y ¿cómo ⟨seáis⟩ ⟨un⟩ consuelo ⟨para⟩ mí ⟨en⟩ vanidad, y en vuestras respuestas ⟨queda⟩ la traición?",
   "tokens": [
     {
       "surface": "ואיך",
-      "english": "Y ¿cómo"
+      "gloss": "Y ¿cómo"
     },
     {
       "surface": "תנחמוני",
-      "english": "⟨seáis⟩ ⟨un⟩ consuelo ⟨para⟩ mí"
+      "gloss": "⟨seáis⟩ ⟨un⟩ consuelo ⟨para⟩ mí"
     },
     {
       "surface": "הבל",
-      "english": "⟨en⟩ vanidad"
+      "gloss": "⟨en⟩ vanidad"
     },
     {
       "surface": "ותשובתיכם",
-      "english": "y en vuestras respuestas"
+      "gloss": "y en vuestras respuestas"
     },
     {
       "surface": "נשאר",
-      "english": "⟨queda⟩"
+      "gloss": "⟨queda⟩"
     },
     {
       "surface": "מעל",
-      "english": "la traición"
+      "gloss": "la traición"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:24.447932352Z",
-  "model": "glm-4.5"
+  ]
 }

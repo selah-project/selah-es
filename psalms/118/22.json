@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 118:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69725,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70199
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:01.843144317Z",
   "translation": "Una piedra ⟨que⟩ rechazaron ⟨los⟩ constructores ha llegado ⟨a ser⟩ ⟨la⟩ cabeza ⟨de⟩ ⟨un⟩ ángulo",
   "tokens": [
     {
       "surface": "אבן",
-      "english": "Una piedra"
+      "gloss": "Una piedra"
     },
     {
       "surface": "מאסו",
-      "english": "⟨que⟩ rechazaron"
+      "gloss": "⟨que⟩ rechazaron"
     },
     {
       "surface": "הבונים",
-      "english": "⟨los⟩ constructores"
+      "gloss": "⟨los⟩ constructores"
     },
     {
       "surface": "היתה",
-      "english": "ha llegado ⟨a ser⟩"
+      "gloss": "ha llegado ⟨a ser⟩"
     },
     {
       "surface": "לראש",
-      "english": "⟨la⟩ cabeza"
+      "gloss": "⟨la⟩ cabeza"
     },
     {
       "surface": "פנה",
-      "english": "⟨de⟩ ⟨un⟩ ángulo"
+      "gloss": "⟨de⟩ ⟨un⟩ ángulo"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:01.843144317Z",
-  "model": "glm-4.5"
+  ]
 }

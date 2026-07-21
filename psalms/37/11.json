@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 37:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 634,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69911,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70545
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:23.509187149Z",
   "translation": "y ⟨los⟩ humildes poseerán ⟨la⟩ tierra y se deleitarán en ⟨el⟩ abundante shalom",
   "tokens": [
     {
       "surface": "וענוים",
-      "english": "Y ⟨los⟩ humildes"
+      "gloss": "Y ⟨los⟩ humildes"
     },
     {
       "surface": "יירשו",
-      "english": "poseerán"
+      "gloss": "poseerán"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "והתענגו",
-      "english": "y se deleitarán"
+      "gloss": "y se deleitarán"
     },
     {
       "surface": "על",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "רב",
-      "english": "⟨el⟩ abundante"
+      "gloss": "⟨el⟩ abundante"
     },
     {
       "surface": "שלום",
-      "english": "shalom"
+      "gloss": "shalom"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:23.509187149Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "genesis 25:31",
   "book": "genesis",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 436,
-    "prompt_tokens": 28443,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28879
-  },
+  "verse": 31,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:02:54.501979053Z",
   "translation": "Y Yaakov dijo: ⟨ה⟩ véndeme hoy ⟨את⟩ tu primogenitura a mí",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "מכרה",
-      "english": "véndeme"
+      "gloss": "véndeme"
     },
     {
       "surface": "כיום",
-      "english": "hoy"
+      "gloss": "hoy"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tu primogenitura"
     },
     {
       "surface": "בכרתך",
-      "english": "tu primogenitura"
+      "gloss": "tu primogenitura"
     },
     {
       "surface": "לי",
-      "english": "a mí"
+      "gloss": "a mí"
     }
-  ],
-  "timestamp": "2026-07-16T21:02:54.501979053Z",
-  "model": "glm-4.5"
+  ]
 }

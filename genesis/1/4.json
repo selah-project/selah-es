@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 1:4",
   "book": "genesis",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 437,
-    "prompt_tokens": 28801,
-    "prompt_tokens_details": {
-      "cached_tokens": 24448
-    },
-    "total_tokens": 29238
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:50:37.939327479Z",
   "translation": "Y vio Elohim ⟨את⟩ la luz, que ⟨era⟩ buena; y separó Elohim entre la luz y entre las tinieblas.",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y vio"
+      "gloss": "Y vio"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la luz"
     },
     {
       "surface": "האור",
-      "english": "la luz"
+      "gloss": "la luz"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "טוב",
-      "english": "buena"
+      "gloss": "buena"
     },
     {
       "surface": "ויבדל",
-      "english": "y separó"
+      "gloss": "y separó"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בין",
-      "english": "entre"
+      "gloss": "entre"
     },
     {
       "surface": "האור",
-      "english": "la luz"
+      "gloss": "la luz"
     },
     {
       "surface": "ובין",
-      "english": "y entre"
+      "gloss": "y entre"
     },
     {
       "surface": "החשך",
-      "english": "las tinieblas"
+      "gloss": "las tinieblas"
     }
-  ],
-  "timestamp": "2026-07-16T20:50:37.939327479Z",
-  "model": "glm-4.5"
+  ]
 }

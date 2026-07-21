@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 130:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70190,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70645
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:05:16.723342426Z",
   "translation": "Espere Yisrael en ⟨YHWH⟩ porque con ⟨YHWH⟩ ⟨está⟩ ⟨el⟩ Jésed y con Él ⟨está⟩ ⟨la⟩ abundante redención",
   "tokens": [
     {
       "surface": "יחל",
-      "english": "Espere"
+      "gloss": "Espere"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אל",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "יהוה",
-      "english": "⟨YHWH⟩"
+      "gloss": "⟨YHWH⟩"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "יהוה",
-      "english": "⟨YHWH⟩"
+      "gloss": "⟨YHWH⟩"
     },
     {
       "surface": "החסד",
-      "english": "⟨el⟩ Jésed"
+      "gloss": "⟨el⟩ Jésed"
     },
     {
       "surface": "והרבה",
-      "english": "y con Él ⟨está⟩ ⟨la⟩ abundante"
+      "gloss": "y con Él ⟨está⟩ ⟨la⟩ abundante"
     },
     {
       "surface": "עמו",
-      "english": "con Él"
+      "gloss": "con Él"
     },
     {
       "surface": "פדות",
-      "english": "redención"
+      "gloss": "redención"
     }
-  ],
-  "timestamp": "2026-06-10T00:05:16.723342426Z",
-  "model": "glm-4.5"
+  ]
 }

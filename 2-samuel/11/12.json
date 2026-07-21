@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-samuel 11:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 11,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:25:05.428541071Z",
+  "translation": "Y Davidd dijo a Uriyá: Quédate ⟨aquí⟩ también hoy, y mañana te enviaré. Y se quedó Uriyá en Jerusalén ⟨en⟩ aquel día y ⟨al⟩ día siguiente.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y David dijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyá"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Quédate"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "⟨aquí⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "también"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "y mañana"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "te enviaré"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Y se quedó"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyá"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "en Jerusalén"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aquel día"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "⟨al⟩ día siguiente"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,88 +98,6 @@
       "hebrew": "אוריה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 582,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17678,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 18260
-  },
-  "translation": "Y Davidd dijo a Uriyá: Quédate ⟨aquí⟩ también hoy, y mañana te enviaré. Y se quedó Uriyá en Jerusalén ⟨en⟩ aquel día y ⟨al⟩ día siguiente.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y David dijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אוריה",
-      "english": "Uriyá"
-    },
-    {
-      "surface": "שב",
-      "english": "Quédate"
-    },
-    {
-      "surface": "בזה",
-      "english": "⟨aquí⟩"
-    },
-    {
-      "surface": "גם",
-      "english": "también"
-    },
-    {
-      "surface": "היום",
-      "english": "hoy"
-    },
-    {
-      "surface": "ומחר",
-      "english": "y mañana"
-    },
-    {
-      "surface": "אשלחך",
-      "english": "te enviaré"
-    },
-    {
-      "surface": "וישב",
-      "english": "Y se quedó"
-    },
-    {
-      "surface": "אוריה",
-      "english": "Uriyá"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "en Jerusalén"
-    },
-    {
-      "surface": "ביום",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "ההוא",
-      "english": "aquel día"
-    },
-    {
-      "surface": "וממחרת",
-      "english": "⟨al⟩ día siguiente"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:25:05.428541071Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

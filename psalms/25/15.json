@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 25:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70008,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70381
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:08:46.836751234Z",
   "translation": "Mis ojos ⟨están⟩ siempre hacia YHWH, ⟨porque⟩ Él sacará ⟨a⟩ mis pies ⟨de la⟩ red",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "Mis ojos"
+      "gloss": "Mis ojos"
     },
     {
       "surface": "תמיד",
-      "english": "siempre"
+      "gloss": "siempre"
     },
     {
       "surface": "אל",
-      "english": "hacia"
+      "gloss": "hacia"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩",
+      "gloss": "⟨porque⟩",
       "marks": "Él sacará a mis pies de la red"
     },
     {
       "surface": "הוא",
-      "english": "Él"
+      "gloss": "Él"
     },
     {
       "surface": "יוציא",
-      "english": "sacará"
+      "gloss": "sacará"
     },
     {
       "surface": "מרשת",
-      "english": "⟨de la⟩",
+      "gloss": "⟨de la⟩",
       "marks": "red"
     },
     {
       "surface": "רגלי",
-      "english": "mis pies"
+      "gloss": "mis pies"
     }
-  ],
-  "timestamp": "2026-06-09T23:08:46.836751234Z",
-  "model": "glm-4.5"
+  ]
 }

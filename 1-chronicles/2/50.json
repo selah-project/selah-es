@@ -1,9 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 50,
   "ref": "1-chronicles 2:50",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 2,
+  "verse": 50,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:28:14.103882577Z",
+  "translation": "Estos ⟨eran⟩ los hijos de Kalev hijo de Hur, primogénito de Efrata; Shobal padre ⟨de⟩ Kiryat-yearim.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Estos"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨eran⟩",
+      "marks": "Estos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "primogénito"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Efrata"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "yearim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Caleb",
@@ -13,73 +69,6 @@
       "hebrew": "כלב"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57070,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57447
-  },
-  "translation": "Estos ⟨eran⟩ los hijos de Kalev hijo de Hur, primogénito de Efrata; Shobal padre ⟨de⟩ Kiryat-yearim.",
-  "tokens": [
-    {
-      "surface": "אלה",
-      "english": "Estos"
-    },
-    {
-      "surface": "היו",
-      "english": "⟨eran⟩",
-      "marks": "Estos"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "כלב",
-      "english": "Kalev"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "חור",
-      "english": "Hur"
-    },
-    {
-      "surface": "בכור",
-      "english": "primogénito"
-    },
-    {
-      "surface": "אפרתה",
-      "english": "Efrata"
-    },
-    {
-      "surface": "שובל",
-      "english": "Shobal"
-    },
-    {
-      "surface": "אבי",
-      "english": "padre"
-    },
-    {
-      "surface": "קרית",
-      "english": "Kiryat"
-    },
-    {
-      "surface": "יערים",
-      "english": "yearim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:28:14.103882577Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

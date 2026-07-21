@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "1-chronicles 13:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 13,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:42:25.710322819Z",
+  "translation": "Y Davidd ⟨consultó⟩ con ⟨los⟩ capitanes de ⟨los⟩ millares y ⟨con las⟩ centurias, con ⟨todo⟩ príncipe.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "Y David ⟨consultó⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con ⟨los⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "capitanes"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "de ⟨los⟩ millares"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "y ⟨con las⟩ centurias"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "con ⟨todo⟩"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "príncipe"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,56 +52,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56710,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57194
-  },
-  "translation": "Y Davidd ⟨consultó⟩ con ⟨los⟩ capitanes de ⟨los⟩ millares y ⟨con las⟩ centurias, con ⟨todo⟩ príncipe.",
-  "tokens": [
-    {
-      "surface": "ויועץ",
-      "english": "Y David ⟨consultó⟩"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "עם",
-      "english": "con ⟨los⟩"
-    },
-    {
-      "surface": "שרי",
-      "english": "capitanes"
-    },
-    {
-      "surface": "האלפים",
-      "english": "de ⟨los⟩ millares"
-    },
-    {
-      "surface": "והמאות",
-      "english": "y ⟨con las⟩ centurias"
-    },
-    {
-      "surface": "לכל",
-      "english": "con ⟨todo⟩"
-    },
-    {
-      "surface": "נגיד",
-      "english": "príncipe"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:42:25.710322819Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

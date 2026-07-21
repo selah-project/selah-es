@@ -1,77 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "jeremiah 8:22",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 569,
-    "prompt_tokens": 25012,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25581
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:36:16.590211674Z",
   "translation": "¿⟨No hay⟩ bálsamo en Guilad? ¿⟨o⟩ médico ⟨allí⟩? ¿Por qué, pues, ⟨no⟩ ha subido ⟨la⟩ salud de ⟨la⟩ hija de mi pueblo?",
   "tokens": [
     {
       "surface": "הצרי",
-      "english": "bálsamo"
+      "gloss": "bálsamo"
     },
     {
       "surface": "אין",
-      "english": "⟨No hay⟩"
+      "gloss": "⟨No hay⟩"
     },
     {
       "surface": "בגלעד",
-      "english": "en Guilad"
+      "gloss": "en Guilad"
     },
     {
       "surface": "אם",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "רפא",
-      "english": "médico"
+      "gloss": "médico"
     },
     {
       "surface": "אין",
-      "english": "⟨allí⟩"
+      "gloss": "⟨allí⟩"
     },
     {
       "surface": "שם",
-      "english": "⟨allí⟩"
+      "gloss": "⟨allí⟩"
     },
     {
       "surface": "כי",
-      "english": "¿Por qué, pues,"
+      "gloss": "¿Por qué, pues,"
     },
     {
       "surface": "מדוע",
-      "english": "⟨Por qué, pues,⟩"
+      "gloss": "⟨Por qué, pues,⟩"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "עלתה",
-      "english": "ha subido"
+      "gloss": "ha subido"
     },
     {
       "surface": "ארכת",
-      "english": "⟨la⟩ salud"
+      "gloss": "⟨la⟩ salud"
     },
     {
       "surface": "בת",
-      "english": "de ⟨la⟩ hija"
+      "gloss": "de ⟨la⟩ hija"
     },
     {
       "surface": "עמי",
-      "english": "de mi pueblo"
+      "gloss": "de mi pueblo"
     }
-  ],
-  "timestamp": "2026-07-16T21:36:16.590211674Z",
-  "model": "glm-4.5"
+  ]
 }

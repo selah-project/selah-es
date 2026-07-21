@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "zephaniah 2:1",
   "book": "zephaniah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22970,
-    "prompt_tokens_details": {
-      "cached_tokens": 22175
-    },
-    "total_tokens": 23284
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:22:46.636403534Z",
   "translation": "Reuníos, sí, reuníos ⟨el⟩ nación no deseada",
   "tokens": [
     {
       "surface": "התקוששו",
-      "english": "Reuníos"
+      "gloss": "Reuníos"
     },
     {
       "surface": "וקושו",
-      "english": "sí, reuníos"
+      "gloss": "sí, reuníos"
     },
     {
       "surface": "הגוי",
-      "english": "⟨el⟩ nación",
+      "gloss": "⟨el⟩ nación",
       "marks": "nación"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "נכסף",
-      "english": "deseada"
+      "gloss": "deseada"
     }
-  ],
-  "timestamp": "2026-06-09T22:22:46.636403534Z",
-  "model": "glm-4.5"
+  ]
 }

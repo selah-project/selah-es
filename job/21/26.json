@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "job 21:26",
   "book": "job",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27045,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27478
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:05:17.471565393Z",
   "translation": "Juntos ⟨sobre⟩ ⟨el⟩ polvo ⟨ellos⟩ yacerán, ⟨y⟩ la gusanera ⟨cubrirá⟩ sobre ellos.",
   "tokens": [
     {
       "surface": "יחד",
-      "english": "Juntos"
+      "gloss": "Juntos"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "עפר",
-      "english": "⟨el⟩ polvo",
+      "gloss": "⟨el⟩ polvo",
       "marks": "polvo"
     },
     {
       "surface": "ישכבו",
-      "english": "⟨ellos⟩ yacerán"
+      "gloss": "⟨ellos⟩ yacerán"
     },
     {
       "surface": "ורמה",
-      "english": "⟨y⟩ la gusanera"
+      "gloss": "⟨y⟩ la gusanera"
     },
     {
       "surface": "תכסה",
-      "english": "⟨cubrirá⟩"
+      "gloss": "⟨cubrirá⟩"
     },
     {
       "surface": "עליהם",
-      "english": "sobre ellos"
+      "gloss": "sobre ellos"
     }
-  ],
-  "timestamp": "2026-06-10T02:05:17.471565393Z",
-  "model": "glm-4.5"
+  ]
 }

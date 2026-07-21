@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "proverbs 13:21",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 434,
-    "prompt_tokens": 60065,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60499
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:19:54.332007430Z",
   "translation": "El mal persigue a ⟨los⟩ pecadores, pero a ⟨los⟩ justos ⟨את⟩ YHWH ⟨recompensará⟩ con bien.",
   "tokens": [
     {
       "surface": "חטאים",
-      "english": "a ⟨los⟩ pecadores"
+      "gloss": "a ⟨los⟩ pecadores"
     },
     {
       "surface": "תרדף",
-      "english": "persigue"
+      "gloss": "persigue"
     },
     {
       "surface": "רעה",
-      "english": "El mal"
+      "gloss": "El mal"
     },
     {
       "surface": "ואת",
-      "english": "pero a ⟨los⟩ justos ⟨את⟩",
+      "gloss": "pero a ⟨los⟩ justos ⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "צדיקים",
-      "english": "justos"
+      "gloss": "justos"
     },
     {
       "surface": "ישלם",
-      "english": "⟨recompensará⟩"
+      "gloss": "⟨recompensará⟩"
     },
     {
       "surface": "טוב",
-      "english": "con bien"
+      "gloss": "con bien"
     }
-  ],
-  "timestamp": "2026-07-16T23:19:54.332007430Z",
-  "model": "glm-4.5"
+  ]
 }

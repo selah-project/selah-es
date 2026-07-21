@@ -1,82 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 18:6",
   "book": "genesis",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 580,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28870,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29450
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:15:04.621949865Z",
   "translation": "Y Avraham se apresuró ⟨a⟩ la tienda ⟨a⟩ Saray y dijo apúrate tres seahs de harina fina amasa ⟨y⟩ haz ⟨en⟩ panes.",
   "tokens": [
     {
       "surface": "וימהר",
-      "english": "Y Avraham se apresuró"
+      "gloss": "Y Avraham se apresuró"
     },
     {
       "surface": "אברהם",
-      "english": "Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "האהלה",
-      "english": "⟨a⟩ la tienda",
+      "gloss": "⟨a⟩ la tienda",
       "marks": "la tienda"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Saray"
     },
     {
       "surface": "שרה",
-      "english": "Saray"
+      "gloss": "Saray"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "מהרי",
-      "english": "apúrate"
+      "gloss": "apúrate"
     },
     {
       "surface": "שלש",
-      "english": "tres"
+      "gloss": "tres"
     },
     {
       "surface": "סאים",
-      "english": "seahs"
+      "gloss": "seahs"
     },
     {
       "surface": "קמח",
-      "english": "harina"
+      "gloss": "harina"
     },
     {
       "surface": "סלת",
-      "english": "fina"
+      "gloss": "fina"
     },
     {
       "surface": "לושי",
-      "english": "amasa"
+      "gloss": "amasa"
     },
     {
       "surface": "ועשי",
-      "english": "⟨y⟩ haz"
+      "gloss": "⟨y⟩ haz"
     },
     {
       "surface": "עגות",
-      "english": "⟨en⟩ panes"
+      "gloss": "⟨en⟩ panes"
     }
-  ],
-  "timestamp": "2026-06-10T05:15:04.621949865Z",
-  "model": "glm-4.5"
+  ]
 }

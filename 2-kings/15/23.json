@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "2-kings 15:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 15,
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:35:48.325370007Z",
+  "translation": "En el año cincuenta ⟨del⟩ reinado de Azarías, rey ⟨de⟩ Judá, reinó Pecajías hijo ⟨de⟩ Manahem ⟨sobre⟩ Yisrael en Samaria, dos años.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "En el año"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cincuenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨del⟩ reinado"
+    },
+    {
+      "surface": "לעזריה",
+      "gloss": "de Azarías"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "Pecajías"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "⟨de⟩ Manahem"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "en Samaria"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dos años"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,80 +76,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17103,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17762
-  },
-  "translation": "En el año cincuenta ⟨del⟩ reinado de Azarías, rey ⟨de⟩ Judá, reinó Pecajías hijo ⟨de⟩ Manahem ⟨sobre⟩ Yisrael en Samaria, dos años.",
-  "tokens": [
-    {
-      "surface": "בשנת",
-      "english": "En el año"
-    },
-    {
-      "surface": "חמשים",
-      "english": "cincuenta"
-    },
-    {
-      "surface": "שנה",
-      "english": "⟨del⟩ reinado"
-    },
-    {
-      "surface": "לעזריה",
-      "english": "de Azarías"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    },
-    {
-      "surface": "פקחיה",
-      "english": "Pecajías"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "מנחם",
-      "english": "⟨de⟩ Manahem"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בשמרון",
-      "english": "en Samaria"
-    },
-    {
-      "surface": "שנתים",
-      "english": "dos años"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:35:48.325370007Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

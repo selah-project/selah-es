@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "isaiah 19:2",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26586,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27013
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:31:38.392342213Z",
   "translation": "Y ⟨estaré⟩ incitando ⟨a⟩ Mitzráyim contra Mitzráyim, y lucharán cada hombre contra su hermano y cada hombre contra su amigo, ciudad contra ciudad y reino contra reino.",
   "tokens": [
     {
       "surface": "וסכסכתי",
-      "english": "Y ⟨estaré⟩ incitando"
+      "gloss": "Y ⟨estaré⟩ incitando"
     },
     {
       "surface": "מצרים",
-      "english": "Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "במצרים",
-      "english": "contra Mitzráyim"
+      "gloss": "contra Mitzráyim"
     },
     {
       "surface": "ונלחמו",
-      "english": "y lucharán"
+      "gloss": "y lucharán"
     },
     {
       "surface": "איש",
-      "english": "cada hombre"
+      "gloss": "cada hombre"
     },
     {
       "surface": "באחיו",
-      "english": "contra su hermano"
+      "gloss": "contra su hermano"
     },
     {
       "surface": "ואיש",
-      "english": "y cada hombre"
+      "gloss": "y cada hombre"
     },
     {
       "surface": "ברעהו",
-      "english": "contra su amigo"
+      "gloss": "contra su amigo"
     },
     {
       "surface": "עיר",
-      "english": "ciudad"
+      "gloss": "ciudad"
     },
     {
       "surface": "בעיר",
-      "english": "contra ciudad"
+      "gloss": "contra ciudad"
     },
     {
       "surface": "ממלכה",
-      "english": "reino"
+      "gloss": "reino"
     },
     {
       "surface": "בממלכה",
-      "english": "contra reino"
+      "gloss": "contra reino"
     }
-  ],
-  "timestamp": "2026-06-10T02:31:38.392342213Z",
-  "model": "glm-4.5"
+  ]
 }

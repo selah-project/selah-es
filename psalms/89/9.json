@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 89:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 637,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70136,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70773
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:44.167551582Z",
   "translation": "YHWH Elohei Tzevaot ¿quién ⟨es⟩ como Tú? ⟨el⟩ fuerte, Yah; ⟨y⟩ ⟨la⟩ fidelidad ⟨de⟩ Ti ⟨está⟩ alrededor ⟨de⟩ Ti.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
-      "english": "Elohei"
+      "gloss": "Elohei"
     },
     {
       "surface": "צבאות",
-      "english": "Tzevaot"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "מי",
-      "english": "¿quién"
+      "gloss": "¿quién"
     },
     {
       "surface": "כמוך",
-      "english": "como Tú"
+      "gloss": "como Tú"
     },
     {
       "surface": "חסין",
-      "english": "⟨el⟩ fuerte",
+      "gloss": "⟨el⟩ fuerte",
       "marks": "yah"
     },
     {
       "surface": "יה",
-      "english": "Yah"
+      "gloss": "Yah"
     },
     {
       "surface": "ואמונתך",
-      "english": "⟨y⟩ ⟨la⟩ fidelidad ⟨de⟩ Ti"
+      "gloss": "⟨y⟩ ⟨la⟩ fidelidad ⟨de⟩ Ti"
     },
     {
       "surface": "סביבותיך",
-      "english": "⟨está⟩ alrededor ⟨de⟩ Ti"
+      "gloss": "⟨está⟩ alrededor ⟨de⟩ Ti"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:44.167551582Z",
-  "model": "glm-4.5"
+  ]
 }

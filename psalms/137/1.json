@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 137:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 509,
-    "prompt_tokens": 70402,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70911
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:44:28.348348199Z",
   "translation": "Junto a los ríos de Bavel, allí nos sentamos, también lloramos cuando recordamos ⟨את⟩ Tzión.",
   "tokens": [
     {
       "surface": "על",
-      "english": "Junto a"
+      "gloss": "Junto a"
     },
     {
       "surface": "נהרות",
-      "english": "los ríos"
+      "gloss": "los ríos"
     },
     {
       "surface": "בבל",
-      "english": "de Bavel"
+      "gloss": "de Bavel"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "ישבנו",
-      "english": "nos sentamos"
+      "gloss": "nos sentamos"
     },
     {
       "surface": "גם",
-      "english": "también"
+      "gloss": "también"
     },
     {
       "surface": "בכינו",
-      "english": "lloramos"
+      "gloss": "lloramos"
     },
     {
       "surface": "בזכרנו",
-      "english": "cuando recordamos"
+      "gloss": "cuando recordamos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Tzión"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     }
-  ],
-  "timestamp": "2026-07-16T23:44:28.348348199Z",
-  "model": "glm-4.5"
+  ]
 }

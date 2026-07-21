@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "1-samuel 28:5",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 450,
-    "prompt_tokens": 23727,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24177
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:45:49.214329605Z",
   "translation": "Y Shaúl vio ⟨את⟩ el campamento ⟨de⟩ los Pelishtim y temió y tembló su corazón mucho",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y vio"
+      "gloss": "Y vio"
     },
     {
       "surface": "שאול",
-      "english": "Shaúl"
+      "gloss": "Shaúl"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el campamento"
     },
     {
       "surface": "מחנה",
-      "english": "el campamento"
+      "gloss": "el campamento"
     },
     {
       "surface": "פלשתים",
-      "english": "⟨de⟩ los Pelishtim"
+      "gloss": "⟨de⟩ los Pelishtim"
     },
     {
       "surface": "וירא",
-      "english": "y temió"
+      "gloss": "y temió"
     },
     {
       "surface": "ויחרד",
-      "english": "y tembló"
+      "gloss": "y tembló"
     },
     {
       "surface": "לבו",
-      "english": "su corazón"
+      "gloss": "su corazón"
     },
     {
       "surface": "מאד",
-      "english": "mucho"
+      "gloss": "mucho"
     }
-  ],
-  "timestamp": "2026-07-16T18:45:49.214329605Z",
-  "model": "glm-4.5"
+  ]
 }

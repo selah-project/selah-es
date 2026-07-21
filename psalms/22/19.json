@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 22:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 407,
-    "prompt_tokens": 69962,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70369
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:10.445032121Z",
   "translation": "Se reparten ⟨את⟩ mis vestiduras entre ellos, y sobre mi ropa echan ⟨את⟩ suertes",
   "tokens": [
     {
       "surface": "יחלקו",
-      "english": "Se reparten"
+      "gloss": "Se reparten"
     },
     {
       "surface": "בגדי",
-      "english": "mis vestiduras"
+      "gloss": "mis vestiduras"
     },
     {
       "surface": "להם",
-      "english": "entre ellos"
+      "gloss": "entre ellos"
     },
     {
       "surface": "ועל",
-      "english": "y sobre"
+      "gloss": "y sobre"
     },
     {
       "surface": "לבושי",
-      "english": "mi ropa"
+      "gloss": "mi ropa"
     },
     {
       "surface": "יפילו",
-      "english": "echan ⟨את⟩ suertes"
+      "gloss": "echan ⟨את⟩ suertes"
     },
     {
       "surface": "גורל",
-      "english": "",
+      "gloss": "",
       "marks": "suertes"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:10.445032121Z",
-  "model": "glm-4.5"
+  ]
 }

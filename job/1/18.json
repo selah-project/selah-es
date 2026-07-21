@@ -1,80 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 1:18",
   "book": "job",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27712,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 28180
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:54:13.172078125Z",
   "translation": "Mientras aún ⟨estaba⟩ hablando este, vino ⟨el⟩ otro y dijo: Tus hijos y tus hijas ⟨estaban⟩ comiendo y bebiendo vino ⟨en⟩ ⟨la⟩ casa de su hermano el primogénito.",
   "tokens": [
     {
       "surface": "עד",
-      "english": "Mientras aún"
+      "gloss": "Mientras aún"
     },
     {
       "surface": "זה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "מדבר",
-      "english": "⟨estaba⟩ hablando"
+      "gloss": "⟨estaba⟩ hablando"
     },
     {
       "surface": "וזה",
-      "english": "y vino ⟨el⟩ otro"
+      "gloss": "y vino ⟨el⟩ otro"
     },
     {
       "surface": "בא",
-      "english": "vino"
+      "gloss": "vino"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "בניך",
-      "english": "Tus hijos"
+      "gloss": "Tus hijos"
     },
     {
       "surface": "ובנותיך",
-      "english": "y tus hijas"
+      "gloss": "y tus hijas"
     },
     {
       "surface": "אכלים",
-      "english": "⟨estaban⟩ comiendo"
+      "gloss": "⟨estaban⟩ comiendo"
     },
     {
       "surface": "ושתים",
-      "english": "y bebiendo"
+      "gloss": "y bebiendo"
     },
     {
       "surface": "יין",
-      "english": "vino"
+      "gloss": "vino"
     },
     {
       "surface": "בבית",
-      "english": "⟨en⟩ ⟨la⟩ casa"
+      "gloss": "⟨en⟩ ⟨la⟩ casa"
     },
     {
       "surface": "אחיהם",
-      "english": "de su hermano"
+      "gloss": "de su hermano"
     },
     {
       "surface": "הבכור",
-      "english": "el primogénito"
+      "gloss": "el primogénito"
     }
-  ],
-  "timestamp": "2026-06-10T01:54:13.172078125Z",
-  "model": "glm-4.5"
+  ]
 }

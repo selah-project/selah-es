@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 149:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 149,
-  "usage": {
-    "completion_tokens": 447,
-    "prompt_tokens": 70062,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70509
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:46:14.564090436Z",
   "translation": "Yisrael ⟨shall⟩ rejoice in ⟨its⟩ Maker; ⟨the⟩ sons of Tzión ⟨shall⟩ exult in their King.",
   "tokens": [
     {
       "surface": "ישמח",
-      "english": "⟨shall⟩ rejoice",
+      "gloss": "⟨shall⟩ rejoice",
       "notes": "imperfect joy, brightening up"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "בעשיו",
-      "english": "in ⟨its⟩ Maker"
+      "gloss": "in ⟨its⟩ Maker"
     },
     {
       "surface": "בני",
-      "english": "⟨the⟩ sons"
+      "gloss": "⟨the⟩ sons"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     },
     {
       "surface": "יגילו",
-      "english": "⟨shall⟩ exult"
+      "gloss": "⟨shall⟩ exult"
     },
     {
       "surface": "במלכם",
-      "english": "in their King"
+      "gloss": "in their King"
     }
-  ],
-  "timestamp": "2026-07-16T23:46:14.564090436Z",
-  "model": "glm-4.5"
+  ]
 }

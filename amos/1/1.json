@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "amos 1:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 1,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:01:02.395225774Z",
+  "translation": "Las palabras de Amós, quien ⟨fue⟩ entre ⟨los⟩ pastores de Tecoa, lo que vio sobre Yisrael en los días de Uziyahu rey de Yehudá y en los días de Yarovám ben Joás rey de Yisrael, dos años antes del terremoto",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Las palabras de"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amós"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quien"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨fue⟩"
+    },
+    {
+      "surface": "בנקדים",
+      "gloss": "entre ⟨los⟩ pastores"
+    },
+    {
+      "surface": "מתקוע",
+      "gloss": "de Tecoa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo que"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "vio"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "en los días de"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "y en los días de"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovám"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joás"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dos años"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "antes de"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "el terremoto"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -41,116 +140,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 1,
-  "usage": {
-    "completion_tokens": 641,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17586,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 18227
-  },
-  "translation": "Las palabras de Amós, quien ⟨fue⟩ entre ⟨los⟩ pastores de Tecoa, lo que vio sobre Yisrael en los días de Uziyahu rey de Yehudá y en los días de Yarovám ben Joás rey de Yisrael, dos años antes del terremoto",
-  "tokens": [
-    {
-      "surface": "דברי",
-      "english": "Las palabras de"
-    },
-    {
-      "surface": "עמוס",
-      "english": "Amós"
-    },
-    {
-      "surface": "אשר",
-      "english": "quien"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨fue⟩"
-    },
-    {
-      "surface": "בנקדים",
-      "english": "entre ⟨los⟩ pastores"
-    },
-    {
-      "surface": "מתקוע",
-      "english": "de Tecoa"
-    },
-    {
-      "surface": "אשר",
-      "english": "lo que"
-    },
-    {
-      "surface": "חזה",
-      "english": "vio"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "בימי",
-      "english": "en los días de"
-    },
-    {
-      "surface": "עזיה",
-      "english": "Uziyahu"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "ובימי",
-      "english": "y en los días de"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yarovám"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "יואש",
-      "english": "Joás"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "שנתים",
-      "english": "dos años"
-    },
-    {
-      "surface": "לפני",
-      "english": "antes de"
-    },
-    {
-      "surface": "הרעש",
-      "english": "el terremoto"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:01:02.395225774Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

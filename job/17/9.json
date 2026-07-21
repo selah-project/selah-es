@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 17:9",
   "book": "job",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27040,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27598
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:02:53.385709873Z",
   "translation": "Y ⟨el⟩ justo ⟨se aferra a⟩ ⟨el⟩ camino ⟨de⟩ él y ⟨el⟩ de manos limpias ⟨añade⟩ fortaleza",
   "tokens": [
     {
       "surface": "ויאחז",
-      "english": "Y ⟨se aferra a⟩",
+      "gloss": "Y ⟨se aferra a⟩",
       "marks": "⟨el camino⟩"
     },
     {
       "surface": "צדיק",
-      "english": "⟨el⟩ justo"
+      "gloss": "⟨el⟩ justo"
     },
     {
       "surface": "דרכו",
-      "english": "⟨el⟩ camino ⟨de⟩ él"
+      "gloss": "⟨el⟩ camino ⟨de⟩ él"
     },
     {
       "surface": "וטהר",
-      "english": "Y ⟨el⟩",
+      "gloss": "Y ⟨el⟩",
       "marks": "⟨el⟩"
     },
     {
       "surface": "ידים",
-      "english": "manos limpias"
+      "gloss": "manos limpias"
     },
     {
       "surface": "יסיף",
-      "english": "⟨añade⟩"
+      "gloss": "⟨añade⟩"
     },
     {
       "surface": "אמץ",
-      "english": "fortaleza"
+      "gloss": "fortaleza"
     }
-  ],
-  "timestamp": "2026-06-10T02:02:53.385709873Z",
-  "model": "glm-4.5"
+  ]
 }

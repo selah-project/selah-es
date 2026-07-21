@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "joel 4:20",
   "book": "joel",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22895,
-    "prompt_tokens_details": {
-      "cached_tokens": 22278
-    },
-    "total_tokens": 23255
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:29:09.904935972Z",
   "translation": "Yehudah ⟨será⟩ habitada ⟨para⟩ siempre ⟨y⟩ Yerushalayim ⟨de⟩ generación ⟨en⟩ generación.",
   "tokens": [
     {
       "surface": "ויהודה",
-      "english": "Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "לעולם",
-      "english": "⟨para⟩ siempre"
+      "gloss": "⟨para⟩ siempre"
     },
     {
       "surface": "תשב",
-      "english": "⟨será⟩ habitada"
+      "gloss": "⟨será⟩ habitada"
     },
     {
       "surface": "וירושלם",
-      "english": "⟨y⟩ Yerushalayim"
+      "gloss": "⟨y⟩ Yerushalayim"
     },
     {
       "surface": "לדור",
-      "english": "⟨de⟩ generación"
+      "gloss": "⟨de⟩ generación"
     },
     {
       "surface": "ודור",
-      "english": "⟨en⟩ generación"
+      "gloss": "⟨en⟩ generación"
     }
-  ],
-  "timestamp": "2026-06-10T00:29:09.904935972Z",
-  "model": "glm-4.5"
+  ]
 }

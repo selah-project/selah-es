@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "numbers 20:4",
   "book": "numbers",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 409,
-    "prompt_tokens": 25546,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25955
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:07:20.244504452Z",
   "translation": "¿Y por qué hicisteis venir ⟨את⟩ la asamblea de YHWH a este desierto para morir allí, nosotros y nuestros ganados?",
   "tokens": [
     {
       "surface": "ולמה",
-      "english": "¿Y por qué"
+      "gloss": "¿Y por qué"
     },
     {
       "surface": "הבאתם",
-      "english": "hicisteis venir"
+      "gloss": "hicisteis venir"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la asamblea"
     },
     {
       "surface": "קהל",
-      "english": "la asamblea"
+      "gloss": "la asamblea"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "המדבר",
-      "english": "este desierto"
+      "gloss": "este desierto"
     },
     {
       "surface": "הזה",
-      "english": "este"
+      "gloss": "este"
     },
     {
       "surface": "למות",
-      "english": "para morir"
+      "gloss": "para morir"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "אנחנו",
-      "english": "nosotros"
+      "gloss": "nosotros"
     },
     {
       "surface": "ובעירנו",
-      "english": "y nuestros ganados"
+      "gloss": "y nuestros ganados"
     }
-  ],
-  "timestamp": "2026-07-16T23:07:20.244504452Z",
-  "model": "glm-4.5"
+  ]
 }

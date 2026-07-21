@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-samuel 4:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 4,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:47:55.718197226Z",
+  "translation": "Y él vino y he aquí, Elí ⟨estaba⟩ sentado ⟨sobre⟩ el trono ⟨por⟩ el camino, esperando, porque ⟨su⟩ corazón ⟨estaba⟩ temblando ⟨por⟩ Arón de HaElohim. Y el hombre vino para ⟨lo⟩ declarar ⟨en⟩ la ciudad, y toda ⟨la⟩ ciudad gritó.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Y él vino"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "y he aquí"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elí"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨estaba⟩ sentado"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "el trono"
+    },
+    {
+      "surface": "יך",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "el camino"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "esperando"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨estaba⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "⟨su⟩ corazón"
+    },
+    {
+      "surface": "חרד",
+      "gloss": "⟨estaba⟩ temblando"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨por⟩"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arón"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de HaElohim"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "Y el hombre"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vino"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "para ⟨lo⟩ declarar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨en⟩ la ciudad"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "y gritó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨la⟩ ciudad"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el arca",
@@ -13,116 +112,6 @@
       "hebrew": "ארון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 824,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17432,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 18256
-  },
-  "translation": "Y él vino y he aquí, Elí ⟨estaba⟩ sentado ⟨sobre⟩ el trono ⟨por⟩ el camino, esperando, porque ⟨su⟩ corazón ⟨estaba⟩ temblando ⟨por⟩ Arón de HaElohim. Y el hombre vino para ⟨lo⟩ declarar ⟨en⟩ la ciudad, y toda ⟨la⟩ ciudad gritó.",
-  "tokens": [
-    {
-      "surface": "ויבוא",
-      "english": "Y él vino"
-    },
-    {
-      "surface": "והנה",
-      "english": "y he aquí"
-    },
-    {
-      "surface": "עלי",
-      "english": "Elí"
-    },
-    {
-      "surface": "ישב",
-      "english": "⟨estaba⟩ sentado"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "הכסא",
-      "english": "el trono"
-    },
-    {
-      "surface": "יך",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "דרך",
-      "english": "el camino"
-    },
-    {
-      "surface": "מצפה",
-      "english": "esperando"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "היה",
-      "english": "⟨estaba⟩"
-    },
-    {
-      "surface": "לבו",
-      "english": "⟨su⟩ corazón"
-    },
-    {
-      "surface": "חרד",
-      "english": "⟨estaba⟩ temblando"
-    },
-    {
-      "surface": "על",
-      "english": "⟨por⟩"
-    },
-    {
-      "surface": "ארון",
-      "english": "Arón"
-    },
-    {
-      "surface": "האלהים",
-      "english": "de HaElohim"
-    },
-    {
-      "surface": "והאיש",
-      "english": "Y el hombre"
-    },
-    {
-      "surface": "בא",
-      "english": "vino"
-    },
-    {
-      "surface": "להגיד",
-      "english": "para ⟨lo⟩ declarar"
-    },
-    {
-      "surface": "בעיר",
-      "english": "⟨en⟩ la ciudad"
-    },
-    {
-      "surface": "ותזעק",
-      "english": "y gritó"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "העיר",
-      "english": "⟨la⟩ ciudad"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:47:55.718197226Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 60,
   "ref": "numbers 26:60",
   "book": "numbers",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 419,
-    "prompt_tokens": 25507,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25926
-  },
+  "verse": 60,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:10:30.961394541Z",
   "translation": "Y ⟨le⟩ nacieron a Aharón ⟨את⟩ Nadab y ⟨את⟩ Abihú, ⟨את⟩ Elazar y ⟨את⟩ Itamar.",
   "tokens": [
     {
       "surface": "ויולד",
-      "english": "Y nacieron"
+      "gloss": "Y nacieron"
     },
     {
       "surface": "לאהרן",
-      "english": "a Aharón"
+      "gloss": "a Aharón"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Nadab"
     },
     {
       "surface": "נדב",
-      "english": "Nadab"
+      "gloss": "Nadab"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Abihú"
     },
     {
       "surface": "אביהוא",
-      "english": "Abihú"
+      "gloss": "Abihú"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Elazar"
     },
     {
       "surface": "אלעזר",
-      "english": "Elazar"
+      "gloss": "Elazar"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Itamar"
     },
     {
       "surface": "איתמר",
-      "english": "Itamar"
+      "gloss": "Itamar"
     }
-  ],
-  "timestamp": "2026-07-16T23:10:30.961394541Z",
-  "model": "glm-4.5"
+  ]
 }

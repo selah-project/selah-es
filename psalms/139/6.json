@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 139:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69826,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70224
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:08:21.086466007Z",
   "translation": "⟨Es⟩ conocimiento admirable ⟨para⟩ mí; ⟨es⟩ demasiado alto, no puedo ⟨alo⟩ alcanzar ⟨a⟩ él.",
   "tokens": [
     {
       "surface": "פלאיה",
-      "english": "Conocimiento admirable"
+      "gloss": "Conocimiento admirable"
     },
     {
       "surface": "דעת",
-      "english": "conocimiento"
+      "gloss": "conocimiento"
     },
     {
       "surface": "ממני",
-      "english": "⟨para⟩ mí"
+      "gloss": "⟨para⟩ mí"
     },
     {
       "surface": "נשגבה",
-      "english": "demasiado alto"
+      "gloss": "demasiado alto"
     },
     {
       "surface": "לא",
-      "english": "no puedo"
+      "gloss": "no puedo"
     },
     {
       "surface": "אוכל",
-      "english": "⟨alo⟩ alcanzar"
+      "gloss": "⟨alo⟩ alcanzar"
     },
     {
       "surface": "לה",
-      "english": "⟨a⟩ él"
+      "gloss": "⟨a⟩ él"
     }
-  ],
-  "timestamp": "2026-06-10T00:08:21.086466007Z",
-  "model": "glm-4.5"
+  ]
 }

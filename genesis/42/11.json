@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 42:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28592,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29115
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:39:23.475520140Z",
   "translation": "Todos nosotros ⟨son⟩ ⟨los⟩ hijos de ⟨un⟩ ⟨hombre⟩, ⟨somos⟩ hombres honestos, ⟨los⟩ siervos de ti no ⟨fueron⟩ ⟨los⟩ espías.",
   "tokens": [
     {
       "surface": "כלנו",
-      "english": "Todos nosotros"
+      "gloss": "Todos nosotros"
     },
     {
       "surface": "בני",
-      "english": "hijos de"
+      "gloss": "hijos de"
     },
     {
       "surface": "איש",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "אחד",
-      "english": "un"
+      "gloss": "un"
     },
     {
       "surface": "נחנו",
-      "english": "somos"
+      "gloss": "somos"
     },
     {
       "surface": "כנים",
-      "english": "hombres honestos"
+      "gloss": "hombres honestos"
     },
     {
       "surface": "אנחנו",
-      "english": "⟨somos⟩"
+      "gloss": "⟨somos⟩"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "היו",
-      "english": "⟨fueron⟩"
+      "gloss": "⟨fueron⟩"
     },
     {
       "surface": "עבדיך",
-      "english": "⟨los⟩ siervos de ti"
+      "gloss": "⟨los⟩ siervos de ti"
     },
     {
       "surface": "מרגלים",
-      "english": "⟨los⟩ espías"
+      "gloss": "⟨los⟩ espías"
     }
-  ],
-  "timestamp": "2026-06-10T05:39:23.475520140Z",
-  "model": "glm-4.5"
+  ]
 }

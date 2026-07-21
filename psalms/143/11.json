@@ -1,33 +1,24 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 143:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 868,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70111,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70979
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:09:59.468423011Z",
   "translation": "Por ⟨el⟩ sake de ⟨tu⟩ Nombre, YHWH, vivifica ⟨a⟩ mí; en ⟨tu⟩ justicia saca ⟨a⟩ mi alma de ⟨la⟩ angustia.",
   "tokens": [
     {
       "surface": "למען",
-      "english": "Por ⟨el⟩ sake de",
+      "gloss": "Por ⟨el⟩ sake de",
       "lemma": "4616",
       "gv": 190,
       "freq": 243
     },
     {
       "surface": "שמך",
-      "english": "⟨tu⟩ Nombre",
+      "gloss": "⟨tu⟩ Nombre",
       "marks": "Nombre",
       "lemma": "8034",
       "gv": 360,
@@ -35,21 +26,21 @@
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "lemma": "3068",
       "gv": 26,
       "freq": 6007
     },
     {
       "surface": "תחיני",
-      "english": "vivifica ⟨a⟩ mí",
+      "gloss": "vivifica ⟨a⟩ mí",
       "lemma": "2421",
       "gv": 478,
       "freq": 3
     },
     {
       "surface": "בצדקתך",
-      "english": "en ⟨tu⟩ justicia",
+      "gloss": "en ⟨tu⟩ justicia",
       "marks": "justicia",
       "lemma": "b\/6666",
       "gv": 616,
@@ -57,27 +48,25 @@
     },
     {
       "surface": "תוציא",
-      "english": "saca ⟨a⟩",
+      "gloss": "saca ⟨a⟩",
       "lemma": "3318",
       "gv": 507,
       "freq": 8
     },
     {
       "surface": "מצרה",
-      "english": "⟨la⟩ angustia",
+      "gloss": "⟨la⟩ angustia",
       "lemma": "m\/6869 b",
       "gv": 335,
       "freq": 7
     },
     {
       "surface": "נפשי",
-      "english": "mi alma",
+      "gloss": "mi alma",
       "marks": "a",
       "lemma": "5315",
       "gv": 440,
       "freq": 173
     }
-  ],
-  "timestamp": "2026-06-10T00:09:59.468423011Z",
-  "model": "glm-4.5"
+  ]
 }

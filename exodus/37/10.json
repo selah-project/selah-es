@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "exodus 37:10",
   "book": "exodus",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 24523,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24908
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:26:45.113886281Z",
   "translation": "Y él hizo ⟨את⟩ la mesa de madera de acacia: dos codos su longitud, y un codo su anchura, y un codo y medio su altura",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "Y él hizo"
+      "gloss": "Y él hizo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la mesa"
     },
     {
       "surface": "השלחן",
-      "english": "la mesa"
+      "gloss": "la mesa"
     },
     {
       "surface": "עצי",
-      "english": "de madera"
+      "gloss": "de madera"
     },
     {
       "surface": "שטים",
-      "english": "de acacia"
+      "gloss": "de acacia"
     },
     {
       "surface": "אמתים",
-      "english": "dos codos"
+      "gloss": "dos codos"
     },
     {
       "surface": "ארכו",
-      "english": "su longitud"
+      "gloss": "su longitud"
     },
     {
       "surface": "ואמה",
-      "english": "y un codo"
+      "gloss": "y un codo"
     },
     {
       "surface": "רחבו",
-      "english": "su anchura"
+      "gloss": "su anchura"
     },
     {
       "surface": "ואמה",
-      "english": "y un codo"
+      "gloss": "y un codo"
     },
     {
       "surface": "וחצי",
-      "english": "y medio"
+      "gloss": "y medio"
     },
     {
       "surface": "קמתו",
-      "english": "su altura"
+      "gloss": "su altura"
     }
-  ],
-  "timestamp": "2026-07-16T20:26:45.113886281Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "joshua 23:11",
   "book": "joshua",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 425,
-    "prompt_tokens": 23488,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 23913
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:17:28.898826839Z",
   "translation": "y ⟨es⟩ para ⟨vuestras⟩ almas muy guardarse ⟨ustedes⟩ para amar a YHWH vuestro Elohim",
   "tokens": [
     {
       "surface": "ונשמרתם",
-      "english": "y ⟨es⟩ para ⟨vuestras⟩ almas muy guardarse ⟨ustedes⟩"
+      "gloss": "y ⟨es⟩ para ⟨vuestras⟩ almas muy guardarse ⟨ustedes⟩"
     },
     {
       "surface": "מאד",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לנפשתיכם",
-      "english": "para ⟨vuestras⟩ almas"
+      "gloss": "para ⟨vuestras⟩ almas"
     },
     {
       "surface": "לאהבה",
-      "english": "para amar"
+      "gloss": "para amar"
     },
     {
       "surface": "את",
-      "english": "a",
+      "gloss": "a",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיכם",
-      "english": "vuestro Elohim"
+      "gloss": "vuestro Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T22:17:28.898826839Z",
-  "model": "glm-4.5"
+  ]
 }

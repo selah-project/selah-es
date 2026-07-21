@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 109:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 715,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69810,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70525
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:27.002278074Z",
   "translation": "Y ⟨sean⟩ hijos suyos ⟨que⟩ vaguen ⟨y⟩ mendiguen ⟨y⟩ busquen ⟨su⟩ pan ⟨de⟩ ⟨entre⟩ sus ruinas ⟨desoladas⟩",
   "tokens": [
     {
       "surface": "ונוע",
-      "english": "Y ⟨sean⟩ hijos suyos ⟨que⟩ vaguen",
+      "gloss": "Y ⟨sean⟩ hijos suyos ⟨que⟩ vaguen",
       "marks": "hijos suyos"
     },
     {
       "surface": "ינועו",
-      "english": "⟨que⟩ vaguen",
+      "gloss": "⟨que⟩ vaguen",
       "marks": "hijos suyos"
     },
     {
       "surface": "בניו",
-      "english": "hijos suyos"
+      "gloss": "hijos suyos"
     },
     {
       "surface": "ושאלו",
-      "english": "⟨y⟩ mendiguen",
+      "gloss": "⟨y⟩ mendiguen",
       "marks": "pan"
     },
     {
       "surface": "ודרשו",
-      "english": "⟨y⟩ busquen",
+      "gloss": "⟨y⟩ busquen",
       "marks": "pan"
     },
     {
       "surface": "מחרבותיהם",
-      "english": "⟨de⟩ ⟨entre⟩ sus ruinas ⟨desoladas⟩"
+      "gloss": "⟨de⟩ ⟨entre⟩ sus ruinas ⟨desoladas⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:27.002278074Z",
-  "model": "glm-4.5"
+  ]
 }

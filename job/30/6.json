@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 30:6",
   "book": "job",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26964,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27381
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:09:25.921438136Z",
   "translation": "En ⟨el⟩ horror ⟨de⟩ los valles para habitar, ⟨los⟩ agujeros ⟨de⟩ ⟨el⟩ polvo y ⟨las⟩ peñas",
   "tokens": [
     {
       "surface": "בערוץ",
-      "english": "En ⟨el⟩ horror ⟨de⟩"
+      "gloss": "En ⟨el⟩ horror ⟨de⟩"
     },
     {
       "surface": "נחלים",
-      "english": "los valles"
+      "gloss": "los valles"
     },
     {
       "surface": "לשכן",
-      "english": "para habitar"
+      "gloss": "para habitar"
     },
     {
       "surface": "חרי",
-      "english": "⟨los⟩ agujeros ⟨de⟩"
+      "gloss": "⟨los⟩ agujeros ⟨de⟩"
     },
     {
       "surface": "עפר",
-      "english": "⟨el⟩ polvo"
+      "gloss": "⟨el⟩ polvo"
     },
     {
       "surface": "וכפים",
-      "english": "y ⟨las⟩ peñas"
+      "gloss": "y ⟨las⟩ peñas"
     }
-  ],
-  "timestamp": "2026-06-10T02:09:25.921438136Z",
-  "model": "glm-4.5"
+  ]
 }

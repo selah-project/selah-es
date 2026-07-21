@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 127:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 127,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69913,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70324
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:04:37.755577880Z",
   "translation": "He aquí ⟨que⟩ ⟨los⟩ hijos son herencia de YHWH, ⟨el⟩ fruto del vientre ⟨es⟩ su recompensa.",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "נחלת",
-      "english": "herencia"
+      "gloss": "herencia"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בנים",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "שכר",
-      "english": "recompensa"
+      "gloss": "recompensa"
     },
     {
       "surface": "פרי",
-      "english": "⟨el⟩ fruto"
+      "gloss": "⟨el⟩ fruto"
     },
     {
       "surface": "הבטן",
-      "english": "del vientre"
+      "gloss": "del vientre"
     }
-  ],
-  "timestamp": "2026-06-10T00:04:37.755577880Z",
-  "model": "glm-4.5"
+  ]
 }

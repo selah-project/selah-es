@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "psalms 18:42",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 346,
-    "prompt_tokens": 69999,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70345
-  },
+  "verse": 42,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:48.307430584Z",
   "translation": "Clamaron y no ⟨hay⟩ salvador ⟨por⟩ YHWH y no respondió.",
   "tokens": [
     {
       "surface": "ישועו",
-      "english": "Clamaron"
+      "gloss": "Clamaron"
     },
     {
       "surface": "ואין",
-      "english": "y no ⟨hay⟩"
+      "gloss": "y no ⟨hay⟩"
     },
     {
       "surface": "מושיע",
-      "english": "salvador"
+      "gloss": "salvador"
     },
     {
       "surface": "על",
-      "english": "⟨por⟩"
+      "gloss": "⟨por⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "ענם",
-      "english": "respondió"
+      "gloss": "respondió"
     }
-  ],
-  "timestamp": "2026-07-16T23:25:48.307430584Z",
-  "model": "glm-4.5"
+  ]
 }

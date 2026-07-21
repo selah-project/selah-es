@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "jeremiah 31:5",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24529,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24936
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:27:56.881405932Z",
   "translation": "De nuevo ⟨tú⟩ plantarás viñas ⟨en⟩ los montes de Samaria; ⟨los⟩ plantadores plantarán y ⟨las⟩ disfrutarán",
   "tokens": [
     {
       "surface": "עוד",
-      "english": "De nuevo"
+      "gloss": "De nuevo"
     },
     {
       "surface": "תטעי",
-      "english": "⟨tú⟩ plantarás"
+      "gloss": "⟨tú⟩ plantarás"
     },
     {
       "surface": "כרמים",
-      "english": "viñas"
+      "gloss": "viñas"
     },
     {
       "surface": "בהרי",
-      "english": "⟨en⟩ los montes"
+      "gloss": "⟨en⟩ los montes"
     },
     {
       "surface": "שמרון",
-      "english": "de Samaria"
+      "gloss": "de Samaria"
     },
     {
       "surface": "נטעו",
-      "english": "⟨los⟩ plantadores plantarán"
+      "gloss": "⟨los⟩ plantadores plantarán"
     },
     {
       "surface": "נטעים",
-      "english": "y ⟨las⟩ disfrutarán"
+      "gloss": "y ⟨las⟩ disfrutarán"
     },
     {
       "surface": "וחללו",
-      "english": "disfrutarán"
+      "gloss": "disfrutarán"
     }
-  ],
-  "timestamp": "2026-06-10T03:27:56.881405932Z",
-  "model": "glm-4.5"
+  ]
 }

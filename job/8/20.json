@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 8:20",
   "book": "job",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 548,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27156,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27704
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:47.014455410Z",
   "translation": "¡Miren! El no rechazará ⟨al⟩ ⟨perfecto⟩, ni tampoco sostendrá ⟨la⟩ ⟨mano⟩ ⟨de⟩ ⟨los⟩ malhechores.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "¡Miren!"
+      "gloss": "¡Miren!"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ימאס",
-      "english": "rechazará"
+      "gloss": "rechazará"
     },
     {
       "surface": "תם",
-      "english": "⟨al⟩",
+      "gloss": "⟨al⟩",
       "marks": "perfecto"
     },
     {
       "surface": "ולא",
-      "english": "ni tampoco"
+      "gloss": "ni tampoco"
     },
     {
       "surface": "יחזיק",
-      "english": "sostendrá"
+      "gloss": "sostendrá"
     },
     {
       "surface": "ביד",
-      "english": "⟨la⟩ ⟨mano⟩",
+      "gloss": "⟨la⟩ ⟨mano⟩",
       "marks": "mano"
     },
     {
       "surface": "מרעים",
-      "english": "⟨de⟩ ⟨los⟩ malhechores"
+      "gloss": "⟨de⟩ ⟨los⟩ malhechores"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:47.014455410Z",
-  "model": "glm-4.5"
+  ]
 }

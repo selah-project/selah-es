@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 32:13",
   "book": "job",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27130,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27629
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:11:15.203342174Z",
   "translation": "⟨Lest⟩ ye say: ⟨We have found⟩ wisdom; ⟨mighty⟩ ⟨he⟩ ⟨will thrust away⟩ ⟨not⟩ man.",
   "tokens": [
     {
       "surface": "פן",
-      "english": "⟨Lest⟩",
+      "gloss": "⟨Lest⟩",
       "marks": "introduces the feared consequence"
     },
     {
       "surface": "תאמרו",
-      "english": "ye say"
+      "gloss": "ye say"
     },
     {
       "surface": "מצאנו",
-      "english": "⟨We have found⟩",
+      "gloss": "⟨We have found⟩",
       "rationale": "Hebrew has past tense but English requires present perfect for current state"
     },
     {
       "surface": "חכמה",
-      "english": "wisdom"
+      "gloss": "wisdom"
     },
     {
       "surface": "אל",
-      "english": "⟨mighty⟩",
+      "gloss": "⟨mighty⟩",
       "rationale": "When used as subject of divine action, אל denotes the Mighty One (Elohim)"
     },
     {
       "surface": "ידפנו",
-      "english": "⟨he⟩ ⟨will thrust away⟩",
+      "gloss": "⟨he⟩ ⟨will thrust away⟩",
       "rationale": "Hebrew has prefix conjunction but English requires pronoun and future tense"
     },
     {
       "surface": "לא",
-      "english": "⟨not⟩"
+      "gloss": "⟨not⟩"
     },
     {
       "surface": "איש",
-      "english": "man"
+      "gloss": "man"
     }
-  ],
-  "timestamp": "2026-06-10T02:11:15.203342174Z",
-  "model": "glm-4.5"
+  ]
 }

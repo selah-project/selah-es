@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "numbers 2:13",
   "book": "numbers",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 335,
-    "prompt_tokens": 25053,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25388
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:56:07.102076619Z",
   "translation": "y su ejército, y ⟨los⟩ que fueron contados de ellos: cincuenta y nueve mil y trescientos.",
   "tokens": [
     {
       "surface": "וצבאו",
-      "english": "y su ejército"
+      "gloss": "y su ejército"
     },
     {
       "surface": "ופקדיהם",
-      "english": "y ⟨los⟩ que fueron contados de ellos"
+      "gloss": "y ⟨los⟩ que fueron contados de ellos"
     },
     {
       "surface": "תשעה",
-      "english": "cincuenta y nueve"
+      "gloss": "cincuenta y nueve"
     },
     {
       "surface": "וחמשים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אלף",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "ושלש",
-      "english": "y tres"
+      "gloss": "y tres"
     },
     {
       "surface": "מאות",
-      "english": "cientos"
+      "gloss": "cientos"
     }
-  ],
-  "timestamp": "2026-07-16T22:56:07.102076619Z",
-  "model": "glm-4.5"
+  ]
 }

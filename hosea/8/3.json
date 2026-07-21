@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "hosea 8:3",
   "book": "hosea",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 289,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26237,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26526
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:47:33.786334607Z",
   "translation": "Yisrael ha rechazado ⟨lo⟩ bueno, el enemigo lo perseguirá.",
   "tokens": [
     {
       "surface": "זנח",
-      "english": "Ha rechazado"
+      "gloss": "Ha rechazado"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "טוב",
-      "english": "⟨lo⟩ bueno",
+      "gloss": "⟨lo⟩ bueno",
       "marks": "bueno"
     },
     {
       "surface": "אויב",
-      "english": "el enemigo"
+      "gloss": "el enemigo"
     },
     {
       "surface": "ירדפו",
-      "english": "lo perseguirá"
+      "gloss": "lo perseguirá"
     }
-  ],
-  "timestamp": "2026-06-09T22:47:33.786334607Z",
-  "model": "glm-4.5"
+  ]
 }

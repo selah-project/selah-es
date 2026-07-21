@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 115:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 533,
-    "prompt_tokens": 70569,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 71102
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:48.947807145Z",
   "translation": "YHWH se ⟨ha⟩ acordado de nosotros: Él ⟨nos⟩ bendecirá, Él bendecirá ⟨את⟩ la casa de Israel, Él bendecirá ⟨את⟩ la casa de Aharón",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "זכרנו",
-      "english": "se ⟨ha⟩ acordado de nosotros"
+      "gloss": "se ⟨ha⟩ acordado de nosotros"
     },
     {
       "surface": "יברך",
-      "english": "Él ⟨nos⟩ bendecirá"
+      "gloss": "Él ⟨nos⟩ bendecirá"
     },
     {
       "surface": "יברך",
-      "english": "Él bendecirá"
+      "gloss": "Él bendecirá"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la casa de Israel"
     },
     {
       "surface": "בית",
-      "english": "la casa"
+      "gloss": "la casa"
     },
     {
       "surface": "ישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     },
     {
       "surface": "יברך",
-      "english": "Él bendecirá"
+      "gloss": "Él bendecirá"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la casa de Aharón"
     },
     {
       "surface": "בית",
-      "english": "la casa"
+      "gloss": "la casa"
     },
     {
       "surface": "אהרן",
-      "english": "de Aharón"
+      "gloss": "de Aharón"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:48.947807145Z",
-  "model": "glm-4.5"
+  ]
 }

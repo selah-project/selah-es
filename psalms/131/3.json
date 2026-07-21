@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 131:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 131,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69820,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70243
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:05:30.399281181Z",
   "translation": "⟨Wait⟩, ⟨O⟩ Israel ⟨for⟩ YHWH from ⟨this time⟩ ⟨and⟩ ⟨unto⟩ ⟨forever⟩.",
   "tokens": [
     {
       "surface": "יחל",
-      "english": "⟨Wait⟩"
+      "gloss": "⟨Wait⟩"
     },
     {
       "surface": "ישראל",
-      "english": "⟨O⟩ Israel"
+      "gloss": "⟨O⟩ Israel"
     },
     {
       "surface": "אל",
-      "english": "⟨for⟩"
+      "gloss": "⟨for⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מעתה",
-      "english": "⟨this time⟩"
+      "gloss": "⟨this time⟩"
     },
     {
       "surface": "ועד",
-      "english": "⟨and⟩"
+      "gloss": "⟨and⟩"
     },
     {
       "surface": "עולם",
-      "english": "⟨unto⟩ ⟨forever⟩"
+      "gloss": "⟨unto⟩ ⟨forever⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:05:30.399281181Z",
-  "model": "glm-4.5"
+  ]
 }

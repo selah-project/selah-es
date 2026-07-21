@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 2:6",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59794,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60154
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:28:39.222082612Z",
   "translation": "Porque YHWH da Jojmá, ⟨de⟩ su boca ⟨vienen⟩ Daat y Tevuná",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יתן",
-      "english": "da"
+      "gloss": "da"
     },
     {
       "surface": "חכמה",
-      "english": "Jojmá"
+      "gloss": "Jojmá"
     },
     {
       "surface": "מפיו",
-      "english": "⟨de⟩ su boca"
+      "gloss": "⟨de⟩ su boca"
     },
     {
       "surface": "דעת",
-      "english": "Daat"
+      "gloss": "Daat"
     },
     {
       "surface": "ותבונה",
-      "english": "y Tevuná"
+      "gloss": "y Tevuná"
     }
-  ],
-  "timestamp": "2026-06-10T01:28:39.222082612Z",
-  "model": "glm-4.5"
+  ]
 }

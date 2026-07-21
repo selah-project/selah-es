@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "leviticus 19:12",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 571,
-    "prompt_tokens": 24819,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25390
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:42:28.188158193Z",
   "translation": "Y no juraréis ⟨por⟩ mi nombre ⟨para⟩ mentira, y profanarás ⟨el⟩ nombre de ⟨tu⟩ Elohim; Yo ⟨soy⟩ YHWH",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "Y no"
+      "gloss": "Y no"
     },
     {
       "surface": "תשבעו",
-      "english": "juraréis"
+      "gloss": "juraréis"
     },
     {
       "surface": "בשמי",
-      "english": "⟨por⟩ mi nombre"
+      "gloss": "⟨por⟩ mi nombre"
     },
     {
       "surface": "לשקר",
-      "english": "⟨para⟩ mentira"
+      "gloss": "⟨para⟩ mentira"
     },
     {
       "surface": "וחללת",
-      "english": "y profanarás"
+      "gloss": "y profanarás"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el nombre"
     },
     {
       "surface": "שם",
-      "english": "nombre"
+      "gloss": "nombre"
     },
     {
       "surface": "אלהיך",
-      "english": "de ⟨tu⟩ Elohim"
+      "gloss": "de ⟨tu⟩ Elohim"
     },
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "יהוה",
-      "english": "⟨soy⟩ YHWH"
+      "gloss": "⟨soy⟩ YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T22:42:28.188158193Z",
-  "model": "glm-4.5"
+  ]
 }

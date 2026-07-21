@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 70,
   "ref": "psalms 119:70",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69780,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70122
-  },
+  "verse": 70,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:41.513448713Z",
   "translation": "Their heart is insensate as fat ⟨is⟩ as grease, but I have delighted ⟨in⟩ ⟨your⟩ Torah.",
   "tokens": [
     {
       "surface": "טפש",
-      "english": "Insensate"
+      "gloss": "Insensate"
     },
     {
       "surface": "כחלב",
-      "english": "as fat"
+      "gloss": "as fat"
     },
     {
       "surface": "לבם",
-      "english": "their heart"
+      "gloss": "their heart"
     },
     {
       "surface": "אני",
-      "english": "I"
+      "gloss": "I"
     },
     {
       "surface": "תורתך",
-      "english": "⟨your⟩ Torah"
+      "gloss": "⟨your⟩ Torah"
     },
     {
       "surface": "שעשעתי",
-      "english": "have delighted"
+      "gloss": "have delighted"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:41.513448713Z",
-  "model": "glm-4.5"
+  ]
 }

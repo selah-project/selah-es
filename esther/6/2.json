@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "esther 6:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 6,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:52:04.136675780Z",
+  "translation": "Y ⟨fue⟩ hallado ⟨el⟩ escrito, ⟨que⟩ declaró Mordejai sobre Bigtaná y Teres, dos ⟨de los⟩ eunucos ⟨del⟩ rey, ⟨de los⟩ guardianes ⟨de la⟩ puerta, quienes habían buscado ⟨la⟩ mano ⟨para⟩ ⟨el⟩ rey Ajashverósh.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "Y ⟨fue⟩ hallado"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "⟨el⟩ escrito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "declaró"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordejai"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "בגתנא",
+      "gloss": "Bigtaná"
+    },
+    {
+      "surface": "ותרש",
+      "gloss": "y Teres"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dos"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "⟨de los⟩ eunucos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨del⟩ rey"
+    },
+    {
+      "surface": "משמרי",
+      "gloss": "⟨de los⟩ guardianes"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "⟨de la⟩ puerta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quienes"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "habían buscado"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "⟨la⟩ mano ⟨para⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mano"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajashverósh"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mardoqueo",
@@ -20,100 +103,6 @@
       "hebrew": "אחשורוש"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 6,
-  "usage": {
-    "completion_tokens": 747,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18457,
-    "prompt_tokens_details": {
-      "cached_tokens": 16282
-    },
-    "total_tokens": 19204
-  },
-  "translation": "Y ⟨fue⟩ hallado ⟨el⟩ escrito, ⟨que⟩ declaró Mordejai sobre Bigtaná y Teres, dos ⟨de los⟩ eunucos ⟨del⟩ rey, ⟨de los⟩ guardianes ⟨de la⟩ puerta, quienes habían buscado ⟨la⟩ mano ⟨para⟩ ⟨el⟩ rey Ajashverósh.",
-  "tokens": [
-    {
-      "surface": "וימצא",
-      "english": "Y ⟨fue⟩ hallado"
-    },
-    {
-      "surface": "כתוב",
-      "english": "⟨el⟩ escrito"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "הגיד",
-      "english": "declaró"
-    },
-    {
-      "surface": "מרדכי",
-      "english": "Mordejai"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "בגתנא",
-      "english": "Bigtaná"
-    },
-    {
-      "surface": "ותרש",
-      "english": "y Teres"
-    },
-    {
-      "surface": "שני",
-      "english": "dos"
-    },
-    {
-      "surface": "סריסי",
-      "english": "⟨de los⟩ eunucos"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨del⟩ rey"
-    },
-    {
-      "surface": "משמרי",
-      "english": "⟨de los⟩ guardianes"
-    },
-    {
-      "surface": "הסף",
-      "english": "⟨de la⟩ puerta"
-    },
-    {
-      "surface": "אשר",
-      "english": "quienes"
-    },
-    {
-      "surface": "בקשו",
-      "english": "habían buscado"
-    },
-    {
-      "surface": "לשלח",
-      "english": "⟨la⟩ mano ⟨para⟩"
-    },
-    {
-      "surface": "יד",
-      "english": "mano"
-    },
-    {
-      "surface": "במלך",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "אחשורוש",
-      "english": "Ajashverósh"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:52:04.136675780Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

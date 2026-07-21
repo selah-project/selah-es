@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 18:20",
   "book": "job",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27051,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27436
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:03:14.087325467Z",
   "translation": "⟨Sobre⟩ su día ⟨están⟩ atónitos ⟨los⟩ postreros y ⟨los⟩ primeros se apoderaron ⟨de⟩ terror",
   "tokens": [
     {
       "surface": "על",
-      "english": "⟨Sobre⟩"
+      "gloss": "⟨Sobre⟩"
     },
     {
       "surface": "יומו",
-      "english": "su día"
+      "gloss": "su día"
     },
     {
       "surface": "נשמו",
-      "english": "⟨están⟩ atónitos"
+      "gloss": "⟨están⟩ atónitos"
     },
     {
       "surface": "אחרנים",
-      "english": "⟨los⟩ postreros"
+      "gloss": "⟨los⟩ postreros"
     },
     {
       "surface": "וקדמנים",
-      "english": "⟨los⟩ primeros"
+      "gloss": "⟨los⟩ primeros"
     },
     {
       "surface": "אחזו",
-      "english": "se apoderaron ⟨de⟩"
+      "gloss": "se apoderaron ⟨de⟩"
     },
     {
       "surface": "שער",
-      "english": "terror"
+      "gloss": "terror"
     }
-  ],
-  "timestamp": "2026-06-10T02:03:14.087325467Z",
-  "model": "glm-4.5"
+  ]
 }

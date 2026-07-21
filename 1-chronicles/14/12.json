@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 14:12",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 413,
-    "prompt_tokens": 64293,
-    "prompt_tokens_details": {
-      "cached_tokens": 63104
-    },
-    "total_tokens": 64706
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:07:34.658590985Z",
   "translation": "Y dejaron allí sus ⟨את⟩dioses, y dijo David, y los quemaron en ⟨el⟩fuego",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "english": "Y dejaron"
+      "gloss": "Y dejaron"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus dioses"
     },
     {
       "surface": "אלהיהם",
-      "english": "dioses"
+      "gloss": "dioses"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "דויד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "וישרפו",
-      "english": "y los quemaron"
+      "gloss": "y los quemaron"
     },
     {
       "surface": "באש",
-      "english": "en ⟨el⟩fuego"
+      "gloss": "en ⟨el⟩fuego"
     }
-  ],
-  "timestamp": "2026-07-16T18:07:34.658590985Z",
-  "model": "glm-4.5"
+  ]
 }

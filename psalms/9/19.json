@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 9:19",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70030,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70470
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:01:14.093714897Z",
   "translation": "Porque ⟨את⟩ la esperanza ⟨del⟩ afligido no será olvidada jamás; ⟨la⟩ expectación ⟨de⟩ los necesitados no perecerá para siempre.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "לנצח",
-      "english": "jamás"
+      "gloss": "jamás"
     },
     {
       "surface": "ישכח",
-      "english": "será olvidada"
+      "gloss": "será olvidada"
     },
     {
       "surface": "אביון",
-      "english": "⟨el⟩ afligido"
+      "gloss": "⟨el⟩ afligido"
     },
     {
       "surface": "תקות",
-      "english": "⟨la⟩ esperanza"
+      "gloss": "⟨la⟩ esperanza"
     },
     {
       "surface": "ענוים",
-      "english": "⟨de⟩ los necesitados"
+      "gloss": "⟨de⟩ los necesitados"
     },
     {
       "surface": "תאבד",
-      "english": "perecerá"
+      "gloss": "perecerá"
     },
     {
       "surface": "לעד",
-      "english": "para siempre"
+      "gloss": "para siempre"
     }
-  ],
-  "timestamp": "2026-06-09T23:01:14.093714897Z",
-  "model": "glm-4.5"
+  ]
 }

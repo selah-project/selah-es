@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "leviticus 22:28",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 596,
-    "prompt_tokens": 24825,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25421
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:44:30.875489511Z",
   "translation": "Y sea un buey, o sea una oveja, a él y ⟨את⟩ su hijo, no ⟨los⟩ sacrificaréis en un día, uno.",
   "tokens": [
     {
       "surface": "ושור",
-      "english": "Y sea un buey"
+      "gloss": "Y sea un buey"
     },
     {
       "surface": "או",
-      "english": "o sea"
+      "gloss": "o sea"
     },
     {
       "surface": "שה",
-      "english": "una oveja"
+      "gloss": "una oveja"
     },
     {
       "surface": "אתו",
-      "english": "a él",
+      "gloss": "a él",
       "marks": "su hijo"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su hijo"
     },
     {
       "surface": "בנו",
-      "english": "su hijo"
+      "gloss": "su hijo"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תשחטו",
-      "english": "⟨los⟩ sacrificaréis"
+      "gloss": "⟨los⟩ sacrificaréis"
     },
     {
       "surface": "ביום",
-      "english": "en un día"
+      "gloss": "en un día"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     }
-  ],
-  "timestamp": "2026-07-16T22:44:30.875489511Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 13:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 13,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:39:37.376448666Z",
+  "translation": "Santifica para Mí todo primogénito, todo ⟨que⟩ abre la matriz entre los hijos de Yisrael, tanto de hombre como de animal; ⟨el⟩ mío ⟨es⟩",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Santifica"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para Mí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "primogénito"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "todo ⟨que⟩ abre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "la matriz"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "entre los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "tanto de hombre"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "como de animal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨el⟩ mío"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨es⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,76 +72,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 13,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16988,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 17488
-  },
-  "translation": "Santifica para Mí todo primogénito, todo ⟨que⟩ abre la matriz entre los hijos de Yisrael, tanto de hombre como de animal; ⟨el⟩ mío ⟨es⟩",
-  "tokens": [
-    {
-      "surface": "קדש",
-      "english": "Santifica"
-    },
-    {
-      "surface": "לי",
-      "english": "para Mí"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "בכור",
-      "english": "primogénito"
-    },
-    {
-      "surface": "פטר",
-      "english": "todo ⟨que⟩ abre"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "רחם",
-      "english": "la matriz"
-    },
-    {
-      "surface": "בבני",
-      "english": "entre los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "באדם",
-      "english": "tanto de hombre"
-    },
-    {
-      "surface": "ובבהמה",
-      "english": "como de animal"
-    },
-    {
-      "surface": "לי",
-      "english": "⟨el⟩ mío"
-    },
-    {
-      "surface": "הוא",
-      "english": "⟨es⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:39:37.376448666Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

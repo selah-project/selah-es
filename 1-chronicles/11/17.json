@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "1-chronicles 11:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 11,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:39:42.699075238Z",
+  "translation": "Y Davidd ⟨se⟩ antojó y dijo: ¿Quién me ⟨dará⟩ ⟨a⟩ beber agua del pozo ⟨de⟩ Bet-Léjem que ⟨está⟩ ⟨en la⟩ puerta?",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "Y David ⟨se⟩ antojó"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "¿Quién"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "me ⟨dará⟩ ⟨a⟩ beber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "agua"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "del pozo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Léjem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "⟨está⟩ ⟨en la⟩ puerta"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,68 +71,6 @@
       "hebrew": "בית־לחם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 11,
-  "usage": {
-    "completion_tokens": 665,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57045,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57710
-  },
-  "translation": "Y Davidd ⟨se⟩ antojó y dijo: ¿Quién me ⟨dará⟩ ⟨a⟩ beber agua del pozo ⟨de⟩ Bet-Léjem que ⟨está⟩ ⟨en la⟩ puerta?",
-  "tokens": [
-    {
-      "surface": "ויתאו",
-      "english": "Y David ⟨se⟩ antojó"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "מי",
-      "english": "¿Quién"
-    },
-    {
-      "surface": "ישקני",
-      "english": "me ⟨dará⟩ ⟨a⟩ beber"
-    },
-    {
-      "surface": "מים",
-      "english": "agua"
-    },
-    {
-      "surface": "מבור",
-      "english": "del pozo"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "לחם",
-      "english": "Bet-Léjem"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "בשער",
-      "english": "⟨está⟩ ⟨en la⟩ puerta"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:39:42.699075238Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

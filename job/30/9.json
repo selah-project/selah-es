@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 30:9",
   "book": "job",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26917,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27223
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:09:53.244617646Z",
   "translation": "Y ahora ⟨soy⟩ su canción, y ⟨soy⟩ para ellos un ⟨dicho⟩ proverbial",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "Y ahora"
+      "gloss": "Y ahora"
     },
     {
       "surface": "נגינתם",
-      "english": "su canción"
+      "gloss": "su canción"
     },
     {
       "surface": "הייתי",
-      "english": "⟨soy⟩"
+      "gloss": "⟨soy⟩"
     },
     {
       "surface": "ואהי",
-      "english": "y ⟨soy⟩"
+      "gloss": "y ⟨soy⟩"
     },
     {
       "surface": "להם",
-      "english": "para ellos"
+      "gloss": "para ellos"
     },
     {
       "surface": "למלה",
-      "english": "un ⟨dicho⟩ proverbial"
+      "gloss": "un ⟨dicho⟩ proverbial"
     }
-  ],
-  "timestamp": "2026-06-10T02:09:53.244617646Z",
-  "model": "glm-4.5"
+  ]
 }

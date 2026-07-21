@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "proverbs 22:7",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 333,
-    "prompt_tokens": 59897,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60230
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:21:12.686756850Z",
   "translation": "El rico ⟨señorea⟩ sobre los pobres, y el prestatario es siervo del prestamista.",
   "tokens": [
     {
       "surface": "עשיר",
-      "english": "El rico"
+      "gloss": "El rico"
     },
     {
       "surface": "ברשים",
-      "english": "sobre los pobres"
+      "gloss": "sobre los pobres"
     },
     {
       "surface": "ימשול",
-      "english": "⟨señorea⟩"
+      "gloss": "⟨señorea⟩"
     },
     {
       "surface": "ועבד",
-      "english": "y el prestatario es siervo"
+      "gloss": "y el prestatario es siervo"
     },
     {
       "surface": "לוה",
-      "english": "del prestamista"
+      "gloss": "del prestamista"
     },
     {
       "surface": "לאיש",
-      "english": "al hombre"
+      "gloss": "al hombre"
     },
     {
       "surface": "מלוה",
-      "english": "que presta"
+      "gloss": "que presta"
     }
-  ],
-  "timestamp": "2026-07-16T23:21:12.686756850Z",
-  "model": "glm-4.5"
+  ]
 }

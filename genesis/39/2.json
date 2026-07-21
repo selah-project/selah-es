@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 39:2",
   "book": "genesis",
-  "lang": "es",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 28835,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29221
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:10:39.548224832Z",
   "translation": "YHWH ⟨estaba⟩ con Yosef, y él ⟨era⟩ un hombre prosperado, y ⟨estaba⟩ en la casa de su señor, el egipcio.",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "y estaba"
+      "gloss": "y estaba"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yosef"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "ויהי",
-      "english": "y él era"
+      "gloss": "y él era"
     },
     {
       "surface": "איש",
-      "english": "un hombre"
+      "gloss": "un hombre"
     },
     {
       "surface": "מצליח",
-      "english": "prosperado"
+      "gloss": "prosperado"
     },
     {
       "surface": "ויהי",
-      "english": "y estaba"
+      "gloss": "y estaba"
     },
     {
       "surface": "בבית",
-      "english": "en la casa"
+      "gloss": "en la casa"
     },
     {
       "surface": "אדניו",
-      "english": "de su señor"
+      "gloss": "de su señor"
     },
     {
       "surface": "המצרי",
-      "english": "el egipcio"
+      "gloss": "el egipcio"
     }
-  ],
-  "timestamp": "2026-07-16T21:10:39.548224832Z",
-  "model": "glm-4.5"
+  ]
 }

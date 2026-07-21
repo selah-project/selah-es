@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "song-of-songs 8:14",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27638,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 28123
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T06:33:36.972049572Z",
   "translation": "Apresúrate ⟨el⟩ amado mío y sé ⟨como⟩ ⟨una⟩ gacela o ⟨como⟩ ⟨un⟩ ciervo joven sobre ⟨los⟩ montes de especias",
   "tokens": [
     {
       "surface": "ברח",
-      "english": "Apresúrate"
+      "gloss": "Apresúrate"
     },
     {
       "surface": "דודי",
-      "english": "⟨el⟩ amado mío",
+      "gloss": "⟨el⟩ amado mío",
       "marks": "amado mío"
     },
     {
       "surface": "ודמה",
-      "english": "y sé"
+      "gloss": "y sé"
     },
     {
       "surface": "לך",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "לצבי",
-      "english": "⟨una⟩ gacela"
+      "gloss": "⟨una⟩ gacela"
     },
     {
       "surface": "או",
-      "english": "o"
+      "gloss": "o"
     },
     {
       "surface": "לעפר",
-      "english": "⟨como⟩ ⟨un⟩"
+      "gloss": "⟨como⟩ ⟨un⟩"
     },
     {
       "surface": "האילים",
-      "english": "ciervo joven"
+      "gloss": "ciervo joven"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הרי",
-      "english": "⟨los⟩ montes"
+      "gloss": "⟨los⟩ montes"
     },
     {
       "surface": "בשמים",
-      "english": "de especias"
+      "gloss": "de especias"
     }
-  ],
-  "timestamp": "2026-06-10T06:33:36.972049572Z",
-  "model": "glm-4.5"
+  ]
 }

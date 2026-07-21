@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "leviticus 18:22",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 397,
-    "prompt_tokens": 24606,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25003
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:42:03.434144643Z",
   "translation": "Y con varón no ⟨te⟩ acostarás; como acostamiento de mujer, abominación ⟨es⟩.",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "Y con",
+      "gloss": "Y con",
       "marks": "varón"
     },
     {
       "surface": "זכר",
-      "english": "varón"
+      "gloss": "varón"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תשכב",
-      "english": "⟨te⟩ acostarás"
+      "gloss": "⟨te⟩ acostarás"
     },
     {
       "surface": "משכבי",
-      "english": "como acostamiento de"
+      "gloss": "como acostamiento de"
     },
     {
       "surface": "אשה",
-      "english": "mujer"
+      "gloss": "mujer"
     },
     {
       "surface": "תועבה",
-      "english": "abominación"
+      "gloss": "abominación"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     }
-  ],
-  "timestamp": "2026-07-16T22:42:03.434144643Z",
-  "model": "glm-4.5"
+  ]
 }

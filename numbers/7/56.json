@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 56,
   "ref": "numbers 7:56",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 7,
+  "verse": 56,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:20:28.565135881Z",
+  "translation": "un cucharón de oro ⟨de⟩ diez shekels, lleno ⟨de⟩ Ketoret ⟨de⟩ fumigación",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "Un cucharón"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "diez"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "shekels"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "lleno ⟨de⟩"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "Ketoret ⟨de⟩ fumigación"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "incienso",
@@ -13,48 +44,6 @@
       "hebrew": "קטרת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17489,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 17828
-  },
-  "translation": "un cucharón de oro ⟨de⟩ diez shekels, lleno ⟨de⟩ Ketoret ⟨de⟩ fumigación",
-  "tokens": [
-    {
-      "surface": "כף",
-      "english": "Un cucharón"
-    },
-    {
-      "surface": "אחת",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "עשרה",
-      "english": "diez"
-    },
-    {
-      "surface": "זהב",
-      "english": "shekels"
-    },
-    {
-      "surface": "מלאה",
-      "english": "lleno ⟨de⟩"
-    },
-    {
-      "surface": "קטרת",
-      "english": "Ketoret ⟨de⟩ fumigación"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:20:28.565135881Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

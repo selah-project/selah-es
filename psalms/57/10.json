@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 57:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69801,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70185
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:25:47.300262026Z",
   "translation": "Te alabaré ⟨את⟩ entre ⟨los⟩ pueblos, Adonai; ⟨te⟩ cantaré ⟨entre⟩ ⟨las⟩ naciones.",
   "tokens": [
     {
       "surface": "אודך",
-      "english": "Te alabaré",
+      "gloss": "Te alabaré",
       "marks": null
     },
     {
       "surface": "בעמים",
-      "english": "⟨entre⟩ ⟨los⟩ pueblos",
+      "gloss": "⟨entre⟩ ⟨los⟩ pueblos",
       "marks": null
     },
     {
       "surface": "אדני",
-      "english": "Adonai",
+      "gloss": "Adonai",
       "marks": null
     },
     {
       "surface": "אזמרך",
-      "english": "⟨te⟩ cantaré",
+      "gloss": "⟨te⟩ cantaré",
       "marks": null
     },
     {
       "surface": "בל",
-      "english": "⟨entre⟩ ⟨las⟩",
+      "gloss": "⟨entre⟩ ⟨las⟩",
       "marks": null
     },
     {
       "surface": "אמים",
-      "english": "naciones",
+      "gloss": "naciones",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-09T23:25:47.300262026Z",
-  "model": "glm-4.5"
+  ]
 }

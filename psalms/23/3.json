@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 23:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69979,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70479
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:07:50.339110034Z",
   "translation": "Mi alma Él ⟨la⟩ hace retornar; Él ⟨me⟩ guía en ⟨los⟩ senderos de ⟨la⟩ justicia por ⟨el⟩ bien de Su ⟨את⟩ nombre.",
   "tokens": [
     {
       "surface": "נפשי",
-      "english": "Mi alma"
+      "gloss": "Mi alma"
     },
     {
       "surface": "ישובב",
-      "english": "Él ⟨la⟩ hace retornar"
+      "gloss": "Él ⟨la⟩ hace retornar"
     },
     {
       "surface": "ינחני",
-      "english": "Él ⟨me⟩ guía"
+      "gloss": "Él ⟨me⟩ guía"
     },
     {
       "surface": "במעגלי",
-      "english": "en ⟨los⟩ senderos de"
+      "gloss": "en ⟨los⟩ senderos de"
     },
     {
       "surface": "צדק",
-      "english": "⟨la⟩ justicia"
+      "gloss": "⟨la⟩ justicia"
     },
     {
       "surface": "למען",
-      "english": "por ⟨el⟩ bien de"
+      "gloss": "por ⟨el⟩ bien de"
     },
     {
       "surface": "שמו",
-      "english": "Su ⟨את⟩ nombre",
+      "gloss": "Su ⟨את⟩ nombre",
       "marks": "Su nombre"
     }
-  ],
-  "timestamp": "2026-06-09T23:07:50.339110034Z",
-  "model": "glm-4.5"
+  ]
 }

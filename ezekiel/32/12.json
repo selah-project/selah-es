@@ -1,9 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "ezekiel 32:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 32,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:40:48.804669522Z",
+  "translation": "Por las espadas ⟨de⟩ los poderosos haré caer ⟨tu⟩ multitud, ⟨los⟩ tiranos ⟨de⟩ las naciones, todos ⟨ellos⟩; y ⟨ellos⟩ saquearán ⟨el⟩ orgullo de Mitzráyim y será destruida toda ⟨su⟩ multitud.",
+  "tokens": [
+    {
+      "surface": "בחרבות",
+      "gloss": "Por las espadas"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "de los poderosos"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "haré caer"
+    },
+    {
+      "surface": "המונך",
+      "gloss": "tu multitud"
+    },
+    {
+      "surface": "עריצי",
+      "gloss": "los tiranos"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de las naciones"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "todos ellos"
+    },
+    {
+      "surface": "ושדדו",
+      "gloss": "y ellos saquearán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨el⟩",
+      "marks": "orgullo de Egipto"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "orgullo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "ונשמד",
+      "gloss": "y será destruida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "su multitud"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -13,81 +77,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17795,
-    "prompt_tokens_details": {
-      "cached_tokens": 15965
-    },
-    "total_tokens": 18409
-  },
-  "translation": "Por las espadas ⟨de⟩ los poderosos haré caer ⟨tu⟩ multitud, ⟨los⟩ tiranos ⟨de⟩ las naciones, todos ⟨ellos⟩; y ⟨ellos⟩ saquearán ⟨el⟩ orgullo de Mitzráyim y será destruida toda ⟨su⟩ multitud.",
-  "tokens": [
-    {
-      "surface": "בחרבות",
-      "english": "Por las espadas"
-    },
-    {
-      "surface": "גבורים",
-      "english": "de los poderosos"
-    },
-    {
-      "surface": "אפיל",
-      "english": "haré caer"
-    },
-    {
-      "surface": "המונך",
-      "english": "tu multitud"
-    },
-    {
-      "surface": "עריצי",
-      "english": "los tiranos"
-    },
-    {
-      "surface": "גוים",
-      "english": "de las naciones"
-    },
-    {
-      "surface": "כלם",
-      "english": "todos ellos"
-    },
-    {
-      "surface": "ושדדו",
-      "english": "y ellos saquearán"
-    },
-    {
-      "surface": "את",
-      "english": "⟨el⟩",
-      "marks": "orgullo de Egipto"
-    },
-    {
-      "surface": "גאון",
-      "english": "orgullo"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "ונשמד",
-      "english": "y será destruida"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "המונה",
-      "english": "su multitud"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:40:48.804669522Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

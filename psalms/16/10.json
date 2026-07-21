@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 16:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 639,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70150,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70789
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:03:22.886134741Z",
   "translation": "Porque ⟨no⟩ abandonarás mi nefesh ⟨al⟩ Sheol: ⟨no⟩ dejarás ⟨a⟩ tu jasid ⟨para que⟩ vea ⟨la⟩ corrupción",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תעזב",
-      "english": "abandonarás"
+      "gloss": "abandonarás"
     },
     {
       "surface": "נפשי",
-      "english": "mi nefesh"
+      "gloss": "mi nefesh"
     },
     {
       "surface": "לשאול",
-      "english": "⟨al⟩ Sheol"
+      "gloss": "⟨al⟩ Sheol"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תתן",
-      "english": "dejarás"
+      "gloss": "dejarás"
     },
     {
       "surface": "חסידך",
-      "english": "⟨a⟩ tu jasid"
+      "gloss": "⟨a⟩ tu jasid"
     },
     {
       "surface": "לראות",
-      "english": "⟨para que⟩ vea"
+      "gloss": "⟨para que⟩ vea"
     },
     {
       "surface": "שחת",
-      "english": "⟨la⟩ corrupción"
+      "gloss": "⟨la⟩ corrupción"
     }
-  ],
-  "timestamp": "2026-06-09T23:03:22.886134741Z",
-  "model": "glm-4.5"
+  ]
 }

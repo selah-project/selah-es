@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 14:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59889,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60363
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:37:52.039943343Z",
   "translation": "⟨El que camina⟩ en su rectitud ⟨es⟩ ⟨el que⟩ teme a YHWH, pero ⟨el que es⟩ perverso en sus caminos ⟨es⟩ ⟨el que⟩ desprecia ⟨a⟩ él ⟨את⟩",
   "tokens": [
     {
       "surface": "הולך",
-      "english": "⟨El que camina⟩"
+      "gloss": "⟨El que camina⟩"
     },
     {
       "surface": "בישרו",
-      "english": "en su rectitud"
+      "gloss": "en su rectitud"
     },
     {
       "surface": "ירא",
-      "english": "⟨el que⟩ teme"
+      "gloss": "⟨el que⟩ teme"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "ונלוז",
-      "english": "pero ⟨el que es⟩ perverso"
+      "gloss": "pero ⟨el que es⟩ perverso"
     },
     {
       "surface": "דרכיו",
-      "english": "en sus caminos"
+      "gloss": "en sus caminos"
     },
     {
       "surface": "בוזהו",
-      "english": "⟨el que⟩ desprecia ⟨a⟩ él",
+      "gloss": "⟨el que⟩ desprecia ⟨a⟩ él",
       "marks": "a YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T01:37:52.039943343Z",
-  "model": "glm-4.5"
+  ]
 }

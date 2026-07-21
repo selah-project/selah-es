@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "numbers 18:10",
   "book": "numbers",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 466,
-    "prompt_tokens": 25513,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25979
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:06:12.124971437Z",
   "translation": "En el Lugar Santísimo ⟨lo⟩ comerás; todo varón ⟨lo⟩ comerá: santo ⟨será⟩ para ti.",
   "tokens": [
     {
       "surface": "בקדש",
-      "english": "En el Lugar Santísimo"
+      "gloss": "En el Lugar Santísimo"
     },
     {
       "surface": "הקדשים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "תאכלנו",
-      "english": "⟨lo⟩ comerás"
+      "gloss": "⟨lo⟩ comerás"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "זכר",
-      "english": "varón"
+      "gloss": "varón"
     },
     {
       "surface": "יאכל",
-      "english": "⟨lo⟩ comerá"
+      "gloss": "⟨lo⟩ comerá"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lo"
     },
     {
       "surface": "קדש",
-      "english": "santo"
+      "gloss": "santo"
     },
     {
       "surface": "יהיה",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     }
-  ],
-  "timestamp": "2026-07-16T23:06:12.124971437Z",
-  "model": "glm-4.5"
+  ]
 }

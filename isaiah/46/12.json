@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 46:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25897,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26306
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:50:52.864942732Z",
   "translation": "Escuchadme ⟨a⟩ mí, ⟨los⟩ de corazón fuerte, ⟨quienes están⟩ lejos ⟨de⟩ la justicia",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "Escuchadme"
+      "gloss": "Escuchadme"
     },
     {
       "surface": "אלי",
-      "english": "⟨a⟩ mí",
+      "gloss": "⟨a⟩ mí",
       "marks": "Escuchadme"
     },
     {
       "surface": "אבירי",
-      "english": "⟨los⟩ de corazón fuerte"
+      "gloss": "⟨los⟩ de corazón fuerte"
     },
     {
       "surface": "לב",
-      "english": "corazón"
+      "gloss": "corazón"
     },
     {
       "surface": "הרחוקים",
-      "english": "⟨quienes están⟩ lejos"
+      "gloss": "⟨quienes están⟩ lejos"
     },
     {
       "surface": "מצדקה",
-      "english": "⟨de⟩ la justicia"
+      "gloss": "⟨de⟩ la justicia"
     }
-  ],
-  "timestamp": "2026-06-10T02:50:52.864942732Z",
-  "model": "glm-4.5"
+  ]
 }

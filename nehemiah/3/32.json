@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "nehemiah 3:32",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 658,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56542,
-    "prompt_tokens_details": {
-      "cached_tokens": 55510
-    },
-    "total_tokens": 57200
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:35:41.951942798Z",
   "translation": "Y entre ⟨la⟩ sala alta ⟨del⟩ ángulo ⟨hasta la⟩ puerta ⟨del⟩ rebaño ⟨los⟩ refuerzan ⟨los⟩ plateros y ⟨los⟩ mercaderes.",
   "tokens": [
     {
       "surface": "ובין",
-      "english": "Y entre",
+      "gloss": "Y entre",
       "marks": "הפנה, לשער, הצאן"
     },
     {
       "surface": "עלית",
-      "english": "⟨la⟩ sala alta",
+      "gloss": "⟨la⟩ sala alta",
       "marks": "la sala alta ⟨del⟩ ángulo"
     },
     {
       "surface": "הפנה",
-      "english": "⟨del⟩ ángulo",
+      "gloss": "⟨del⟩ ángulo",
       "marks": "⟨la⟩ sala alta ⟨del⟩ ángulo"
     },
     {
       "surface": "לשער",
-      "english": "⟨hasta la⟩ puerta",
+      "gloss": "⟨hasta la⟩ puerta",
       "marks": "⟨la⟩ puerta ⟨del⟩ rebaño"
     },
     {
       "surface": "הצאן",
-      "english": "⟨del⟩ rebaño",
+      "gloss": "⟨del⟩ rebaño",
       "marks": "⟨la⟩ puerta ⟨del⟩ rebaño"
     },
     {
       "surface": "החזיקו",
-      "english": "⟨los⟩ refuerzan"
+      "gloss": "⟨los⟩ refuerzan"
     },
     {
       "surface": "הצרפים",
-      "english": "⟨los⟩ plateros"
+      "gloss": "⟨los⟩ plateros"
     },
     {
       "surface": "והרכלים",
-      "english": "y ⟨los⟩ mercaderes"
+      "gloss": "y ⟨los⟩ mercaderes"
     }
-  ],
-  "timestamp": "2026-06-10T00:35:41.951942798Z",
-  "model": "glm-4.5"
+  ]
 }

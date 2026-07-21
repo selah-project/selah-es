@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "numbers 17:26",
   "book": "numbers",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 24971,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25313
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:06:01.132227025Z",
   "translation": "E hizo Moshé ⟨así⟩ como YHWH mandó ⟨את⟩, así hizo.",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "E hizo"
+      "gloss": "E hizo"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "כאשר",
-      "english": "así como"
+      "gloss": "así como"
     },
     {
       "surface": "צוה",
-      "english": "mandó"
+      "gloss": "mandó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "así (כן)"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "עשה",
-      "english": "hizo"
+      "gloss": "hizo"
     }
-  ],
-  "timestamp": "2026-07-16T23:06:01.132227025Z",
-  "model": "glm-4.5"
+  ]
 }

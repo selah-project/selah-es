@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 52,
   "ref": "psalms 89:52",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 403,
-    "prompt_tokens": 70092,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70495
-  },
+  "verse": 52,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:52.410578385Z",
   "translation": "Lo que ⟨han⟩ afrentado ⟨los⟩ enemigos tuyos, YHWH; lo que ⟨han⟩ afrentado ⟨las⟩ pisadas de tu Mashíaj.",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Lo que"
+      "gloss": "Lo que"
     },
     {
       "surface": "חרפו",
-      "english": "afrentado"
+      "gloss": "afrentado"
     },
     {
       "surface": "אויביך",
-      "english": "enemigos tuyos"
+      "gloss": "enemigos tuyos"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "חרפו",
-      "english": "afrentado"
+      "gloss": "afrentado"
     },
     {
       "surface": "עקבות",
-      "english": "pisadas"
+      "gloss": "pisadas"
     },
     {
       "surface": "משיחך",
-      "english": "tu Mashíaj"
+      "gloss": "tu Mashíaj"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:52.410578385Z",
-  "model": "glm-4.5"
+  ]
 }

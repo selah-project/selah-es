@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 76:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 672,
-    "prompt_tokens": 70012,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70684
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:34:08.636045833Z",
   "translation": "Tú, eres temible; y ¿quién ⟨puede⟩ estar de pie ⟨ante⟩ tu presencia desde ⟨el tiempo de⟩ tu furor?",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "נורא",
-      "english": "eres temible"
+      "gloss": "eres temible"
     },
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "ומי",
-      "english": "y ¿quién"
+      "gloss": "y ¿quién"
     },
     {
       "surface": "יעמד",
-      "english": "⟨puede⟩ estar de pie"
+      "gloss": "⟨puede⟩ estar de pie"
     },
     {
       "surface": "לפניך",
-      "english": "⟨ante⟩ tu presencia"
+      "gloss": "⟨ante⟩ tu presencia"
     },
     {
       "surface": "מאז",
-      "english": "desde ⟨el tiempo de⟩"
+      "gloss": "desde ⟨el tiempo de⟩"
     },
     {
       "surface": "אפך",
-      "english": "tu furor"
+      "gloss": "tu furor"
     }
-  ],
-  "timestamp": "2026-07-16T23:34:08.636045833Z",
-  "model": "glm-4.5"
+  ]
 }

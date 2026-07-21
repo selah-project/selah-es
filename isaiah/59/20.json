@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "isaiah 59:20",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26134,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26559
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:58:05.990218862Z",
   "translation": "Y vendrá ⟨el⟩ Redentor a Sión, y ⟨a⟩ ⟨los⟩ que se vuelven ⟨de⟩ ⟨la⟩ transgresión en Yaakov, ⟨es⟩ la declaración de YHWH.",
   "tokens": [
     {
       "surface": "ובא",
-      "english": "Y vendrá"
+      "gloss": "Y vendrá"
     },
     {
       "surface": "לציון",
-      "english": "a Sión"
+      "gloss": "a Sión"
     },
     {
       "surface": "גואל",
-      "english": "Redentor"
+      "gloss": "Redentor"
     },
     {
       "surface": "ולשבי",
-      "english": "y ⟨a⟩ ⟨los⟩ que se vuelven"
+      "gloss": "y ⟨a⟩ ⟨los⟩ que se vuelven"
     },
     {
       "surface": "פשע",
-      "english": "transgresión"
+      "gloss": "transgresión"
     },
     {
       "surface": "ביעקב",
-      "english": "en Yaakov"
+      "gloss": "en Yaakov"
     },
     {
       "surface": "נאם",
-      "english": "⟨es⟩ la declaración de"
+      "gloss": "⟨es⟩ la declaración de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T02:58:05.990218862Z",
-  "model": "glm-4.5"
+  ]
 }

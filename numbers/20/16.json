@@ -1,86 +1,75 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 20:16",
   "book": "numbers",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 596,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25852,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 26448
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:56:00.133041870Z",
   "translation": "Y clamamos ⟨a⟩ YHWH y ⟨Él⟩ escuchó nuestra voz y envió un mensajero y ⟨nos⟩ sacó ⟨de⟩ Mitzráyim y ⟨he aquí⟩ estamos en Kadesh una ciudad ⟨en⟩ el extremo de tu frontera",
   "tokens": [
     {
       "surface": "ונצעק",
-      "english": "Y clamamos"
+      "gloss": "Y clamamos"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וישמע",
-      "english": "y ⟨Él⟩ escuchó"
+      "gloss": "y ⟨Él⟩ escuchó"
     },
     {
       "surface": "קלנו",
-      "english": "nuestra voz"
+      "gloss": "nuestra voz"
     },
     {
       "surface": "וישלח",
-      "english": "y envió"
+      "gloss": "y envió"
     },
     {
       "surface": "מלאך",
-      "english": "un mensajero"
+      "gloss": "un mensajero"
     },
     {
       "surface": "ויצאנו",
-      "english": "y ⟨nos⟩ sacó"
+      "gloss": "y ⟨nos⟩ sacó"
     },
     {
       "surface": "ממצרים",
-      "english": "⟨de⟩ Mitzráyim",
+      "gloss": "⟨de⟩ Mitzráyim",
       "marks": "Mitzráyim"
     },
     {
       "surface": "והנה",
-      "english": "y ⟨he aquí⟩"
+      "gloss": "y ⟨he aquí⟩"
     },
     {
       "surface": "אנחנו",
-      "english": "estamos"
+      "gloss": "estamos"
     },
     {
       "surface": "בקדש",
-      "english": "en Kadesh"
+      "gloss": "en Kadesh"
     },
     {
       "surface": "עיר",
-      "english": "una ciudad"
+      "gloss": "una ciudad"
     },
     {
       "surface": "קצה",
-      "english": "⟨en⟩ el extremo"
+      "gloss": "⟨en⟩ el extremo"
     },
     {
       "surface": "גבולך",
-      "english": "de tu frontera"
+      "gloss": "de tu frontera"
     }
-  ],
-  "timestamp": "2026-06-10T04:56:00.133041870Z",
-  "model": "glm-4.5"
+  ]
 }

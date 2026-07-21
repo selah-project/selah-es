@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 53,
   "ref": "psalms 89:53",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69517,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69768
-  },
+  "verse": 53,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:04.801983658Z",
   "translation": "Baruj sea YHWH ⟨por⟩ ⟨el⟩ para siempre, amén y amén.",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "Baruj sea"
+      "gloss": "Baruj sea"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לעולם",
-      "english": "⟨por⟩ ⟨el⟩ para siempre"
+      "gloss": "⟨por⟩ ⟨el⟩ para siempre"
     },
     {
       "surface": "אמן",
-      "english": "amén"
+      "gloss": "amén"
     },
     {
       "surface": "ואמן",
-      "english": "y amén"
+      "gloss": "y amén"
     }
-  ],
-  "timestamp": "2026-06-09T23:44:04.801983658Z",
-  "model": "glm-4.5"
+  ]
 }

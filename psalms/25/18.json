@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 25:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69727,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70085
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:08:42.011640517Z",
   "translation": "Ve ⟨la⟩ aflicción y ⟨el⟩ trabajo de mí, y soporta todas ⟨mis⟩ transgresiones.",
   "tokens": [
     {
       "surface": "ראה",
-      "english": "Ve"
+      "gloss": "Ve"
     },
     {
       "surface": "עניי",
-      "english": "⟨la⟩ aflicción"
+      "gloss": "⟨la⟩ aflicción"
     },
     {
       "surface": "ועמלי",
-      "english": "y ⟨el⟩ trabajo de mí"
+      "gloss": "y ⟨el⟩ trabajo de mí"
     },
     {
       "surface": "ושא",
-      "english": "y soporta"
+      "gloss": "y soporta"
     },
     {
       "surface": "לכל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "חטאותי",
-      "english": "⟨mis⟩ transgresiones"
+      "gloss": "⟨mis⟩ transgresiones"
     }
-  ],
-  "timestamp": "2026-06-09T23:08:42.011640517Z",
-  "model": "glm-4.5"
+  ]
 }

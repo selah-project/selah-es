@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 102:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 639,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70037,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70676
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:49:23.021327411Z",
   "translation": "Porque ⟨el⟩ Eterno ⟨se⟩ inclinó ⟨desde⟩ ⟨el⟩ lugar santísimo de ⟨su⟩ altura; ⟨desde⟩ ⟨los⟩ cielos ⟨hacia⟩ ⟨la⟩ tierra ⟨Él⟩ miró",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "השקיף",
-      "english": "⟨el⟩ Eterno ⟨se⟩ inclinó"
+      "gloss": "⟨el⟩ Eterno ⟨se⟩ inclinó"
     },
     {
       "surface": "ממרום",
-      "english": "⟨desde⟩ ⟨el⟩ lugar santísimo"
+      "gloss": "⟨desde⟩ ⟨el⟩ lugar santísimo"
     },
     {
       "surface": "קדשו",
-      "english": "de ⟨su⟩ altura"
+      "gloss": "de ⟨su⟩ altura"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "משמים",
-      "english": "⟨desde⟩ ⟨los⟩ cielos"
+      "gloss": "⟨desde⟩ ⟨los⟩ cielos"
     },
     {
       "surface": "אל",
-      "english": "⟨hacia⟩"
+      "gloss": "⟨hacia⟩"
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
+      "gloss": "⟨la⟩ tierra"
     },
     {
       "surface": "הביט",
-      "english": "⟨Él⟩ miró"
+      "gloss": "⟨Él⟩ miró"
     }
-  ],
-  "timestamp": "2026-06-09T23:49:23.021327411Z",
-  "model": "glm-4.5"
+  ]
 }

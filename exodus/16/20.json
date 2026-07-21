@@ -1,9 +1,91 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 16:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 16,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:45:32.432807457Z",
+  "translation": "Y no escucharon a Moshé, y ⟨dejaron⟩ de ⟨él⟩ algunos hombres hasta la mañana, y se criaron gusanos y ⟨se⟩ hizo apestoso, y se airó con ellos Moshé",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Y no",
+      "marks": null
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "escucharon",
+      "marks": null
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": null
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé",
+      "marks": null
+    },
+    {
+      "surface": "ויותרו",
+      "gloss": "y ⟨dejaron⟩",
+      "marks": null
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "algunos hombres",
+      "marks": null
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de ⟨él⟩",
+      "marks": null
+    },
+    {
+      "surface": "עד",
+      "gloss": "hasta",
+      "marks": null
+    },
+    {
+      "surface": "בקר",
+      "gloss": "la mañana",
+      "marks": null
+    },
+    {
+      "surface": "וירם",
+      "gloss": "y se criaron",
+      "marks": null
+    },
+    {
+      "surface": "תולעים",
+      "gloss": "gusanos",
+      "marks": null
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "y ⟨se⟩ hizo apestoso",
+      "marks": null
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "y se airó",
+      "marks": null
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "con ellos",
+      "marks": null
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé",
+      "marks": null
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Moisés",
@@ -20,99 +102,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 656,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17237,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17893
-  },
-  "translation": "Y no escucharon a Moshé, y ⟨dejaron⟩ de ⟨él⟩ algunos hombres hasta la mañana, y se criaron gusanos y ⟨se⟩ hizo apestoso, y se airó con ellos Moshé",
-  "tokens": [
-    {
-      "surface": "ולא",
-      "english": "Y no",
-      "marks": null
-    },
-    {
-      "surface": "שמעו",
-      "english": "escucharon",
-      "marks": null
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": null
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé",
-      "marks": null
-    },
-    {
-      "surface": "ויותרו",
-      "english": "y ⟨dejaron⟩",
-      "marks": null
-    },
-    {
-      "surface": "אנשים",
-      "english": "algunos hombres",
-      "marks": null
-    },
-    {
-      "surface": "ממנו",
-      "english": "de ⟨él⟩",
-      "marks": null
-    },
-    {
-      "surface": "עד",
-      "english": "hasta",
-      "marks": null
-    },
-    {
-      "surface": "בקר",
-      "english": "la mañana",
-      "marks": null
-    },
-    {
-      "surface": "וירם",
-      "english": "y se criaron",
-      "marks": null
-    },
-    {
-      "surface": "תולעים",
-      "english": "gusanos",
-      "marks": null
-    },
-    {
-      "surface": "ויבאש",
-      "english": "y ⟨se⟩ hizo apestoso",
-      "marks": null
-    },
-    {
-      "surface": "ויקצף",
-      "english": "y se airó",
-      "marks": null
-    },
-    {
-      "surface": "עלהם",
-      "english": "con ellos",
-      "marks": null
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé",
-      "marks": null
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:45:32.432807457Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

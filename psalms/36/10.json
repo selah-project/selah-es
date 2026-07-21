@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 36:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69915,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70393
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:14:30.121676529Z",
   "translation": "Porque ⟨con⟩ Ti ⟨es⟩ ⟨el⟩ manantial de vida; ⟨en⟩ Tu luz vemos ⟨la⟩ luz.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "עמך",
-      "english": "⟨con⟩ Ti",
+      "gloss": "⟨con⟩ Ti",
       "marks": "Ti"
     },
     {
       "surface": "מקור",
-      "english": "⟨el⟩ manantial"
+      "gloss": "⟨el⟩ manantial"
     },
     {
       "surface": "חיים",
-      "english": "de vida"
+      "gloss": "de vida"
     },
     {
       "surface": "באורך",
-      "english": "⟨en⟩ Tu luz",
+      "gloss": "⟨en⟩ Tu luz",
       "marks": "Tu luz"
     },
     {
       "surface": "נראה",
-      "english": "vemos"
+      "gloss": "vemos"
     },
     {
       "surface": "אור",
-      "english": "⟨la⟩ luz"
+      "gloss": "⟨la⟩ luz"
     }
-  ],
-  "timestamp": "2026-06-09T23:14:30.121676529Z",
-  "model": "glm-4.5"
+  ]
 }

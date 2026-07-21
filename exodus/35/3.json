@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 35:3",
   "book": "exodus",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 487,
-    "prompt_tokens": 23885,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24372
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:25:41.145227537Z",
   "translation": "No ⟨vosotros⟩ encenderéis ⟨את⟩ fuego en todas vuestras moradas en ⟨el⟩ día de ⟨el⟩ Shabbat.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תבערו",
-      "english": "⟨vosotros⟩ encenderéis"
+      "gloss": "⟨vosotros⟩ encenderéis"
     },
     {
       "surface": "אש",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "fuego"
     },
     {
       "surface": "בכל",
-      "english": "en todas"
+      "gloss": "en todas"
     },
     {
       "surface": "משבתיכם",
-      "english": "vuestras moradas"
+      "gloss": "vuestras moradas"
     },
     {
       "surface": "ביום",
-      "english": "en ⟨el⟩ día"
+      "gloss": "en ⟨el⟩ día"
     },
     {
       "surface": "השבת",
-      "english": "de ⟨el⟩ Shabbat"
+      "gloss": "de ⟨el⟩ Shabbat"
     }
-  ],
-  "timestamp": "2026-07-16T20:25:41.145227537Z",
-  "model": "glm-4.5"
+  ]
 }

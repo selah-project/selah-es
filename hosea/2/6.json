@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "hosea 2:6",
   "book": "hosea",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 469,
-    "prompt_tokens": 26803,
-    "prompt_tokens_details": {
-      "cached_tokens": 25472
-    },
-    "total_tokens": 27272
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:20:09.715499712Z",
   "translation": "Y ⟨את⟩ los hijos de ella no tendré compasión, porque hijos de prostituciones ⟨son⟩ ellos.",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "Y ⟨את⟩",
+      "gloss": "Y ⟨את⟩",
       "marks": "los hijos de ella"
     },
     {
       "surface": "בניה",
-      "english": "los hijos de ella"
+      "gloss": "los hijos de ella"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ארחם",
-      "english": "tendré compasión"
+      "gloss": "tendré compasión"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "בני",
-      "english": "hijos"
+      "gloss": "hijos"
     },
     {
       "surface": "זנונים",
-      "english": "de prostituciones"
+      "gloss": "de prostituciones"
     },
     {
       "surface": "המה",
-      "english": "ellos"
+      "gloss": "ellos"
     }
-  ],
-  "timestamp": "2026-07-16T21:20:09.715499712Z",
-  "model": "glm-4.5"
+  ]
 }

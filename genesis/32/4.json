@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 32:4",
   "book": "genesis",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28725,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29067
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:29:58.244639918Z",
   "translation": "Y envió Yaakov mensajeros ⟨delante de⟩ él a Esav su hermano ⟨a⟩ tierra de Seir campo de Edom",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "Y envió"
+      "gloss": "Y envió"
     },
     {
       "surface": "יעקב",
-      "english": "Yaakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "מלאכים",
-      "english": "mensajeros"
+      "gloss": "mensajeros"
     },
     {
       "surface": "לפניו",
-      "english": "⟨delante de⟩ él"
+      "gloss": "⟨delante de⟩ él"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "עשו",
-      "english": "Esav"
+      "gloss": "Esav"
     },
     {
       "surface": "אחיו",
-      "english": "su hermano"
+      "gloss": "su hermano"
     },
     {
       "surface": "ארצה",
-      "english": "⟨a⟩ tierra"
+      "gloss": "⟨a⟩ tierra"
     },
     {
       "surface": "שעיר",
-      "english": "de Seir"
+      "gloss": "de Seir"
     },
     {
       "surface": "שדה",
-      "english": "campo"
+      "gloss": "campo"
     },
     {
       "surface": "אדום",
-      "english": "de Edom"
+      "gloss": "de Edom"
     }
-  ],
-  "timestamp": "2026-06-10T05:29:58.244639918Z",
-  "model": "glm-4.5"
+  ]
 }

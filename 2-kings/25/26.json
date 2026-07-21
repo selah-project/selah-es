@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "2-kings 25:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 25,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:48:22.548281029Z",
+  "translation": "Y se levantó todo ⟨el⟩ pueblo, desde ⟨el⟩ pequeño hasta ⟨el⟩ grande, y ⟨los⟩ capitanes de ⟨las⟩ fuerzas, y vinieron a Mitzráyim, porque temían de ⟨la⟩ presencia de ⟨los⟩ caldeos.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Y se levantó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨el⟩ pueblo"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "desde ⟨el⟩ pequeño"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hasta ⟨el⟩"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "y ⟨los⟩ capitanes"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "de ⟨las⟩ fuerzas"
+    },
+    {
+      "surface": "ואיבא",
+      "gloss": "y vinieron"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Mitzráyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "temían"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de ⟨la⟩ presencia de"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "⟨los⟩ caldeos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -13,80 +76,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 25,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17131,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17696
-  },
-  "translation": "Y se levantó todo ⟨el⟩ pueblo, desde ⟨el⟩ pequeño hasta ⟨el⟩ grande, y ⟨los⟩ capitanes de ⟨las⟩ fuerzas, y vinieron a Mitzráyim, porque temían de ⟨la⟩ presencia de ⟨los⟩ caldeos.",
-  "tokens": [
-    {
-      "surface": "ויקמו",
-      "english": "Y se levantó"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨el⟩ pueblo"
-    },
-    {
-      "surface": "מקטן",
-      "english": "desde ⟨el⟩ pequeño"
-    },
-    {
-      "surface": "ועד",
-      "english": "hasta ⟨el⟩"
-    },
-    {
-      "surface": "גדול",
-      "english": "grande"
-    },
-    {
-      "surface": "ושרי",
-      "english": "y ⟨los⟩ capitanes"
-    },
-    {
-      "surface": "החילים",
-      "english": "de ⟨las⟩ fuerzas"
-    },
-    {
-      "surface": "ואיבא",
-      "english": "y vinieron"
-    },
-    {
-      "surface": "מצרים",
-      "english": "a Mitzráyim"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "יראו",
-      "english": "temían"
-    },
-    {
-      "surface": "מפני",
-      "english": "de ⟨la⟩ presencia de"
-    },
-    {
-      "surface": "כשדים",
-      "english": "⟨los⟩ caldeos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:48:22.548281029Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "job 15:18",
   "book": "job",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26941,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27384
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:35.149675583Z",
   "translation": "que ⟨los⟩ sabios declaran ⟨y⟩ no ⟨lo⟩ ocultan ⟨de⟩ sus padres",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Que",
+      "gloss": "Que",
       "marks": "sabios"
     },
     {
       "surface": "חכמים",
-      "english": "⟨los⟩ sabios"
+      "gloss": "⟨los⟩ sabios"
     },
     {
       "surface": "יגידו",
-      "english": "declaran"
+      "gloss": "declaran"
     },
     {
       "surface": "ולא",
-      "english": "⟨y⟩ no"
+      "gloss": "⟨y⟩ no"
     },
     {
       "surface": "כחדו",
-      "english": "⟨lo⟩ ocultan"
+      "gloss": "⟨lo⟩ ocultan"
     },
     {
       "surface": "מאבותם",
-      "english": "⟨de⟩ sus padres"
+      "gloss": "⟨de⟩ sus padres"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:35.149675583Z",
-  "model": "glm-4.5"
+  ]
 }

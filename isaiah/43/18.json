@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "isaiah 43:18",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25953,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26267
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:47:43.218177875Z",
   "translation": "No recordéis ⟨las⟩ primeras cosas ⟨ni⟩ ⟨las⟩ cosas antiguas no consideréis",
   "tokens": [
     {
       "surface": "אל",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תזכרו",
-      "english": "recordéis"
+      "gloss": "recordéis"
     },
     {
       "surface": "ראשנות",
-      "english": "⟨las⟩ primeras cosas",
+      "gloss": "⟨las⟩ primeras cosas",
       "marks": "primeras cosas"
     },
     {
       "surface": "וקדמניות",
-      "english": "⟨ni⟩ ⟨las⟩ cosas antiguas",
+      "gloss": "⟨ni⟩ ⟨las⟩ cosas antiguas",
       "marks": "cosas antiguas"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תתבננו",
-      "english": "consideréis"
+      "gloss": "consideréis"
     }
-  ],
-  "timestamp": "2026-06-10T02:47:43.218177875Z",
-  "model": "glm-4.5"
+  ]
 }

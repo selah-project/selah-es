@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 8:5",
   "book": "job",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27083,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27521
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:57:06.251383736Z",
   "translation": "Si tú ⟨buscaras temprano⟩ ⟨a⟩ Elohim y ⟨a⟩ Shaddai ⟨implicaras⟩ ⟨súplica⟩",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "תשחר",
-      "english": "buscaras temprano"
+      "gloss": "buscaras temprano"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "Elohim"
     },
     {
       "surface": "אל",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ואל",
-      "english": "y ⟨a⟩",
+      "gloss": "y ⟨a⟩",
       "marks": "Shaddai"
     },
     {
       "surface": "שדי",
-      "english": "Shaddai"
+      "gloss": "Shaddai"
     },
     {
       "surface": "תתחנן",
-      "english": "implicaras ⟨súplica⟩"
+      "gloss": "implicaras ⟨súplica⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:57:06.251383736Z",
-  "model": "glm-4.5"
+  ]
 }

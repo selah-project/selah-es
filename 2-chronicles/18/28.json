@@ -1,9 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "2-chronicles 18:28",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 18,
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:19:10.222368062Z",
+  "translation": "Y ⟨el⟩ rey de Yisrael subió, y Iehoshafat ⟨el⟩ rey de Yehudá, a Ramot de Galaad",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Y subió"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨el⟩ rey",
+      "marks": "rey de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "y Iehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨el⟩ rey",
+      "marks": "rey de Judá"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehudá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "de Galaad"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,62 +65,6 @@
       "hebrew": "יהודה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 18,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57852,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58174
-  },
-  "translation": "Y ⟨el⟩ rey de Yisrael subió, y Iehoshafat ⟨el⟩ rey de Yehudá, a Ramot de Galaad",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "Y subió"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨el⟩ rey",
-      "marks": "rey de Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "ויהושפט",
-      "english": "y Iehoshafat"
-    },
-    {
-      "surface": "מלך",
-      "english": "⟨el⟩ rey",
-      "marks": "rey de Judá"
-    },
-    {
-      "surface": "יהודה",
-      "english": "de Yehudá"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "רמת",
-      "english": "Ramot"
-    },
-    {
-      "surface": "גלעד",
-      "english": "de Galaad"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:19:10.222368062Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

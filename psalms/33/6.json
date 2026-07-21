@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 33:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 539,
-    "prompt_tokens": 70101,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70640
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:28:33.938324628Z",
   "translation": "Por la palabra de YHWH fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca",
   "tokens": [
     {
       "surface": "בדבר",
-      "english": "Por la palabra de"
+      "gloss": "Por la palabra de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שמים",
-      "english": "los cielos"
+      "gloss": "los cielos"
     },
     {
       "surface": "נעשו",
-      "english": "fueron hechos"
+      "gloss": "fueron hechos"
     },
     {
       "surface": "וברוח",
-      "english": "y por el aliento de"
+      "gloss": "y por el aliento de"
     },
     {
       "surface": "פיו",
-      "english": "su boca"
+      "gloss": "su boca"
     },
     {
       "surface": "כל",
-      "english": "todo el"
+      "gloss": "todo el"
     },
     {
       "surface": "צבאם",
-      "english": "ejército de ellos"
+      "gloss": "ejército de ellos"
     }
-  ],
-  "timestamp": "2026-07-16T23:28:33.938324628Z",
-  "model": "glm-4.5"
+  ]
 }

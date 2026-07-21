@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 109:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 306,
-    "prompt_tokens": 69843,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70149
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:40.390803230Z",
   "translation": "Y palabras de odio ⟨me⟩ rodearon, y ⟨me⟩ atacaron sin causa",
   "tokens": [
     {
       "surface": "ודברי",
-      "english": "Y palabras"
+      "gloss": "Y palabras"
     },
     {
       "surface": "שנאה",
-      "english": "de odio"
+      "gloss": "de odio"
     },
     {
       "surface": "סבבוני",
-      "english": "⟨me⟩ rodearon"
+      "gloss": "⟨me⟩ rodearon"
     },
     {
       "surface": "וילחמוני",
-      "english": "y ⟨me⟩ atacaron"
+      "gloss": "y ⟨me⟩ atacaron"
     },
     {
       "surface": "חנם",
-      "english": "sin causa"
+      "gloss": "sin causa"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:40.390803230Z",
-  "model": "glm-4.5"
+  ]
 }

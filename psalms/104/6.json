@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 104:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 70004,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70415
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:31.964653913Z",
   "translation": "Tehom ⟨lo⟩ cubriste como vestido; ⟨las⟩ aguas se pararon sobre ⟨los⟩ montes",
   "tokens": [
     {
       "surface": "תהום",
-      "english": "Tehom"
+      "gloss": "Tehom"
     },
     {
       "surface": "כלבוש",
-      "english": "⟨lo⟩"
+      "gloss": "⟨lo⟩"
     },
     {
       "surface": "כסיתו",
-      "english": "cubriste"
+      "gloss": "cubriste"
     },
     {
       "surface": "על",
-      "english": "como"
+      "gloss": "como"
     },
     {
       "surface": "הרים",
-      "english": "vestido"
+      "gloss": "vestido"
     },
     {
       "surface": "יעמדו",
-      "english": "se pararon"
+      "gloss": "se pararon"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:31.964653913Z",
-  "model": "glm-4.5"
+  ]
 }

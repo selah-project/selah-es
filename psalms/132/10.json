@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 132:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69835,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70285
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:05:59.640690952Z",
   "translation": "Por ⟨el⟩ bien de David tu sirviente, no rechaces ⟨el⟩ rostro de ⟨tu⟩ Mashíaj",
   "tokens": [
     {
       "surface": "בעבור",
-      "english": "Por ⟨el⟩ bien de"
+      "gloss": "Por ⟨el⟩ bien de"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "עבדך",
-      "english": "tu sirviente"
+      "gloss": "tu sirviente"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תשב",
-      "english": "rechaces"
+      "gloss": "rechaces"
     },
     {
       "surface": "פני",
-      "english": "⟨el⟩ rostro de"
+      "gloss": "⟨el⟩ rostro de"
     },
     {
       "surface": "משיחך",
-      "english": "⟨tu⟩ Mashíaj"
+      "gloss": "⟨tu⟩ Mashíaj"
     }
-  ],
-  "timestamp": "2026-06-10T00:05:59.640690952Z",
-  "model": "glm-4.5"
+  ]
 }

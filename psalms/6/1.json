@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 6:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69832,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70261
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:34.169593840Z",
   "translation": "⟨al⟩ que vence ⟨en⟩ salmodias, sobre ⟨la⟩ octava, un canto ⟨de⟩ David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨Al⟩ que vence",
+      "gloss": "⟨Al⟩ que vence",
       "marks": "que vence"
     },
     {
       "surface": "בנגינות",
-      "english": "⟨en⟩ salmodias",
+      "gloss": "⟨en⟩ salmodias",
       "marks": "salmodias"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "השמינית",
-      "english": "⟨la⟩ octava",
+      "gloss": "⟨la⟩ octava",
       "marks": "octava"
     },
     {
       "surface": "מזמור",
-      "english": "un canto"
+      "gloss": "un canto"
     },
     {
       "surface": "לדוד",
-      "english": "⟨de⟩ David",
+      "gloss": "⟨de⟩ David",
       "marks": "David"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:34.169593840Z",
-  "model": "glm-4.5"
+  ]
 }

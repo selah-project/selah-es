@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "nehemiah 10:1",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 926,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56780,
-    "prompt_tokens_details": {
-      "cached_tokens": 55510
-    },
-    "total_tokens": 57706
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:42:21.301556231Z",
   "translation": "Y por todo ⟨esto⟩ ⟨nosotros⟩ cortamos ⟨un⟩ ⟨pacto⟩ ⟨firme⟩ y ⟨lo⟩ escribimos ⟨y⟩ sobre ⟨lo⟩ ⟨sellado⟩ ⟨nuestros⟩ ⟨príncipes⟩ ⟨nuestros⟩ levitas ⟨nuestros⟩ kohanim",
   "tokens": [
     {
       "surface": "ובכל",
-      "english": "Y por todo"
+      "gloss": "Y por todo"
     },
     {
       "surface": "זאת",
-      "english": "⟨esto⟩",
+      "gloss": "⟨esto⟩",
       "marks": "todo esto"
     },
     {
       "surface": "אנחנו",
-      "english": "⟨nosotros⟩",
+      "gloss": "⟨nosotros⟩",
       "marks": "nosotros (sujeto del verbo)"
     },
     {
       "surface": "כרתים",
-      "english": "cortamos"
+      "gloss": "cortamos"
     },
     {
       "surface": "אמנה",
-      "english": "⟨un⟩ ⟨pacto⟩ ⟨firme⟩",
+      "gloss": "⟨un⟩ ⟨pacto⟩ ⟨firme⟩",
       "marks": "un pacto firme"
     },
     {
       "surface": "וכתבים",
-      "english": "⟨lo⟩ escribimos",
+      "gloss": "⟨lo⟩ escribimos",
       "marks": "lo (el pacto)"
     },
     {
       "surface": "ועל",
-      "english": "⟨y⟩ sobre"
+      "gloss": "⟨y⟩ sobre"
     },
     {
       "surface": "החתום",
-      "english": "⟨lo⟩ ⟨sellado⟩",
+      "gloss": "⟨lo⟩ ⟨sellado⟩",
       "marks": "lo sellado (el pacto firmado)"
     },
     {
       "surface": "שרינו",
-      "english": "⟨nuestros⟩ ⟨príncipes⟩"
+      "gloss": "⟨nuestros⟩ ⟨príncipes⟩"
     },
     {
       "surface": "לוינו",
-      "english": "⟨nuestros⟩ levitas"
+      "gloss": "⟨nuestros⟩ levitas"
     },
     {
       "surface": "כהנינו",
-      "english": "⟨nuestros⟩ kohanim"
+      "gloss": "⟨nuestros⟩ kohanim"
     }
-  ],
-  "timestamp": "2026-06-10T00:42:21.301556231Z",
-  "model": "glm-4.5"
+  ]
 }

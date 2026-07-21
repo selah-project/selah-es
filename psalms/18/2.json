@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 18:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69764,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70103
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:04:02.067154454Z",
   "translation": "Y dijo: Amo ⟨a⟩ YHWH, mi fortaleza.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo",
+      "gloss": "Y dijo",
       "marks": null
     },
     {
       "surface": "ארחמך",
-      "english": "Amo ⟨a⟩",
+      "gloss": "Amo ⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "marks": null
     },
     {
       "surface": "חזקי",
-      "english": "mi fortaleza",
+      "gloss": "mi fortaleza",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-09T23:04:02.067154454Z",
-  "model": "glm-4.5"
+  ]
 }

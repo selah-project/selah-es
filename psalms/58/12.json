@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 58:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69985,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70528
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:26:06.134577563Z",
   "translation": "Y dirá ⟨el⟩ hombre: ⟨hay⟩ ciertamente fruto ⟨para⟩ ⟨el⟩ justo; ciertamente hay Elohim ⟨que⟩ juzgan en ⟨la⟩ tierra.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dirá"
+      "gloss": "Y dirá"
     },
     {
       "surface": "אדם",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "אך",
-      "english": "ciertamente"
+      "gloss": "ciertamente"
     },
     {
       "surface": "פרי",
-      "english": "fruto"
+      "gloss": "fruto"
     },
     {
       "surface": "לצדיק",
-      "english": "⟨para⟩ ⟨el⟩ justo"
+      "gloss": "⟨para⟩ ⟨el⟩ justo"
     },
     {
       "surface": "אך",
-      "english": "ciertamente"
+      "gloss": "ciertamente"
     },
     {
       "surface": "יש",
-      "english": "⟨hay⟩"
+      "gloss": "⟨hay⟩"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "שפטים",
-      "english": "⟨que⟩ juzgan"
+      "gloss": "⟨que⟩ juzgan"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     }
-  ],
-  "timestamp": "2026-06-09T23:26:06.134577563Z",
-  "model": "glm-4.5"
+  ]
 }

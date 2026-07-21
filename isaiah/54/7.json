@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "isaiah 54:7",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25974,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26377
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:55:05.455982783Z",
   "translation": "Por un momento ⟨en⟩ pequeño ⟨momento⟩ ⟨te⟩ abandoné, y ⟨con⟩ grandes misericordias ⟨te⟩ reuniré.",
   "tokens": [
     {
       "surface": "ברגע",
-      "english": "Por un momento ⟨en⟩"
+      "gloss": "Por un momento ⟨en⟩"
     },
     {
       "surface": "קטן",
-      "english": "pequeño ⟨momento⟩"
+      "gloss": "pequeño ⟨momento⟩"
     },
     {
       "surface": "עזבתיך",
-      "english": "⟨te⟩ abandoné"
+      "gloss": "⟨te⟩ abandoné"
     },
     {
       "surface": "וברחמים",
-      "english": "y ⟨con⟩ grandes misericordias"
+      "gloss": "y ⟨con⟩ grandes misericordias"
     },
     {
       "surface": "גדלים",
-      "english": "grandes misericordias"
+      "gloss": "grandes misericordias"
     },
     {
       "surface": "אקבצך",
-      "english": "⟨te⟩ reuniré"
+      "gloss": "⟨te⟩ reuniré"
     }
-  ],
-  "timestamp": "2026-06-10T02:55:05.455982783Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "numbers 16:24",
   "book": "numbers",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25169,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25712
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:52:56.681134407Z",
   "translation": "Habla ⟨a⟩ ⟨la⟩ congregación diciendo: ⟨los⟩ que ⟨están⟩ alrededor ⟨de⟩ ⟨la⟩ tienda ⟨de⟩ ⟨reunión⟩ ⟨de⟩ Korach, Dathan y Aviram, ⟨lévanse⟩ ⟨de⟩ ⟨alrededor⟩",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "Habla"
+      "gloss": "Habla"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "העדה",
-      "english": "⟨la⟩ congregación"
+      "gloss": "⟨la⟩ congregación"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo:"
+      "gloss": "diciendo:"
     },
     {
       "surface": "העלו",
-      "english": "⟨los⟩ que ⟨están⟩ alrededor ⟨de⟩ ⟨la⟩ tienda ⟨de⟩ ⟨reunión⟩"
+      "gloss": "⟨los⟩ que ⟨están⟩ alrededor ⟨de⟩ ⟨la⟩ tienda ⟨de⟩ ⟨reunión⟩"
     },
     {
       "surface": "מסביב",
-      "english": "⟨de⟩ ⟨alrededor⟩"
+      "gloss": "⟨de⟩ ⟨alrededor⟩"
     },
     {
       "surface": "למשכן",
-      "english": "⟨la⟩ tienda ⟨de⟩ ⟨reunión⟩"
+      "gloss": "⟨la⟩ tienda ⟨de⟩ ⟨reunión⟩"
     },
     {
       "surface": "קרח",
-      "english": "⟨de⟩ Korach"
+      "gloss": "⟨de⟩ Korach"
     },
     {
       "surface": "דתן",
-      "english": "Dathan"
+      "gloss": "Dathan"
     },
     {
       "surface": "ואבירם",
-      "english": "y Aviram"
+      "gloss": "y Aviram"
     }
-  ],
-  "timestamp": "2026-06-10T04:52:56.681134407Z",
-  "model": "glm-4.5"
+  ]
 }

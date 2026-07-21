@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 73:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69798,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70239
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:09.908029994Z",
   "translation": "They scoff ⟨and⟩ speak ⟨in⟩ the wickedness ⟨of⟩ oppression ⟨from⟩ on high they speak",
   "tokens": [
     {
       "surface": "ימיקו",
-      "english": "They scoff"
+      "gloss": "They scoff"
     },
     {
       "surface": "וידברו",
-      "english": "⟨and⟩ speak"
+      "gloss": "⟨and⟩ speak"
     },
     {
       "surface": "ברע",
-      "english": "⟨in⟩ the wickedness"
+      "gloss": "⟨in⟩ the wickedness"
     },
     {
       "surface": "עשק",
-      "english": "⟨of⟩ oppression"
+      "gloss": "⟨of⟩ oppression"
     },
     {
       "surface": "ממרום",
-      "english": "⟨from⟩ on high"
+      "gloss": "⟨from⟩ on high"
     },
     {
       "surface": "ידברו",
-      "english": "they speak"
+      "gloss": "they speak"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:09.908029994Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "1-chronicles 29:26",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 29,
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:58:59.978086411Z",
+  "translation": "Y David hijo de Yishái reinó ⟨sobre⟩ todo Yisrael",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Y David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo de"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishái"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sobre⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,52 +48,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 29,
-  "usage": {
-    "completion_tokens": 227,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56615,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 56842
-  },
-  "translation": "Y David hijo de Yishái reinó ⟨sobre⟩ todo Yisrael",
-  "tokens": [
-    {
-      "surface": "ודויד",
-      "english": "Y David"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo de"
-    },
-    {
-      "surface": "ישי",
-      "english": "Yishái"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    },
-    {
-      "surface": "על",
-      "english": "⟨sobre⟩"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:58:59.978086411Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "exodus 4:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 4,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:12:58.453521921Z",
+  "translation": "Y fue Moshé y ⟨se⟩ volvió a Yeter su suegro y le dijo: 'Por favor ⟨ir⟩ y ⟨volver⟩ a mis hermanos que ⟨están⟩ en Mitsráyim y veré si aún ⟨están⟩ vivos.' Y Yitro dijo a Moshé: 'Ve en shalom.'",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Y fue"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "y ⟨se⟩ volvió"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "su suegro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y le dijo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "le"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "⟨ir⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Por favor"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "y ⟨volver⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mis hermanos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "⟨están⟩ en Mitsráyim"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "y veré"
+    },
+    {
+      "surface": "העודם",
+      "gloss": "si aún ⟨están⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivos"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro dijo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "a Mosheh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "en shalom"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Mosheh",
@@ -13,116 +112,6 @@
       "hebrew": "משה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17941,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 18567
-  },
-  "translation": "Y fue Moshé y ⟨se⟩ volvió a Yeter su suegro y le dijo: 'Por favor ⟨ir⟩ y ⟨volver⟩ a mis hermanos que ⟨están⟩ en Mitsráyim y veré si aún ⟨están⟩ vivos.' Y Yitro dijo a Moshé: 'Ve en shalom.'",
-  "tokens": [
-    {
-      "surface": "וילך",
-      "english": "Y fue"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "וישב",
-      "english": "y ⟨se⟩ volvió"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "יתר",
-      "english": "Yeter"
-    },
-    {
-      "surface": "חתנו",
-      "english": "su suegro"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y le dijo"
-    },
-    {
-      "surface": "לו",
-      "english": "le"
-    },
-    {
-      "surface": "אלכה",
-      "english": "⟨ir⟩"
-    },
-    {
-      "surface": "נא",
-      "english": "Por favor"
-    },
-    {
-      "surface": "ואשובה",
-      "english": "y ⟨volver⟩"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אחי",
-      "english": "mis hermanos"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "במצרים",
-      "english": "⟨están⟩ en Mitsráyim"
-    },
-    {
-      "surface": "ואראה",
-      "english": "y veré"
-    },
-    {
-      "surface": "העודם",
-      "english": "si aún ⟨están⟩"
-    },
-    {
-      "surface": "חיים",
-      "english": "vivos"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y"
-    },
-    {
-      "surface": "יתרו",
-      "english": "Yitro dijo"
-    },
-    {
-      "surface": "למשה",
-      "english": "a Mosheh"
-    },
-    {
-      "surface": "לך",
-      "english": "Ve"
-    },
-    {
-      "surface": "לשלום",
-      "english": "en shalom"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:12:58.453521921Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

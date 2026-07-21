@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 142:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 142,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70120,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70568
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:09:45.019257885Z",
   "translation": "Grité a ti, YHWH, dije: ⟨tú eres⟩ mi refugio, ⟨la⟩ porción ⟨de mí⟩ en ⟨la⟩ tierra ⟨de los⟩ vivientes.",
   "tokens": [
     {
       "surface": "זעקתי",
-      "english": "Grité"
+      "gloss": "Grité"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אמרתי",
-      "english": "dije"
+      "gloss": "dije"
     },
     {
       "surface": "אתה",
-      "english": "⟨tú eres⟩"
+      "gloss": "⟨tú eres⟩"
     },
     {
       "surface": "מחסי",
-      "english": "mi refugio"
+      "gloss": "mi refugio"
     },
     {
       "surface": "חלקי",
-      "english": "⟨la⟩ porción ⟨de mí⟩"
+      "gloss": "⟨la⟩ porción ⟨de mí⟩"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     },
     {
       "surface": "החיים",
-      "english": "⟨de los⟩ vivientes"
+      "gloss": "⟨de los⟩ vivientes"
     }
-  ],
-  "timestamp": "2026-06-10T00:09:45.019257885Z",
-  "model": "glm-4.5"
+  ]
 }

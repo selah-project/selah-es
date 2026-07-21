@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "proverbs 27:13",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59948,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60435
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:49:27.912300604Z",
   "translation": "Toma ⟨el⟩ vestido de ⟨quien⟩ se hace fiador por ⟨un⟩ extranjero, ⟨y⟩ ⟨en⟩ prenda ⟨al⟩ que ⟨es⟩ fiador por ⟨una⟩ mujer extranjera.",
   "tokens": [
     {
       "surface": "קח",
-      "english": "Toma"
+      "gloss": "Toma"
     },
     {
       "surface": "בגדו",
-      "english": "⟨el⟩ vestido de ⟨quien⟩",
+      "gloss": "⟨el⟩ vestido de ⟨quien⟩",
       "marks": "quien se hace fiador"
     },
     {
       "surface": "כי",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "ערב",
-      "english": "se hace fiador"
+      "gloss": "se hace fiador"
     },
     {
       "surface": "זר",
-      "english": "por ⟨un⟩ extranjero"
+      "gloss": "por ⟨un⟩ extranjero"
     },
     {
       "surface": "ובעד",
-      "english": "⟨y⟩ ⟨en⟩ prenda ⟨al⟩ que",
+      "gloss": "⟨y⟩ ⟨en⟩ prenda ⟨al⟩ que",
       "marks": "quien es fiador"
     },
     {
       "surface": "נכריה",
-      "english": "⟨es⟩ fiador por ⟨una⟩ mujer extranjera"
+      "gloss": "⟨es⟩ fiador por ⟨una⟩ mujer extranjera"
     },
     {
       "surface": "חבלהו",
-      "english": "⟨la⟩ prenda"
+      "gloss": "⟨la⟩ prenda"
     }
-  ],
-  "timestamp": "2026-06-10T01:49:27.912300604Z",
-  "model": "glm-4.5"
+  ]
 }

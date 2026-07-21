@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 75:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69831,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70160
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:34:46.121644767Z",
   "translation": "Al maestro ⟨de⟩ coro No ⟨se⟩ destruya Salmo ⟨de⟩ Asaf Canto",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "Al maestro ⟨de⟩ coro"
+      "gloss": "Al maestro ⟨de⟩ coro"
     },
     {
       "surface": "אל",
-      "english": "No ⟨se⟩ destruya"
+      "gloss": "No ⟨se⟩ destruya"
     },
     {
       "surface": "תשחת",
-      "english": "destruya"
+      "gloss": "destruya"
     },
     {
       "surface": "מזמור",
-      "english": "Salmo"
+      "gloss": "Salmo"
     },
     {
       "surface": "לאסף",
-      "english": "⟨de⟩ Asaf"
+      "gloss": "⟨de⟩ Asaf"
     },
     {
       "surface": "שיר",
-      "english": "Canto"
+      "gloss": "Canto"
     }
-  ],
-  "timestamp": "2026-06-09T23:34:46.121644767Z",
-  "model": "glm-4.5"
+  ]
 }

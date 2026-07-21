@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 105:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 408,
-    "prompt_tokens": 70149,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70557
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:50.141570143Z",
   "translation": "Diciendo: A ti ⟨daré⟩ ⟨את⟩ la tierra de Kenaan, la porción de vuestra heredad.",
   "tokens": [
     {
       "surface": "לאמר",
-      "english": "Diciendo"
+      "gloss": "Diciendo"
     },
     {
       "surface": "לך",
-      "english": "A ti"
+      "gloss": "A ti"
     },
     {
       "surface": "אתן",
-      "english": "⟨daré⟩"
+      "gloss": "⟨daré⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la tierra de Kenaan"
     },
     {
       "surface": "ארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "כנען",
-      "english": "de Kenaan"
+      "gloss": "de Kenaan"
     },
     {
       "surface": "חבל",
-      "english": "la porción"
+      "gloss": "la porción"
     },
     {
       "surface": "נחלתכם",
-      "english": "de vuestra heredad"
+      "gloss": "de vuestra heredad"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:50.141570143Z",
-  "model": "glm-4.5"
+  ]
 }

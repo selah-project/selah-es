@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 28,
   "ref": "isaiah 43:28",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 609,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26034,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26643
-  },
+  "verse": 28,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:48:49.940940250Z",
   "translation": "Y ⟨he⟩ desoló ⟨los⟩ príncipes del santuario y ⟨he⟩ dado a Yaakov ⟨para⟩ ⟨el⟩ anatema y ⟨a⟩ Yisrael ⟨a⟩ las injurias",
   "tokens": [
     {
       "surface": "ואחלל",
-      "english": "Y ⟨he⟩ desoló"
+      "gloss": "Y ⟨he⟩ desoló"
     },
     {
       "surface": "שרי",
-      "english": "⟨los⟩ príncipes"
+      "gloss": "⟨los⟩ príncipes"
     },
     {
       "surface": "קדש",
-      "english": "del santuario"
+      "gloss": "del santuario"
     },
     {
       "surface": "ואתנה",
-      "english": "y ⟨he⟩ dado"
+      "gloss": "y ⟨he⟩ dado"
     },
     {
       "surface": "לחרם",
-      "english": "⟨para⟩ ⟨el⟩ anatema"
+      "gloss": "⟨para⟩ ⟨el⟩ anatema"
     },
     {
       "surface": "יעקב",
-      "english": "a Yaakov"
+      "gloss": "a Yaakov"
     },
     {
       "surface": "וישראל",
-      "english": "y ⟨a⟩ Yisrael"
+      "gloss": "y ⟨a⟩ Yisrael"
     },
     {
       "surface": "לגדופים",
-      "english": "⟨a⟩ las injurias"
+      "gloss": "⟨a⟩ las injurias"
     }
-  ],
-  "timestamp": "2026-06-10T02:48:49.940940250Z",
-  "model": "glm-4.5"
+  ]
 }

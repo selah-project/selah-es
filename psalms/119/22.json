@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 119:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69806,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70420
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:00.455088878Z",
   "translation": "Quita ⟨de⟩ ⟨mí⟩ ⟨el⟩ oprobio y ⟨el⟩ desprecio, porque ⟨los⟩ testimonios de Ti he guardado.",
   "tokens": [
     {
       "surface": "גל",
-      "english": "Quita"
+      "gloss": "Quita"
     },
     {
       "surface": "מעלי",
-      "english": "⟨de⟩ ⟨mí⟩",
+      "gloss": "⟨de⟩ ⟨mí⟩",
       "marks": "mí"
     },
     {
       "surface": "חרפה",
-      "english": "⟨el⟩ oprobio"
+      "gloss": "⟨el⟩ oprobio"
     },
     {
       "surface": "ובוז",
-      "english": "y ⟨el⟩ desprecio"
+      "gloss": "y ⟨el⟩ desprecio"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "עדתיך",
-      "english": "⟨los⟩ testimonios de Ti"
+      "gloss": "⟨los⟩ testimonios de Ti"
     },
     {
       "surface": "נצרתי",
-      "english": "he guardado"
+      "gloss": "he guardado"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:00.455088878Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "isaiah 22:20",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26087,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26405
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:34:21.788122264Z",
   "translation": "Y acontecerá ⟨en⟩ aquel día, y llamaré a ⟨mi⟩ siervo Eliaquim ben Hilcías",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "Y acontecerá"
+      "gloss": "Y acontecerá"
     },
     {
       "surface": "ביום",
-      "english": "⟨en⟩ aquel día"
+      "gloss": "⟨en⟩ aquel día"
     },
     {
       "surface": "ההוא",
-      "english": "aquel"
+      "gloss": "aquel"
     },
     {
       "surface": "וקראתי",
-      "english": "y llamaré"
+      "gloss": "y llamaré"
     },
     {
       "surface": "לעבדי",
-      "english": "a ⟨mi⟩ siervo"
+      "gloss": "a ⟨mi⟩ siervo"
     },
     {
       "surface": "לאליקים",
-      "english": "Eliaquim"
+      "gloss": "Eliaquim"
     },
     {
       "surface": "בן",
-      "english": "ben"
+      "gloss": "ben"
     },
     {
       "surface": "חלקיהו",
-      "english": "Hilcías"
+      "gloss": "Hilcías"
     }
-  ],
-  "timestamp": "2026-06-10T02:34:21.788122264Z",
-  "model": "glm-4.5"
+  ]
 }

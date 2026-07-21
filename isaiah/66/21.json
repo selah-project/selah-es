@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "isaiah 66:21",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25949,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26352
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:02:18.668224187Z",
   "translation": "Y también ⟨de⟩ ellos tomaré ⟨para⟩ sacerdotes y ⟨para⟩ levitas, dijo YHWH.",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "Y también"
+      "gloss": "Y también"
     },
     {
       "surface": "מהם",
-      "english": "⟨de⟩ ellos",
+      "gloss": "⟨de⟩ ellos",
       "marks": "ellos"
     },
     {
       "surface": "אקח",
-      "english": "tomaré"
+      "gloss": "tomaré"
     },
     {
       "surface": "לכהנים",
-      "english": "⟨para⟩ sacerdotes",
+      "gloss": "⟨para⟩ sacerdotes",
       "marks": "sacerdotes"
     },
     {
       "surface": "ללוים",
-      "english": "⟨para⟩ levitas",
+      "gloss": "⟨para⟩ levitas",
       "marks": "levitas"
     },
     {
       "surface": "אמר",
-      "english": "dijo"
+      "gloss": "dijo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T03:02:18.668224187Z",
-  "model": "glm-4.5"
+  ]
 }

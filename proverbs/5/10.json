@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 5:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59885,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60340
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:31:01.326607159Z",
   "translation": "Lest strangers be filled ⟨with⟩ your strength, ⟨and⟩ your labors ⟨be⟩ in ⟨the⟩ house of a stranger",
   "tokens": [
     {
       "surface": "פן",
-      "english": "Lest"
+      "gloss": "Lest"
     },
     {
       "surface": "ישבעו",
-      "english": "strangers be filled"
+      "gloss": "strangers be filled"
     },
     {
       "surface": "זרים",
-      "english": "strangers"
+      "gloss": "strangers"
     },
     {
       "surface": "כחך",
-      "english": "your strength",
+      "gloss": "your strength",
       "marks": "your strength"
     },
     {
       "surface": "ועצביך",
-      "english": "and your labors",
+      "gloss": "and your labors",
       "marks": "your labors"
     },
     {
       "surface": "בבית",
-      "english": "in the house"
+      "gloss": "in the house"
     },
     {
       "surface": "נכרי",
-      "english": "of a stranger"
+      "gloss": "of a stranger"
     }
-  ],
-  "timestamp": "2026-06-10T01:31:01.326607159Z",
-  "model": "glm-4.5"
+  ]
 }

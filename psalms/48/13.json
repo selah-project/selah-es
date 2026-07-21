@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 48:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 348,
-    "prompt_tokens": 69897,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70245
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:20.614216186Z",
   "translation": "Rodead ⟨a⟩ Tzión y ⟨la⟩ circundad, contad ⟨sus⟩ torres.",
   "tokens": [
     {
       "surface": "סבו",
-      "english": "Rodead"
+      "gloss": "Rodead"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     },
     {
       "surface": "והקיפוה",
-      "english": "y ⟨la⟩ circundad"
+      "gloss": "y ⟨la⟩ circundad"
     },
     {
       "surface": "ספרו",
-      "english": "contad"
+      "gloss": "contad"
     },
     {
       "surface": "מגדליה",
-      "english": "⟨sus⟩ torres"
+      "gloss": "⟨sus⟩ torres"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:20.614216186Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 145:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69869,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70311
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:11:30.332804058Z",
   "translation": "Grande ⟨es⟩ YHWH y ⟨es⟩ muy digno ⟨de⟩ ser alabado y ⟨a⟩ su grandeza ⟨no hay⟩ examen",
   "tokens": [
     {
       "surface": "גדול",
-      "english": "Grande"
+      "gloss": "Grande"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ומהלל",
-      "english": "y ⟨es⟩ muy digno ⟨de⟩ ser alabado",
+      "gloss": "y ⟨es⟩ muy digno ⟨de⟩ ser alabado",
       "marks": "YHWH"
     },
     {
       "surface": "מאד",
-      "english": "muy"
+      "gloss": "muy"
     },
     {
       "surface": "ולגדלתו",
-      "english": "y ⟨a⟩ su grandeza"
+      "gloss": "y ⟨a⟩ su grandeza"
     },
     {
       "surface": "אין",
-      "english": "⟨no hay⟩"
+      "gloss": "⟨no hay⟩"
     },
     {
       "surface": "חקר",
-      "english": "examen"
+      "gloss": "examen"
     }
-  ],
-  "timestamp": "2026-06-10T00:11:30.332804058Z",
-  "model": "glm-4.5"
+  ]
 }

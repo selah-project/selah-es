@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 58,
   "ref": "1-samuel 17:58",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 17,
+  "verse": 58,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:02:15.636791476Z",
+  "translation": "Y Shaúl dijo a él: ⟨de quién⟩ ⟨es⟩ hijo tú, el joven? Y Davidd dijo: ⟨soy⟩ hijo de tu siervo Yishái, ⟨el⟩ belenita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a él"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨de quién⟩ ⟨es⟩ hijo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "⟨de quién⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tú"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "el joven"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨soy⟩ hijo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "de tu siervo"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishái"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "belenita"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -20,80 +83,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 17,
-  "usage": {
-    "completion_tokens": 568,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16559,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 17127
-  },
-  "translation": "Y Shaúl dijo a él: ⟨de quién⟩ ⟨es⟩ hijo tú, el joven? Y Davidd dijo: ⟨soy⟩ hijo de tu siervo Yishái, ⟨el⟩ belenita.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "אליו",
-      "english": "a él"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨de quién⟩ ⟨es⟩ hijo"
-    },
-    {
-      "surface": "מי",
-      "english": "⟨de quién⟩"
-    },
-    {
-      "surface": "אתה",
-      "english": "tú"
-    },
-    {
-      "surface": "הנער",
-      "english": "el joven"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨soy⟩ hijo"
-    },
-    {
-      "surface": "עבדך",
-      "english": "de tu siervo"
-    },
-    {
-      "surface": "ישי",
-      "english": "Yishái"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨el⟩"
-    },
-    {
-      "surface": "הלחמי",
-      "english": "belenita"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:02:15.636791476Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

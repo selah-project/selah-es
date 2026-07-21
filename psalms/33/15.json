@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 33:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69839,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70130
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:12:52.141462645Z",
   "translation": "El que forma ⟨el⟩ corazón de ellos ⟨en⟩ unidad; ⟨el⟩ que entiende todas sus obras",
   "tokens": [
     {
       "surface": "היצר",
-      "english": "El que forma"
+      "gloss": "El que forma"
     },
     {
       "surface": "יחד",
-      "english": "⟨en⟩ unidad"
+      "gloss": "⟨en⟩ unidad"
     },
     {
       "surface": "לבם",
-      "english": "⟨el⟩ corazón de ellos"
+      "gloss": "⟨el⟩ corazón de ellos"
     },
     {
       "surface": "המבין",
-      "english": "⟨el⟩ que entiende"
+      "gloss": "⟨el⟩ que entiende"
     },
     {
       "surface": "אל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "כל",
-      "english": "todas"
+      "gloss": "todas"
     },
     {
       "surface": "מעשיהם",
-      "english": "sus obras"
+      "gloss": "sus obras"
     }
-  ],
-  "timestamp": "2026-06-09T23:12:52.141462645Z",
-  "model": "glm-4.5"
+  ]
 }

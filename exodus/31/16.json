@@ -1,9 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 31:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 31,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T07:09:39.886858184Z",
+  "translation": "Y ⟨los⟩ hijos de Yisrael ⟨guarden⟩ ⟨el⟩ Shabat, para hacer ⟨el⟩ Shabat en sus generaciones — Brit perpetuo.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Y ⟨guarden⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨el⟩",
+      "marks": "Shabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "para hacer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨el⟩",
+      "marks": "Shabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "en sus generaciones"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Brit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpetuo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,70 +73,6 @@
       "hebrew": "ברית"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 31,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17014,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17481
-  },
-  "translation": "Y ⟨los⟩ hijos de Yisrael ⟨guarden⟩ ⟨el⟩ Shabat, para hacer ⟨el⟩ Shabat en sus generaciones — Brit perpetuo.",
-  "tokens": [
-    {
-      "surface": "ושמרו",
-      "english": "Y ⟨guarden⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "את",
-      "english": "⟨el⟩",
-      "marks": "Shabat"
-    },
-    {
-      "surface": "השבת",
-      "english": "Shabat"
-    },
-    {
-      "surface": "לעשות",
-      "english": "para hacer"
-    },
-    {
-      "surface": "את",
-      "english": "⟨el⟩",
-      "marks": "Shabat"
-    },
-    {
-      "surface": "השבת",
-      "english": "Shabat"
-    },
-    {
-      "surface": "לדרתם",
-      "english": "en sus generaciones"
-    },
-    {
-      "surface": "ברית",
-      "english": "Brit"
-    },
-    {
-      "surface": "עולם",
-      "english": "perpetuo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T07:09:39.886858184Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

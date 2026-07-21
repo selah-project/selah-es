@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "2-kings 19:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 19,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:41:18.237427707Z",
+  "translation": "Y Yishayahu ben Amotz envió ⟨a⟩ Jizqiyahu, diciendo: Así ⟨ha⟩ dicho YHWH, ⟨el⟩ Elohim de Yisrael: ⟨Lo⟩ que ⟨tú⟩ has orado ⟨a⟩ mí contra Senejerib, rey de Ashshur, ⟨yo⟩ he oído.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Y envió"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yishayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jizqiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Así"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨ha⟩ dicho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨el⟩ Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨Lo⟩ que"
+    },
+    {
+      "surface": "התפללת",
+      "gloss": "⟨tú⟩ has orado"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨a⟩ mí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contra"
+    },
+    {
+      "surface": "סנחרב",
+      "gloss": "Senejerib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "de Ashshur"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "⟨yo⟩ he oído"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,104 +107,6 @@
       "hebrew": "אשור"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 871,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17678,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 18549
-  },
-  "translation": "Y Yishayahu ben Amotz envió ⟨a⟩ Jizqiyahu, diciendo: Así ⟨ha⟩ dicho YHWH, ⟨el⟩ Elohim de Yisrael: ⟨Lo⟩ que ⟨tú⟩ has orado ⟨a⟩ mí contra Senejerib, rey de Ashshur, ⟨yo⟩ he oído.",
-  "tokens": [
-    {
-      "surface": "וישלח",
-      "english": "Y envió"
-    },
-    {
-      "surface": "ישעיהו",
-      "english": "Yishayahu"
-    },
-    {
-      "surface": "בן",
-      "english": "ben"
-    },
-    {
-      "surface": "אמוץ",
-      "english": "Amotz"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "חזקיהו",
-      "english": "Jizqiyahu"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "כה",
-      "english": "Así"
-    },
-    {
-      "surface": "אמר",
-      "english": "⟨ha⟩ dicho"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨el⟩ Elohim"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨Lo⟩ que"
-    },
-    {
-      "surface": "התפללת",
-      "english": "⟨tú⟩ has orado"
-    },
-    {
-      "surface": "אלי",
-      "english": "⟨a⟩ mí"
-    },
-    {
-      "surface": "אל",
-      "english": "contra"
-    },
-    {
-      "surface": "סנחרב",
-      "english": "Senejerib"
-    },
-    {
-      "surface": "מלך",
-      "english": "rey"
-    },
-    {
-      "surface": "אשור",
-      "english": "de Ashshur"
-    },
-    {
-      "surface": "שמעתי",
-      "english": "⟨yo⟩ he oído"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:41:18.237427707Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 130:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 473,
-    "prompt_tokens": 69945,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70418
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:11.682530031Z",
   "translation": "Si ⟨tú⟩, YHWH, guardas ⟨las⟩ iniquidades, Adonai, ¿quién ⟨podrá⟩ permanecer?",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si",
+      "gloss": "Si",
       "notes": null
     },
     {
       "surface": "עונות",
-      "english": "⟨las⟩ iniquidades",
+      "gloss": "⟨las⟩ iniquidades",
       "notes": null
     },
     {
       "surface": "תשמר",
-      "english": "guardas",
+      "gloss": "guardas",
       "notes": null
     },
     {
       "surface": "יה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "notes": null
     },
     {
       "surface": "אדני",
-      "english": "Adonai",
+      "gloss": "Adonai",
       "notes": null
     },
     {
       "surface": "מי",
-      "english": "¿quién",
+      "gloss": "¿quién",
       "notes": null
     },
     {
       "surface": "יעמד",
-      "english": "⟨podrá⟩ permanecer",
+      "gloss": "⟨podrá⟩ permanecer",
       "notes": null
     }
-  ],
-  "timestamp": "2026-07-16T23:43:11.682530031Z",
-  "model": "glm-4.5"
+  ]
 }

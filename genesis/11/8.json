@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "genesis 11:8",
   "book": "genesis",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 483,
-    "prompt_tokens": 28811,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29294
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:55:32.664194357Z",
   "translation": "YHWH dispersó ⟨את⟩ desde allí sobre la faz de toda la tierra, y ellos cesaron de edificar la ciudad.",
   "tokens": [
     {
       "surface": "ויפץ",
-      "english": "dispersó"
+      "gloss": "dispersó"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "desde allí"
     },
     {
       "surface": "משם",
-      "english": "desde allí"
+      "gloss": "desde allí"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "פני",
-      "english": "la faz"
+      "gloss": "la faz"
     },
     {
       "surface": "כל",
-      "english": "toda"
+      "gloss": "toda"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "ויחדלו",
-      "english": "y ellos cesaron"
+      "gloss": "y ellos cesaron"
     },
     {
       "surface": "לבנת",
-      "english": "de edificar"
+      "gloss": "de edificar"
     },
     {
       "surface": "העיר",
-      "english": "la ciudad"
+      "gloss": "la ciudad"
     }
-  ],
-  "timestamp": "2026-07-16T20:55:32.664194357Z",
-  "model": "glm-4.5"
+  ]
 }

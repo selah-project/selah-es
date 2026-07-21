@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "joshua 21:12",
   "book": "joshua",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 567,
-    "prompt_tokens": 23794,
-    "prompt_tokens_details": {
-      "cached_tokens": 22272
-    },
-    "total_tokens": 24361
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:15:28.815042758Z",
   "translation": "Y ⟨את⟩ el campo de la ciudad y ⟨את⟩ sus aldeas dieron a Kalev ben Yefuné como posesión suya",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "Y ⟨את⟩",
+      "gloss": "Y ⟨את⟩",
       "marks": "el campo de la ciudad"
     },
     {
       "surface": "שדה",
-      "english": "el campo"
+      "gloss": "el campo"
     },
     {
       "surface": "העיר",
-      "english": "de la ciudad"
+      "gloss": "de la ciudad"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "sus aldeas"
     },
     {
       "surface": "חצריה",
-      "english": "sus aldeas"
+      "gloss": "sus aldeas"
     },
     {
       "surface": "נתנו",
-      "english": "dieron"
+      "gloss": "dieron"
     },
     {
       "surface": "לכלב",
-      "english": "a Kalev"
+      "gloss": "a Kalev"
     },
     {
       "surface": "בן",
-      "english": "ben"
+      "gloss": "ben"
     },
     {
       "surface": "יפנה",
-      "english": "Yefuné"
+      "gloss": "Yefuné"
     },
     {
       "surface": "באחזתו",
-      "english": "como posesión suya"
+      "gloss": "como posesión suya"
     }
-  ],
-  "timestamp": "2026-07-16T22:15:28.815042758Z",
-  "model": "glm-4.5"
+  ]
 }

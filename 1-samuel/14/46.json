@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 46,
   "ref": "1-samuel 14:46",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 14,
+  "verse": 46,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:57:54.393062036Z",
+  "translation": "Y Shaúl subió ⟨de⟩ después de ⟨los⟩ filisteos, y ⟨los⟩ filisteos se fueron a su lugar.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Y Saúl subió"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "⟨de⟩ después de ⟨los⟩"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisteos"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "y ⟨los⟩ filisteos"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "se fueron"
+    },
+    {
+      "surface": "למקומם",
+      "gloss": "a su lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -13,52 +48,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16128,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16461
-  },
-  "translation": "Y Shaúl subió ⟨de⟩ después de ⟨los⟩ filisteos, y ⟨los⟩ filisteos se fueron a su lugar.",
-  "tokens": [
-    {
-      "surface": "ויעל",
-      "english": "Y Saúl subió"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "מאחרי",
-      "english": "⟨de⟩ después de ⟨los⟩"
-    },
-    {
-      "surface": "פלשתים",
-      "english": "filisteos"
-    },
-    {
-      "surface": "ופלשתים",
-      "english": "y ⟨los⟩ filisteos"
-    },
-    {
-      "surface": "הלכו",
-      "english": "se fueron"
-    },
-    {
-      "surface": "למקומם",
-      "english": "a su lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:57:54.393062036Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

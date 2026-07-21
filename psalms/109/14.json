@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 109:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70045,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70483
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:55:23.731791794Z",
   "translation": "Que ⟨se⟩ recuerde ⟨el⟩ iniquidad de sus padres ante YHWH y ⟨el⟩ pecado de su madre no sea borrado",
   "tokens": [
     {
       "surface": "יזכר",
-      "english": "Que ⟨se⟩ recuerde"
+      "gloss": "Que ⟨se⟩ recuerde"
     },
     {
       "surface": "עון",
-      "english": "⟨el⟩ iniquidad"
+      "gloss": "⟨el⟩ iniquidad"
     },
     {
       "surface": "אבתיו",
-      "english": "de sus padres"
+      "gloss": "de sus padres"
     },
     {
       "surface": "אל",
-      "english": "ante"
+      "gloss": "ante"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וחטאת",
-      "english": "y ⟨el⟩ pecado"
+      "gloss": "y ⟨el⟩ pecado"
     },
     {
       "surface": "אמו",
-      "english": "de su madre"
+      "gloss": "de su madre"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תמח",
-      "english": "sea borrado"
+      "gloss": "sea borrado"
     }
-  ],
-  "timestamp": "2026-06-09T23:55:23.731791794Z",
-  "model": "glm-4.5"
+  ]
 }

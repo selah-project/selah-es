@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "ezekiel 12:22",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 12,
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:20:34.521972057Z",
+  "translation": "Hijo de hombre, ¿qué ⟨es⟩ este proverbio para ustedes sobre la tierra de Yisrael, que dice: 'Se alargarán los días y perecerá toda visión'?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Hijo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hombre"
+    },
+    {
+      "surface": "מה",
+      "gloss": "¿qué"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "proverbio"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para ustedes"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tierra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "que dice"
+    },
+    {
+      "surface": "יארכו",
+      "gloss": "se alargarán"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "los días"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "y perecerá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toda"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "visión"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,84 +80,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17626,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 18051
-  },
-  "translation": "Hijo de hombre, ¿qué ⟨es⟩ este proverbio para ustedes sobre la tierra de Yisrael, que dice: 'Se alargarán los días y perecerá toda visión'?",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Hijo"
-    },
-    {
-      "surface": "אדם",
-      "english": "hombre"
-    },
-    {
-      "surface": "מה",
-      "english": "¿qué"
-    },
-    {
-      "surface": "המשל",
-      "english": "proverbio"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    },
-    {
-      "surface": "לכם",
-      "english": "para ustedes"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "אדמת",
-      "english": "tierra"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לאמר",
-      "english": "que dice"
-    },
-    {
-      "surface": "יארכו",
-      "english": "se alargarán"
-    },
-    {
-      "surface": "הימים",
-      "english": "los días"
-    },
-    {
-      "surface": "ואבד",
-      "english": "y perecerá"
-    },
-    {
-      "surface": "כל",
-      "english": "toda"
-    },
-    {
-      "surface": "חזון",
-      "english": "visión"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:20:34.521972057Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 144:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69901,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70220
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:10:13.993942639Z",
   "translation": "YHWH ⟨incline⟩ tus cielos y desciende; toca ⟨los⟩ montes y humearán",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הט",
-      "english": "⟨incline⟩"
+      "gloss": "⟨incline⟩"
     },
     {
       "surface": "שמיך",
-      "english": "tus cielos"
+      "gloss": "tus cielos"
     },
     {
       "surface": "ותרד",
-      "english": "y desciende"
+      "gloss": "y desciende"
     },
     {
       "surface": "גע",
-      "english": "toca"
+      "gloss": "toca"
     },
     {
       "surface": "בהרים",
-      "english": "⟨los⟩ montes"
+      "gloss": "⟨los⟩ montes"
     },
     {
       "surface": "ויעשנו",
-      "english": "y humearán"
+      "gloss": "y humearán"
     }
-  ],
-  "timestamp": "2026-06-10T00:10:13.993942639Z",
-  "model": "glm-4.5"
+  ]
 }

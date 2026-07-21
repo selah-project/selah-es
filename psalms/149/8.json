@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 149:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 149,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69821,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70161
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:39.068245087Z",
   "translation": "Para atar ⟨a⟩ sus reyes con cadenas y ⟨a⟩ sus nobles con grilletes de hierro",
   "tokens": [
     {
       "surface": "לאסר",
-      "english": "Para atar"
+      "gloss": "Para atar"
     },
     {
       "surface": "מלכיהם",
-      "english": "a sus reyes"
+      "gloss": "a sus reyes"
     },
     {
       "surface": "בזקים",
-      "english": "con cadenas"
+      "gloss": "con cadenas"
     },
     {
       "surface": "ונכבדיהם",
-      "english": "y a sus nobles"
+      "gloss": "y a sus nobles"
     },
     {
       "surface": "בכבלי",
-      "english": "con grilletes"
+      "gloss": "con grilletes"
     },
     {
       "surface": "ברזל",
-      "english": "de hierro"
+      "gloss": "de hierro"
     }
-  ],
-  "timestamp": "2026-06-10T00:12:39.068245087Z",
-  "model": "glm-4.5"
+  ]
 }

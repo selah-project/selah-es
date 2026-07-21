@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "numbers 33:6",
   "book": "numbers",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24982,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25260
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:06:59.830378289Z",
   "translation": "Y partieron de Sucot y acamparon en Etam ⟨que está⟩ en ⟨el⟩ extremo del desierto",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "Y partieron"
+      "gloss": "Y partieron"
     },
     {
       "surface": "מסכת",
-      "english": "de Sucot"
+      "gloss": "de Sucot"
     },
     {
       "surface": "ויחנו",
-      "english": "y acamparon"
+      "gloss": "y acamparon"
     },
     {
       "surface": "באתם",
-      "english": "en Etam"
+      "gloss": "en Etam"
     },
     {
       "surface": "אשר",
-      "english": "⟨que está⟩"
+      "gloss": "⟨que está⟩"
     },
     {
       "surface": "בקצה",
-      "english": "en ⟨el⟩ extremo"
+      "gloss": "en ⟨el⟩ extremo"
     },
     {
       "surface": "המדבר",
-      "english": "del desierto"
+      "gloss": "del desierto"
     }
-  ],
-  "timestamp": "2026-06-10T05:06:59.830378289Z",
-  "model": "glm-4.5"
+  ]
 }

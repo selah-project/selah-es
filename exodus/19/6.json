@@ -1,9 +1,86 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 19:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 19,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:48:24.682525909Z",
+  "translation": "Y ustedes ⟨serán⟩ para mí ⟨un⟩ reino de Kohens y ⟨una⟩ nación santa. Estas ⟨son⟩ las palabras que hablarás a ⟨los⟩ hijos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Y ustedes",
+      "marks": "ustedes"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "⟨serán⟩",
+      "marks": "serán"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para mí",
+      "marks": "mí"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "⟨un⟩ reino",
+      "marks": "reino"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "de Kohens",
+      "marks": "sacerdotes"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "y ⟨una⟩ nación",
+      "marks": "nación"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santa",
+      "marks": "nación santa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Estas",
+      "marks": "Estas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨son⟩ las palabras",
+      "marks": "las palabras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que",
+      "marks": "palabras que"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "hablarás",
+      "marks": "hablarás"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a",
+      "marks": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨los⟩ hijos",
+      "marks": "hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael",
+      "marks": "hijos de Israel"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sacerdote",
@@ -20,94 +97,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 657,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17145,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17802
-  },
-  "translation": "Y ustedes ⟨serán⟩ para mí ⟨un⟩ reino de Kohens y ⟨una⟩ nación santa. Estas ⟨son⟩ las palabras que hablarás a ⟨los⟩ hijos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "ואתם",
-      "english": "Y ustedes",
-      "marks": "ustedes"
-    },
-    {
-      "surface": "תהיו",
-      "english": "⟨serán⟩",
-      "marks": "serán"
-    },
-    {
-      "surface": "לי",
-      "english": "para mí",
-      "marks": "mí"
-    },
-    {
-      "surface": "ממלכת",
-      "english": "⟨un⟩ reino",
-      "marks": "reino"
-    },
-    {
-      "surface": "כהנים",
-      "english": "de Kohens",
-      "marks": "sacerdotes"
-    },
-    {
-      "surface": "וגוי",
-      "english": "y ⟨una⟩ nación",
-      "marks": "nación"
-    },
-    {
-      "surface": "קדוש",
-      "english": "santa",
-      "marks": "nación santa"
-    },
-    {
-      "surface": "אלה",
-      "english": "Estas",
-      "marks": "Estas"
-    },
-    {
-      "surface": "הדברים",
-      "english": "⟨son⟩ las palabras",
-      "marks": "las palabras"
-    },
-    {
-      "surface": "אשר",
-      "english": "que",
-      "marks": "palabras que"
-    },
-    {
-      "surface": "תדבר",
-      "english": "hablarás",
-      "marks": "hablarás"
-    },
-    {
-      "surface": "אל",
-      "english": "a",
-      "marks": "a"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨los⟩ hijos",
-      "marks": "hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael",
-      "marks": "hijos de Israel"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:48:24.682525909Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

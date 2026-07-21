@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "genesis 37:30",
   "book": "genesis",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28449,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28885
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:34:49.654575270Z",
   "translation": "y retornó ⟨a⟩ sus hermanos y dijo ⟨el⟩ niño no ⟨es⟩ y yo ¿adónde yo ⟨iré⟩?",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "Y retornó"
+      "gloss": "Y retornó"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "אחיו",
-      "english": "sus hermanos"
+      "gloss": "sus hermanos"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "הילד",
-      "english": "⟨el⟩ niño"
+      "gloss": "⟨el⟩ niño"
     },
     {
       "surface": "איננו",
-      "english": "no ⟨es⟩"
+      "gloss": "no ⟨es⟩"
     },
     {
       "surface": "ואני",
-      "english": "y yo"
+      "gloss": "y yo"
     },
     {
       "surface": "אנה",
-      "english": "¿adónde"
+      "gloss": "¿adónde"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "בא",
-      "english": "⟨iré⟩"
+      "gloss": "⟨iré⟩"
     }
-  ],
-  "timestamp": "2026-06-10T05:34:49.654575270Z",
-  "model": "glm-4.5"
+  ]
 }

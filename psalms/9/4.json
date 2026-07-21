@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 9:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 601,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69807,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70408
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:00:52.313631394Z",
   "translation": "Porque has hecho ⟨el⟩ juicio y ⟨la⟩ justicia mía; ⟨tú⟩ te sientas en ⟨el⟩ trono ⟨como⟩ juez ⟨de⟩ justicia.",
   "tokens": [
     {
       "surface": "בשוב",
-      "english": "Porque has hecho"
+      "gloss": "Porque has hecho"
     },
     {
       "surface": "אויבי",
-      "english": "⟨el⟩ juicio",
+      "gloss": "⟨el⟩ juicio",
       "marks": "derecho y causa"
     },
     {
       "surface": "אחור",
-      "english": "y ⟨la⟩ justicia mía"
+      "gloss": "y ⟨la⟩ justicia mía"
     },
     {
       "surface": "יכשלו",
-      "english": "⟨tú⟩ te sientas en ⟨el⟩ trono"
+      "gloss": "⟨tú⟩ te sientas en ⟨el⟩ trono"
     },
     {
       "surface": "ויאבדו",
-      "english": "⟨como⟩ juez ⟨de⟩ justicia"
+      "gloss": "⟨como⟩ juez ⟨de⟩ justicia"
     },
     {
       "surface": "מפניך",
-      "english": "⟨de⟩ tu presencia"
+      "gloss": "⟨de⟩ tu presencia"
     }
-  ],
-  "timestamp": "2026-06-09T23:00:52.313631394Z",
-  "model": "glm-4.5"
+  ]
 }

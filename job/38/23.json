@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "job 38:23",
   "book": "job",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26998,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27413
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:15:41.114758412Z",
   "translation": "que ⟨he⟩ reservado para ⟨el⟩ tiempo ⟨de⟩ angustia, para ⟨el⟩ día ⟨de⟩ combate y guerra",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "חשכתי",
-      "english": "⟨he⟩ reservado"
+      "gloss": "⟨he⟩ reservado"
     },
     {
       "surface": "לעת",
-      "english": "para ⟨el⟩ tiempo"
+      "gloss": "para ⟨el⟩ tiempo"
     },
     {
       "surface": "צר",
-      "english": "⟨de⟩ angustia"
+      "gloss": "⟨de⟩ angustia"
     },
     {
       "surface": "ליום",
-      "english": "para ⟨el⟩ día"
+      "gloss": "para ⟨el⟩ día"
     },
     {
       "surface": "קרב",
-      "english": "⟨de⟩ combate"
+      "gloss": "⟨de⟩ combate"
     },
     {
       "surface": "ומלחמה",
-      "english": "y guerra"
+      "gloss": "y guerra"
     }
-  ],
-  "timestamp": "2026-06-10T02:15:41.114758412Z",
-  "model": "glm-4.5"
+  ]
 }

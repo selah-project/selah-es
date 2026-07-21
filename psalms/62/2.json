@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 62:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69947,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70250
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:27:42.688343938Z",
   "translation": "ciertamente en Elohim ⟨está⟩ callada mi alma de ⟨את⟩ él ⟨viene⟩ mi salvación",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Ciertamente"
+      "gloss": "Ciertamente"
     },
     {
       "surface": "אל",
-      "english": "en"
+      "gloss": "en"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "דומיה",
-      "english": "callada"
+      "gloss": "callada"
     },
     {
       "surface": "נפשי",
-      "english": "mi alma"
+      "gloss": "mi alma"
     },
     {
       "surface": "ממנו",
-      "english": "de",
+      "gloss": "de",
       "marks": "él"
     },
     {
       "surface": "ישועתי",
-      "english": "mi salvación"
+      "gloss": "mi salvación"
     }
-  ],
-  "timestamp": "2026-06-09T23:27:42.688343938Z",
-  "model": "glm-4.5"
+  ]
 }

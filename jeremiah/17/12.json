@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "jeremiah 17:12",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24351,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24710
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:16:46.249309457Z",
   "translation": "⟨Un⟩ trono de gloria en ⟨lo⟩ alto desde ⟨el⟩ principio, ⟨el⟩ lugar de nuestro santuario.",
   "tokens": [
     {
       "surface": "כסא",
-      "english": "Trono"
+      "gloss": "Trono"
     },
     {
       "surface": "כבוד",
-      "english": "de gloria"
+      "gloss": "de gloria"
     },
     {
       "surface": "מרום",
-      "english": "en lo alto"
+      "gloss": "en lo alto"
     },
     {
       "surface": "מראשון",
-      "english": "desde el principio"
+      "gloss": "desde el principio"
     },
     {
       "surface": "מקום",
-      "english": "el lugar"
+      "gloss": "el lugar"
     },
     {
       "surface": "מקדשנו",
-      "english": "de nuestro santuario"
+      "gloss": "de nuestro santuario"
     }
-  ],
-  "timestamp": "2026-06-10T03:16:46.249309457Z",
-  "model": "glm-4.5"
+  ]
 }

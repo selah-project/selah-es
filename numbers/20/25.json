@@ -1,64 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "numbers 20:25",
   "book": "numbers",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 356,
-    "prompt_tokens": 25420,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25776
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:07:31.326096598Z",
   "translation": "Toma ⟨את⟩ Aharón y ⟨את⟩ Elazar su hijo y hazlos subir ⟨את⟩ al monte Hor",
   "tokens": [
     {
       "surface": "קח",
-      "english": "Toma"
+      "gloss": "Toma"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aharón"
     },
     {
       "surface": "אהרן",
-      "english": "Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Elazar"
     },
     {
       "surface": "אלעזר",
-      "english": "Elazar"
+      "gloss": "Elazar"
     },
     {
       "surface": "בנו",
-      "english": "su hijo"
+      "gloss": "su hijo"
     },
     {
       "surface": "והעל",
-      "english": "y hazlos subir"
+      "gloss": "y hazlos subir"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "al monte"
     },
     {
       "surface": "הר",
-      "english": "monte"
+      "gloss": "monte"
     },
     {
       "surface": "ההר",
-      "english": "Hor"
+      "gloss": "Hor"
     }
-  ],
-  "timestamp": "2026-07-16T23:07:31.326096598Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "nehemiah 7:22",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 243,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56306,
-    "prompt_tokens_details": {
-      "cached_tokens": 55510
-    },
-    "total_tokens": 56549
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:38:35.015633880Z",
   "translation": "los hijos de Jashum, trescientos veinte y ⟨ocho⟩",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Los hijos"
+      "gloss": "Los hijos"
     },
     {
       "surface": "חשם",
-      "english": "Jashum"
+      "gloss": "Jashum"
     },
     {
       "surface": "שלש",
-      "english": "trescientos"
+      "gloss": "trescientos"
     },
     {
       "surface": "מאות",
-      "english": "veinte"
+      "gloss": "veinte"
     },
     {
       "surface": "עשרים",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ושמנה",
-      "english": "⟨ocho⟩"
+      "gloss": "⟨ocho⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:38:35.015633880Z",
-  "model": "glm-4.5"
+  ]
 }

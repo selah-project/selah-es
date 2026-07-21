@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 44,
   "ref": "1-samuel 14:44",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 14,
+  "verse": 44,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:57:43.759955316Z",
+  "translation": "Y Shaúl dijo: 'Así haga Elohim ⟨y⟩ así ⟨continúe⟩, porque ⟨de⟩ muerte ⟨morirás⟩, Yonatán.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "כה",
+      "gloss": "así"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "haga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "⟨y⟩ así"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "⟨continúe⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "מות",
+      "gloss": "⟨de⟩ muerte"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "⟨morirás⟩"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatán"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Saúl",
@@ -13,68 +64,6 @@
       "hebrew": "שאול"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 14,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16400,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16887
-  },
-  "translation": "Y Shaúl dijo: 'Así haga Elohim ⟨y⟩ así ⟨continúe⟩, porque ⟨de⟩ muerte ⟨morirás⟩, Yonatán.'",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaúl"
-    },
-    {
-      "surface": "כה",
-      "english": "así"
-    },
-    {
-      "surface": "יעשה",
-      "english": "haga"
-    },
-    {
-      "surface": "אלהים",
-      "english": "Elohim"
-    },
-    {
-      "surface": "וכה",
-      "english": "⟨y⟩ así"
-    },
-    {
-      "surface": "יוסף",
-      "english": "⟨continúe⟩"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "מות",
-      "english": "⟨de⟩ muerte"
-    },
-    {
-      "surface": "תמות",
-      "english": "⟨morirás⟩"
-    },
-    {
-      "surface": "יונתן",
-      "english": "Yonatán"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:57:43.759955316Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

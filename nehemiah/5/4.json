@@ -1,69 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "nehemiah 5:4",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 645,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56713,
-    "prompt_tokens_details": {
-      "cached_tokens": 55510
-    },
-    "total_tokens": 57358
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:36:59.033441451Z",
   "translation": "Y hay ⟨quienes⟩ ⟨están⟩ diciendo: 'Hemos tomado dinero prestado ⟨para⟩ ⟨el⟩ tributo ⟨del⟩ rey ⟨sobre⟩ nuestros campos y nuestras viñas'",
   "tokens": [
     {
       "surface": "ויש",
-      "english": "Y hay",
+      "gloss": "Y hay",
       "marks": "introducción de existencia"
     },
     {
       "surface": "אשר",
-      "english": "quienes",
+      "gloss": "quienes",
       "marks": "introduce la declaración"
     },
     {
       "surface": "אמרים",
-      "english": "⟨están⟩ diciendo",
+      "gloss": "⟨están⟩ diciendo",
       "marks": "verbo en presente progresivo implícito"
     },
     {
       "surface": "לוינו",
-      "english": "Hemos tomado dinero prestado",
+      "gloss": "Hemos tomado dinero prestado",
       "marks": "préstamo"
     },
     {
       "surface": "כסף",
-      "english": "dinero",
+      "gloss": "dinero",
       "marks": "plata como moneda"
     },
     {
       "surface": "למדת",
-      "english": "⟨para⟩ ⟨el⟩ tributo",
+      "gloss": "⟨para⟩ ⟨el⟩ tributo",
       "marks": "preposición y artículo añadidos"
     },
     {
       "surface": "המלך",
-      "english": "⟨del⟩ rey",
+      "gloss": "⟨del⟩ rey",
       "marks": "preposición añadida"
     },
     {
       "surface": "שדתינו",
-      "english": "nuestros campos",
+      "gloss": "nuestros campos",
       "marks": "posesión"
     },
     {
       "surface": "וכרמינו",
-      "english": "y nuestras viñas",
+      "gloss": "y nuestras viñas",
       "marks": "posesión"
     }
-  ],
-  "timestamp": "2026-06-10T00:36:59.033441451Z",
-  "model": "glm-4.5"
+  ]
 }

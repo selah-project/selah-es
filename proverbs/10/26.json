@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "proverbs 10:26",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59888,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60443
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:35:39.509307802Z",
   "translation": "Como ⟨el⟩ vinagre ⟨para⟩ ⟨los⟩ dientes ⟨y⟩ como ⟨el⟩ humo ⟨para⟩ ⟨los⟩ ojos, así ⟨el⟩ perezoso ⟨para⟩ ⟨los⟩ que ⟨lo⟩ envían.",
   "tokens": [
     {
       "surface": "כחמץ",
-      "english": "Como ⟨el⟩ vinagre"
+      "gloss": "Como ⟨el⟩ vinagre"
     },
     {
       "surface": "לשנים",
-      "english": "⟨para⟩ ⟨los⟩ dientes"
+      "gloss": "⟨para⟩ ⟨los⟩ dientes"
     },
     {
       "surface": "וכעשן",
-      "english": "⟨y⟩ como ⟨el⟩ humo"
+      "gloss": "⟨y⟩ como ⟨el⟩ humo"
     },
     {
       "surface": "לעינים",
-      "english": "⟨para⟩ ⟨los⟩ ojos"
+      "gloss": "⟨para⟩ ⟨los⟩ ojos"
     },
     {
       "surface": "כן",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "העצל",
-      "english": "⟨el⟩ perezoso"
+      "gloss": "⟨el⟩ perezoso"
     },
     {
       "surface": "לשלחיו",
-      "english": "⟨para⟩ ⟨los⟩ que ⟨lo⟩ envían"
+      "gloss": "⟨para⟩ ⟨los⟩ que ⟨lo⟩ envían"
     }
-  ],
-  "timestamp": "2026-06-10T01:35:39.509307802Z",
-  "model": "glm-4.5"
+  ]
 }

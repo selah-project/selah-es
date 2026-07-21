@@ -1,9 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "ezekiel 19:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ezekiel",
+  "chapter": 19,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T12:27:25.742544142Z",
+  "translation": "Y las naciones oyeron de ⟨él⟩; en su fosa ⟨fue⟩ capturado, y ⟨lo⟩ trajeron con ganchos ⟨a⟩ ⟨la⟩ tierra de Mitzráyim.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Y oyeron"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "de ⟨él⟩"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "las naciones"
+    },
+    {
+      "surface": "בשחתם",
+      "gloss": "en su fosa"
+    },
+    {
+      "surface": "נתפש",
+      "gloss": "⟨fue⟩ capturado"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "y ⟨lo⟩ trajeron"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "con ganchos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ tierra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Egipto",
@@ -13,64 +60,6 @@
       "hebrew": "מצרים"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17234,
-    "prompt_tokens_details": {
-      "cached_tokens": 15967
-    },
-    "total_tokens": 17709
-  },
-  "translation": "Y las naciones oyeron de ⟨él⟩; en su fosa ⟨fue⟩ capturado, y ⟨lo⟩ trajeron con ganchos ⟨a⟩ ⟨la⟩ tierra de Mitzráyim.",
-  "tokens": [
-    {
-      "surface": "וישמעו",
-      "english": "Y oyeron"
-    },
-    {
-      "surface": "אליו",
-      "english": "de ⟨él⟩"
-    },
-    {
-      "surface": "גוים",
-      "english": "las naciones"
-    },
-    {
-      "surface": "בשחתם",
-      "english": "en su fosa"
-    },
-    {
-      "surface": "נתפש",
-      "english": "⟨fue⟩ capturado"
-    },
-    {
-      "surface": "ויבאהו",
-      "english": "y ⟨lo⟩ trajeron"
-    },
-    {
-      "surface": "בחחים",
-      "english": "con ganchos"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "ארץ",
-      "english": "⟨la⟩ tierra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T12:27:25.742544142Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

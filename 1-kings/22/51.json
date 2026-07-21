@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 51,
   "ref": "1-kings 22:51",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 22,
+  "verse": 51,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:19:03.200305535Z",
+  "translation": "Y Yehoshafat ⟨se⟩ durmió con ⟨los⟩ padres de él y ⟨fue⟩ enterrado con ⟨los⟩ padres de él en ⟨la⟩ ciudad de Davidd su padre, y reinó Joram su hijo en ⟨el⟩ lugar de él.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Y Josafat ⟨se⟩ durmió"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con ⟨los⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "padres de él"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "y ⟨fue⟩ enterrado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con ⟨los⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "padres de él"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "en ⟨la⟩ ciudad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "su padre"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "y reinó"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su hijo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "en ⟨el⟩ lugar de él"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josafat",
@@ -20,80 +83,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62701,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63263
-  },
-  "translation": "Y Yehoshafat ⟨se⟩ durmió con ⟨los⟩ padres de él y ⟨fue⟩ enterrado con ⟨los⟩ padres de él en ⟨la⟩ ciudad de Davidd su padre, y reinó Joram su hijo en ⟨el⟩ lugar de él.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "Y Josafat ⟨se⟩ durmió"
-    },
-    {
-      "surface": "יהושפט",
-      "english": "Yehoshafat"
-    },
-    {
-      "surface": "עם",
-      "english": "con ⟨los⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "padres de él"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "y ⟨fue⟩ enterrado"
-    },
-    {
-      "surface": "עם",
-      "english": "con ⟨los⟩"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "padres de él"
-    },
-    {
-      "surface": "בעיר",
-      "english": "en ⟨la⟩ ciudad"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "אביו",
-      "english": "su padre"
-    },
-    {
-      "surface": "וימלך",
-      "english": "y reinó"
-    },
-    {
-      "surface": "יהורם",
-      "english": "Joram"
-    },
-    {
-      "surface": "בנו",
-      "english": "su hijo"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "en ⟨el⟩ lugar de él"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:19:03.200305535Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

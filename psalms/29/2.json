@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 29:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 465,
-    "prompt_tokens": 70059,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70524
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:54.316635724Z",
   "translation": "Dad a YHWH la gloria debida a su nombre; postraos ⟨ante⟩ YHWH en ⟨el⟩ esplendor de la santidad.",
   "tokens": [
     {
       "surface": "הבו",
-      "english": "Dad"
+      "gloss": "Dad"
     },
     {
       "surface": "ליהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "כבוד",
-      "english": "la gloria"
+      "gloss": "la gloria"
     },
     {
       "surface": "שמו",
-      "english": "debida a su nombre"
+      "gloss": "debida a su nombre"
     },
     {
       "surface": "השתחוו",
-      "english": "postraos"
+      "gloss": "postraos"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨ante⟩ YHWH"
+      "gloss": "⟨ante⟩ YHWH"
     },
     {
       "surface": "בהדרת",
-      "english": "en ⟨el⟩ esplendor de"
+      "gloss": "en ⟨el⟩ esplendor de"
     },
     {
       "surface": "קדש",
-      "english": "la santidad"
+      "gloss": "la santidad"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:54.316635724Z",
-  "model": "glm-4.5"
+  ]
 }

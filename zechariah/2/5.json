@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "zechariah 2:5",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 327,
-    "prompt_tokens": 23252,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 23579
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:49:12.413586705Z",
   "translation": "Y alzaré ⟨mis⟩ ojos y veré, y he aquí, un hombre y en ⟨su⟩ mano un cordel de medir.",
   "tokens": [
     {
       "surface": "ואשא",
-      "english": "Y alzaré"
+      "gloss": "Y alzaré"
     },
     {
       "surface": "עיני",
-      "english": "⟨mis⟩ ojos"
+      "gloss": "⟨mis⟩ ojos"
     },
     {
       "surface": "וארא",
-      "english": "y veré"
+      "gloss": "y veré"
     },
     {
       "surface": "והנה",
-      "english": "y he aquí"
+      "gloss": "y he aquí"
     },
     {
       "surface": "איש",
-      "english": "un hombre"
+      "gloss": "un hombre"
     },
     {
       "surface": "ובידו",
-      "english": "y en ⟨su⟩ mano"
+      "gloss": "y en ⟨su⟩ mano"
     },
     {
       "surface": "חבל",
-      "english": "un cordel"
+      "gloss": "un cordel"
     },
     {
       "surface": "מדה",
-      "english": "de medir"
+      "gloss": "de medir"
     }
-  ],
-  "timestamp": "2026-07-16T23:49:12.413586705Z",
-  "model": "glm-4.5"
+  ]
 }

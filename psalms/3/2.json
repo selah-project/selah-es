@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 3:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 482,
-    "prompt_tokens": 69970,
-    "prompt_tokens_details": {
-      "cached_tokens": 65536
-    },
-    "total_tokens": 70452
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:28.476993669Z",
   "translation": "YHWH, ¿cuántos ⟨son⟩ mis adversarios? Muchos ⟨se⟩ levantan contra mí",
   "tokens": [
     {
       "surface": "יְהוָה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מָה",
-      "english": "¿cuántos"
+      "gloss": "¿cuántos"
     },
     {
       "surface": "רַבּוּ",
-      "english": "⟨son⟩ ... adversarios?"
+      "gloss": "⟨son⟩ ... adversarios?"
     },
     {
       "surface": "צָרָי",
-      "english": "adversarios?"
+      "gloss": "adversarios?"
     },
     {
       "surface": "רַבִּים",
-      "english": "Muchos"
+      "gloss": "Muchos"
     },
     {
       "surface": "קָמִים",
-      "english": "⟨se⟩ levantan"
+      "gloss": "⟨se⟩ levantan"
     },
     {
       "surface": "עָלָי",
-      "english": "contra mí"
+      "gloss": "contra mí"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:28.476993669Z",
-  "model": "glm-4.5"
+  ]
 }

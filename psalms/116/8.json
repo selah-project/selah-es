@@ -1,70 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 116:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 551,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70344,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70895
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:58:23.299902903Z",
   "translation": "Porque tú has librado ⟨a⟩ mi nefesh de ⟨la⟩ muerte, ⟨a⟩ mis ojos de ⟨las⟩ lágrimas, y ⟨a⟩ mis pies de ⟨el⟩ tropiezo.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "חלצת",
-      "english": "has librado"
+      "gloss": "has librado"
     },
     {
       "surface": "נפשי",
-      "english": "⟨a⟩ mi nefesh"
+      "gloss": "⟨a⟩ mi nefesh"
     },
     {
       "surface": "ממות",
-      "english": "de ⟨la⟩ muerte"
+      "gloss": "de ⟨la⟩ muerte"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "mis ojos"
     },
     {
       "surface": "עיני",
-      "english": "⟨a⟩ mis ojos"
+      "gloss": "⟨a⟩ mis ojos"
     },
     {
       "surface": "מן",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "דמעה",
-      "english": "⟨las⟩ lágrimas"
+      "gloss": "⟨las⟩ lágrimas"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "mis pies"
     },
     {
       "surface": "רגלי",
-      "english": "⟨a⟩ mis pies"
+      "gloss": "⟨a⟩ mis pies"
     },
     {
       "surface": "מדחי",
-      "english": "de ⟨el⟩ tropiezo"
+      "gloss": "de ⟨el⟩ tropiezo"
     }
-  ],
-  "timestamp": "2026-06-09T23:58:23.299902903Z",
-  "model": "glm-4.5"
+  ]
 }

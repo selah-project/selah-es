@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "numbers 19:8",
   "book": "numbers",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 401,
-    "prompt_tokens": 25604,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26005
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:06:42.300285576Z",
   "translation": "Y el que ⟨la⟩ quema ⟨את⟩ lavará sus vestidos en agua, y lavará su carne en agua, y será impuro hasta el atardecer.",
   "tokens": [
     {
       "surface": "והשרף",
-      "english": "Y el que ⟨la⟩ quema"
+      "gloss": "Y el que ⟨la⟩ quema"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lavará sus vestidos en agua, y lavará su carne en agua, y será impuro hasta el atardecer"
     },
     {
       "surface": "יכבס",
-      "english": "lavará"
+      "gloss": "lavará"
     },
     {
       "surface": "בגדיו",
-      "english": "sus vestidos"
+      "gloss": "sus vestidos"
     },
     {
       "surface": "במים",
-      "english": "en agua"
+      "gloss": "en agua"
     },
     {
       "surface": "ורחץ",
-      "english": "y lavará"
+      "gloss": "y lavará"
     },
     {
       "surface": "בשרו",
-      "english": "su carne"
+      "gloss": "su carne"
     },
     {
       "surface": "במים",
-      "english": "en agua"
+      "gloss": "en agua"
     },
     {
       "surface": "וטמא",
-      "english": "y será impuro"
+      "gloss": "y será impuro"
     },
     {
       "surface": "עד",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "הערב",
-      "english": "el atardecer"
+      "gloss": "el atardecer"
     }
-  ],
-  "timestamp": "2026-07-16T23:06:42.300285576Z",
-  "model": "glm-4.5"
+  ]
 }

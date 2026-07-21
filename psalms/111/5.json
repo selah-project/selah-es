@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 111:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 542,
-    "prompt_tokens": 69913,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70455
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:20.291197386Z",
   "translation": "Presa ha dado ⟨a⟩ ⟨los⟩ que le temen; ⟨se⟩ recordará ⟨a⟩ perpetuidad ⟨de⟩ su brit",
   "tokens": [
     {
       "surface": "טרף",
-      "english": "Presa"
+      "gloss": "Presa"
     },
     {
       "surface": "נתן",
-      "english": "ha dado"
+      "gloss": "ha dado"
     },
     {
       "surface": "ליראיו",
-      "english": "⟨a⟩ ⟨los⟩ que le temen"
+      "gloss": "⟨a⟩ ⟨los⟩ que le temen"
     },
     {
       "surface": "יזכר",
-      "english": "⟨se⟩ recordará"
+      "gloss": "⟨se⟩ recordará"
     },
     {
       "surface": "לעולם",
-      "english": "⟨a⟩ perpetuidad"
+      "gloss": "⟨a⟩ perpetuidad"
     },
     {
       "surface": "בריתו",
-      "english": "⟨de⟩ su brit"
+      "gloss": "⟨de⟩ su brit"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:20.291197386Z",
-  "model": "glm-4.5"
+  ]
 }

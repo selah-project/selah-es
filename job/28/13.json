@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "job 28:13",
   "book": "job",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27091,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27517
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:08:23.791500619Z",
   "translation": "El ⟨hombre⟩ no ⟨conoce⟩ ⟨el⟩ ⟨valor⟩ de ⟨ella⟩, ni ⟨se encuentra⟩ ⟨en⟩ ⟨la⟩ ⟨tierra⟩ ⟨de⟩ ⟨los⟩ ⟨vivos⟩.",
   "tokens": [
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "ידע",
-      "english": "⟨conoce⟩"
+      "gloss": "⟨conoce⟩"
     },
     {
       "surface": "אנוש",
-      "english": "⟨hombre⟩"
+      "gloss": "⟨hombre⟩"
     },
     {
       "surface": "ערכה",
-      "english": "⟨el⟩ ⟨valor⟩"
+      "gloss": "⟨el⟩ ⟨valor⟩"
     },
     {
       "surface": "ולא",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "תמצא",
-      "english": "⟨se encuentra⟩"
+      "gloss": "⟨se encuentra⟩"
     },
     {
       "surface": "בארץ",
-      "english": "⟨en⟩ ⟨la⟩ ⟨tierra⟩"
+      "gloss": "⟨en⟩ ⟨la⟩ ⟨tierra⟩"
     },
     {
       "surface": "החיים",
-      "english": "⟨de⟩ ⟨los⟩ ⟨vivos⟩"
+      "gloss": "⟨de⟩ ⟨los⟩ ⟨vivos⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:08:23.791500619Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 41:2",
   "book": "genesis",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28724,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29266
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:37:33.234875785Z",
   "translation": "Y he aquí, del río subían ⟨את⟩ siete vacas, hermosas en apariencia y gruesas de carne, y ⟨estaban⟩ pastando ⟨en⟩ ⟨el⟩ carrizal.",
   "tokens": [
     {
       "surface": "והנה",
-      "english": "Y he aquí"
+      "gloss": "Y he aquí"
     },
     {
       "surface": "מן",
-      "english": "del"
+      "gloss": "del"
     },
     {
       "surface": "היאר",
-      "english": "río"
+      "gloss": "río"
     },
     {
       "surface": "עלת",
-      "english": "subían"
+      "gloss": "subían"
     },
     {
       "surface": "שבע",
-      "english": "siete"
+      "gloss": "siete"
     },
     {
       "surface": "פרות",
-      "english": "vacas"
+      "gloss": "vacas"
     },
     {
       "surface": "יפות",
-      "english": "hermosas"
+      "gloss": "hermosas"
     },
     {
       "surface": "מראה",
-      "english": "en apariencia"
+      "gloss": "en apariencia"
     },
     {
       "surface": "ובריאת",
-      "english": "y gruesas"
+      "gloss": "y gruesas"
     },
     {
       "surface": "בשר",
-      "english": "de carne"
+      "gloss": "de carne"
     },
     {
       "surface": "ותרעינה",
-      "english": "y ⟨estaban⟩ pastando",
+      "gloss": "y ⟨estaban⟩ pastando",
       "marks": "vacas"
     },
     {
       "surface": "באחו",
-      "english": "⟨en⟩ ⟨el⟩ carrizal"
+      "gloss": "⟨en⟩ ⟨el⟩ carrizal"
     }
-  ],
-  "timestamp": "2026-06-10T05:37:33.234875785Z",
-  "model": "glm-4.5"
+  ]
 }

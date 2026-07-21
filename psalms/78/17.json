@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 78:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 78,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:17:54.026553272Z",
+  "translation": "Y continuaron ⟨a⟩ pecar ⟨además⟩ contra ⟨él⟩, para provocar ⟨al⟩ Elyon en ⟨el⟩ desierto ⟨con⟩ ⟨su⟩ ansiedad.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "Y continuaron"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨además⟩"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "⟨a⟩ pecar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "contra ⟨él⟩"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "para provocar"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨al⟩ Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "en ⟨el⟩ desierto ⟨con⟩ ⟨su⟩ ansiedad"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Altísimo",
@@ -13,52 +48,6 @@
       "hebrew": "עליון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 78,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62452,
-    "prompt_tokens_details": {
-      "cached_tokens": 61594
-    },
-    "total_tokens": 62951
-  },
-  "translation": "Y continuaron ⟨a⟩ pecar ⟨además⟩ contra ⟨él⟩, para provocar ⟨al⟩ Elyon en ⟨el⟩ desierto ⟨con⟩ ⟨su⟩ ansiedad.",
-  "tokens": [
-    {
-      "surface": "ויוסיפו",
-      "english": "Y continuaron"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨además⟩"
-    },
-    {
-      "surface": "לחטא",
-      "english": "⟨a⟩ pecar"
-    },
-    {
-      "surface": "לו",
-      "english": "contra ⟨él⟩"
-    },
-    {
-      "surface": "למרות",
-      "english": "para provocar"
-    },
-    {
-      "surface": "עליון",
-      "english": "⟨al⟩ Elyon"
-    },
-    {
-      "surface": "בציה",
-      "english": "en ⟨el⟩ desierto ⟨con⟩ ⟨su⟩ ansiedad"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:17:54.026553272Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

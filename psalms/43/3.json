@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 43:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 607,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70326,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70933
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:19:10.669067616Z",
   "translation": "Envía ⟨tu⟩ luz y ⟨tu⟩ verdad; ⟨ellas⟩ me guiarán; ⟨ellas⟩ me traerán ⟨a⟩ ⟨el⟩ monte de ⟨tu⟩ santidad y ⟨a⟩ ⟨tus⟩ moradas.",
   "tokens": [
     {
       "surface": "שלח",
-      "english": "Envía"
+      "gloss": "Envía"
     },
     {
       "surface": "אורך",
-      "english": "⟨tu⟩ luz",
+      "gloss": "⟨tu⟩ luz",
       "marks": "luz"
     },
     {
       "surface": "ואמתך",
-      "english": "y ⟨tu⟩ verdad",
+      "gloss": "y ⟨tu⟩ verdad",
       "marks": "verdad"
     },
     {
       "surface": "המה",
-      "english": "⟨ellas⟩",
+      "gloss": "⟨ellas⟩",
       "marks": "luz y verdad"
     },
     {
       "surface": "ינחוני",
-      "english": "me guiarán"
+      "gloss": "me guiarán"
     },
     {
       "surface": "יביאוני",
-      "english": "⟨ellas⟩ me traerán",
+      "gloss": "⟨ellas⟩ me traerán",
       "marks": "luz y verdad"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "הר",
-      "english": "⟨el⟩ monte"
+      "gloss": "⟨el⟩ monte"
     },
     {
       "surface": "קדשך",
-      "english": "de ⟨tu⟩ santidad",
+      "gloss": "de ⟨tu⟩ santidad",
       "marks": "santidad"
     },
     {
       "surface": "ואל",
-      "english": "y ⟨a⟩"
+      "gloss": "y ⟨a⟩"
     },
     {
       "surface": "משכנותיך",
-      "english": "⟨tus⟩ moradas",
+      "gloss": "⟨tus⟩ moradas",
       "marks": "moradas"
     }
-  ],
-  "timestamp": "2026-06-09T23:19:10.669067616Z",
-  "model": "glm-4.5"
+  ]
 }

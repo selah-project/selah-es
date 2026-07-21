@@ -1,9 +1,76 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "numbers 2:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "numbers",
+  "chapter": 2,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T08:09:24.711352588Z",
+  "translation": "Todo ⟨los que fueron⟩ numerados ⟨en⟩ el campamento de Reuvén ⟨fueron⟩ cien mil, y cincuenta y un mil, y cuatrocientos y cincuenta ⟨por⟩ sus ejércitos; y viajarán en segundo ⟨lugar⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Todo"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "⟨los que fueron⟩ numerados"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "⟨en⟩ el campamento"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "de Reuvén"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "cien mil"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "y cincuenta y un"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "cincuenta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mil"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "y cuatro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cientos"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "y cincuenta"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "⟨por⟩ sus ejércitos"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "y viajarán en segundo"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "⟨lugar⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Rubén",
@@ -13,84 +80,6 @@
       "hebrew": "ראובן"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 610,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18412,
-    "prompt_tokens_details": {
-      "cached_tokens": 16654
-    },
-    "total_tokens": 19022
-  },
-  "translation": "Todo ⟨los que fueron⟩ numerados ⟨en⟩ el campamento de Reuvén ⟨fueron⟩ cien mil, y cincuenta y un mil, y cuatrocientos y cincuenta ⟨por⟩ sus ejércitos; y viajarán en segundo ⟨lugar⟩.",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Todo"
-    },
-    {
-      "surface": "הפקדים",
-      "english": "⟨los que fueron⟩ numerados"
-    },
-    {
-      "surface": "למחנה",
-      "english": "⟨en⟩ el campamento"
-    },
-    {
-      "surface": "ראובן",
-      "english": "de Reuvén"
-    },
-    {
-      "surface": "מאת",
-      "english": "cien mil"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "ואחד",
-      "english": "y cincuenta y un"
-    },
-    {
-      "surface": "וחמשים",
-      "english": "cincuenta"
-    },
-    {
-      "surface": "אלף",
-      "english": "mil"
-    },
-    {
-      "surface": "וארבע",
-      "english": "y cuatro"
-    },
-    {
-      "surface": "מאות",
-      "english": "cientos"
-    },
-    {
-      "surface": "וחמשים",
-      "english": "y cincuenta"
-    },
-    {
-      "surface": "לצבאתם",
-      "english": "⟨por⟩ sus ejércitos"
-    },
-    {
-      "surface": "ושנים",
-      "english": "y viajarán en segundo"
-    },
-    {
-      "surface": "יסעו",
-      "english": "⟨lugar⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T08:09:24.711352588Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "deuteronomy 34:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 34,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T09:31:50.530133998Z",
+  "translation": "y por toda ⟨la⟩ mano fuerte y por todo ⟨el⟩ temor grande que hizo Moshé ⟨a⟩ ⟨los⟩ ojos de todo Yisrael",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "Y por toda"
+    },
+    {
+      "surface": "היד",
+      "gloss": "⟨la⟩ mano"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "fuerte"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "y por todo"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "⟨el⟩ temor"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "⟨a⟩ ⟨los⟩ ojos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 34,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17567,
-    "prompt_tokens_details": {
-      "cached_tokens": 16230
-    },
-    "total_tokens": 17992
-  },
-  "translation": "y por toda ⟨la⟩ mano fuerte y por todo ⟨el⟩ temor grande que hizo Moshé ⟨a⟩ ⟨los⟩ ojos de todo Yisrael",
-  "tokens": [
-    {
-      "surface": "ולכל",
-      "english": "Y por toda"
-    },
-    {
-      "surface": "היד",
-      "english": "⟨la⟩ mano"
-    },
-    {
-      "surface": "החזקה",
-      "english": "fuerte"
-    },
-    {
-      "surface": "ולכל",
-      "english": "y por todo"
-    },
-    {
-      "surface": "המורא",
-      "english": "⟨el⟩ temor"
-    },
-    {
-      "surface": "הגדול",
-      "english": "grande"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "לעיני",
-      "english": "⟨a⟩ ⟨los⟩ ojos"
-    },
-    {
-      "surface": "כל",
-      "english": "todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T09:31:50.530133998Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

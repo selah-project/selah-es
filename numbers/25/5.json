@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "numbers 25:5",
   "book": "numbers",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25385,
-    "prompt_tokens_details": {
-      "cached_tokens": 23998
-    },
-    "total_tokens": 25924
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:59:58.317186206Z",
   "translation": "Y Moshé dijo ⟨a⟩ los jueces de Yisrael: Matad ⟨a⟩ ⟨cada⟩ hombre ⟨de⟩ sus hombres que ⟨se habían⟩ unido ⟨a⟩ Baal-Peor",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "משה",
-      "english": "Moshé"
+      "gloss": "Moshé"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "שפטי",
-      "english": "los jueces"
+      "gloss": "los jueces"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "הרגו",
-      "english": "Matad"
+      "gloss": "Matad"
     },
     {
       "surface": "איש",
-      "english": "⟨cada⟩ hombre"
+      "gloss": "⟨cada⟩ hombre"
     },
     {
       "surface": "אנשיו",
-      "english": "⟨de⟩ sus hombres"
+      "gloss": "⟨de⟩ sus hombres"
     },
     {
       "surface": "הנצמדים",
-      "english": "que ⟨se habían⟩ unido"
+      "gloss": "que ⟨se habían⟩ unido"
     },
     {
       "surface": "לבעל",
-      "english": "⟨a⟩ Baal"
+      "gloss": "⟨a⟩ Baal"
     },
     {
       "surface": "פעור",
-      "english": "Peor"
+      "gloss": "Peor"
     }
-  ],
-  "timestamp": "2026-06-10T04:59:58.317186206Z",
-  "model": "glm-4.5"
+  ]
 }

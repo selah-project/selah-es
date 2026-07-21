@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "psalms 107:35",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69895,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70289
-  },
+  "verse": 35,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:54:49.331981550Z",
   "translation": "⟨He⟩ convierte ⟨el⟩ desierto en ⟨un⟩ estanque ⟨de⟩ aguas, y ⟨la⟩ tierra árida en manantiales ⟨de⟩ aguas.",
   "tokens": [
     {
       "surface": "ישם",
-      "english": "⟨He⟩ convierte"
+      "gloss": "⟨He⟩ convierte"
     },
     {
       "surface": "מדבר",
-      "english": "⟨el⟩ desierto"
+      "gloss": "⟨el⟩ desierto"
     },
     {
       "surface": "לאגם",
-      "english": "en ⟨un⟩ estanque"
+      "gloss": "en ⟨un⟩ estanque"
     },
     {
       "surface": "מים",
-      "english": "⟨de⟩ aguas"
+      "gloss": "⟨de⟩ aguas"
     },
     {
       "surface": "וארץ",
-      "english": "y ⟨la⟩ tierra"
+      "gloss": "y ⟨la⟩ tierra"
     },
     {
       "surface": "ציה",
-      "english": "árida"
+      "gloss": "árida"
     },
     {
       "surface": "למצאי",
-      "english": "en manantiales"
+      "gloss": "en manantiales"
     },
     {
       "surface": "מים",
-      "english": "⟨de⟩ aguas"
+      "gloss": "⟨de⟩ aguas"
     }
-  ],
-  "timestamp": "2026-06-09T23:54:49.331981550Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 94:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 586,
-    "prompt_tokens": 70346,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70932
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:59.459969489Z",
   "translation": "Y Él ⟨les⟩ hará volver ⟨sobre⟩ ellos ⟨את⟩ su iniquidad, y en su maldad los eliminará; los eliminará, YHWH nuestro Elohim.",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "Y Él ⟨les⟩ hará volver"
+      "gloss": "Y Él ⟨les⟩ hará volver"
     },
     {
       "surface": "עליהם",
-      "english": "⟨sobre⟩ ellos"
+      "gloss": "⟨sobre⟩ ellos"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su iniquidad"
     },
     {
       "surface": "אונם",
-      "english": "su iniquidad"
+      "gloss": "su iniquidad"
     },
     {
       "surface": "וברעתם",
-      "english": "y en su maldad"
+      "gloss": "y en su maldad"
     },
     {
       "surface": "יצמיתם",
-      "english": "los eliminará"
+      "gloss": "los eliminará"
     },
     {
       "surface": "יצמיתם",
-      "english": "los eliminará"
+      "gloss": "los eliminará"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהינו",
-      "english": "nuestro Elohim"
+      "gloss": "nuestro Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:59.459969489Z",
-  "model": "glm-4.5"
+  ]
 }

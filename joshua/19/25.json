@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "joshua 19:25",
   "book": "joshua",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 290,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23168,
-    "prompt_tokens_details": {
-      "cached_tokens": 22290
-    },
-    "total_tokens": 23458
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:21:45.115558252Z",
   "translation": "Y ⟨fue⟩ su frontera: Jalcat, y Jali, y Betén, y Acshaf",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y ⟨fue⟩"
+      "gloss": "Y ⟨fue⟩"
     },
     {
       "surface": "גבולם",
-      "english": "su frontera"
+      "gloss": "su frontera"
     },
     {
       "surface": "חלקת",
-      "english": "Jalcat"
+      "gloss": "Jalcat"
     },
     {
       "surface": "וחלי",
-      "english": "y Jali"
+      "gloss": "y Jali"
     },
     {
       "surface": "ובטן",
-      "english": "y Betén"
+      "gloss": "y Betén"
     },
     {
       "surface": "ואכשף",
-      "english": "y Acshaf"
+      "gloss": "y Acshaf"
     }
-  ],
-  "timestamp": "2026-06-10T01:21:45.115558252Z",
-  "model": "glm-4.5"
+  ]
 }

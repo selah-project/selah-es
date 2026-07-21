@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 4:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 491,
-    "prompt_tokens": 70112,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70603
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:24:50.680792889Z",
   "translation": "En paz ⟨juntos⟩ me acostaré y también dormiré, pues tú, YHWH, ⟨estás⟩ solo, ⟨en⟩ seguridad ⟨harás⟩ que habite.",
   "tokens": [
     {
       "surface": "בשלום",
-      "english": "En paz"
+      "gloss": "En paz"
     },
     {
       "surface": "יחדו",
-      "english": "⟨juntos⟩"
+      "gloss": "⟨juntos⟩"
     },
     {
       "surface": "אשכבה",
-      "english": "me acostaré"
+      "gloss": "me acostaré"
     },
     {
       "surface": "ואישן",
-      "english": "y también dormiré"
+      "gloss": "y también dormiré"
     },
     {
       "surface": "כי",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לבדד",
-      "english": "⟨estás⟩ solo"
+      "gloss": "⟨estás⟩ solo"
     },
     {
       "surface": "לבטח",
-      "english": "⟨en⟩ seguridad"
+      "gloss": "⟨en⟩ seguridad"
     },
     {
       "surface": "תושיבני",
-      "english": "⟨harás⟩ que habite"
+      "gloss": "⟨harás⟩ que habite"
     }
-  ],
-  "timestamp": "2026-07-16T23:24:50.680792889Z",
-  "model": "glm-4.5"
+  ]
 }

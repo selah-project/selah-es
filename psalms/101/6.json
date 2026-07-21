@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 101:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 101,
-  "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70212,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70871
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:38.420308689Z",
   "translation": "Mis ojos ⟨estarán⟩ sobre ⟨los⟩ fieles de ⟨la⟩ tierra, para que morad conmigo: ⟨el⟩ que camina en camino de integridad, ⟨él⟩ me servirá.",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "Mis ojos"
+      "gloss": "Mis ojos"
     },
     {
       "surface": "בנאמני",
-      "english": "sobre ⟨los⟩ fieles"
+      "gloss": "sobre ⟨los⟩ fieles"
     },
     {
       "surface": "ארץ",
-      "english": "de ⟨la⟩ tierra"
+      "gloss": "de ⟨la⟩ tierra"
     },
     {
       "surface": "לשבת",
-      "english": "para que morad"
+      "gloss": "para que morad"
     },
     {
       "surface": "עמדי",
-      "english": "conmigo"
+      "gloss": "conmigo"
     },
     {
       "surface": "הלך",
-      "english": "⟨el⟩ que camina"
+      "gloss": "⟨el⟩ que camina"
     },
     {
       "surface": "בדרך",
-      "english": "en camino"
+      "gloss": "en camino"
     },
     {
       "surface": "תמים",
-      "english": "de integridad"
+      "gloss": "de integridad"
     },
     {
       "surface": "הוא",
-      "english": "⟨él⟩"
+      "gloss": "⟨él⟩"
     },
     {
       "surface": "ישרתני",
-      "english": "me servirá"
+      "gloss": "me servirá"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:38.420308689Z",
-  "model": "glm-4.5"
+  ]
 }

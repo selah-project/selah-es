@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "esther 8:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "esther",
+  "chapter": 8,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:53:05.518094874Z",
+  "translation": "En un solo día, en todas las provincias del rey Ajashverósh, en el día trece del mes duodécimo, que ⟨es⟩ el mes de Adar",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "En un solo día"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "en todas"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "provincias"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del rey"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajashverósh"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "en el día trece"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "trece"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mes"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duodécimo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "duodécimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "que"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "⟨es⟩ el mes"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "de Adar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Asuero",
@@ -13,80 +76,6 @@
       "hebrew": "אחשורוש"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 8,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17921,
-    "prompt_tokens_details": {
-      "cached_tokens": 16282
-    },
-    "total_tokens": 18321
-  },
-  "translation": "En un solo día, en todas las provincias del rey Ajashverósh, en el día trece del mes duodécimo, que ⟨es⟩ el mes de Adar",
-  "tokens": [
-    {
-      "surface": "ביום",
-      "english": "En un solo día"
-    },
-    {
-      "surface": "אחד",
-      "english": "solo"
-    },
-    {
-      "surface": "בכל",
-      "english": "en todas"
-    },
-    {
-      "surface": "מדינות",
-      "english": "provincias"
-    },
-    {
-      "surface": "המלך",
-      "english": "del rey"
-    },
-    {
-      "surface": "אחשורוש",
-      "english": "Ajashverósh"
-    },
-    {
-      "surface": "בשלושה",
-      "english": "en el día trece"
-    },
-    {
-      "surface": "עשר",
-      "english": "trece"
-    },
-    {
-      "surface": "לחדש",
-      "english": "del mes"
-    },
-    {
-      "surface": "שנים",
-      "english": "duodécimo"
-    },
-    {
-      "surface": "עשר",
-      "english": "duodécimo"
-    },
-    {
-      "surface": "הוא",
-      "english": "que"
-    },
-    {
-      "surface": "חדש",
-      "english": "⟨es⟩ el mes"
-    },
-    {
-      "surface": "אדר",
-      "english": "de Adar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:53:05.518094874Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

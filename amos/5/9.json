@@ -1,72 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "amos 5:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 673,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16053,
-    "prompt_tokens_details": {
-      "cached_tokens": 15066
-    },
-    "total_tokens": 16726
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:03:19.299151558Z",
   "translation": "El que ⟨hace⟩ brillar ⟨את⟩ ⟨la⟩ destrucción sobre ⟨el⟩ fuerte, y ⟨la⟩ destrucción sobre ⟨la⟩ fortaleza vendrá.",
   "tokens": [
     {
       "surface": "המבליג",
-      "english": "El que ⟨hace⟩ brillar",
+      "gloss": "El que ⟨hace⟩ brillar",
       "notes": "hapax",
       "rationale": "forma única en el Tanaj; raíz בלג con ה prefijo; literalmente 'el que hace brillar\/descender'"
     },
     {
       "surface": "שד",
-      "english": "⟨la⟩ destrucción",
+      "gloss": "⟨la⟩ destrucción",
       "marks": "⟨la⟩ destrucción sobre ⟨el⟩ fuerte"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "עז",
-      "english": "⟨el⟩ fuerte",
+      "gloss": "⟨el⟩ fuerte",
       "rationale": "substitution",
       "subject": "fuerte",
       "notes": "עז literalmente es 'fuerte\/violento', pero aquí como sustantivo referido a persona\/nación poderosa"
     },
     {
       "surface": "ושד",
-      "english": "y ⟨la⟩ destrucción"
+      "gloss": "y ⟨la⟩ destrucción"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "מבצר",
-      "english": "⟨la⟩ fortaleza",
+      "gloss": "⟨la⟩ fortaleza",
       "rationale": "substitution",
       "subject": "fortaleza",
       "notes": "מבצר literalmente 'lugar fortificado\/castillo'; aquí como metonimia de poder político\/militar"
     },
     {
       "surface": "יבוא",
-      "english": "vendrá",
+      "gloss": "vendrá",
       "rationale": "tiempo verbal",
       "subject": "vendrá",
       "notes": "tiempo futuro hebreo (yiqtol) indica acción cierta\/inevitable de parte de Elohim"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:03:19.299151558Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

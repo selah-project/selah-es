@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "exodus 33:6",
   "book": "exodus",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 356,
-    "prompt_tokens": 24090,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24446
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:24:42.892398149Z",
   "translation": "Y los hijos de Yisrael se despojaron de ⟨את⟩ sus adornos desde el monte Horeb.",
   "tokens": [
     {
       "surface": "ויתנצלו",
-      "english": "y se despojaron"
+      "gloss": "y se despojaron"
     },
     {
       "surface": "בני",
-      "english": "los hijos de"
+      "gloss": "los hijos de"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "sus adornos"
     },
     {
       "surface": "עדים",
-      "english": "sus adornos"
+      "gloss": "sus adornos"
     },
     {
       "surface": "מהר",
-      "english": "desde el monte"
+      "gloss": "desde el monte"
     },
     {
       "surface": "חורב",
-      "english": "Horeb"
+      "gloss": "Horeb"
     }
-  ],
-  "timestamp": "2026-07-16T20:24:42.892398149Z",
-  "model": "glm-4.5"
+  ]
 }

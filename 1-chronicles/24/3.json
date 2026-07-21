@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-chronicles 24:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 24,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:53:39.261807267Z",
+  "translation": "Y Davidd los dividió: a Zadok ⟨de⟩ los hijos de Elazar, y a Ahimelech ⟨de⟩ los hijos de Ithamar, según sus turnos de servicio en su oficio",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "Y David los dividió"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "a Zadok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "de Elazar"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "y a Ahimelech"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "los hijos"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "de Ithamar"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "según sus turnos de servicio"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "en su oficio"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,72 +75,6 @@
       "hebrew": "אלעזר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 24,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57269,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57819
-  },
-  "translation": "Y Davidd los dividió: a Zadok ⟨de⟩ los hijos de Elazar, y a Ahimelech ⟨de⟩ los hijos de Ithamar, según sus turnos de servicio en su oficio",
-  "tokens": [
-    {
-      "surface": "ויחלקם",
-      "english": "Y David los dividió"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "וצדוק",
-      "english": "a Zadok"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "אלעזר",
-      "english": "de Elazar"
-    },
-    {
-      "surface": "ואחימלך",
-      "english": "y a Ahimelech"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "בני",
-      "english": "los hijos"
-    },
-    {
-      "surface": "איתמר",
-      "english": "de Ithamar"
-    },
-    {
-      "surface": "לפקדתם",
-      "english": "según sus turnos de servicio"
-    },
-    {
-      "surface": "בעבדתם",
-      "english": "en su oficio"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:53:39.261807267Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

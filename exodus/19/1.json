@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 19:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 19,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:48:36.190512469Z",
+  "translation": "En el mes tercero de ⟨la⟩ salida de los hijos de Yisrael de ⟨la⟩ tierra de Mitzráyim, en este día llegaron ⟨al⟩ desierto de Sinai",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "En el mes"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tercero"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "de ⟨la⟩ salida"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de los hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de ⟨la⟩ tierra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitzráyim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en este día"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "este"
+    },
+    {
+      "surface": "באו",
+      "gloss": "llegaron"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "⟨al⟩ desierto"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "de Sinai"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -27,72 +82,6 @@
       "hebrew": "סיני"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16910,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 17316
-  },
-  "translation": "En el mes tercero de ⟨la⟩ salida de los hijos de Yisrael de ⟨la⟩ tierra de Mitzráyim, en este día llegaron ⟨al⟩ desierto de Sinai",
-  "tokens": [
-    {
-      "surface": "בחדש",
-      "english": "En el mes"
-    },
-    {
-      "surface": "השלישי",
-      "english": "tercero"
-    },
-    {
-      "surface": "לצאת",
-      "english": "de ⟨la⟩ salida"
-    },
-    {
-      "surface": "בני",
-      "english": "de los hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "מארץ",
-      "english": "de ⟨la⟩ tierra"
-    },
-    {
-      "surface": "מצרים",
-      "english": "de Mitzráyim"
-    },
-    {
-      "surface": "ביום",
-      "english": "en este día"
-    },
-    {
-      "surface": "הזה",
-      "english": "este"
-    },
-    {
-      "surface": "באו",
-      "english": "llegaron"
-    },
-    {
-      "surface": "מדבר",
-      "english": "⟨al⟩ desierto"
-    },
-    {
-      "surface": "סיני",
-      "english": "de Sinai"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:48:36.190512469Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

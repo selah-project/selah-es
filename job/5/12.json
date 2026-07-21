@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 5:12",
   "book": "job",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27108,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27493
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:39.600504996Z",
   "translation": "frustra ⟨los⟩ planes ⟨de los⟩ astutos y ⟨sus⟩ manos no realizarán ⟨su⟩ empresa",
   "tokens": [
     {
       "surface": "מפר",
-      "english": "Frustra"
+      "gloss": "Frustra"
     },
     {
       "surface": "מחשבות",
-      "english": "⟨los⟩ planes"
+      "gloss": "⟨los⟩ planes"
     },
     {
       "surface": "ערומים",
-      "english": "⟨de los⟩ astutos"
+      "gloss": "⟨de los⟩ astutos"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨sus⟩"
+      "gloss": "y ⟨sus⟩"
     },
     {
       "surface": "תעשינה",
-      "english": "manos no realizarán"
+      "gloss": "manos no realizarán"
     },
     {
       "surface": "ידיהם",
-      "english": "⟨su⟩"
+      "gloss": "⟨su⟩"
     },
     {
       "surface": "תושיה",
-      "english": "empresa"
+      "gloss": "empresa"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:39.600504996Z",
-  "model": "glm-4.5"
+  ]
 }

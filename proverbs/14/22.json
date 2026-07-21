@@ -1,58 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "proverbs 14:22",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59940,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60482
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:38:07.405086391Z",
   "translation": "¿Acaso no yerran ⟨los que⟩ ⟨hacen⟩ lo ⟨malo⟩? ⟨Y⟩ Jésed y Emet ⟨serán para⟩ ⟨los que⟩ ⟨hacen⟩ ⟨lo bueno⟩.",
   "tokens": [
     {
       "surface": "הלוא",
-      "english": "¿Acaso no"
+      "gloss": "¿Acaso no"
     },
     {
       "surface": "יתעו",
-      "english": "yerran"
+      "gloss": "yerran"
     },
     {
       "surface": "חרשי",
-      "english": "⟨los que⟩ ⟨hacen⟩",
+      "gloss": "⟨los que⟩ ⟨hacen⟩",
       "marks": "lo malo"
     },
     {
       "surface": "רע",
-      "english": "lo ⟨malo⟩"
+      "gloss": "lo ⟨malo⟩"
     },
     {
       "surface": "וחסד",
-      "english": "⟨Y⟩ Jésed"
+      "gloss": "⟨Y⟩ Jésed"
     },
     {
       "surface": "ואמת",
-      "english": "y Emet"
+      "gloss": "y Emet"
     },
     {
       "surface": "חרשי",
-      "english": "⟨los que⟩ ⟨hacen⟩",
+      "gloss": "⟨los que⟩ ⟨hacen⟩",
       "marks": "lo bueno"
     },
     {
       "surface": "טוב",
-      "english": "⟨lo bueno⟩"
+      "gloss": "⟨lo bueno⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:38:07.405086391Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 147:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70073,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70631
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:12:08.496597642Z",
   "translation": "⟨El que⟩ cubre ⟨el⟩ cielo con nubes, ⟨el que⟩ prepara lluvia para ⟨la⟩ tierra, ⟨el que⟩ hace ⟨que el⟩ pasto crezca en ⟨las⟩ montañas",
   "tokens": [
     {
       "surface": "המכסה",
-      "english": "⟨El que⟩ cubre"
+      "gloss": "⟨El que⟩ cubre"
     },
     {
       "surface": "שמים",
-      "english": "⟨el⟩ cielo"
+      "gloss": "⟨el⟩ cielo"
     },
     {
       "surface": "בעבים",
-      "english": "con nubes"
+      "gloss": "con nubes"
     },
     {
       "surface": "המכין",
-      "english": "⟨el que⟩ prepara"
+      "gloss": "⟨el que⟩ prepara"
     },
     {
       "surface": "לארץ",
-      "english": "lluvia para ⟨la⟩ tierra"
+      "gloss": "lluvia para ⟨la⟩ tierra"
     },
     {
       "surface": "מטר",
-      "english": "lluvia"
+      "gloss": "lluvia"
     },
     {
       "surface": "המצמיח",
-      "english": "⟨el que⟩ hace ⟨que el⟩ pasto crezca"
+      "gloss": "⟨el que⟩ hace ⟨que el⟩ pasto crezca"
     },
     {
       "surface": "הרים",
-      "english": "en ⟨las⟩ montañas"
+      "gloss": "en ⟨las⟩ montañas"
     },
     {
       "surface": "חציר",
-      "english": "pasto"
+      "gloss": "pasto"
     }
-  ],
-  "timestamp": "2026-06-10T00:12:08.496597642Z",
-  "model": "glm-4.5"
+  ]
 }

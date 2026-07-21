@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 30:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70044,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70494
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:10:39.372752903Z",
   "translation": "YHWH ⟨has⟩ brought up ⟨my⟩ nefesh from Sheol ⟨You⟩ have kept me alive from going down to ⟨the⟩ pit",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "העלית",
-      "english": "⟨has⟩ brought up"
+      "gloss": "⟨has⟩ brought up"
     },
     {
       "surface": "מן",
-      "english": "from"
+      "gloss": "from"
     },
     {
       "surface": "שאול",
-      "english": "Sheol"
+      "gloss": "Sheol"
     },
     {
       "surface": "נפשי",
-      "english": "⟨my⟩ nefesh"
+      "gloss": "⟨my⟩ nefesh"
     },
     {
       "surface": "חייתני",
-      "english": "⟨You⟩ have kept me alive"
+      "gloss": "⟨You⟩ have kept me alive"
     },
     {
       "surface": "מיורדי",
-      "english": "from going down"
+      "gloss": "from going down"
     },
     {
       "surface": "בור",
-      "english": "to ⟨the⟩ pit"
+      "gloss": "to ⟨the⟩ pit"
     }
-  ],
-  "timestamp": "2026-06-09T23:10:39.372752903Z",
-  "model": "glm-4.5"
+  ]
 }

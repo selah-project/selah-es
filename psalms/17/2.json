@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 17:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 358,
-    "prompt_tokens": 70026,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70384
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:25:33.707805409Z",
   "translation": "Desde tu presencia salga mi juicio; ⟨que⟩ tus ojos ⟨vean⟩ ⟨lo que es⟩ recto.",
   "tokens": [
     {
       "surface": "מלפניך",
-      "english": "Desde tu presencia"
+      "gloss": "Desde tu presencia"
     },
     {
       "surface": "משפטי",
-      "english": "mi juicio"
+      "gloss": "mi juicio"
     },
     {
       "surface": "יצא",
-      "english": "salga"
+      "gloss": "salga"
     },
     {
       "surface": "עיניך",
-      "english": "tus ojos"
+      "gloss": "tus ojos"
     },
     {
       "surface": "תחזינה",
-      "english": "⟨que⟩ ⟨vean⟩"
+      "gloss": "⟨que⟩ ⟨vean⟩"
     },
     {
       "surface": "מישרים",
-      "english": "⟨lo que es⟩ recto"
+      "gloss": "⟨lo que es⟩ recto"
     }
-  ],
-  "timestamp": "2026-07-16T23:25:33.707805409Z",
-  "model": "glm-4.5"
+  ]
 }

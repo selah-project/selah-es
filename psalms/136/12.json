@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 12,
   "ref": "psalms 136:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69866,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70439
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:59:10.911611785Z",
   "translation": "Con mano fuerte y ⟨con⟩ brazo extendido, porque para siempre ⟨es⟩ su Jésed.",
   "tokens": [
     {
       "surface": "בְּ\/יָ֣ד",
-      "english": "Con mano"
+      "gloss": "Con mano"
     },
     {
       "surface": "חֲ֭זָקָה",
-      "english": "fuerte"
+      "gloss": "fuerte"
     },
     {
       "surface": "וּ\/בִ\/זְר֣וֹעַ",
-      "english": "y ⟨con⟩ brazo"
+      "gloss": "y ⟨con⟩ brazo"
     },
     {
       "surface": "נְטוּיָ֑ה",
-      "english": "extendido"
+      "gloss": "extendido"
     },
     {
       "surface": "כִּ֖י",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לְ\/עוֹלָ֣ם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חַסְדּֽ\/וֹ",
-      "english": "su Jésed"
+      "gloss": "su Jésed"
     }
-  ],
-  "timestamp": "2026-06-13T03:59:10.911611785Z",
-  "model": "glm-5.1"
+  ]
 }

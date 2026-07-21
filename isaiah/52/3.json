@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "isaiah 52:3",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26182,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26593
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:53:58.740830008Z",
   "translation": "Porque así ⟨dice⟩ YHWH: sin causa ⟨fuisteis⟩ vendidos, y ⟨no con⟩ plata ⟨seréis⟩ redimidos",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "כה",
-      "english": "así"
+      "gloss": "así"
     },
     {
       "surface": "אמר",
-      "english": "⟨dice⟩"
+      "gloss": "⟨dice⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "חנם",
-      "english": "sin causa"
+      "gloss": "sin causa"
     },
     {
       "surface": "נמכרתם",
-      "english": "⟨fuisteis⟩ vendidos"
+      "gloss": "⟨fuisteis⟩ vendidos"
     },
     {
       "surface": "ולא",
-      "english": "y ⟨no con⟩"
+      "gloss": "y ⟨no con⟩"
     },
     {
       "surface": "בכסף",
-      "english": "plata"
+      "gloss": "plata"
     },
     {
       "surface": "תגאלו",
-      "english": "⟨seréis⟩ redimidos"
+      "gloss": "⟨seréis⟩ redimidos"
     }
-  ],
-  "timestamp": "2026-06-10T02:53:58.740830008Z",
-  "model": "glm-4.5"
+  ]
 }

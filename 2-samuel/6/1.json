@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-samuel 6:1",
   "book": "2-samuel",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 437,
-    "prompt_tokens": 24425,
-    "prompt_tokens_details": {
-      "cached_tokens": 23168
-    },
-    "total_tokens": 24862
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T19:21:46.037290846Z",
   "translation": "Y David volvió a juntar ⟨a⟩ ⟨את⟩ todo ⟨los⟩ escogidos de Israel, treinta mil.",
   "tokens": [
     {
       "surface": "ויסף",
-      "english": "Y David volvió a juntar"
+      "gloss": "Y David volvió a juntar"
     },
     {
       "surface": "עוד",
-      "english": "de nuevo"
+      "gloss": "de nuevo"
     },
     {
       "surface": "דוד",
-      "english": "David"
+      "gloss": "David"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo ⟨los⟩ escogidos de Israel"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "בחור",
-      "english": "⟨los⟩ escogidos"
+      "gloss": "⟨los⟩ escogidos"
     },
     {
       "surface": "בישראל",
-      "english": "de Israel"
+      "gloss": "de Israel"
     },
     {
       "surface": "שלשים",
-      "english": "treinta"
+      "gloss": "treinta"
     },
     {
       "surface": "אלף",
-      "english": "mil"
+      "gloss": "mil"
     }
-  ],
-  "timestamp": "2026-07-16T19:21:46.037290846Z",
-  "model": "glm-4.5"
+  ]
 }

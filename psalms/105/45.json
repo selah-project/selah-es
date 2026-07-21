@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "psalms 105:45",
   "book": "psalms",
-  "lang": "es",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 375,
-    "prompt_tokens": 69985,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70360
-  },
+  "verse": 45,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:53.763134564Z",
   "translation": "para que guarden sus estatutos y ⟨la⟩ Torá de Él guarden. ¡Halelú-Ya!",
   "tokens": [
     {
       "surface": "בעבור",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "ישמרו",
-      "english": "guarden"
+      "gloss": "guarden"
     },
     {
       "surface": "חקיו",
-      "english": "sus estatutos"
+      "gloss": "sus estatutos"
     },
     {
       "surface": "ותורתיו",
-      "english": "y ⟨la⟩ Torá de Él"
+      "gloss": "y ⟨la⟩ Torá de Él"
     },
     {
       "surface": "ינצרו",
-      "english": "guarden"
+      "gloss": "guarden"
     },
     {
       "surface": "הללו",
-      "english": "¡Halelú"
+      "gloss": "¡Halelú"
     },
     {
       "surface": "יה",
-      "english": "Ya!"
+      "gloss": "Ya!"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:53.763134564Z",
-  "model": "glm-4.5"
+  ]
 }

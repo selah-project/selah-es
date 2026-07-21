@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "isaiah 28:11",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26090,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26574
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:37:04.731302791Z",
   "translation": "Porque con labios burlones ⟨y⟩ con lengua otra ⟨el⟩ que habla ⟨a⟩ este ⟨pueblo⟩",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "בלעגי",
-      "english": "con labios burlones"
+      "gloss": "con labios burlones"
     },
     {
       "surface": "שפה",
-      "english": "⟨y⟩",
+      "gloss": "⟨y⟩",
       "marks": "lengua otra"
     },
     {
       "surface": "ובלשון",
-      "english": "con lengua otra"
+      "gloss": "con lengua otra"
     },
     {
       "surface": "אחרת",
-      "english": "otra"
+      "gloss": "otra"
     },
     {
       "surface": "ידבר",
-      "english": "⟨el⟩ que habla"
+      "gloss": "⟨el⟩ que habla"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "este pueblo"
     },
     {
       "surface": "העם",
-      "english": "este ⟨pueblo⟩"
+      "gloss": "este ⟨pueblo⟩"
     },
     {
       "surface": "הזה",
-      "english": "este"
+      "gloss": "este"
     }
-  ],
-  "timestamp": "2026-06-10T02:37:04.731302791Z",
-  "model": "glm-4.5"
+  ]
 }

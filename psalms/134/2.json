@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 134:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 134,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 69969,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70373
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:27.581867961Z",
   "translation": "Levantad vuestras manos ⟨hacia⟩ el santuario, y bendecid a YHWH.",
   "tokens": [
     {
       "surface": "שאו",
-      "english": "Levantad"
+      "gloss": "Levantad"
     },
     {
       "surface": "ידכם",
-      "english": "vuestras manos"
+      "gloss": "vuestras manos"
     },
     {
       "surface": "קדש",
-      "english": "el santuario"
+      "gloss": "el santuario"
     },
     {
       "surface": "וברכו",
-      "english": "y bendecid"
+      "gloss": "y bendecid"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:27.581867961Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,140 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "2-samuel 12:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 12,
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:26:42.781037778Z",
+  "translation": "Y aconteció en el día séptimo y murió el niño, y vieron los siervos de Davidd ⟨para⟩ decírselo ⟨que⟩ murió el niño, porque dijeron: he aquí, estando el niño vivo, le hablamos y no escuchó ⟨a⟩ nuestra voz, y ¿cómo diremos ⟨a⟩ él: murió el niño y hará lo malo?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y aconteció"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en el día"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "séptimo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "y murió"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "el niño"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "y vieron"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "los siervos"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "⟨para⟩ decírselo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a⟩ él"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "מת",
+      "gloss": "murió"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "el niño"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dijeron"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "he aquí"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "estando"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "el niño"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "le hablamos"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ él"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "y no"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "escuchó"
+    },
+    {
+      "surface": "בקולנו",
+      "gloss": "⟨a⟩ nuestra voz"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "y ¿cómo"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "diremos"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ él"
+    },
+    {
+      "surface": "מת",
+      "gloss": "murió"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "el niño"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "y hará"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "lo malo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,148 +144,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 948,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18908,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 19856
-  },
-  "translation": "Y aconteció en el día séptimo y murió el niño, y vieron los siervos de Davidd ⟨para⟩ decírselo ⟨que⟩ murió el niño, porque dijeron: he aquí, estando el niño vivo, le hablamos y no escuchó ⟨a⟩ nuestra voz, y ¿cómo diremos ⟨a⟩ él: murió el niño y hará lo malo?",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y aconteció"
-    },
-    {
-      "surface": "ביום",
-      "english": "en el día"
-    },
-    {
-      "surface": "השביעי",
-      "english": "séptimo"
-    },
-    {
-      "surface": "וימת",
-      "english": "y murió"
-    },
-    {
-      "surface": "הילד",
-      "english": "el niño"
-    },
-    {
-      "surface": "ויראו",
-      "english": "y vieron"
-    },
-    {
-      "surface": "עבדי",
-      "english": "los siervos"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "להגיד",
-      "english": "⟨para⟩ decírselo"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨a⟩ él"
-    },
-    {
-      "surface": "כי",
-      "english": "⟨que⟩"
-    },
-    {
-      "surface": "מת",
-      "english": "murió"
-    },
-    {
-      "surface": "הילד",
-      "english": "el niño"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "אמרו",
-      "english": "dijeron"
-    },
-    {
-      "surface": "הנה",
-      "english": "he aquí"
-    },
-    {
-      "surface": "בהיות",
-      "english": "estando"
-    },
-    {
-      "surface": "הילד",
-      "english": "el niño"
-    },
-    {
-      "surface": "חי",
-      "english": "vivo"
-    },
-    {
-      "surface": "דברנו",
-      "english": "le hablamos"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ él"
-    },
-    {
-      "surface": "ולא",
-      "english": "y no"
-    },
-    {
-      "surface": "שמע",
-      "english": "escuchó"
-    },
-    {
-      "surface": "בקולנו",
-      "english": "⟨a⟩ nuestra voz"
-    },
-    {
-      "surface": "ואיך",
-      "english": "y ¿cómo"
-    },
-    {
-      "surface": "נאמר",
-      "english": "diremos"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ él"
-    },
-    {
-      "surface": "מת",
-      "english": "murió"
-    },
-    {
-      "surface": "הילד",
-      "english": "el niño"
-    },
-    {
-      "surface": "ועשה",
-      "english": "y hará"
-    },
-    {
-      "surface": "רעה",
-      "english": "lo malo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:26:42.781037778Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

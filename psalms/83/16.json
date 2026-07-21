@@ -1,46 +1,35 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 83:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69780,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70079
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:37.028354973Z",
   "translation": "así ⟨los⟩ perseguirás en tu tempestad y en tu tormenta ⟨los⟩ aterrorizarás",
   "tokens": [
     {
       "surface": "כן",
-      "english": "Así"
+      "gloss": "Así"
     },
     {
       "surface": "תרדפם",
-      "english": "⟨los⟩ perseguirás",
+      "gloss": "⟨los⟩ perseguirás",
       "marks": "a ellos"
     },
     {
       "surface": "בסערך",
-      "english": "en tu tempestad"
+      "gloss": "en tu tempestad"
     },
     {
       "surface": "ובסופתך",
-      "english": "y en tu tormenta"
+      "gloss": "y en tu tormenta"
     },
     {
       "surface": "תבהלם",
-      "english": "⟨los⟩ aterrorizarás",
+      "gloss": "⟨los⟩ aterrorizarás",
       "marks": "a ellos"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:37.028354973Z",
-  "model": "glm-4.5"
+  ]
 }

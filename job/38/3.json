@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 38:3",
   "book": "job",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26971,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27326
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:15:05.014543478Z",
   "translation": "Cíñete ⟨ahora⟩ como ⟨un⟩ varón ⟨tus⟩ lomos ⟨y⟩ te preguntaré ⟨y⟩ me declararás",
   "tokens": [
     {
       "surface": "אזר",
-      "english": "Cíñete"
+      "gloss": "Cíñete"
     },
     {
       "surface": "נא",
-      "english": "⟨ahora⟩"
+      "gloss": "⟨ahora⟩"
     },
     {
       "surface": "כגבר",
-      "english": "como ⟨un⟩ varón"
+      "gloss": "como ⟨un⟩ varón"
     },
     {
       "surface": "חלציך",
-      "english": "⟨tus⟩ lomos"
+      "gloss": "⟨tus⟩ lomos"
     },
     {
       "surface": "ואשאלך",
-      "english": "⟨y⟩ te preguntaré"
+      "gloss": "⟨y⟩ te preguntaré"
     },
     {
       "surface": "והודיעני",
-      "english": "⟨y⟩ me declararás"
+      "gloss": "⟨y⟩ me declararás"
     }
-  ],
-  "timestamp": "2026-06-10T02:15:05.014543478Z",
-  "model": "glm-4.5"
+  ]
 }

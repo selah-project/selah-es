@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 111:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70076,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70634
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:56:27.830350106Z",
   "translation": "⟨Él⟩ envió ⟨una⟩ redención ⟨a⟩ su pueblo; ⟨Él⟩ ordenó su pacto para siempre; ⟨es⟩ santo y terrible ⟨es⟩ su nombre.",
   "tokens": [
     {
       "surface": "פדות",
-      "english": "⟨Una⟩ redención"
+      "gloss": "⟨Una⟩ redención"
     },
     {
       "surface": "שלח",
-      "english": "envió"
+      "gloss": "envió"
     },
     {
       "surface": "לעמו",
-      "english": "⟨a⟩ su pueblo"
+      "gloss": "⟨a⟩ su pueblo"
     },
     {
       "surface": "צוה",
-      "english": "ordenó"
+      "gloss": "ordenó"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "בריתו",
-      "english": "su pacto"
+      "gloss": "su pacto"
     },
     {
       "surface": "קדוש",
-      "english": "santo"
+      "gloss": "santo"
     },
     {
       "surface": "ונורא",
-      "english": "y terrible"
+      "gloss": "y terrible"
     },
     {
       "surface": "שמו",
-      "english": "su nombre"
+      "gloss": "su nombre"
     }
-  ],
-  "timestamp": "2026-06-09T23:56:27.830350106Z",
-  "model": "glm-4.5"
+  ]
 }

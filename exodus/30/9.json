@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "exodus 30:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 30,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:20:24.504805443Z",
+  "translation": "No hagáis subir ⟨את⟩ Ketoret ajeno sobre él, ni holocausto, ni ofrenda de cereal; ni libación derramaréis sobre él",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "No"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "haréis subir"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sobre él"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "Ketoret"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "ajeno"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "ni holocausto"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ni ofrenda de cereal"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "ni libación"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "derramaréis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sobre él"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "incienso",
@@ -13,68 +64,6 @@
       "hebrew": "קטרת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16905,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 17348
-  },
-  "translation": "No hagáis subir ⟨את⟩ Ketoret ajeno sobre él, ni holocausto, ni ofrenda de cereal; ni libación derramaréis sobre él",
-  "tokens": [
-    {
-      "surface": "לא",
-      "english": "No"
-    },
-    {
-      "surface": "תעלו",
-      "english": "haréis subir"
-    },
-    {
-      "surface": "עליו",
-      "english": "sobre él"
-    },
-    {
-      "surface": "קטרת",
-      "english": "Ketoret"
-    },
-    {
-      "surface": "זרה",
-      "english": "ajeno"
-    },
-    {
-      "surface": "ועלה",
-      "english": "ni holocausto"
-    },
-    {
-      "surface": "ומנחה",
-      "english": "ni ofrenda de cereal"
-    },
-    {
-      "surface": "ונסך",
-      "english": "ni libación"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "תסכו",
-      "english": "derramaréis"
-    },
-    {
-      "surface": "עליו",
-      "english": "sobre él"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:20:24.504805443Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

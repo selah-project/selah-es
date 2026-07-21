@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 132:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 382,
-    "prompt_tokens": 69897,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70279
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:13.809086799Z",
   "translation": "En abundancia ⟨yo⟩ bendeciré su provision; ⟨yo⟩ saciaré a sus pobres con pan.",
   "tokens": [
     {
       "surface": "צידה",
-      "english": "en abundancia"
+      "gloss": "en abundancia"
     },
     {
       "surface": "ברך",
-      "english": "⟨yo⟩ bendeciré"
+      "gloss": "⟨yo⟩ bendeciré"
     },
     {
       "surface": "אברך",
-      "english": "⟨yo⟩ bendeciré"
+      "gloss": "⟨yo⟩ bendeciré"
     },
     {
       "surface": "אביוניה",
-      "english": "a sus pobres"
+      "gloss": "a sus pobres"
     },
     {
       "surface": "אשביע",
-      "english": "⟨yo⟩ saciaré"
+      "gloss": "⟨yo⟩ saciaré"
     },
     {
       "surface": "לחם",
-      "english": "con pan"
+      "gloss": "con pan"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:13.809086799Z",
-  "model": "glm-4.5"
+  ]
 }

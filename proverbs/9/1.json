@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 9:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59724,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60030
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:34:48.441812042Z",
   "translation": "La sabiduría ⟨ha⟩ edificado su casa, ⟨ella⟩ ⟨ha⟩ tallado sus siete columnas:",
   "tokens": [
     {
       "surface": "חכמות",
-      "english": "La sabiduría"
+      "gloss": "La sabiduría"
     },
     {
       "surface": "בנתה",
-      "english": "⟨ha⟩ edificado"
+      "gloss": "⟨ha⟩ edificado"
     },
     {
       "surface": "ביתה",
-      "english": "su casa"
+      "gloss": "su casa"
     },
     {
       "surface": "חצבה",
-      "english": "⟨ella⟩ ⟨ha⟩ tallado"
+      "gloss": "⟨ella⟩ ⟨ha⟩ tallado"
     },
     {
       "surface": "עמודיה",
-      "english": "sus columnas"
+      "gloss": "sus columnas"
     },
     {
       "surface": "שבעה",
-      "english": "siete"
+      "gloss": "siete"
     }
-  ],
-  "timestamp": "2026-06-10T01:34:48.441812042Z",
-  "model": "glm-4.5"
+  ]
 }

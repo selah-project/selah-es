@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 34:24",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27040,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 27396
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T06:39:26.084551035Z",
   "translation": "Romperá ⟨los⟩ poderosos ⟨en⟩ incontable ⟨número⟩, y ⟨se⟩ establecerá ⟨a⟩ otros ⟨en⟩ lugar ⟨de⟩ ellos",
   "tokens": [
     {
       "surface": "ירע",
-      "english": "Romperá"
+      "gloss": "Romperá"
     },
     {
       "surface": "כבירים",
-      "english": "⟨los⟩ poderosos ⟨en⟩ incontable ⟨número⟩"
+      "gloss": "⟨los⟩ poderosos ⟨en⟩ incontable ⟨número⟩"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "חקר",
-      "english": "búsqueda"
+      "gloss": "búsqueda"
     },
     {
       "surface": "ויעמד",
-      "english": "y ⟨se⟩ establecerá ⟨a⟩"
+      "gloss": "y ⟨se⟩ establecerá ⟨a⟩"
     },
     {
       "surface": "אחרים",
-      "english": "otros"
+      "gloss": "otros"
     },
     {
       "surface": "תחתם",
-      "english": "⟨en⟩ lugar ⟨de⟩ ellos"
+      "gloss": "⟨en⟩ lugar ⟨de⟩ ellos"
     }
-  ],
-  "timestamp": "2026-06-10T06:39:26.084551035Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 44:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 352,
-    "prompt_tokens": 70089,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70441
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:30:15.133680456Z",
   "translation": "Todo esto ⟨ha venido⟩ sobre nosotros y no te olvidamos y no mentimos en tu brit",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "זאת",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "באתנו",
-      "english": "⟨ha venido⟩ sobre nosotros"
+      "gloss": "⟨ha venido⟩ sobre nosotros"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "שכחנוך",
-      "english": "te olvidamos"
+      "gloss": "te olvidamos"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "שקרנו",
-      "english": "mentimos"
+      "gloss": "mentimos"
     },
     {
       "surface": "בבריתך",
-      "english": "en tu brit"
+      "gloss": "en tu brit"
     }
-  ],
-  "timestamp": "2026-07-16T23:30:15.133680456Z",
-  "model": "glm-4.5"
+  ]
 }

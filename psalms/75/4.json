@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 75:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70024,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70540
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:22.329695317Z",
   "translation": "⟨Los⟩ que se derriten ⟨son⟩ tierra y ⟨los⟩ que en ella habitan ⟨son⟩ disueltos: ⟨Yo⟩ ⟨he⟩ establecido ⟨sus⟩ columnas. Selah",
   "tokens": [
     {
       "surface": "נמגים",
-      "english": "⟨Los⟩ que se derriten"
+      "gloss": "⟨Los⟩ que se derriten"
     },
     {
       "surface": "ארץ",
-      "english": "tierra"
+      "gloss": "tierra"
     },
     {
       "surface": "וכל",
-      "english": "y ⟨los⟩ que"
+      "gloss": "y ⟨los⟩ que"
     },
     {
       "surface": "ישביה",
-      "english": "en ella habitan"
+      "gloss": "en ella habitan"
     },
     {
       "surface": "אנכי",
-      "english": "⟨Yo⟩"
+      "gloss": "⟨Yo⟩"
     },
     {
       "surface": "תכנתי",
-      "english": "⟨he⟩ establecido"
+      "gloss": "⟨he⟩ establecido"
     },
     {
       "surface": "עמודיה",
-      "english": "⟨sus⟩ columnas"
+      "gloss": "⟨sus⟩ columnas"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:35:22.329695317Z",
-  "model": "glm-4.5"
+  ]
 }

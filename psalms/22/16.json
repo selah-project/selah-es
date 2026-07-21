@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.1",
-  "verse": 16,
   "ref": "psalms 22:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70172,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70711
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:55:55.368285005Z",
   "translation": "Se ha secado como tiesto ⟨mi⟩ vigor, y mi lengua está pegada a mis fauces; y al polvo de muerte ⟨tú⟩ me has hundido.",
   "tokens": [
     {
       "surface": "יבש",
-      "english": "Se ha secado"
+      "gloss": "Se ha secado"
     },
     {
       "surface": "כחרש",
-      "english": "como tiesto"
+      "gloss": "como tiesto"
     },
     {
       "surface": "כחי",
-      "english": "⟨mi⟩ vigor"
+      "gloss": "⟨mi⟩ vigor"
     },
     {
       "surface": "ולשוני",
-      "english": "y mi lengua"
+      "gloss": "y mi lengua"
     },
     {
       "surface": "מדבק",
-      "english": "está pegada"
+      "gloss": "está pegada"
     },
     {
       "surface": "מלקוחי",
-      "english": "a mis fauces"
+      "gloss": "a mis fauces"
     },
     {
       "surface": "ולעפר",
-      "english": "y al polvo"
+      "gloss": "y al polvo"
     },
     {
       "surface": "מות",
-      "english": "de muerte"
+      "gloss": "de muerte"
     },
     {
       "surface": "תשפתני",
-      "english": "⟨tú⟩ me has hundido"
+      "gloss": "⟨tú⟩ me has hundido"
     }
-  ],
-  "timestamp": "2026-06-13T03:55:55.368285005Z",
-  "model": "glm-5.1"
+  ]
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 5:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70070,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70572
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:20.421132266Z",
   "translation": "Destruirás ⟨los⟩ habladores de mentira ⟨el⟩ hombre de sangre ⟨y de⟩ engaño ⟨detestará⟩ YHWH",
   "tokens": [
     {
       "surface": "תאבד",
-      "english": "Destruirás"
+      "gloss": "Destruirás"
     },
     {
       "surface": "דברי",
-      "english": "⟨los⟩ habladores",
+      "gloss": "⟨los⟩ habladores",
       "marks": "de mentira"
     },
     {
       "surface": "כזב",
-      "english": "de mentira"
+      "gloss": "de mentira"
     },
     {
       "surface": "איש",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "דמים",
-      "english": "de sangre"
+      "gloss": "de sangre"
     },
     {
       "surface": "ומרמה",
-      "english": "⟨y de⟩ engaño"
+      "gloss": "⟨y de⟩ engaño"
     },
     {
       "surface": "יתעב",
-      "english": "⟨detestará⟩"
+      "gloss": "⟨detestará⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:20.421132266Z",
-  "model": "glm-4.5"
+  ]
 }

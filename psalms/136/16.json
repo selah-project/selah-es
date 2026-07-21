@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 136:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 69864,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70249
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:43:51.774354264Z",
   "translation": "A quien ⟨guio⟩ ⟨a su pueblo⟩ por el desierto, porque para siempre ⟨es⟩ su Jésed:",
   "tokens": [
     {
       "surface": "למוליך",
-      "english": "A quien ⟨guio⟩"
+      "gloss": "A quien ⟨guio⟩"
     },
     {
       "surface": "עמו",
-      "english": "⟨a su pueblo⟩"
+      "gloss": "⟨a su pueblo⟩"
     },
     {
       "surface": "במדבר",
-      "english": "por el desierto"
+      "gloss": "por el desierto"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לעולם",
-      "english": "para siempre"
+      "gloss": "para siempre"
     },
     {
       "surface": "חסדו",
-      "english": "⟨es⟩ su Jésed:"
+      "gloss": "⟨es⟩ su Jésed:"
     }
-  ],
-  "timestamp": "2026-07-16T23:43:51.774354264Z",
-  "model": "glm-4.5"
+  ]
 }

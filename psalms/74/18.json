@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 74:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 70120,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70564
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:17.588853873Z",
   "translation": "Recuerda esto, ⟨que⟩ el enemigo ha reprochado a YHWH, y ⟨que⟩ un pueblo necio ha blasfemado tu nombre.",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "Recuerda"
+      "gloss": "Recuerda"
     },
     {
       "surface": "זאת",
-      "english": "esto"
+      "gloss": "esto"
     },
     {
       "surface": "אויב",
-      "english": "el enemigo"
+      "gloss": "el enemigo"
     },
     {
       "surface": "חרף",
-      "english": "ha reprochado"
+      "gloss": "ha reprochado"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ועם",
-      "english": "y ⟨que⟩ un pueblo"
+      "gloss": "y ⟨que⟩ un pueblo"
     },
     {
       "surface": "נבל",
-      "english": "necio"
+      "gloss": "necio"
     },
     {
       "surface": "נאצו",
-      "english": "ha blasfemado"
+      "gloss": "ha blasfemado"
     },
     {
       "surface": "שמך",
-      "english": "tu nombre"
+      "gloss": "tu nombre"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:17.588853873Z",
-  "model": "glm-4.5"
+  ]
 }

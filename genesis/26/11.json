@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 26:11",
   "book": "genesis",
-  "lang": "es",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 592,
-    "prompt_tokens": 28861,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29453
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:03:23.943893765Z",
   "translation": "Y Avimelej ordenó ⟨את⟩ todo ⟨el⟩ pueblo, diciendo: ⟨El⟩ que tocare a ⟨este⟩ hombre o a su mujer, morirá ⟨muerte⟩.",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "Y ordenó"
+      "gloss": "Y ordenó"
     },
     {
       "surface": "אבימלך",
-      "english": "Avimelej"
+      "gloss": "Avimelej"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "todo ⟨el⟩ pueblo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "לאמר",
-      "english": "diciendo"
+      "gloss": "diciendo"
     },
     {
       "surface": "הנגע",
-      "english": "⟨El⟩ que tocare"
+      "gloss": "⟨El⟩ que tocare"
     },
     {
       "surface": "באיש",
-      "english": "a ⟨este⟩ hombre"
+      "gloss": "a ⟨este⟩ hombre"
     },
     {
       "surface": "הזה",
-      "english": "⟨este⟩"
+      "gloss": "⟨este⟩"
     },
     {
       "surface": "ובאשתו",
-      "english": "o a su mujer"
+      "gloss": "o a su mujer"
     },
     {
       "surface": "מות",
-      "english": "muerte"
+      "gloss": "muerte"
     },
     {
       "surface": "יומת",
-      "english": "morirá"
+      "gloss": "morirá"
     }
-  ],
-  "timestamp": "2026-07-16T21:03:23.943893765Z",
-  "model": "glm-4.5"
+  ]
 }

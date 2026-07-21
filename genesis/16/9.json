@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "genesis 16:9",
   "book": "genesis",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28565,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29078
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:13:31.530249782Z",
   "translation": "Y dijo ⟨el⟩ mensajero de YHWH: Vuelve ⟨a⟩ tu señora y humíllate bajo ⟨la⟩ mano de ella.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "לה",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "מלאך",
-      "english": "mensajero"
+      "gloss": "mensajero"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "שובי",
-      "english": "Vuelve"
+      "gloss": "Vuelve"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "גברתך",
-      "english": "tu señora"
+      "gloss": "tu señora"
     },
     {
       "surface": "והתעני",
-      "english": "y humíllate"
+      "gloss": "y humíllate"
     },
     {
       "surface": "תחת",
-      "english": "bajo"
+      "gloss": "bajo"
     },
     {
       "surface": "ידיה",
-      "english": "⟨la⟩ mano de ella"
+      "gloss": "⟨la⟩ mano de ella"
     }
-  ],
-  "timestamp": "2026-06-10T05:13:31.530249782Z",
-  "model": "glm-4.5"
+  ]
 }

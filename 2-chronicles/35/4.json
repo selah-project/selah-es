@@ -1,9 +1,71 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-chronicles 35:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 35,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:39:57.233555681Z",
+  "translation": "y prepárense por ⟨las⟩ casas de sus padres, según sus divisiones, conforme a ⟨lo⟩ escrito por Davidd, rey de Yisrael, y conforme a ⟨lo⟩ escrito por Shelomó, su hijo",
+  "tokens": [
+    {
+      "surface": "והכונו",
+      "gloss": "Y prepárense",
+      "notes": []
+    },
+    {
+      "surface": "לבית",
+      "gloss": "por ⟨las⟩ casas",
+      "notes": []
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "de sus padres",
+      "notes": []
+    },
+    {
+      "surface": "כמחלקותיכם",
+      "gloss": "según sus divisiones",
+      "notes": []
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "conforme a ⟨lo⟩ escrito",
+      "marks": "por David... y por Shelomó"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd",
+      "notes": []
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rey",
+      "notes": []
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael",
+      "notes": []
+    },
+    {
+      "surface": "ובמכתב",
+      "gloss": "y conforme a ⟨lo⟩ escrito",
+      "marks": "por Shelomó"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomó",
+      "notes": []
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su hijo",
+      "notes": []
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -20,79 +82,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 35,
-  "usage": {
-    "completion_tokens": 642,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58165,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58807
-  },
-  "translation": "y prepárense por ⟨las⟩ casas de sus padres, según sus divisiones, conforme a ⟨lo⟩ escrito por Davidd, rey de Yisrael, y conforme a ⟨lo⟩ escrito por Shelomó, su hijo",
-  "tokens": [
-    {
-      "surface": "והכונו",
-      "english": "Y prepárense",
-      "notes": []
-    },
-    {
-      "surface": "לבית",
-      "english": "por ⟨las⟩ casas",
-      "notes": []
-    },
-    {
-      "surface": "אבותיכם",
-      "english": "de sus padres",
-      "notes": []
-    },
-    {
-      "surface": "כמחלקותיכם",
-      "english": "según sus divisiones",
-      "notes": []
-    },
-    {
-      "surface": "בכתב",
-      "english": "conforme a ⟨lo⟩ escrito",
-      "marks": "por David... y por Shelomó"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd",
-      "notes": []
-    },
-    {
-      "surface": "מלך",
-      "english": "rey",
-      "notes": []
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael",
-      "notes": []
-    },
-    {
-      "surface": "ובמכתב",
-      "english": "y conforme a ⟨lo⟩ escrito",
-      "marks": "por Shelomó"
-    },
-    {
-      "surface": "שלמה",
-      "english": "Shelomó",
-      "notes": []
-    },
-    {
-      "surface": "בנו",
-      "english": "su hijo",
-      "notes": []
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:39:57.233555681Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

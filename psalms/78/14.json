@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "psalms 78:14",
   "book": "psalms",
-  "lang": "es",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69785,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70232
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:36:26.075000917Z",
   "translation": "Y los guio ⟨con⟩ una columna de nube por el día, y toda la noche ⟨con⟩ una luz de fuego.",
   "tokens": [
     {
       "surface": "וינחם",
-      "english": "Y los guio"
+      "gloss": "Y los guio"
     },
     {
       "surface": "בענן",
-      "english": "⟨con⟩ una columna de nube",
+      "gloss": "⟨con⟩ una columna de nube",
       "marks": "una columna de nube"
     },
     {
       "surface": "יומם",
-      "english": "por el día"
+      "gloss": "por el día"
     },
     {
       "surface": "וכל",
-      "english": "y toda"
+      "gloss": "y toda"
     },
     {
       "surface": "הלילה",
-      "english": "la noche"
+      "gloss": "la noche"
     },
     {
       "surface": "באור",
-      "english": "⟨con⟩ una luz",
+      "gloss": "⟨con⟩ una luz",
       "marks": "una luz"
     },
     {
       "surface": "אש",
-      "english": "de fuego"
+      "gloss": "de fuego"
     }
-  ],
-  "timestamp": "2026-06-09T23:36:26.075000917Z",
-  "model": "glm-4.5"
+  ]
 }

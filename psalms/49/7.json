@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 49:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69822,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70254
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:21:43.842042358Z",
   "translation": "⟨Los que⟩ confían ⟨en⟩ su riqueza y ⟨en⟩ la abundancia ⟨de sus⟩ riquezas ⟨se⟩ jactan",
   "tokens": [
     {
       "surface": "הבטחים",
-      "english": "Confían"
+      "gloss": "Confían"
     },
     {
       "surface": "על",
-      "english": "⟨en⟩"
+      "gloss": "⟨en⟩"
     },
     {
       "surface": "חילם",
-      "english": "su riqueza"
+      "gloss": "su riqueza"
     },
     {
       "surface": "וברב",
-      "english": "y ⟨en⟩ la abundancia"
+      "gloss": "y ⟨en⟩ la abundancia"
     },
     {
       "surface": "עשרם",
-      "english": "⟨de sus⟩ riquezas"
+      "gloss": "⟨de sus⟩ riquezas"
     },
     {
       "surface": "יתהללו",
-      "english": "⟨se⟩ jactan"
+      "gloss": "⟨se⟩ jactan"
     }
-  ],
-  "timestamp": "2026-06-09T23:21:43.842042358Z",
-  "model": "glm-4.5"
+  ]
 }

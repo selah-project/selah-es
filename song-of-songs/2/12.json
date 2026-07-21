@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "song-of-songs 2:12",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 637,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27705,
-    "prompt_tokens_details": {
-      "cached_tokens": 4883
-    },
-    "total_tokens": 28342
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:35:43.258433782Z",
   "translation": "⟨Los⟩ florecimientos han aparecido en ⟨la⟩ tierra, ⟨el⟩ tiempo ⟨del⟩ canto ⟨ha⟩ llegado, y ⟨la⟩ voz ⟨de la⟩ tórtola ⟨es⟩ oída en nuestra tierra.",
   "tokens": [
     {
       "surface": "הנצנים",
-      "english": "⟨Los⟩ florecimientos"
+      "gloss": "⟨Los⟩ florecimientos"
     },
     {
       "surface": "נראו",
-      "english": "han aparecido"
+      "gloss": "han aparecido"
     },
     {
       "surface": "בארץ",
-      "english": "en ⟨la⟩ tierra"
+      "gloss": "en ⟨la⟩ tierra"
     },
     {
       "surface": "עת",
-      "english": "⟨el⟩ tiempo"
+      "gloss": "⟨el⟩ tiempo"
     },
     {
       "surface": "הזמיר",
-      "english": "⟨del⟩ canto"
+      "gloss": "⟨del⟩ canto"
     },
     {
       "surface": "הגיע",
-      "english": "⟨ha⟩ llegado"
+      "gloss": "⟨ha⟩ llegado"
     },
     {
       "surface": "וקול",
-      "english": "y ⟨la⟩ voz"
+      "gloss": "y ⟨la⟩ voz"
     },
     {
       "surface": "התור",
-      "english": "⟨de la⟩ tórtola"
+      "gloss": "⟨de la⟩ tórtola"
     },
     {
       "surface": "נשמע",
-      "english": "⟨es⟩ oída"
+      "gloss": "⟨es⟩ oída"
     },
     {
       "surface": "בארצנו",
-      "english": "en nuestra tierra"
+      "gloss": "en nuestra tierra"
     }
-  ],
-  "timestamp": "2026-06-09T22:35:43.258433782Z",
-  "model": "glm-4.5"
+  ]
 }

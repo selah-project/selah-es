@@ -1,67 +1,56 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 5:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70190,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70804
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:59:15.994028436Z",
   "translation": "Y yo, en ⟨la⟩ abundancia de tu Jésed, vendré a tu casa; me prosternaré ⟨hacia⟩ ⟨el⟩ palacio de tu santidad, en ⟨el⟩ temor de ti.",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "Y yo"
+      "gloss": "Y yo"
     },
     {
       "surface": "ברב",
-      "english": "en ⟨la⟩ abundancia de",
+      "gloss": "en ⟨la⟩ abundancia de",
       "marks": "tu Jésed"
     },
     {
       "surface": "חסדך",
-      "english": "tu Jésed"
+      "gloss": "tu Jésed"
     },
     {
       "surface": "אבוא",
-      "english": "vendré"
+      "gloss": "vendré"
     },
     {
       "surface": "ביתך",
-      "english": "a tu casa"
+      "gloss": "a tu casa"
     },
     {
       "surface": "אשתחוה",
-      "english": "me prosternaré"
+      "gloss": "me prosternaré"
     },
     {
       "surface": "אל",
-      "english": "⟨hacia⟩"
+      "gloss": "⟨hacia⟩"
     },
     {
       "surface": "היכל",
-      "english": "⟨el⟩ palacio de",
+      "gloss": "⟨el⟩ palacio de",
       "marks": "tu santidad"
     },
     {
       "surface": "קדשך",
-      "english": "tu santidad"
+      "gloss": "tu santidad"
     },
     {
       "surface": "ביראתך",
-      "english": "en ⟨el⟩ temor de ti",
+      "gloss": "en ⟨el⟩ temor de ti",
       "marks": "tu"
     }
-  ],
-  "timestamp": "2026-06-09T22:59:15.994028436Z",
-  "model": "glm-4.5"
+  ]
 }

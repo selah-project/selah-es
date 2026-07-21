@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 7:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 295,
-    "prompt_tokens": 25883,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26178
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:22:43.936924005Z",
   "translation": "YHWH ⟨added⟩ ⟨to⟩ speak ⟨to⟩ Ajaz, ⟨to⟩ say:",
   "tokens": [
     {
       "surface": "ויוסף",
-      "english": "⟨added⟩"
+      "gloss": "⟨added⟩"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "דבר",
-      "english": "⟨to⟩ speak"
+      "gloss": "⟨to⟩ speak"
     },
     {
       "surface": "אל",
-      "english": "⟨to⟩"
+      "gloss": "⟨to⟩"
     },
     {
       "surface": "אחז",
-      "english": "Ajaz"
+      "gloss": "Ajaz"
     },
     {
       "surface": "לאמר",
-      "english": "⟨to⟩ say:"
+      "gloss": "⟨to⟩ say:"
     }
-  ],
-  "timestamp": "2026-07-16T21:22:43.936924005Z",
-  "model": "glm-4.5"
+  ]
 }

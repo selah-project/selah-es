@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "judges 12:8",
   "book": "judges",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 241,
-    "prompt_tokens": 23317,
-    "prompt_tokens_details": {
-      "cached_tokens": 22144
-    },
-    "total_tokens": 23558
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:26:53.451930833Z",
   "translation": "Y juzgó después de él a ⟨Yisrael⟩ Ibtsán de Bet-Léjem",
   "tokens": [
     {
       "surface": "וישפט",
-      "english": "Y juzgó"
+      "gloss": "Y juzgó"
     },
     {
       "surface": "אחריו",
-      "english": "después de él"
+      "gloss": "después de él"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Yisrael"
     },
     {
       "surface": "ישראל",
-      "english": "Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אבצן",
-      "english": "Ibtsán"
+      "gloss": "Ibtsán"
     },
     {
       "surface": "מבית",
-      "english": "de Bet-"
+      "gloss": "de Bet-"
     },
     {
       "surface": "לחם",
-      "english": "Léjem"
+      "gloss": "Léjem"
     }
-  ],
-  "timestamp": "2026-07-16T22:26:53.451930833Z",
-  "model": "glm-4.5"
+  ]
 }

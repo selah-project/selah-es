@@ -1,37 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "1-chronicles 16:18",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
-  "substitutions": [
-    {
-      "from": "Canaán",
-      "to": "Kenaan",
-      "token-index": 4,
-      "strongs": 3667,
-      "hebrew": "כנען"
-    }
-  ],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 735,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56629,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 57364
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:45:34.501238171Z",
   "translation": "⟨Él⟩ dice, 'A ti ⟨es⟩ para dar ⟨la⟩ tierra de Kenaan; ⟨la⟩ porción de vuestra heredad'",
   "tokens": [
     {
       "surface": "לאמר",
-      "english": "⟨Él⟩ dice",
+      "gloss": "⟨Él⟩ dice",
       "notes": [
         {
           "kind": "addition",
@@ -42,12 +22,12 @@
     },
     {
       "surface": "לך",
-      "english": "a ti",
+      "gloss": "a ti",
       "notes": []
     },
     {
       "surface": "אתן",
-      "english": "⟨es⟩ para dar",
+      "gloss": "⟨es⟩ para dar",
       "notes": [
         {
           "kind": "addition",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "ארץ",
-      "english": "⟨la⟩ tierra",
+      "gloss": "⟨la⟩ tierra",
       "notes": [
         {
           "kind": "addition",
@@ -69,12 +49,12 @@
     },
     {
       "surface": "כנען",
-      "english": "de Kenaan",
+      "gloss": "de Kenaan",
       "notes": []
     },
     {
       "surface": "חבל",
-      "english": "⟨la⟩ porción",
+      "gloss": "⟨la⟩ porción",
       "notes": [
         {
           "kind": "substitution",
@@ -90,7 +70,7 @@
     },
     {
       "surface": "נחלתכם",
-      "english": "de vuestra heredad",
+      "gloss": "de vuestra heredad",
       "notes": [
         {
           "kind": "you",
@@ -100,7 +80,16 @@
       ]
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:45:34.501238171Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [
+    {
+      "from": "Canaán",
+      "to": "Kenaan",
+      "token-index": 4,
+      "strongs": 3667,
+      "hebrew": "כנען"
+    }
+  ],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "1-chronicles 28:2",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 28,
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:58:07.113797211Z",
+  "translation": "Y se ⟨puso⟩ de pie Davidd ⟨el⟩ rey sobre sus pies, y dijo: Escuchadme, hermanos míos y ⟨el⟩ pueblo mío: yo ⟨estaba⟩ con ⟨el⟩ corazón para edificar ⟨una⟩ casa de reposo para ⟨el⟩ Arón ⟨de⟩ Brit ⟨de⟩ YHWH y ⟨para⟩ ⟨el⟩ estrado de ⟨los⟩ pies de ⟨nuestro⟩ Elohim, y ⟨he⟩ preparado para edificar.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Y se ⟨puso⟩ de pie"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sus pies"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "y dijo"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Escuchadme"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hermanos míos"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "y ⟨el⟩ pueblo mío"
+    },
+    {
+      "surface": "אני",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨estaba⟩ con"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "⟨el⟩ corazón"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "para edificar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨una⟩ casa"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "de reposo"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "para ⟨el⟩ Arón"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨de⟩ Brit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "ולהדם",
+      "gloss": "y ⟨para⟩ ⟨el⟩ estrado"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "de ⟨los⟩ pies"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "de ⟨nuestro⟩ Elohim"
+    },
+    {
+      "surface": "והכינותי",
+      "gloss": "y ⟨he⟩ preparado"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "para edificar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,116 +112,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 28,
-  "usage": {
-    "completion_tokens": 1143,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58342,
-    "prompt_tokens_details": {
-      "cached_tokens": 55703
-    },
-    "total_tokens": 59485
-  },
-  "translation": "Y se ⟨puso⟩ de pie Davidd ⟨el⟩ rey sobre sus pies, y dijo: Escuchadme, hermanos míos y ⟨el⟩ pueblo mío: yo ⟨estaba⟩ con ⟨el⟩ corazón para edificar ⟨una⟩ casa de reposo para ⟨el⟩ Arón ⟨de⟩ Brit ⟨de⟩ YHWH y ⟨para⟩ ⟨el⟩ estrado de ⟨los⟩ pies de ⟨nuestro⟩ Elohim, y ⟨he⟩ preparado para edificar.",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Y se ⟨puso⟩ de pie"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "המלך",
-      "english": "⟨el⟩ rey"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "רגליו",
-      "english": "sus pies"
-    },
-    {
-      "surface": "ויאמר",
-      "english": "y dijo"
-    },
-    {
-      "surface": "שמעוני",
-      "english": "Escuchadme"
-    },
-    {
-      "surface": "אחי",
-      "english": "hermanos míos"
-    },
-    {
-      "surface": "ועמי",
-      "english": "y ⟨el⟩ pueblo mío"
-    },
-    {
-      "surface": "אני",
-      "english": "yo"
-    },
-    {
-      "surface": "עם",
-      "english": "⟨estaba⟩ con"
-    },
-    {
-      "surface": "לבבי",
-      "english": "⟨el⟩ corazón"
-    },
-    {
-      "surface": "לבנות",
-      "english": "para edificar"
-    },
-    {
-      "surface": "בית",
-      "english": "⟨una⟩ casa"
-    },
-    {
-      "surface": "מנוחה",
-      "english": "de reposo"
-    },
-    {
-      "surface": "לארון",
-      "english": "para ⟨el⟩ Arón"
-    },
-    {
-      "surface": "ברית",
-      "english": "⟨de⟩ Brit"
-    },
-    {
-      "surface": "יהוה",
-      "english": "⟨de⟩ YHWH"
-    },
-    {
-      "surface": "ולהדם",
-      "english": "y ⟨para⟩ ⟨el⟩ estrado"
-    },
-    {
-      "surface": "רגלי",
-      "english": "de ⟨los⟩ pies"
-    },
-    {
-      "surface": "אלהינו",
-      "english": "de ⟨nuestro⟩ Elohim"
-    },
-    {
-      "surface": "והכינותי",
-      "english": "y ⟨he⟩ preparado"
-    },
-    {
-      "surface": "לבנות",
-      "english": "para edificar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:58:07.113797211Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

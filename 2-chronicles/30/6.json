@@ -1,9 +1,132 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "2-chronicles 30:6",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 30,
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:33:31.329554629Z",
+  "translation": "Y fueron los correos con ⟨las⟩ cartas de mano del rey y sus príncipes por todo Yisrael y Judá, según ⟨el⟩ mandamiento del rey, diciendo: Hijos de Yisrael, volved ⟨a⟩ YHWH, ⟨el⟩ Elohim de Avraham, Yitsjak y Yisrael, y él ⟨se⟩ volverá ⟨a⟩ la remanente escapada ⟨de⟩ vosotros de mano de los reyes de Ashur.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Y fueron"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "los correos"
+    },
+    {
+      "surface": "באגרות",
+      "gloss": "con ⟨las⟩ cartas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de mano"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del rey"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "y sus príncipes"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "por todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "y Judá"
+    },
+    {
+      "surface": "וכמצות",
+      "gloss": "según ⟨el⟩ mandamiento"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del rey"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "volved"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨el⟩ Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "de Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsjak"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "y Yisrael"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "y él ⟨se⟩ volverá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "הפליטה",
+      "gloss": "la remanente escapada"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "⟨de⟩ vosotros"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "de mano"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "de"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "los reyes"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "de Ashur"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -20,140 +143,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 30,
-  "usage": {
-    "completion_tokens": 1007,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59842,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60849
-  },
-  "translation": "Y fueron los correos con ⟨las⟩ cartas de mano del rey y sus príncipes por todo Yisrael y Judá, según ⟨el⟩ mandamiento del rey, diciendo: Hijos de Yisrael, volved ⟨a⟩ YHWH, ⟨el⟩ Elohim de Avraham, Yitsjak y Yisrael, y él ⟨se⟩ volverá ⟨a⟩ la remanente escapada ⟨de⟩ vosotros de mano de los reyes de Ashur.",
-  "tokens": [
-    {
-      "surface": "וילכו",
-      "english": "Y fueron"
-    },
-    {
-      "surface": "הרצים",
-      "english": "los correos"
-    },
-    {
-      "surface": "באגרות",
-      "english": "con ⟨las⟩ cartas"
-    },
-    {
-      "surface": "מיד",
-      "english": "de mano"
-    },
-    {
-      "surface": "המלך",
-      "english": "del rey"
-    },
-    {
-      "surface": "ושריו",
-      "english": "y sus príncipes"
-    },
-    {
-      "surface": "בכל",
-      "english": "por todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "y Judá"
-    },
-    {
-      "surface": "וכמצות",
-      "english": "según ⟨el⟩ mandamiento"
-    },
-    {
-      "surface": "המלך",
-      "english": "del rey"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "בני",
-      "english": "Hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    },
-    {
-      "surface": "שובו",
-      "english": "volved"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "אלהי",
-      "english": "⟨el⟩ Elohim"
-    },
-    {
-      "surface": "אברהם",
-      "english": "de Avraham"
-    },
-    {
-      "surface": "יצחק",
-      "english": "Yitsjak"
-    },
-    {
-      "surface": "וישראל",
-      "english": "y Yisrael"
-    },
-    {
-      "surface": "וישב",
-      "english": "y él ⟨se⟩ volverá"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "הפליטה",
-      "english": "la remanente escapada"
-    },
-    {
-      "surface": "הנשארת",
-      "english": "⟨de⟩ vosotros"
-    },
-    {
-      "surface": "לכם",
-      "english": "de mano"
-    },
-    {
-      "surface": "מכף",
-      "english": "de"
-    },
-    {
-      "surface": "מלכי",
-      "english": "los reyes"
-    },
-    {
-      "surface": "אשור",
-      "english": "de Ashur"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:33:31.329554629Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

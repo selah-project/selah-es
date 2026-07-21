@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "job 20:8",
   "book": "job",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27124,
-    "prompt_tokens_details": {
-      "cached_tokens": 26085
-    },
-    "total_tokens": 27551
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T06:39:21.351264028Z",
   "translation": "Como un sueño ⟨se irá⟩ volando y no lo hallarán; ⟨y será⟩ perseguido ⟨como⟩ visión de ⟨la⟩ noche",
   "tokens": [
     {
       "surface": "כחלום",
-      "english": "Como un sueño"
+      "gloss": "Como un sueño"
     },
     {
       "surface": "יעוף",
-      "english": "⟨se irá⟩ volando"
+      "gloss": "⟨se irá⟩ volando"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "ימצאוהו",
-      "english": "lo hallarán"
+      "gloss": "lo hallarán"
     },
     {
       "surface": "וידד",
-      "english": "⟨y será⟩ perseguido"
+      "gloss": "⟨y será⟩ perseguido"
     },
     {
       "surface": "כחזיון",
-      "english": "⟨como⟩ visión"
+      "gloss": "⟨como⟩ visión"
     },
     {
       "surface": "לילה",
-      "english": "de ⟨la⟩ noche"
+      "gloss": "de ⟨la⟩ noche"
     }
-  ],
-  "timestamp": "2026-06-10T06:39:21.351264028Z",
-  "model": "glm-4.5"
+  ]
 }

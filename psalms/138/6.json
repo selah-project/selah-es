@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 138:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 138,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70021,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70429
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:08:11.967407523Z",
   "translation": "Porque Alto ⟨es⟩ YHWH, y ⟨al⟩ humilde ⟨lo⟩ ve, pero ⟨al⟩ altivo ⟨desde⟩ lejos ⟨lo⟩ conoce.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "רם",
-      "english": "Alto"
+      "gloss": "Alto"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "ושפל",
-      "english": "y ⟨al⟩ humilde"
+      "gloss": "y ⟨al⟩ humilde"
     },
     {
       "surface": "יראה",
-      "english": "⟨lo⟩ ve"
+      "gloss": "⟨lo⟩ ve"
     },
     {
       "surface": "וגבה",
-      "english": "pero ⟨al⟩ altivo"
+      "gloss": "pero ⟨al⟩ altivo"
     },
     {
       "surface": "ממרחק",
-      "english": "⟨desde⟩ lejos"
+      "gloss": "⟨desde⟩ lejos"
     },
     {
       "surface": "יידע",
-      "english": "⟨lo⟩ conoce"
+      "gloss": "⟨lo⟩ conoce"
     }
-  ],
-  "timestamp": "2026-06-10T00:08:11.967407523Z",
-  "model": "glm-4.5"
+  ]
 }

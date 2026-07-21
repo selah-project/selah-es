@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 14:15",
   "book": "job",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27051,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27430
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:01:02.298075262Z",
   "translation": "Tú llamarás y ⟨yo⟩ responderé; ⟨tú⟩ tendrás deseo ⟨por⟩ ⟨el⟩ ⟨la⟩ obra ⟨de⟩ ⟨tus⟩ manos.",
   "tokens": [
     {
       "surface": "תקרא",
-      "english": "Tú llamarás"
+      "gloss": "Tú llamarás"
     },
     {
       "surface": "ואנכי",
-      "english": "y ⟨yo⟩"
+      "gloss": "y ⟨yo⟩"
     },
     {
       "surface": "אענך",
-      "english": "responderé"
+      "gloss": "responderé"
     },
     {
       "surface": "למעשה",
-      "english": "⟨por⟩ ⟨el⟩ ⟨la⟩ obra"
+      "gloss": "⟨por⟩ ⟨el⟩ ⟨la⟩ obra"
     },
     {
       "surface": "ידיך",
-      "english": "⟨de⟩ ⟨tus⟩ manos"
+      "gloss": "⟨de⟩ ⟨tus⟩ manos"
     },
     {
       "surface": "תכסף",
-      "english": "⟨tú⟩ tendrás deseo"
+      "gloss": "⟨tú⟩ tendrás deseo"
     }
-  ],
-  "timestamp": "2026-06-10T02:01:02.298075262Z",
-  "model": "glm-4.5"
+  ]
 }

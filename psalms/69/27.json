@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "psalms 69:27",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70030,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70551
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:32:07.813752240Z",
   "translation": "Porque tú ⟨eres⟩ ⟨el⟩ que ⟨has⟩ golpeado ⟨y⟩ ⟨ellos⟩ persiguen, ⟨y⟩ a ⟨la⟩ angustia de ⟨tus⟩ heridos ⟨ellos⟩ contarán.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "אתה",
-      "english": "tú ⟨eres⟩"
+      "gloss": "tú ⟨eres⟩"
     },
     {
       "surface": "אשר",
-      "english": "⟨el⟩ que"
+      "gloss": "⟨el⟩ que"
     },
     {
       "surface": "הכית",
-      "english": "⟨has⟩ golpeado"
+      "gloss": "⟨has⟩ golpeado"
     },
     {
       "surface": "רדפו",
-      "english": "⟨y⟩ ⟨ellos⟩ persiguen"
+      "gloss": "⟨y⟩ ⟨ellos⟩ persiguen"
     },
     {
       "surface": "ואל",
-      "english": "⟨y⟩ a"
+      "gloss": "⟨y⟩ a"
     },
     {
       "surface": "מכאוב",
-      "english": "⟨la⟩ angustia"
+      "gloss": "⟨la⟩ angustia"
     },
     {
       "surface": "חלליך",
-      "english": "de ⟨tus⟩ heridos"
+      "gloss": "de ⟨tus⟩ heridos"
     },
     {
       "surface": "יספרו",
-      "english": "⟨ellos⟩ contarán"
+      "gloss": "⟨ellos⟩ contarán"
     }
-  ],
-  "timestamp": "2026-06-09T23:32:07.813752240Z",
-  "model": "glm-4.5"
+  ]
 }

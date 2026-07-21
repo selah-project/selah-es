@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 54,
   "ref": "psalms 119:54",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69702,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69986
-  },
+  "verse": 54,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:59:35.332857401Z",
   "translation": "canciones ⟨han sido⟩ ⟨para⟩ mí tus estatutos en ⟨la⟩ casa de mi peregrinación",
   "tokens": [
     {
       "surface": "זמרות",
-      "english": "Canciones"
+      "gloss": "Canciones"
     },
     {
       "surface": "היו",
-      "english": "⟨han sido⟩"
+      "gloss": "⟨han sido⟩"
     },
     {
       "surface": "לי",
-      "english": "⟨para⟩ mí"
+      "gloss": "⟨para⟩ mí"
     },
     {
       "surface": "חקיך",
-      "english": "tus estatutos"
+      "gloss": "tus estatutos"
     },
     {
       "surface": "בבית",
-      "english": "en ⟨la⟩ casa"
+      "gloss": "en ⟨la⟩ casa"
     },
     {
       "surface": "מגורי",
-      "english": "de mi peregrinación"
+      "gloss": "de mi peregrinación"
     }
-  ],
-  "timestamp": "2026-06-09T23:59:35.332857401Z",
-  "model": "glm-4.5"
+  ]
 }

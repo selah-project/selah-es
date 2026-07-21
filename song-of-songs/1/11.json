@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "song-of-songs 1:11",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 27433,
-    "prompt_tokens_details": {
-      "cached_tokens": 26496
-    },
-    "total_tokens": 27868
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:48:46.244300376Z",
   "translation": "Hilos de oro ⟨haremos⟩ para ti ⟨con⟩ punctas de plata",
   "tokens": [
     {
       "surface": "תורי",
-      "english": "Hilos",
+      "gloss": "Hilos",
       "notes": "plural de תור (hilo\/cadena); hapax legómenon en el Tanaj"
     },
     {
       "surface": "זהב",
-      "english": "de oro"
+      "gloss": "de oro"
     },
     {
       "surface": "נעשה",
-      "english": "⟨haremos⟩"
+      "gloss": "⟨haremos⟩"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "עם",
-      "english": "⟨con⟩"
+      "gloss": "⟨con⟩"
     },
     {
       "surface": "נקדות",
-      "english": "punctas",
+      "gloss": "punctas",
       "notes": "plural de נקודה; literalmente 'puntos' o 'bordes con puntas'; hapax legómenon"
     },
     {
       "surface": "הכסף",
-      "english": "de plata"
+      "gloss": "de plata"
     }
-  ],
-  "timestamp": "2026-07-16T23:48:46.244300376Z",
-  "model": "glm-4.5"
+  ]
 }

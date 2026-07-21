@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 95:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 95,
-  "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69818,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70338
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:28.652368690Z",
   "translation": "Venimos ⟨a⟩ su faz con ⟨un⟩ agradecimiento, con cánticos gritamos ⟨en⟩ ⟨júbilo⟩ ⟨a⟩ él",
   "tokens": [
     {
       "surface": "נקדמה",
-      "english": "Venimos"
+      "gloss": "Venimos"
     },
     {
       "surface": "פניו",
-      "english": "⟨a⟩ su faz",
+      "gloss": "⟨a⟩ su faz",
       "marks": "su faz"
     },
     {
       "surface": "בתודה",
-      "english": "con ⟨un⟩ agradecimiento"
+      "gloss": "con ⟨un⟩ agradecimiento"
     },
     {
       "surface": "בזמרות",
-      "english": "con cánticos"
+      "gloss": "con cánticos"
     },
     {
       "surface": "נריע",
-      "english": "gritamos ⟨en⟩ ⟨júbilo⟩"
+      "gloss": "gritamos ⟨en⟩ ⟨júbilo⟩"
     },
     {
       "surface": "לו",
-      "english": "⟨a⟩ él",
+      "gloss": "⟨a⟩ él",
       "marks": "él"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:28.652368690Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "nahum 2:9",
   "book": "nahum",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23713,
-    "prompt_tokens_details": {
-      "cached_tokens": 22371
-    },
-    "total_tokens": 24270
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:24:00.694967855Z",
   "translation": "Y Nineveh ⟨como⟩ un estanque de aguas ⟨desde⟩ sus días ⟨ella⟩ y ellos huyen deténganse deténganse y no hay ⟨quien⟩ vuelva ⟨el rostro⟩",
   "tokens": [
     {
       "surface": "ונינוה",
-      "english": "Y Nineveh"
+      "gloss": "Y Nineveh"
     },
     {
       "surface": "כברכת",
-      "english": "⟨como⟩ un estanque"
+      "gloss": "⟨como⟩ un estanque"
     },
     {
       "surface": "מים",
-      "english": "de aguas"
+      "gloss": "de aguas"
     },
     {
       "surface": "מימי",
-      "english": "⟨desde⟩ sus días"
+      "gloss": "⟨desde⟩ sus días"
     },
     {
       "surface": "היא",
-      "english": "⟨ella⟩"
+      "gloss": "⟨ella⟩"
     },
     {
       "surface": "והמה",
-      "english": "y ellos"
+      "gloss": "y ellos"
     },
     {
       "surface": "נסים",
-      "english": "huyen"
+      "gloss": "huyen"
     },
     {
       "surface": "עמדו",
-      "english": "deténganse"
+      "gloss": "deténganse"
     },
     {
       "surface": "עמדו",
-      "english": "deténganse"
+      "gloss": "deténganse"
     },
     {
       "surface": "ואין",
-      "english": "y no hay"
+      "gloss": "y no hay"
     },
     {
       "surface": "מפנה",
-      "english": "⟨quien⟩ vuelva ⟨el rostro⟩"
+      "gloss": "⟨quien⟩ vuelva ⟨el rostro⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:24:00.694967855Z",
-  "model": "glm-4.5"
+  ]
 }

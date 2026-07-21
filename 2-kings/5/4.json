@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "2-kings 5:4",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 5,
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:24:07.214159374Z",
+  "translation": "Y vino y anunció a su señor, diciendo: así y así ⟨ha⟩ hablado la doncella que ⟨es⟩ de ⟨la⟩ tierra de Yisrael",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Y vino"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "y anunció"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "a su señor"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "así"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "y así"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "hablado"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "la doncella"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de ⟨la⟩ tierra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,68 +64,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16805,
-    "prompt_tokens_details": {
-      "cached_tokens": 15439
-    },
-    "total_tokens": 17236
-  },
-  "translation": "Y vino y anunció a su señor, diciendo: así y así ⟨ha⟩ hablado la doncella que ⟨es⟩ de ⟨la⟩ tierra de Yisrael",
-  "tokens": [
-    {
-      "surface": "ויבא",
-      "english": "Y vino"
-    },
-    {
-      "surface": "ויגד",
-      "english": "y anunció"
-    },
-    {
-      "surface": "לאדניו",
-      "english": "a su señor"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "כזאת",
-      "english": "así"
-    },
-    {
-      "surface": "וכזאת",
-      "english": "y así"
-    },
-    {
-      "surface": "דברה",
-      "english": "hablado"
-    },
-    {
-      "surface": "הנערה",
-      "english": "la doncella"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "מארץ",
-      "english": "de ⟨la⟩ tierra"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:24:07.214159374Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

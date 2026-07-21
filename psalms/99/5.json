@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 99:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 99,
-  "usage": {
-    "completion_tokens": 526,
-    "prompt_tokens": 70159,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70685
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:43.223074113Z",
   "translation": "Exaltad a YHWH nuestro Elohim y postraos ante ⟨el⟩ estrado de sus pies; santo ⟨es⟩ Él.",
   "tokens": [
     {
       "surface": "רוממו",
-      "english": "Exaltad"
+      "gloss": "Exaltad"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהינו",
-      "english": "nuestro Elohim"
+      "gloss": "nuestro Elohim"
     },
     {
       "surface": "והשתחוו",
-      "english": "y postraos"
+      "gloss": "y postraos"
     },
     {
       "surface": "להדם",
-      "english": "ante ⟨el⟩ estrado"
+      "gloss": "ante ⟨el⟩ estrado"
     },
     {
       "surface": "רגליו",
-      "english": "de sus pies"
+      "gloss": "de sus pies"
     },
     {
       "surface": "קדוש",
-      "english": "santo"
+      "gloss": "santo"
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩ Él"
+      "gloss": "⟨es⟩ Él"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:43.223074113Z",
-  "model": "glm-4.5"
+  ]
 }

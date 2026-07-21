@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "proverbs 10:14",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59808,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60320
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:35:09.598576358Z",
   "translation": "Los sabios ⟨esconden⟩ conocimiento ⟨את⟩ ⟨el conocimiento⟩ y ⟨la⟩ boca ⟨del⟩ necio ⟨está⟩ ⟨cerca⟩ ⟨de⟩ ⟨la⟩ destrucción inminente",
   "tokens": [
     {
       "surface": "חכמים",
-      "english": "Los sabios"
+      "gloss": "Los sabios"
     },
     {
       "surface": "יצפנו",
-      "english": "⟨esconden⟩"
+      "gloss": "⟨esconden⟩"
     },
     {
       "surface": "דעת",
-      "english": "conocimiento"
+      "gloss": "conocimiento"
     },
     {
       "surface": "ופי",
-      "english": "y ⟨la⟩ boca"
+      "gloss": "y ⟨la⟩ boca"
     },
     {
       "surface": "אויל",
-      "english": "⟨del⟩ necio"
+      "gloss": "⟨del⟩ necio"
     },
     {
       "surface": "מחתה",
-      "english": "destrucción inminente"
+      "gloss": "destrucción inminente"
     },
     {
       "surface": "קרבה",
-      "english": "⟨está⟩ ⟨cerca⟩ ⟨de⟩ ⟨la⟩"
+      "gloss": "⟨está⟩ ⟨cerca⟩ ⟨de⟩ ⟨la⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:35:09.598576358Z",
-  "model": "glm-4.5"
+  ]
 }

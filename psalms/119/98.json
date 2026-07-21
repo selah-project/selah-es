@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 98,
   "ref": "psalms 119:98",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 762,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69820,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70582
-  },
+  "verse": 98,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:01:09.023708064Z",
   "translation": "⟨Por⟩ ⟨medio de⟩ ⟨tus⟩ mandamientos ⟨tú⟩ ⟨has hecho⟩ ⟨que⟩ yo ⟨sea⟩ ⟨más⟩ sabio ⟨que⟩ ⟨mis⟩ enemigos ⟨את⟩; porque ⟨ellos⟩ son ⟨para⟩ siempre ⟨conmigo⟩.",
   "tokens": [
     {
       "surface": "מאיבי",
-      "english": "⟨Por⟩ ⟨medio de⟩ ⟨tus⟩ mandamientos",
+      "gloss": "⟨Por⟩ ⟨medio de⟩ ⟨tus⟩ mandamientos",
       "marks": "⟨tú⟩ ⟨has hecho⟩ ⟨que⟩ yo ⟨sea⟩ ⟨más⟩ sabio ⟨que⟩ ⟨mis⟩ enemigos"
     },
     {
       "surface": "תחכמני",
-      "english": "⟨tú⟩ ⟨has hecho⟩ ⟨que⟩ yo ⟨sea⟩ ⟨más⟩ sabio",
+      "gloss": "⟨tú⟩ ⟨has hecho⟩ ⟨que⟩ yo ⟨sea⟩ ⟨más⟩ sabio",
       "marks": "⟨que⟩ yo ⟨sea⟩ ⟨más⟩ sabio"
     },
     {
       "surface": "מצותך",
-      "english": "⟨tus⟩ mandamientos",
+      "gloss": "⟨tus⟩ mandamientos",
       "marks": "mandamientos"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לעולם",
-      "english": "⟨para⟩ siempre"
+      "gloss": "⟨para⟩ siempre"
     },
     {
       "surface": "היא",
-      "english": "⟨ellos⟩ son",
+      "gloss": "⟨ellos⟩ son",
       "marks": "⟨tus⟩ mandamientos"
     },
     {
       "surface": "לי",
-      "english": "⟨conmigo⟩"
+      "gloss": "⟨conmigo⟩"
     }
-  ],
-  "timestamp": "2026-06-10T00:01:09.023708064Z",
-  "model": "glm-4.5"
+  ]
 }

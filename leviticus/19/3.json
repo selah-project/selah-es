@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "leviticus 19:3",
   "book": "leviticus",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 542,
-    "prompt_tokens": 24903,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25445
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:42:33.755520417Z",
   "translation": "Cada hombre ⟨a⟩ su madre y ⟨a⟩ su padre temerá, y ⟨את⟩ mis Shabbats guardaréis; Yo ⟨soy⟩ YHWH vuestro Elohim.",
   "tokens": [
     {
       "surface": "איש",
-      "english": "Cada hombre"
+      "gloss": "Cada hombre"
     },
     {
       "surface": "אמו",
-      "english": "su madre"
+      "gloss": "su madre"
     },
     {
       "surface": "ואביו",
-      "english": "y ⟨a⟩ su padre"
+      "gloss": "y ⟨a⟩ su padre"
     },
     {
       "surface": "תיראו",
-      "english": "temerá"
+      "gloss": "temerá"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "mis Shabbats"
     },
     {
       "surface": "שבתתי",
-      "english": "mis Shabbats"
+      "gloss": "mis Shabbats"
     },
     {
       "surface": "תשמרו",
-      "english": "guardaréis"
+      "gloss": "guardaréis"
     },
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיכם",
-      "english": "vuestro Elohim"
+      "gloss": "vuestro Elohim"
     }
-  ],
-  "timestamp": "2026-07-16T22:42:33.755520417Z",
-  "model": "glm-4.5"
+  ]
 }

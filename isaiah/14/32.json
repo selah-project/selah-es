@@ -1,73 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "isaiah 14:32",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 577,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26441,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27018
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:30:22.017821320Z",
   "translation": "Y qué responderá ⟨el⟩ mensajero de nación? Porque YHWH fundó ⟨a⟩ Sion, y en ella se refugiarán ⟨los⟩ afligidos de su pueblo.",
   "tokens": [
     {
       "surface": "ומה",
-      "english": "Y qué"
+      "gloss": "Y qué"
     },
     {
       "surface": "יענה",
-      "english": "responderá"
+      "gloss": "responderá"
     },
     {
       "surface": "מלאכי",
-      "english": "⟨el⟩ mensajero"
+      "gloss": "⟨el⟩ mensajero"
     },
     {
       "surface": "גוי",
-      "english": "de nación"
+      "gloss": "de nación"
     },
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "יסד",
-      "english": "fundó"
+      "gloss": "fundó"
     },
     {
       "surface": "ציון",
-      "english": "⟨a⟩ Sion",
+      "gloss": "⟨a⟩ Sion",
       "marks": "Sion"
     },
     {
       "surface": "ובה",
-      "english": "y en ella"
+      "gloss": "y en ella"
     },
     {
       "surface": "יחסו",
-      "english": "se refugiarán"
+      "gloss": "se refugiarán"
     },
     {
       "surface": "עניי",
-      "english": "⟨los⟩ afligidos"
+      "gloss": "⟨los⟩ afligidos"
     },
     {
       "surface": "עמו",
-      "english": "de su pueblo"
+      "gloss": "de su pueblo"
     }
-  ],
-  "timestamp": "2026-06-10T02:30:22.017821320Z",
-  "model": "glm-4.5"
+  ]
 }

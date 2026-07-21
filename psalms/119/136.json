@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 136,
   "ref": "psalms 119:136",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69930,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70300
-  },
+  "verse": 136,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:02:12.814472316Z",
   "translation": "Arroyos de aguas ⟨han⟩ descendido de mis ojos, porque ⟨no⟩ ⟨han⟩ guardado tu Torá.",
   "tokens": [
     {
       "surface": "פלגי",
-      "english": "Arroyos de aguas"
+      "gloss": "Arroyos de aguas"
     },
     {
       "surface": "מים",
-      "english": "aguas"
+      "gloss": "aguas"
     },
     {
       "surface": "ירדו",
-      "english": "⟨han⟩ descendido"
+      "gloss": "⟨han⟩ descendido"
     },
     {
       "surface": "עיני",
-      "english": "de mis ojos"
+      "gloss": "de mis ojos"
     },
     {
       "surface": "על",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "שמרו",
-      "english": "⟨han⟩ guardado"
+      "gloss": "⟨han⟩ guardado"
     },
     {
       "surface": "תורתך",
-      "english": "tu Torá"
+      "gloss": "tu Torá"
     }
-  ],
-  "timestamp": "2026-06-10T00:02:12.814472316Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,80 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-kings 22:1",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 22,
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:43:57.067441935Z",
+  "translation": "Hijo de ocho años ⟨era⟩ Yoshiyahu cuando comenzó a reinar, y treinta y un años reinó en Jerusalén; y ⟨el⟩ nombre de su madre ⟨era⟩ Yedidá hija de Adáías de Bozcat.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Hijo"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ocho"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "cuando comenzó a reinar"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "y treinta"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "y un"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "años"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reinó"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "en Jerusalén"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "y ⟨el⟩ nombre"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de su madre"
+    },
+    {
+      "surface": "ידידה",
+      "gloss": "Yedidá"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hija"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "de Adáías"
+    },
+    {
+      "surface": "מבצקת",
+      "gloss": "de Bozcat"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Josías",
@@ -13,88 +84,6 @@
       "hebrew": "יאשיהו"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17271,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17743
-  },
-  "translation": "Hijo de ocho años ⟨era⟩ Yoshiyahu cuando comenzó a reinar, y treinta y un años reinó en Jerusalén; y ⟨el⟩ nombre de su madre ⟨era⟩ Yedidá hija de Adáías de Bozcat.",
-  "tokens": [
-    {
-      "surface": "בן",
-      "english": "Hijo"
-    },
-    {
-      "surface": "שמנה",
-      "english": "ocho"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "יאשיהו",
-      "english": "Yoshiyahu"
-    },
-    {
-      "surface": "במלכו",
-      "english": "cuando comenzó a reinar"
-    },
-    {
-      "surface": "ושלשים",
-      "english": "y treinta"
-    },
-    {
-      "surface": "ואחת",
-      "english": "y un"
-    },
-    {
-      "surface": "שנה",
-      "english": "años"
-    },
-    {
-      "surface": "מלך",
-      "english": "reinó"
-    },
-    {
-      "surface": "בירושלם",
-      "english": "en Jerusalén"
-    },
-    {
-      "surface": "ושם",
-      "english": "y ⟨el⟩ nombre"
-    },
-    {
-      "surface": "אמו",
-      "english": "de su madre"
-    },
-    {
-      "surface": "ידידה",
-      "english": "Yedidá"
-    },
-    {
-      "surface": "בת",
-      "english": "hija"
-    },
-    {
-      "surface": "עדיה",
-      "english": "de Adáías"
-    },
-    {
-      "surface": "מבצקת",
-      "english": "de Bozcat"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:43:57.067441935Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

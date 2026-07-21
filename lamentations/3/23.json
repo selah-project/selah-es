@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "lamentations 3:23",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38756,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39115
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:42:02.603528688Z",
   "translation": "⟨Las⟩ nuevos ⟨son⟩ cada mañana, abundante ⟨es⟩ tu fidelidad",
   "tokens": [
     {
       "surface": "חדשים",
-      "english": "Nuevos",
+      "gloss": "Nuevos",
       "marks": null
     },
     {
       "surface": "לבקרים",
-      "english": "cada mañana",
+      "gloss": "cada mañana",
       "marks": null
     },
     {
       "surface": "רבה",
-      "english": "abundante",
+      "gloss": "abundante",
       "marks": null
     },
     {
       "surface": "אמונתך",
-      "english": "tu fidelidad",
+      "gloss": "tu fidelidad",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-09T22:42:02.603528688Z",
-  "model": "glm-4.5"
+  ]
 }

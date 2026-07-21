@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 18:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 493,
-    "prompt_tokens": 69978,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70471
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:26:31.915005801Z",
   "translation": "Desde el resplandor ⟨que está⟩ ante él pasaron ⟨sus⟩ espesas nubes, granizo y brasas de fuego.",
   "tokens": [
     {
       "surface": "מנגה",
-      "english": "Desde el resplandor"
+      "gloss": "Desde el resplandor"
     },
     {
       "surface": "נגדו",
-      "english": "ante él"
+      "gloss": "ante él"
     },
     {
       "surface": "עביו",
-      "english": "pasaron ⟨sus⟩ espesas nubes",
+      "gloss": "pasaron ⟨sus⟩ espesas nubes",
       "rationale": "Literalmente 'desde su espesor'; la raíz עב sugiere nube oscura o densidad; el verbo principal 'pasaron' se infiere del contexto del versículo 12."
     },
     {
       "surface": "עברו",
-      "english": "pasaron"
+      "gloss": "pasaron"
     },
     {
       "surface": "ברד",
-      "english": "granizo"
+      "gloss": "granizo"
     },
     {
       "surface": "וגחלי",
-      "english": "y brasas"
+      "gloss": "y brasas"
     },
     {
       "surface": "אש",
-      "english": "de fuego"
+      "gloss": "de fuego"
     }
-  ],
-  "timestamp": "2026-07-16T23:26:31.915005801Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "job 35:4",
   "book": "job",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 308,
-    "prompt_tokens": 27083,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27391
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:01:48.158551400Z",
   "translation": "Yo te responderé con palabras, y ⟨את⟩ tus compañeros contigo.",
   "tokens": [
     {
       "surface": "אני",
-      "english": "Yo"
+      "gloss": "Yo"
     },
     {
       "surface": "אשיבך",
-      "english": "te responderé"
+      "gloss": "te responderé"
     },
     {
       "surface": "מלין",
-      "english": "con palabras"
+      "gloss": "con palabras"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tus compañeros"
     },
     {
       "surface": "רעיך",
-      "english": "tus compañeros"
+      "gloss": "tus compañeros"
     },
     {
       "surface": "עמך",
-      "english": "contigo"
+      "gloss": "contigo"
     }
-  ],
-  "timestamp": "2026-07-16T22:01:48.158551400Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "esther 4:9",
   "book": "esther",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 182,
-    "prompt_tokens": 24788,
-    "prompt_tokens_details": {
-      "cached_tokens": 23680
-    },
-    "total_tokens": 24970
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:04:48.888590333Z",
   "translation": "Y Hataj vino y declaró a Ester ⟨את⟩ las palabras de Mordejai",
   "tokens": [
     {
       "surface": "ויבוא",
-      "english": "Y vino"
+      "gloss": "Y vino"
     },
     {
       "surface": "התך",
-      "english": "Hataj"
+      "gloss": "Hataj"
     },
     {
       "surface": "ויגד",
-      "english": "y declaró"
+      "gloss": "y declaró"
     },
     {
       "surface": "לאסתר",
-      "english": "a Ester"
+      "gloss": "a Ester"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las palabras"
     },
     {
       "surface": "דברי",
-      "english": "las palabras"
+      "gloss": "las palabras"
     },
     {
       "surface": "מרדכי",
-      "english": "de Mordejai"
+      "gloss": "de Mordejai"
     }
-  ],
-  "timestamp": "2026-07-16T20:04:48.888590333Z",
-  "model": "glm-4.5"
+  ]
 }

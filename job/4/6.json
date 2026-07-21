@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 4:6",
   "book": "job",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 394,
-    "prompt_tokens": 27120,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27514
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:56:53.500251778Z",
   "translation": "¿No ⟨es⟩ tu piedad tu confianza, ⟨y⟩ tu esperanza la integridad de tus caminos?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "¿No"
+      "gloss": "¿No"
     },
     {
       "surface": "יראתך",
-      "english": "tu piedad"
+      "gloss": "tu piedad"
     },
     {
       "surface": "כסלתך",
-      "english": "tu confianza"
+      "gloss": "tu confianza"
     },
     {
       "surface": "תקותך",
-      "english": "tu esperanza"
+      "gloss": "tu esperanza"
     },
     {
       "surface": "ותם",
-      "english": "y la integridad"
+      "gloss": "y la integridad"
     },
     {
       "surface": "דרכיך",
-      "english": "de tus caminos"
+      "gloss": "de tus caminos"
     }
-  ],
-  "timestamp": "2026-07-16T21:56:53.500251778Z",
-  "model": "glm-4.5"
+  ]
 }

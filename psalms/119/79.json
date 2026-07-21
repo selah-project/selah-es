@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 79,
   "ref": "psalms 119:79",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 264,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69647,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69911
-  },
+  "verse": 79,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:00:26.666239085Z",
   "translation": "Vuelvan a mí ⟨los⟩ que te temen y ⟨que⟩ conocen tus testimonios",
   "tokens": [
     {
       "surface": "ישובו",
-      "english": "Vuelvan"
+      "gloss": "Vuelvan"
     },
     {
       "surface": "לי",
-      "english": "a mí"
+      "gloss": "a mí"
     },
     {
       "surface": "יראיך",
-      "english": "⟨los⟩ que te temen"
+      "gloss": "⟨los⟩ que te temen"
     },
     {
       "surface": "וידעו",
-      "english": "y ⟨que⟩"
+      "gloss": "y ⟨que⟩"
     },
     {
       "surface": "עדתיך",
-      "english": "conocen tus testimonios"
+      "gloss": "conocen tus testimonios"
     }
-  ],
-  "timestamp": "2026-06-10T00:00:26.666239085Z",
-  "model": "glm-4.5"
+  ]
 }

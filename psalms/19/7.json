@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 19:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70190,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70666
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:05:26.190468633Z",
   "translation": "Su salida es desde el extremo de ⟨los⟩ cielos, y su circuito hasta los extremos de ellos; y no ⟨hay⟩ nada escondido ⟨de⟩ su calor.",
   "tokens": [
     {
       "surface": "מקצה",
-      "english": "Desde el extremo"
+      "gloss": "Desde el extremo"
     },
     {
       "surface": "השמים",
-      "english": "de ⟨los⟩ cielos"
+      "gloss": "de ⟨los⟩ cielos"
     },
     {
       "surface": "מוצאו",
-      "english": "su salida"
+      "gloss": "su salida"
     },
     {
       "surface": "ותקופתו",
-      "english": "y su circuito"
+      "gloss": "y su circuito"
     },
     {
       "surface": "על",
-      "english": "hasta"
+      "gloss": "hasta"
     },
     {
       "surface": "קצותם",
-      "english": "los extremos de ellos"
+      "gloss": "los extremos de ellos"
     },
     {
       "surface": "ואין",
-      "english": "y no ⟨hay⟩"
+      "gloss": "y no ⟨hay⟩"
     },
     {
       "surface": "נסתר",
-      "english": "nada escondido"
+      "gloss": "nada escondido"
     },
     {
       "surface": "מחמתו",
-      "english": "⟨de⟩ su calor"
+      "gloss": "⟨de⟩ su calor"
     }
-  ],
-  "timestamp": "2026-06-09T23:05:26.190468633Z",
-  "model": "glm-4.5"
+  ]
 }

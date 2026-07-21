@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "jeremiah 13:24",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24183,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 24743
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:14:14.152168763Z",
   "translation": "y ⟨los⟩ dispersaré ⟨como⟩ tamo que ⟨la⟩ viento ⟨de⟩ desierto ⟨lleva⟩ ⟨a⟩ ⟨través⟩",
   "tokens": [
     {
       "surface": "ואפיצם",
-      "english": "Y ⟨los⟩ dispersaré",
+      "gloss": "Y ⟨los⟩ dispersaré",
       "marks": "ellos (Judá)"
     },
     {
       "surface": "כקש",
-      "english": "⟨como⟩ tamo",
+      "gloss": "⟨como⟩ tamo",
       "marks": "tamo (stubble\/stubble)"
     },
     {
       "surface": "עובר",
-      "english": "⟨la⟩ viento ⟨de⟩ desierto ⟨lleva⟩ ⟨a⟩ ⟨través⟩",
+      "gloss": "⟨la⟩ viento ⟨de⟩ desierto ⟨lleva⟩ ⟨a⟩ ⟨través⟩",
       "marks": "tamo que ⟨la⟩ viento ⟨de⟩ desierto ⟨lleva⟩ ⟨a⟩ ⟨través⟩"
     },
     {
       "surface": "לרוח",
-      "english": "⟨la⟩ viento ⟨de⟩ desierto",
+      "gloss": "⟨la⟩ viento ⟨de⟩ desierto",
       "marks": "viento ⟨de⟩ desierto"
     },
     {
       "surface": "מדבר",
-      "english": "desierto",
+      "gloss": "desierto",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-10T03:14:14.152168763Z",
-  "model": "glm-4.5"
+  ]
 }

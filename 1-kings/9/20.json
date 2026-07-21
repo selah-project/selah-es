@@ -1,9 +1,72 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-kings 9:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-kings",
+  "chapter": 9,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:57:47.067079132Z",
+  "translation": "Todo ⟨el⟩ pueblo que quedó ⟨de⟩ los amorreos, ⟨los⟩ hititas, ⟨los⟩ perizitas, ⟨los⟩ hivitas y ⟨los⟩ jebuseos, que ⟨eran⟩ no ⟨de⟩ ⟨los⟩ hijos de Yisrael: ellos",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Todo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨el⟩ pueblo"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "que quedó"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "los amorreos"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "⟨los⟩ hititas"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "⟨los⟩ perizitas"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "⟨los⟩ hivitas"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "y ⟨los⟩ jebuseos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "⟨de⟩ ⟨los⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "hijos de Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ellos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,80 +76,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 534,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62632,
-    "prompt_tokens_details": {
-      "cached_tokens": 60969
-    },
-    "total_tokens": 63166
-  },
-  "translation": "Todo ⟨el⟩ pueblo que quedó ⟨de⟩ los amorreos, ⟨los⟩ hititas, ⟨los⟩ perizitas, ⟨los⟩ hivitas y ⟨los⟩ jebuseos, que ⟨eran⟩ no ⟨de⟩ ⟨los⟩ hijos de Yisrael: ellos",
-  "tokens": [
-    {
-      "surface": "כל",
-      "english": "Todo"
-    },
-    {
-      "surface": "העם",
-      "english": "⟨el⟩ pueblo"
-    },
-    {
-      "surface": "הנותר",
-      "english": "que quedó"
-    },
-    {
-      "surface": "מן",
-      "english": "⟨de⟩"
-    },
-    {
-      "surface": "האמרי",
-      "english": "los amorreos"
-    },
-    {
-      "surface": "החתי",
-      "english": "⟨los⟩ hititas"
-    },
-    {
-      "surface": "הפרזי",
-      "english": "⟨los⟩ perizitas"
-    },
-    {
-      "surface": "החוי",
-      "english": "⟨los⟩ hivitas"
-    },
-    {
-      "surface": "והיבוסי",
-      "english": "y ⟨los⟩ jebuseos"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "מבני",
-      "english": "⟨de⟩ ⟨los⟩"
-    },
-    {
-      "surface": "ישראל",
-      "english": "hijos de Yisrael"
-    },
-    {
-      "surface": "המה",
-      "english": "ellos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:57:47.067079132Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

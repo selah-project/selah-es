@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 35:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69891,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70345
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:13:48.356479695Z",
   "translation": "Sea ⟨como⟩ ⟨el⟩ tamo ⟨ante⟩ ⟨el⟩ viento, y ⟨el⟩ Malaj de YHWH ⟨los⟩ persiga.",
   "tokens": [
     {
       "surface": "יהיו",
-      "english": "Sea"
+      "gloss": "Sea"
     },
     {
       "surface": "כמץ",
-      "english": "⟨como⟩ ⟨el⟩ tamo",
+      "gloss": "⟨como⟩ ⟨el⟩ tamo",
       "marks": "chaff"
     },
     {
       "surface": "לפני",
-      "english": "⟨ante⟩"
+      "gloss": "⟨ante⟩"
     },
     {
       "surface": "רוח",
-      "english": "⟨el⟩ viento"
+      "gloss": "⟨el⟩ viento"
     },
     {
       "surface": "ומלאך",
-      "english": "y ⟨el⟩ Malaj",
+      "gloss": "y ⟨el⟩ Malaj",
       "marks": "angel"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "דוחה",
-      "english": "⟨los⟩ persiga"
+      "gloss": "⟨los⟩ persiga"
     }
-  ],
-  "timestamp": "2026-06-09T23:13:48.356479695Z",
-  "model": "glm-4.5"
+  ]
 }

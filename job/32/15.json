@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 32:15",
   "book": "job",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26976,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27350
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:11:28.757245873Z",
   "translation": "Estaban atemorizados, ⟨no⟩ respondieron ⟨más⟩; apartaron ⟨de⟩ ⟨ellos⟩ ⟨palabras⟩.",
   "tokens": [
     {
       "surface": "חתו",
-      "english": "Estaban atemorizados"
+      "gloss": "Estaban atemorizados"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "ענו",
-      "english": "respondieron"
+      "gloss": "respondieron"
     },
     {
       "surface": "עוד",
-      "english": "⟨más⟩"
+      "gloss": "⟨más⟩"
     },
     {
       "surface": "העתיקו",
-      "english": "apartaron"
+      "gloss": "apartaron"
     },
     {
       "surface": "מהם",
-      "english": "⟨de⟩ ⟨ellos⟩"
+      "gloss": "⟨de⟩ ⟨ellos⟩"
     },
     {
       "surface": "מלים",
-      "english": "⟨palabras⟩"
+      "gloss": "⟨palabras⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:11:28.757245873Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,100 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 5:2",
   "book": "exodus",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 621,
-    "prompt_tokens": 25321,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25942
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:09:41.052919004Z",
   "translation": "Y Paroh dijo: ¿Quién ⟨es⟩ YHWH, para que yo oiga su voz y envíe ⟨את⟩ a Israel? No he conocido ⟨את⟩ a YHWH, y tampoco enviaré ⟨את⟩ a Israel.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y ... dijo"
+      "gloss": "Y ... dijo"
     },
     {
       "surface": "פרעה",
-      "english": "Paroh"
+      "gloss": "Paroh"
     },
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אשר",
-      "english": "para que"
+      "gloss": "para que"
     },
     {
       "surface": "אשמע",
-      "english": "yo oiga"
+      "gloss": "yo oiga"
     },
     {
       "surface": "בקלו",
-      "english": "su voz"
+      "gloss": "su voz"
     },
     {
       "surface": "לשלח",
-      "english": "y envíe"
+      "gloss": "y envíe"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Israel"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "ידעתי",
-      "english": "he conocido"
+      "gloss": "he conocido"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "a YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "וגם",
-      "english": "y tampoco"
+      "gloss": "y tampoco"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "a Israel"
     },
     {
       "surface": "ישראל",
-      "english": "Israel"
+      "gloss": "Israel"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אשלח",
-      "english": "enviaré"
+      "gloss": "enviaré"
     }
-  ],
-  "timestamp": "2026-07-16T20:09:41.052919004Z",
-  "model": "glm-4.5"
+  ]
 }

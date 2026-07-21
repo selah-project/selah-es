@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 16:9",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59822,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60197
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:39:50.599150347Z",
   "translation": "⟨El⟩ corazón de ⟨un⟩ hombre ⟨lo⟩ piensa ⟨lo que será⟩ su camino; pero YHWH ⟨lo⟩ dispone su paso",
   "tokens": [
     {
       "surface": "לב",
-      "english": "⟨El⟩ corazón"
+      "gloss": "⟨El⟩ corazón"
     },
     {
       "surface": "אדם",
-      "english": "de ⟨un⟩ hombre"
+      "gloss": "de ⟨un⟩ hombre"
     },
     {
       "surface": "יחשב",
-      "english": "⟨lo⟩ piensa ⟨lo que será⟩"
+      "gloss": "⟨lo⟩ piensa ⟨lo que será⟩"
     },
     {
       "surface": "דרכו",
-      "english": "su camino"
+      "gloss": "su camino"
     },
     {
       "surface": "ויהוה",
-      "english": "pero YHWH"
+      "gloss": "pero YHWH"
     },
     {
       "surface": "יכין",
-      "english": "⟨lo⟩ dispone"
+      "gloss": "⟨lo⟩ dispone"
     },
     {
       "surface": "צעדו",
-      "english": "su paso"
+      "gloss": "su paso"
     }
-  ],
-  "timestamp": "2026-06-10T01:39:50.599150347Z",
-  "model": "glm-4.5"
+  ]
 }

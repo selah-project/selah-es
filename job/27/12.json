@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 27:12",
   "book": "job",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27117,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27731
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:07:46.238802546Z",
   "translation": "He aquí ⟨que⟩ todos vosotros ⟨lo⟩ habéis visto y ⟨¿⟩por qué ⟨esto⟩ ⟨es⟩ vanidad ⟨es⟩ vacío ⟨en⟩ vanidad?",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí ⟨que⟩"
+      "gloss": "He aquí ⟨que⟩"
     },
     {
       "surface": "אתם",
-      "english": "todos vosotros"
+      "gloss": "todos vosotros"
     },
     {
       "surface": "כלכם",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "חזיתם",
-      "english": "⟨lo⟩ habéis visto"
+      "gloss": "⟨lo⟩ habéis visto"
     },
     {
       "surface": "ולמה",
-      "english": "y ⟨¿⟩por qué"
+      "gloss": "y ⟨¿⟩por qué"
     },
     {
       "surface": "זה",
-      "english": "⟨esto⟩"
+      "gloss": "⟨esto⟩"
     },
     {
       "surface": "הבל",
-      "english": "⟨es⟩ vanidad"
+      "gloss": "⟨es⟩ vanidad"
     },
     {
       "surface": "תהבלו",
-      "english": "⟨es⟩ vacío ⟨en⟩ vanidad"
+      "gloss": "⟨es⟩ vacío ⟨en⟩ vanidad"
     }
-  ],
-  "timestamp": "2026-06-10T02:07:46.238802546Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 10:10",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59888,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60352
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:34:30.095100094Z",
   "translation": "El que guiña ⟨el⟩ ojo causará dolor ⟨a⟩ ⟨lo⟩⟨que⟩⟨está⟩⟨junto⟩⟨a⟩⟨él⟩ y ⟨un⟩ necio ⟨de⟩ labios parlanchín caerá",
   "tokens": [
     {
       "surface": "קרץ",
-      "english": "El que guiña"
+      "gloss": "El que guiña"
     },
     {
       "surface": "עין",
-      "english": "⟨el⟩ ojo"
+      "gloss": "⟨el⟩ ojo"
     },
     {
       "surface": "יתן",
-      "english": "causará"
+      "gloss": "causará"
     },
     {
       "surface": "עצבת",
-      "english": "dolor ⟨a⟩ ⟨lo⟩⟨que⟩⟨está⟩⟨junto⟩⟨a⟩⟨él⟩"
+      "gloss": "dolor ⟨a⟩ ⟨lo⟩⟨que⟩⟨está⟩⟨junto⟩⟨a⟩⟨él⟩"
     },
     {
       "surface": "ואויל",
-      "english": "y ⟨un⟩ necio"
+      "gloss": "y ⟨un⟩ necio"
     },
     {
       "surface": "שפתים",
-      "english": "⟨de⟩ labios parlanchín"
+      "gloss": "⟨de⟩ labios parlanchín"
     },
     {
       "surface": "ילבט",
-      "english": "caerá"
+      "gloss": "caerá"
     }
-  ],
-  "timestamp": "2026-06-10T01:34:30.095100094Z",
-  "model": "glm-4.5"
+  ]
 }

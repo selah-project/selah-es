@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 120:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 120,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69888,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70335
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:03:10.838560844Z",
   "translation": "¿Qué ⟨se dará⟩ ⟨a⟩ ti y qué ⟨se añadirá⟩ ⟨a⟩ ti, ⟨la⟩ lengua ⟨de⟩ engaño?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "¿Qué"
+      "gloss": "¿Qué"
     },
     {
       "surface": "יתן",
-      "english": "⟨se dará⟩"
+      "gloss": "⟨se dará⟩"
     },
     {
       "surface": "לך",
-      "english": "⟨a⟩ ti"
+      "gloss": "⟨a⟩ ti"
     },
     {
       "surface": "ומה",
-      "english": "y qué"
+      "gloss": "y qué"
     },
     {
       "surface": "יסיף",
-      "english": "⟨se añadirá⟩"
+      "gloss": "⟨se añadirá⟩"
     },
     {
       "surface": "לך",
-      "english": "⟨a⟩ ti"
+      "gloss": "⟨a⟩ ti"
     },
     {
       "surface": "לשון",
-      "english": "⟨la⟩ lengua"
+      "gloss": "⟨la⟩ lengua"
     },
     {
       "surface": "רמיה",
-      "english": "⟨de⟩ engaño"
+      "gloss": "⟨de⟩ engaño"
     }
-  ],
-  "timestamp": "2026-06-10T00:03:10.838560844Z",
-  "model": "glm-4.5"
+  ]
 }

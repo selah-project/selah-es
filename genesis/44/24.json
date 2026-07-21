@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "genesis 44:24",
   "book": "genesis",
-  "lang": "es",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 438,
-    "prompt_tokens": 28768,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29206
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:14:07.636260490Z",
   "translation": "Y aconteció que cuando subimos ⟨a⟩ tu servidor mi padre, le declaramos ⟨את⟩ las palabras de mi señor.",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y aconteció que"
+      "gloss": "Y aconteció que"
     },
     {
       "surface": "כי",
-      "english": "cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "עלינו",
-      "english": "subimos"
+      "gloss": "subimos"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "עבדך",
-      "english": "tu servidor"
+      "gloss": "tu servidor"
     },
     {
       "surface": "אבי",
-      "english": "mi padre"
+      "gloss": "mi padre"
     },
     {
       "surface": "ונגד",
-      "english": "le declaramos"
+      "gloss": "le declaramos"
     },
     {
       "surface": "לו",
-      "english": "le"
+      "gloss": "le"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "las palabras de mi señor"
     },
     {
       "surface": "דברי",
-      "english": "las palabras"
+      "gloss": "las palabras"
     },
     {
       "surface": "אדני",
-      "english": "de mi señor"
+      "gloss": "de mi señor"
     }
-  ],
-  "timestamp": "2026-07-16T21:14:07.636260490Z",
-  "model": "glm-4.5"
+  ]
 }

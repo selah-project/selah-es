@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 25:12",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60040,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60463
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:47:49.271774965Z",
   "translation": "Un anillo ⟨de⟩ oro ⟨y⟩ un adorno ⟨de⟩ oro puro ⟨es⟩ un sabio reprendedor ⟨sobre⟩ ⟨un⟩ oído obediente.",
   "tokens": [
     {
       "surface": "נזם",
-      "english": "Anillo"
+      "gloss": "Anillo"
     },
     {
       "surface": "זהב",
-      "english": "⟨de⟩ oro",
+      "gloss": "⟨de⟩ oro",
       "marks": "anillo"
     },
     {
       "surface": "וחלי",
-      "english": "⟨y⟩ un adorno"
+      "gloss": "⟨y⟩ un adorno"
     },
     {
       "surface": "כתם",
-      "english": "⟨de⟩ oro puro",
+      "gloss": "⟨de⟩ oro puro",
       "marks": "adorno"
     },
     {
       "surface": "מוכיח",
-      "english": "reprendedor"
+      "gloss": "reprendedor"
     },
     {
       "surface": "חכם",
-      "english": "sabio"
+      "gloss": "sabio"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "אזן",
-      "english": "⟨un⟩ oído"
+      "gloss": "⟨un⟩ oído"
     },
     {
       "surface": "שמעת",
-      "english": "obediente"
+      "gloss": "obediente"
     }
-  ],
-  "timestamp": "2026-06-10T01:47:49.271774965Z",
-  "model": "glm-4.5"
+  ]
 }

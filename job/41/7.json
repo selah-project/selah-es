@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "job 41:7",
   "book": "job",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26952,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27434
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:41.292047450Z",
   "translation": "Orgullo ⟨את⟩ canales de escudos ⟨es⟩ sellado ⟨con⟩ sello ⟨de⟩ opresión",
   "tokens": [
     {
       "surface": "גאוה",
-      "english": "Orgullo"
+      "gloss": "Orgullo"
     },
     {
       "surface": "אפיקי",
-      "english": "canales de escudos",
+      "gloss": "canales de escudos",
       "marks": "escudos"
     },
     {
       "surface": "מגנים",
-      "english": "escudos"
+      "gloss": "escudos"
     },
     {
       "surface": "סגור",
-      "english": "sellado"
+      "gloss": "sellado"
     },
     {
       "surface": "חותם",
-      "english": "con",
+      "gloss": "con",
       "marks": "sellado"
     },
     {
       "surface": "צר",
-      "english": "opresión"
+      "gloss": "opresión"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:41.292047450Z",
-  "model": "glm-4.5"
+  ]
 }

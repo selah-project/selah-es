@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 37:24",
   "book": "job",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 608,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27091,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27699
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:15:01.975696293Z",
   "translation": "Por lo tanto, temen ⟨a⟩ él ⟨los⟩ hombres; ⟨él⟩ no ⟨es⟩ visto ⟨por⟩ ninguno de ⟨los⟩ sabios ⟨de⟩ corazón.",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "Por lo tanto"
+      "gloss": "Por lo tanto"
     },
     {
       "surface": "יראוהו",
-      "english": "temen ⟨a⟩ él",
+      "gloss": "temen ⟨a⟩ él",
       "marks": "él"
     },
     {
       "surface": "אנשים",
-      "english": "⟨los⟩ hombres"
+      "gloss": "⟨los⟩ hombres"
     },
     {
       "surface": "לא",
-      "english": "⟨él⟩ no"
+      "gloss": "⟨él⟩ no"
     },
     {
       "surface": "יראה",
-      "english": "⟨es⟩ visto"
+      "gloss": "⟨es⟩ visto"
     },
     {
       "surface": "כל",
-      "english": "⟨por⟩ ninguno ⟨de⟩"
+      "gloss": "⟨por⟩ ninguno ⟨de⟩"
     },
     {
       "surface": "חכמי",
-      "english": "⟨los⟩ sabios"
+      "gloss": "⟨los⟩ sabios"
     },
     {
       "surface": "לב",
-      "english": "⟨de⟩ corazón"
+      "gloss": "⟨de⟩ corazón"
     }
-  ],
-  "timestamp": "2026-06-10T02:15:01.975696293Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 116:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69690,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70028
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:57:14.443019467Z",
   "translation": "⟨is⟩ gracioso YHWH y ⟨is⟩ justo; sí, nuestro Elohim ⟨es⟩ compasivo",
   "tokens": [
     {
       "surface": "חנון",
-      "english": "⟨Is⟩ gracioso"
+      "gloss": "⟨Is⟩ gracioso"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וצדיק",
-      "english": "y ⟨is⟩ justo"
+      "gloss": "y ⟨is⟩ justo"
     },
     {
       "surface": "ואלהינו",
-      "english": "sí, nuestro Elohim ⟨es⟩ compasivo"
+      "gloss": "sí, nuestro Elohim ⟨es⟩ compasivo"
     },
     {
       "surface": "מרחם",
-      "english": "compasivo"
+      "gloss": "compasivo"
     }
-  ],
-  "timestamp": "2026-06-09T23:57:14.443019467Z",
-  "model": "glm-4.5"
+  ]
 }

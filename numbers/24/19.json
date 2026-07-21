@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "numbers 24:19",
   "book": "numbers",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24775,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25088
-  },
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:59:16.166831425Z",
   "translation": "y ⟨uno⟩ dominará ⟨de⟩ Yaakov y ⟨de⟩struirá ⟨un⟩ sobreviviente ⟨de⟩ ⟨la⟩ ciudad.",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "Y ⟨uno⟩"
+      "gloss": "Y ⟨uno⟩"
     },
     {
       "surface": "מיעקב",
-      "english": "⟨de⟩ Yaakov"
+      "gloss": "⟨de⟩ Yaakov"
     },
     {
       "surface": "והאביד",
-      "english": "y ⟨de⟩struirá"
+      "gloss": "y ⟨de⟩struirá"
     },
     {
       "surface": "שריד",
-      "english": "⟨un⟩ sobreviviente"
+      "gloss": "⟨un⟩ sobreviviente"
     },
     {
       "surface": "מעיר",
-      "english": "⟨de⟩ ⟨la⟩ ciudad"
+      "gloss": "⟨de⟩ ⟨la⟩ ciudad"
     }
-  ],
-  "timestamp": "2026-06-10T04:59:16.166831425Z",
-  "model": "glm-4.5"
+  ]
 }

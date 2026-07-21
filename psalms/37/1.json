@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 37:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 459,
-    "prompt_tokens": 70059,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70518
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:29:38.629167781Z",
   "translation": "De David. No te calientes ⟨por⟩ ⟨los⟩ malhechores, ni tengas celos ⟨de⟩ ⟨los⟩ hacedores ⟨de⟩ iniquidad.",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "De David"
+      "gloss": "De David"
     },
     {
       "surface": "אל",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תתחר",
-      "english": "te calientes"
+      "gloss": "te calientes"
     },
     {
       "surface": "במרעים",
-      "english": "por los malhechores"
+      "gloss": "por los malhechores"
     },
     {
       "surface": "אל",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "תקנא",
-      "english": "tengas celos"
+      "gloss": "tengas celos"
     },
     {
       "surface": "בעשי",
-      "english": "de los hacedores"
+      "gloss": "de los hacedores"
     },
     {
       "surface": "עולה",
-      "english": "de iniquidad"
+      "gloss": "de iniquidad"
     }
-  ],
-  "timestamp": "2026-07-16T23:29:38.629167781Z",
-  "model": "glm-4.5"
+  ]
 }

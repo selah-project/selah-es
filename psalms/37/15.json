@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 37:15",
   "book": "psalms",
-  "lang": "es",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 192,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69764,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 69956
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:15:32.471119280Z",
   "translation": "Su espada entrará en su propio corazón y sus arcos ⟨serán⟩ quebrados.",
   "tokens": [
     {
       "surface": "חרבם",
-      "english": "Su espada"
+      "gloss": "Su espada"
     },
     {
       "surface": "תבוא",
-      "english": "entrará"
+      "gloss": "entrará"
     },
     {
       "surface": "בלבם",
-      "english": "en su propio corazón"
+      "gloss": "en su propio corazón"
     },
     {
       "surface": "וקשתותם",
-      "english": "y sus arcos"
+      "gloss": "y sus arcos"
     },
     {
       "surface": "תשברנה",
-      "english": "⟨serán⟩ quebrados"
+      "gloss": "⟨serán⟩ quebrados"
     }
-  ],
-  "timestamp": "2026-06-09T23:15:32.471119280Z",
-  "model": "glm-4.5"
+  ]
 }

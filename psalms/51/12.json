@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 51:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69945,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70318
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:23:05.199758917Z",
   "translation": "Un corazón puro crea en mí, Elohim, y un espíritu ⟨que es⟩ firme renueva dentro de mí",
   "tokens": [
     {
       "surface": "לב",
-      "english": "Corazón"
+      "gloss": "Corazón"
     },
     {
       "surface": "טהור",
-      "english": "puro"
+      "gloss": "puro"
     },
     {
       "surface": "ברא",
-      "english": "crea"
+      "gloss": "crea"
     },
     {
       "surface": "לי",
-      "english": "en mí"
+      "gloss": "en mí"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ורוח",
-      "english": "y un espíritu"
+      "gloss": "y un espíritu"
     },
     {
       "surface": "נכון",
-      "english": "⟨que es⟩ firme"
+      "gloss": "⟨que es⟩ firme"
     },
     {
       "surface": "חדש",
-      "english": "renueva"
+      "gloss": "renueva"
     },
     {
       "surface": "בקרבי",
-      "english": "dentro de mí"
+      "gloss": "dentro de mí"
     }
-  ],
-  "timestamp": "2026-06-09T23:23:05.199758917Z",
-  "model": "glm-4.5"
+  ]
 }

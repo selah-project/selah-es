@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "psalms 118:23",
   "book": "psalms",
-  "lang": "es",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 464,
-    "prompt_tokens": 69950,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70414
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:40:37.955642800Z",
   "translation": "De YHWH ⟨es⟩ esta ⟨cosa⟩; ⟨es⟩ maravillosa en nuestros ojos.",
   "tokens": [
     {
       "surface": "מאת",
-      "english": "De",
+      "gloss": "De",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "היתה",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "זאת",
-      "english": "esta ⟨cosa⟩"
+      "gloss": "esta ⟨cosa⟩"
     },
     {
       "surface": "היא",
-      "english": "⟨es⟩"
+      "gloss": "⟨es⟩"
     },
     {
       "surface": "נפלאת",
-      "english": "maravillosa"
+      "gloss": "maravillosa"
     },
     {
       "surface": "בעינינו",
-      "english": "en nuestros ojos"
+      "gloss": "en nuestros ojos"
     }
-  ],
-  "timestamp": "2026-07-16T23:40:37.955642800Z",
-  "model": "glm-4.5"
+  ]
 }

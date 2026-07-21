@@ -1,76 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "genesis 1:27",
   "book": "genesis",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 749,
-    "prompt_tokens": 29210,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29959
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:50:48.451857540Z",
   "translation": "Y creó Elohim ⟨את⟩ el Adam a su imagen, a imagen de Elohim creó ⟨את⟩ él, macho y hembra creó ⟨את⟩ ellos.",
   "tokens": [
     {
       "surface": "ויברא",
-      "english": "Y creó"
+      "gloss": "Y creó"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Adam"
     },
     {
       "surface": "האדם",
-      "english": "el Adam"
+      "gloss": "el Adam"
     },
     {
       "surface": "בצלמו",
-      "english": "a su imagen"
+      "gloss": "a su imagen"
     },
     {
       "surface": "בצלם",
-      "english": "a imagen"
+      "gloss": "a imagen"
     },
     {
       "surface": "אלהים",
-      "english": "de Elohim"
+      "gloss": "de Elohim"
     },
     {
       "surface": "ברא",
-      "english": "creó"
+      "gloss": "creó"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "él"
     },
     {
       "surface": "זכר",
-      "english": "macho"
+      "gloss": "macho"
     },
     {
       "surface": "ונקבה",
-      "english": "y hembra"
+      "gloss": "y hembra"
     },
     {
       "surface": "ברא",
-      "english": "creó"
+      "gloss": "creó"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ellos"
     }
-  ],
-  "timestamp": "2026-07-16T20:50:48.451857540Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-samuel 15:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 15,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:29:42.573966288Z",
+  "translation": "Y el rey le dijo: Ve en paz. Y ⟨él⟩ se levantó y fue a Jevrón.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y ... dijo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "en paz"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Y ⟨él⟩ se levantó"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "y fue"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "a Jevrón"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Hebrón",
@@ -13,56 +52,6 @@
       "hebrew": "חברון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16874,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 17165
-  },
-  "translation": "Y el rey le dijo: Ve en paz. Y ⟨él⟩ se levantó y fue a Jevrón.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y ... dijo"
-    },
-    {
-      "surface": "לו",
-      "english": "le"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "לך",
-      "english": "Ve"
-    },
-    {
-      "surface": "בשלום",
-      "english": "en paz"
-    },
-    {
-      "surface": "ויקם",
-      "english": "Y ⟨él⟩ se levantó"
-    },
-    {
-      "surface": "וילך",
-      "english": "y fue"
-    },
-    {
-      "surface": "חברונה",
-      "english": "a Jevrón"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:29:42.573966288Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

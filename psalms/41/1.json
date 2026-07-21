@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 41:1",
   "book": "psalms",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 167,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69558,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 69725
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:17:32.329071089Z",
   "translation": "⟨To⟩ ⟨the⟩ prececientist ⟨is⟩ a poem ⟨to⟩ David",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "⟨To⟩ ⟨the⟩ prececientist"
+      "gloss": "⟨To⟩ ⟨the⟩ prececientist"
     },
     {
       "surface": "מזמור",
-      "english": "⟨is⟩ a poem"
+      "gloss": "⟨is⟩ a poem"
     },
     {
       "surface": "לדוד",
-      "english": "⟨to⟩ David"
+      "gloss": "⟨to⟩ David"
     }
-  ],
-  "timestamp": "2026-06-09T23:17:32.329071089Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "numbers 3:23",
   "book": "numbers",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 449,
-    "prompt_tokens": 25006,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25455
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:56:35.232363450Z",
   "translation": "Las familias ⟨de los⟩ gersonitas acamparán ⟨al⟩ oeste, detrás del mishkán",
   "tokens": [
     {
       "surface": "משפחת",
-      "english": "Las familias"
+      "gloss": "Las familias"
     },
     {
       "surface": "הגרשני",
-      "english": "⟨de los⟩ gersonitas"
+      "gloss": "⟨de los⟩ gersonitas"
     },
     {
       "surface": "אחרי",
-      "english": "detrás"
+      "gloss": "detrás"
     },
     {
       "surface": "המשכן",
-      "english": "del mishkán"
+      "gloss": "del mishkán"
     },
     {
       "surface": "יחנו",
-      "english": "acamparán"
+      "gloss": "acamparán"
     },
     {
       "surface": "ימה",
-      "english": "⟨al⟩ oeste"
+      "gloss": "⟨al⟩ oeste"
     }
-  ],
-  "timestamp": "2026-07-16T22:56:35.232363450Z",
-  "model": "glm-4.5"
+  ]
 }

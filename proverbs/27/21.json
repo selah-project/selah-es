@@ -1,55 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "proverbs 27:21",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59865,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60387
-  },
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:49:48.182322142Z",
   "translation": "Un crisol ⟨para⟩ ⟨la⟩ plata y ⟨un⟩ horno ⟨para⟩ ⟨el⟩ oro, y ⟨un⟩ hombre ⟨según⟩ ⟨su⟩ alabanza.",
   "tokens": [
     {
       "surface": "מצרף",
-      "english": "Un crisol"
+      "gloss": "Un crisol"
     },
     {
       "surface": "לכסף",
-      "english": "⟨para⟩ ⟨la⟩ plata",
+      "gloss": "⟨para⟩ ⟨la⟩ plata",
       "marks": "⟨la⟩ plata"
     },
     {
       "surface": "וכור",
-      "english": "y ⟨un⟩ horno"
+      "gloss": "y ⟨un⟩ horno"
     },
     {
       "surface": "לזהב",
-      "english": "⟨para⟩ ⟨el⟩ oro",
+      "gloss": "⟨para⟩ ⟨el⟩ oro",
       "marks": "⟨el⟩ oro"
     },
     {
       "surface": "ואיש",
-      "english": "y ⟨un⟩ hombre"
+      "gloss": "y ⟨un⟩ hombre"
     },
     {
       "surface": "לפי",
-      "english": "⟨según⟩ ⟨su⟩",
+      "gloss": "⟨según⟩ ⟨su⟩",
       "marks": "⟨su⟩"
     },
     {
       "surface": "מהללו",
-      "english": "alabanza"
+      "gloss": "alabanza"
     }
-  ],
-  "timestamp": "2026-06-10T01:49:48.182322142Z",
-  "model": "glm-4.5"
+  ]
 }

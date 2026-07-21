@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 28:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 605,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69913,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70518
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:10:22.535477457Z",
   "translation": "YHWH es ⟨la⟩ fuerza para ellos, y ⟨el⟩ refugio de ⟨las⟩ salvaciones de ⟨su⟩ ungido ⟨es⟩ él.",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "YHWH",
+      "gloss": "YHWH",
       "marks": null
     },
     {
       "surface": "עז",
-      "english": "⟨la⟩ fuerza",
+      "gloss": "⟨la⟩ fuerza",
       "marks": null
     },
     {
       "surface": "למו",
-      "english": "para ellos",
+      "gloss": "para ellos",
       "marks": null
     },
     {
       "surface": "ומעוז",
-      "english": "y ⟨el⟩ refugio",
+      "gloss": "y ⟨el⟩ refugio",
       "marks": null
     },
     {
       "surface": "ישועות",
-      "english": "de ⟨las⟩ salvaciones",
+      "gloss": "de ⟨las⟩ salvaciones",
       "marks": null
     },
     {
       "surface": "משיחו",
-      "english": "de ⟨su⟩ ungido",
+      "gloss": "de ⟨su⟩ ungido",
       "marks": null
     },
     {
       "surface": "הוא",
-      "english": "⟨es⟩ él",
+      "gloss": "⟨es⟩ él",
       "marks": null
     }
-  ],
-  "timestamp": "2026-06-09T23:10:22.535477457Z",
-  "model": "glm-4.5"
+  ]
 }

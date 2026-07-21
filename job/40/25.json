@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 40:25",
   "book": "job",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26849,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27258
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:18:28.215324724Z",
   "translation": "⟨¿Puedes⟩ tú ⟨asir⟩ a ⟨Leviatán⟩ ⟨con⟩ ⟨un⟩ anzuelo ⟨y⟩ ⟨con⟩ ⟨un⟩ cordel ⟨sumergir⟩ ⟨la⟩ ⟨lengua⟩ de él?",
   "tokens": [
     {
       "surface": "תמשך",
-      "english": "Asir"
+      "gloss": "Asir"
     },
     {
       "surface": "לויתן",
-      "english": "Leviatán"
+      "gloss": "Leviatán"
     },
     {
       "surface": "בחכה",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "ובחבל",
-      "english": "y con"
+      "gloss": "y con"
     },
     {
       "surface": "תשקיע",
-      "english": "sumergir"
+      "gloss": "sumergir"
     },
     {
       "surface": "לשנו",
-      "english": "la lengua de él"
+      "gloss": "la lengua de él"
     }
-  ],
-  "timestamp": "2026-06-10T02:18:28.215324724Z",
-  "model": "glm-4.5"
+  ]
 }

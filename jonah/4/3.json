@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "jonah 4:3",
   "book": "jonah",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 528,
-    "prompt_tokens": 27092,
-    "prompt_tokens_details": {
-      "cached_tokens": 25472
-    },
-    "total_tokens": 27620
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:05:44.563620256Z",
   "translation": "Y ahora, YHWH, toma, te ruego, ⟨את⟩ mi vida de mí, pues ⟨es⟩ bueno mi morir ⟨que⟩ mi vivir.",
   "tokens": [
     {
       "surface": "וְ\/עַתָּ֣ה",
-      "english": "Y ahora"
+      "gloss": "Y ahora"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "קַח",
-      "english": "toma"
+      "gloss": "toma"
     },
     {
       "surface": "נָ֥א",
-      "english": "te ruego"
+      "gloss": "te ruego"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mi vida"
     },
     {
       "surface": "נַפְשִׁ֖\/י",
-      "english": "mi vida"
+      "gloss": "mi vida"
     },
     {
       "surface": "מִמֶּ֑\/נִּי",
-      "english": "de mí"
+      "gloss": "de mí"
     },
     {
       "surface": "כִּ֛י",
-      "english": "pues"
+      "gloss": "pues"
     },
     {
       "surface": "ט֥וֹב",
-      "english": "⟨es⟩ bueno"
+      "gloss": "⟨es⟩ bueno"
     },
     {
       "surface": "מוֹתִ֖\/י",
-      "english": "mi morir"
+      "gloss": "mi morir"
     },
     {
       "surface": "מֵ\/חַיָּֽ\/י",
-      "english": "⟨que⟩ mi vivir"
+      "gloss": "⟨que⟩ mi vivir"
     }
-  ],
-  "timestamp": "2026-07-16T22:05:44.563620256Z",
-  "model": "glm-4.5"
+  ]
 }

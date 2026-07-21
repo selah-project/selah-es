@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "malachi 1:5",
   "book": "malachi",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23853,
-    "prompt_tokens_details": {
-      "cached_tokens": 22590
-    },
-    "total_tokens": 24417
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:31:30.918359165Z",
   "translation": "Y ⟨son⟩ ⟨los⟩ ojos de ustedes ⟨estarán⟩ viendo, y ⟨ustedes⟩ ⟨estarán⟩ diciendo: ⟨Es⟩ engrandecido YHWH ⟨por⟩ encima de ⟨la⟩ frontera de Yisrael.",
   "tokens": [
     {
       "surface": "וְ\/עֵינֵי\/כֶ֖ם",
-      "english": "Y ⟨son⟩ ⟨los⟩ ojos de ustedes"
+      "gloss": "Y ⟨son⟩ ⟨los⟩ ojos de ustedes"
     },
     {
       "surface": "תִּרְאֶ֑ינָה",
-      "english": "⟨estarán⟩ viendo"
+      "gloss": "⟨estarán⟩ viendo"
     },
     {
       "surface": "וְ\/אַתֶּ֤ם",
-      "english": "y ⟨ustedes⟩"
+      "gloss": "y ⟨ustedes⟩"
     },
     {
       "surface": "תֹּֽאמְרוּ֙",
-      "english": "⟨estarán⟩ diciendo"
+      "gloss": "⟨estarán⟩ diciendo"
     },
     {
       "surface": "יִגְדַּ֣ל",
-      "english": "⟨Es⟩ engrandecido"
+      "gloss": "⟨Es⟩ engrandecido"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מֵ\/עַ֖ל",
-      "english": "⟨por⟩ encima de"
+      "gloss": "⟨por⟩ encima de"
     },
     {
       "surface": "לִ\/גְב֥וּל",
-      "english": "⟨la⟩ frontera"
+      "gloss": "⟨la⟩ frontera"
     },
     {
       "surface": "יִשְׂרָאֵֽל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     }
-  ],
-  "timestamp": "2026-06-09T22:31:30.918359165Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 103:16",
   "book": "psalms",
-  "lang": "es",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70066,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70465
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:50:12.852618719Z",
   "translation": "for ⟨the⟩ wind passes over it ⟨and⟩ it ⟨is⟩ gone, ⟨and⟩ its place will not recognize it ⟨any⟩ more",
   "tokens": [
     {
       "surface": "כי",
-      "english": "For"
+      "gloss": "For"
     },
     {
       "surface": "רוח",
-      "english": "wind"
+      "gloss": "wind"
     },
     {
       "surface": "עברה",
-      "english": "passes over"
+      "gloss": "passes over"
     },
     {
       "surface": "בו",
-      "english": "it"
+      "gloss": "it"
     },
     {
       "surface": "ואיננו",
-      "english": "and it is gone"
+      "gloss": "and it is gone"
     },
     {
       "surface": "ולא",
-      "english": "and"
+      "gloss": "and"
     },
     {
       "surface": "יכירנו",
-      "english": "will not recognize it"
+      "gloss": "will not recognize it"
     },
     {
       "surface": "עוד",
-      "english": "any more"
+      "gloss": "any more"
     },
     {
       "surface": "מקומו",
-      "english": "its place"
+      "gloss": "its place"
     }
-  ],
-  "timestamp": "2026-06-09T23:50:12.852618719Z",
-  "model": "glm-4.5"
+  ]
 }

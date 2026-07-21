@@ -1,72 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 12:12",
   "book": "genesis",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 580,
-    "prompt_tokens": 29130,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 29710
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:56:25.096161271Z",
   "translation": "y sucederá que ⟨cuando⟩ los egipcios te vean, dirán: 'Su esposa es esta', y me matarán ⟨y⟩ a ti ⟨te⟩ mantendrán con vida.",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "y sucederá que"
+      "gloss": "y sucederá que"
     },
     {
       "surface": "כי",
-      "english": "⟨cuando⟩"
+      "gloss": "⟨cuando⟩"
     },
     {
       "surface": "יראו",
-      "english": "vean"
+      "gloss": "vean"
     },
     {
       "surface": "אתך",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "los egipcios"
     },
     {
       "surface": "המצרים",
-      "english": "los egipcios"
+      "gloss": "los egipcios"
     },
     {
       "surface": "ואמרו",
-      "english": "dirán"
+      "gloss": "dirán"
     },
     {
       "surface": "אשתו",
-      "english": "Su esposa"
+      "gloss": "Su esposa"
     },
     {
       "surface": "זאת",
-      "english": "es esta"
+      "gloss": "es esta"
     },
     {
       "surface": "והרגו",
-      "english": "me matarán"
+      "gloss": "me matarán"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ו אתך"
     },
     {
       "surface": "ואתך",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "יחיו"
     },
     {
       "surface": "יחיו",
-      "english": "⟨te⟩ mantendrán con vida"
+      "gloss": "⟨te⟩ mantendrán con vida"
     }
-  ],
-  "timestamp": "2026-07-16T20:56:25.096161271Z",
-  "model": "glm-4.5"
+  ]
 }

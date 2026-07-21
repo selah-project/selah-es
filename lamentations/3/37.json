@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 37,
   "ref": "lamentations 3:37",
   "book": "lamentations",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 38979,
-    "prompt_tokens_details": {
-      "cached_tokens": 38100
-    },
-    "total_tokens": 39271
-  },
+  "verse": 37,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:42:02.842771620Z",
   "translation": "¿Quién ⟨es⟩ este que habló y fue, ⟨el⟩ Adonai no lo ordenó?",
   "tokens": [
     {
       "surface": "מי",
-      "english": "¿Quién"
+      "gloss": "¿Quién"
     },
     {
       "surface": "זה",
-      "english": "⟨es⟩ este"
+      "gloss": "⟨es⟩ este"
     },
     {
       "surface": "אמר",
-      "english": "habló"
+      "gloss": "habló"
     },
     {
       "surface": "ותהי",
-      "english": "y fue"
+      "gloss": "y fue"
     },
     {
       "surface": "אדני",
-      "english": "⟨el⟩ Adonai"
+      "gloss": "⟨el⟩ Adonai"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "צוה",
-      "english": "lo ordenó"
+      "gloss": "lo ordenó"
     }
-  ],
-  "timestamp": "2026-06-09T22:42:02.842771620Z",
-  "model": "glm-4.5"
+  ]
 }

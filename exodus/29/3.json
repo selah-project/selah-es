@@ -1,77 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 29:3",
   "book": "exodus",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 497,
-    "prompt_tokens": 24629,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25126
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:22:07.197060041Z",
   "translation": "y pondrás ⟨ellos⟩ sobre ⟨el⟩ cesto uno y presentarás ⟨ellos⟩ en ⟨el⟩ cesto, ⟨את⟩ ⟨el⟩ toro y ⟨את⟩ ⟨los⟩ dos carneros",
   "tokens": [
     {
       "surface": "ונתת",
-      "english": "y pondrás"
+      "gloss": "y pondrás"
     },
     {
       "surface": "אותם",
-      "english": "⟨ellos⟩",
+      "gloss": "⟨ellos⟩",
       "marks": "sobre ⟨el⟩ cesto uno"
     },
     {
       "surface": "על",
-      "english": "sobre ⟨el⟩"
+      "gloss": "sobre ⟨el⟩"
     },
     {
       "surface": "סל",
-      "english": "cesto"
+      "gloss": "cesto"
     },
     {
       "surface": "אחד",
-      "english": "uno"
+      "gloss": "uno"
     },
     {
       "surface": "והקרבת",
-      "english": "y presentarás"
+      "gloss": "y presentarás"
     },
     {
       "surface": "אתם",
-      "english": "⟨ellos⟩",
+      "gloss": "⟨ellos⟩",
       "marks": "en ⟨el⟩ cesto"
     },
     {
       "surface": "בסל",
-      "english": "en ⟨el⟩ cesto"
+      "gloss": "en ⟨el⟩ cesto"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨el⟩ toro"
     },
     {
       "surface": "הפר",
-      "english": "⟨el⟩ toro"
+      "gloss": "⟨el⟩ toro"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨los⟩ dos carneros"
     },
     {
       "surface": "שני",
-      "english": "⟨los⟩ dos"
+      "gloss": "⟨los⟩ dos"
     },
     {
       "surface": "האילם",
-      "english": "carneros"
+      "gloss": "carneros"
     }
-  ],
-  "timestamp": "2026-07-16T20:22:07.197060041Z",
-  "model": "glm-4.5"
+  ]
 }

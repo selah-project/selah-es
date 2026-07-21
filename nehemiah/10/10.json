@@ -1,57 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "nehemiah 10:10",
   "book": "nehemiah",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 56551,
-    "prompt_tokens_details": {
-      "cached_tokens": 55510
-    },
-    "total_tokens": 56802
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:42:25.567739154Z",
   "translation": "y los levitas y Yeshúa ben Azanyá, Binúi de ⟨los⟩ hijos de Jenadad, Kadmiel",
   "tokens": [
     {
       "surface": "והלוים",
-      "english": "Y los levitas"
+      "gloss": "Y los levitas"
     },
     {
       "surface": "וישוע",
-      "english": "y Yeshúa"
+      "gloss": "y Yeshúa"
     },
     {
       "surface": "בן",
-      "english": "ben"
+      "gloss": "ben"
     },
     {
       "surface": "אזניה",
-      "english": "Azanyá"
+      "gloss": "Azanyá"
     },
     {
       "surface": "בנוי",
-      "english": "Binúi"
+      "gloss": "Binúi"
     },
     {
       "surface": "מבני",
-      "english": "de ⟨los⟩ hijos",
+      "gloss": "de ⟨los⟩ hijos",
       "marks": "Jenadad"
     },
     {
       "surface": "חנדד",
-      "english": "Jenadad"
+      "gloss": "Jenadad"
     },
     {
       "surface": "קדמיאל",
-      "english": "Kadmiel"
+      "gloss": "Kadmiel"
     }
-  ],
-  "timestamp": "2026-06-10T00:42:25.567739154Z",
-  "model": "glm-4.5"
+  ]
 }

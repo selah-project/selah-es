@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "hosea 4:17",
   "book": "hosea",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26204,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26535
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:45:29.491075636Z",
   "translation": "Efráyim ⟨is⟩ joined to ⟨the⟩ idols, ⟨leave him⟩ ⟨alone⟩",
   "tokens": [
     {
       "surface": "חבור",
-      "english": "Joined",
+      "gloss": "Joined",
       "marks": "Efráyim ⟨is⟩ joined to ⟨the⟩ idols"
     },
     {
       "surface": "עצבים",
-      "english": "idols",
+      "gloss": "idols",
       "marks": ""
     },
     {
       "surface": "אפרים",
-      "english": "Efráyim",
+      "gloss": "Efráyim",
       "marks": ""
     },
     {
       "surface": "הנח",
-      "english": "leave him",
+      "gloss": "leave him",
       "marks": ""
     },
     {
       "surface": "לו",
-      "english": "alone",
+      "gloss": "alone",
       "marks": ""
     }
-  ],
-  "timestamp": "2026-06-09T22:45:29.491075636Z",
-  "model": "glm-4.5"
+  ]
 }

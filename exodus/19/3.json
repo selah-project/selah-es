@@ -1,9 +1,87 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 19:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 19,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:17:24.357598103Z",
+  "translation": "Y Moshé subió ⟨a⟩ HaElohim y YHWH llamó ⟨a⟩ él desde el monte diciendo: así dirás ⟨a⟩ la casa de Yaakov y declararás ⟨a⟩ los hijos de Yisrael",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Y Moshé"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "subió"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩",
+      "marks": "HaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "y YHWH llamó"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨a⟩ él"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "desde"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "el monte"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "así"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dirás"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨a⟩ la casa",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "y declararás"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨a⟩ los hijos",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,95 +91,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 741,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17345,
-    "prompt_tokens_details": {
-      "cached_tokens": 15516
-    },
-    "total_tokens": 18086
-  },
-  "translation": "Y Moshé subió ⟨a⟩ HaElohim y YHWH llamó ⟨a⟩ él desde el monte diciendo: así dirás ⟨a⟩ la casa de Yaakov y declararás ⟨a⟩ los hijos de Yisrael",
-  "tokens": [
-    {
-      "surface": "ומשה",
-      "english": "Y Moshé"
-    },
-    {
-      "surface": "עלה",
-      "english": "subió"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩",
-      "marks": "HaElohim"
-    },
-    {
-      "surface": "האלהים",
-      "english": "HaElohim"
-    },
-    {
-      "surface": "ויקרא",
-      "english": "y YHWH llamó"
-    },
-    {
-      "surface": "אליו",
-      "english": "⟨a⟩ él"
-    },
-    {
-      "surface": "יהוה",
-      "english": "YHWH"
-    },
-    {
-      "surface": "מן",
-      "english": "desde"
-    },
-    {
-      "surface": "ההר",
-      "english": "el monte"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    },
-    {
-      "surface": "כה",
-      "english": "así"
-    },
-    {
-      "surface": "תאמר",
-      "english": "dirás"
-    },
-    {
-      "surface": "לבית",
-      "english": "⟨a⟩ la casa",
-      "marks": "Yaakov"
-    },
-    {
-      "surface": "יעקב",
-      "english": "Yaakov"
-    },
-    {
-      "surface": "ותגיד",
-      "english": "y declararás"
-    },
-    {
-      "surface": "לבני",
-      "english": "⟨a⟩ los hijos",
-      "marks": "Israel"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:17:24.357598103Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

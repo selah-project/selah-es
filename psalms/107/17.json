@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 107:17",
   "book": "psalms",
-  "lang": "es",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69743,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70077
-  },
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:53:50.981106323Z",
   "translation": "Fools ⟨because of⟩ their rebellion, and ⟨because of⟩ their iniquities, ⟨are⟩ afflicted.",
   "tokens": [
     {
       "surface": "אולים",
-      "english": "Fools"
+      "gloss": "Fools"
     },
     {
       "surface": "מדרך",
-      "english": "⟨because of⟩"
+      "gloss": "⟨because of⟩"
     },
     {
       "surface": "פשעם",
-      "english": "their rebellion"
+      "gloss": "their rebellion"
     },
     {
       "surface": "ומעונתיהם",
-      "english": "and ⟨because of⟩ their iniquities"
+      "gloss": "and ⟨because of⟩ their iniquities"
     },
     {
       "surface": "יתענו",
-      "english": "⟨are⟩ afflicted"
+      "gloss": "⟨are⟩ afflicted"
     }
-  ],
-  "timestamp": "2026-06-09T23:53:50.981106323Z",
-  "model": "glm-4.5"
+  ]
 }

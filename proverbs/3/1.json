@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "proverbs 3:1",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59835,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60239
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:28:36.428013037Z",
   "translation": "Hijo mío, ⟨no⟩ te olvides ⟨de⟩ mi Torá, y ⟨que⟩ tus mandamientos ⟨los⟩ guarde ⟨tu⟩ corazón",
   "tokens": [
     {
       "surface": "בני",
-      "english": "Hijo mío"
+      "gloss": "Hijo mío"
     },
     {
       "surface": "תורתי",
-      "english": "⟨de⟩ mi Torá"
+      "gloss": "⟨de⟩ mi Torá"
     },
     {
       "surface": "אל",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "תשכח",
-      "english": "te olvides"
+      "gloss": "te olvides"
     },
     {
       "surface": "ומצותי",
-      "english": "tus mandamientos ⟨los⟩"
+      "gloss": "tus mandamientos ⟨los⟩"
     },
     {
       "surface": "יצר",
-      "english": "guarde"
+      "gloss": "guarde"
     },
     {
       "surface": "לבך",
-      "english": "⟨tu⟩ corazón"
+      "gloss": "⟨tu⟩ corazón"
     }
-  ],
-  "timestamp": "2026-06-10T01:28:36.428013037Z",
-  "model": "glm-4.5"
+  ]
 }

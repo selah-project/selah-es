@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 124:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 124,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69865,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70158
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:03:34.937534614Z",
   "translation": "Then ⟨the⟩ waters ⟨had⟩ engulfed us, ⟨the⟩ torrent ⟨had⟩ passed over our soul.",
   "tokens": [
     {
       "surface": "אזי",
-      "english": "Then"
+      "gloss": "Then"
     },
     {
       "surface": "המים",
-      "english": "⟨the⟩ waters"
+      "gloss": "⟨the⟩ waters"
     },
     {
       "surface": "שטפונו",
-      "english": "⟨had⟩ engulfed us"
+      "gloss": "⟨had⟩ engulfed us"
     },
     {
       "surface": "נחלה",
-      "english": "⟨the⟩ torrent"
+      "gloss": "⟨the⟩ torrent"
     },
     {
       "surface": "עבר",
-      "english": "⟨had⟩ passed over"
+      "gloss": "⟨had⟩ passed over"
     },
     {
       "surface": "על",
-      "english": "over"
+      "gloss": "over"
     },
     {
       "surface": "נפשנו",
-      "english": "our soul"
+      "gloss": "our soul"
     }
-  ],
-  "timestamp": "2026-06-10T00:03:34.937534614Z",
-  "model": "glm-4.5"
+  ]
 }

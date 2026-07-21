@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "psalms 119:34",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 554,
-    "prompt_tokens": 69870,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70424
-  },
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:12.807973832Z",
   "translation": "Dame entendimiento, y guardaré tu Torá; ⟨sí⟩, la observaré con todo el corazón.",
   "tokens": [
     {
       "surface": "הֲבִינֵנִי",
-      "english": "Dame entendimiento"
+      "gloss": "Dame entendimiento"
     },
     {
       "surface": "וְאֶצְרָה",
-      "english": "y guardaré"
+      "gloss": "y guardaré"
     },
     {
       "surface": "תוֹרָתֶךָ",
-      "english": "tu Torá"
+      "gloss": "tu Torá"
     },
     {
       "surface": "וְאֶשְׁמְרֶנָּה",
-      "english": "⟨sí⟩, la observaré"
+      "gloss": "⟨sí⟩, la observaré"
     },
     {
       "surface": "בְּכָל",
-      "english": "con todo"
+      "gloss": "con todo"
     },
     {
       "surface": "לֵב",
-      "english": "el corazón"
+      "gloss": "el corazón"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:12.807973832Z",
-  "model": "glm-4.5"
+  ]
 }

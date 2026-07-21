@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 2:6",
   "book": "job",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 405,
-    "prompt_tokens": 27474,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27879
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:56:36.947593384Z",
   "translation": "Y dijo YHWH a el satán: he aquí, está en tu mano; solo ⟨את⟩ su alma guarda.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "השטן",
-      "english": "el satán"
+      "gloss": "el satán"
     },
     {
       "surface": "הנו",
-      "english": "he aquí"
+      "gloss": "he aquí"
     },
     {
       "surface": "בידך",
-      "english": "está en tu mano"
+      "gloss": "está en tu mano"
     },
     {
       "surface": "אך",
-      "english": "solo"
+      "gloss": "solo"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "su alma"
     },
     {
       "surface": "נפשו",
-      "english": "su alma"
+      "gloss": "su alma"
     },
     {
       "surface": "שמר",
-      "english": "guarda"
+      "gloss": "guarda"
     }
-  ],
-  "timestamp": "2026-07-16T21:56:36.947593384Z",
-  "model": "glm-4.5"
+  ]
 }

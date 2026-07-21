@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "psalms 102:27",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70157,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70716
-  },
+  "verse": 27,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:49:02.933079094Z",
   "translation": "Ellos ⟨son⟩ perecerán, pero tú permanecerás ⟨en pie⟩; y todos ellos ⟨como⟩ un vestido ⟨se⟩ gastarán, ⟨como⟩ ropa ⟨se⟩ mudarán y ⟨se⟩ mudarán.",
   "tokens": [
     {
       "surface": "המה",
-      "english": "Ellos ⟨son⟩"
+      "gloss": "Ellos ⟨son⟩"
     },
     {
       "surface": "יאבדו",
-      "english": "perecerán"
+      "gloss": "perecerán"
     },
     {
       "surface": "ואתה",
-      "english": "pero tú"
+      "gloss": "pero tú"
     },
     {
       "surface": "תעמד",
-      "english": "permanecerás ⟨en pie⟩"
+      "gloss": "permanecerás ⟨en pie⟩"
     },
     {
       "surface": "וכלם",
-      "english": "y todos ellos"
+      "gloss": "y todos ellos"
     },
     {
       "surface": "כבגד",
-      "english": "⟨como⟩ un vestido"
+      "gloss": "⟨como⟩ un vestido"
     },
     {
       "surface": "יבלו",
-      "english": "⟨se⟩ gastarán"
+      "gloss": "⟨se⟩ gastarán"
     },
     {
       "surface": "כלבוש",
-      "english": "⟨como⟩ ropa"
+      "gloss": "⟨como⟩ ropa"
     },
     {
       "surface": "תחליפם",
-      "english": "⟨se⟩ mudarán"
+      "gloss": "⟨se⟩ mudarán"
     },
     {
       "surface": "ויחלפו",
-      "english": "y ⟨se⟩ mudarán"
+      "gloss": "y ⟨se⟩ mudarán"
     }
-  ],
-  "timestamp": "2026-06-09T23:49:02.933079094Z",
-  "model": "glm-4.5"
+  ]
 }

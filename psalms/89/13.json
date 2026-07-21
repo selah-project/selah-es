@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 89:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 368,
-    "prompt_tokens": 70097,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70465
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:36:07.890420983Z",
   "translation": "Tzafón y el sur tú ⟨los⟩ creaste: Tavor y Jermón en tu nombre cantarán con júbilo.",
   "tokens": [
     {
       "surface": "צפון",
-      "english": "Tzafón"
+      "gloss": "Tzafón"
     },
     {
       "surface": "וימין",
-      "english": "y el sur"
+      "gloss": "y el sur"
     },
     {
       "surface": "אתה",
-      "english": "tú"
+      "gloss": "tú"
     },
     {
       "surface": "בראתם",
-      "english": "⟨los⟩ creaste"
+      "gloss": "⟨los⟩ creaste"
     },
     {
       "surface": "תבור",
-      "english": "Tavor"
+      "gloss": "Tavor"
     },
     {
       "surface": "וחרמון",
-      "english": "y Jermón"
+      "gloss": "y Jermón"
     },
     {
       "surface": "בשמך",
-      "english": "en tu nombre"
+      "gloss": "en tu nombre"
     },
     {
       "surface": "ירננו",
-      "english": "cantarán con júbilo"
+      "gloss": "cantarán con júbilo"
     }
-  ],
-  "timestamp": "2026-07-16T23:36:07.890420983Z",
-  "model": "glm-4.5"
+  ]
 }

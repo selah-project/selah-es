@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "isaiah 14:15",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25905,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26343
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:29:21.443641256Z",
   "translation": "Solo ⟨a⟩ Sheol ⟨serás⟩ descendido, ⟨a⟩ ⟨los⟩ lados del hoyo.",
   "tokens": [
     {
       "surface": "אך",
-      "english": "Solo"
+      "gloss": "Solo"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "שאול",
-      "english": "Sheol"
+      "gloss": "Sheol"
     },
     {
       "surface": "תורד",
-      "english": "⟨serás⟩ descendido"
+      "gloss": "⟨serás⟩ descendido"
     },
     {
       "surface": "אל",
-      "english": "⟨a⟩"
+      "gloss": "⟨a⟩"
     },
     {
       "surface": "ירכתי",
-      "english": "⟨los⟩ lados"
+      "gloss": "⟨los⟩ lados"
     },
     {
       "surface": "בור",
-      "english": "del hoyo"
+      "gloss": "del hoyo"
     }
-  ],
-  "timestamp": "2026-06-10T02:29:21.443641256Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "proverbs 13:8",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59904,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60282
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:37:29.077100039Z",
   "translation": "La redención ⟨de⟩ la vida ⟨de⟩ un hombre ⟨es⟩ su riqueza, pero el pobre no oye ⟨una⟩ reprensión.",
   "tokens": [
     {
       "surface": "כפר",
-      "english": "Redención"
+      "gloss": "Redención"
     },
     {
       "surface": "נפש",
-      "english": "vida"
+      "gloss": "vida"
     },
     {
       "surface": "איש",
-      "english": "un hombre"
+      "gloss": "un hombre"
     },
     {
       "surface": "עשרו",
-      "english": "su riqueza"
+      "gloss": "su riqueza"
     },
     {
       "surface": "ורש",
-      "english": "y el pobre"
+      "gloss": "y el pobre"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "שמע",
-      "english": "oye"
+      "gloss": "oye"
     },
     {
       "surface": "גערה",
-      "english": "reprensión"
+      "gloss": "reprensión"
     }
-  ],
-  "timestamp": "2026-06-10T01:37:29.077100039Z",
-  "model": "glm-4.5"
+  ]
 }

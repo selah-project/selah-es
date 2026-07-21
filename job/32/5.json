@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "job 32:5",
   "book": "job",
-  "lang": "es",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 580,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27259,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27839
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:11:20.983422681Z",
   "translation": "Y Elihu vio ⟨que⟩ ⟨no⟩ había respuesta en ⟨la⟩ boca ⟨de⟩ ⟨los⟩ tres ⟨hombres⟩, y ⟨se⟩ encendió ⟨su⟩ furor",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "Y ... vio"
+      "gloss": "Y ... vio"
     },
     {
       "surface": "אליהוא",
-      "english": "Elihu"
+      "gloss": "Elihu"
     },
     {
       "surface": "כי",
-      "english": "⟨que⟩"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "אין",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "מענה",
-      "english": "respuesta"
+      "gloss": "respuesta"
     },
     {
       "surface": "בפי",
-      "english": "en ⟨la⟩ boca ⟨de⟩"
+      "gloss": "en ⟨la⟩ boca ⟨de⟩"
     },
     {
       "surface": "שלשת",
-      "english": "⟨los⟩ tres"
+      "gloss": "⟨los⟩ tres"
     },
     {
       "surface": "האנשים",
-      "english": "⟨hombres⟩"
+      "gloss": "⟨hombres⟩"
     },
     {
       "surface": "ויחר",
-      "english": "y ⟨se⟩ encendió"
+      "gloss": "y ⟨se⟩ encendió"
     },
     {
       "surface": "אפו",
-      "english": "⟨su⟩ furor"
+      "gloss": "⟨su⟩ furor"
     }
-  ],
-  "timestamp": "2026-06-10T02:11:20.983422681Z",
-  "model": "glm-4.5"
+  ]
 }

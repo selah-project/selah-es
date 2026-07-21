@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 33:20",
   "book": "exodus",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 24321,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24707
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:24:34.387296393Z",
   "translation": "Y dijo: No podrás ⟨tú⟩ ver ⟨את⟩ mi rostro, porque no me verá el hombre y vivirá.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תוכל",
-      "english": "podrás ⟨tú⟩"
+      "gloss": "podrás ⟨tú⟩"
     },
     {
       "surface": "לראת",
-      "english": "ver"
+      "gloss": "ver"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mi rostro"
     },
     {
       "surface": "פני",
-      "english": "mi rostro"
+      "gloss": "mi rostro"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יראני",
-      "english": "me verá"
+      "gloss": "me verá"
     },
     {
       "surface": "האדם",
-      "english": "el hombre"
+      "gloss": "el hombre"
     },
     {
       "surface": "וחי",
-      "english": "y vivirá"
+      "gloss": "y vivirá"
     }
-  ],
-  "timestamp": "2026-07-16T20:24:34.387296393Z",
-  "model": "glm-4.5"
+  ]
 }

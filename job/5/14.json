@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 5:14",
   "book": "job",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27019,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27404
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:55:51.148083415Z",
   "translation": "Por día se toparán ⟨con⟩ tinieblas y ⟨como⟩ de noche ⟨se⟩ palpitarán en ⟨el⟩ mediodía",
   "tokens": [
     {
       "surface": "יומם",
-      "english": "Por día"
+      "gloss": "Por día"
     },
     {
       "surface": "יפגשו",
-      "english": "se toparán ⟨con⟩"
+      "gloss": "se toparán ⟨con⟩"
     },
     {
       "surface": "חשך",
-      "english": "tinieblas"
+      "gloss": "tinieblas"
     },
     {
       "surface": "וכלילה",
-      "english": "y ⟨como⟩ de noche"
+      "gloss": "y ⟨como⟩ de noche"
     },
     {
       "surface": "ימששו",
-      "english": "⟨se⟩ palpitarán"
+      "gloss": "⟨se⟩ palpitarán"
     },
     {
       "surface": "בצהרים",
-      "english": "en ⟨el⟩ mediodía"
+      "gloss": "en ⟨el⟩ mediodía"
     }
-  ],
-  "timestamp": "2026-06-10T01:55:51.148083415Z",
-  "model": "glm-4.5"
+  ]
 }

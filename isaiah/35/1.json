@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 35:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26026,
-    "prompt_tokens_details": {
-      "cached_tokens": 25006
-    },
-    "total_tokens": 26575
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:41:58.796344249Z",
   "translation": "Se alegrará ⟨el⟩ desierto y ⟨la⟩ tierra árida, y se regocijará ⟨la⟩ estepa y florecerá ⟨como⟩ ⟨un⟩ narciso.",
   "tokens": [
     {
       "surface": "יששום",
-      "english": "Se alegrará"
+      "gloss": "Se alegrará"
     },
     {
       "surface": "מדבר",
-      "english": "⟨el⟩ desierto"
+      "gloss": "⟨el⟩ desierto"
     },
     {
       "surface": "וציה",
-      "english": "y ⟨la⟩ tierra árida"
+      "gloss": "y ⟨la⟩ tierra árida"
     },
     {
       "surface": "ותגל",
-      "english": "y se regocijará"
+      "gloss": "y se regocijará"
     },
     {
       "surface": "ערבה",
-      "english": "⟨la⟩ estepa"
+      "gloss": "⟨la⟩ estepa"
     },
     {
       "surface": "ותפרח",
-      "english": "y florecerá"
+      "gloss": "y florecerá"
     },
     {
       "surface": "כחבצלת",
-      "english": "⟨como⟩ ⟨un⟩ narciso"
+      "gloss": "⟨como⟩ ⟨un⟩ narciso"
     }
-  ],
-  "timestamp": "2026-06-10T02:41:58.796344249Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,26 +1,17 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 18:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 1382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59808,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 61190
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:42:32.825322824Z",
   "translation": "El presente ⟨de un⟩ hombre ⟨lo⟩ ensancha ⟨a⟩ él, y ⟨lo⟩ conduce ⟨a⟩ él ⟨al⟩ frente ⟨de⟩ ⟨los⟩ grandes.",
   "tokens": [
     {
       "surface": "מתן",
-      "english": "El presente",
+      "gloss": "El presente",
       "gv": 490,
       "freq": 7,
       "books": 5,
@@ -29,7 +20,7 @@
     },
     {
       "surface": "אדם",
-      "english": "⟨de un⟩ hombre",
+      "gloss": "⟨de un⟩ hombre",
       "gv": 45,
       "freq": 367,
       "books": 30,
@@ -38,7 +29,7 @@
     },
     {
       "surface": "ירחיב",
-      "english": "⟨lo⟩ ensancha",
+      "gloss": "⟨lo⟩ ensancha",
       "gv": 230,
       "freq": 3,
       "books": 2,
@@ -47,7 +38,7 @@
     },
     {
       "surface": "לו",
-      "english": "⟨a⟩ él",
+      "gloss": "⟨a⟩ él",
       "gv": 36,
       "freq": 1136,
       "books": 36,
@@ -56,7 +47,7 @@
     },
     {
       "surface": "ולפני",
-      "english": "y ⟨lo⟩ conduce ⟨a⟩ él ⟨al⟩ frente ⟨de⟩",
+      "gloss": "y ⟨lo⟩ conduce ⟨a⟩ él ⟨al⟩ frente ⟨de⟩",
       "gv": 176,
       "freq": 34,
       "books": 15,
@@ -65,7 +56,7 @@
     },
     {
       "surface": "גדלים",
-      "english": "⟨los⟩ grandes",
+      "gloss": "⟨los⟩ grandes",
       "gv": 87,
       "freq": 23,
       "books": 11,
@@ -74,14 +65,12 @@
     },
     {
       "surface": "ינחנו",
-      "english": "⟨lo⟩ conduce ⟨a⟩ él",
+      "gloss": "⟨lo⟩ conduce ⟨a⟩ él",
       "gv": 124,
       "freq": 2,
       "books": 2,
       "anagram_room_size": 4,
       "rationale": "Yanjenú (ינחנו) es la forma hifil 'hace ir, guía, conduce, transporta'. El verbo aparece solo aquí y en Gn 20:13. La repetición de 'lo conduce a él' es intencional para mantener el paralelismo del hebreo."
     }
-  ],
-  "timestamp": "2026-06-10T01:42:32.825322824Z",
-  "model": "glm-4.5"
+  ]
 }

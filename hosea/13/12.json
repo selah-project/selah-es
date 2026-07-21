@@ -1,45 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "hosea 13:12",
   "book": "hosea",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26318,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26713
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:49:40.861695829Z",
   "translation": "Bound up ⟨is⟩ ⟨את⟩ the iniquity of Ephraim; ⟨את⟩ his sin ⟨is⟩ hidden away.",
   "tokens": [
     {
       "surface": "צרור",
-      "english": "Bound up",
+      "gloss": "Bound up",
       "marks": "the iniquity of Ephraim"
     },
     {
       "surface": "עון",
-      "english": "iniquity"
+      "gloss": "iniquity"
     },
     {
       "surface": "אפרים",
-      "english": "Ephraim"
+      "gloss": "Ephraim"
     },
     {
       "surface": "צפונה",
-      "english": "hidden away"
+      "gloss": "hidden away"
     },
     {
       "surface": "חטאתו",
-      "english": "his sin"
+      "gloss": "his sin"
     }
-  ],
-  "timestamp": "2026-06-09T22:49:40.861695829Z",
-  "model": "glm-4.5"
+  ]
 }

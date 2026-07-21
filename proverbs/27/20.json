@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 27:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59893,
-    "prompt_tokens_details": {
-      "cached_tokens": 58892
-    },
-    "total_tokens": 60318
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:49:10.519412216Z",
   "translation": "el Sheol y ⟨el⟩ Abadón ⟨son⟩ nunca saciados, y ⟨los⟩ ojos ⟨del⟩ hombre ⟨son⟩ nunca saciados",
   "tokens": [
     {
       "surface": "שאול",
-      "english": "El Sheol"
+      "gloss": "El Sheol"
     },
     {
       "surface": "ואבדה",
-      "english": "y ⟨el⟩ Abadón",
+      "gloss": "y ⟨el⟩ Abadón",
       "marks": "Abadón"
     },
     {
       "surface": "לא",
-      "english": "nunca"
+      "gloss": "nunca"
     },
     {
       "surface": "תשבענה",
-      "english": "saciados"
+      "gloss": "saciados"
     },
     {
       "surface": "ועיני",
-      "english": "y ⟨los⟩ ojos",
+      "gloss": "y ⟨los⟩ ojos",
       "marks": "ojos"
     },
     {
       "surface": "האדם",
-      "english": "⟨del⟩ hombre",
+      "gloss": "⟨del⟩ hombre",
       "marks": "hombre"
     },
     {
       "surface": "לא",
-      "english": "nunca"
+      "gloss": "nunca"
     },
     {
       "surface": "תשבענה",
-      "english": "saciados"
+      "gloss": "saciados"
     }
-  ],
-  "timestamp": "2026-06-10T01:49:10.519412216Z",
-  "model": "glm-4.5"
+  ]
 }

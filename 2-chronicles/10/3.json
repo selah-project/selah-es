@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "2-chronicles 10:3",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 10,
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:10:04.931203008Z",
+  "translation": "Y enviaron y llamaron ⟨a⟩ él, y vino Yarovám y todo Yisrael, y hablaron ⟨a⟩ Rejavam, diciendo:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Y enviaron"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "y llamaron"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a⟩ él"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "y vino"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovám"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "y todo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "y hablaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jeroboam",
@@ -27,68 +78,6 @@
       "hebrew": "רחבעם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58003,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58340
-  },
-  "translation": "Y enviaron y llamaron ⟨a⟩ él, y vino Yarovám y todo Yisrael, y hablaron ⟨a⟩ Rejavam, diciendo:",
-  "tokens": [
-    {
-      "surface": "וישלחו",
-      "english": "Y enviaron"
-    },
-    {
-      "surface": "ויקראו",
-      "english": "y llamaron"
-    },
-    {
-      "surface": "לו",
-      "english": "⟨a⟩ él"
-    },
-    {
-      "surface": "ויבא",
-      "english": "y vino"
-    },
-    {
-      "surface": "ירבעם",
-      "english": "Yarovám"
-    },
-    {
-      "surface": "וכל",
-      "english": "y todo"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "וידברו",
-      "english": "y hablaron"
-    },
-    {
-      "surface": "אל",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:10:04.931203008Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

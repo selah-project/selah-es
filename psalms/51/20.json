@@ -1,9 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 51:20",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "psalms",
+  "chapter": 51,
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:15:48.460791857Z",
+  "translation": "Haz bien ⟨por⟩ tu buen querer ⟨a⟩ Tsión ⟨את⟩; edifica ⟨las⟩ murallas ⟨de⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Haz bien"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "⟨por⟩ tu buen querer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨a⟩",
+      "marks": "Tsión"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsión"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "edifica"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "⟨las⟩ murallas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨de⟩ Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalén",
@@ -13,53 +49,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 51,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 62497,
-    "prompt_tokens_details": {
-      "cached_tokens": 61592
-    },
-    "total_tokens": 63005
-  },
-  "translation": "Haz bien ⟨por⟩ tu buen querer ⟨a⟩ Tsión ⟨את⟩; edifica ⟨las⟩ murallas ⟨de⟩ Yerushalayim.",
-  "tokens": [
-    {
-      "surface": "היטיבה",
-      "english": "Haz bien"
-    },
-    {
-      "surface": "ברצונך",
-      "english": "⟨por⟩ tu buen querer"
-    },
-    {
-      "surface": "את",
-      "english": "⟨a⟩",
-      "marks": "Tsión"
-    },
-    {
-      "surface": "ציון",
-      "english": "Tsión"
-    },
-    {
-      "surface": "תבנה",
-      "english": "edifica"
-    },
-    {
-      "surface": "חומות",
-      "english": "⟨las⟩ murallas"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "⟨de⟩ Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:15:48.460791857Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 11:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69777,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70154
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T06:34:35.465386628Z",
   "translation": "For ⟨the⟩ foundations will ⟨be⟩ destroyed, what ⟨has⟩ ⟨the⟩ righteous done?",
   "tokens": [
     {
       "surface": "כי",
-      "english": "For"
+      "gloss": "For"
     },
     {
       "surface": "השתות",
-      "english": "the foundations",
+      "gloss": "the foundations",
       "notes": "Hapax (only occurrence in Tanakh)"
     },
     {
       "surface": "יהרסון",
-      "english": "will ⟨be⟩ destroyed",
+      "gloss": "will ⟨be⟩ destroyed",
       "notes": "Hapax (only occurrence in Tanakh)"
     },
     {
       "surface": "צדיק",
-      "english": "the righteous"
+      "gloss": "the righteous"
     },
     {
       "surface": "מה",
-      "english": "what"
+      "gloss": "what"
     },
     {
       "surface": "פעל",
-      "english": "done"
+      "gloss": "done"
     }
-  ],
-  "timestamp": "2026-06-10T06:34:35.465386628Z",
-  "model": "glm-4.5"
+  ]
 }

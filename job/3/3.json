@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 3:3",
   "book": "job",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27094,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27431
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:54:25.202666577Z",
   "translation": "⟨Let⟩ perish the day ⟨that⟩ I was born in it, and ⟨the⟩ night ⟨that⟩ said, ⟨There is⟩ a man child conceived.",
   "tokens": [
     {
       "surface": "יאבד",
-      "english": "Perish"
+      "gloss": "Perish"
     },
     {
       "surface": "יום",
-      "english": "the day"
+      "gloss": "the day"
     },
     {
       "surface": "אולד",
-      "english": "⟨that⟩ I was born"
+      "gloss": "⟨that⟩ I was born"
     },
     {
       "surface": "בו",
-      "english": "in it"
+      "gloss": "in it"
     },
     {
       "surface": "והלילה",
-      "english": "and ⟨the⟩ night"
+      "gloss": "and ⟨the⟩ night"
     },
     {
       "surface": "אמר",
-      "english": "said"
+      "gloss": "said"
     },
     {
       "surface": "הרה",
-      "english": "conceived"
+      "gloss": "conceived"
     },
     {
       "surface": "גבר",
-      "english": "a man child"
+      "gloss": "a man child"
     }
-  ],
-  "timestamp": "2026-06-10T01:54:25.202666577Z",
-  "model": "glm-4.5"
+  ]
 }

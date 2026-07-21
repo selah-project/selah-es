@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "numbers 30:11",
   "book": "numbers",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 654,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25267,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25921
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:04:28.339606429Z",
   "translation": "Y si ⟨la⟩ casa ⟨de⟩ un hombre ⟨hizo⟩ un voto ⟨o⟩ ⟨la⟩ obligación ⟨de⟩ una abstinencia ⟨sobre⟩ ⟨su⟩ alma ⟨en⟩ juramento",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "Y si"
+      "gloss": "Y si"
     },
     {
       "surface": "בית",
-      "english": "⟨la⟩ casa"
+      "gloss": "⟨la⟩ casa"
     },
     {
       "surface": "אישה",
-      "english": "⟨de⟩ un hombre"
+      "gloss": "⟨de⟩ un hombre"
     },
     {
       "surface": "נדרה",
-      "english": "⟨hizo⟩ un voto"
+      "gloss": "⟨hizo⟩ un voto"
     },
     {
       "surface": "או",
-      "english": "⟨o⟩"
+      "gloss": "⟨o⟩"
     },
     {
       "surface": "אסרה",
-      "english": "⟨la⟩ obligación"
+      "gloss": "⟨la⟩ obligación"
     },
     {
       "surface": "אסר",
-      "english": "⟨de⟩ una abstinencia"
+      "gloss": "⟨de⟩ una abstinencia"
     },
     {
       "surface": "על",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "נפשה",
-      "english": "⟨su⟩ alma"
+      "gloss": "⟨su⟩ alma"
     },
     {
       "surface": "בשבעה",
-      "english": "⟨en⟩ juramento"
+      "gloss": "⟨en⟩ juramento"
     }
-  ],
-  "timestamp": "2026-06-10T05:04:28.339606429Z",
-  "model": "glm-4.5"
+  ]
 }

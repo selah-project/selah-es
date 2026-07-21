@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "proverbs 15:23",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59859,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60334
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:39:56.378143108Z",
   "translation": "Alegría ⟨para el⟩ hombre ⟨en⟩ la respuesta ⟨de⟩ su boca, ⟨y⟩ ⟨la⟩ palabra ⟨en⟩ su tiempo adecuado ⟨—⟩ ¡qué ⟨es⟩ buena!",
   "tokens": [
     {
       "surface": "שמחה",
-      "english": "Alegría"
+      "gloss": "Alegría"
     },
     {
       "surface": "לאיש",
-      "english": "⟨para el⟩ hombre",
+      "gloss": "⟨para el⟩ hombre",
       "marks": "hombre"
     },
     {
       "surface": "במענה",
-      "english": "⟨en⟩ la respuesta"
+      "gloss": "⟨en⟩ la respuesta"
     },
     {
       "surface": "פיו",
-      "english": "⟨de⟩ su boca",
+      "gloss": "⟨de⟩ su boca",
       "marks": "su boca"
     },
     {
       "surface": "ודבר",
-      "english": "⟨y⟩ ⟨la⟩ palabra",
+      "gloss": "⟨y⟩ ⟨la⟩ palabra",
       "marks": "palabra"
     },
     {
       "surface": "בעתו",
-      "english": "⟨en⟩ su tiempo adecuado"
+      "gloss": "⟨en⟩ su tiempo adecuado"
     },
     {
       "surface": "מה",
-      "english": "¡qué ⟨es⟩"
+      "gloss": "¡qué ⟨es⟩"
     },
     {
       "surface": "טוב",
-      "english": "buena"
+      "gloss": "buena"
     }
-  ],
-  "timestamp": "2026-06-10T01:39:56.378143108Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 17:13",
   "book": "psalms",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70193,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70694
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:03:50.053609240Z",
   "translation": "Levántate YHWH ⟨que⟩ preceda su faz ⟨lo⟩ hagas inclinar; libra ⟨a⟩ mi nefesh de ⟨un⟩ malvado con tu espada",
   "tokens": [
     {
       "surface": "קומה",
-      "english": "Levántate"
+      "gloss": "Levántate"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "קדמה",
-      "english": "⟨que⟩ preceda"
+      "gloss": "⟨que⟩ preceda"
     },
     {
       "surface": "פניו",
-      "english": "su faz"
+      "gloss": "su faz"
     },
     {
       "surface": "הכריעהו",
-      "english": "⟨lo⟩ hagas inclinar"
+      "gloss": "⟨lo⟩ hagas inclinar"
     },
     {
       "surface": "פלטה",
-      "english": "libra"
+      "gloss": "libra"
     },
     {
       "surface": "נפשי",
-      "english": "⟨a⟩ mi nefesh"
+      "gloss": "⟨a⟩ mi nefesh"
     },
     {
       "surface": "מרשע",
-      "english": "de ⟨un⟩ malvado"
+      "gloss": "de ⟨un⟩ malvado"
     },
     {
       "surface": "חרבך",
-      "english": "con tu espada"
+      "gloss": "con tu espada"
     }
-  ],
-  "timestamp": "2026-06-09T23:03:50.053609240Z",
-  "model": "glm-4.5"
+  ]
 }

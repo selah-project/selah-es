@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 89:30",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69734,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70059
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:43:33.016810354Z",
   "translation": "If ⟨his⟩ children forsake ⟨is⟩ my ⟨את⟩ law, and ⟨they⟩ walk not in ⟨my⟩ judgments:",
   "tokens": [
     {
       "surface": "ושמתי",
-      "english": "If"
+      "gloss": "If"
     },
     {
       "surface": "לעד",
-      "english": "children"
+      "gloss": "children"
     },
     {
       "surface": "זרעו",
-      "english": "forsake",
+      "gloss": "forsake",
       "marks": "my ⟨את⟩ law"
     },
     {
       "surface": "וכסאו",
-      "english": "walk"
+      "gloss": "walk"
     },
     {
       "surface": "כימי",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "שמים",
-      "english": "judgments"
+      "gloss": "judgments"
     }
-  ],
-  "timestamp": "2026-06-09T23:43:33.016810354Z",
-  "model": "glm-4.5"
+  ]
 }

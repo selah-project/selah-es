@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "numbers 13:25",
   "book": "numbers",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 314,
-    "prompt_tokens": 24940,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 25254
-  },
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:02:18.760666992Z",
   "translation": "Y volvieron del escudriñar de la tierra ⟨al⟩ cabo de cuarenta días",
   "tokens": [
     {
       "surface": "וישבו",
-      "english": "Y volvieron"
+      "gloss": "Y volvieron"
     },
     {
       "surface": "מתור",
-      "english": "del escudriñar"
+      "gloss": "del escudriñar"
     },
     {
       "surface": "הארץ",
-      "english": "de la tierra"
+      "gloss": "de la tierra"
     },
     {
       "surface": "מקץ",
-      "english": "⟨al⟩ cabo"
+      "gloss": "⟨al⟩ cabo"
     },
     {
       "surface": "ארבעים",
-      "english": "cuarenta"
+      "gloss": "cuarenta"
     },
     {
       "surface": "יום",
-      "english": "día"
+      "gloss": "día"
     }
-  ],
-  "timestamp": "2026-07-16T23:02:18.760666992Z",
-  "model": "glm-4.5"
+  ]
 }

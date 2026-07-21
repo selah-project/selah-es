@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "song-of-songs 1:2",
   "book": "song-of-songs",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27463,
-    "prompt_tokens_details": {
-      "cached_tokens": 26436
-    },
-    "total_tokens": 28021
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:36:18.696758798Z",
   "translation": "⟨Él⟩ me bese ⟨con⟩ los besos de ⟨su⟩ boca, ⟨porque⟩ ⟨el⟩ amor de ⟨ti⟩ ⟨es⟩ mejor ⟨que⟩ ⟨el⟩ vino.",
   "tokens": [
     {
       "surface": "ישקני",
-      "english": "⟨Él⟩ me bese"
+      "gloss": "⟨Él⟩ me bese"
     },
     {
       "surface": "מנשיקות",
-      "english": "⟨con⟩ los besos"
+      "gloss": "⟨con⟩ los besos"
     },
     {
       "surface": "פיהו",
-      "english": "de ⟨su⟩ boca"
+      "gloss": "de ⟨su⟩ boca"
     },
     {
       "surface": "כי",
-      "english": "⟨porque⟩"
+      "gloss": "⟨porque⟩"
     },
     {
       "surface": "טובים",
-      "english": "⟨es⟩ mejor"
+      "gloss": "⟨es⟩ mejor"
     },
     {
       "surface": "דדיך",
-      "english": "⟨el⟩ amor de ⟨ti⟩"
+      "gloss": "⟨el⟩ amor de ⟨ti⟩"
     },
     {
       "surface": "מיין",
-      "english": "⟨que⟩ ⟨el⟩ vino"
+      "gloss": "⟨que⟩ ⟨el⟩ vino"
     }
-  ],
-  "timestamp": "2026-06-09T22:36:18.696758798Z",
-  "model": "glm-4.5"
+  ]
 }

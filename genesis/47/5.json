@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 47:5",
   "book": "genesis",
-  "lang": "es",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28438,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28716
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:43:51.516212639Z",
   "translation": "Y Paróh dijo a Yosef: Tu padre y tus hermanos ⟨han⟩ venido ⟨a⟩ ti",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y ... dijo"
+      "gloss": "Y ... dijo"
     },
     {
       "surface": "פרעה",
-      "english": "Paróh"
+      "gloss": "Paróh"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "יוסף",
-      "english": "Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "לאמר",
-      "english": ":"
+      "gloss": ":"
     },
     {
       "surface": "אביך",
-      "english": "tu padre"
+      "gloss": "tu padre"
     },
     {
       "surface": "ואחיך",
-      "english": "y tus hermanos"
+      "gloss": "y tus hermanos"
     },
     {
       "surface": "באו",
-      "english": "⟨han⟩ venido"
+      "gloss": "⟨han⟩ venido"
     },
     {
       "surface": "אליך",
-      "english": "⟨a⟩ ti"
+      "gloss": "⟨a⟩ ti"
     }
-  ],
-  "timestamp": "2026-06-10T05:43:51.516212639Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-chronicles 15:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 15,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:43:56.268133168Z",
+  "translation": "Y Davidd convocó a Tzadok y a Ebyatar ⟨los⟩ sacerdotes, y a ⟨los⟩ levitas: a Uriel, Asayá, Yoel, Shemayá, Eliel y Aminadav.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Y convocó"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "a Tzadok"
+    },
+    {
+      "surface": "ולאביתר",
+      "gloss": "y a Ebyatar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨los⟩ sacerdotes",
+      "marks": "sacerdotes"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "y a ⟨los⟩ levitas",
+      "marks": "levitas"
+    },
+    {
+      "surface": "לאוריאל",
+      "gloss": "a Uriel"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asayá"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "y Yoel"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemayá"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "y Eliel"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "y Aminadav"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,74 +70,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 15,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57301,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57879
-  },
-  "translation": "Y Davidd convocó a Tzadok y a Ebyatar ⟨los⟩ sacerdotes, y a ⟨los⟩ levitas: a Uriel, Asayá, Yoel, Shemayá, Eliel y Aminadav.",
-  "tokens": [
-    {
-      "surface": "ויקרא",
-      "english": "Y convocó"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "לצדוק",
-      "english": "a Tzadok"
-    },
-    {
-      "surface": "ולאביתר",
-      "english": "y a Ebyatar"
-    },
-    {
-      "surface": "הכהנים",
-      "english": "⟨los⟩ sacerdotes",
-      "marks": "sacerdotes"
-    },
-    {
-      "surface": "וללוים",
-      "english": "y a ⟨los⟩ levitas",
-      "marks": "levitas"
-    },
-    {
-      "surface": "לאוריאל",
-      "english": "a Uriel"
-    },
-    {
-      "surface": "עשיה",
-      "english": "Asayá"
-    },
-    {
-      "surface": "ויואל",
-      "english": "y Yoel"
-    },
-    {
-      "surface": "שמעיה",
-      "english": "Shemayá"
-    },
-    {
-      "surface": "ואליאל",
-      "english": "y Eliel"
-    },
-    {
-      "surface": "ועמינדב",
-      "english": "y Aminadav"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:43:56.268133168Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

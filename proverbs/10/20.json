@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 10:20",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59817,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60175
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:35:47.915487881Z",
   "translation": "Lengua ⟨de⟩ justo ⟨es⟩ plata selecta; ⟨el⟩ corazón ⟨de⟩ impíos tiene poco valor.",
   "tokens": [
     {
       "surface": "כסף",
-      "english": "Plata"
+      "gloss": "Plata"
     },
     {
       "surface": "נבחר",
-      "english": "selecta"
+      "gloss": "selecta"
     },
     {
       "surface": "לשון",
-      "english": "Lengua"
+      "gloss": "Lengua"
     },
     {
       "surface": "צדיק",
-      "english": "justo"
+      "gloss": "justo"
     },
     {
       "surface": "לב",
-      "english": "corazón"
+      "gloss": "corazón"
     },
     {
       "surface": "רשעים",
-      "english": "impíos"
+      "gloss": "impíos"
     },
     {
       "surface": "כמעט",
-      "english": "tiene poco valor"
+      "gloss": "tiene poco valor"
     }
-  ],
-  "timestamp": "2026-06-10T01:35:47.915487881Z",
-  "model": "glm-4.5"
+  ]
 }

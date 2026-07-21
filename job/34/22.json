@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 34:22",
   "book": "job",
-  "lang": "es",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27127,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27545
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:54.447524303Z",
   "translation": "No hay oscuridad y no hay ⟨el⟩ sombra de muerte para que allí se escondan ⟨los⟩ hacedores de ⟨la⟩ iniquidad",
   "tokens": [
     {
       "surface": "אין",
-      "english": "No hay"
+      "gloss": "No hay"
     },
     {
       "surface": "חשך",
-      "english": "oscuridad"
+      "gloss": "oscuridad"
     },
     {
       "surface": "ואין",
-      "english": "y no hay"
+      "gloss": "y no hay"
     },
     {
       "surface": "צלמות",
-      "english": "⟨el⟩ sombra de muerte"
+      "gloss": "⟨el⟩ sombra de muerte"
     },
     {
       "surface": "להסתר",
-      "english": "para que allí se escondan"
+      "gloss": "para que allí se escondan"
     },
     {
       "surface": "שם",
-      "english": "allí"
+      "gloss": "allí"
     },
     {
       "surface": "פעלי",
-      "english": "⟨los⟩ hacedores"
+      "gloss": "⟨los⟩ hacedores"
     },
     {
       "surface": "און",
-      "english": "de ⟨la⟩ iniquidad"
+      "gloss": "de ⟨la⟩ iniquidad"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:54.447524303Z",
-  "model": "glm-4.5"
+  ]
 }

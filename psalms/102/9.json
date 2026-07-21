@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 102:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 376,
-    "prompt_tokens": 69972,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70348
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:38:03.768097331Z",
   "translation": "Todo el día ⟨me⟩ afrentan ⟨את⟩ mis enemigos, los que se jactan contra mí ⟨han jurado⟩ contra mí.",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Todo"
+      "gloss": "Todo"
     },
     {
       "surface": "היום",
-      "english": "el día"
+      "gloss": "el día"
     },
     {
       "surface": "חרפוני",
-      "english": "⟨me⟩ afrentan"
+      "gloss": "⟨me⟩ afrentan"
     },
     {
       "surface": "אויבי",
-      "english": "⟨את⟩ mis enemigos",
+      "gloss": "⟨את⟩ mis enemigos",
       "marks": "mis enemigos"
     },
     {
       "surface": "מהוללי",
-      "english": "los que se jactan contra mí"
+      "gloss": "los que se jactan contra mí"
     },
     {
       "surface": "בי",
-      "english": "contra mí"
+      "gloss": "contra mí"
     },
     {
       "surface": "נשבעו",
-      "english": "⟨han jurado⟩"
+      "gloss": "⟨han jurado⟩"
     }
-  ],
-  "timestamp": "2026-07-16T23:38:03.768097331Z",
-  "model": "glm-4.5"
+  ]
 }

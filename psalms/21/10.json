@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 21:10",
   "book": "psalms",
-  "lang": "es",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 622,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70137,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70759
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:06:10.235348468Z",
   "translation": "Los pondrás ⟨como⟩ horno de fuego ⟨al⟩ tiempo ⟨del⟩ rostro tuyo, YHWH; ⟨en⟩ su ira ⟨los⟩ tragará, y ⟨el⟩ fuego ⟨los⟩ devorará.",
   "tokens": [
     {
       "surface": "תשיתמו",
-      "english": "Los pondrás"
+      "gloss": "Los pondrás"
     },
     {
       "surface": "כתנור",
-      "english": "como horno de fuego"
+      "gloss": "como horno de fuego"
     },
     {
       "surface": "אש",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "לעת",
-      "english": "⟨al⟩ tiempo"
+      "gloss": "⟨al⟩ tiempo"
     },
     {
       "surface": "פניך",
-      "english": "⟨del⟩ rostro tuyo"
+      "gloss": "⟨del⟩ rostro tuyo"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "באפו",
-      "english": "⟨en⟩ su ira"
+      "gloss": "⟨en⟩ su ira"
     },
     {
       "surface": "יבלעם",
-      "english": "⟨los⟩ tragará"
+      "gloss": "⟨los⟩ tragará"
     },
     {
       "surface": "ותאכלם",
-      "english": "y ⟨el⟩ fuego"
+      "gloss": "y ⟨el⟩ fuego"
     },
     {
       "surface": "אש",
-      "english": "⟨los⟩ devorará"
+      "gloss": "⟨los⟩ devorará"
     }
-  ],
-  "timestamp": "2026-06-09T23:06:10.235348468Z",
-  "model": "glm-4.5"
+  ]
 }

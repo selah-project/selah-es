@@ -1,54 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "zechariah 2:11",
   "book": "zechariah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23107,
-    "prompt_tokens_details": {
-      "cached_tokens": 22082
-    },
-    "total_tokens": 23566
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:50:21.108764367Z",
   "translation": "¡Oh! Tzión ⟨escapa⟩ ⟨la⟩ que ⟨está⟩ habitando ⟨en⟩ ⟨la⟩ hija de Babel",
   "tokens": [
     {
       "surface": "הוי",
-      "english": "¡Oh!",
+      "gloss": "¡Oh!",
       "marks": "interjección"
     },
     {
       "surface": "ציון",
-      "english": "Tzión",
+      "gloss": "Tzión",
       "marks": "Tzión"
     },
     {
       "surface": "המלטי",
-      "english": "⟨escapa⟩",
+      "gloss": "⟨escapa⟩",
       "marks": "escape"
     },
     {
       "surface": "יושבת",
-      "english": "⟨la⟩ que ⟨está⟩ habitando",
+      "gloss": "⟨la⟩ que ⟨está⟩ habitando",
       "marks": "habitante"
     },
     {
       "surface": "בת",
-      "english": "⟨en⟩ ⟨la⟩ hija",
+      "gloss": "⟨en⟩ ⟨la⟩ hija",
       "marks": "hija de Babel"
     },
     {
       "surface": "בבל",
-      "english": "de Babel",
+      "gloss": "de Babel",
       "marks": "Babel"
     }
-  ],
-  "timestamp": "2026-06-09T22:50:21.108764367Z",
-  "model": "glm-4.5"
+  ]
 }

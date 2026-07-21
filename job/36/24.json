@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "job 36:24",
   "book": "job",
-  "lang": "es",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 367,
-    "prompt_tokens": 27112,
-    "prompt_tokens_details": {
-      "cached_tokens": 26112
-    },
-    "total_tokens": 27479
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:01:43.252839067Z",
   "translation": "Recuerda que ⟨tú⟩ engrandeces ⟨את⟩ su obra, ⟨de la cual⟩ ⟨los⟩ hombres han cantado.",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "Recuerda"
+      "gloss": "Recuerda"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "תשגיא",
-      "english": "engrandeces"
+      "gloss": "engrandeces"
     },
     {
       "surface": "פעלו",
-      "english": "⟨את⟩ su obra",
+      "gloss": "⟨את⟩ su obra",
       "marks": "su obra"
     },
     {
       "surface": "אשר",
-      "english": "⟨de la cual⟩"
+      "gloss": "⟨de la cual⟩"
     },
     {
       "surface": "שררו",
-      "english": "han cantado"
+      "gloss": "han cantado"
     },
     {
       "surface": "אנשים",
-      "english": "⟨los⟩ hombres"
+      "gloss": "⟨los⟩ hombres"
     }
-  ],
-  "timestamp": "2026-07-16T22:01:43.252839067Z",
-  "model": "glm-4.5"
+  ]
 }

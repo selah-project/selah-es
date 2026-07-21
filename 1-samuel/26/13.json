@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-samuel 26:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 26,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:11:01.416737452Z",
+  "translation": "Entonces Davidd pasó ⟨al⟩ otro lado y se puso en pie sobre ⟨la⟩ cima del monte a distancia, un gran espacio ⟨había⟩ entre ellos",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Pasó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "⟨al⟩ otro lado"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "se puso en pie"
+    },
+    {
+      "surface": "על",
+      "gloss": "sobre"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨la⟩ cima"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "del monte"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "a distancia"
+    },
+    {
+      "surface": "רב",
+      "gloss": "un gran"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "espacio"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "entre ellos"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,68 +64,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16375,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16777
-  },
-  "translation": "Entonces Davidd pasó ⟨al⟩ otro lado y se puso en pie sobre ⟨la⟩ cima del monte a distancia, un gran espacio ⟨había⟩ entre ellos",
-  "tokens": [
-    {
-      "surface": "ויעבר",
-      "english": "Pasó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "העבר",
-      "english": "⟨al⟩ otro lado"
-    },
-    {
-      "surface": "ויעמד",
-      "english": "se puso en pie"
-    },
-    {
-      "surface": "על",
-      "english": "sobre"
-    },
-    {
-      "surface": "ראש",
-      "english": "⟨la⟩ cima"
-    },
-    {
-      "surface": "ההר",
-      "english": "del monte"
-    },
-    {
-      "surface": "מרחק",
-      "english": "a distancia"
-    },
-    {
-      "surface": "רב",
-      "english": "un gran"
-    },
-    {
-      "surface": "המקום",
-      "english": "espacio"
-    },
-    {
-      "surface": "ביניהם",
-      "english": "entre ellos"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:11:01.416737452Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

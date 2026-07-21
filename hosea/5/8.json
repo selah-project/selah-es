@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "hosea 5:8",
   "book": "hosea",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26772,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 27307
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:45:40.537874096Z",
   "translation": "¡Tocad ⟨el⟩ shofar en Guibeá, ⟨la⟩ trompeta en Ramá; ¡Gritad ⟨con⟩ estruendo en Bet-Avén, tras de ti, Binjamín!",
   "tokens": [
     {
       "surface": "תקעו",
-      "english": "¡Tocad"
+      "gloss": "¡Tocad"
     },
     {
       "surface": "שופר",
-      "english": "⟨el⟩ shofar"
+      "gloss": "⟨el⟩ shofar"
     },
     {
       "surface": "בגבעה",
-      "english": "en Guibeá"
+      "gloss": "en Guibeá"
     },
     {
       "surface": "חצצרה",
-      "english": "⟨la⟩ trompeta"
+      "gloss": "⟨la⟩ trompeta"
     },
     {
       "surface": "ברמה",
-      "english": "en Ramá"
+      "gloss": "en Ramá"
     },
     {
       "surface": "הריעו",
-      "english": "¡Gritad ⟨con⟩ estruendo"
+      "gloss": "¡Gritad ⟨con⟩ estruendo"
     },
     {
       "surface": "בית",
-      "english": "Bet"
+      "gloss": "Bet"
     },
     {
       "surface": "און",
-      "english": "Avén"
+      "gloss": "Avén"
     },
     {
       "surface": "אחריך",
-      "english": "tras de ti"
+      "gloss": "tras de ti"
     },
     {
       "surface": "בנימין",
-      "english": "Binjamín"
+      "gloss": "Binjamín"
     }
-  ],
-  "timestamp": "2026-06-09T22:45:40.537874096Z",
-  "model": "glm-4.5"
+  ]
 }

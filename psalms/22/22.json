@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "psalms 22:22",
   "book": "psalms",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 410,
-    "prompt_tokens": 69901,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70311
-  },
+  "verse": 22,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:15.604476427Z",
   "translation": "Sálvame de ⟨la⟩ boca del león, y de ⟨los⟩ cuernos de ⟨los⟩ búfalos salvajes me has respondido.",
   "tokens": [
     {
       "surface": "הושיעני",
-      "english": "Sálvame"
+      "gloss": "Sálvame"
     },
     {
       "surface": "מפי",
-      "english": "de ⟨la⟩ boca del"
+      "gloss": "de ⟨la⟩ boca del"
     },
     {
       "surface": "אריה",
-      "english": "león"
+      "gloss": "león"
     },
     {
       "surface": "ומקרני",
-      "english": "y de ⟨los⟩ cuernos de ⟨los⟩"
+      "gloss": "y de ⟨los⟩ cuernos de ⟨los⟩"
     },
     {
       "surface": "רמים",
-      "english": "búfalos salvajes"
+      "gloss": "búfalos salvajes"
     },
     {
       "surface": "עניתני",
-      "english": "me has respondido"
+      "gloss": "me has respondido"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:15.604476427Z",
-  "model": "glm-4.5"
+  ]
 }

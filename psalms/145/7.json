@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 145:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69877,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70212
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:11:19.907533859Z",
   "translation": "la conmemoración ⟨de⟩ tu abundante bien la proclamarán ⟨y⟩ la justicia ⟨de⟩ ti cantarán con alegría",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "La conmemoración"
+      "gloss": "La conmemoración"
     },
     {
       "surface": "רב",
-      "english": "abundante"
+      "gloss": "abundante"
     },
     {
       "surface": "טובך",
-      "english": "de tu bien"
+      "gloss": "de tu bien"
     },
     {
       "surface": "יביעו",
-      "english": "la proclamarán"
+      "gloss": "la proclamarán"
     },
     {
       "surface": "וצדקתך",
-      "english": "y la justicia de ti"
+      "gloss": "y la justicia de ti"
     },
     {
       "surface": "ירננו",
-      "english": "cantarán con alegría"
+      "gloss": "cantarán con alegría"
     }
-  ],
-  "timestamp": "2026-06-10T00:11:19.907533859Z",
-  "model": "glm-4.5"
+  ]
 }

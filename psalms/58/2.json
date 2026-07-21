@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 58:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 597,
-    "prompt_tokens": 70152,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70749
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:31:43.121594398Z",
   "translation": "¿Acaso ⟨en⟩ verdad hablan ⟨את⟩ justicia? ¿Juzgan ⟨con⟩ rectitud ⟨los⟩ hijos de Adam?",
   "tokens": [
     {
       "surface": "האמנם",
-      "english": "¿Acaso ⟨en⟩ verdad"
+      "gloss": "¿Acaso ⟨en⟩ verdad"
     },
     {
       "surface": "אלם",
-      "english": "hablan"
+      "gloss": "hablan"
     },
     {
       "surface": "צדק",
-      "english": "⟨את⟩ justicia",
+      "gloss": "⟨את⟩ justicia",
       "marks": "justicia"
     },
     {
       "surface": "תדברון",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מישרים",
-      "english": "¿Juzgan ⟨con⟩ rectitud"
+      "gloss": "¿Juzgan ⟨con⟩ rectitud"
     },
     {
       "surface": "תשפטו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "בני",
-      "english": "⟨los⟩ hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "אדם",
-      "english": "de Adam"
+      "gloss": "de Adam"
     }
-  ],
-  "timestamp": "2026-07-16T23:31:43.121594398Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,84 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "isaiah 30:10",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 736,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26739,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 27475
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:39:19.946190510Z",
   "translation": "que ⟨dijeron⟩ a los que ven: 'No ⟨veáis⟩'; y a los que contemplan: 'No ⟨contempléis⟩ ⟨para⟩ nosotros ⟨lo⟩ correcto ⟨a⟩ nosotros ⟨dichos⟩ suaves; ved ⟨las⟩ ilusiones'",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "Que"
+      "gloss": "Que"
     },
     {
       "surface": "אמרו",
-      "english": "⟨dijeron⟩"
+      "gloss": "⟨dijeron⟩"
     },
     {
       "surface": "לראים",
-      "english": "a los que ven"
+      "gloss": "a los que ven"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תראו",
-      "english": "⟨veáis⟩"
+      "gloss": "⟨veáis⟩"
     },
     {
       "surface": "ולחזים",
-      "english": "y a los que contemplan"
+      "gloss": "y a los que contemplan"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "תחזו",
-      "english": "⟨contempléis⟩"
+      "gloss": "⟨contempléis⟩"
     },
     {
       "surface": "לנו",
-      "english": "⟨para⟩ nosotros"
+      "gloss": "⟨para⟩ nosotros"
     },
     {
       "surface": "נכחות",
-      "english": "⟨lo⟩ correcto"
+      "gloss": "⟨lo⟩ correcto"
     },
     {
       "surface": "דברו",
-      "english": "⟨a⟩ nosotros ⟨dichos⟩ suaves"
+      "gloss": "⟨a⟩ nosotros ⟨dichos⟩ suaves"
     },
     {
       "surface": "לנו",
-      "english": "⟨a⟩ nosotros"
+      "gloss": "⟨a⟩ nosotros"
     },
     {
       "surface": "חלקות",
-      "english": "suaves"
+      "gloss": "suaves"
     },
     {
       "surface": "חזו",
-      "english": "ved"
+      "gloss": "ved"
     },
     {
       "surface": "מהתלות",
-      "english": "⟨las⟩ ilusiones"
+      "gloss": "⟨las⟩ ilusiones"
     }
-  ],
-  "timestamp": "2026-06-10T02:39:19.946190510Z",
-  "model": "glm-4.5"
+  ]
 }

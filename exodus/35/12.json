@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 35:12",
   "book": "exodus",
-  "lang": "es",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 535,
-    "prompt_tokens": 24324,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24859
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:26:02.240106111Z",
   "translation": "el Arón y ⟨את⟩ sus varas, ⟨את⟩ el Kapporet y ⟨את⟩ la parójet del Mishkán",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Arón"
     },
     {
       "surface": "הארן",
-      "english": "el Arón"
+      "gloss": "el Arón"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "sus varas"
     },
     {
       "surface": "בדיו",
-      "english": "sus varas"
+      "gloss": "sus varas"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Kapporet"
     },
     {
       "surface": "הכפרת",
-      "english": "el Kapporet"
+      "gloss": "el Kapporet"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "la parójet"
     },
     {
       "surface": "פרכת",
-      "english": "la parójet"
+      "gloss": "la parójet"
     },
     {
       "surface": "המסך",
-      "english": "del Mishkán"
+      "gloss": "del Mishkán"
     }
-  ],
-  "timestamp": "2026-07-16T20:26:02.240106111Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 148:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 503,
-    "prompt_tokens": 70140,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70643
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:45:41.571389623Z",
   "translation": "Alabad ⟨a⟩ YHWH desde la tierra, ⟨los⟩ dragones y ⟨los⟩ abismos ⟨todos:",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "Alabad"
+      "gloss": "Alabad"
     },
     {
       "surface": "את",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מן",
-      "english": "desde"
+      "gloss": "desde"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "תנינים",
-      "english": "los dragones"
+      "gloss": "los dragones"
     },
     {
       "surface": "וכל",
-      "english": "y ⟨los⟩... ⟨todos⟩"
+      "gloss": "y ⟨los⟩... ⟨todos⟩"
     },
     {
       "surface": "תהמות",
-      "english": "abismos"
+      "gloss": "abismos"
     }
-  ],
-  "timestamp": "2026-07-16T23:45:41.571389623Z",
-  "model": "glm-4.5"
+  ]
 }

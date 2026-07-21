@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 40,
   "ref": "numbers 31:40",
   "book": "numbers",
-  "lang": "es",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25208,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25629
-  },
+  "verse": 40,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:05:00.594487953Z",
   "translation": "y ⟨las⟩ almas de ⟨seres⟩ humanos dieciséis mil y ⟨la⟩ ofrenda para YHWH treinta y dos almas",
   "tokens": [
     {
       "surface": "ונפש",
-      "english": "Y ⟨las⟩ almas"
+      "gloss": "Y ⟨las⟩ almas"
     },
     {
       "surface": "אדם",
-      "english": "de ⟨seres⟩ humanos"
+      "gloss": "de ⟨seres⟩ humanos"
     },
     {
       "surface": "ששה",
-      "english": "dieciséis"
+      "gloss": "dieciséis"
     },
     {
       "surface": "עשר",
-      "english": "mil"
+      "gloss": "mil"
     },
     {
       "surface": "אלף",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ומכסם",
-      "english": "⟨la⟩ ofrenda para"
+      "gloss": "⟨la⟩ ofrenda para"
     },
     {
       "surface": "ליהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "שנים",
-      "english": "treinta y"
+      "gloss": "treinta y"
     },
     {
       "surface": "ושלשים",
-      "english": "dos"
+      "gloss": "dos"
     },
     {
       "surface": "נפש",
-      "english": "almas"
+      "gloss": "almas"
     }
-  ],
-  "timestamp": "2026-06-10T05:05:00.594487953Z",
-  "model": "glm-4.5"
+  ]
 }

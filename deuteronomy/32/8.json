@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "deuteronomy 32:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "deuteronomy",
+  "chapter": 32,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T19:35:55.298525025Z",
+  "translation": "Cuando ⟨el⟩ Elyon ⟨dió a⟩ las naciones ⟨את⟩ su herencia, cuando ⟨él⟩ separó ⟨a⟩ ⟨los⟩ hijos de ⟨el⟩ hombre, ⟨él⟩ estableció ⟨las⟩ fronteras de ⟨los⟩ pueblos según ⟨el⟩ número de ⟨los⟩ hijos de Yisrael.",
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "Cuando"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨el⟩ Elyon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a las naciones"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "cuando ⟨él⟩ separó"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨a⟩ ⟨los⟩ hijos"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de ⟨el⟩ hombre"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "⟨él⟩ estableció"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "⟨las⟩ fronteras"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "de ⟨los⟩ pueblos"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "según ⟨el⟩ número"
+    },
+    {
+      "surface": "בני",
+      "gloss": "de ⟨los⟩ hijos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de Yisrael"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Altísimo",
@@ -20,72 +75,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 32,
-  "usage": {
-    "completion_tokens": 781,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17780,
-    "prompt_tokens_details": {
-      "cached_tokens": 16230
-    },
-    "total_tokens": 18561
-  },
-  "translation": "Cuando ⟨el⟩ Elyon ⟨dió a⟩ las naciones ⟨את⟩ su herencia, cuando ⟨él⟩ separó ⟨a⟩ ⟨los⟩ hijos de ⟨el⟩ hombre, ⟨él⟩ estableció ⟨las⟩ fronteras de ⟨los⟩ pueblos según ⟨el⟩ número de ⟨los⟩ hijos de Yisrael.",
-  "tokens": [
-    {
-      "surface": "בהנחל",
-      "english": "Cuando"
-    },
-    {
-      "surface": "עליון",
-      "english": "⟨el⟩ Elyon"
-    },
-    {
-      "surface": "גוים",
-      "english": "a las naciones"
-    },
-    {
-      "surface": "בהפרידו",
-      "english": "cuando ⟨él⟩ separó"
-    },
-    {
-      "surface": "בני",
-      "english": "⟨a⟩ ⟨los⟩ hijos"
-    },
-    {
-      "surface": "אדם",
-      "english": "de ⟨el⟩ hombre"
-    },
-    {
-      "surface": "יצב",
-      "english": "⟨él⟩ estableció"
-    },
-    {
-      "surface": "גבלת",
-      "english": "⟨las⟩ fronteras"
-    },
-    {
-      "surface": "עמים",
-      "english": "de ⟨los⟩ pueblos"
-    },
-    {
-      "surface": "למספר",
-      "english": "según ⟨el⟩ número"
-    },
-    {
-      "surface": "בני",
-      "english": "de ⟨los⟩ hijos"
-    },
-    {
-      "surface": "ישראל",
-      "english": "de Yisrael"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T19:35:55.298525025Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

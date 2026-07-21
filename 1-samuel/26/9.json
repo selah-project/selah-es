@@ -1,9 +1,68 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "1-samuel 26:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 26,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:10:59.534852260Z",
+  "translation": "Y Davidd dijo a Abisai: No ⟨lo⟩ destruyas, porque ¿quién ⟨que⟩ extienda su mano contra ⟨el⟩ ungido de YHWH será ⟨irreprochable⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y David dijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abisai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "No"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "⟨lo⟩ destruyas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "מי",
+      "gloss": "¿quién"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨que⟩ extienda"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "su mano"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "contra ⟨el⟩ ungido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "será ⟨irreprochable⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,76 +72,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16578,
-    "prompt_tokens_details": {
-      "cached_tokens": 15046
-    },
-    "total_tokens": 17050
-  },
-  "translation": "Y Davidd dijo a Abisai: No ⟨lo⟩ destruyas, porque ¿quién ⟨que⟩ extienda su mano contra ⟨el⟩ ungido de YHWH será ⟨irreprochable⟩?",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y David dijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "אבישי",
-      "english": "Abisai"
-    },
-    {
-      "surface": "אל",
-      "english": "No"
-    },
-    {
-      "surface": "תשחיתהו",
-      "english": "⟨lo⟩ destruyas"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "מי",
-      "english": "¿quién"
-    },
-    {
-      "surface": "שלח",
-      "english": "⟨que⟩ extienda"
-    },
-    {
-      "surface": "ידו",
-      "english": "su mano"
-    },
-    {
-      "surface": "במשיח",
-      "english": "contra ⟨el⟩ ungido"
-    },
-    {
-      "surface": "יהוה",
-      "english": "de YHWH"
-    },
-    {
-      "surface": "ונקה",
-      "english": "será ⟨irreprochable⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:10:59.534852260Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

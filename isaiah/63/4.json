@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 63:4",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25997,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26361
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:59:43.458914435Z",
   "translation": "Porque día de venganza ⟨está⟩ en mi corazón, y año de mi redención ⟨ha⟩ venido",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "יום",
-      "english": "día"
+      "gloss": "día"
     },
     {
       "surface": "נקם",
-      "english": "de venganza"
+      "gloss": "de venganza"
     },
     {
       "surface": "בלבי",
-      "english": "en mi corazón"
+      "gloss": "en mi corazón"
     },
     {
       "surface": "ושנת",
-      "english": "y año"
+      "gloss": "y año"
     },
     {
       "surface": "גאולי",
-      "english": "de mi redención"
+      "gloss": "de mi redención"
     },
     {
       "surface": "באה",
-      "english": "⟨ha⟩ venido"
+      "gloss": "⟨ha⟩ venido"
     }
-  ],
-  "timestamp": "2026-06-10T02:59:43.458914435Z",
-  "model": "glm-4.5"
+  ]
 }

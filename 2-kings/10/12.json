@@ -1,9 +1,52 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "2-kings 10:12",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 10,
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:29:58.777751691Z",
+  "translation": "Y él se levantó y vino y fue ⟨a⟩ Shomrón; él ⟨está⟩ en ⟨el⟩ lugar de esquilar ⟨de⟩ los pastores ⟨en⟩ ⟨el⟩ camino",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Y él se levantó"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "y vino"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "y fue"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomrón"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "él"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lugar de esquilar"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "de los pastores"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "en"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "el camino"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Samaria",
@@ -13,60 +56,6 @@
       "hebrew": "שמרון"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 10,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16632,
-    "prompt_tokens_details": {
-      "cached_tokens": 15439
-    },
-    "total_tokens": 17074
-  },
-  "translation": "Y él se levantó y vino y fue ⟨a⟩ Shomrón; él ⟨está⟩ en ⟨el⟩ lugar de esquilar ⟨de⟩ los pastores ⟨en⟩ ⟨el⟩ camino",
-  "tokens": [
-    {
-      "surface": "ויקם",
-      "english": "Y él se levantó"
-    },
-    {
-      "surface": "ויבא",
-      "english": "y vino"
-    },
-    {
-      "surface": "וילך",
-      "english": "y fue"
-    },
-    {
-      "surface": "שמרון",
-      "english": "Shomrón"
-    },
-    {
-      "surface": "הוא",
-      "english": "él"
-    },
-    {
-      "surface": "בית",
-      "english": "lugar de esquilar"
-    },
-    {
-      "surface": "עקד",
-      "english": "de los pastores"
-    },
-    {
-      "surface": "הרעים",
-      "english": "en"
-    },
-    {
-      "surface": "בדרך",
-      "english": "el camino"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:29:58.777751691Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-kings 4:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 4,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:22:36.755692835Z",
+  "translation": "Y aconteció en un día que Elisha pasó a Shunem, y allí ⟨estaba⟩ una mujer importante, y lo retuvo para comer pan; y sucedía que cada vez que pasaba, se desviaba allí para comer pan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y aconteció"
+    },
+    {
+      "surface": "היום",
+      "gloss": "en un día"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "que pasó"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שונם",
+      "gloss": "Shunem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "y allí"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una mujer"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "importante"
+    },
+    {
+      "surface": "ותחזק",
+      "gloss": "y lo retuvo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "para comer"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "y sucedía"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "cada vez"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "que pasaba"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "se desviaba"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "allí"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "para comer"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Eliseo",
@@ -13,104 +100,6 @@
       "hebrew": "אלישע"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 4,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17545,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 18099
-  },
-  "translation": "Y aconteció en un día que Elisha pasó a Shunem, y allí ⟨estaba⟩ una mujer importante, y lo retuvo para comer pan; y sucedía que cada vez que pasaba, se desviaba allí para comer pan.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y aconteció"
-    },
-    {
-      "surface": "היום",
-      "english": "en un día"
-    },
-    {
-      "surface": "ויעבר",
-      "english": "que pasó"
-    },
-    {
-      "surface": "אלישע",
-      "english": "Elisha"
-    },
-    {
-      "surface": "אל",
-      "english": "a"
-    },
-    {
-      "surface": "שונם",
-      "english": "Shunem"
-    },
-    {
-      "surface": "ושם",
-      "english": "y allí"
-    },
-    {
-      "surface": "אשה",
-      "english": "una mujer"
-    },
-    {
-      "surface": "גדולה",
-      "english": "importante"
-    },
-    {
-      "surface": "ותחזק",
-      "english": "y lo retuvo"
-    },
-    {
-      "surface": "בו",
-      "english": "lo"
-    },
-    {
-      "surface": "לאכל",
-      "english": "para comer"
-    },
-    {
-      "surface": "לחם",
-      "english": "pan"
-    },
-    {
-      "surface": "ויהי",
-      "english": "y sucedía"
-    },
-    {
-      "surface": "מדי",
-      "english": "cada vez"
-    },
-    {
-      "surface": "עברו",
-      "english": "que pasaba"
-    },
-    {
-      "surface": "יסר",
-      "english": "se desviaba"
-    },
-    {
-      "surface": "שמה",
-      "english": "allí"
-    },
-    {
-      "surface": "לאכל",
-      "english": "para comer"
-    },
-    {
-      "surface": "לחם",
-      "english": "pan"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:22:36.755692835Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

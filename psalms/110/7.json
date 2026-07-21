@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 7,
   "ref": "psalms 110:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69848,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70346
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:58:34.081997786Z",
   "translation": "Del arroyo en el camino beberá; por tanto, levantará ⟨la⟩ cabeza.",
   "tokens": [
     {
       "surface": "מנחל",
-      "english": "Del arroyo"
+      "gloss": "Del arroyo"
     },
     {
       "surface": "בדרך",
-      "english": "en el camino"
+      "gloss": "en el camino"
     },
     {
       "surface": "ישתה",
-      "english": "beberá"
+      "gloss": "beberá"
     },
     {
       "surface": "על",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "כן",
-      "english": "tanto"
+      "gloss": "tanto"
     },
     {
       "surface": "ירים",
-      "english": "levantará"
+      "gloss": "levantará"
     },
     {
       "surface": "ראש",
-      "english": "⟨la⟩ cabeza"
+      "gloss": "⟨la⟩ cabeza"
     }
-  ],
-  "timestamp": "2026-06-13T03:58:34.081997786Z",
-  "model": "glm-5.1"
+  ]
 }

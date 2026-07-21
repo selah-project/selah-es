@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "jonah 2:10",
   "book": "jonah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 535,
-    "prompt_tokens": 26833,
-    "prompt_tokens_details": {
-      "cached_tokens": 25600
-    },
-    "total_tokens": 27368
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T22:05:09.741431829Z",
   "translation": "Y yo ⟨con⟩ la voz de acción de gracias ⟨את⟩ sacrificaré para ti; lo que ⟨he⟩ prometido, ⟨lo⟩ pagaré. La salvación ⟨es⟩ de YHWH.",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "Y yo"
+      "gloss": "Y yo"
     },
     {
       "surface": "בקול",
-      "english": "⟨con⟩ la voz"
+      "gloss": "⟨con⟩ la voz"
     },
     {
       "surface": "תודה",
-      "english": "de acción de gracias"
+      "gloss": "de acción de gracias"
     },
     {
       "surface": "אזבחה",
-      "english": "⟨את⟩ sacrificaré",
+      "gloss": "⟨את⟩ sacrificaré",
       "marks": "la acción de gracias"
     },
     {
       "surface": "לך",
-      "english": "para ti"
+      "gloss": "para ti"
     },
     {
       "surface": "אשר",
-      "english": "lo que"
+      "gloss": "lo que"
     },
     {
       "surface": "נדרתי",
-      "english": "⟨he⟩ prometido"
+      "gloss": "⟨he⟩ prometido"
     },
     {
       "surface": "אשלמה",
-      "english": "⟨lo⟩ pagaré"
+      "gloss": "⟨lo⟩ pagaré"
     },
     {
       "surface": "ישועתה",
-      "english": "La salvación ⟨es⟩"
+      "gloss": "La salvación ⟨es⟩"
     },
     {
       "surface": "ליהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T22:05:09.741431829Z",
-  "model": "glm-4.5"
+  ]
 }

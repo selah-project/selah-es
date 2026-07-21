@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "hosea 5:10",
   "book": "hosea",
-  "lang": "es",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26671,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 27163
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:46:23.234911125Z",
   "translation": "Los príncipes de Judá ⟨son⟩ como los que remueven ⟨el⟩ límite; ⟨por⟩ ⟨ellos⟩ derramaré ⟨como⟩ aguas mi furor.",
   "tokens": [
     {
       "surface": "היו",
-      "english": "Son"
+      "gloss": "Son"
     },
     {
       "surface": "שרי",
-      "english": "Los príncipes"
+      "gloss": "Los príncipes"
     },
     {
       "surface": "יהודה",
-      "english": "de Judá"
+      "gloss": "de Judá"
     },
     {
       "surface": "כמסיגי",
-      "english": "como los que remueven"
+      "gloss": "como los que remueven"
     },
     {
       "surface": "גבול",
-      "english": "el límite"
+      "gloss": "el límite"
     },
     {
       "surface": "עליהם",
-      "english": "por ellos"
+      "gloss": "por ellos"
     },
     {
       "surface": "אשפוך",
-      "english": "derramaré"
+      "gloss": "derramaré"
     },
     {
       "surface": "כמים",
-      "english": "como aguas"
+      "gloss": "como aguas"
     },
     {
       "surface": "עברתי",
-      "english": "mi furor"
+      "gloss": "mi furor"
     }
-  ],
-  "timestamp": "2026-06-09T22:46:23.234911125Z",
-  "model": "glm-4.5"
+  ]
 }

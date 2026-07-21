@@ -1,59 +1,48 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 94:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 637,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69876,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70513
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:46:11.040503726Z",
   "translation": "⟨Lift up⟩ ⟨yourself⟩, Juez de la tierra; ⟨a⟩ los soberbios devuelve un recompensa ⟨a⟩ ⟨el⟩ ⟨mal⟩ ⟨que hicieron⟩.",
   "tokens": [
     {
       "surface": "הנשא",
-      "english": "⟨Lift up⟩",
+      "gloss": "⟨Lift up⟩",
       "marks": "Juez de la tierra"
     },
     {
       "surface": "שפט",
-      "english": "Juez",
+      "gloss": "Juez",
       "marks": "de la tierra"
     },
     {
       "surface": "הארץ",
-      "english": "de la tierra",
+      "gloss": "de la tierra",
       "marks": "Juez"
     },
     {
       "surface": "השב",
-      "english": "devuelve",
+      "gloss": "devuelve",
       "marks": "un recompensa"
     },
     {
       "surface": "גמול",
-      "english": "un recompensa",
+      "gloss": "un recompensa",
       "marks": "devuelve"
     },
     {
       "surface": "על",
-      "english": "⟨a⟩",
+      "gloss": "⟨a⟩",
       "marks": "los soberbios"
     },
     {
       "surface": "גאים",
-      "english": "los soberbios",
+      "gloss": "los soberbios",
       "marks": "⟨a⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:46:11.040503726Z",
-  "model": "glm-4.5"
+  ]
 }

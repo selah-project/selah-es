@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 108:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 480,
-    "prompt_tokens": 70288,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70768
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:39:46.246890305Z",
   "translation": "Elohim habló en su santidad: me regocijaré, repartiré Shechem ⟨y⟩ mediré el valle de Sucot.",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "דבר",
-      "english": "habló"
+      "gloss": "habló"
     },
     {
       "surface": "בקדשו",
-      "english": "en su santidad"
+      "gloss": "en su santidad"
     },
     {
       "surface": "אעלזה",
-      "english": "me regocijaré"
+      "gloss": "me regocijaré"
     },
     {
       "surface": "אחלקה",
-      "english": "repartiré"
+      "gloss": "repartiré"
     },
     {
       "surface": "שכם",
-      "english": "Shechem"
+      "gloss": "Shechem"
     },
     {
       "surface": "ועמק",
-      "english": "⟨y⟩ mediré el valle de"
+      "gloss": "⟨y⟩ mediré el valle de"
     },
     {
       "surface": "סכות",
-      "english": "Sucot"
+      "gloss": "Sucot"
     },
     {
       "surface": "אמדד",
-      "english": "mediré"
+      "gloss": "mediré"
     }
-  ],
-  "timestamp": "2026-07-16T23:39:46.246890305Z",
-  "model": "glm-4.5"
+  ]
 }

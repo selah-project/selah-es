@@ -1,9 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "2-chronicles 7:17",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 7,
+  "verse": 17,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:07:16.691341484Z",
+  "translation": "Y tú, si andas ⟨delante de⟩ mí como anduvo Davidd tu padre, y ⟨para⟩ hacer ⟨todo⟩ lo que ⟨את⟩ ⟨he⟩ mandado, y mis estatutos y mis juicios guardas,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Y tú"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "andas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨delante de⟩",
+      "marks": "mí"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "como"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anduvo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tu padre"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "y ⟨para⟩ hacer"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨todo⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lo que"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "⟨he⟩ mandado"
+    },
+    {
+      "surface": "וחקי",
+      "gloss": "y mis estatutos"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "y mis juicios"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "guardas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,85 +81,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 7,
-  "usage": {
-    "completion_tokens": 596,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58460,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 59056
-  },
-  "translation": "Y tú, si andas ⟨delante de⟩ mí como anduvo Davidd tu padre, y ⟨para⟩ hacer ⟨todo⟩ lo que ⟨את⟩ ⟨he⟩ mandado, y mis estatutos y mis juicios guardas,",
-  "tokens": [
-    {
-      "surface": "ואתה",
-      "english": "Y tú"
-    },
-    {
-      "surface": "אם",
-      "english": "si"
-    },
-    {
-      "surface": "תלך",
-      "english": "andas"
-    },
-    {
-      "surface": "לפני",
-      "english": "⟨delante de⟩",
-      "marks": "mí"
-    },
-    {
-      "surface": "כאשר",
-      "english": "como"
-    },
-    {
-      "surface": "הלך",
-      "english": "anduvo"
-    },
-    {
-      "surface": "דויד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "אביך",
-      "english": "tu padre"
-    },
-    {
-      "surface": "ולעשות",
-      "english": "y ⟨para⟩ hacer"
-    },
-    {
-      "surface": "ככל",
-      "english": "⟨todo⟩"
-    },
-    {
-      "surface": "אשר",
-      "english": "lo que"
-    },
-    {
-      "surface": "צויתיך",
-      "english": "⟨he⟩ mandado"
-    },
-    {
-      "surface": "וחקי",
-      "english": "y mis estatutos"
-    },
-    {
-      "surface": "ומשפטי",
-      "english": "y mis juicios"
-    },
-    {
-      "surface": "תשמור",
-      "english": "guardas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:07:16.691341484Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

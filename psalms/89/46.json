@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 46,
   "ref": "psalms 89:46",
   "book": "psalms",
-  "lang": "es",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69893,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70283
-  },
+  "verse": 46,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:01.564332526Z",
   "translation": "Has acortado ⟨los⟩ días de su juventud y ⟨lo⟩ has cubierto con vergüenza. Selah",
   "tokens": [
     {
       "surface": "הקצרת",
-      "english": "Has acortado"
+      "gloss": "Has acortado"
     },
     {
       "surface": "ימי",
-      "english": "⟨los⟩ días"
+      "gloss": "⟨los⟩ días"
     },
     {
       "surface": "עלומיו",
-      "english": "de su juventud"
+      "gloss": "de su juventud"
     },
     {
       "surface": "העטית",
-      "english": "y ⟨lo⟩ has cubierto"
+      "gloss": "y ⟨lo⟩ has cubierto"
     },
     {
       "surface": "עליו",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "בושה",
-      "english": "vergüenza"
+      "gloss": "vergüenza"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:44:01.564332526Z",
-  "model": "glm-4.5"
+  ]
 }

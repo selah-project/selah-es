@@ -1,62 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "job 13:3",
   "book": "job",
-  "lang": "es",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27072,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27536
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:00:07.918805281Z",
   "translation": "Pero yo a Shaddai ⟨⟩ hablaré, y ⟨⟩ argumentaré ante ⟨⟩El ⟨⟩ desearé ⟨⟩",
   "tokens": [
     {
       "surface": "אולם",
-      "english": "Pero"
+      "gloss": "Pero"
     },
     {
       "surface": "אני",
-      "english": "yo"
+      "gloss": "yo"
     },
     {
       "surface": "אל",
-      "english": "a",
+      "gloss": "a",
       "marks": "Shaddai"
     },
     {
       "surface": "שדי",
-      "english": "Shaddai"
+      "gloss": "Shaddai"
     },
     {
       "surface": "אדבר",
-      "english": "⟨⟩ hablaré"
+      "gloss": "⟨⟩ hablaré"
     },
     {
       "surface": "והוכח",
-      "english": "y ⟨⟩ argumentaré"
+      "gloss": "y ⟨⟩ argumentaré"
     },
     {
       "surface": "אל",
-      "english": "ante",
+      "gloss": "ante",
       "marks": "El"
     },
     {
       "surface": "אל",
-      "english": "⟨El⟩"
+      "gloss": "⟨El⟩"
     },
     {
       "surface": "אחפץ",
-      "english": "⟨⟩ desearé ⟨⟩"
+      "gloss": "⟨⟩ desearé ⟨⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:00:07.918805281Z",
-  "model": "glm-4.5"
+  ]
 }

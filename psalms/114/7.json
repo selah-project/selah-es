@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.1",
-  "verse": 7,
   "ref": "psalms 114:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69869,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70395
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:58:42.267638118Z",
   "translation": "Ante la presencia del Amo, tiembl ⟨tú⟩, tierra; ante la presencia del Eloah de Yaakov.",
   "tokens": [
     {
       "surface": "מלפני",
-      "english": "ante la presencia de"
+      "gloss": "ante la presencia de"
     },
     {
       "surface": "אדון",
-      "english": "el Amo"
+      "gloss": "el Amo"
     },
     {
       "surface": "חולי",
-      "english": "tiembl"
+      "gloss": "tiembl"
     },
     {
       "surface": "ארץ",
-      "english": "tierra"
+      "gloss": "tierra"
     },
     {
       "surface": "מלפני",
-      "english": "ante la presencia de"
+      "gloss": "ante la presencia de"
     },
     {
       "surface": "אלוה",
-      "english": "el Eloah"
+      "gloss": "el Eloah"
     },
     {
       "surface": "יעקב",
-      "english": "de Yaakov"
+      "gloss": "de Yaakov"
     }
-  ],
-  "timestamp": "2026-06-13T03:58:42.267638118Z",
-  "model": "glm-5.1"
+  ]
 }

@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-chronicles 1:16",
   "book": "1-chronicles",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 265,
-    "prompt_tokens": 64191,
-    "prompt_tokens_details": {
-      "cached_tokens": 49152
-    },
-    "total_tokens": 64456
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:01:46.635784310Z",
   "translation": "y ⟨את⟩ el arvadita, y ⟨את⟩ el zemarita, y ⟨את⟩ el hamatita",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el arvadita"
     },
     {
       "surface": "הארודי",
-      "english": "el arvadita"
+      "gloss": "el arvadita"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el zemarita"
     },
     {
       "surface": "הצמרי",
-      "english": "el zemarita"
+      "gloss": "el zemarita"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el hamatita"
     },
     {
       "surface": "החמתי",
-      "english": "el hamatita"
+      "gloss": "el hamatita"
     }
-  ],
-  "timestamp": "2026-07-16T18:01:46.635784310Z",
-  "model": "glm-4.5"
+  ]
 }

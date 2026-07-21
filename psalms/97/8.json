@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 97:8",
   "book": "psalms",
-  "lang": "es",
   "chapter": 97,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70166,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70720
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:48:05.337686613Z",
   "translation": "¡Oye ⟨y⟩ alégrate, Tzión, ⟨y⟩ regocíjense ⟨las⟩ hijas de Yehudá por ⟨tus⟩ juicios, ⟨oh⟩ YHWH!",
   "tokens": [
     {
       "surface": "שמעה",
-      "english": "¡Oye"
+      "gloss": "¡Oye"
     },
     {
       "surface": "ותשמח",
-      "english": "⟨y⟩ alégrate"
+      "gloss": "⟨y⟩ alégrate"
     },
     {
       "surface": "ציון",
-      "english": "Tzión"
+      "gloss": "Tzión"
     },
     {
       "surface": "ותגלנה",
-      "english": "⟨y⟩ regocíjense"
+      "gloss": "⟨y⟩ regocíjense"
     },
     {
       "surface": "בנות",
-      "english": "⟨las⟩ hijas"
+      "gloss": "⟨las⟩ hijas"
     },
     {
       "surface": "יהודה",
-      "english": "Yehudá"
+      "gloss": "Yehudá"
     },
     {
       "surface": "למען",
-      "english": "por"
+      "gloss": "por"
     },
     {
       "surface": "משפטיך",
-      "english": "⟨tus⟩ juicios"
+      "gloss": "⟨tus⟩ juicios"
     },
     {
       "surface": "יהוה",
-      "english": "⟨oh⟩ YHWH"
+      "gloss": "⟨oh⟩ YHWH"
     }
-  ],
-  "timestamp": "2026-06-09T23:48:05.337686613Z",
-  "model": "glm-4.5"
+  ]
 }

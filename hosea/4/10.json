@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "hosea 4:10",
   "book": "hosea",
-  "lang": "es",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 506,
-    "prompt_tokens": 27033,
-    "prompt_tokens_details": {
-      "cached_tokens": 25472
-    },
-    "total_tokens": 27539
-  },
+  "verse": 10,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:20:41.648232759Z",
   "translation": "Y comerán y no se saciarán; cometerán prostitución y no se multiplicarán, porque ⟨את⟩ YHWH han abandonado para no guardar.",
   "tokens": [
     {
       "surface": "ואכלו",
-      "english": "Y comerán"
+      "gloss": "Y comerán"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "ישבעו",
-      "english": "se saciarán"
+      "gloss": "se saciarán"
     },
     {
       "surface": "הזנו",
-      "english": "cometerán prostitución"
+      "gloss": "cometerán prostitución"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "יפרצו",
-      "english": "se multiplicarán"
+      "gloss": "se multiplicarán"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "עזבו",
-      "english": "han abandonado"
+      "gloss": "han abandonado"
     },
     {
       "surface": "לשמר",
-      "english": "para no guardar"
+      "gloss": "para no guardar"
     }
-  ],
-  "timestamp": "2026-07-16T21:20:41.648232759Z",
-  "model": "glm-4.5"
+  ]
 }

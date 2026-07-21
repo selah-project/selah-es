@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 91:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69878,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70225
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:44:26.315551549Z",
   "translation": "⟨I will⟩ say ⟨to⟩ YHWH: ⟨He is⟩ my refuge and my fortress; my Elohim, in him ⟨I will⟩ trust.",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "⟨I will⟩ say"
+      "gloss": "⟨I will⟩ say"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨to⟩ YHWH"
+      "gloss": "⟨to⟩ YHWH"
     },
     {
       "surface": "מחסי",
-      "english": "my refuge"
+      "gloss": "my refuge"
     },
     {
       "surface": "ומצודתי",
-      "english": "and my fortress"
+      "gloss": "and my fortress"
     },
     {
       "surface": "אלהי",
-      "english": "my Elohim"
+      "gloss": "my Elohim"
     },
     {
       "surface": "אבטח",
-      "english": "⟨I will⟩ trust"
+      "gloss": "⟨I will⟩ trust"
     },
     {
       "surface": "בו",
-      "english": "in him"
+      "gloss": "in him"
     }
-  ],
-  "timestamp": "2026-06-09T23:44:26.315551549Z",
-  "model": "glm-4.5"
+  ]
 }

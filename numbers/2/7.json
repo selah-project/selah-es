@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "numbers 2:7",
   "book": "numbers",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25052,
-    "prompt_tokens_details": {
-      "cached_tokens": 24000
-    },
-    "total_tokens": 25530
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T04:44:13.777454212Z",
   "translation": "La tribu ⟨de⟩ Zebulún ⟨y⟩ el príncipe ⟨de los⟩ hijos ⟨de⟩ Zebulún ⟨es⟩ Eliav ⟨hijo⟩ ⟨de⟩ Jelón",
   "tokens": [
     {
       "surface": "מטה",
-      "english": "La tribu"
+      "gloss": "La tribu"
     },
     {
       "surface": "זבולן",
-      "english": "⟨de⟩ Zebulún"
+      "gloss": "⟨de⟩ Zebulún"
     },
     {
       "surface": "ונשיא",
-      "english": "⟨y⟩ el príncipe"
+      "gloss": "⟨y⟩ el príncipe"
     },
     {
       "surface": "לבני",
-      "english": "⟨de los⟩ hijos"
+      "gloss": "⟨de los⟩ hijos"
     },
     {
       "surface": "זבולן",
-      "english": "⟨de⟩ Zebulún"
+      "gloss": "⟨de⟩ Zebulún"
     },
     {
       "surface": "אליאב",
-      "english": "⟨es⟩ Eliav"
+      "gloss": "⟨es⟩ Eliav"
     },
     {
       "surface": "בן",
-      "english": "⟨hijo⟩ ⟨de⟩"
+      "gloss": "⟨hijo⟩ ⟨de⟩"
     },
     {
       "surface": "חלן",
-      "english": "Jelón"
+      "gloss": "Jelón"
     }
-  ],
-  "timestamp": "2026-06-10T04:44:13.777454212Z",
-  "model": "glm-4.5"
+  ]
 }

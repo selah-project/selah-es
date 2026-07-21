@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 6:12",
   "book": "job",
-  "lang": "es",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 253,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26979,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27232
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:56:03.019401790Z",
   "translation": "¿Es ⟨el⟩ vigor ⟨de⟩ piedras ⟨el⟩ vigor ⟨de mí⟩? ⟨¿Es⟩ ⟨mi⟩ carne ⟨de⟩ bronce?",
   "tokens": [
     {
       "surface": "אם",
-      "english": "¿Es"
+      "gloss": "¿Es"
     },
     {
       "surface": "כח",
-      "english": "⟨el⟩ vigor"
+      "gloss": "⟨el⟩ vigor"
     },
     {
       "surface": "אבנים",
-      "english": "⟨de⟩ piedras"
+      "gloss": "⟨de⟩ piedras"
     },
     {
       "surface": "כחי",
-      "english": "⟨el⟩ vigor ⟨de mí⟩"
+      "gloss": "⟨el⟩ vigor ⟨de mí⟩"
     },
     {
       "surface": "אם",
-      "english": "⟨¿Es⟩"
+      "gloss": "⟨¿Es⟩"
     },
     {
       "surface": "בשרי",
-      "english": "⟨mi⟩ carne"
+      "gloss": "⟨mi⟩ carne"
     },
     {
       "surface": "נחוש",
-      "english": "⟨de⟩ bronce"
+      "gloss": "⟨de⟩ bronce"
     }
-  ],
-  "timestamp": "2026-06-10T01:56:03.019401790Z",
-  "model": "glm-4.5"
+  ]
 }

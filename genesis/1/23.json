@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "genesis 1:23",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "genesis",
-  "substitutions": [],
-  "source-version": "v1",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 238,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20768,
-    "prompt_tokens_details": {
-      "cached_tokens": 19979
-    },
-    "total_tokens": 21006
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T05:56:08.317315486Z",
   "translation": "Y hubo ⟨el⟩ anochecer y hubo ⟨el⟩ amanecer, día ⟨el⟩ quinto.",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "Y hubo"
+      "gloss": "Y hubo"
     },
     {
       "surface": "ערב",
-      "english": "⟨el⟩ anochecer"
+      "gloss": "⟨el⟩ anochecer"
     },
     {
       "surface": "ויהי",
-      "english": "y hubo"
+      "gloss": "y hubo"
     },
     {
       "surface": "בקר",
-      "english": "⟨el⟩ amanecer"
+      "gloss": "⟨el⟩ amanecer"
     },
     {
       "surface": "יום",
-      "english": "día"
+      "gloss": "día"
     },
     {
       "surface": "חמישי",
-      "english": "⟨el⟩ quinto"
+      "gloss": "⟨el⟩ quinto"
     }
   ],
-  "version": "v2",
-  "timestamp": "2026-05-30T05:56:08.317315486Z",
-  "model": "glm-4.5"
+  "source-version": "v1",
+  "substitutions": [],
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

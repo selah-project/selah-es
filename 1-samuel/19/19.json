@@ -1,9 +1,44 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "1-samuel 19:19",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 19,
+  "verse": 19,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:03:44.355680188Z",
+  "translation": "Y ⟨fue⟩ declarado a Saúl, diciendo: He aquí, Davidd ⟨está⟩ en Naioth en Ramá.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Y fue declarado"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Saúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diciendo:"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "He aquí"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "en Naioth"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "en Ramá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,52 +48,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 19,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 15963,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 16269
-  },
-  "translation": "Y ⟨fue⟩ declarado a Saúl, diciendo: He aquí, Davidd ⟨está⟩ en Naioth en Ramá.",
-  "tokens": [
-    {
-      "surface": "ויגד",
-      "english": "Y fue declarado"
-    },
-    {
-      "surface": "לשאול",
-      "english": "a Saúl"
-    },
-    {
-      "surface": "לאמר",
-      "english": "diciendo:"
-    },
-    {
-      "surface": "הנה",
-      "english": "He aquí"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "בנוית",
-      "english": "en Naioth"
-    },
-    {
-      "surface": "ברמה",
-      "english": "en Ramá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:03:44.355680188Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

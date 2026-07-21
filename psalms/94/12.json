@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 94:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69924,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70484
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:45:51.529613532Z",
   "translation": "¡Oh ⟨la⟩ felicidad del varón que ⟨lo⟩ castigas, oh YHWH, y de tu Torá ⟨lo⟩ enseñas",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "¡Oh ⟨la⟩ felicidad"
+      "gloss": "¡Oh ⟨la⟩ felicidad"
     },
     {
       "surface": "הגבר",
-      "english": "del varón"
+      "gloss": "del varón"
     },
     {
       "surface": "אשר",
-      "english": "que ⟨lo⟩"
+      "gloss": "que ⟨lo⟩"
     },
     {
       "surface": "תיסרנו",
-      "english": "castigas, oh YHWH"
+      "gloss": "castigas, oh YHWH"
     },
     {
       "surface": "יה",
-      "english": "y"
+      "gloss": "y"
     },
     {
       "surface": "ומתורתך",
-      "english": "de tu Torá ⟨lo⟩"
+      "gloss": "de tu Torá ⟨lo⟩"
     },
     {
       "surface": "תלמדנו",
-      "english": "enseñas"
+      "gloss": "enseñas"
     }
-  ],
-  "timestamp": "2026-06-09T23:45:51.529613532Z",
-  "model": "glm-4.5"
+  ]
 }

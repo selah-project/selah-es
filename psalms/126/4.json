@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 126:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 126,
-  "usage": {
-    "completion_tokens": 283,
-    "prompt_tokens": 69987,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70270
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:42:52.088053173Z",
   "translation": "Haz volver, YHWH, ⟨את⟩ nuestro cautiverio, como arroyos en el Néguev",
   "tokens": [
     {
       "surface": "שובה",
-      "english": "Haz volver"
+      "gloss": "Haz volver"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "nuestro cautiverio"
     },
     {
       "surface": "שבותנו",
-      "english": "nuestro cautiverio"
+      "gloss": "nuestro cautiverio"
     },
     {
       "surface": "כאפיקים",
-      "english": "como arroyos"
+      "gloss": "como arroyos"
     },
     {
       "surface": "בנגב",
-      "english": "en el Néguev"
+      "gloss": "en el Néguev"
     }
-  ],
-  "timestamp": "2026-07-16T23:42:52.088053173Z",
-  "model": "glm-4.5"
+  ]
 }

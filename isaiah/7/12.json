@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "isaiah 7:12",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 322,
-    "prompt_tokens": 26196,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26518
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:23:31.507773013Z",
   "translation": "Y dijo Ajaz: No pediré, y no ⟨את⟩ YHWH pondré a prueba.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "אחז",
-      "english": "Ajaz"
+      "gloss": "Ajaz"
     },
     {
       "surface": "לא",
-      "english": "No"
+      "gloss": "No"
     },
     {
       "surface": "אשאל",
-      "english": "pediré"
+      "gloss": "pediré"
     },
     {
       "surface": "ולא",
-      "english": ", y no"
+      "gloss": ", y no"
     },
     {
       "surface": "אנסה",
-      "english": "pondré a prueba"
+      "gloss": "pondré a prueba"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     }
-  ],
-  "timestamp": "2026-07-16T21:23:31.507773013Z",
-  "model": "glm-4.5"
+  ]
 }

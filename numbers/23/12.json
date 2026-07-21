@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "numbers 23:12",
   "book": "numbers",
-  "lang": "es",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 493,
-    "prompt_tokens": 25547,
-    "prompt_tokens_details": {
-      "cached_tokens": 24064
-    },
-    "total_tokens": 26040
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:09:28.457667417Z",
   "translation": "Y respondió y dijo: ¿No ⟨es⟩ aquello que YHWH ⟨ha⟩ puesto ⟨en⟩ ⟨el⟩ ⟨את⟩ que yo debo guardar ⟨para⟩ hablar?",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "Y respondió"
+      "gloss": "Y respondió"
     },
     {
       "surface": "ויאמר",
-      "english": "y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "הלא",
-      "english": "¿No"
+      "gloss": "¿No"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "aquello que"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "ישים",
-      "english": "⟨ha⟩ puesto"
+      "gloss": "⟨ha⟩ puesto"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "בפי",
-      "english": "⟨en⟩ ⟨el⟩"
+      "gloss": "⟨en⟩ ⟨el⟩"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "aquello que yo debo guardar"
     },
     {
       "surface": "אשמר",
-      "english": "yo debo guardar"
+      "gloss": "yo debo guardar"
     },
     {
       "surface": "לדבר",
-      "english": "⟨para⟩ hablar"
+      "gloss": "⟨para⟩ hablar"
     }
-  ],
-  "timestamp": "2026-07-16T23:09:28.457667417Z",
-  "model": "glm-4.5"
+  ]
 }

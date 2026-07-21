@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "exodus 22:18",
   "book": "exodus",
-  "lang": "es",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 314,
-    "prompt_tokens": 23728,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24042
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:18:14.222622555Z",
   "translation": "Cualquiera ⟨que⟩ yace con ⟨una⟩ bestia ⟨de⟩ muerte morirá",
   "tokens": [
     {
       "surface": "כל",
-      "english": "Cualquiera"
+      "gloss": "Cualquiera"
     },
     {
       "surface": "שכב",
-      "english": "⟨que⟩ yace con"
+      "gloss": "⟨que⟩ yace con"
     },
     {
       "surface": "עם",
-      "english": "con"
+      "gloss": "con"
     },
     {
       "surface": "בהמה",
-      "english": "⟨una⟩ bestia"
+      "gloss": "⟨una⟩ bestia"
     },
     {
       "surface": "מות",
-      "english": "⟨de⟩ muerte"
+      "gloss": "⟨de⟩ muerte"
     },
     {
       "surface": "יומת",
-      "english": "morirá"
+      "gloss": "morirá"
     }
-  ],
-  "timestamp": "2026-07-16T20:18:14.222622555Z",
-  "model": "glm-4.5"
+  ]
 }

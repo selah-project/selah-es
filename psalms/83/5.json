@@ -1,61 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 83:5",
   "book": "psalms",
-  "lang": "es",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 642,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70071,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70713
-  },
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:40:18.563678402Z",
   "translation": "Han dicho: Venid ⟨y⟩ ⟨lo⟩ destruyamos ⟨desde⟩ entre ⟨los⟩ gentiles ⟨y⟩ no ⟨sea⟩ recordado ⟨el⟩ nombre de Yisrael ⟨por⟩ ⟨más tiempo⟩.",
   "tokens": [
     {
       "surface": "אמרו",
-      "english": "Han dicho"
+      "gloss": "Han dicho"
     },
     {
       "surface": "לכו",
-      "english": "Venid"
+      "gloss": "Venid"
     },
     {
       "surface": "ונכחידם",
-      "english": "⟨y⟩ ⟨lo⟩ destruyamos",
+      "gloss": "⟨y⟩ ⟨lo⟩ destruyamos",
       "marks": "destruyamos [a Israel]"
     },
     {
       "surface": "מגוי",
-      "english": "⟨desde⟩ entre ⟨los⟩ gentiles"
+      "gloss": "⟨desde⟩ entre ⟨los⟩ gentiles"
     },
     {
       "surface": "ולא",
-      "english": "⟨y⟩ no"
+      "gloss": "⟨y⟩ no"
     },
     {
       "surface": "יזכר",
-      "english": "⟨sea⟩ recordado"
+      "gloss": "⟨sea⟩ recordado"
     },
     {
       "surface": "שם",
-      "english": "⟨el⟩ nombre"
+      "gloss": "⟨el⟩ nombre"
     },
     {
       "surface": "ישראל",
-      "english": "de Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "עוד",
-      "english": "⟨por⟩ ⟨más tiempo⟩"
+      "gloss": "⟨por⟩ ⟨más tiempo⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:40:18.563678402Z",
-  "model": "glm-4.5"
+  ]
 }

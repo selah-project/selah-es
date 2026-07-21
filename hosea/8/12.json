@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "hosea 8:12",
   "book": "hosea",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26422,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26811
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:47:35.374215520Z",
   "translation": "Escribí ⟨el⟩ gran ⟨el⟩ ⟨de⟩ mi Torá, ⟨como⟩ cosa extraña fueron contados.",
   "tokens": [
     {
       "surface": "אכתוב",
-      "english": "Escribí"
+      "gloss": "Escribí"
     },
     {
       "surface": "לו",
-      "english": "⟨el⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "רבו",
-      "english": "gran"
+      "gloss": "gran"
     },
     {
       "surface": "תורתי",
-      "english": "⟨el⟩ ⟨de⟩ mi Torá"
+      "gloss": "⟨el⟩ ⟨de⟩ mi Torá"
     },
     {
       "surface": "כמו",
-      "english": "⟨como⟩"
+      "gloss": "⟨como⟩"
     },
     {
       "surface": "זר",
-      "english": "cosa extraña"
+      "gloss": "cosa extraña"
     },
     {
       "surface": "נחשבו",
-      "english": "fueron contados"
+      "gloss": "fueron contados"
     }
-  ],
-  "timestamp": "2026-06-09T22:47:35.374215520Z",
-  "model": "glm-4.5"
+  ]
 }

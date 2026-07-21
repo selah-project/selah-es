@@ -1,66 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 49:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70186,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70674
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:21:36.756926500Z",
   "translation": "Sus casas ⟨son⟩ ⟨para siempre⟩, sus moradas ⟨son⟩ de generación en generación; ⟨ellos⟩ llaman a sus tierras con sus propios nombres ⟨sobre⟩ ⟨la tierra⟩",
   "tokens": [
     {
       "surface": "קרבם",
-      "english": "Sus casas"
+      "gloss": "Sus casas"
     },
     {
       "surface": "בתימו",
-      "english": "⟨son⟩",
+      "gloss": "⟨son⟩",
       "marks": "Sus casas"
     },
     {
       "surface": "לעולם",
-      "english": "⟨para siempre⟩"
+      "gloss": "⟨para siempre⟩"
     },
     {
       "surface": "משכנתם",
-      "english": "sus moradas"
+      "gloss": "sus moradas"
     },
     {
       "surface": "לדר",
-      "english": "⟨son⟩",
+      "gloss": "⟨son⟩",
       "marks": "sus moradas"
     },
     {
       "surface": "ודר",
-      "english": "de generación en generación"
+      "gloss": "de generación en generación"
     },
     {
       "surface": "קראו",
-      "english": "⟨ellos⟩ llaman"
+      "gloss": "⟨ellos⟩ llaman"
     },
     {
       "surface": "בשמותם",
-      "english": "con sus propios nombres"
+      "gloss": "con sus propios nombres"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩"
+      "gloss": "⟨sobre⟩"
     },
     {
       "surface": "אדמות",
-      "english": "⟨la tierra⟩"
+      "gloss": "⟨la tierra⟩"
     }
-  ],
-  "timestamp": "2026-06-09T23:21:36.756926500Z",
-  "model": "glm-4.5"
+  ]
 }

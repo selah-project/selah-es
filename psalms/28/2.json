@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "psalms 28:2",
   "book": "psalms",
-  "lang": "es",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 548,
-    "prompt_tokens": 70278,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70826
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:27:53.916208689Z",
   "translation": "Oye la voz de mi súplica cuando clamo a ti, cuando alzo mis manos hacia ⟨el⟩ santuario de tu santidad.",
   "tokens": [
     {
       "surface": "שמע",
-      "english": "Oye"
+      "gloss": "Oye"
     },
     {
       "surface": "קול",
-      "english": "la voz"
+      "gloss": "la voz"
     },
     {
       "surface": "תחנוני",
-      "english": "de mi súplica"
+      "gloss": "de mi súplica"
     },
     {
       "surface": "בשועי",
-      "english": "cuando clamo"
+      "gloss": "cuando clamo"
     },
     {
       "surface": "אליך",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "בנשאי",
-      "english": "cuando alzo"
+      "gloss": "cuando alzo"
     },
     {
       "surface": "ידי",
-      "english": "mis manos"
+      "gloss": "mis manos"
     },
     {
       "surface": "אל",
-      "english": "hacia"
+      "gloss": "hacia"
     },
     {
       "surface": "דביר",
-      "english": "⟨el⟩ santuario"
+      "gloss": "⟨el⟩ santuario"
     },
     {
       "surface": "קדשך",
-      "english": "de tu santidad"
+      "gloss": "de tu santidad"
     }
-  ],
-  "timestamp": "2026-07-16T23:27:53.916208689Z",
-  "model": "glm-4.5"
+  ]
 }

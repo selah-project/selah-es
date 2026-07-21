@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "isaiah 55:4",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26000,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26358
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:55:51.610758871Z",
   "translation": "He aquí, he dado ⟨a⟩ ⟨un⟩ testigo ⟨a⟩ ⟨las⟩ naciones, ⟨un⟩ príncipe y ⟨un⟩ comandante ⟨a⟩ ⟨las⟩ naciones.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "עד",
-      "english": "⟨un⟩ testigo"
+      "gloss": "⟨un⟩ testigo"
     },
     {
       "surface": "לאומים",
-      "english": "⟨a⟩ ⟨las⟩ naciones"
+      "gloss": "⟨a⟩ ⟨las⟩ naciones"
     },
     {
       "surface": "נתתיו",
-      "english": "he dado"
+      "gloss": "he dado"
     },
     {
       "surface": "נגיד",
-      "english": "⟨un⟩ príncipe"
+      "gloss": "⟨un⟩ príncipe"
     },
     {
       "surface": "ומצוה",
-      "english": "y ⟨un⟩ comandante"
+      "gloss": "y ⟨un⟩ comandante"
     },
     {
       "surface": "לאמים",
-      "english": "⟨a⟩ ⟨las⟩ naciones"
+      "gloss": "⟨a⟩ ⟨las⟩ naciones"
     }
-  ],
-  "timestamp": "2026-06-10T02:55:51.610758871Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "psalms 104:30",
   "book": "psalms",
-  "lang": "es",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 405,
-    "prompt_tokens": 69962,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70367
-  },
+  "verse": 30,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:59.457364516Z",
   "translation": "Cuando envías tu Rúaj, son creados, y renuevas la superficie de la tierra.",
   "tokens": [
     {
       "surface": "תשלח",
-      "english": "envías"
+      "gloss": "envías"
     },
     {
       "surface": "רוחך",
-      "english": "tu Rúaj"
+      "gloss": "tu Rúaj"
     },
     {
       "surface": "יבראון",
-      "english": "son creados"
+      "gloss": "son creados"
     },
     {
       "surface": "ותחדש",
-      "english": "y renuevas"
+      "gloss": "y renuevas"
     },
     {
       "surface": "פני",
-      "english": "la superficie de"
+      "gloss": "la superficie de"
     },
     {
       "surface": "אדמה",
-      "english": "la tierra"
+      "gloss": "la tierra"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:59.457364516Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "exodus 16:25",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "exodus",
+  "chapter": 16,
+  "verse": 25,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T06:44:57.554740866Z",
+  "translation": "Y Moshé dijo: ⟨Coman⟩ eso hoy, porque ⟨es⟩ Shabbat hoy para YHWH; hoy no ⟨lo⟩ encontrarán ⟨en⟩ el campo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y Moshé dijo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "⟨Coman⟩ eso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para YHWH"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "⟨lo⟩ encontrarán"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "⟨en⟩ el campo"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sábado",
@@ -13,72 +68,6 @@
       "hebrew": "שבת"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 16,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16918,
-    "prompt_tokens_details": {
-      "cached_tokens": 15514
-    },
-    "total_tokens": 17389
-  },
-  "translation": "Y Moshé dijo: ⟨Coman⟩ eso hoy, porque ⟨es⟩ Shabbat hoy para YHWH; hoy no ⟨lo⟩ encontrarán ⟨en⟩ el campo.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y Moshé dijo"
-    },
-    {
-      "surface": "משה",
-      "english": "Moshé"
-    },
-    {
-      "surface": "אכלהו",
-      "english": "⟨Coman⟩ eso"
-    },
-    {
-      "surface": "היום",
-      "english": "hoy"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "שבת",
-      "english": "Shabbat"
-    },
-    {
-      "surface": "היום",
-      "english": "hoy"
-    },
-    {
-      "surface": "ליהוה",
-      "english": "para YHWH"
-    },
-    {
-      "surface": "היום",
-      "english": "hoy"
-    },
-    {
-      "surface": "לא",
-      "english": "no"
-    },
-    {
-      "surface": "תמצאהו",
-      "english": "⟨lo⟩ encontrarán"
-    },
-    {
-      "surface": "בשדה",
-      "english": "⟨en⟩ el campo"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T06:44:57.554740866Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

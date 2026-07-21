@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "zephaniah 2:6",
   "book": "zephaniah",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23272,
-    "prompt_tokens_details": {
-      "cached_tokens": 22177
-    },
-    "total_tokens": 23661
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:23:00.497747896Z",
   "translation": "Y ⟨el⟩ litoral del mar ⟨será⟩ una morada ⟨de⟩ pastores y rediles ⟨para⟩ el ganado",
   "tokens": [
     {
       "surface": "והיתה",
-      "english": "Y ⟨el⟩"
+      "gloss": "Y ⟨el⟩"
     },
     {
       "surface": "חבל",
-      "english": "litoral del mar"
+      "gloss": "litoral del mar"
     },
     {
       "surface": "הים",
-      "english": "⟨será⟩"
+      "gloss": "⟨será⟩"
     },
     {
       "surface": "נות",
-      "english": "una morada"
+      "gloss": "una morada"
     },
     {
       "surface": "כרת",
-      "english": "⟨de⟩"
+      "gloss": "⟨de⟩"
     },
     {
       "surface": "רעים",
-      "english": "pastores"
+      "gloss": "pastores"
     },
     {
       "surface": "וגדרות",
-      "english": "y rediles ⟨para⟩"
+      "gloss": "y rediles ⟨para⟩"
     },
     {
       "surface": "צאן",
-      "english": "el ganado"
+      "gloss": "el ganado"
     }
-  ],
-  "timestamp": "2026-06-09T22:23:00.497747896Z",
-  "model": "glm-4.5"
+  ]
 }

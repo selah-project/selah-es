@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "genesis 19:23",
   "book": "genesis",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28195,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28546
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:16:39.478231908Z",
   "translation": "⟨El⟩ sol había salido sobre ⟨la⟩ tierra, y Lot había entrado en Zoar",
   "tokens": [
     {
       "surface": "השמש",
-      "english": "El sol"
+      "gloss": "El sol"
     },
     {
       "surface": "יצא",
-      "english": "había salido"
+      "gloss": "había salido"
     },
     {
       "surface": "על",
-      "english": "sobre"
+      "gloss": "sobre"
     },
     {
       "surface": "הארץ",
-      "english": "la tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "ולוט",
-      "english": "y Lot"
+      "gloss": "y Lot"
     },
     {
       "surface": "בא",
-      "english": "había entrado"
+      "gloss": "había entrado"
     },
     {
       "surface": "צערה",
-      "english": "en Zoar"
+      "gloss": "en Zoar"
     }
-  ],
-  "timestamp": "2026-06-10T05:16:39.478231908Z",
-  "model": "glm-4.5"
+  ]
 }

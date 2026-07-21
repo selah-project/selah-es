@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "proverbs 20:2",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59942,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60448
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:43:33.481255014Z",
   "translation": "⟨El⟩ terror de ⟨un⟩ rey ⟨es⟩ ⟨como⟩ el rugido de ⟨un⟩ león: quien ⟨lo⟩ provoca ⟨a⟩ ira ⟨está⟩ pecando contra su propia alma.",
   "tokens": [
     {
       "surface": "נהם",
-      "english": "⟨El⟩ terror"
+      "gloss": "⟨El⟩ terror"
     },
     {
       "surface": "ככפיר",
-      "english": "⟨como⟩ el rugido de ⟨un⟩ león"
+      "gloss": "⟨como⟩ el rugido de ⟨un⟩ león"
     },
     {
       "surface": "אימת",
-      "english": "de ⟨un⟩ rey"
+      "gloss": "de ⟨un⟩ rey"
     },
     {
       "surface": "מלך",
-      "english": "rey"
+      "gloss": "rey"
     },
     {
       "surface": "מתעברו",
-      "english": "quien ⟨lo⟩ provoca ⟨a⟩ ira"
+      "gloss": "quien ⟨lo⟩ provoca ⟨a⟩ ira"
     },
     {
       "surface": "חוטא",
-      "english": "⟨está⟩ pecando"
+      "gloss": "⟨está⟩ pecando"
     },
     {
       "surface": "נפשו",
-      "english": "contra su propia alma"
+      "gloss": "contra su propia alma"
     }
-  ],
-  "timestamp": "2026-06-10T01:43:33.481255014Z",
-  "model": "glm-4.5"
+  ]
 }

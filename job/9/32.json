@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "job 9:32",
   "book": "job",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27130,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27532
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:58:38.839479071Z",
   "translation": "Porque ⟨no⟩ ⟨es⟩ un hombre como yo, ⟨lo⟩ respondería; ⟨nosotros⟩ vendríamos juntos ⟨al⟩ juicio.",
   "tokens": [
     {
       "surface": "כי",
-      "english": "Porque"
+      "gloss": "Porque"
     },
     {
       "surface": "לא",
-      "english": "⟨no⟩"
+      "gloss": "⟨no⟩"
     },
     {
       "surface": "איש",
-      "english": "⟨es⟩ un hombre"
+      "gloss": "⟨es⟩ un hombre"
     },
     {
       "surface": "כמני",
-      "english": "como yo"
+      "gloss": "como yo"
     },
     {
       "surface": "אעננו",
-      "english": "⟨lo⟩ respondería"
+      "gloss": "⟨lo⟩ respondería"
     },
     {
       "surface": "נבוא",
-      "english": "⟨nosotros⟩ vendríamos"
+      "gloss": "⟨nosotros⟩ vendríamos"
     },
     {
       "surface": "יחדו",
-      "english": "juntos"
+      "gloss": "juntos"
     },
     {
       "surface": "במשפט",
-      "english": "⟨al⟩ juicio"
+      "gloss": "⟨al⟩ juicio"
     }
-  ],
-  "timestamp": "2026-06-10T01:58:38.839479071Z",
-  "model": "glm-4.5"
+  ]
 }

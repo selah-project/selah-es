@@ -1,36 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "genesis 25:14",
   "book": "genesis",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 127,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27909,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28036
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:22:12.041560065Z",
   "translation": "y Mishma y Dumah y Massa",
   "tokens": [
     {
       "surface": "ומשמע",
-      "english": "Y Mishma"
+      "gloss": "Y Mishma"
     },
     {
       "surface": "ודומה",
-      "english": "y Dumah"
+      "gloss": "y Dumah"
     },
     {
       "surface": "ומשא",
-      "english": "y Massa"
+      "gloss": "y Massa"
     }
-  ],
-  "timestamp": "2026-06-10T05:22:12.041560065Z",
-  "model": "glm-4.5"
+  ]
 }

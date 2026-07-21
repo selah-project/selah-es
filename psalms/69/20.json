@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "psalms 69:20",
   "book": "psalms",
-  "lang": "es",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70092,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70653
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:31:54.922758575Z",
   "translation": "Tú conoces ⟨el⟩ vituperio ⟨y⟩ ⟨el⟩ oprobio ⟨y⟩ ⟨el⟩ oprobio que ⟨me⟩ he cubierto de vergüenza; ⟨delante de⟩ ti ⟨están⟩ todos mis opresores.",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "Tú"
+      "gloss": "Tú"
     },
     {
       "surface": "ידעת",
-      "english": "conoces"
+      "gloss": "conoces"
     },
     {
       "surface": "חרפתי",
-      "english": "⟨el⟩ vituperio"
+      "gloss": "⟨el⟩ vituperio"
     },
     {
       "surface": "ובשתי",
-      "english": "⟨y⟩ ⟨el⟩ oprobio"
+      "gloss": "⟨y⟩ ⟨el⟩ oprobio"
     },
     {
       "surface": "וכלמתי",
-      "english": "⟨y⟩ ⟨el⟩ oprobio que ⟨me⟩ he cubierto de vergüenza"
+      "gloss": "⟨y⟩ ⟨el⟩ oprobio que ⟨me⟩ he cubierto de vergüenza"
     },
     {
       "surface": "נגדך",
-      "english": "⟨delante de⟩ ti"
+      "gloss": "⟨delante de⟩ ti"
     },
     {
       "surface": "כל",
-      "english": "todos"
+      "gloss": "todos"
     },
     {
       "surface": "צוררי",
-      "english": "mis opresores"
+      "gloss": "mis opresores"
     }
-  ],
-  "timestamp": "2026-06-09T23:31:54.922758575Z",
-  "model": "glm-4.5"
+  ]
 }

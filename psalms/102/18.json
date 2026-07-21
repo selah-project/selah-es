@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "psalms 102:18",
   "book": "psalms",
-  "lang": "es",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 441,
-    "prompt_tokens": 70155,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70596
-  },
+  "verse": 18,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:37:37.807150479Z",
   "translation": "Mirará ⟨hacia⟩ la oración ⟨de⟩ los desvalidos y no despreciará ⟨את⟩ la oración de ellos",
   "tokens": [
     {
       "surface": "פנה",
-      "english": "Mirará"
+      "gloss": "Mirará"
     },
     {
       "surface": "אל",
-      "english": "⟨hacia⟩"
+      "gloss": "⟨hacia⟩"
     },
     {
       "surface": "תפלת",
-      "english": "la oración"
+      "gloss": "la oración"
     },
     {
       "surface": "הערער",
-      "english": "⟨de⟩ los desvalidos"
+      "gloss": "⟨de⟩ los desvalidos"
     },
     {
       "surface": "ולא",
-      "english": "y no"
+      "gloss": "y no"
     },
     {
       "surface": "בזה",
-      "english": "despreciará"
+      "gloss": "despreciará"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "la oración de ellos"
     },
     {
       "surface": "תפלתם",
-      "english": "la oración de ellos"
+      "gloss": "la oración de ellos"
     }
-  ],
-  "timestamp": "2026-07-16T23:37:37.807150479Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,96 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "2-samuel 2:13",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 2,
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:16:54.753688419Z",
+  "translation": "Y Joav ⟨el⟩ hijo de Tzruya y ⟨los⟩ servidores de Davidd salieron y los encontraron ⟨en⟩ el estanque de Guibeón juntos; y ⟨estos⟩ se sentaron ⟨a⟩ un lado del estanque y ⟨aquellos⟩ ⟨al⟩ otro lado del estanque.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Y Joav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨el⟩ hijo"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "de Tzruya"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "y ⟨los⟩ servidores"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "salieron"
+    },
+    {
+      "surface": "ויפגשום",
+      "gloss": "y los encontraron"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "el estanque"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "de Guibeón"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "juntos"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "y ⟨estos⟩ se sentaron"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨estos⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "un lado del estanque"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "de ⟨este⟩"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "y ⟨aquellos⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "otro lado del estanque"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "de ⟨aquel⟩"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,104 +100,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 894,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18046,
-    "prompt_tokens_details": {
-      "cached_tokens": 15827
-    },
-    "total_tokens": 18940
-  },
-  "translation": "Y Joav ⟨el⟩ hijo de Tzruya y ⟨los⟩ servidores de Davidd salieron y los encontraron ⟨en⟩ el estanque de Guibeón juntos; y ⟨estos⟩ se sentaron ⟨a⟩ un lado del estanque y ⟨aquellos⟩ ⟨al⟩ otro lado del estanque.",
-  "tokens": [
-    {
-      "surface": "ויואב",
-      "english": "Y Joav"
-    },
-    {
-      "surface": "בן",
-      "english": "⟨el⟩ hijo"
-    },
-    {
-      "surface": "צרויה",
-      "english": "de Tzruya"
-    },
-    {
-      "surface": "ועבדי",
-      "english": "y ⟨los⟩ servidores"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "יצאו",
-      "english": "salieron"
-    },
-    {
-      "surface": "ויפגשום",
-      "english": "y los encontraron"
-    },
-    {
-      "surface": "על",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "ברכת",
-      "english": "el estanque"
-    },
-    {
-      "surface": "גבעון",
-      "english": "de Guibeón"
-    },
-    {
-      "surface": "יחדו",
-      "english": "juntos"
-    },
-    {
-      "surface": "וישבו",
-      "english": "y ⟨estos⟩ se sentaron"
-    },
-    {
-      "surface": "אלה",
-      "english": "⟨estos⟩"
-    },
-    {
-      "surface": "על",
-      "english": "⟨a⟩"
-    },
-    {
-      "surface": "הברכה",
-      "english": "un lado del estanque"
-    },
-    {
-      "surface": "מזה",
-      "english": "de ⟨este⟩"
-    },
-    {
-      "surface": "ואלה",
-      "english": "y ⟨aquellos⟩"
-    },
-    {
-      "surface": "על",
-      "english": "⟨al⟩"
-    },
-    {
-      "surface": "הברכה",
-      "english": "otro lado del estanque"
-    },
-    {
-      "surface": "מזה",
-      "english": "de ⟨aquel⟩"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:16:54.753688419Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

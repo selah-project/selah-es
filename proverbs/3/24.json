@@ -1,53 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "proverbs 3:24",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59867,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60352
-  },
+  "verse": 24,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:29:37.315829937Z",
   "translation": "Cuando te acuestes ⟨את⟩ ⟨el⟩ acostarte, no temerás; ⟨y⟩ al acostarte, ⟨tu⟩ sueño será dulce.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Cuando"
+      "gloss": "Cuando"
     },
     {
       "surface": "תשכב",
-      "english": "te acuestes",
+      "gloss": "te acuestes",
       "marks": "acostarte"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "תפחד",
-      "english": "temerás"
+      "gloss": "temerás"
     },
     {
       "surface": "ושכבת",
-      "english": "⟨y⟩ al acostarte"
+      "gloss": "⟨y⟩ al acostarte"
     },
     {
       "surface": "וערבה",
-      "english": "⟨tu⟩ sueño"
+      "gloss": "⟨tu⟩ sueño"
     },
     {
       "surface": "שנתך",
-      "english": "será dulce"
+      "gloss": "será dulce"
     }
-  ],
-  "timestamp": "2026-06-10T01:29:37.315829937Z",
-  "model": "glm-4.5"
+  ]
 }

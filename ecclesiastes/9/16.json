@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "ecclesiastes 9:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "ecclesiastes",
+  "chapter": 9,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:45:12.634360013Z",
+  "translation": "Y dije yo: ⟨es⟩ buena ⟨la⟩ Jojmá más que ⟨el⟩ poder; sin embargo ⟨la⟩ Jojmá del pobre ⟨es⟩ despreciada y sus palabras no ⟨son⟩ escuchadas",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "Y dije"
+    },
+    {
+      "surface": "אני",
+      "gloss": "yo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "buena"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Jojmá"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "poder"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "sabiduría"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "del pobre"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "despreciada"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "sus palabras"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "no"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "escuchadas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "sabiduría",
@@ -13,68 +64,6 @@
       "hebrew": "חכמה"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 9,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17407,
-    "prompt_tokens_details": {
-      "cached_tokens": 16042
-    },
-    "total_tokens": 17819
-  },
-  "translation": "Y dije yo: ⟨es⟩ buena ⟨la⟩ Jojmá más que ⟨el⟩ poder; sin embargo ⟨la⟩ Jojmá del pobre ⟨es⟩ despreciada y sus palabras no ⟨son⟩ escuchadas",
-  "tokens": [
-    {
-      "surface": "ואמרתי",
-      "english": "Y dije"
-    },
-    {
-      "surface": "אני",
-      "english": "yo"
-    },
-    {
-      "surface": "טובה",
-      "english": "buena"
-    },
-    {
-      "surface": "חכמה",
-      "english": "Jojmá"
-    },
-    {
-      "surface": "מגבורה",
-      "english": "poder"
-    },
-    {
-      "surface": "וחכמת",
-      "english": "sabiduría"
-    },
-    {
-      "surface": "המסכן",
-      "english": "del pobre"
-    },
-    {
-      "surface": "בזויה",
-      "english": "despreciada"
-    },
-    {
-      "surface": "ודבריו",
-      "english": "sus palabras"
-    },
-    {
-      "surface": "אינם",
-      "english": "no"
-    },
-    {
-      "surface": "נשמעים",
-      "english": "escuchadas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:45:12.634360013Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

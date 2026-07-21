@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "psalms 119:45",
   "book": "psalms",
-  "lang": "es",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 394,
-    "prompt_tokens": 69798,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70192
-  },
+  "verse": 45,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:41:22.867860408Z",
   "translation": "Y caminaré ⟨en⟩ un ⟨lugar⟩ espacioso, porque tus mandamientos he buscado",
   "tokens": [
     {
       "surface": "ואתהלכה",
-      "english": "Y caminaré"
+      "gloss": "Y caminaré"
     },
     {
       "surface": "ברחבה",
-      "english": "⟨en⟩ un ⟨lugar⟩ espacioso"
+      "gloss": "⟨en⟩ un ⟨lugar⟩ espacioso"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "פקדיך",
-      "english": "tus mandamientos"
+      "gloss": "tus mandamientos"
     },
     {
       "surface": "דרשתי",
-      "english": "he buscado"
+      "gloss": "he buscado"
     }
-  ],
-  "timestamp": "2026-07-16T23:41:22.867860408Z",
-  "model": "glm-4.5"
+  ]
 }

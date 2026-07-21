@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 14:12",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 60057,
-    "prompt_tokens_details": {
-      "cached_tokens": 58880
-    },
-    "total_tokens": 60399
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:19:32.802562092Z",
   "translation": "Hay un camino que parece recto ⟨al⟩ hombre, pero su fin ⟨son⟩ caminos de muerte.",
   "tokens": [
     {
       "surface": "יש",
-      "english": "Hay"
+      "gloss": "Hay"
     },
     {
       "surface": "דרך",
-      "english": "un camino"
+      "gloss": "un camino"
     },
     {
       "surface": "ישר",
-      "english": "que parece recto"
+      "gloss": "que parece recto"
     },
     {
       "surface": "לפני",
-      "english": "⟨al⟩"
+      "gloss": "⟨al⟩"
     },
     {
       "surface": "איש",
-      "english": "hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "ואחריתה",
-      "english": "pero su fin"
+      "gloss": "pero su fin"
     },
     {
       "surface": "דרכי",
-      "english": "⟨son⟩ caminos"
+      "gloss": "⟨son⟩ caminos"
     },
     {
       "surface": "מות",
-      "english": "de muerte"
+      "gloss": "de muerte"
     }
-  ],
-  "timestamp": "2026-07-16T23:19:32.802562092Z",
-  "model": "glm-4.5"
+  ]
 }

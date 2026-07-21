@@ -1,74 +1,66 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 2:20",
   "book": "exodus",
-  "lang": "es",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 617,
-    "prompt_tokens": 24503,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 25120
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-17T00:34:09.469989242Z",
   "translation": "Y dijo a sus hijas: ¿Y dónde ⟨está⟩ él? ¿por qué ⟨esto⟩ dejasteis ⟨את⟩ ⟨el⟩ hombre? Llamadle, y ⟨él⟩ coma pan.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "Y dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "אל",
-      "english": "a"
+      "gloss": "a"
     },
     {
       "surface": "בנתיו",
-      "english": "sus hijas"
+      "gloss": "sus hijas"
     },
     {
       "surface": "ואיו",
-      "english": "¿Y dónde"
+      "gloss": "¿Y dónde"
     },
     {
       "surface": "למה",
-      "english": "por qué"
+      "gloss": "por qué"
     },
     {
       "surface": "זה",
-      "english": "⟨esto⟩"
+      "gloss": "⟨esto⟩"
     },
     {
       "surface": "עזבתן",
-      "english": "dejasteis"
+      "gloss": "dejasteis"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "האיש"
     },
     {
       "surface": "האיש",
-      "english": "⟨el⟩ hombre"
+      "gloss": "⟨el⟩ hombre"
     },
     {
       "surface": "קראן",
-      "english": "Llamadle"
+      "gloss": "Llamadle"
     },
     {
       "surface": "לו",
-      "english": "a él"
+      "gloss": "a él"
     },
     {
       "surface": "ויאכל",
-      "english": "y ⟨él⟩ coma"
+      "gloss": "y ⟨él⟩ coma"
     },
     {
       "surface": "לחם",
-      "english": "pan"
+      "gloss": "pan"
     }
-  ],
-  "timestamp": "2026-07-17T00:34:09.469989242Z",
-  "model": "glm-4.5"
+  ]
 }

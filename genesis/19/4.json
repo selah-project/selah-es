@@ -1,84 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 19:4",
   "book": "genesis",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 29002,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 29575
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:16:08.885595585Z",
   "translation": "Antes que ⟨ellos⟩ yacieran, ⟨los⟩ hombres ⟨de la⟩ ciudad, hombres ⟨de Sedoma⟩, rodearon ⟨la⟩ casa, desde ⟨el⟩ joven hasta ⟨el⟩ viejo, todo ⟨el⟩ pueblo ⟨desde⟩ ⟨el⟩ extremo",
   "tokens": [
     {
       "surface": "טרם",
-      "english": "Antes que"
+      "gloss": "Antes que"
     },
     {
       "surface": "ישכבו",
-      "english": "⟨ellos⟩ yacieran"
+      "gloss": "⟨ellos⟩ yacieran"
     },
     {
       "surface": "ואנשי",
-      "english": "⟨los⟩ hombres"
+      "gloss": "⟨los⟩ hombres"
     },
     {
       "surface": "העיר",
-      "english": "⟨de la⟩ ciudad"
+      "gloss": "⟨de la⟩ ciudad"
     },
     {
       "surface": "אנשי",
-      "english": "hombres"
+      "gloss": "hombres"
     },
     {
       "surface": "סדם",
-      "english": "⟨de Sedoma⟩"
+      "gloss": "⟨de Sedoma⟩"
     },
     {
       "surface": "נסבו",
-      "english": "rodearon"
+      "gloss": "rodearon"
     },
     {
       "surface": "על",
-      "english": "⟨la⟩"
+      "gloss": "⟨la⟩"
     },
     {
       "surface": "הבית",
-      "english": "casa"
+      "gloss": "casa"
     },
     {
       "surface": "מנער",
-      "english": "desde ⟨el⟩ joven"
+      "gloss": "desde ⟨el⟩ joven"
     },
     {
       "surface": "ועד",
-      "english": "hasta ⟨el⟩"
+      "gloss": "hasta ⟨el⟩"
     },
     {
       "surface": "זקן",
-      "english": "viejo"
+      "gloss": "viejo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "העם",
-      "english": "⟨el⟩ pueblo"
+      "gloss": "⟨el⟩ pueblo"
     },
     {
       "surface": "מקצה",
-      "english": "⟨desde⟩ ⟨el⟩ extremo"
+      "gloss": "⟨desde⟩ ⟨el⟩ extremo"
     }
-  ],
-  "timestamp": "2026-06-10T05:16:08.885595585Z",
-  "model": "glm-4.5"
+  ]
 }

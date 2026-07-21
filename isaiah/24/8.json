@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "isaiah 24:8",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26196,
-    "prompt_tokens_details": {
-      "cached_tokens": 25008
-    },
-    "total_tokens": 26498
-  },
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:34:41.338106122Z",
   "translation": "cesó el regocijo de las panderetas, terminó el estruendo de los exultantes, cesó el regocijo de la arpa",
   "tokens": [
     {
       "surface": "שבת",
-      "english": "Cesó"
+      "gloss": "Cesó"
     },
     {
       "surface": "משוש",
-      "english": "el regocijo"
+      "gloss": "el regocijo"
     },
     {
       "surface": "תפים",
-      "english": "de las panderetas"
+      "gloss": "de las panderetas"
     },
     {
       "surface": "חדל",
-      "english": "terminó"
+      "gloss": "terminó"
     },
     {
       "surface": "שאון",
-      "english": "el estruendo"
+      "gloss": "el estruendo"
     },
     {
       "surface": "עליזים",
-      "english": "de los exultantes"
+      "gloss": "de los exultantes"
     },
     {
       "surface": "שבת",
-      "english": "cesó"
+      "gloss": "cesó"
     },
     {
       "surface": "משוש",
-      "english": "el regocijo"
+      "gloss": "el regocijo"
     },
     {
       "surface": "כנור",
-      "english": "de la arpa"
+      "gloss": "de la arpa"
     }
-  ],
-  "timestamp": "2026-06-10T02:34:41.338106122Z",
-  "model": "glm-4.5"
+  ]
 }

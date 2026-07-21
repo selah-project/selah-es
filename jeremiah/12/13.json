@@ -1,74 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "jeremiah 12:13",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 722,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 25004,
-    "prompt_tokens_details": {
-      "cached_tokens": 23394
-    },
-    "total_tokens": 25726
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T03:13:30.795183916Z",
   "translation": "Han sembrado ⟨el⟩ trigo, ⟨y⟩ han segado ⟨los⟩ espinos; ⟨se⟩ han debilitado ⟨y⟩ no prosperarán; ⟨y⟩ se avergonzarán de ⟨vuestras⟩ cosechas, por ⟨el⟩ furor de ⟨la⟩ ira de YHWH.",
   "tokens": [
     {
       "surface": "זרעו",
-      "english": "Han sembrado"
+      "gloss": "Han sembrado"
     },
     {
       "surface": "חטים",
-      "english": "⟨el⟩ trigo",
+      "gloss": "⟨el⟩ trigo",
       "marks": "trigo"
     },
     {
       "surface": "וקצים",
-      "english": "⟨y⟩ han segado ⟨los⟩ espinos"
+      "gloss": "⟨y⟩ han segado ⟨los⟩ espinos"
     },
     {
       "surface": "קצרו",
-      "english": "⟨y⟩ han segado ⟨los⟩ espinos"
+      "gloss": "⟨y⟩ han segado ⟨los⟩ espinos"
     },
     {
       "surface": "נחלו",
-      "english": "⟨se⟩ han debilitado"
+      "gloss": "⟨se⟩ han debilitado"
     },
     {
       "surface": "לא",
-      "english": "⟨y⟩ no"
+      "gloss": "⟨y⟩ no"
     },
     {
       "surface": "יועלו",
-      "english": "prosperarán"
+      "gloss": "prosperarán"
     },
     {
       "surface": "ובשו",
-      "english": "⟨y⟩ se avergonzarán"
+      "gloss": "⟨y⟩ se avergonzarán"
     },
     {
       "surface": "מתבואתיכם",
-      "english": "de ⟨vuestras⟩ cosechas",
+      "gloss": "de ⟨vuestras⟩ cosechas",
       "marks": "vuestras cosechas"
     },
     {
       "surface": "מחרון",
-      "english": "por ⟨el⟩ furor"
+      "gloss": "por ⟨el⟩ furor"
     },
     {
       "surface": "אף",
-      "english": "de ⟨la⟩ ira"
+      "gloss": "de ⟨la⟩ ira"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     }
-  ],
-  "timestamp": "2026-06-10T03:13:30.795183916Z",
-  "model": "glm-4.5"
+  ]
 }

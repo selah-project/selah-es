@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-samuel 17:15",
   "book": "1-samuel",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 386,
-    "prompt_tokens": 23739,
-    "prompt_tokens_details": {
-      "cached_tokens": 22400
-    },
-    "total_tokens": 24125
-  },
+  "verse": 15,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:40:33.208502907Z",
   "translation": "Y David iba y volvía de Shaúl para pastorear ⟨את⟩ el rebaño de su padre en Bet-Léjem",
   "tokens": [
     {
       "surface": "ודוד",
-      "english": "Y David"
+      "gloss": "Y David"
     },
     {
       "surface": "הלך",
-      "english": "iba"
+      "gloss": "iba"
     },
     {
       "surface": "ושב",
-      "english": "y volvía"
+      "gloss": "y volvía"
     },
     {
       "surface": "מעל",
-      "english": "de"
+      "gloss": "de"
     },
     {
       "surface": "שאול",
-      "english": "Shaúl"
+      "gloss": "Shaúl"
     },
     {
       "surface": "לרעות",
-      "english": "para pastorear"
+      "gloss": "para pastorear"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el rebaño"
     },
     {
       "surface": "צאן",
-      "english": "el rebaño"
+      "gloss": "el rebaño"
     },
     {
       "surface": "אביו",
-      "english": "de su padre"
+      "gloss": "de su padre"
     },
     {
       "surface": "בית",
-      "english": "Bet"
+      "gloss": "Bet"
     },
     {
       "surface": "לחם",
-      "english": "Léjem"
+      "gloss": "Léjem"
     }
-  ],
-  "timestamp": "2026-07-16T18:40:33.208502907Z",
-  "model": "glm-4.5"
+  ]
 }

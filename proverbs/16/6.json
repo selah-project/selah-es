@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "proverbs 16:6",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59952,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60501
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:40:38.763904042Z",
   "translation": "En Jésed y Emet ⟨es⟩ expiado ⟨el⟩ iniquidad, y en ⟨el⟩ temor de YHWH ⟨uno⟩ se aparta de ⟨lo⟩ malo.",
   "tokens": [
     {
       "surface": "בחסד",
-      "english": "En Jésed"
+      "gloss": "En Jésed"
     },
     {
       "surface": "ואמת",
-      "english": "y Emet"
+      "gloss": "y Emet"
     },
     {
       "surface": "יכפר",
-      "english": "⟨es⟩ expiado"
+      "gloss": "⟨es⟩ expiado"
     },
     {
       "surface": "עון",
-      "english": "⟨el⟩ iniquidad"
+      "gloss": "⟨el⟩ iniquidad"
     },
     {
       "surface": "וביראת",
-      "english": "y en ⟨el⟩ temor de"
+      "gloss": "y en ⟨el⟩ temor de"
     },
     {
       "surface": "יהוה",
-      "english": "YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "סור",
-      "english": "⟨uno⟩ se aparta"
+      "gloss": "⟨uno⟩ se aparta"
     },
     {
       "surface": "מרע",
-      "english": "de ⟨lo⟩ malo"
+      "gloss": "de ⟨lo⟩ malo"
     }
-  ],
-  "timestamp": "2026-06-10T01:40:38.763904042Z",
-  "model": "glm-4.5"
+  ]
 }

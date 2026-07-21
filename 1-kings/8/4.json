@@ -1,93 +1,85 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-kings 8:4",
   "book": "1-kings",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 592,
-    "prompt_tokens": 70568,
-    "prompt_tokens_details": {
-      "cached_tokens": 68352
-    },
-    "total_tokens": 71160
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T18:19:06.690415211Z",
   "translation": "y subieron ⟨את⟩ el Arón de YHWH y ⟨את⟩ el Ohel Moed y ⟨את⟩ todo los utensilios del Qódesh que ⟨están⟩ en el ohel, y subieron ⟨את⟩ ellos los Kohanim y los Leviim",
   "tokens": [
     {
       "surface": "ויעלו",
-      "english": "y subieron"
+      "gloss": "y subieron"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el Arón"
     },
     {
       "surface": "ארון",
-      "english": "Arón"
+      "gloss": "Arón"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "el Ohel Moed"
     },
     {
       "surface": "אהל",
-      "english": "Ohel"
+      "gloss": "Ohel"
     },
     {
       "surface": "מועד",
-      "english": "Moed"
+      "gloss": "Moed"
     },
     {
       "surface": "ואת",
-      "english": "y ⟨את⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "todo"
     },
     {
       "surface": "כל",
-      "english": "todo"
+      "gloss": "todo"
     },
     {
       "surface": "כלי",
-      "english": "los utensilios"
+      "gloss": "los utensilios"
     },
     {
       "surface": "הקדש",
-      "english": "del Qódesh"
+      "gloss": "del Qódesh"
     },
     {
       "surface": "אשר",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "באהל",
-      "english": "⟨están⟩ en el ohel"
+      "gloss": "⟨están⟩ en el ohel"
     },
     {
       "surface": "ויעלו",
-      "english": "y subieron"
+      "gloss": "y subieron"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩ ellos",
+      "gloss": "⟨את⟩ ellos",
       "marks": "los Kohanim"
     },
     {
       "surface": "הכהנים",
-      "english": "los Kohanim"
+      "gloss": "los Kohanim"
     },
     {
       "surface": "והלוים",
-      "english": "y los Leviim"
+      "gloss": "y los Leviim"
     }
-  ],
-  "timestamp": "2026-07-16T18:19:06.690415211Z",
-  "model": "glm-4.5"
+  ]
 }

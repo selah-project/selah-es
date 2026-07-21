@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 36,
   "ref": "genesis 19:36",
   "book": "genesis",
-  "lang": "es",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 302,
-    "prompt_tokens": 28153,
-    "prompt_tokens_details": {
-      "cached_tokens": 27392
-    },
-    "total_tokens": 28455
-  },
+  "verse": 36,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:58:39.604103842Z",
   "translation": "Así concibieron las dos hijas de Lot ⟨de⟩ su padre.",
   "tokens": [
     {
       "surface": "ותהרין",
-      "english": "así concibieron"
+      "gloss": "así concibieron"
     },
     {
       "surface": "שתי",
-      "english": "las dos"
+      "gloss": "las dos"
     },
     {
       "surface": "בנות",
-      "english": "hijas"
+      "gloss": "hijas"
     },
     {
       "surface": "לוט",
-      "english": "de Lot"
+      "gloss": "de Lot"
     },
     {
       "surface": "מאביהן",
-      "english": "⟨de⟩ su padre",
+      "gloss": "⟨de⟩ su padre",
       "marks": "su padre"
     }
-  ],
-  "timestamp": "2026-07-16T20:58:39.604103842Z",
-  "model": "glm-4.5"
+  ]
 }

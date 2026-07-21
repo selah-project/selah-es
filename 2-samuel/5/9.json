@@ -1,9 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "2-samuel 5:9",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-samuel",
+  "chapter": 5,
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:20:00.740353495Z",
+  "translation": "Y Davidd habitó ⟨en⟩ ⟨el⟩ baluarte y llamó a ⟨ella⟩ Ciudad de Davidd. Y Davidd edificó alrededor desde Millo y hacia ⟨su⟩ casa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Y habitó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "⟨en⟩ ⟨el⟩ baluarte"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "y llamó"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a ⟨ella⟩",
+      "marks": "Ciudad de David"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ciudad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "Y edificó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "alrededor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "desde"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "y hacia ⟨su⟩ casa"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -27,77 +87,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 5,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17299,
-    "prompt_tokens_details": {
-      "cached_tokens": 15829
-    },
-    "total_tokens": 17777
-  },
-  "translation": "Y Davidd habitó ⟨en⟩ ⟨el⟩ baluarte y llamó a ⟨ella⟩ Ciudad de Davidd. Y Davidd edificó alrededor desde Millo y hacia ⟨su⟩ casa.",
-  "tokens": [
-    {
-      "surface": "וישב",
-      "english": "Y habitó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "במצדה",
-      "english": "⟨en⟩ ⟨el⟩ baluarte"
-    },
-    {
-      "surface": "ויקרא",
-      "english": "y llamó"
-    },
-    {
-      "surface": "לה",
-      "english": "a ⟨ella⟩",
-      "marks": "Ciudad de David"
-    },
-    {
-      "surface": "עיר",
-      "english": "Ciudad"
-    },
-    {
-      "surface": "דוד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "ויבן",
-      "english": "Y edificó"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "סביב",
-      "english": "alrededor"
-    },
-    {
-      "surface": "מן",
-      "english": "desde"
-    },
-    {
-      "surface": "המלוא",
-      "english": "Millo"
-    },
-    {
-      "surface": "וביתה",
-      "english": "y hacia ⟨su⟩ casa"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:20:00.740353495Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

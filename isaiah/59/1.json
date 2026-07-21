@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "isaiah 59:1",
   "book": "isaiah",
-  "lang": "es",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 421,
-    "prompt_tokens": 26307,
-    "prompt_tokens_details": {
-      "cached_tokens": 24960
-    },
-    "total_tokens": 26728
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:31:50.408921738Z",
   "translation": "He aquí, ⟨la⟩ mano de YHWH no ⟨ha⟩ acortado ⟨de⟩ salvar, ni ⟨su⟩ oreja ⟨se ha⟩ endurecido ⟨de⟩ oír.",
   "tokens": [
     {
       "surface": "הן",
-      "english": "He aquí"
+      "gloss": "He aquí"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "קצרה",
-      "english": "ha acortado"
+      "gloss": "ha acortado"
     },
     {
       "surface": "יד",
-      "english": "mano"
+      "gloss": "mano"
     },
     {
       "surface": "יהוה",
-      "english": "de YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "מהושיע",
-      "english": "de salvar"
+      "gloss": "de salvar"
     },
     {
       "surface": "ולא",
-      "english": "ni"
+      "gloss": "ni"
     },
     {
       "surface": "כבדה",
-      "english": "se ha endurecido"
+      "gloss": "se ha endurecido"
     },
     {
       "surface": "אזנו",
-      "english": "su oreja"
+      "gloss": "su oreja"
     },
     {
       "surface": "משמוע",
-      "english": "de oír"
+      "gloss": "de oír"
     }
-  ],
-  "timestamp": "2026-07-16T21:31:50.408921738Z",
-  "model": "glm-4.5"
+  ]
 }

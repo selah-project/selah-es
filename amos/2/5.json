@@ -1,9 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "amos 2:5",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "amos",
+  "chapter": 2,
+  "verse": 5,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T13:01:26.772154409Z",
+  "translation": "y enviaré ⟨את⟩ fuego sobre Judá y consumirá las fortalezas de Yerushalayim",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Y enviaré"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuego"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sobre Judá"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "y consumirá"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "las fortalezas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yerushalayim"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Jerusalén",
@@ -13,48 +44,6 @@
       "hebrew": "ירושלם"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 2,
-  "usage": {
-    "completion_tokens": 206,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16019,
-    "prompt_tokens_details": {
-      "cached_tokens": 15068
-    },
-    "total_tokens": 16225
-  },
-  "translation": "y enviaré ⟨את⟩ fuego sobre Judá y consumirá las fortalezas de Yerushalayim",
-  "tokens": [
-    {
-      "surface": "ושלחתי",
-      "english": "Y enviaré"
-    },
-    {
-      "surface": "אש",
-      "english": "fuego"
-    },
-    {
-      "surface": "ביהודה",
-      "english": "sobre Judá"
-    },
-    {
-      "surface": "ואכלה",
-      "english": "y consumirá"
-    },
-    {
-      "surface": "ארמנות",
-      "english": "las fortalezas"
-    },
-    {
-      "surface": "ירושלם",
-      "english": "de Yerushalayim"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T13:01:26.772154409Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

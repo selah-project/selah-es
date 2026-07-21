@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "jeremiah 29:13",
   "book": "jeremiah",
-  "lang": "es",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 24655,
-    "prompt_tokens_details": {
-      "cached_tokens": 23424
-    },
-    "total_tokens": 25066
-  },
+  "verse": 13,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T21:44:55.009729684Z",
   "translation": "Y me buscaréis ⟨את⟩ y me hallaréis, porque me buscaréis ⟨את⟩ con todo vuestro corazón.",
   "tokens": [
     {
       "surface": "ובקשתם",
-      "english": "Y me buscaréis"
+      "gloss": "Y me buscaréis"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "y me hallaréis"
     },
     {
       "surface": "ומצאתם",
-      "english": "y me hallaréis"
+      "gloss": "y me hallaréis"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "תדרשני",
-      "english": "me buscaréis ⟨את⟩"
+      "gloss": "me buscaréis ⟨את⟩"
     },
     {
       "surface": "בכל",
-      "english": "con todo"
+      "gloss": "con todo"
     },
     {
       "surface": "לבבכם",
-      "english": "vuestro corazón"
+      "gloss": "vuestro corazón"
     }
-  ],
-  "timestamp": "2026-07-16T21:44:55.009729684Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-kings 22:11",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-kings",
+  "chapter": 22,
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T11:43:54.757106678Z",
+  "translation": "Y aconteció que cuando el rey ⟨is⟩ oyendo ⟨את⟩ las palabras dSéfer de ⟨el⟩ HaTorá, ⟨he⟩ rasgó ⟨את⟩ sus ropas.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Y aconteció que"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "cuando ⟨is⟩ oyendo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "el rey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "las palabras del libro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "las palabras"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "dSéfer"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "de ⟨el⟩ HaTorá"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "⟨he⟩ rasgó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sus ropas"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sus ropas"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el libro",
@@ -13,66 +62,6 @@
       "hebrew": "תורה־ספר"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 22,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 16848,
-    "prompt_tokens_details": {
-      "cached_tokens": 15441
-    },
-    "total_tokens": 17216
-  },
-  "translation": "Y aconteció que cuando el rey ⟨is⟩ oyendo ⟨את⟩ las palabras dSéfer de ⟨el⟩ HaTorá, ⟨he⟩ rasgó ⟨את⟩ sus ropas.",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "english": "Y aconteció que"
-    },
-    {
-      "surface": "כשמע",
-      "english": "cuando ⟨is⟩ oyendo"
-    },
-    {
-      "surface": "המלך",
-      "english": "el rey"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "las palabras del libro"
-    },
-    {
-      "surface": "דברי",
-      "english": "las palabras"
-    },
-    {
-      "surface": "ספר",
-      "english": "dSéfer"
-    },
-    {
-      "surface": "התורה",
-      "english": "de ⟨el⟩ HaTorá"
-    },
-    {
-      "surface": "ויקרע",
-      "english": "⟨he⟩ rasgó"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "sus ropas"
-    },
-    {
-      "surface": "בגדיו",
-      "english": "sus ropas"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T11:43:54.757106678Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

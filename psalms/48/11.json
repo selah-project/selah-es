@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 48:11",
   "book": "psalms",
-  "lang": "es",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70208,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70700
-  },
+  "verse": 11,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:21:29.410209602Z",
   "translation": "Como ⟨es⟩ tu Nombre, Elohim, ⟨así es⟩ tu alabanza ⟨hasta⟩ los extremos de ⟨la⟩ tierra ⟨está⟩ llena ⟨de⟩ justicia ⟨es⟩ tu mano derecha",
   "tokens": [
     {
       "surface": "כשמך",
-      "english": "Como ⟨es⟩ tu Nombre"
+      "gloss": "Como ⟨es⟩ tu Nombre"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "כן",
-      "english": "⟨así es⟩"
+      "gloss": "⟨así es⟩"
     },
     {
       "surface": "תהלתך",
-      "english": "tu alabanza"
+      "gloss": "tu alabanza"
     },
     {
       "surface": "על",
-      "english": "⟨hasta⟩"
+      "gloss": "⟨hasta⟩"
     },
     {
       "surface": "קצוי",
-      "english": "los extremos"
+      "gloss": "los extremos"
     },
     {
       "surface": "ארץ",
-      "english": "de ⟨la⟩ tierra"
+      "gloss": "de ⟨la⟩ tierra"
     },
     {
       "surface": "צדק",
-      "english": "⟨está⟩ llena ⟨de⟩ justicia"
+      "gloss": "⟨está⟩ llena ⟨de⟩ justicia"
     },
     {
       "surface": "מלאה",
-      "english": "⟨está⟩ llena"
+      "gloss": "⟨está⟩ llena"
     },
     {
       "surface": "ימינך",
-      "english": "⟨es⟩ tu mano derecha"
+      "gloss": "⟨es⟩ tu mano derecha"
     }
-  ],
-  "timestamp": "2026-06-09T23:21:29.410209602Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,9 +1,108 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-samuel 26:21",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-samuel",
+  "chapter": 26,
+  "verse": 21,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T10:11:44.104655832Z",
+  "translation": "Y dijo Shaul: He pecado; regresa, mi hijo Davidd, porque ⟨no⟩ haré ⟨mal⟩ ⟨contra⟩ ti ⟨en⟩ ⟨adelante⟩, pues ⟨la⟩ vida ⟨de⟩ mi alma fue preciosa ⟨a⟩ tus ojos ⟨en⟩ ⟨el⟩ día ⟨de⟩ hoy. ⟨He aquí⟩, he obrado ⟨como⟩ ⟨un⟩ ⟨necio⟩ y ⟨he⟩ errado ⟨en⟩ gran manera.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Y dijo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "He pecado"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "regresa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mi hijo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "ארע",
+      "gloss": "haré"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨mal⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨contra⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "⟨adelante⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨la⟩ vida ⟨de⟩ mi alma"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "⟨a⟩ tus ojos"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨en⟩ ⟨el⟩ día"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨de⟩ hoy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨He aquí⟩"
+    },
+    {
+      "surface": "הסכלתי",
+      "gloss": "he obrado ⟨como⟩ ⟨un⟩ ⟨necio⟩"
+    },
+    {
+      "surface": "ואשגה",
+      "gloss": "y ⟨he⟩ errado"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gran manera"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Davi",
@@ -13,116 +112,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 26,
-  "usage": {
-    "completion_tokens": 825,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17502,
-    "prompt_tokens_details": {
-      "cached_tokens": 15048
-    },
-    "total_tokens": 18327
-  },
-  "translation": "Y dijo Shaul: He pecado; regresa, mi hijo Davidd, porque ⟨no⟩ haré ⟨mal⟩ ⟨contra⟩ ti ⟨en⟩ ⟨adelante⟩, pues ⟨la⟩ vida ⟨de⟩ mi alma fue preciosa ⟨a⟩ tus ojos ⟨en⟩ ⟨el⟩ día ⟨de⟩ hoy. ⟨He aquí⟩, he obrado ⟨como⟩ ⟨un⟩ ⟨necio⟩ y ⟨he⟩ errado ⟨en⟩ gran manera.",
-  "tokens": [
-    {
-      "surface": "ויאמר",
-      "english": "Y dijo"
-    },
-    {
-      "surface": "שאול",
-      "english": "Shaul"
-    },
-    {
-      "surface": "חטאתי",
-      "english": "He pecado"
-    },
-    {
-      "surface": "שוב",
-      "english": "regresa"
-    },
-    {
-      "surface": "בני",
-      "english": "mi hijo"
-    },
-    {
-      "surface": "דוד",
-      "english": "Davidd"
-    },
-    {
-      "surface": "כי",
-      "english": "porque"
-    },
-    {
-      "surface": "לא",
-      "english": "⟨no⟩"
-    },
-    {
-      "surface": "ארע",
-      "english": "haré"
-    },
-    {
-      "surface": "לך",
-      "english": "⟨mal⟩"
-    },
-    {
-      "surface": "עוד",
-      "english": "⟨contra⟩"
-    },
-    {
-      "surface": "תחת",
-      "english": "⟨ti⟩"
-    },
-    {
-      "surface": "אשר",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "יקרה",
-      "english": "⟨adelante⟩"
-    },
-    {
-      "surface": "נפשי",
-      "english": "⟨la⟩ vida ⟨de⟩ mi alma"
-    },
-    {
-      "surface": "בעיניך",
-      "english": "⟨a⟩ tus ojos"
-    },
-    {
-      "surface": "היום",
-      "english": "⟨en⟩ ⟨el⟩ día"
-    },
-    {
-      "surface": "הזה",
-      "english": "⟨de⟩ hoy"
-    },
-    {
-      "surface": "הנה",
-      "english": "⟨He aquí⟩"
-    },
-    {
-      "surface": "הסכלתי",
-      "english": "he obrado ⟨como⟩ ⟨un⟩ ⟨necio⟩"
-    },
-    {
-      "surface": "ואשגה",
-      "english": "y ⟨he⟩ errado"
-    },
-    {
-      "surface": "הרבה",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "מאד",
-      "english": "gran manera"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T10:11:44.104655832Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

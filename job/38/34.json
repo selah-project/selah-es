@@ -1,49 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "job 38:34",
   "book": "job",
-  "lang": "es",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26943,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27439
-  },
+  "verse": 34,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:16:06.505014374Z",
   "translation": "¿Puedes tú ⟨alzar⟩ tu voz ⟨a⟩ las nubes, ⟨para que⟩ ⟨את⟩ abundancia de aguas ⟨te⟩ cubra?",
   "tokens": [
     {
       "surface": "התרים",
-      "english": "¿Puedes tú ⟨alzar⟩"
+      "gloss": "¿Puedes tú ⟨alzar⟩"
     },
     {
       "surface": "לעב",
-      "english": "⟨a⟩ las nubes"
+      "gloss": "⟨a⟩ las nubes"
     },
     {
       "surface": "קולך",
-      "english": "tu voz"
+      "gloss": "tu voz"
     },
     {
       "surface": "ושפעת",
-      "english": "⟨para que⟩"
+      "gloss": "⟨para que⟩"
     },
     {
       "surface": "מים",
-      "english": "abundancia de aguas",
+      "gloss": "abundancia de aguas",
       "marks": "abundancia de aguas ⟨te⟩ cubra"
     },
     {
       "surface": "תכסך",
-      "english": "⟨te⟩ cubra"
+      "gloss": "⟨te⟩ cubra"
     }
-  ],
-  "timestamp": "2026-06-10T02:16:06.505014374Z",
-  "model": "glm-4.5"
+  ]
 }

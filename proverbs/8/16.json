@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "proverbs 8:16",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59795,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60168
-  },
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:33:39.317263355Z",
   "translation": "Por mí gobiernan los gobernantes, ⟨y⟩ ⟨los⟩ nobles, ⟨los⟩ jueces de ⟨todos⟩ ⟨de⟩ ⟨la⟩ justicia.",
   "tokens": [
     {
       "surface": "בי",
-      "english": "Por mí"
+      "gloss": "Por mí"
     },
     {
       "surface": "שרים",
-      "english": "gobernantes"
+      "gloss": "gobernantes"
     },
     {
       "surface": "ישרו",
-      "english": "gobiernan"
+      "gloss": "gobiernan"
     },
     {
       "surface": "ונדיבים",
-      "english": "⟨y⟩ ⟨los⟩ nobles"
+      "gloss": "⟨y⟩ ⟨los⟩ nobles"
     },
     {
       "surface": "כל",
-      "english": "⟨todos⟩"
+      "gloss": "⟨todos⟩"
     },
     {
       "surface": "שפטי",
-      "english": "jueces"
+      "gloss": "jueces"
     },
     {
       "surface": "צדק",
-      "english": "⟨de⟩ ⟨la⟩ justicia"
+      "gloss": "⟨de⟩ ⟨la⟩ justicia"
     }
-  ],
-  "timestamp": "2026-06-10T01:33:39.317263355Z",
-  "model": "glm-4.5"
+  ]
 }

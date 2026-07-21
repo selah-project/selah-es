@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "hosea 9:2",
   "book": "hosea",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26450,
-    "prompt_tokens_details": {
-      "cached_tokens": 25476
-    },
-    "total_tokens": 26901
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T22:47:37.652314434Z",
   "translation": "El granero ⟨y⟩ la lagar no los alimentarán, ⟨y⟩ el vino nuevo faltará en ella.",
   "tokens": [
     {
       "surface": "גרן",
-      "english": "El granero"
+      "gloss": "El granero"
     },
     {
       "surface": "ויקב",
-      "english": "⟨y⟩ la lagar"
+      "gloss": "⟨y⟩ la lagar"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "ירעם",
-      "english": "los alimentarán"
+      "gloss": "los alimentarán"
     },
     {
       "surface": "ותירוש",
-      "english": "⟨y⟩ el vino nuevo"
+      "gloss": "⟨y⟩ el vino nuevo"
     },
     {
       "surface": "יכחש",
-      "english": "faltará"
+      "gloss": "faltará"
     },
     {
       "surface": "בה",
-      "english": "en ella"
+      "gloss": "en ella"
     }
-  ],
-  "timestamp": "2026-06-09T22:47:37.652314434Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,50 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 25:9",
   "book": "psalms",
-  "lang": "es",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69852,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70336
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:09:02.580023062Z",
   "translation": "Guía ⟨a⟩ ⟨los⟩ humildes ⟨en⟩ ⟨el⟩ juicio, y enseña ⟨a⟩ ⟨los⟩ humildes ⟨su⟩ camino",
   "tokens": [
     {
       "surface": "ידרך",
-      "english": "Guía"
+      "gloss": "Guía"
     },
     {
       "surface": "ענוים",
-      "english": "⟨a⟩ ⟨los⟩ humildes",
+      "gloss": "⟨a⟩ ⟨los⟩ humildes",
       "marks": "⟨a⟩ ⟨los⟩ humildes"
     },
     {
       "surface": "במשפט",
-      "english": "⟨en⟩ ⟨el⟩ juicio"
+      "gloss": "⟨en⟩ ⟨el⟩ juicio"
     },
     {
       "surface": "וילמד",
-      "english": "y enseña"
+      "gloss": "y enseña"
     },
     {
       "surface": "ענוים",
-      "english": "⟨a⟩ ⟨los⟩ humildes",
+      "gloss": "⟨a⟩ ⟨los⟩ humildes",
       "marks": "⟨a⟩ ⟨los⟩ humildes"
     },
     {
       "surface": "דרכו",
-      "english": "⟨su⟩ camino"
+      "gloss": "⟨su⟩ camino"
     }
-  ],
-  "timestamp": "2026-06-09T23:09:02.580023062Z",
-  "model": "glm-4.5"
+  ]
 }

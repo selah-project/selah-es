@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 71:7",
   "book": "psalms",
-  "lang": "es",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 408,
-    "prompt_tokens": 69880,
-    "prompt_tokens_details": {
-      "cached_tokens": 68992
-    },
-    "total_tokens": 70288
-  },
+  "verse": 7,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T23:33:07.902887959Z",
   "translation": "Como ⟨un⟩ prodigio he sido para muchos, pero tú ⟨eres⟩ mi refugio fuerte.",
   "tokens": [
     {
       "surface": "כמופת",
-      "english": "como ⟨un⟩ prodigio"
+      "gloss": "como ⟨un⟩ prodigio"
     },
     {
       "surface": "הייתי",
-      "english": "he sido"
+      "gloss": "he sido"
     },
     {
       "surface": "לרבים",
-      "english": "para muchos"
+      "gloss": "para muchos"
     },
     {
       "surface": "ואתה",
-      "english": "pero tú"
+      "gloss": "pero tú"
     },
     {
       "surface": "מחסי",
-      "english": "mi refugio"
+      "gloss": "mi refugio"
     },
     {
       "surface": "עז",
-      "english": "fuerte"
+      "gloss": "fuerte"
     }
-  ],
-  "timestamp": "2026-07-16T23:33:07.902887959Z",
-  "model": "glm-4.5"
+  ]
 }

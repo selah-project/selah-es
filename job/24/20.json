@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "job 24:20",
   "book": "job",
-  "lang": "es",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27374,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27916
-  },
+  "verse": 20,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:06:59.761822283Z",
   "translation": "La matriz lo olvidará ⟨al⟩ ⟨את⟩; la larva se cebará ⟨sobre⟩ ⟨את⟩; no se ⟨le⟩ recordará ⟨más⟩, y la maldad ⟨será⟩ quebrada ⟨como⟩ un árbol.",
   "tokens": [
     {
       "surface": "ישכחהו",
-      "english": "La matriz lo olvidará"
+      "gloss": "La matriz lo olvidará"
     },
     {
       "surface": "רחם",
-      "english": "matriz"
+      "gloss": "matriz"
     },
     {
       "surface": "מתקו",
-      "english": "la larva se cebará"
+      "gloss": "la larva se cebará"
     },
     {
       "surface": "רמה",
-      "english": "larva"
+      "gloss": "larva"
     },
     {
       "surface": "עוד",
-      "english": "más"
+      "gloss": "más"
     },
     {
       "surface": "לא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "יזכר",
-      "english": "se ⟨le⟩ recordará"
+      "gloss": "se ⟨le⟩ recordará"
     },
     {
       "surface": "ותשבר",
-      "english": "la maldad ⟨será⟩ quebrada"
+      "gloss": "la maldad ⟨será⟩ quebrada"
     },
     {
       "surface": "כעץ",
-      "english": "⟨como⟩ un árbol"
+      "gloss": "⟨como⟩ un árbol"
     },
     {
       "surface": "עולה",
-      "english": "maldad"
+      "gloss": "maldad"
     }
-  ],
-  "timestamp": "2026-06-10T02:06:59.761822283Z",
-  "model": "glm-4.5"
+  ]
 }

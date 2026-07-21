@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 87:3",
   "book": "psalms",
-  "lang": "es",
   "chapter": 87,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69802,
-    "prompt_tokens_details": {
-      "cached_tokens": 68938
-    },
-    "total_tokens": 70156
-  },
+  "verse": 3,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:42:14.805670741Z",
   "translation": "⟨Las⟩ cosas gloriosas son dichas ⟨de⟩ ti, oh ciudad ⟨de⟩ Elohim. Selah",
   "tokens": [
     {
       "surface": "נכבדות",
-      "english": "⟨Las⟩ cosas gloriosas"
+      "gloss": "⟨Las⟩ cosas gloriosas"
     },
     {
       "surface": "מדבר",
-      "english": "son dichas"
+      "gloss": "son dichas"
     },
     {
       "surface": "בך",
-      "english": "⟨de⟩ ti"
+      "gloss": "⟨de⟩ ti"
     },
     {
       "surface": "עיר",
-      "english": "ciudad"
+      "gloss": "ciudad"
     },
     {
       "surface": "האלהים",
-      "english": "⟨de⟩ Elohim"
+      "gloss": "⟨de⟩ Elohim"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:42:14.805670741Z",
-  "model": "glm-4.5"
+  ]
 }

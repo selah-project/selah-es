@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "psalms 68:6",
   "book": "psalms",
-  "lang": "es",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69929,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70331
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:30:33.251644303Z",
   "translation": "Padre de ⟨los⟩ huérfanos ⟨y⟩ juez ⟨de las⟩ viudas ⟨es⟩ Elohim en su morada santa",
   "tokens": [
     {
       "surface": "אבי",
-      "english": "Padre"
+      "gloss": "Padre"
     },
     {
       "surface": "יתומים",
-      "english": "de ⟨los⟩ huérfanos"
+      "gloss": "de ⟨los⟩ huérfanos"
     },
     {
       "surface": "ודין",
-      "english": "⟨y⟩ juez"
+      "gloss": "⟨y⟩ juez"
     },
     {
       "surface": "אלמנות",
-      "english": "de ⟨las⟩ viudas"
+      "gloss": "de ⟨las⟩ viudas"
     },
     {
       "surface": "אלהים",
-      "english": "Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "במעון",
-      "english": "en su morada"
+      "gloss": "en su morada"
     },
     {
       "surface": "קדשו",
-      "english": "santa"
+      "gloss": "santa"
     }
-  ],
-  "timestamp": "2026-06-09T23:30:33.251644303Z",
-  "model": "glm-4.5"
+  ]
 }

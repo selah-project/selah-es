@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "job 33:32",
   "book": "job",
-  "lang": "es",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 27174,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27681
-  },
+  "verse": 32,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:12:24.122278489Z",
   "translation": "Si ⟨hay⟩ palabras, respóndeme: ⟨yo⟩ ⟨lo⟩ ⟨deseo⟩ ⟨tu⟩ ⟨justicia⟩.",
   "tokens": [
     {
       "surface": "אם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "יש",
-      "english": "⟨hay⟩"
+      "gloss": "⟨hay⟩"
     },
     {
       "surface": "מלין",
-      "english": "palabras"
+      "gloss": "palabras"
     },
     {
       "surface": "השיבני",
-      "english": "respóndeme"
+      "gloss": "respóndeme"
     },
     {
       "surface": "דבר",
-      "english": "⟨yo⟩"
+      "gloss": "⟨yo⟩"
     },
     {
       "surface": "כי",
-      "english": "⟨lo⟩"
+      "gloss": "⟨lo⟩"
     },
     {
       "surface": "חפצתי",
-      "english": "⟨deseo⟩"
+      "gloss": "⟨deseo⟩"
     },
     {
       "surface": "צדקך",
-      "english": "⟨tu⟩ ⟨justicia⟩"
+      "gloss": "⟨tu⟩ ⟨justicia⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:12:24.122278489Z",
-  "model": "glm-4.5"
+  ]
 }

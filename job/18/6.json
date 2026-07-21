@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "job 18:6",
   "book": "job",
-  "lang": "es",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 26937,
-    "prompt_tokens_details": {
-      "cached_tokens": 26087
-    },
-    "total_tokens": 27237
-  },
+  "verse": 6,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T02:02:50.472024611Z",
   "translation": "La luz ⟨se oscurece⟩ ⟨en⟩ su tienda y su lámpara ⟨sobre⟩ él ⟨se apaga⟩",
   "tokens": [
     {
       "surface": "אור",
-      "english": "La luz"
+      "gloss": "La luz"
     },
     {
       "surface": "חשך",
-      "english": "⟨se oscurece⟩"
+      "gloss": "⟨se oscurece⟩"
     },
     {
       "surface": "באהלו",
-      "english": "⟨en⟩ su tienda"
+      "gloss": "⟨en⟩ su tienda"
     },
     {
       "surface": "ונרו",
-      "english": "y su lámpara"
+      "gloss": "y su lámpara"
     },
     {
       "surface": "עליו",
-      "english": "⟨sobre⟩ él"
+      "gloss": "⟨sobre⟩ él"
     },
     {
       "surface": "ידעך",
-      "english": "⟨se apaga⟩"
+      "gloss": "⟨se apaga⟩"
     }
-  ],
-  "timestamp": "2026-06-10T02:02:50.472024611Z",
-  "model": "glm-4.5"
+  ]
 }

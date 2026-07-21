@@ -1,9 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-chronicles 27:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "1-chronicles",
+  "chapter": 27,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T14:56:21.383999522Z",
+  "translation": "Y sobre ⟨el⟩ príncipe de ⟨las⟩ tribus de Yisrael: ⟨el⟩ príncipe ⟨el⟩ rubenita ⟨es⟩ Eliezer hijo de Zicri; ⟨el⟩ simeonita ⟨es⟩ Shefatías hijo de Maacá.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Y sobre"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "⟨el⟩ príncipe de ⟨las⟩ tribus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "⟨el⟩ rubenita"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "⟨el⟩ príncipe"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "de Zicri"
+    },
+    {
+      "surface": "לשמעוני",
+      "gloss": "⟨el⟩ simeonita"
+    },
+    {
+      "surface": "שפטיהו",
+      "gloss": "Shefatías"
+    },
+    {
+      "surface": "בן",
+      "gloss": "hijo"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "de Maacá"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Israel",
@@ -13,72 +68,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 27,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 57355,
-    "prompt_tokens_details": {
-      "cached_tokens": 55701
-    },
-    "total_tokens": 57854
-  },
-  "translation": "Y sobre ⟨el⟩ príncipe de ⟨las⟩ tribus de Yisrael: ⟨el⟩ príncipe ⟨el⟩ rubenita ⟨es⟩ Eliezer hijo de Zicri; ⟨el⟩ simeonita ⟨es⟩ Shefatías hijo de Maacá.",
-  "tokens": [
-    {
-      "surface": "ועל",
-      "english": "Y sobre"
-    },
-    {
-      "surface": "שבטי",
-      "english": "⟨el⟩ príncipe de ⟨las⟩ tribus"
-    },
-    {
-      "surface": "ישראל",
-      "english": "Yisrael"
-    },
-    {
-      "surface": "לראובני",
-      "english": "⟨el⟩ rubenita"
-    },
-    {
-      "surface": "נגיד",
-      "english": "⟨el⟩ príncipe"
-    },
-    {
-      "surface": "אליעזר",
-      "english": "Eliezer"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "זכרי",
-      "english": "de Zicri"
-    },
-    {
-      "surface": "לשמעוני",
-      "english": "⟨el⟩ simeonita"
-    },
-    {
-      "surface": "שפטיהו",
-      "english": "Shefatías"
-    },
-    {
-      "surface": "בן",
-      "english": "hijo"
-    },
-    {
-      "surface": "מעכה",
-      "english": "de Maacá"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T14:56:21.383999522Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

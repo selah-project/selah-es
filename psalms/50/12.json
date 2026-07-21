@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.1",
-  "verse": 12,
   "ref": "psalms 50:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69949,
-    "prompt_tokens_details": {
-      "cached_tokens": 68928
-    },
-    "total_tokens": 70346
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "glm-5.1",
+  "model": "glm-5.1",
+  "timestamp": "2026-06-13T03:56:42.858442117Z",
   "translation": "Si ⟨yo⟩ tuviera hambre, no te lo diría a ti, porque mío ⟨es⟩ el mundo y su plenitud.",
   "tokens": [
     {
       "surface": "אִם",
-      "english": "Si"
+      "gloss": "Si"
     },
     {
       "surface": "אֶ֭רְעַב",
-      "english": "tuviera hambre"
+      "gloss": "tuviera hambre"
     },
     {
       "surface": "לֹא",
-      "english": "no"
+      "gloss": "no"
     },
     {
       "surface": "אֹ֣מַר",
-      "english": "⟨lo⟩ diría"
+      "gloss": "⟨lo⟩ diría"
     },
     {
       "surface": "לָ֑\/ךְ",
-      "english": "a ti"
+      "gloss": "a ti"
     },
     {
       "surface": "כִּי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לִ֥\/י",
-      "english": "mío"
+      "gloss": "mío"
     },
     {
       "surface": "תֵּבֵ֗ל",
-      "english": "el mundo"
+      "gloss": "el mundo"
     },
     {
       "surface": "וּ\/מְלֹאָֽ\/הּ",
-      "english": "y su plenitud"
+      "gloss": "y su plenitud"
     }
-  ],
-  "timestamp": "2026-06-13T03:56:42.858442117Z",
-  "model": "glm-5.1"
+  ]
 }

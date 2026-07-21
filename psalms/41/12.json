@@ -1,64 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "psalms 41:12",
   "book": "psalms",
-  "lang": "es",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70144,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70643
-  },
+  "verse": 12,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:18:13.255639512Z",
   "translation": "Por esto ⟨sé⟩ que ⟨tú⟩ te complacías en mí, porque ⟨a⟩ mi enemigo ⟨no⟩ ⟨le⟩ gritará ⟨sobre⟩ mí",
   "tokens": [
     {
       "surface": "בזאת",
-      "english": "Por esto"
+      "gloss": "Por esto"
     },
     {
       "surface": "ידעתי",
-      "english": "⟨sé⟩"
+      "gloss": "⟨sé⟩"
     },
     {
       "surface": "כי",
-      "english": "que"
+      "gloss": "que"
     },
     {
       "surface": "חפצת",
-      "english": "⟨tú⟩ te complacías"
+      "gloss": "⟨tú⟩ te complacías"
     },
     {
       "surface": "בי",
-      "english": "en mí"
+      "gloss": "en mí"
     },
     {
       "surface": "כי",
-      "english": "porque"
+      "gloss": "porque"
     },
     {
       "surface": "לא",
-      "english": "⟨a⟩ ⟨no⟩"
+      "gloss": "⟨a⟩ ⟨no⟩"
     },
     {
       "surface": "יריע",
-      "english": "⟨le⟩ gritará"
+      "gloss": "⟨le⟩ gritará"
     },
     {
       "surface": "איבי",
-      "english": "mi enemigo"
+      "gloss": "mi enemigo"
     },
     {
       "surface": "עלי",
-      "english": "⟨sobre⟩ mí"
+      "gloss": "⟨sobre⟩ mí"
     }
-  ],
-  "timestamp": "2026-06-09T23:18:13.255639512Z",
-  "model": "glm-4.5"
+  ]
 }

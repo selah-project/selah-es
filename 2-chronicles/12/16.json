@@ -1,9 +1,60 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "2-chronicles 12:16",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 12,
+  "verse": 16,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:12:10.945633495Z",
+  "translation": "Y se acostó Rejavam con sus padres, y fue sepultado en la ciudad de Davidd, y reinó su hijo Abiyá en su lugar.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Y se acostó"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sus padres"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "y fue sepultado"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "en la ciudad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de Davidd"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "y reinó"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "su hijo Abiyá"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su hijo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "en su lugar"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "Roboam",
@@ -20,68 +71,6 @@
       "hebrew": "דוד"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 12,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58074,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 58469
-  },
-  "translation": "Y se acostó Rejavam con sus padres, y fue sepultado en la ciudad de Davidd, y reinó su hijo Abiyá en su lugar.",
-  "tokens": [
-    {
-      "surface": "וישכב",
-      "english": "Y se acostó"
-    },
-    {
-      "surface": "רחבעם",
-      "english": "Rejavam"
-    },
-    {
-      "surface": "עם",
-      "english": "con"
-    },
-    {
-      "surface": "אבתיו",
-      "english": "sus padres"
-    },
-    {
-      "surface": "ויקבר",
-      "english": "y fue sepultado"
-    },
-    {
-      "surface": "בעיר",
-      "english": "en la ciudad"
-    },
-    {
-      "surface": "דויד",
-      "english": "de Davidd"
-    },
-    {
-      "surface": "וימלך",
-      "english": "y reinó"
-    },
-    {
-      "surface": "אביה",
-      "english": "su hijo Abiyá"
-    },
-    {
-      "surface": "בנו",
-      "english": "su hijo"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "en su lugar"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:12:10.945633495Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 76:4",
   "book": "psalms",
-  "lang": "es",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69940,
-    "prompt_tokens_details": {
-      "cached_tokens": 68940
-    },
-    "total_tokens": 70373
-  },
+  "verse": 4,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-09T23:35:24.667868116Z",
   "translation": "Resplendente ⟨es⟩ ⟨el⟩ ⟨que está⟩ allí, quebrando las flechas ⟨del⟩ arco, ⟨el⟩ escudo, ⟨y⟩ ⟨la⟩ espada, ⟨y⟩ ⟨la⟩ guerra. Selah",
   "tokens": [
     {
       "surface": "שמה",
-      "english": "Resplendente ⟨el⟩ ⟨que está⟩ allí"
+      "gloss": "Resplendente ⟨el⟩ ⟨que está⟩ allí"
     },
     {
       "surface": "שבר",
-      "english": "quebrando"
+      "gloss": "quebrando"
     },
     {
       "surface": "רשפי",
-      "english": "las flechas"
+      "gloss": "las flechas"
     },
     {
       "surface": "קשת",
-      "english": "⟨del⟩ arco"
+      "gloss": "⟨del⟩ arco"
     },
     {
       "surface": "מגן",
-      "english": "⟨el⟩ escudo"
+      "gloss": "⟨el⟩ escudo"
     },
     {
       "surface": "וחרב",
-      "english": "⟨y⟩ ⟨la⟩ espada"
+      "gloss": "⟨y⟩ ⟨la⟩ espada"
     },
     {
       "surface": "ומלחמה",
-      "english": "⟨y⟩ ⟨la⟩ guerra"
+      "gloss": "⟨y⟩ ⟨la⟩ guerra"
     },
     {
       "surface": "סלה",
-      "english": "Selah"
+      "gloss": "Selah"
     }
-  ],
-  "timestamp": "2026-06-09T23:35:24.667868116Z",
-  "model": "glm-4.5"
+  ]
 }

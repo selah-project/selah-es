@@ -1,47 +1,39 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "exodus 40:14",
   "book": "exodus",
-  "lang": "es",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 355,
-    "prompt_tokens": 23983,
-    "prompt_tokens_details": {
-      "cached_tokens": 22912
-    },
-    "total_tokens": 24338
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:29:20.303005971Z",
   "translation": "Y ⟨את⟩ sus hijos, y ⟨harás⟩ acercar, y ⟨vestirás⟩ ⟨את⟩ ellos con túnica",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "Y ⟨את⟩",
+      "gloss": "Y ⟨את⟩",
       "marks": "sus hijos"
     },
     {
       "surface": "בניו",
-      "english": "sus hijos"
+      "gloss": "sus hijos"
     },
     {
       "surface": "תקריב",
-      "english": "y ⟨harás⟩ acercar"
+      "gloss": "y ⟨harás⟩ acercar"
     },
     {
       "surface": "והלבשת",
-      "english": "y ⟨vestirás⟩"
+      "gloss": "y ⟨vestirás⟩"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩ ellos",
+      "gloss": "⟨את⟩ ellos",
       "marks": "túnica"
     },
     {
       "surface": "כתנת",
-      "english": "con túnica"
+      "gloss": "con túnica"
     }
-  ],
-  "timestamp": "2026-07-16T20:29:20.303005971Z",
-  "model": "glm-4.5"
+  ]
 }

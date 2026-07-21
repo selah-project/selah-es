@@ -1,51 +1,43 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "ezekiel 3:2",
   "book": "ezekiel",
-  "lang": "es",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 412,
-    "prompt_tokens": 24494,
-    "prompt_tokens_details": {
-      "cached_tokens": 23296
-    },
-    "total_tokens": 24906
-  },
+  "verse": 2,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-16T20:30:44.494935828Z",
   "translation": "Y abrí ⟨el⟩ ⟨את⟩ boca, y me hizo comer ⟨el⟩ ⟨את⟩ rollo este.",
   "tokens": [
     {
       "surface": "ואפתח",
-      "english": "Y abrí"
+      "gloss": "Y abrí"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "boca"
     },
     {
       "surface": "פי",
-      "english": "boca"
+      "gloss": "boca"
     },
     {
       "surface": "ויאכלני",
-      "english": "y me hizo comer"
+      "gloss": "y me hizo comer"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "rollo"
     },
     {
       "surface": "המגלה",
-      "english": "rollo"
+      "gloss": "rollo"
     },
     {
       "surface": "הזאת",
-      "english": "este"
+      "gloss": "este"
     }
-  ],
-  "timestamp": "2026-07-16T20:30:44.494935828Z",
-  "model": "glm-4.5"
+  ]
 }

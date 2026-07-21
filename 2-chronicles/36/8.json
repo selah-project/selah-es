@@ -1,9 +1,92 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "2-chronicles 36:8",
-  "canonical-forms-version": "2026-05-30-v1",
   "book": "2-chronicles",
+  "chapter": 36,
+  "verse": 8,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-05-30T15:41:40.228185412Z",
+  "translation": "Y el ⟨resto⟩ ⟨de⟩ las palabras ⟨de⟩ Yehoiakim, ⟨y⟩ sus abominaciones que hizo, ⟨y⟩ lo que ⟨fue⟩ hallado ⟨sobre⟩ él, he aquí, ⟨están⟩ escritos en Séfer ⟨de⟩ los reyes ⟨de⟩ Yisrael y de Judá; ⟨y⟩ reinó Yehoiakín su hijo ⟨en⟩ lugar ⟨de⟩ él.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Y el ⟨resto⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨de⟩ las palabras ⟨de⟩"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoiakim"
+    },
+    {
+      "surface": "ותעבתיו",
+      "gloss": "⟨y⟩ sus abominaciones"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hizo"
+    },
+    {
+      "surface": "והנמצא",
+      "gloss": "⟨y⟩ lo que ⟨fue⟩ hallado"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨sobre⟩ él"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "he aquí"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "⟨están⟩ escritos"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "⟨de⟩ los reyes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨de⟩ Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "⟨y⟩ de Judá"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "⟨y⟩ reinó"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoiakín"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "su hijo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨en⟩ lugar ⟨de⟩ él"
+    }
+  ],
+  "source-version": "v1",
   "substitutions": [
     {
       "from": "el libro",
@@ -20,100 +103,6 @@
       "hebrew": "ישראל"
     }
   ],
-  "source-version": "v1",
-  "lang": "es",
-  "chapter": 36,
-  "usage": {
-    "completion_tokens": 1031,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59027,
-    "prompt_tokens_details": {
-      "cached_tokens": 56682
-    },
-    "total_tokens": 60058
-  },
-  "translation": "Y el ⟨resto⟩ ⟨de⟩ las palabras ⟨de⟩ Yehoiakim, ⟨y⟩ sus abominaciones que hizo, ⟨y⟩ lo que ⟨fue⟩ hallado ⟨sobre⟩ él, he aquí, ⟨están⟩ escritos en Séfer ⟨de⟩ los reyes ⟨de⟩ Yisrael y de Judá; ⟨y⟩ reinó Yehoiakín su hijo ⟨en⟩ lugar ⟨de⟩ él.",
-  "tokens": [
-    {
-      "surface": "ויתר",
-      "english": "Y el ⟨resto⟩"
-    },
-    {
-      "surface": "דברי",
-      "english": "⟨de⟩ las palabras ⟨de⟩"
-    },
-    {
-      "surface": "יהויקים",
-      "english": "Yehoiakim"
-    },
-    {
-      "surface": "ותעבתיו",
-      "english": "⟨y⟩ sus abominaciones"
-    },
-    {
-      "surface": "אשר",
-      "english": "que"
-    },
-    {
-      "surface": "עשה",
-      "english": "hizo"
-    },
-    {
-      "surface": "והנמצא",
-      "english": "⟨y⟩ lo que ⟨fue⟩ hallado"
-    },
-    {
-      "surface": "עליו",
-      "english": "⟨sobre⟩ él"
-    },
-    {
-      "surface": "הנם",
-      "english": "he aquí"
-    },
-    {
-      "surface": "כתובים",
-      "english": "⟨están⟩ escritos"
-    },
-    {
-      "surface": "על",
-      "english": "⟨en⟩"
-    },
-    {
-      "surface": "ספר",
-      "english": "Séfer"
-    },
-    {
-      "surface": "מלכי",
-      "english": "⟨de⟩ los reyes"
-    },
-    {
-      "surface": "ישראל",
-      "english": "⟨de⟩ Yisrael"
-    },
-    {
-      "surface": "ויהודה",
-      "english": "⟨y⟩ de Judá"
-    },
-    {
-      "surface": "וימלך",
-      "english": "⟨y⟩ reinó"
-    },
-    {
-      "surface": "יהויכין",
-      "english": "Yehoiakín"
-    },
-    {
-      "surface": "בנו",
-      "english": "su hijo"
-    },
-    {
-      "surface": "תחתיו",
-      "english": "⟨en⟩ lugar ⟨de⟩ él"
-    }
-  ],
-  "version": "v2",
-  "timestamp": "2026-05-30T15:41:40.228185412Z",
-  "model": "glm-4.5"
+  "canonical-forms-version": "2026-05-30-v1",
+  "version": "v2"
 }

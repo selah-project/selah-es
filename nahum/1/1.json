@@ -1,48 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "nahum 1:1",
   "book": "nahum",
-  "lang": "es",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23226,
-    "prompt_tokens_details": {
-      "cached_tokens": 22373
-    },
-    "total_tokens": 23624
-  },
+  "verse": 1,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T00:24:11.900648731Z",
   "translation": "⟨El⟩ oráculo ⟨de⟩ Nínive; ⟨el⟩ libro ⟨de⟩ ⟨la⟩ visión ⟨de⟩ Najúm ⟨el⟩ Elcosita.",
   "tokens": [
     {
       "surface": "משא",
-      "english": "⟨El⟩ oráculo ⟨de⟩"
+      "gloss": "⟨El⟩ oráculo ⟨de⟩"
     },
     {
       "surface": "נינוה",
-      "english": "Nínive"
+      "gloss": "Nínive"
     },
     {
       "surface": "ספר",
-      "english": "⟨el⟩ libro ⟨de⟩"
+      "gloss": "⟨el⟩ libro ⟨de⟩"
     },
     {
       "surface": "חזון",
-      "english": "⟨la⟩ visión ⟨de⟩"
+      "gloss": "⟨la⟩ visión ⟨de⟩"
     },
     {
       "surface": "נחום",
-      "english": "Najúm"
+      "gloss": "Najúm"
     },
     {
       "surface": "האלקשי",
-      "english": "⟨el⟩ Elcosita"
+      "gloss": "⟨el⟩ Elcosita"
     }
-  ],
-  "timestamp": "2026-06-10T00:24:11.900648731Z",
-  "model": "glm-4.5"
+  ]
 }

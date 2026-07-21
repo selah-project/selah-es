@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "proverbs 17:23",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59825,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60354
-  },
+  "verse": 23,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:41:11.643528050Z",
   "translation": "שֹׁחַד מֵחֵיק רָשָׁע יִקָּח לְהַטּוֹת אַרְחֹות מִשְׁפָּט — ⟨Un⟩ hombre malvado toma ⟨un⟩ soborno ⟨del⟩ seno para torcer ⟨los⟩ caminos ⟨del⟩ juicio",
   "tokens": [
     {
       "surface": "שֹׁ֣חַד",
-      "english": "⟨Un⟩ soborno"
+      "gloss": "⟨Un⟩ soborno"
     },
     {
       "surface": "מֵ֭\/חֵיק",
-      "english": "⟨del⟩ seno"
+      "gloss": "⟨del⟩ seno"
     },
     {
       "surface": "רָשָׁ֣ע",
-      "english": "⟨un⟩ hombre malvado"
+      "gloss": "⟨un⟩ hombre malvado"
     },
     {
       "surface": "יִקָּ֑ח",
-      "english": "toma"
+      "gloss": "toma"
     },
     {
       "surface": "לְ֝\/הַטּ֗וֹת",
-      "english": "para torcer"
+      "gloss": "para torcer"
     },
     {
       "surface": "אָרְח֥וֹת",
-      "english": "⟨los⟩ caminos"
+      "gloss": "⟨los⟩ caminos"
     },
     {
       "surface": "מִשְׁפָּֽט",
-      "english": "⟨del⟩ juicio"
+      "gloss": "⟨del⟩ juicio"
     }
-  ],
-  "timestamp": "2026-06-10T01:41:11.643528050Z",
-  "model": "glm-4.5"
+  ]
 }

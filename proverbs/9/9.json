@@ -1,60 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 9:9",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 700,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59968,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60668
-  },
+  "verse": 9,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:34:37.567535897Z",
   "translation": "Da al ⟨es⟩ sabio, y ⟨el⟩ sabio será más sabio ⟨aún⟩; ⟨da a conocer⟩ al justo, y aumentará ⟨en⟩ ⟨el⟩ ⟨conocimiento⟩.",
   "tokens": [
     {
       "surface": "תן",
-      "english": "Da",
+      "gloss": "Da",
       "marks": "conocimiento"
     },
     {
       "surface": "לחכם",
-      "english": "al ⟨es⟩ sabio",
+      "gloss": "al ⟨es⟩ sabio",
       "marks": "sabio"
     },
     {
       "surface": "ויחכם",
-      "english": "y ⟨el⟩ sabio será más sabio",
+      "gloss": "y ⟨el⟩ sabio será más sabio",
       "marks": "sabio"
     },
     {
       "surface": "עוד",
-      "english": "⟨aún⟩"
+      "gloss": "⟨aún⟩"
     },
     {
       "surface": "הודע",
-      "english": "⟨da a conocer⟩"
+      "gloss": "⟨da a conocer⟩"
     },
     {
       "surface": "לצדיק",
-      "english": "al justo",
+      "gloss": "al justo",
       "marks": "justo"
     },
     {
       "surface": "ויוסף",
-      "english": "y aumentará"
+      "gloss": "y aumentará"
     },
     {
       "surface": "לקח",
-      "english": "⟨en⟩ ⟨el⟩ ⟨conocimiento⟩"
+      "gloss": "⟨en⟩ ⟨el⟩ ⟨conocimiento⟩"
     }
-  ],
-  "timestamp": "2026-06-10T01:34:37.567535897Z",
-  "model": "glm-4.5"
+  ]
 }

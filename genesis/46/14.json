@@ -1,44 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "genesis 46:14",
   "book": "genesis",
-  "lang": "es",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 246,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 28108,
-    "prompt_tokens_details": {
-      "cached_tokens": 27325
-    },
-    "total_tokens": 28354
-  },
+  "verse": 14,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T05:43:21.397326068Z",
   "translation": "Y los hijos de Zevulún: Sered, y Elon, y Yajleel",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "Y los hijos de"
+      "gloss": "Y los hijos de"
     },
     {
       "surface": "זבולן",
-      "english": "Zevulún"
+      "gloss": "Zevulún"
     },
     {
       "surface": "סרד",
-      "english": "Sered"
+      "gloss": "Sered"
     },
     {
       "surface": "ואלון",
-      "english": "y Elon"
+      "gloss": "y Elon"
     },
     {
       "surface": "ויחלאל",
-      "english": "y Yajleel"
+      "gloss": "y Yajleel"
     }
-  ],
-  "timestamp": "2026-06-10T05:43:21.397326068Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "proverbs 30:26",
   "book": "proverbs",
-  "lang": "es",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59838,
-    "prompt_tokens_details": {
-      "cached_tokens": 58894
-    },
-    "total_tokens": 60235
-  },
+  "verse": 26,
+  "lang": "es",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-06-10T01:52:23.462155549Z",
   "translation": "las damanes son ⟨un⟩ pueblo ⟨de⟩ poco poder, ⟨ellos⟩ ponen su casa ⟨en⟩ ⟨la⟩ roca",
   "tokens": [
     {
       "surface": "שפנים",
-      "english": "Las damanes"
+      "gloss": "Las damanes"
     },
     {
       "surface": "עם",
-      "english": "son ⟨un⟩ pueblo"
+      "gloss": "son ⟨un⟩ pueblo"
     },
     {
       "surface": "לא",
-      "english": "⟨de⟩ poco"
+      "gloss": "⟨de⟩ poco"
     },
     {
       "surface": "עצום",
-      "english": "poder"
+      "gloss": "poder"
     },
     {
       "surface": "וישימו",
-      "english": "⟨ellos⟩ ponen"
+      "gloss": "⟨ellos⟩ ponen"
     },
     {
       "surface": "בסלע",
-      "english": "⟨en⟩ ⟨la⟩ roca"
+      "gloss": "⟨en⟩ ⟨la⟩ roca"
     },
     {
       "surface": "ביתם",
-      "english": "su casa"
+      "gloss": "su casa"
     }
-  ],
-  "timestamp": "2026-06-10T01:52:23.462155549Z",
-  "model": "glm-4.5"
+  ]
 }
