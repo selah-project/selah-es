@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-kings",
+  "substitutions": [
+    {
+      "from": "Moab",
+      "to": "Moav",
+      "token-index": 1,
+      "strongs": 4124,
+      "hebrew": "מואב"
+    },
+    {
+      "from": "Acab",
+      "to": "Ajáv",
+      "token-index": 5,
+      "strongs": 256,
+      "hebrew": "אחאב"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 1,
+  "usage": {
+    "completion_tokens": 240,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16264,
+    "prompt_tokens_details": {
+      "cached_tokens": 15441
+    },
+    "total_tokens": 16504
+  },
+  "translation": "Y Moav ⟨se rebeló⟩ contra Israel después de ⟨la⟩ muerte de Ajáv",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "english": "Y Moab ⟨se rebeló⟩"
+    },
+    {
+      "surface": "מואב",
+      "english": "Moav"
+    },
+    {
+      "surface": "בישראל",
+      "english": "contra Israel"
+    },
+    {
+      "surface": "אחרי",
+      "english": "después de"
+    },
+    {
+      "surface": "מות",
+      "english": "⟨la⟩ muerte"
+    },
+    {
+      "surface": "אחאב",
+      "english": "de Ajáv"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T11:20:05.841885755Z",
+  "model": "glm-4.5"
+}

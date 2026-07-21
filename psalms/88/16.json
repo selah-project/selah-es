@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 88,
+  "usage": {
+    "completion_tokens": 720,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69838,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70558
+  },
+  "translation": "⟨el⟩ afligido ⟨so⟩ yo ⟨y⟩ que expira ⟨desde⟩ ⟨mi⟩ juventud ⟨he⟩ soportado ⟨los⟩ terrores de tu madre, ⟨estoy⟩ desconcertado.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "english": "⟨El⟩ afligido",
+      "rationale": "Traducción contextual para 'עני' en su estado de aflición; no hay equivalente directo perfecto."
+    },
+    {
+      "surface": "אני",
+      "english": "⟨so⟩ yo"
+    },
+    {
+      "surface": "וגוע",
+      "english": "⟨y⟩ que expira",
+      "rationale": "Forma del verbo גוע con la conjunción ו; 'expira' capta el sentido de morir, perecer."
+    },
+    {
+      "surface": "מנער",
+      "english": "⟨desde⟩",
+      "rationale": "La preposición מן ('desde') + la raíz נער ('juventud'); se traduce como 'desde mi juventud'."
+    },
+    {
+      "surface": "נשאתי",
+      "english": "⟨he⟩ soportado",
+      "rationale": "Verbo נשא en primera persona singular ('he llevado\/soportado'); aquí aplica a los terrores."
+    },
+    {
+      "surface": "אמיך",
+      "english": "⟨los⟩ terrores de tu madre",
+      "rationale": "Literalmente 'tu terror\/ídolo'; 'אמה' puede ser 'terror' o 'ídolo'. 'De tu madre' es una interpretación contextual común."
+    },
+    {
+      "surface": "אפונה",
+      "english": "⟨estoy⟩ desconcertado",
+      "rationale": "Verbo פנה en forma causativa ('seré puesto en confusión'); 'desconcertado' captura la idea de ser sobrepasado por el temor."
+    }
+  ],
+  "timestamp": "2026-06-09T23:43:19.773528323Z",
+  "model": "glm-4.5"
+}

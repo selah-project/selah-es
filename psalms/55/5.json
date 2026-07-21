@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 55,
+  "usage": {
+    "completion_tokens": 481,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69894,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70375
+  },
+  "translation": "Mi ⟨se retuḥe⟩ ⟨en⟩ mi corazón ⟨y⟩ ⟨los⟩ terrores ⟨de⟩ la muerte ⟨han⟩ ⟨caído⟩ sobre mí",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "english": "Mi corazón",
+      "marks": "el corazón"
+    },
+    {
+      "surface": "יחיל",
+      "english": "⟨se retuḥe⟩",
+      "rationale": "Hebrew יחיל properly means 'to twist or whirl'—here figuratively of the heart's torment; 'retorcerse' captures the physical metaphor better than 'angustiar'"
+    },
+    {
+      "surface": "בקרבי",
+      "english": "⟨en⟩ mi corazón"
+    },
+    {
+      "surface": "ואימות",
+      "english": "⟨y⟩ ⟨los⟩ terrores",
+      "rationale": "אימות is from אֵמֶה (terror\/dread) with plural suffix—literally 'terrors' (plural), not singular 'terror'"
+    },
+    {
+      "surface": "מות",
+      "english": "⟨de⟩ la muerte"
+    },
+    {
+      "surface": "נפלו",
+      "english": "⟨han⟩ ⟨caído⟩",
+      "rationale": "Hebrew perfect tense נפלו implies completed action—'fallen' (completed state), not 'falling' (ongoing)"
+    },
+    {
+      "surface": "עלי",
+      "english": "sobre mí"
+    }
+  ],
+  "timestamp": "2026-06-09T23:24:54.969049309Z",
+  "model": "glm-4.5"
+}

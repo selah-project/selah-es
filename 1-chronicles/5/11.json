@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-chronicles",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 5,
+  "usage": {
+    "completion_tokens": 426,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 56753,
+    "prompt_tokens_details": {
+      "cached_tokens": 55703
+    },
+    "total_tokens": 57179
+  },
+  "translation": "Y los hijos de Gad ⟨viviendo⟩ enfrente de ellos ⟨se establecieron⟩ en ⟨la⟩ tierra de Basán hasta Salcah",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "english": "Y los hijos de",
+      "notes": []
+    },
+    {
+      "surface": "גד",
+      "english": "Gad",
+      "notes": []
+    },
+    {
+      "surface": "לנגדם",
+      "english": "enfrente de ellos",
+      "notes": []
+    },
+    {
+      "surface": "ישבו",
+      "english": "⟨se establecieron⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "se establecieron",
+          "rationale": "Hebrew uses past tense for completed action; English requires explicit verb for 'dwelt'"
+        }
+      ]
+    },
+    {
+      "surface": "בארץ",
+      "english": "en ⟨la⟩ tierra",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "la",
+          "rationale": "Hebrew lacks definite article; English requires 'the' before specific geographic locations"
+        }
+      ]
+    },
+    {
+      "surface": "הבשן",
+      "english": "de Basán",
+      "notes": []
+    },
+    {
+      "surface": "עד",
+      "english": "hasta",
+      "notes": []
+    },
+    {
+      "surface": "סלכה",
+      "english": "Salcah",
+      "notes": []
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T14:31:28.631221929Z",
+  "model": "glm-4.5"
+}

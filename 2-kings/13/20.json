@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-kings",
+  "substitutions": [
+    {
+      "from": "Eliseo",
+      "to": "Elisha",
+      "token-index": 1,
+      "strongs": 477,
+      "hebrew": "אלישע"
+    },
+    {
+      "from": "Moab",
+      "to": "Moav",
+      "token-index": 4,
+      "strongs": 4124,
+      "hebrew": "מואב"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 13,
+  "usage": {
+    "completion_tokens": 343,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16666,
+    "prompt_tokens_details": {
+      "cached_tokens": 15441
+    },
+    "total_tokens": 17009
+  },
+  "translation": "Y murió Elisha y ⟨lo⟩ enterraron, y las bandas de Moav entraron en ⟨la⟩ tierra en ⟨la⟩ venida del año.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "english": "Y murió"
+    },
+    {
+      "surface": "אלישע",
+      "english": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "english": "y ⟨lo⟩ enterraron"
+    },
+    {
+      "surface": "וגדודי",
+      "english": "y las bandas"
+    },
+    {
+      "surface": "מואב",
+      "english": "de Moav"
+    },
+    {
+      "surface": "יבאו",
+      "english": "entraron"
+    },
+    {
+      "surface": "בארץ",
+      "english": "en ⟨la⟩ tierra"
+    },
+    {
+      "surface": "בא",
+      "english": "en ⟨la⟩ venida"
+    },
+    {
+      "surface": "שנה",
+      "english": "del año"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T11:33:13.621406731Z",
+  "model": "glm-4.5"
+}

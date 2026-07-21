@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-chronicles 35:27",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "el libro",
+      "to": "Séfer",
+      "token-index": 6,
+      "strongs": 5612,
+      "hebrew": "תורה־ספר"
+    },
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 8,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 35,
+  "usage": {
+    "completion_tokens": 378,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 57888,
+    "prompt_tokens_details": {
+      "cached_tokens": 56682
+    },
+    "total_tokens": 58266
+  },
+  "translation": "Y sus hechos, ⟨los⟩ primeros y ⟨los⟩ postreros, he aquí que están escritos en Séfer de ⟨los⟩ reyes de Yisrael y de Judá.",
+  "tokens": [
+    {
+      "surface": "ודבריו",
+      "english": "Y sus hechos"
+    },
+    {
+      "surface": "הראשנים",
+      "english": "⟨los⟩ primeros"
+    },
+    {
+      "surface": "והאחרנים",
+      "english": "y ⟨los⟩ postreros"
+    },
+    {
+      "surface": "הנם",
+      "english": "he aquí que"
+    },
+    {
+      "surface": "כתובים",
+      "english": "están escritos"
+    },
+    {
+      "surface": "על",
+      "english": "en"
+    },
+    {
+      "surface": "ספר",
+      "english": "Séfer"
+    },
+    {
+      "surface": "מלכי",
+      "english": "de ⟨los⟩ reyes"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "english": "y de Judá"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T15:40:41.443476956Z",
+  "model": "glm-4.5"
+}

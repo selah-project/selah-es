@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 8,
+  "usage": {
+    "completion_tokens": 300,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69751,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70051
+  },
+  "translation": "⟨To⟩ ⟨the⟩ conductor ⟨upon⟩ ⟨the⟩ Gittith. A Psalm ⟨of⟩ David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "english": "⟨To⟩ ⟨the⟩ conductor",
+      "marks": "music director"
+    },
+    {
+      "surface": "על",
+      "english": "⟨upon⟩",
+      "marks": "instrumental context"
+    },
+    {
+      "surface": "הגתית",
+      "english": "⟨the⟩ Gittith",
+      "marks": "musical term"
+    },
+    {
+      "surface": "מזמור",
+      "english": "A Psalm",
+      "marks": "poem set to notes"
+    },
+    {
+      "surface": "לדוד",
+      "english": "⟨of⟩ David",
+      "marks": "authorship"
+    }
+  ],
+  "timestamp": "2026-06-09T23:00:25.424416755Z",
+  "model": "glm-4.5"
+}

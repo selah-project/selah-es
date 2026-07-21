@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "es",
+  "chapter": 2,
+  "usage": {
+    "completion_tokens": 506,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 59775,
+    "prompt_tokens_details": {
+      "cached_tokens": 58894
+    },
+    "total_tokens": 60281
+  },
+  "translation": "para guardar los caminos ⟨del⟩ juicio, y ⟨el⟩ camino de ⟨los⟩ sus piadosos ⟨Él⟩ guardará",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "english": "Para guardar"
+    },
+    {
+      "surface": "ארחות",
+      "english": "los caminos"
+    },
+    {
+      "surface": "משפט",
+      "english": "del juicio",
+      "notes": "substitution: משפט es literalmente 'veredicto judicial', no 'juicio' como concepto abstracto"
+    },
+    {
+      "surface": "ודרך",
+      "english": "y el camino"
+    },
+    {
+      "surface": "חסידו",
+      "english": "de los sus piadosos",
+      "notes": "addition: 'los' para el posesivo; 'sus' por el sufijo -ו; 'piadosos' por חסיד"
+    },
+    {
+      "surface": "ישמר",
+      "english": "⟨Él⟩ guardará",
+      "notes": "addition: sujeto 'Él' implícito en la forma verbal hebrea"
+    }
+  ],
+  "timestamp": "2026-06-10T01:28:48.624789770Z",
+  "model": "glm-4.5"
+}

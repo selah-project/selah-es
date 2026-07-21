@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 27:27",
+  "book": "proverbs",
+  "lang": "es",
+  "chapter": 27,
+  "usage": {
+    "completion_tokens": 561,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 59949,
+    "prompt_tokens_details": {
+      "cached_tokens": 58894
+    },
+    "total_tokens": 60510
+  },
+  "translation": "Y ⟨la⟩ suficiencia ⟨es⟩ de leche de cabras para ⟨el⟩ pan de tu casa, y ⟨para⟩ ⟨el⟩ sustento de tus doncellas",
+  "tokens": [
+    {
+      "surface": "ודי",
+      "english": "Y ⟨la⟩ suficiencia ⟨es⟩",
+      "rationale": "די (suficiencia) con la conjunción ו; el español requiere 'la' y 'es'"
+    },
+    {
+      "surface": "חלב",
+      "english": "de leche",
+      "rationale": "literalmente 'leche', pero construct state en hebreo (sefataim)"
+    },
+    {
+      "surface": "עזים",
+      "english": "de cabras",
+      "rationale": "plural de 'cabra' (עז)"
+    },
+    {
+      "surface": "ללחמך",
+      "english": "para ⟨el⟩ pan de tu casa",
+      "rationale": "ל + לחם + ך; 'pan' con posesivo 'tu' y artículo español"
+    },
+    {
+      "surface": "ללחם",
+      "english": "para ⟨el⟩ pan",
+      "rationale": "l + lejem; preposición + sustantivo"
+    },
+    {
+      "surface": "ביתך",
+      "english": "de tu casa",
+      "rationale": "בית + ך; literalmente 'casa tuya'"
+    },
+    {
+      "surface": "וחיים",
+      "english": "y ⟨para⟩ ⟨el⟩ sustento",
+      "rationale": "ו + חיים; 'y vida' o 'y sustento'"
+    },
+    {
+      "surface": "לנערותיך",
+      "english": "de tus doncellas",
+      "rationale": "ל + נערות + ך; 'para tus doncellas' (virgen\/moza)"
+    }
+  ],
+  "timestamp": "2026-06-10T01:49:57.014542862Z",
+  "model": "glm-4.5"
+}

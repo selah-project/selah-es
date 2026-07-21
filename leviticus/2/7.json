@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "leviticus",
+  "substitutions": [
+    {
+      "from": "presente",
+      "to": "Minjá",
+      "token-index": 1,
+      "strongs": 4503,
+      "hebrew": "מנחה"
+    },
+    {
+      "from": "ofrenda",
+      "to": "Korban",
+      "token-index": 3,
+      "strongs": 7133,
+      "hebrew": "קרבן"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 2,
+  "usage": {
+    "completion_tokens": 597,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17068,
+    "prompt_tokens_details": {
+      "cached_tokens": 4883
+    },
+    "total_tokens": 17665
+  },
+  "translation": "Y si ⟨el⟩ Minjá de tu stewpan ⟨es⟩ una Korban, de harina fina ⟨con⟩ aceite ⟨la⟩ harás.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "english": "Y si",
+      "lemma": "c\/518"
+    },
+    {
+      "surface": "מנחת",
+      "english": "⟨el⟩ Minjá",
+      "lemma": "4503",
+      "rationale": "sacrificial offering\/present, article added for English"
+    },
+    {
+      "surface": "מרחשת",
+      "english": "de tu stewpan",
+      "lemma": "4802",
+      "rationale": "stewpan\/cooking vessel, construct form with pronoun suffix"
+    },
+    {
+      "surface": "קרבנך",
+      "english": "⟨es⟩ una Korban",
+      "lemma": "7133",
+      "rationale": "your offering\/brought near thing, copula added for English"
+    },
+    {
+      "surface": "סלת",
+      "english": "de harina fina",
+      "lemma": "5560",
+      "rationale": "fine flour\/chipped off flour"
+    },
+    {
+      "surface": "בשמן",
+      "english": "⟨con⟩ aceite",
+      "lemma": "b\/8081",
+      "rationale": "in\/with oil, preposition rendered as 'con' for Spanish"
+    },
+    {
+      "surface": "תעשה",
+      "english": "⟨la⟩ harás",
+      "lemma": "6213",
+      "rationale": "you shall make\/do, feminine direct object pronoun added for clarity"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T07:28:23.398431185Z",
+  "model": "glm-4.5"
+}

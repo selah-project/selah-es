@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 5,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 5,
+  "usage": {
+    "completion_tokens": 423,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 57885,
+    "prompt_tokens_details": {
+      "cached_tokens": 5
+    },
+    "total_tokens": 58308
+  },
+  "translation": "Y se congregaron ⟨el⟩ rey todo varón de Yisrael en ⟨la⟩ fiesta, él ⟨es⟩ el mes ⟨el⟩ séptimo",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "english": "Y se congregaron"
+    },
+    {
+      "surface": "אל",
+      "english": "⟨el⟩",
+      "marks": "rey"
+    },
+    {
+      "surface": "המלך",
+      "english": "rey"
+    },
+    {
+      "surface": "כל",
+      "english": "todo"
+    },
+    {
+      "surface": "איש",
+      "english": "varón"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    },
+    {
+      "surface": "בחג",
+      "english": "en ⟨la⟩ fiesta",
+      "marks": "la fiesta"
+    },
+    {
+      "surface": "הוא",
+      "english": "él ⟨es⟩"
+    },
+    {
+      "surface": "החדש",
+      "english": "mes",
+      "marks": "el mes"
+    },
+    {
+      "surface": "השבעי",
+      "english": "⟨el⟩ séptimo",
+      "marks": "mes séptimo"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T15:04:22.494956073Z",
+  "model": "glm-4.5"
+}

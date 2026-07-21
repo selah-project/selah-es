@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 80,
+  "usage": {
+    "completion_tokens": 703,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69837,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70540
+  },
+  "translation": "You make ⟨us⟩ a contention ⟨to⟩ our neighbors; and our enemies laugh among themselves.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "english": "You make",
+      "rationale": "Hiphil imperfect 2mp from אכל, literally 'you cause to eat', but idiomatically 'you make' here"
+    },
+    {
+      "surface": "לחם",
+      "english": "⟨us⟩",
+      "rationale": "Literal 'bread', but here metonymic for the object of contention; represents Israel being made a 'bread\/food' for strife"
+    },
+    {
+      "surface": "דמעה",
+      "english": "a contention",
+      "rationale": "Literally 'tears', but here understood as 'strife\/contention' (JPS, BSB); the object of the laughter"
+    },
+    {
+      "surface": "ותשקמו",
+      "english": "⟨to⟩ our neighbors",
+      "rationale": "Root unclear (possibly שוק 'to drink' or שקק 'to contend'); context requires 'to\/among' neighbors"
+    },
+    {
+      "surface": "בדמעות",
+      "english": "and our enemies",
+      "rationale": "Literally 'in tears', but here likely 'among themselves' (cf. KJV, ASV, YLT); enclitic ב- prefix"
+    },
+    {
+      "surface": "שליש",
+      "english": "laugh among themselves",
+      "rationale": "Literally 'third' or 'triple'; here musical\/metaphoric for 'in three parts' or 'together'"
+    }
+  ],
+  "timestamp": "2026-06-09T23:38:50.017916235Z",
+  "model": "glm-4.5"
+}

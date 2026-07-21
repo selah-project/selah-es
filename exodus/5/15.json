@@ -1,0 +1,92 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "exodus",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 3,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Faraón",
+      "to": "Paró",
+      "token-index": 6,
+      "strongs": 6547,
+      "hebrew": "פרעה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 5,
+  "usage": {
+    "completion_tokens": 447,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16955,
+    "prompt_tokens_details": {
+      "cached_tokens": 15516
+    },
+    "total_tokens": 17402
+  },
+  "translation": "Y vinieron los capataces de ⟨los⟩ hijos de Yisrael y clamaron a Paró diciendo: ¿Por qué haces ⟨así⟩ a tus siervos?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "english": "Y vinieron"
+    },
+    {
+      "surface": "שטרי",
+      "english": "los capataces"
+    },
+    {
+      "surface": "בני",
+      "english": "de ⟨los⟩ hijos",
+      "marks": "de los hijos de Israel"
+    },
+    {
+      "surface": "ישראל",
+      "english": "de Yisrael"
+    },
+    {
+      "surface": "ויצעקו",
+      "english": "y clamaron"
+    },
+    {
+      "surface": "אל",
+      "english": "a"
+    },
+    {
+      "surface": "פרעה",
+      "english": "Paró"
+    },
+    {
+      "surface": "לאמר",
+      "english": "diciendo:"
+    },
+    {
+      "surface": "למה",
+      "english": "¿Por qué"
+    },
+    {
+      "surface": "תעשה",
+      "english": "haces"
+    },
+    {
+      "surface": "כה",
+      "english": "⟨así⟩"
+    },
+    {
+      "surface": "לעבדיך",
+      "english": "a tus siervos"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T06:26:29.297313837Z",
+  "model": "glm-4.5"
+}

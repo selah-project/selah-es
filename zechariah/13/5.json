@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "es",
+  "chapter": 13,
+  "usage": {
+    "completion_tokens": 600,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 23496,
+    "prompt_tokens_details": {
+      "cached_tokens": 22082
+    },
+    "total_tokens": 24096
+  },
+  "translation": "Y dirá: ⟨no⟩ ⟨soy⟩ profeta, yo ⟨soy⟩ hombre trabajador ⟨de⟩ tierra; porque tierra ⟨fue⟩ ⟨lo⟩ ⟨que⟩ ⟨me⟩ ⟨fue⟩ adquirido ⟨en⟩ mi juventud.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "english": "Y dirá"
+    },
+    {
+      "surface": "לא",
+      "english": "⟨no⟩",
+      "rationale": "Hebrew negative particle; English requires placement before verb"
+    },
+    {
+      "surface": "נביא",
+      "english": "⟨soy⟩ profeta",
+      "rationale": "Hebrew lacks copula; English adds 'soy'"
+    },
+    {
+      "surface": "אנכי",
+      "english": "yo"
+    },
+    {
+      "surface": "איש",
+      "english": "⟨soy⟩ hombre",
+      "rationale": "Hebrew lacks copula; English adds 'soy'"
+    },
+    {
+      "surface": "עבד",
+      "english": "trabajador",
+      "rationale": "Verb form implying action\/occupation"
+    },
+    {
+      "surface": "אדמה",
+      "english": "⟨de⟩ tierra",
+      "rationale": "English requires preposition; Hebrew direct relationship"
+    },
+    {
+      "surface": "אנכי",
+      "english": "yo"
+    },
+    {
+      "surface": "כי",
+      "english": "porque"
+    },
+    {
+      "surface": "אדם",
+      "english": "tierra",
+      "rationale": "Contextual meaning here is soil\/ground, not humanity"
+    },
+    {
+      "surface": "הקנני",
+      "english": "⟨fue⟩ ⟨lo⟩ ⟨que⟩ ⟨me⟩ ⟨fue⟩ adquirido",
+      "rationale": "Complex causative form requiring multi-word English rendering"
+    },
+    {
+      "surface": "מנעורי",
+      "english": "⟨en⟩ mi juventud",
+      "rationale": "English requires preposition; Hebrew construct relationship"
+    }
+  ],
+  "timestamp": "2026-06-09T22:56:08.931605209Z",
+  "model": "glm-4.5"
+}

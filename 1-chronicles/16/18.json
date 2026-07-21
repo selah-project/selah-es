@@ -1,0 +1,106 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-chronicles",
+  "substitutions": [
+    {
+      "from": "Canaán",
+      "to": "Kenaan",
+      "token-index": 4,
+      "strongs": 3667,
+      "hebrew": "כנען"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 16,
+  "usage": {
+    "completion_tokens": 735,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 56629,
+    "prompt_tokens_details": {
+      "cached_tokens": 55703
+    },
+    "total_tokens": 57364
+  },
+  "translation": "⟨Él⟩ dice, 'A ti ⟨es⟩ para dar ⟨la⟩ tierra de Kenaan; ⟨la⟩ porción de vuestra heredad'",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "english": "⟨Él⟩ dice",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "Él",
+          "rationale": "Hebrew infinitive לאמר is often used idiomatically for divine speech, requiring subject specification in Spanish"
+        }
+      ]
+    },
+    {
+      "surface": "לך",
+      "english": "a ti",
+      "notes": []
+    },
+    {
+      "surface": "אתן",
+      "english": "⟨es⟩ para dar",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "es",
+          "rationale": "Spanish requires auxiliary verb 'es' for the idiomatic construction of divine promise"
+        }
+      ]
+    },
+    {
+      "surface": "ארץ",
+      "english": "⟨la⟩ tierra",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "la",
+          "rationale": "Spanish requires article that Hebrew lacks"
+        }
+      ]
+    },
+    {
+      "surface": "כנען",
+      "english": "de Kenaan",
+      "notes": []
+    },
+    {
+      "surface": "חבל",
+      "english": "⟨la⟩ porción",
+      "notes": [
+        {
+          "kind": "substitution",
+          "subject": "porción",
+          "rationale": "חבל literally means 'rope\/measuring line' but idiomatically means 'portion\/allotment' in context of land inheritance"
+        },
+        {
+          "kind": "addition",
+          "subject": "la",
+          "rationale": "Spanish requires article that Hebrew lacks"
+        }
+      ]
+    },
+    {
+      "surface": "נחלתכם",
+      "english": "de vuestra heredad",
+      "notes": [
+        {
+          "kind": "you",
+          "subject": "Israel",
+          "rationale": "Direct address to Israel as the covenant recipient"
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T14:45:34.501238171Z",
+  "model": "glm-4.5"
+}

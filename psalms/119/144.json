@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 119,
+  "usage": {
+    "completion_tokens": 403,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69695,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70098
+  },
+  "translation": "⟨La⟩ justicia de tus testimonios ⟨es⟩ para siempre: hazme entender y ⟨yo⟩ viviré.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "english": "⟨La⟩ justicia"
+    },
+    {
+      "surface": "עדותיך",
+      "english": "de tus testimonios"
+    },
+    {
+      "surface": "לעולם",
+      "english": "para siempre"
+    },
+    {
+      "surface": "הבינני",
+      "english": "hazme entender",
+      "notes": "substitution",
+      "rationale": "Hebrew הבינני is hiphil imperative 'cause me to understand', not simply 'give me understanding'"
+    },
+    {
+      "surface": "ואחיה",
+      "english": "y ⟨yo⟩ viviré"
+    }
+  ],
+  "timestamp": "2026-06-10T00:01:57.145819203Z",
+  "model": "glm-4.5"
+}

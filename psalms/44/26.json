@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 44,
+  "usage": {
+    "completion_tokens": 669,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62469,
+    "prompt_tokens_details": {
+      "cached_tokens": 61592
+    },
+    "total_tokens": 63138
+  },
+  "translation": "Porque ⟨está⟩ postrada ⟨al⟩ polvo ⟨la⟩ vida ⟨que está en⟩ nuestras entrañas; ⟨la⟩ vida ⟨de⟩ nuestro vientre ⟨está⟩ adherida ⟨a⟩ ⟨la⟩ tierra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "english": "Porque",
+      "marks": null
+    },
+    {
+      "surface": "שחה",
+      "english": "⟨está⟩ postrada",
+      "rationale": "שחה means 'to sink down' or 'be bowed down' — rendered with implied estar (to be) for Spanish"
+    },
+    {
+      "surface": "לעפר",
+      "english": "⟨al⟩ polvo",
+      "rationale": "The preposition ל (to\/for) with עפר (dust) — Spanish article 'al' required"
+    },
+    {
+      "surface": "נפשנו",
+      "english": "⟨la⟩ vida ⟨que está en⟩ nuestras entrañas",
+      "rationale": "נפש is breath\/life-force, not just 'soul'; the נוּ (our) suffix shown with 'nuestras entrañas' for contextual clarity"
+    },
+    {
+      "surface": "דבקה",
+      "english": "⟨está⟩ adherida",
+      "rationale": "דבקה means 'to cling' or 'adhere' — rendered with implied estar (to be) for Spanish"
+    },
+    {
+      "surface": "לארץ",
+      "english": "⟨a⟩ ⟨la⟩ tierra",
+      "rationale": "The preposition ל (to\/for) with ארץ (earth) — Spanish articles required"
+    },
+    {
+      "surface": "בטננו",
+      "english": "⟨la⟩ vida ⟨de⟩ nuestro vientre",
+      "rationale": "בטן means belly\/womb; the נוּ (our) suffix rendered as 'nuestro vientre', with 'vida' added to connect to previous נפש"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T13:15:20.139304424Z",
+  "model": "glm-4.5"
+}

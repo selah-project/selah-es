@@ -1,0 +1,134 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "2-chronicles 35:24",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "Jerusalén",
+      "to": "Yerushalayim",
+      "token-index": 11,
+      "strongs": 3389,
+      "hebrew": "ירושלם"
+    },
+    {
+      "from": "Judá",
+      "to": "Yehudá",
+      "token-index": 17,
+      "strongs": 3063,
+      "hebrew": "יהודה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 35,
+  "usage": {
+    "completion_tokens": 1023,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 59269,
+    "prompt_tokens_details": {
+      "cached_tokens": 56682
+    },
+    "total_tokens": 60292
+  },
+  "translation": "Y sus siervos ⟨lo⟩ pasaron ⟨de⟩ ⟨el⟩ carro ⟨y⟩ ⟨lo⟩ hicieron subir ⟨en⟩ ⟨el⟩ segundo carro que ⟨tenía⟩ ⟨y⟩ ⟨lo⟩ llevaron ⟨a⟩ Yerushalayim ⟨y⟩ murió ⟨y⟩ ⟨fue⟩ sepultado ⟨en⟩ ⟨los⟩ sepulcros ⟨de⟩ sus padres ⟨y⟩ todo Yehudá ⟨y⟩ Yerushalayim ⟨están⟩ de duelo ⟨por⟩ Yosiyahu",
+  "tokens": [
+    {
+      "surface": "ויעבירהו",
+      "english": "Y sus siervos ⟨lo⟩ pasaron",
+      "marks": "a Yosiyahu"
+    },
+    {
+      "surface": "עבדיו",
+      "english": "sus siervos"
+    },
+    {
+      "surface": "מן",
+      "english": "⟨de⟩",
+      "rationale": "preposición de separación"
+    },
+    {
+      "surface": "המרכבה",
+      "english": "⟨el⟩ carro"
+    },
+    {
+      "surface": "וירכיבהו",
+      "english": "⟨y⟩ ⟨lo⟩ hicieron subir"
+    },
+    {
+      "surface": "על",
+      "english": "⟨en⟩"
+    },
+    {
+      "surface": "רכב",
+      "english": "segundo carro"
+    },
+    {
+      "surface": "המשנה",
+      "english": "segundo"
+    },
+    {
+      "surface": "אשר",
+      "english": "que"
+    },
+    {
+      "surface": "לו",
+      "english": "⟨tenía⟩"
+    },
+    {
+      "surface": "ויוליכהו",
+      "english": "⟨y⟩ ⟨lo⟩ llevaron"
+    },
+    {
+      "surface": "ירושלם",
+      "english": "⟨a⟩ Yerushalayim"
+    },
+    {
+      "surface": "וימת",
+      "english": "⟨y⟩ murió"
+    },
+    {
+      "surface": "ויקבר",
+      "english": "⟨y⟩ ⟨fue⟩ sepultado"
+    },
+    {
+      "surface": "בקברות",
+      "english": "⟨en⟩ ⟨los⟩ sepulcros"
+    },
+    {
+      "surface": "אבתיו",
+      "english": "⟨de⟩ sus padres"
+    },
+    {
+      "surface": "וכל",
+      "english": "⟨y⟩ todo"
+    },
+    {
+      "surface": "יהודה",
+      "english": "Yehudá"
+    },
+    {
+      "surface": "וירושלם",
+      "english": "⟨y⟩ Jerusalén"
+    },
+    {
+      "surface": "מתאבלים",
+      "english": "⟨están⟩ de duelo",
+      "rationale": "el verbo en participio activo requiere un auxiliar en español"
+    },
+    {
+      "surface": "על",
+      "english": "⟨por⟩"
+    },
+    {
+      "surface": "יאשיהו",
+      "english": "Yosiyahu"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T15:40:52.630566654Z",
+  "model": "glm-4.5"
+}

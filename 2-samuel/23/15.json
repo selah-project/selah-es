@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-samuel",
+  "substitutions": [
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 1,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    },
+    {
+      "from": "Belén",
+      "to": "Bet-Léjem",
+      "token-index": 7,
+      "strongs": 1035,
+      "hebrew": "בית־לחם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 23,
+  "usage": {
+    "completion_tokens": 540,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17194,
+    "prompt_tokens_details": {
+      "cached_tokens": 15829
+    },
+    "total_tokens": 17734
+  },
+  "translation": "Y Davidd anheló ⟨y⟩ dijo: ¿Quién me dará de beber aguas del pozo de Bet-Léjem de Judá, que ⟨está⟩ en la puerta?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "english": "Y David anheló",
+      "notes": "HAPAX - This form appears only once in the Tanakh"
+    },
+    {
+      "surface": "דוד",
+      "english": "Davidd"
+    },
+    {
+      "surface": "ויאמר",
+      "english": "y dijo"
+    },
+    {
+      "surface": "מי",
+      "english": "¿Quién"
+    },
+    {
+      "surface": "ישקני",
+      "english": "me dará de beber"
+    },
+    {
+      "surface": "מים",
+      "english": "aguas"
+    },
+    {
+      "surface": "מבאר",
+      "english": "del pozo"
+    },
+    {
+      "surface": "בית",
+      "english": "de Bet-Léjem"
+    },
+    {
+      "surface": "לחם",
+      "english": "de Judá",
+      "notes": "Traditional full name for the location"
+    },
+    {
+      "surface": "אשר",
+      "english": "que"
+    },
+    {
+      "surface": "בשער",
+      "english": "en la puerta"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T10:40:15.313408803Z",
+  "model": "glm-4.5"
+}

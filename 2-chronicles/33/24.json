@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "2-chronicles 33:24",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 33,
+  "usage": {
+    "completion_tokens": 460,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 57488,
+    "prompt_tokens_details": {
+      "cached_tokens": 56682
+    },
+    "total_tokens": 57948
+  },
+  "translation": "Y conspiraron sus sirvientes contra él y lo mataron ⟨en⟩ ⟨su⟩ casa.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "english": "Y conspiraron"
+    },
+    {
+      "surface": "עליו",
+      "english": "contra él"
+    },
+    {
+      "surface": "עבדיו",
+      "english": "sus sirvientes"
+    },
+    {
+      "surface": "וימיתהו",
+      "english": "y lo mataron"
+    },
+    {
+      "surface": "בביתו",
+      "english": "⟨en⟩ ⟨su⟩ casa",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "en",
+          "rationale": "La preposición hebrea ב está contenida en ביתו ('casa'); requiere preposición separada en español"
+        },
+        {
+          "kind": "addition",
+          "subject": "su",
+          "rationale": "El hebreo ביתo indica posesión mediante el sufijo pronominal -ו; español requiere el posesivo 'su'"
+        }
+      ]
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T15:37:51.755544363Z",
+  "model": "glm-4.5"
+}

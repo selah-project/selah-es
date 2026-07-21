@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 88,
+  "usage": {
+    "completion_tokens": 571,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69753,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70324
+  },
+  "translation": "⟨¿Será⟩ ⟨el⟩ ⟨tus⟩ maravillas ⟨es⟩ conocidas ⟨en⟩ ⟨la⟩ oscuridad ⟨o⟩ ⟨la⟩ ⟨tus⟩ justicias ⟨en⟩ ⟨la⟩ tierra ⟨de⟩ ⟨el⟩ olvido?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "english": "⟨¿Será⟩ ⟨el⟩ ⟨tus⟩ maravillas ⟨es⟩ conocidas",
+      "marks": "maravillas ⟨es⟩ conocidas"
+    },
+    {
+      "surface": "בקבר",
+      "english": "⟨en⟩ ⟨la⟩ oscuridad",
+      "rationale": "קבר means 'grave', here poetically extended to darkness\/oblivion"
+    },
+    {
+      "surface": "חסדך",
+      "english": "⟨tus⟩ justicias",
+      "rationale": "חסד often 'lovingkindness'; context demands justice\/righteousness here"
+    },
+    {
+      "surface": "אמונתך",
+      "english": "⟨en⟩ ⟨la⟩ tierra ⟨de⟩ ⟨el⟩ olvido",
+      "rationale": "אמונה 'faithfulness' expanded to location where faithfulness is forgotten"
+    },
+    {
+      "surface": "באבדון",
+      "english": "⟨de⟩ ⟨el⟩ olvido",
+      "rationale": "אבדון 'destruction\/Perdition' as land of forgetfulness"
+    }
+  ],
+  "timestamp": "2026-06-09T23:42:56.347891439Z",
+  "model": "glm-4.5"
+}

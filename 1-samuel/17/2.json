@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-samuel",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 2,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 17,
+  "usage": {
+    "completion_tokens": 600,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16520,
+    "prompt_tokens_details": {
+      "cached_tokens": 15048
+    },
+    "total_tokens": 17120
+  },
+  "translation": "Y Saúl y ⟨los hombres de⟩ Yisrael se reunieron, y acamparon en ⟨el⟩ valle de ⟨la⟩ Elah, y dispusieron ⟨el⟩ orden de batalla ⟨para⟩ encontrarse con ⟨los⟩ filisteos",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "english": "Y Saúl"
+    },
+    {
+      "surface": "ואיש",
+      "english": "y ⟨los hombres de⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael"
+    },
+    {
+      "surface": "נאספו",
+      "english": "se reunieron"
+    },
+    {
+      "surface": "ויחנו",
+      "english": "y acamparon"
+    },
+    {
+      "surface": "בעמק",
+      "english": "en ⟨el⟩ valle de",
+      "marks": "la Elah"
+    },
+    {
+      "surface": "האלה",
+      "english": "⟨la⟩ Elah"
+    },
+    {
+      "surface": "ויערכו",
+      "english": "y dispusieron ⟨el⟩ orden de batalla"
+    },
+    {
+      "surface": "מלחמה",
+      "english": "orden de batalla"
+    },
+    {
+      "surface": "לקראת",
+      "english": "⟨para⟩ encontrarse con",
+      "marks": "los filisteos"
+    },
+    {
+      "surface": "פלשתים",
+      "english": "⟨los⟩ filisteos"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T10:00:34.842681023Z",
+  "model": "glm-4.5"
+}

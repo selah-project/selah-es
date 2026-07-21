@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 68,
+  "usage": {
+    "completion_tokens": 660,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69820,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70480
+  },
+  "translation": "Cuando ⟨el⟩ Shaddai dispersó ⟨a los⟩ reyes en ella, ⟨fue⟩ nevada ⟨en⟩ Tzalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "english": "Cuando",
+      "rationale": "preposition + root: usually 'in spreading\/scattering' — here temporal 'when' from context"
+    },
+    {
+      "surface": "שדי",
+      "english": "⟨el⟩ Shaddai",
+      "rationale": "Divine name 'Shaddai'; article added in English"
+    },
+    {
+      "surface": "מלכים",
+      "english": "⟨a los⟩ reyes",
+      "rationale": "plural 'kings'; direct object marker implied, articles added in English"
+    },
+    {
+      "surface": "בה",
+      "english": "en ella",
+      "rationale": "preposition 'in her' (feminine suffix)"
+    },
+    {
+      "surface": "תשלג",
+      "english": "⟨fue⟩ nevada",
+      "rationale": "verb 'to snow-white' (with linen); here simple past 'it snowed' with feminine subject agreement"
+    },
+    {
+      "surface": "בצלמון",
+      "english": "⟨en⟩ Tzalmon",
+      "rationale": "place name 'Zalmon'; preposition rendered as 'in'"
+    }
+  ],
+  "timestamp": "2026-06-09T23:30:38.684552685Z",
+  "model": "glm-4.5"
+}

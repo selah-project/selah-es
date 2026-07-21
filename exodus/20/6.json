@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "exodus",
+  "substitutions": [
+    {
+      "from": "mandamiento",
+      "to": "Mitzvá",
+      "token-index": 5,
+      "strongs": 4687,
+      "hebrew": "מצוה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 20,
+  "usage": {
+    "completion_tokens": 367,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16440,
+    "prompt_tokens_details": {
+      "cached_tokens": 15516
+    },
+    "total_tokens": 16807
+  },
+  "translation": "y hace ⟨el⟩ jésed a ⟨los⟩ millares, ⟨a⟩ los que me aman y ⟨a⟩ los que guardan mis Mitzvás",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "english": "Y hace"
+    },
+    {
+      "surface": "חסד",
+      "english": "⟨el⟩ jésed"
+    },
+    {
+      "surface": "לאלפים",
+      "english": "⟨a los⟩ millares"
+    },
+    {
+      "surface": "לאהבי",
+      "english": "⟨a⟩ los que me aman"
+    },
+    {
+      "surface": "ולשמרי",
+      "english": "y ⟨a⟩ los que guardan"
+    },
+    {
+      "surface": "מצותי",
+      "english": "mis Mitzvás"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T06:49:33.987796885Z",
+  "model": "glm-4.5"
+}

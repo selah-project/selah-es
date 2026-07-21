@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "ezra",
+  "substitutions": [
+    {
+      "from": "Jerusalén",
+      "to": "Yerushalayim",
+      "token-index": 1,
+      "strongs": 3389,
+      "hebrew": "ירושלם"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 8,
+  "usage": {
+    "completion_tokens": 227,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 44439,
+    "prompt_tokens_details": {
+      "cached_tokens": 43520
+    },
+    "total_tokens": 44666
+  },
+  "translation": "Y llegamos ⟨a⟩ Yerushalayim y nos quedamos allí tres días.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "english": "Y llegamos"
+    },
+    {
+      "surface": "ירושלם",
+      "english": "⟨a⟩ Yerushalayim",
+      "marks": "Jerusalén"
+    },
+    {
+      "surface": "ונשב",
+      "english": "y nos quedamos"
+    },
+    {
+      "surface": "שם",
+      "english": "allí"
+    },
+    {
+      "surface": "ימים",
+      "english": "días"
+    },
+    {
+      "surface": "שלשה",
+      "english": "tres"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T14:19:13.416542898Z",
+  "model": "glm-4.5"
+}

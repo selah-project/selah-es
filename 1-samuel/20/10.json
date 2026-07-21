@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-samuel",
+  "substitutions": [
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 1,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    },
+    {
+      "from": "Jonatán",
+      "to": "Yonatán",
+      "token-index": 3,
+      "strongs": 3083,
+      "hebrew": "יונתן"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 20,
+  "usage": {
+    "completion_tokens": 404,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16386,
+    "prompt_tokens_details": {
+      "cached_tokens": 15048
+    },
+    "total_tokens": 16790
+  },
+  "translation": "Y Davidd dijo a Yonatán: ¿Quién me ⟨lo⟩ dirá? o ¿qué ⟨te⟩ responderá tu padre si ⟨es⟩ severo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "english": "Y ... dijo"
+    },
+    {
+      "surface": "דוד",
+      "english": "Davidd"
+    },
+    {
+      "surface": "אל",
+      "english": "a"
+    },
+    {
+      "surface": "יהונתן",
+      "english": "Yonatán"
+    },
+    {
+      "surface": "מי",
+      "english": "¿Quién"
+    },
+    {
+      "surface": "יגיד",
+      "english": "me ⟨lo⟩ dirá"
+    },
+    {
+      "surface": "לי",
+      "english": "me"
+    },
+    {
+      "surface": "או",
+      "english": "o"
+    },
+    {
+      "surface": "מה",
+      "english": "¿qué"
+    },
+    {
+      "surface": "יענך",
+      "english": "⟨te⟩ responderá"
+    },
+    {
+      "surface": "אביך",
+      "english": "tu padre"
+    },
+    {
+      "surface": "קשה",
+      "english": "si ⟨es⟩ severo"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T10:04:22.917440405Z",
+  "model": "glm-4.5"
+}

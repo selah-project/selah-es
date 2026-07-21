@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 118,
+  "usage": {
+    "completion_tokens": 793,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69797,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70590
+  },
+  "translation": "YHWH ⟨es⟩ para mí en ⟨los⟩ que me ayudan; y yo miraré ⟨a⟩ ⟨los⟩ que me odian",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "english": "YHWH",
+      "marks": null
+    },
+    {
+      "surface": "לי",
+      "english": "⟨es⟩ para mí",
+      "rationale": "The preposition לְ means 'to' or 'for'; the pronominal suffix יִ means 'me'. English requires the verb 'es' (copula) for natural reading."
+    },
+    {
+      "surface": "בעזרי",
+      "english": "en ⟨los⟩ que me ayudan",
+      "rationale": "Literally 'in my helpers'. The preposition בְ can mean 'in', 'among', or 'by'. The context implies YHWH is among those who help. English requires the definite article 'los' (the)."
+    },
+    {
+      "surface": "ואני",
+      "english": "y yo",
+      "rationale": "The conjunction וְ means 'and'. The pronoun אֲנִי means 'I'."
+    },
+    {
+      "surface": "אראה",
+      "english": "miraré ⟨a⟩",
+      "rationale": "The verb רָאָה means 'to see' or 'to look upon, gaze upon'. English requires the preposition 'a' before a direct object of seeing a person."
+    },
+    {
+      "surface": "בשנאי",
+      "english": "⟨los⟩ que me odian",
+      "rationale": "Literally 'in my haters' or 'in those who hate me'. The preposition בְ means 'in' or 'among'. English requires the definite article 'los' (the) and the relative pronoun 'que' (that\/who) to make sense of the participle."
+    }
+  ],
+  "timestamp": "2026-06-09T23:58:18.065945906Z",
+  "model": "glm-4.5"
+}

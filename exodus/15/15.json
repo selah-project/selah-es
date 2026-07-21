@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 15:15",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "exodus",
+  "substitutions": [
+    {
+      "from": "Moab",
+      "to": "Moav",
+      "token-index": 5,
+      "strongs": 4124,
+      "hebrew": "מואב"
+    },
+    {
+      "from": "Canaán",
+      "to": "Kenaan",
+      "token-index": 11,
+      "strongs": 3667,
+      "hebrew": "כנען"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 15,
+  "usage": {
+    "completion_tokens": 742,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17032,
+    "prompt_tokens_details": {
+      "cached_tokens": 15516
+    },
+    "total_tokens": 17774
+  },
+  "translation": "Entonces ⟨los⟩ príncipes de Edom ⟨quedaron⟩ espantados; los jefes de Moav, ⟨el⟩ temblor ⟨los⟩ asaltó; todos los habitantes de Kenaan ⟨quedaron⟩ derretidos",
+  "tokens": [
+    {
+      "surface": "אז",
+      "english": "Entonces"
+    },
+    {
+      "surface": "נבהלו",
+      "english": "⟨los⟩ príncipes de Edom ⟨quedaron⟩ espantados"
+    },
+    {
+      "surface": "אלופי",
+      "english": "príncipes"
+    },
+    {
+      "surface": "אדום",
+      "english": "de Edom"
+    },
+    {
+      "surface": "אילי",
+      "english": "los jefes"
+    },
+    {
+      "surface": "מואב",
+      "english": "de Moav"
+    },
+    {
+      "surface": "יאחזמו",
+      "english": "⟨el⟩ temblor ⟨los⟩ asaltó"
+    },
+    {
+      "surface": "רעד",
+      "english": "temblor"
+    },
+    {
+      "surface": "נמגו",
+      "english": "todos los habitantes de Canaán ⟨quedaron⟩ derretidos"
+    },
+    {
+      "surface": "כל",
+      "english": "todos"
+    },
+    {
+      "surface": "ישבי",
+      "english": "habitantes de"
+    },
+    {
+      "surface": "כנען",
+      "english": "Kenaan"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T06:42:35.200088862Z",
+  "model": "glm-4.5"
+}

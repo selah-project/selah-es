@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 1,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "misericordia",
+      "to": "Jésed",
+      "token-index": 5,
+      "strongs": 2617,
+      "hebrew": "חסד"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 136,
+  "usage": {
+    "completion_tokens": 307,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62439,
+    "prompt_tokens_details": {
+      "cached_tokens": 61592
+    },
+    "total_tokens": 62746
+  },
+  "translation": "Y sacó ⟨a⟩ Yisrael de en medio de ellos, porque para siempre ⟨es⟩ su Jésed.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "english": "Y sacó"
+    },
+    {
+      "surface": "ישראל",
+      "english": "⟨a⟩ Yisrael",
+      "marks": "Israel"
+    },
+    {
+      "surface": "מתוכם",
+      "english": "de en medio de ellos"
+    },
+    {
+      "surface": "כי",
+      "english": "porque"
+    },
+    {
+      "surface": "לעולם",
+      "english": "para siempre"
+    },
+    {
+      "surface": "חסדו",
+      "english": "⟨es⟩ su Jésed",
+      "marks": "su misericordia"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T13:24:38.578826186Z",
+  "model": "glm-4.5"
+}

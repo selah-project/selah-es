@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 19,
+  "usage": {
+    "completion_tokens": 711,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 70239,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70950
+  },
+  "translation": "en ⟨toda⟩ ⟨la⟩ tierra ⟨ha⟩ salido ⟨su⟩ cordel y ⟨en⟩ ⟨el⟩ extremo del ⟨mundo⟩ ⟨sus⟩ palabras ⟨al⟩ sol ⟨puso⟩ ⟨una⟩ tienda ⟨en⟩ ellos",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "english": "En ⟨toda⟩",
+      "notes": "addition of ⟨toda⟩ for natural Spanish; Hebrew preposition ב (en) implied 'all'"
+    },
+    {
+      "surface": "הארץ",
+      "english": "⟨la⟩ tierra",
+      "notes": "addition of article ⟨la⟩; Hebrew definite article ה attached"
+    },
+    {
+      "surface": "יצא",
+      "english": "⟨ha⟩ salido",
+      "notes": "addition of auxiliary ⟨ha⟩ for present perfect tense"
+    },
+    {
+      "surface": "קום",
+      "english": "⟨su⟩ cordel",
+      "notes": "substitution: קום literally 'cord\/measuring-line', translated contextually"
+    },
+    {
+      "surface": "ובקצה",
+      "english": "y ⟨en⟩ ⟨el⟩ extremo",
+      "notes": "addition of articles; ובקצה = 'and at the end'"
+    },
+    {
+      "surface": "תבל",
+      "english": "del ⟨mundo⟩",
+      "notes": "substitution: תבל literally 'inhabited world' → Spanish 'mundo'"
+    },
+    {
+      "surface": "מליהם",
+      "english": "⟨sus⟩ palabras",
+      "notes": "hapax; מליהם = 'their words', ⟨sus⟩ added for possession"
+    },
+    {
+      "surface": "לשמש",
+      "english": "⟨al⟩ sol",
+      "notes": "addition of preposition ⟨al⟩; Hebrew ל indicates direction"
+    },
+    {
+      "surface": "שם",
+      "english": "⟨puso⟩",
+      "notes": "substitution: שם (put\/placed) → Spanish past tense ⟨puso⟩"
+    },
+    {
+      "surface": "אהל",
+      "english": "⟨una⟩ tienda",
+      "notes": "addition of article ⟨una⟩; אהל literally 'tent'"
+    },
+    {
+      "surface": "בהם",
+      "english": "⟨en⟩ ellos",
+      "notes": "addition of pronoun ⟨ellos⟩; Hebrew preposition בהם = 'in them'"
+    }
+  ],
+  "timestamp": "2026-06-09T23:05:39.746816134Z",
+  "model": "glm-4.5"
+}

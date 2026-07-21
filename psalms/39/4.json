@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 39,
+  "usage": {
+    "completion_tokens": 611,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 70073,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70684
+  },
+  "translation": "Mi corazón ⟨se⟩ ardió en mi interior; mientras meditaba ⟨el⟩ fuego se encendió; entonces hablé con mi lengua",
+  "tokens": [
+    {
+      "surface": "חם",
+      "english": "⟨Se⟩ ardió",
+      "rationale": "חם (hot) used figuratively for intense emotion, requires auxiliary verb in English"
+    },
+    {
+      "surface": "לבי",
+      "english": "Mi corazón",
+      "rationale": "לבי literally 'my heart', figurative center of emotion\/thought"
+    },
+    {
+      "surface": "בקרבי",
+      "english": "en mi interior",
+      "rationale": "בקרבי literally 'in my inward parts', idiom for inner being"
+    },
+    {
+      "surface": "בהגיגי",
+      "english": "mientras meditaba",
+      "rationale": "HAPAX בהגיגי, from הגה (meditate\/ponder), describes inner mental process"
+    },
+    {
+      "surface": "תבער",
+      "english": "⟨el⟩ fuego se encendió",
+      "rationale": "תבער (kindle\/burn) with feminine subject אש (fire), requires article in English"
+    },
+    {
+      "surface": "אש",
+      "english": "fuego",
+      "rationale": "אש (fire) used figuratively for intense emotion\/inspiration"
+    },
+    {
+      "surface": "דברתי",
+      "english": "hablé",
+      "rationale": "דברתי (I spoke), from דבר (speak\/arrange words)"
+    },
+    {
+      "surface": "בלשוני",
+      "english": "con mi lengua",
+      "rationale": "בלשוני literally 'with my tongue', idiom for spoken words"
+    }
+  ],
+  "timestamp": "2026-06-09T23:16:45.176388589Z",
+  "model": "glm-4.5"
+}

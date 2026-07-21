@@ -1,0 +1,125 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "nehemiah 11:9",
+  "book": "nehemiah",
+  "lang": "es",
+  "chapter": 11,
+  "usage": {
+    "completion_tokens": 828,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 56802,
+    "prompt_tokens_details": {
+      "cached_tokens": 55510
+    },
+    "total_tokens": 57630
+  },
+  "translation": "Y Joel ⟨es⟩ ben Zicri ⟨el⟩ gobernador ⟨sobre⟩ ⟨ellos⟩, y Yehudá ben ⟨el⟩ Senuah ⟨sobre⟩ ⟨la⟩ ciudad, ⟨el⟩ segundo.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "english": "Y Joel",
+      "notes": []
+    },
+    {
+      "surface": "בן",
+      "english": "ben",
+      "notes": []
+    },
+    {
+      "surface": "זכרי",
+      "english": "Zicri",
+      "notes": []
+    },
+    {
+      "surface": "פקיד",
+      "english": "⟨el⟩ gobernador",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨el⟩",
+          "rationale": "Spanish requires article before the title"
+        }
+      ]
+    },
+    {
+      "surface": "עליהם",
+      "english": "⟨sobre⟩ ⟨ellos⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨sobre⟩",
+          "rationale": "Preposición necesaria en español"
+        },
+        {
+          "kind": "addition",
+          "subject": "⟨ellos⟩",
+          "rationale": "Pronombre requerido para 'עליהם'"
+        }
+      ]
+    },
+    {
+      "surface": "ויהודה",
+      "english": "y Yehudá",
+      "notes": []
+    },
+    {
+      "surface": "בן",
+      "english": "ben",
+      "notes": []
+    },
+    {
+      "surface": "הסנואה",
+      "english": "⟨el⟩ Senuah",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨el⟩",
+          "rationale": "Artículo definido requerido en español"
+        }
+      ]
+    },
+    {
+      "surface": "על",
+      "english": "⟨sobre⟩",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨sobre⟩",
+          "rationale": "Preposición 'על' requiere equivalente en español"
+        }
+      ]
+    },
+    {
+      "surface": "העיר",
+      "english": "⟨la⟩ ciudad",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨la⟩",
+          "rationale": "Artículo definido necesario en español"
+        }
+      ]
+    },
+    {
+      "surface": "משנה",
+      "english": "⟨el⟩ segundo",
+      "notes": [
+        {
+          "kind": "addition",
+          "subject": "⟨el⟩",
+          "rationale": "Artículo requerido para el ordinal en español"
+        },
+        {
+          "kind": "substitution",
+          "subject": "segundo",
+          "rationale": "משנה literalmente es 'doble\/repetición', aquí usado como posición jerárquica"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-10T00:43:31.778483663Z",
+  "model": "glm-4.5"
+}

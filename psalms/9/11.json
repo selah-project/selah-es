@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 9,
+  "usage": {
+    "completion_tokens": 825,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 70092,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70917
+  },
+  "translation": "Y ⟨los que conocen⟩ tu nombre confiarán en ti, porque tú, YHWH, ⟨has⟩ no abandonado ⟨a⟩ los que ⟨te⟩ buscan, YHWH.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "english": "Confiarán",
+      "rationale": "Verb from root 982 (batach) meaning to trust or be confident; future tense in context."
+    },
+    {
+      "surface": "בך",
+      "english": "en ti",
+      "rationale": "Prepositional pronoun meaning 'in you'."
+    },
+    {
+      "surface": "יודעי",
+      "english": "⟨los que conocen⟩",
+      "rationale": "Active participle of 3045 (yada) meaning 'knowing ones'; requires explicit article in English."
+    },
+    {
+      "surface": "שמך",
+      "english": "tu nombre",
+      "rationale": "Construct form of 8034 (shem, name) + 2nd fem. suffix."
+    },
+    {
+      "surface": "כי",
+      "english": "porque",
+      "rationale": "Conjunction 3588 introducing causal clause."
+    },
+    {
+      "surface": "לא",
+      "english": "⟨has⟩ no",
+      "rationale": "Negative particle 3808; 'has' added for English perfect tense."
+    },
+    {
+      "surface": "עזבת",
+      "english": "abandonado",
+      "rationale": "Qal perfect 2ms of 5800 (azab) meaning 'to forsake\/abandon'."
+    },
+    {
+      "surface": "דרשיך",
+      "english": "⟨a⟩ los que ⟨te⟩ buscan",
+      "rationale": "Piel participle of 1875 (darash) 'seekers' with 2ms suffix; 'a' and 'te' added for natural Spanish."
+    },
+    {
+      "surface": "יהוה",
+      "english": "YHWH",
+      "rationale": "Divine name 3068; canonical form preserved per Tanaj discipline."
+    }
+  ],
+  "timestamp": "2026-06-09T23:01:05.270745478Z",
+  "model": "glm-4.5"
+}

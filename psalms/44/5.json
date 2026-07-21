@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 44,
+  "usage": {
+    "completion_tokens": 379,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69912,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70291
+  },
+  "translation": "Tú ⟨es⟩ mi Rey, Elohim ⟨el⟩ que ⟨está⟩ al mando ⟨de⟩ las salvaciones ⟨de⟩ Yaakov",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "english": "Tú"
+    },
+    {
+      "surface": "הוא",
+      "english": "⟨es⟩",
+      "rationale": "Hebrew lacks copula"
+    },
+    {
+      "surface": "מלכי",
+      "english": "mi Rey"
+    },
+    {
+      "surface": "אלהים",
+      "english": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "english": "⟨el⟩ que ⟨está⟩ al mando",
+      "rationale": "צוה (intensively to constitute\/enjoin) rendered idiomatically"
+    },
+    {
+      "surface": "ישועות",
+      "english": "⟨de⟩ las salvaciones"
+    },
+    {
+      "surface": "יעקב",
+      "english": "⟨de⟩ Yaakov"
+    }
+  ],
+  "timestamp": "2026-06-09T23:18:41.049681892Z",
+  "model": "glm-4.5"
+}

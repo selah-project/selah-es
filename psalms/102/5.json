@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 102,
+  "usage": {
+    "completion_tokens": 426,
+    "prompt_tokens": 70023,
+    "prompt_tokens_details": {
+      "cached_tokens": 68992
+    },
+    "total_tokens": 70449
+  },
+  "translation": "Mi corazón ⟨está⟩ golpeado como ⟨el⟩ hierba y se marchitó, porque olvidé ⟨de⟩ comer mi pan.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "english": "Mi corazón ⟨está⟩ golpeado",
+      "notes": "HAPAX (freq 1); piel participle, 'is smitten\/stricken'"
+    },
+    {
+      "surface": "כעשב",
+      "english": "como ⟨el⟩ hierba"
+    },
+    {
+      "surface": "ויבש",
+      "english": "y se marchitó"
+    },
+    {
+      "surface": "לבי",
+      "english": "Mi corazón"
+    },
+    {
+      "surface": "כי",
+      "english": "porque"
+    },
+    {
+      "surface": "שכחתי",
+      "english": "olvidé ⟨de⟩ comer",
+      "notes": "Literally 'I have forgotten'"
+    },
+    {
+      "surface": "מאכל",
+      "english": "comer",
+      "notes": "Construct chain 'food of my bread' → 'to eat my bread'"
+    },
+    {
+      "surface": "לחמי",
+      "english": "mi pan"
+    }
+  ],
+  "timestamp": "2026-07-16T23:38:19.727983689Z",
+  "model": "glm-4.5"
+}

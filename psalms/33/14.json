@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 33,
+  "usage": {
+    "completion_tokens": 591,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69842,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70433
+  },
+  "translation": "desde ⟨el⟩ lugar de su morada ⟨Él⟩ mira ⟨a⟩ todos ⟨los⟩ habitantes de ⟨la⟩ tierra",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "english": "Desde ⟨el⟩ lugar",
+      "rationale": "literally 'from place'; requires articles in Spanish"
+    },
+    {
+      "surface": "שבתו",
+      "english": "de su morada",
+      "rationale": "שבת from 3427, to sit\/dwell; suffix -ו makes it 'his dwelling\/sitting'"
+    },
+    {
+      "surface": "השגיח",
+      "english": "⟨Él⟩ mira",
+      "rationale": "hiphil stem of 7688 'to look intently\/peep'; ⟨Él⟩ implied subject"
+    },
+    {
+      "surface": "אל",
+      "english": "⟨a⟩",
+      "rationale": "preposition 'toward\/unto'; rendered as preposition 'a' in Spanish"
+    },
+    {
+      "surface": "כל",
+      "english": "todos",
+      "rationale": "kol 'all\/whole' as adjective"
+    },
+    {
+      "surface": "ישבי",
+      "english": "habitantes",
+      "rationale": "3427 'sitters\/dwellers' as active participle; Spanish uses 'habitantes'"
+    },
+    {
+      "surface": "הארץ",
+      "english": "de ⟨la⟩ tierra",
+      "rationale": "ha-aretz 'the earth'; Spanish requires definite article"
+    }
+  ],
+  "timestamp": "2026-06-09T23:12:59.376025365Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-samuel",
+  "substitutions": [
+    {
+      "from": "Saúl",
+      "to": "Shaúl",
+      "token-index": 2,
+      "strongs": 7586,
+      "hebrew": "שאול"
+    },
+    {
+      "from": "Samuel",
+      "to": "Shmuel",
+      "token-index": 9,
+      "strongs": 8050,
+      "hebrew": "שמואל"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 10,
+  "usage": {
+    "completion_tokens": 400,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 16206,
+    "prompt_tokens_details": {
+      "cached_tokens": 15048
+    },
+    "total_tokens": 16606
+  },
+  "translation": "Y dijo el tío de Shaúl: ⟨את⟩, ⟨por favor⟩, dime qué Shmuel ⟨les⟩ dijo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "english": "Y dijo"
+    },
+    {
+      "surface": "דוד",
+      "english": "el tío de"
+    },
+    {
+      "surface": "שאול",
+      "english": "Shaúl"
+    },
+    {
+      "surface": "הגידה",
+      "english": "dime"
+    },
+    {
+      "surface": "נא",
+      "english": "⟨por favor⟩"
+    },
+    {
+      "surface": "לי",
+      "english": "a mí"
+    },
+    {
+      "surface": "מה",
+      "english": "qué"
+    },
+    {
+      "surface": "אמר",
+      "english": "dijo"
+    },
+    {
+      "surface": "לכם",
+      "english": "⟨les⟩"
+    },
+    {
+      "surface": "שמואל",
+      "english": "Shmuel"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T09:53:40.316478564Z",
+  "model": "glm-4.5"
+}

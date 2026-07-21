@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 106,
+  "usage": {
+    "completion_tokens": 770,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69872,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70642
+  },
+  "translation": " maravillas en la tierra de Jam y ⟨las⟩ cosas temibles ⟨por⟩ ⟨el⟩ mar de Suf",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "english": "Maravillas",
+      "lemma": "6381",
+      "gv": 567,
+      "freq": 13,
+      "rationale": "de פלא (pala) — hacer maravillas, cosas maravillosas; plural sustantivado"
+    },
+    {
+      "surface": "בארץ",
+      "english": "en la tierra de",
+      "lemma": "b\/776",
+      "gv": 293,
+      "freq": 422
+    },
+    {
+      "surface": "חם",
+      "english": "Jam",
+      "lemma": "2526",
+      "gv": 48,
+      "freq": 20,
+      "rationale": "nombre propio, Cam (hijo de Noé), antepasado de Egipto"
+    },
+    {
+      "surface": "נוראות",
+      "english": "cosas temibles",
+      "lemma": "3372",
+      "gv": 663,
+      "freq": 5,
+      "rationale": "de ירא (yara) — temer, reverenciar; plural sustantivado"
+    },
+    {
+      "surface": "על",
+      "english": "⟨por⟩",
+      "lemma": "5921 a",
+      "gv": 100,
+      "freq": 3567,
+      "rationale": "preposición de relación, aquí indicando lugar\/medio"
+    },
+    {
+      "surface": "ים",
+      "english": "⟨el⟩ mar",
+      "lemma": "3220",
+      "gv": 50,
+      "freq": 91
+    },
+    {
+      "surface": "סוף",
+      "english": "de Suf",
+      "lemma": "5488",
+      "gv": 146,
+      "freq": 29,
+      "rationale": "literalmente 'juncos'; nombre propio para el Mar de los Juncos, es decir, el Mar Rojo"
+    }
+  ],
+  "timestamp": "2026-06-09T23:52:41.608709902Z",
+  "model": "glm-4.5"
+}

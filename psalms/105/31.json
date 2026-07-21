@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 105,
+  "usage": {
+    "completion_tokens": 745,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69745,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70490
+  },
+  "translation": "Dijo y vino ⟨una⟩ arrebatación de mosquitos y ⟨un⟩ enjambre de mosquitos en ⟨los⟩ confines de ⟨su⟩ territorio",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "english": "Dijo",
+      "lemma": 559,
+      "gv": 241,
+      "freq": 830,
+      "rationale": "Hebrew verb 'amar' in perfect 3ms — 'he said\/spoke'"
+    },
+    {
+      "surface": "ויבא",
+      "english": "y vino",
+      "lemma": "c\/935",
+      "gv": 19,
+      "freq": 299,
+      "rationale": "Wayyiqtol verb 'vayavo' — 'and he\/it came'"
+    },
+    {
+      "surface": "ערב",
+      "english": "⟨una⟩ arrebatación de mosquitos",
+      "lemma": 6157,
+      "gv": 272,
+      "freq": 49,
+      "rationale": "'arob' (swarm of flies\/insects) — specific plague insect"
+    },
+    {
+      "surface": "כנים",
+      "english": "y ⟨un⟩ enjambre de mosquitos",
+      "lemma": 3654,
+      "gv": 120,
+      "freq": 7,
+      "rationale": "'kinim' (gnats\/lice) — second plague insect; often paired with 'arob'"
+    },
+    {
+      "surface": "בכל",
+      "english": "en ⟨los⟩",
+      "lemma": "b\/3605",
+      "gv": 52,
+      "freq": 459,
+      "rationale": "Preposition 'be' + 'kol' — 'in all\/every'"
+    },
+    {
+      "surface": "גבולם",
+      "english": "confines de ⟨su⟩ territorio",
+      "lemma": 1366,
+      "gv": 81,
+      "freq": 15,
+      "rationale": "'gebul' + 3ms suffix — 'their border\/territory\/coast'"
+    }
+  ],
+  "timestamp": "2026-06-09T23:51:56.188139583Z",
+  "model": "glm-4.5"
+}

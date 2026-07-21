@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "es",
+  "chapter": 18,
+  "usage": {
+    "completion_tokens": 1382,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 59808,
+    "prompt_tokens_details": {
+      "cached_tokens": 58894
+    },
+    "total_tokens": 61190
+  },
+  "translation": "El presente ⟨de un⟩ hombre ⟨lo⟩ ensancha ⟨a⟩ él, y ⟨lo⟩ conduce ⟨a⟩ él ⟨al⟩ frente ⟨de⟩ ⟨los⟩ grandes.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "english": "El presente",
+      "gv": 490,
+      "freq": 7,
+      "books": 5,
+      "anagram_room_size": 2,
+      "rationale": "Matán (מתן) significa 'un regalo' o 'un presente', no un atributo innato. Traducir como 'don' o 'regalo' sería impreciso."
+    },
+    {
+      "surface": "אדם",
+      "english": "⟨de un⟩ hombre",
+      "gv": 45,
+      "freq": 367,
+      "books": 30,
+      "anagram_room_size": 1,
+      "rationale": "Adam (אדם) es 'humano', no necesariamente varón. Se requiere artículo en español."
+    },
+    {
+      "surface": "ירחיב",
+      "english": "⟨lo⟩ ensancha",
+      "gv": 230,
+      "freq": 3,
+      "books": 2,
+      "anagram_room_size": 4,
+      "rationale": "Yarjiv (ירחיב) es 'hace ancho\/espacioso'. Se traduce como 'ensancha' o 'hace espacio'. El pronombre 'lo' se añade para claridad."
+    },
+    {
+      "surface": "לו",
+      "english": "⟨a⟩ él",
+      "gv": 36,
+      "freq": 1136,
+      "books": 36,
+      "anagram_room_size": 1,
+      "rationale": "Preposición de dativo (a él, para él). Español requiere la preposición 'a'."
+    },
+    {
+      "surface": "ולפני",
+      "english": "y ⟨lo⟩ conduce ⟨a⟩ él ⟨al⟩ frente ⟨de⟩",
+      "gv": 176,
+      "freq": 34,
+      "books": 15,
+      "anagram_room_size": 2,
+      "rationale": "U-lifnei (ולפני) es 'y enfrente de' o 'y a la presencia de'. Se traduce dinámicamente como 'y lo conduce a él al frente de' para mantener el flujo. Se añaden pronombres y artículo."
+    },
+    {
+      "surface": "גדלים",
+      "english": "⟨los⟩ grandes",
+      "gv": 87,
+      "freq": 23,
+      "books": 11,
+      "anagram_room_size": 1,
+      "rationale": "Gedolim (גדלים) es 'grandes', referido a personas influyentes o nobles. Se requiere el artículo en español."
+    },
+    {
+      "surface": "ינחנו",
+      "english": "⟨lo⟩ conduce ⟨a⟩ él",
+      "gv": 124,
+      "freq": 2,
+      "books": 2,
+      "anagram_room_size": 4,
+      "rationale": "Yanjenú (ינחנו) es la forma hifil 'hace ir, guía, conduce, transporta'. El verbo aparece solo aquí y en Gn 20:13. La repetición de 'lo conduce a él' es intencional para mantener el paralelismo del hebreo."
+    }
+  ],
+  "timestamp": "2026-06-10T01:42:32.825322824Z",
+  "model": "glm-4.5"
+}

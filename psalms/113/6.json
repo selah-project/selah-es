@@ -1,0 +1,44 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 113,
+  "usage": {
+    "completion_tokens": 521,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69637,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70158
+  },
+  "translation": "El ⟨que⟩ ⟨se⟩ abate ⟨para⟩ ver ⟨en⟩ ⟨los⟩ cielos ⟨y en⟩ ⟨la⟩ tierra",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "english": "El ⟨que⟩ ⟨se⟩ abate",
+      "rationale": "Hiphil participle 'humbleth himself'; construction requires pronoun and pronoun\/reflexive in English"
+    },
+    {
+      "surface": "לראות",
+      "english": "⟨para⟩ ver",
+      "rationale": "Infinitive construct showing purpose; requires preposition in English"
+    },
+    {
+      "surface": "בשמים",
+      "english": "⟨en⟩ ⟨los⟩ cielos",
+      "rationale": "Preposition + noun; requires article in English"
+    },
+    {
+      "surface": "ובארץ",
+      "english": "⟨y en⟩ ⟨la⟩ tierra",
+      "rationale": "Vav + preposition + noun; requires article in English"
+    }
+  ],
+  "timestamp": "2026-06-09T23:56:48.693413551Z",
+  "model": "glm-4.5"
+}

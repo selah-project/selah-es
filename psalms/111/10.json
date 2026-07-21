@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "psalms",
+  "substitutions": [
+    {
+      "from": "la sabiduría",
+      "to": "Jojmá",
+      "token-index": 1,
+      "strongs": 2451,
+      "hebrew": "חכמה"
+    },
+    {
+      "from": "el temor",
+      "to": "Yirá",
+      "token-index": 2,
+      "strongs": 3374,
+      "hebrew": "יראה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 111,
+  "usage": {
+    "completion_tokens": 625,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 62921,
+    "prompt_tokens_details": {
+      "cached_tokens": 61592
+    },
+    "total_tokens": 63546
+  },
+  "translation": "El principio ⟨de⟩ Jojmá ⟨es⟩ Yirá ⟨de⟩ YHWH; ⟨un⟩ buen entendimiento tienen todos ⟨los⟩ que ⟨los⟩ hacen ⟨ellos⟩ ⟨los⟩ preceptos ⟨de⟩ Él; ⟨la⟩ alabanza ⟨de⟩ Él ⟨está⟩ firme ⟨hasta⟩ siempre.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "english": "El principio ⟨de⟩"
+    },
+    {
+      "surface": "חכמה",
+      "english": "Jojmá"
+    },
+    {
+      "surface": "יראת",
+      "english": "Yirá ⟨de⟩"
+    },
+    {
+      "surface": "יהוה",
+      "english": "YHWH"
+    },
+    {
+      "surface": "שכל",
+      "english": "⟨un⟩ buen entendimiento"
+    },
+    {
+      "surface": "טוב",
+      "english": "tienen todos ⟨los⟩ que"
+    },
+    {
+      "surface": "לכל",
+      "english": "⟨los⟩"
+    },
+    {
+      "surface": "עשיהם",
+      "english": "hacen ⟨ellos⟩ ⟨los⟩ preceptos ⟨de⟩ Él"
+    },
+    {
+      "surface": "תהלתו",
+      "english": "⟨la⟩ alabanza ⟨de⟩ Él"
+    },
+    {
+      "surface": "עמדת",
+      "english": "⟨está⟩ firme"
+    },
+    {
+      "surface": "לעד",
+      "english": "⟨hasta⟩ siempre"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T13:22:26.096354877Z",
+  "model": "glm-4.5"
+}

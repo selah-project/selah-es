@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "es",
+  "chapter": 28,
+  "usage": {
+    "completion_tokens": 732,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 59991,
+    "prompt_tokens_details": {
+      "cached_tokens": 58894
+    },
+    "total_tokens": 60723
+  },
+  "translation": "⟨He who is partial⟩ ⟨to⟩ faces ⟨is⟩ not good, and ⟨the⟩ man will transgress for ⟨an⟩ ⟨את⟩ piece of bread",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "english": "⟨He who is partial⟩",
+      "rationale": "Hebrew הכר means to recognize or scrutinize; here idiomatically 'to show partiality' or 'discriminate'"
+    },
+    {
+      "surface": "פנים",
+      "english": "⟨to⟩ faces",
+      "rationale": "Hebrew uses plural 'faces' (פנים) idiomatically for 'appearance' or 'person' in the context of showing favor"
+    },
+    {
+      "surface": "לא",
+      "english": "⟨is⟩ not",
+      "rationale": "Hebrew לא is simple negation; English requires copula 'is'"
+    },
+    {
+      "surface": "טוב",
+      "english": "good"
+    },
+    {
+      "surface": "ועל",
+      "english": "and"
+    },
+    {
+      "surface": "פת",
+      "english": "⟨an⟩",
+      "rationale": "Hebrew פת literally means 'a bit' or 'piece'; here idiomatically 'a piece of bread'; English article required"
+    },
+    {
+      "surface": "לחם",
+      "english": "piece of bread"
+    },
+    {
+      "surface": "יפשע",
+      "english": "will transgress",
+      "rationale": "Hebrew פשע means 'to transgress' or 'rebel'; here the imperfect tense indicates future or habitual action"
+    },
+    {
+      "surface": "גבר",
+      "english": "⟨the⟩ man",
+      "rationale": "Hebrew גבר means 'man' or 'warrior'; English definite article required for sense"
+    }
+  ],
+  "timestamp": "2026-06-10T01:50:13.186112241Z",
+  "model": "glm-4.5"
+}

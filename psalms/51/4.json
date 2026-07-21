@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 51,
+  "usage": {
+    "completion_tokens": 626,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69869,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70495
+  },
+  "translation": "Multiply wash me ⟨from⟩ my iniquity, and ⟨from⟩ my sin purify me",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "english": "Multiply",
+      "gv": 212,
+      "freq": 57,
+      "notes": "Hapax reading - the verb רבה here likely carries the sense of 'make much\/abundant' in a ritual context, i.e. wash thoroughly"
+    },
+    {
+      "surface": "כבסני",
+      "english": "wash me",
+      "gv": 142,
+      "freq": 1,
+      "notes": "HAPAX - from root כבס meaning to trample, hence to wash by stomping; ritual washing language"
+    },
+    {
+      "surface": "מעוני",
+      "english": "⟨from⟩ my iniquity",
+      "gv": 176,
+      "freq": 4,
+      "notes": "Preposition מן meaning 'from' prefixed to עון (iniquity)"
+    },
+    {
+      "surface": "ומחטאתי",
+      "english": "and ⟨from⟩ my sin",
+      "gv": 474,
+      "freq": 1,
+      "notes": "HAPAX - conjunctive ו+מן +חטאה (sin) +1sg suffix"
+    },
+    {
+      "surface": "טהרני",
+      "english": "purify me",
+      "gv": 274,
+      "freq": 1,
+      "notes": "HAPAX - piel imperative of טהר (be pure), ritual purification language"
+    }
+  ],
+  "timestamp": "2026-06-09T23:22:55.214452403Z",
+  "model": "glm-4.5"
+}

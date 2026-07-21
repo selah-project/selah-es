@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 33,
+  "usage": {
+    "completion_tokens": 970,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69885,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70855
+  },
+  "translation": "Una falsedad ⟨es⟩ ⟨את⟩ el caballo para ⟨la⟩ salvación, y ⟨por⟩ ⟨el⟩ ⟨la⟩ abundancia de su fuerza no escapará.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "english": "Una falsedad",
+      "gv": 600,
+      "lemma": 8267,
+      "freq": 87,
+      "rationale": "שקר como sustantivo significa 'falsedad' o 'engaño'; aquí es sujeto, 'una falsedad'"
+    },
+    {
+      "surface": "הסוס",
+      "english": "⟨את⟩ el caballo",
+      "gv": 131,
+      "lemma": "d\/5483 b",
+      "freq": 11,
+      "rationale": "הסוס = el caballo, objeto directo marcado por שקר anterior (aleph-tav implícito en la estructura)"
+    },
+    {
+      "surface": "לתשועה",
+      "english": "para ⟨la⟩ salvación",
+      "gv": 811,
+      "lemma": "l\/8668",
+      "freq": 2,
+      "rationale": "לתשועה = 'para salvación\/deliverancia', lamed+infinitivo constructo indica propósito"
+    },
+    {
+      "surface": "וברב",
+      "english": "y ⟨por⟩ ⟨el⟩ ⟨la⟩",
+      "gv": 210,
+      "lemma": "c\/b\/7230",
+      "freq": 6,
+      "rationale": "וברב = 'y en abundancia\/multiplicidad', vav+preposición be+רב; requiere artículo en español"
+    },
+    {
+      "surface": "חילו",
+      "english": "abundancia de su fuerza",
+      "gv": 54,
+      "lemma": 2428,
+      "freq": 18,
+      "rationale": "חילו = 'su fuerza\/poder', posesivo 3ms con חיל (fuerza, ejército, riqueza)"
+    },
+    {
+      "surface": "לא",
+      "english": "no",
+      "gv": 31,
+      "lemma": 3808,
+      "freq": 3321,
+      "rationale": "לא = negación simple 'no'"
+    },
+    {
+      "surface": "ימלט",
+      "english": "escapará",
+      "gv": 89,
+      "lemma": 4422,
+      "freq": 21,
+      "rationale": "ימלט = 'escapará', 3ms imperfecto de מלט (escapar, librar)"
+    }
+  ],
+  "timestamp": "2026-06-09T23:13:10.688246602Z",
+  "model": "glm-4.5"
+}

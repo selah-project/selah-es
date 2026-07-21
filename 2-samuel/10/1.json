@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-samuel",
+  "substitutions": [
+    {
+      "from": "Amón",
+      "to": "Ammón",
+      "token-index": 6,
+      "strongs": 5983,
+      "hebrew": "עמון"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 10,
+  "usage": {
+    "completion_tokens": 394,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17181,
+    "prompt_tokens_details": {
+      "cached_tokens": 15827
+    },
+    "total_tokens": 17575
+  },
+  "translation": "Y sucedió después ⟨de⟩ esto, y murió el rey de ⟨los⟩ hijos de Ammón, y reinó Hanún su hijo en ⟨su⟩ lugar",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "english": "Y sucedió"
+    },
+    {
+      "surface": "אחרי",
+      "english": "después"
+    },
+    {
+      "surface": "כן",
+      "english": "⟨de⟩ esto"
+    },
+    {
+      "surface": "וימת",
+      "english": "y murió"
+    },
+    {
+      "surface": "מלך",
+      "english": "el rey"
+    },
+    {
+      "surface": "בני",
+      "english": "de ⟨los⟩ hijos"
+    },
+    {
+      "surface": "עמון",
+      "english": "de Ammón"
+    },
+    {
+      "surface": "וימלך",
+      "english": "y reinó"
+    },
+    {
+      "surface": "חנון",
+      "english": "Hanún"
+    },
+    {
+      "surface": "בנו",
+      "english": "su hijo"
+    },
+    {
+      "surface": "תחתיו",
+      "english": "en ⟨su⟩ lugar"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T10:24:13.928612536Z",
+  "model": "glm-4.5"
+}

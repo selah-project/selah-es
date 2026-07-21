@@ -1,0 +1,103 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-kings 15:6",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-kings",
+  "substitutions": [
+    {
+      "from": "el libro",
+      "to": "Séfer",
+      "token-index": 10,
+      "strongs": 5612,
+      "hebrew": "תורה־ספר"
+    },
+    {
+      "from": "Judá",
+      "to": "Yehudá",
+      "token-index": 14,
+      "strongs": 3063,
+      "hebrew": "יהודה"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 15,
+  "usage": {
+    "completion_tokens": 605,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 17171,
+    "prompt_tokens_details": {
+      "cached_tokens": 15441
+    },
+    "total_tokens": 17776
+  },
+  "translation": "Y lo restante de los hechos de Azarías y todo lo que ⟨hizo⟩, ¿no ⟨están⟩ escritos en Séfer de los hechos de los días de los reyes de Yehudá?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "english": "Y lo restante"
+    },
+    {
+      "surface": "דברי",
+      "english": "de los hechos"
+    },
+    {
+      "surface": "עזריהו",
+      "english": "de Azarías"
+    },
+    {
+      "surface": "וכל",
+      "english": "y todo"
+    },
+    {
+      "surface": "אשר",
+      "english": "lo que"
+    },
+    {
+      "surface": "עשה",
+      "english": "⟨hizo⟩"
+    },
+    {
+      "surface": "הלא",
+      "english": "¿no"
+    },
+    {
+      "surface": "הם",
+      "english": "⟨están⟩"
+    },
+    {
+      "surface": "כתובים",
+      "english": "escritos"
+    },
+    {
+      "surface": "על",
+      "english": "en"
+    },
+    {
+      "surface": "ספר",
+      "english": "Séfer"
+    },
+    {
+      "surface": "דברי",
+      "english": "de los hechos"
+    },
+    {
+      "surface": "הימים",
+      "english": "de los días"
+    },
+    {
+      "surface": "למלכי",
+      "english": "de los reyes"
+    },
+    {
+      "surface": "יהודה",
+      "english": "de Yehudá"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T11:35:42.448770972Z",
+  "model": "glm-4.5"
+}

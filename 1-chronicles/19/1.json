@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "1-chronicles",
+  "substitutions": [
+    {
+      "from": "Amón",
+      "to": "Ammón",
+      "token-index": 7,
+      "strongs": 5983,
+      "hebrew": "עמון"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 19,
+  "usage": {
+    "completion_tokens": 386,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 57031,
+    "prompt_tokens_details": {
+      "cached_tokens": 55703
+    },
+    "total_tokens": 57417
+  },
+  "translation": "Y sucedió después de ⟨esto⟩, que murió Najash, rey de ⟨los⟩ hijos de Ammón, y reinó su hijo en su lugar",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "english": "Y sucedió"
+    },
+    {
+      "surface": "אחרי",
+      "english": "después de"
+    },
+    {
+      "surface": "כן",
+      "english": "⟨esto⟩"
+    },
+    {
+      "surface": "וימת",
+      "english": "que murió"
+    },
+    {
+      "surface": "נחש",
+      "english": "Najash"
+    },
+    {
+      "surface": "מלך",
+      "english": "rey"
+    },
+    {
+      "surface": "בני",
+      "english": "de ⟨los⟩ hijos",
+      "marks": "hijos de Amón"
+    },
+    {
+      "surface": "עמון",
+      "english": "de Ammón"
+    },
+    {
+      "surface": "וימלך",
+      "english": "y reinó"
+    },
+    {
+      "surface": "בנו",
+      "english": "su hijo"
+    },
+    {
+      "surface": "תחתיו",
+      "english": "en su lugar"
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T14:48:34.113911872Z",
+  "model": "glm-4.5"
+}

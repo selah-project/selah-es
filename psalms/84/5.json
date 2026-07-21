@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 84,
+  "usage": {
+    "completion_tokens": 846,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69834,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70680
+  },
+  "translation": "¡Cuán felices ⟨son⟩ ⟨los⟩ que moran en tu casa; ⟨ellos⟩ todavía ⟨te⟩ alabarán, Selá.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "english": "¡Cuán felices",
+      "lemma": "835",
+      "gv": "511",
+      "freq": "40",
+      "rationale": "Interjection exclamativa de felicidad, plural constructo"
+    },
+    {
+      "surface": "יושבי",
+      "english": "⟨los⟩ que moran",
+      "lemma": "3427",
+      "gv": "328",
+      "freq": "26",
+      "rationale": "Participio activo plural: 'los que habitan\/moran'"
+    },
+    {
+      "surface": "ביתך",
+      "english": "en tu casa",
+      "lemma": "1004 b",
+      "gv": "432",
+      "freq": "39",
+      "rationale": "Bet + sufijo 2ms: literalmente 'casa-tuya'"
+    },
+    {
+      "surface": "עוד",
+      "english": "todavía",
+      "lemma": "5750",
+      "gv": "80",
+      "freq": "395",
+      "rationale": "Adverbio de continuación: 'aún, todavía, siempre'"
+    },
+    {
+      "surface": "יהללוך",
+      "english": "⟨ellos⟩ ⟨te⟩ alabarán",
+      "lemma": "1984 b",
+      "gv": "101",
+      "freq": "1",
+      "rationale": "Hapax: yihal·le·ḵa (3mpl + sufijo 2ms): 'ellos te alabarán'"
+    },
+    {
+      "surface": "סלה",
+      "english": "Selá",
+      "lemma": "5542",
+      "gv": "95",
+      "freq": "75",
+      "rationale": "Término musical de pausa\/reflexión, no traducible"
+    }
+  ],
+  "timestamp": "2026-06-09T23:40:50.778635424Z",
+  "model": "glm-4.5"
+}

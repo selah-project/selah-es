@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "es",
+  "chapter": 16,
+  "usage": {
+    "completion_tokens": 751,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 59989,
+    "prompt_tokens_details": {
+      "cached_tokens": 58894
+    },
+    "total_tokens": 60740
+  },
+  "translation": "⟨How much better⟩ to get Jojmá than gold! and ⟨to⟩ get Biná ⟨is⟩ rather to be chosen than silver!",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "english": "To get",
+      "notes": null
+    },
+    {
+      "surface": "חכמה",
+      "english": "Jojmá",
+      "notes": {
+        "kind": "substitution",
+        "subject": "Jojmá",
+        "rationale": "Hebrew חכמה (wisdom) is rendered as Jojmá, preserving the Hebrew lemma from the Tanaj"
+      }
+    },
+    {
+      "surface": "מה",
+      "english": "⟨How much better⟩",
+      "notes": {
+        "kind": "idiom",
+        "subject": "מה",
+        "rationale": "Hebrew interrogative מה rendered as English idiom 'How much better' to capture comparative sense"
+      }
+    },
+    {
+      "surface": "טוב",
+      "english": "than gold!",
+      "notes": {
+        "kind": "idiom",
+        "subject": "טוב",
+        "rationale": "Hebrew 'good' used idiomatically in comparative construction 'better than gold'"
+      }
+    },
+    {
+      "surface": "מחרוץ",
+      "english": "gold",
+      "notes": null
+    },
+    {
+      "surface": "וקנות",
+      "english": "and ⟨to⟩ get",
+      "notes": {
+        "kind": "addition",
+        "subject": "to",
+        "rationale": "English infinitive requires 'to', not present in Hebrew finite verb form"
+      }
+    },
+    {
+      "surface": "בינה",
+      "english": "Biná",
+      "notes": {
+        "kind": "substitution",
+        "subject": "Biná",
+        "rationale": "Hebrew בינה (understanding) is rendered as Biná, preserving the Hebrew lemma from the Tanaj"
+      }
+    },
+    {
+      "surface": "נבחר",
+      "english": "⟨is⟩ rather to be chosen",
+      "notes": {
+        "kind": "addition",
+        "subject": "is",
+        "rationale": "Hebrew lacks copula; 'is' added for English grammar"
+      }
+    },
+    {
+      "surface": "מכסף",
+      "english": "than silver",
+      "notes": null
+    }
+  ],
+  "timestamp": "2026-06-10T01:40:33.388937928Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "es",
+  "chapter": 12,
+  "usage": {
+    "completion_tokens": 829,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 59768,
+    "prompt_tokens_details": {
+      "cached_tokens": 58894
+    },
+    "total_tokens": 60597
+  },
+  "translation": "⟨Los⟩ malvados son derribados y no ⟨son⟩, pero la casa ⟨de los⟩ justos permanecerá.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "english": "Son derribados",
+      "notes": "Traducción del Qal pasivo de 'derribar\/arrastrar', contextualmente 'ser derribados'"
+    },
+    {
+      "surface": "רשעים",
+      "english": "malvados",
+      "notes": "Plural de רשע; literalmente 'los malvados', en contexto de oposición a 'justos'"
+    },
+    {
+      "surface": "ואינם",
+      "english": "y no ⟨son⟩",
+      "notes": "Literalmente 'y ellos no son' (ואינם); el verbo 'ser' se omite en hebreo y se añade ⟨are⟩ en español"
+    },
+    {
+      "surface": "ובית",
+      "english": "pero la casa ⟨de los⟩",
+      "notes": "Literalmente 'y casa' (ובית); se añade ⟨de los⟩ en español para claridad referencial"
+    },
+    {
+      "surface": "צדיקים",
+      "english": "justos",
+      "notes": "Plural de צדיק; término técnico para 'justos\/righteous' en el contexto de justicia divina"
+    },
+    {
+      "surface": "יעמד",
+      "english": "permanecerá",
+      "notes": "Qal imperfecto de עמד; 'permanecerá' mantiene mejor que 'estará' la idea de estabilidad duradera"
+    }
+  ],
+  "timestamp": "2026-06-10T01:36:52.550707376Z",
+  "model": "glm-4.5"
+}

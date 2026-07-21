@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 103,
+  "usage": {
+    "completion_tokens": 610,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 69753,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70363
+  },
+  "translation": "⟨to⟩ los que ⟨are⟩ guarding su brit y ⟨to⟩ los que ⟨are⟩ recordando sus pikudim ⟨to⟩ hacerlos",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "english": "⟨To⟩ los que ⟨are⟩ guarding",
+      "lemma": "l\/8104",
+      "gv": 580,
+      "freq": 2,
+      "notes": null
+    },
+    {
+      "surface": "בריתו",
+      "english": "su brit",
+      "lemma": "1285",
+      "gv": 618,
+      "freq": 17,
+      "notes": null
+    },
+    {
+      "surface": "ולזכרי",
+      "english": "y ⟨to⟩ los que ⟨are⟩ recordando",
+      "lemma": "c\/l\/2142",
+      "gv": 273,
+      "freq": 1,
+      "notes": {
+        "hapax": true
+      }
+    },
+    {
+      "surface": "פקדיו",
+      "english": "sus pikudim",
+      "lemma": "6490",
+      "gv": 200,
+      "freq": 3,
+      "notes": {
+        "subject": "pikudim",
+        "rationale": "mandamientos ordenados, decretos divinos; plural colectivo"
+      }
+    },
+    {
+      "surface": "לעשותם",
+      "english": "⟨to⟩ hacerlos",
+      "lemma": "l\/6213 a",
+      "gv": 846,
+      "freq": 2,
+      "notes": null
+    }
+  ],
+  "timestamp": "2026-06-09T23:49:42.152942608Z",
+  "model": "glm-4.5"
+}

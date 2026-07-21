@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "canonical-forms-version": "2026-05-30-v1",
+  "book": "2-chronicles",
+  "substitutions": [
+    {
+      "from": "Israel",
+      "to": "Yisrael",
+      "token-index": 1,
+      "strongs": 3478,
+      "hebrew": "ישראל"
+    },
+    {
+      "from": "Davi",
+      "to": "David",
+      "token-index": 3,
+      "strongs": 1732,
+      "hebrew": "דוד"
+    }
+  ],
+  "source-version": "v1",
+  "lang": "es",
+  "chapter": 10,
+  "usage": {
+    "completion_tokens": 432,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 57652,
+    "prompt_tokens_details": {
+      "cached_tokens": 56680
+    },
+    "total_tokens": 58084
+  },
+  "translation": "Y Yisrael ⟨se⟩ rebeló contra ⟨la⟩ casa ⟨de⟩ Davidd ⟨hasta⟩ ⟨el⟩ día ⟨de⟩ hoy",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "english": "Y Israel ⟨se⟩ rebeló",
+      "marks": null
+    },
+    {
+      "surface": "ישראל",
+      "english": "Yisrael",
+      "marks": null
+    },
+    {
+      "surface": "בבית",
+      "english": "contra ⟨la⟩ casa",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "english": "Davidd",
+      "marks": null
+    },
+    {
+      "surface": "עד",
+      "english": "⟨hasta⟩",
+      "marks": "el día de hoy"
+    },
+    {
+      "surface": "היום",
+      "english": "⟨el⟩ día",
+      "marks": null
+    },
+    {
+      "surface": "הזה",
+      "english": "⟨de⟩ hoy",
+      "marks": null
+    }
+  ],
+  "version": "v2",
+  "timestamp": "2026-05-30T15:10:07.075399362Z",
+  "model": "glm-4.5"
+}

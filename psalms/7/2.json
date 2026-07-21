@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 7,
+  "usage": {
+    "completion_tokens": 666,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 70026,
+    "prompt_tokens_details": {
+      "cached_tokens": 68940
+    },
+    "total_tokens": 70692
+  },
+  "translation": "YHWH mi Elohim ⟨en⟩ ti he buscado refugio; sálvame de todos mis perseguidores y ⟨⟩ rescátame",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "english": "YHWH",
+      "marks": null
+    },
+    {
+      "surface": "אלהי",
+      "english": "mi Elohim",
+      "marks": null
+    },
+    {
+      "surface": "בך",
+      "english": "⟨en⟩ ti",
+      "rationale": "The prepositional prefix בְְ requires the pronoun 'ti' in Spanish"
+    },
+    {
+      "surface": "חסיתי",
+      "english": "he buscado refugio",
+      "rationale": "The root חסה means 'to seek refuge', reflecting the act of taking shelter"
+    },
+    {
+      "surface": "הושיעני",
+      "english": "sálvame",
+      "rationale": "Imperative form הוֹשִׁיעֵנִי from the root ישע 'to save'"
+    },
+    {
+      "surface": "מכל",
+      "english": "de todos",
+      "rationale": "The preposition מִן 'from' combined with the collective כָּל 'all'"
+    },
+    {
+      "surface": "רדפי",
+      "english": "mis perseguidores",
+      "rationale": "Participle form רֹדְפַי from the root רדף 'to pursue'"
+    },
+    {
+      "surface": "והצילני",
+      "english": "y ⟨⟩ rescátame",
+      "rationale": "The conjunction וְ 'and' with imperative הַצֵּל 'deliver' - ⟨⟩ marks the missing direct object marker"
+    }
+  ],
+  "timestamp": "2026-06-09T22:59:54.907363580Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "es",
+  "chapter": 59,
+  "usage": {
+    "completion_tokens": 1084,
+    "prompt_tokens": 70500,
+    "prompt_tokens_details": {
+      "cached_tokens": 68992
+    },
+    "total_tokens": 71584
+  },
+  "translation": "Para el Director. No ⟨lo⟩ destruyas. ⟨Un⟩ Miktam de David. Cuando Shaúl envió y acecharon la casa para matarlo. Líbrame de mis enemigos, Elohim mío; de los que se levantan contra me defiende ⟨en⟩ alto.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "english": "Para el Director"
+    },
+    {
+      "surface": "אל",
+      "english": "No ⟨lo⟩ destruyas",
+      "rationale": "Hebreo: אל תשחת (Al tashjet). Título o instrucción musical, también citado en Is 65:8. Literalmente 'No destruyas'. Se traduce como frase completa."
+    },
+    {
+      "surface": "תשחת",
+      "english": "destruyas",
+      "rationale": "Verbo en negación (precedido por אל). Parte de la instrucción musical 'Al Tashjet'."
+    },
+    {
+      "surface": "לדוד",
+      "english": "⟨Un⟩ Miktam de David"
+    },
+    {
+      "surface": "מכתם",
+      "english": "Miktam",
+      "rationale": "Término técnico de uncertain etimología, probablemente 'poema' o 'grabado' (como en el nombre del salmo 16). Se deja transliterado."
+    },
+    {
+      "surface": "בשלח",
+      "english": "Cuando Shaúl envió"
+    },
+    {
+      "surface": "שאול",
+      "english": "Shaúl",
+      "rationale": "Rey Shaúl, primer rey de Israel, perseguidor de David. Nombre canónico: Shaúl."
+    },
+    {
+      "surface": "וישמרו",
+      "english": "y acecharon",
+      "rationale": "Literalmente 'y guardaron', pero aquí en el sentido de 'montar guardia', 'acechar' o 'sitiar' la casa (como en Gn 37:24)."
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "english": "la casa"
+    },
+    {
+      "surface": "להמיתו",
+      "english": "para matarlo"
+    }
+  ],
+  "timestamp": "2026-07-16T23:32:27.184083458Z",
+  "model": "glm-4.5"
+}
