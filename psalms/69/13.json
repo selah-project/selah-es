@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.1",
+  "tier": "bulk",
   "verse": 13,
   "ref": "psalms 69:13",
   "book": "psalms",
   "lang": "es",
   "chapter": 69,
   "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 69940,
+    "completion_tokens": 434,
+    "prompt_tokens": 69946,
     "prompt_tokens_details": {
-      "cached_tokens": 68928
+      "cached_tokens": 68992
     },
-    "total_tokens": 70454
+    "total_tokens": 70380
   },
-  "translation": "Hablan de mí los que se sientan en ⟨la⟩ puerta, y los tañedores de cuerda son los que beben vino ⟨fuerte⟩.",
+  "translation": "Aquellos que ⟨se sientan⟩ ⟨en⟩ la puerta conversan ⟨de mí⟩, y los ⟨bebedores⟩ de cerveza tocan ⟨canciones⟩.",
   "tokens": [
     {
       "surface": "ישיחו",
-      "english": "Hablan"
+      "english": "conversan"
     },
     {
       "surface": "בי",
@@ -28,25 +25,25 @@
     },
     {
       "surface": "ישבי",
-      "english": "los que se sientan"
+      "english": "Aquellos que ⟨se sientan⟩"
     },
     {
       "surface": "שער",
-      "english": "en ⟨la⟩ puerta"
+      "english": "la puerta"
     },
     {
       "surface": "ונגינות",
-      "english": "y los tañedores de cuerda"
+      "english": "tocan ⟨canciones⟩"
     },
     {
       "surface": "שותי",
-      "english": "son los que beben"
+      "english": "los ⟨bebedores⟩"
     },
     {
       "surface": "שכר",
-      "english": "vino ⟨fuerte⟩"
+      "english": "de cerveza"
     }
   ],
-  "timestamp": "2026-06-13T03:57:21.429632064Z",
-  "model": "glm-5.1"
+  "timestamp": "2026-07-21T02:29:08.865616433Z",
+  "model": "glm-4.5"
 }

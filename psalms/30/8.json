@@ -1,60 +1,57 @@
 {
-  "tier": "glm-5.1",
+  "tier": "bulk",
   "verse": 8,
   "ref": "psalms 30:8",
   "book": "psalms",
   "lang": "es",
   "chapter": 30,
   "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 70147,
+    "completion_tokens": 608,
+    "prompt_tokens": 70310,
     "prompt_tokens_details": {
-      "cached_tokens": 68928
+      "cached_tokens": 68992
     },
-    "total_tokens": 70679
+    "total_tokens": 70918
   },
-  "translation": "YHWH, en tu favor hiciste estar firme mi montaña ⟨como⟩ fuerza; escondiste tu rostro — yo quedé aterrorizado.",
+  "translation": "YHWH, en tu buena voluntad ⟨has hecho⟩ que mi monte se mantenga firme; ⟨tú⟩ escondiste tu rostro, y estuve turbado.",
   "tokens": [
     {
-      "surface": "יהוה",
+      "surface": "יְֽהוָ֗ה",
       "english": "YHWH"
     },
     {
-      "surface": "ברצונך",
-      "english": "en tu favor"
+      "surface": "בִּ\/רְצוֹנְ\/ךָ֮",
+      "english": "en tu buena voluntad"
     },
     {
-      "surface": "העמדתה",
-      "english": "hiciste estar firme"
+      "surface": "הֶעֱמַ֪דְתָּה",
+      "english": "⟨has hecho⟩ que mi monte se mantenga firme"
     },
     {
-      "surface": "להררי",
-      "english": "mi montaña"
+      "surface": "לְֽ\/הַרְרִ֫\/י",
+      "english": "mi monte"
     },
     {
-      "surface": "עז",
-      "english": "⟨como⟩ fuerza"
+      "surface": "עֹ֥ז",
+      "english": "firme"
     },
     {
-      "surface": "הסתרת",
-      "english": "escondiste"
+      "surface": "הִסְתַּ֥רְתָּ",
+      "english": "⟨tú⟩ escondiste"
     },
     {
-      "surface": "פניך",
+      "surface": "פָנֶ֗י\/ךָ",
       "english": "tu rostro"
     },
     {
-      "surface": "הייתי",
-      "english": "yo quedé"
+      "surface": "הָיִ֥יתִי",
+      "english": "y estuve"
     },
     {
-      "surface": "נבהל",
-      "english": "aterrorizado"
+      "surface": "נִבְהָֽל",
+      "english": "turbado"
     }
   ],
-  "timestamp": "2026-06-13T03:56:08.047246329Z",
-  "model": "glm-5.1"
+  "timestamp": "2026-07-21T02:27:27.774063753Z",
+  "model": "glm-4.5"
 }
