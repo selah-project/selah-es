@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "2-chronicles 11:17",
   "book": "2-chronicles",
-  "chapter": 11,
-  "verse": 17,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:11:05.880094883Z",
-  "translation": "Y fortalecieron ⟨el⟩ reino de Yehudá y fortalecieron ⟨a⟩ Rehoboam hijo de Shelomó ⟨por⟩ tres años porque anduvieron en ⟨el⟩ camino de Davidd y Shelomó ⟨por⟩ tres años",
+  "chapter": 11,
+  "translation": "Y fortalecieron ⟨את⟩ el reino de Yehudá, y afirmaron ⟨את⟩ a Rejavam ben de Shlomó, por tres años; porque anduvieron en el camino de David y de Shlomó por tres años.",
   "tokens": [
     {
       "surface": "ויחזקו",
@@ -16,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "reino"
+      "marks": "el reino"
     },
     {
       "surface": "מלכות",
-      "gloss": "reino"
+      "gloss": "el reino"
     },
     {
       "surface": "יהודה",
@@ -28,32 +26,32 @@
     },
     {
       "surface": "ויאמצו",
-      "gloss": "y fortalecieron"
+      "gloss": "y afirmaron"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rehoboam"
+      "marks": "a Rejavam"
     },
     {
       "surface": "רחבעם",
-      "gloss": "Rehoboam"
+      "gloss": "a Rejavam"
     },
     {
       "surface": "בן",
-      "gloss": "hijo"
+      "gloss": "ben (hijo)"
     },
     {
       "surface": "שלמה",
-      "gloss": "de Shelomó"
+      "gloss": "de Shlomó"
     },
     {
       "surface": "לשנים",
-      "gloss": "⟨por⟩ tres"
+      "gloss": "por"
     },
     {
       "surface": "שלוש",
-      "gloss": "años"
+      "gloss": "tres años"
     },
     {
       "surface": "כי",
@@ -65,42 +63,25 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "en ⟨el⟩"
+      "gloss": "en el camino"
     },
     {
       "surface": "דויד",
-      "gloss": "camino de Davidd"
+      "gloss": "de David"
     },
     {
       "surface": "ושלמה",
-      "gloss": "y Shelomó"
+      "gloss": "y de Shlomó"
     },
     {
       "surface": "לשנים",
-      "gloss": "⟨por⟩ tres"
+      "gloss": "por"
     },
     {
       "surface": "שלוש",
-      "gloss": "años"
+      "gloss": "tres años"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 3,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 14,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:18:18.648365103Z",
+  "model": "glm-5.2"
 }

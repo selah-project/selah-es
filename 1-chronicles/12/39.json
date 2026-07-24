@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 39,
   "ref": "1-chronicles 12:39",
   "book": "1-chronicles",
-  "chapter": 12,
-  "verse": 39,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:42:08.077563403Z",
-  "translation": "Todos estos ⟨son⟩ hombres de guerra, ordenadores ⟨de⟩ formación de batalla, con corazón perfecto vinieron a Jevrón para hacer rey ⟨a⟩ Davidd sobre todo Yisrael, y también toda la parte restante de Yisrael ⟨era⟩ de un corazón para hacer rey ⟨a⟩ Davidd",
+  "chapter": 12,
+  "translation": "Todos estos hombres de guerra, formadores en orden de batalla, con corazón completo vinieron a Jevrón para proclamar rey a ⟨את⟩ David sobre todo Yisrael; y también todo el resto de Yisrael ⟨tenía⟩ corazón unido para proclamar rey a ⟨את⟩ David.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Todos"
+      "gloss": "todos"
     },
     {
       "surface": "אלה",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "hombres"
+      "gloss": "hombres de"
     },
     {
       "surface": "מלחמה",
-      "gloss": "de guerra"
+      "gloss": "guerra"
     },
     {
       "surface": "עדרי",
-      "gloss": "ordenadores"
+      "gloss": "formadores en orden"
     },
     {
       "surface": "מערכה",
-      "gloss": "⟨de⟩ formación de batalla"
+      "gloss": "de batalla"
     },
     {
       "surface": "בלבב",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "שלם",
-      "gloss": "perfecto"
+      "gloss": "completo"
     },
     {
       "surface": "באו",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "להמליך",
-      "gloss": "para hacer rey"
+      "gloss": "para proclamar rey"
     },
     {
       "surface": "את",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "a David"
     },
     {
       "surface": "על",
@@ -80,11 +78,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "toda"
+      "gloss": "todo"
     },
     {
       "surface": "שרית",
-      "gloss": "la parte restante"
+      "gloss": "el resto"
     },
     {
       "surface": "ישראל",
@@ -92,15 +90,15 @@
     },
     {
       "surface": "לב",
-      "gloss": "⟨era⟩"
+      "gloss": "corazón"
     },
     {
       "surface": "אחד",
-      "gloss": "de un corazón"
+      "gloss": "uno"
     },
     {
       "surface": "להמליך",
-      "gloss": "para hacer rey"
+      "gloss": "para proclamar rey"
     },
     {
       "surface": "את",
@@ -109,40 +107,9 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "a David"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 12,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 15,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 19,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 24,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:15:00.783876799Z",
+  "model": "glm-5.2"
 }

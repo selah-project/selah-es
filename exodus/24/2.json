@@ -1,73 +1,61 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "exodus 24:2",
   "book": "exodus",
-  "chapter": 24,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T06:56:05.457945961Z",
-  "translation": "Y Moshé ⟨se⟩ acercará por ⟨sí solo⟩ a YHWH, y ellos ⟨se⟩ acercarán ⟨את⟩; y el pueblo no subirá con él.",
+  "chapter": 24,
+  "translation": "Y Moshé se acercará él solo a YHWH, y ellos no se acercarán, y el pueblo no subirá con él.",
   "tokens": [
     {
-      "surface": "ונגש",
-      "gloss": "Y ⟨se⟩ acercará"
+      "surface": "וְנִגַּ֨שׁ",
+      "gloss": "Y se acercará"
     },
     {
-      "surface": "משה",
+      "surface": "מֹשֶׁ֤ה",
       "gloss": "Moshé"
     },
     {
-      "surface": "לבדו",
-      "gloss": "por ⟨sí solo⟩"
+      "surface": "לְבַדּוֹ֙",
+      "gloss": "él solo"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "a"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֔ה",
       "gloss": "YHWH"
     },
     {
-      "surface": "והם",
+      "surface": "וְהֵ֖ם",
       "gloss": "y ellos"
     },
     {
-      "surface": "לא",
+      "surface": "לֹ֣א",
       "gloss": "no"
     },
     {
-      "surface": "יגשו",
-      "gloss": "⟨se⟩ acercarán"
+      "surface": "יִגָּ֑שׁוּ",
+      "gloss": "se acercarán"
     },
     {
-      "surface": "והעם",
+      "surface": "וְהָעָ֕ם",
       "gloss": "y el pueblo"
     },
     {
-      "surface": "לא",
+      "surface": "לֹ֥א",
       "gloss": "no"
     },
     {
-      "surface": "יעלו",
-      "gloss": "subirán"
+      "surface": "יַעֲל֖וּ",
+      "gloss": "subirá"
     },
     {
-      "surface": "עמו",
+      "surface": "עִמּֽוֹ",
       "gloss": "con él"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 1,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:59:37.505898394Z",
+  "model": "glm-5.2"
 }

@@ -1,55 +1,51 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "numbers 7:2",
   "book": "numbers",
-  "chapter": 7,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T08:18:42.129468583Z",
-  "translation": "Y los príncipes de Yisrael, jefes ⟨de las⟩ casas ⟨de⟩ sus padres, ⟨ellos son⟩ los príncipes ⟨de las⟩ tribus, ⟨ellos son⟩ los que están sobre los que fueron contados, presentaron ⟨את⟩ su ofrenda",
+  "chapter": 7,
+  "translation": "Y presentaron ⟨una ofrenda⟩ los príncipes de Yisrael, los cabezas de ⟨la⟩ casa de sus padres; ellos ⟨eran⟩ los príncipes de las tribus, ellos son los que están sobre los contados.",
   "tokens": [
     {
       "surface": "ויקריבו",
-      "gloss": "Y... presentaron"
+      "gloss": "y presentaron"
     },
     {
       "surface": "נשיאי",
-      "gloss": "los príncipes"
+      "gloss": "los príncipes de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ראשי",
-      "gloss": "jefes"
+      "gloss": "los cabezas de"
     },
     {
       "surface": "בית",
-      "gloss": "⟨de las⟩ casas",
-      "marks": "casas ⟨de⟩ sus padres"
+      "gloss": "la casa de"
     },
     {
       "surface": "אבתם",
-      "gloss": "⟨de⟩ sus padres"
+      "gloss": "sus padres"
     },
     {
       "surface": "הם",
-      "gloss": "⟨ellos son⟩"
+      "gloss": "ellos"
     },
     {
       "surface": "נשיאי",
-      "gloss": "los príncipes"
+      "gloss": "los príncipes de"
     },
     {
       "surface": "המטת",
-      "gloss": "⟨de las⟩ tribus",
-      "marks": "tribus"
+      "gloss": "las tribus"
     },
     {
       "surface": "הם",
-      "gloss": "⟨ellos son⟩"
+      "gloss": "ellos"
     },
     {
       "surface": "העמדים",
@@ -61,19 +57,9 @@
     },
     {
       "surface": "הפקדים",
-      "gloss": "los que fueron contados"
+      "gloss": "los contados"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:33:03.317675659Z",
+  "model": "glm-5.2"
 }

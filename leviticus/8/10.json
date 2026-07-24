@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "leviticus 8:10",
   "book": "leviticus",
-  "chapter": 8,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:35:14.812704544Z",
-  "translation": "Y Moshé tomó ⟨el⟩ aceite de la unción y ungió ⟨el⟩ Mishkán y ⟨את⟩ todo lo que ⟨estaba⟩ en él, y santificó ⟨את⟩ ellos",
+  "chapter": 8,
+  "translation": "Y tomó Moshé ⟨את⟩ el aceite de la unción, y ungió ⟨את⟩ el Mishkán y ⟨את⟩ todo lo que estaba en él, y los consagró ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -20,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aceite"
+      "marks": "el aceite de la unción"
     },
     {
       "surface": "שמן",
-      "gloss": "aceite"
+      "gloss": "el aceite"
     },
     {
       "surface": "המשחה",
@@ -37,16 +35,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mishkán"
+      "marks": "el Mishkán"
     },
     {
       "surface": "המשכן",
-      "gloss": "Mishkán"
+      "gloss": "el Mishkán"
     },
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "todo"
+      "marks": "todo lo que estaba en él"
     },
     {
       "surface": "כל",
@@ -58,16 +56,18 @@
     },
     {
       "surface": "בו",
-      "gloss": "⟨estaba⟩ en él"
+      "gloss": "estaba en él"
     },
     {
       "surface": "ויקדש",
-      "gloss": "y santificó"
+      "gloss": "y los consagró"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ellos",
-      "marks": ""
+      "gloss": "⟨אתם⟩",
+      "marks": "a ellos"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:19:37.939412450Z",
+  "model": "glm-5.2"
 }

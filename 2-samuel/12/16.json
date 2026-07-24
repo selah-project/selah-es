@@ -1,30 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "2-samuel 12:16",
   "book": "2-samuel",
-  "chapter": 12,
-  "verse": 16,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:26:12.522498991Z",
-  "translation": "Y Davidd buscó a ⟨el⟩ Elohim por ⟨el⟩ muchacho, y Davidd ayunó ⟨un⟩ ayuno y entró y se quedó y se acostó ⟨en⟩ tierra.",
+  "chapter": 12,
+  "translation": "Y David buscó a ⟨את⟩ HaElohim por el niño; y David ayunó un ayuno, y entró, y pernoctó, y se acostó en tierra.",
   "tokens": [
     {
       "surface": "ויבקש",
-      "gloss": "Y buscó"
+      "gloss": "y buscó"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "האלהים"
+      "marks": "HaElohim"
     },
     {
       "surface": "האלהים",
-      "gloss": "a ⟨el⟩ Elohim"
+      "gloss": "HaElohim"
     },
     {
       "surface": "בעד",
@@ -32,19 +30,19 @@
     },
     {
       "surface": "הנער",
-      "gloss": "⟨el⟩ muchacho"
+      "gloss": "el niño"
     },
     {
       "surface": "ויצם",
-      "gloss": "y David ayunó"
+      "gloss": "y ayunó"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "צום",
-      "gloss": "⟨un⟩ ayuno"
+      "gloss": "un ayuno"
     },
     {
       "surface": "ובא",
@@ -52,7 +50,7 @@
     },
     {
       "surface": "ולן",
-      "gloss": "y se quedó"
+      "gloss": "y pernoctó"
     },
     {
       "surface": "ושכב",
@@ -60,26 +58,9 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "⟨en⟩ tierra"
+      "gloss": "en tierra"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 7,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:16:40.851787874Z",
+  "model": "glm-5.2"
 }

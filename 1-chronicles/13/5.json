@@ -1,26 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "1-chronicles 13:5",
   "book": "1-chronicles",
-  "chapter": 13,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:42:36.676932139Z",
-  "translation": "Y Davidd congregó ⟨a⟩ todo Yisrael desde Shijor ⟨de⟩ Mitzráyim hasta ⟨la⟩ entrada de Jamat para traer ⟨el⟩ Arón ⟨de⟩ Elohim ⟨de⟩ Quiriat-jearim",
+  "chapter": 13,
+  "translation": "Y David reunió ⟨את⟩ todo Yisrael, desde Shijór de Mitzráyim y hasta la entrada de Jamat, para traer ⟨את⟩ el Arón de Ha-Elohim de Qiryat-Yearim.",
   "tokens": [
     {
       "surface": "ויקהל",
-      "gloss": "Y congregó"
+      "gloss": "Y reunió"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todo Israel"
+      "marks": "todo Yisrael"
     },
     {
       "surface": "כל",
@@ -36,19 +34,19 @@
     },
     {
       "surface": "שיחור",
-      "gloss": "Shijor"
+      "gloss": "Shijór"
     },
     {
       "surface": "מצרים",
-      "gloss": "de Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "ועד",
-      "gloss": "hasta"
+      "gloss": "y hasta"
     },
     {
       "surface": "לבוא",
-      "gloss": "⟨la⟩ entrada"
+      "gloss": "la entrada de"
     },
     {
       "surface": "חמת",
@@ -61,56 +59,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "el arca"
+      "marks": "el Arón de Ha-Elohim"
     },
     {
       "surface": "ארון",
-      "gloss": "Arón"
+      "gloss": "el Arón"
     },
     {
       "surface": "האלהים",
-      "gloss": "de Elohim"
+      "gloss": "de Ha-Elohim"
     },
     {
       "surface": "מקרית",
-      "gloss": "⟨de⟩"
+      "gloss": "de Qiryat"
     },
     {
       "surface": "יערים",
-      "gloss": "Quiriat-jearim"
+      "gloss": "Yearim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 4,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Egipto",
-      "to": "Mitzráyim",
-      "token-index": 7,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    },
-    {
-      "from": "arca",
-      "to": "Arón",
-      "token-index": 13,
-      "strongs": 727,
-      "hebrew": "ארון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:15:10.252135782Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 42,
   "ref": "numbers 3:42",
   "book": "numbers",
-  "chapter": 3,
-  "verse": 42,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:56:39.164109958Z",
-  "translation": "Y Moshé numeró ⟨como⟩ ⟨el⟩ que YHWH ⟨le⟩ ordenó ⟨a⟩ todo primogénito ⟨entre⟩ los hijos de Yisrael",
+  "chapter": 3,
+  "translation": "Y Moshé contó, como YHWH le había ordenado ⟨את⟩, ⟨את⟩ a todo primogénito entre ⟨los⟩ hijos de Yisrael.",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "Y numeró"
+      "gloss": "Y contó"
     },
     {
       "surface": "משה",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "⟨como⟩"
+      "gloss": "como"
     },
     {
       "surface": "צוה",
-      "gloss": "ordenó"
+      "gloss": "había ordenado"
     },
     {
       "surface": "יהוה",
@@ -31,16 +29,17 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩"
+      "gloss": "⟨את⟩",
+      "marks": "él (a él)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todo primogénito ⟨entre⟩ los hijos de Yisrael"
+      "marks": "a todo primogénito"
     },
     {
       "surface": "כל",
-      "gloss": "todo"
+      "gloss": "a todo"
     },
     {
       "surface": "בכר",
@@ -48,11 +47,13 @@
     },
     {
       "surface": "בבני",
-      "gloss": "⟨entre⟩ los hijos"
+      "gloss": "entre los hijos"
     },
     {
       "surface": "ישראל",
       "gloss": "de Yisrael"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:30:53.319054731Z",
+  "model": "glm-5.2"
 }

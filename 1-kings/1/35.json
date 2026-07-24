@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 35,
   "ref": "1-kings 1:35",
   "book": "1-kings",
-  "chapter": 1,
-  "verse": 35,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:44:03.225877312Z",
-  "translation": "Y subiréis ⟨después⟩ ⟨de⟩ él y entrará y se sentará ⟨sobre⟩ mi trono ⟨y⟩ él reinará ⟨en⟩ mi lugar ⟨y⟩ ⟨a⟩ él ⟨he⟩ ordenado ⟨para⟩ ⟨que⟩ ⟨sea⟩ gobernante ⟨sobre⟩ Yisrael ⟨y⟩ ⟨sobre⟩ Yehudá",
+  "chapter": 1,
+  "translation": "Y subiréis tras ⟨de⟩ él, y ⟨él⟩ vendrá y se sentará sobre mi trono, y ⟨él⟩ reinará en mi lugar; y a ⟨את⟩ él he mandado ⟨que⟩ ser naguid sobre Yisrael y sobre Yehudá.",
   "tokens": [
     {
       "surface": "ועליתם",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "⟨después⟩ ⟨de⟩ él"
+      "gloss": "tras de él"
     },
     {
       "surface": "ובא",
-      "gloss": "y entrará"
+      "gloss": "y vendrá"
     },
     {
       "surface": "וישב",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨sobre⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "כסאי",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "⟨y⟩ él"
+      "gloss": "y ⟨él⟩"
     },
     {
       "surface": "ימלך",
@@ -43,28 +41,28 @@
     },
     {
       "surface": "תחתי",
-      "gloss": "⟨en⟩ mi lugar"
+      "gloss": "en mi lugar"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨y⟩ ⟨a⟩ él",
-      "marks": "⟨he⟩ ordenado"
+      "gloss": "⟨את⟩ a él",
+      "marks": "él (objeto directo)"
     },
     {
       "surface": "צויתי",
-      "gloss": "⟨he⟩ ordenado"
+      "gloss": "he mandado"
     },
     {
       "surface": "להיות",
-      "gloss": "⟨para⟩ ⟨que⟩ ⟨sea⟩"
+      "gloss": "ser"
     },
     {
       "surface": "נגיד",
-      "gloss": "gobernante"
+      "gloss": "naguid (príncipe)"
     },
     {
       "surface": "על",
-      "gloss": "⟨sobre⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "ישראל",
@@ -72,30 +70,13 @@
     },
     {
       "surface": "ועל",
-      "gloss": "⟨y⟩ ⟨sobre⟩"
+      "gloss": "y sobre"
     },
     {
       "surface": "יהודה",
       "gloss": "Yehudá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 14,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 16,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:19:47.465378281Z",
+  "model": "glm-5.2"
 }

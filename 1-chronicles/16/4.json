@@ -1,37 +1,35 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "1-chronicles 16:4",
   "book": "1-chronicles",
-  "chapter": 16,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:45:02.056047987Z",
-  "translation": "Y puso ⟨את⟩ ante Arón de YHWH ⟨el⟩ de los levitas ministros para recordar y para dar gracias y para alabar a YHWH, Elohim de Yisrael",
+  "chapter": 16,
+  "translation": "Y puso delante del Arón de YHWH, de entre los levítas, ministros, ⟨los apartó⟩ para hacer memorial, y para dar gracias, y para alabar a YHWH, Elohim de Yisrael.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Y puso"
+      "gloss": "y puso"
     },
     {
       "surface": "לפני",
-      "gloss": "ante"
+      "gloss": "delante de"
     },
     {
       "surface": "ארון",
-      "gloss": "Arón"
+      "gloss": "el Arón"
     },
     {
       "surface": "יהוה",
-      "gloss": "de YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מן",
-      "gloss": "⟨el⟩"
+      "gloss": "de entre"
     },
     {
       "surface": "הלוים",
-      "gloss": "de los levitas"
+      "gloss": "los levítas"
     },
     {
       "surface": "משרתים",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "ולהזכיר",
-      "gloss": "para recordar"
+      "gloss": "y para hacer memorial"
     },
     {
       "surface": "ולהודות",
@@ -55,30 +53,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "el arca",
-      "to": "Arón",
-      "token-index": 2,
-      "strongs": 727,
-      "hebrew": "ארון"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 12,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:15:22.903799602Z",
+  "model": "glm-5.2"
 }

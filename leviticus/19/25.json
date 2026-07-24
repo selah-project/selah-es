@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "leviticus 19:25",
   "book": "leviticus",
-  "chapter": 19,
-  "verse": 25,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:42:46.594386667Z",
-  "translation": "Y en el año quinto comeréis ⟨el⟩ fruto de él, para añadir para vosotros su aumento; Yo ⟨soy⟩ YHWH vuestro Elohim.",
+  "chapter": 19,
+  "translation": "Y en el año quinto comeréis ⟨את⟩ su fruto, para añadiros ⟨a vosotros⟩ su producto. Yo ⟨soy⟩ YHWH vuestro Elohim.",
   "tokens": [
     {
       "surface": "ובשנה",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "החמישת",
-      "gloss": "quinto"
+      "gloss": "el quinto"
     },
     {
       "surface": "תאכלו",
@@ -24,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "el fruto de él"
+      "marks": "su fruto"
     },
     {
       "surface": "פריו",
-      "gloss": "fruto de él"
+      "gloss": "su fruto"
     },
     {
       "surface": "להוסיף",
@@ -36,11 +34,11 @@
     },
     {
       "surface": "לכם",
-      "gloss": "para vosotros"
+      "gloss": "a vosotros"
     },
     {
       "surface": "תבואתו",
-      "gloss": "su aumento"
+      "gloss": "su producto"
     },
     {
       "surface": "אני",
@@ -54,5 +52,7 @@
       "surface": "אלהיכם",
       "gloss": "vuestro Elohim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:25:40.322448785Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "isaiah 43:22",
   "book": "isaiah",
-  "chapter": 43,
-  "verse": 22,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-10T02:48:16.720126617Z",
-  "translation": "Y no ⟨es⟩ ⟨el⟩ a quién llamaste, Yaakov, porque te cansaste de mí, Yisrael",
+  "chapter": 43,
+  "translation": "Y no ⟨a⟩ mí llamaste, Yaakov, ⟨sino que⟩ de mí te fatigaste, Yisrael.",
   "tokens": [
     {
       "surface": "ולא",
@@ -15,8 +13,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨es⟩ ⟨el⟩ a quién",
-      "marks": "llamaste"
+      "gloss": "⟨את⟩",
+      "marks": "a mí"
     },
     {
       "surface": "קראת",
@@ -28,11 +26,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "⟨sino que⟩"
     },
     {
       "surface": "יגעת",
-      "gloss": "te cansaste"
+      "gloss": "te fatigaste"
     },
     {
       "surface": "בי",
@@ -42,5 +40,7 @@
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:33:46.841177916Z",
+  "model": "glm-5.2"
 }

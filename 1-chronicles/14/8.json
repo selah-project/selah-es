@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "1-chronicles 14:8",
   "book": "1-chronicles",
-  "chapter": 14,
-  "verse": 8,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:43:18.790064086Z",
-  "translation": "Y cuando los filisteos oyeron que Davidd ⟨fue⟩ ungido como rey sobre todo Yisrael, todos los filisteos subieron para buscar ⟨a⟩ Davidd; y Davidd ⟨lo⟩ oyó, y salió ⟨a⟩ ⟨enfrente de⟩ ellos",
+  "chapter": 14,
+  "translation": "Y oyeron los Pelishtim que David ⟨había sido⟩ ungido por rey sobre todo Yisrael, y subieron todos los Pelishtim para buscar ⟨את⟩ a David; y oyó David, y salió delante de ellos.",
   "tokens": [
     {
       "surface": "וישמעו",
-      "gloss": "Y cuando los filisteos oyeron"
+      "gloss": "Y oyieron"
     },
     {
       "surface": "פלשתים",
-      "gloss": "los filisteos"
+      "gloss": "los Pelishtim"
     },
     {
       "surface": "כי",
@@ -23,15 +21,15 @@
     },
     {
       "surface": "נמשח",
-      "gloss": "⟨fue⟩ ungido"
+      "gloss": "ungido"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "למלך",
-      "gloss": "como rey"
+      "gloss": "por rey"
     },
     {
       "surface": "על",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "todos los filisteos subieron"
+      "gloss": "y subieron"
     },
     {
       "surface": "כל",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "los filisteos"
+      "gloss": "los Pelishtim"
     },
     {
       "surface": "לבקש",
@@ -64,19 +62,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "David"
+      "marks": "a David"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "וישמע",
-      "gloss": "y David ⟨lo⟩ oyó"
+      "gloss": "y oyó"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "ויצא",
@@ -84,40 +82,9 @@
     },
     {
       "surface": "לפניהם",
-      "gloss": "⟨a⟩ ⟨enfrente de⟩ ellos"
+      "gloss": "delante de ellos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 4,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 8,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 14,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 16,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:15:09.399428156Z",
+  "model": "glm-5.2"
 }

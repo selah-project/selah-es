@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "numbers 17:21",
   "book": "numbers",
-  "chapter": 17,
-  "verse": 21,
   "lang": "es",
-  "tier": "glm-5.1",
-  "model": "glm-5.1",
-  "timestamp": "2026-06-13T03:07:16.189307879Z",
-  "translation": "Y Moshé habló a los hijos de Yisrael, y le dieron todos sus príncipes: vara por príncipe uno, vara por príncipe uno, por casa de sus padres — doce varas; y la vara de Aharón ⟨estaba⟩ en medio de sus varas.",
+  "chapter": 17,
+  "translation": "Y habló Moshé a los hijos de Yisrael, y dieron a él todos sus príncipes ⟨את⟩ vara por príncipe uno, ⟨את⟩ vara por príncipe uno, según ⟨la⟩ casa de sus padres: doce varas; y ⟨la⟩ vara de Aharón ⟨estaba⟩ en medio de sus varas.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "ויתנו",
-      "gloss": "y le dieron"
+      "gloss": "y dieron"
     },
     {
       "surface": "אליו",
@@ -47,7 +45,8 @@
     },
     {
       "surface": "מטה",
-      "gloss": "vara"
+      "gloss": "⟨את⟩",
+      "marks": "vara"
     },
     {
       "surface": "לנשיא",
@@ -59,7 +58,8 @@
     },
     {
       "surface": "מטה",
-      "gloss": "vara"
+      "gloss": "⟨את⟩",
+      "marks": "vara"
     },
     {
       "surface": "לנשיא",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "por casa de"
+      "gloss": "según ⟨la⟩ casa de"
     },
     {
       "surface": "אבתם",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "ומטה",
-      "gloss": "y la vara de"
+      "gloss": "y ⟨la⟩ vara de"
     },
     {
       "surface": "אהרן",
@@ -105,5 +105,7 @@
       "surface": "מטותם",
       "gloss": "sus varas"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:38:23.246854334Z",
+  "model": "glm-5.2"
 }

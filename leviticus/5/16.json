@@ -1,18 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "leviticus 5:16",
   "book": "leviticus",
-  "chapter": 5,
-  "verse": 16,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:34:26.514395131Z",
-  "translation": "Y ⟨את⟩ lo que pecó de ⟨lo⟩ santo restituirá, y ⟨את⟩ su quinta parte añadirá sobre él, y dará ⟨lo⟩ al kohen, y el kohen hará expiación sobre él con el carnero de ⟨la⟩ ofrenda por la culpa, y ⟨le⟩ será perdonado",
+  "chapter": 5,
+  "translation": "Y ⟨את⟩ lo que pecó ⟨de⟩ ⟨lo santo⟩ restituirá, y ⟨את⟩ su quinto añadirá sobre ello, y ⟨lo⟩ dará al Kohen; y el Kohen hará kapará sobre él con el carnero del Asham, y le será perdonado.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "Y ⟨את⟩",
-      "marks": "lo que pecó de ⟨lo⟩ santo"
+      "marks": "lo que pecó (lo que dañó en lo santo)"
     },
     {
       "surface": "אשר",
@@ -20,7 +18,7 @@
     },
     {
       "surface": "חטא",
-      "gloss": "pecó"
+      "gloss": "pecó (dañó)"
     },
     {
       "surface": "מן",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "⟨lo⟩ santo"
+      "gloss": "lo santo"
     },
     {
       "surface": "ישלם",
@@ -37,11 +35,11 @@
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "su quinta parte"
+      "marks": "su quinto"
     },
     {
       "surface": "חמישתו",
-      "gloss": "su quinta parte"
+      "gloss": "su quinto (una quinta parte)"
     },
     {
       "surface": "יוסף",
@@ -49,7 +47,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "sobre él"
+      "gloss": "sobre ello"
     },
     {
       "surface": "ונתן",
@@ -57,20 +55,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨lo⟩",
-      "marks": "al kohen"
+      "gloss": "⟨את⟩",
+      "marks": "al Kohen"
     },
     {
       "surface": "לכהן",
-      "gloss": "al kohen"
+      "gloss": "al Kohen"
     },
     {
       "surface": "והכהן",
-      "gloss": "y el kohen"
+      "gloss": "y el Kohen"
     },
     {
       "surface": "יכפר",
-      "gloss": "hará expiación"
+      "gloss": "hará kapará (expiará)"
     },
     {
       "surface": "עליו",
@@ -82,15 +80,17 @@
     },
     {
       "surface": "האשם",
-      "gloss": "de ⟨la⟩ ofrenda por la culpa"
+      "gloss": "del Asham"
     },
     {
       "surface": "ונסלח",
-      "gloss": "y ⟨le⟩ será perdonado"
+      "gloss": "y será perdonado"
     },
     {
       "surface": "לו",
-      "gloss": "⟨le⟩"
+      "gloss": "le (a él)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:18:42.092675737Z",
+  "model": "glm-5.2"
 }

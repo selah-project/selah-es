@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "2-kings 1:12",
   "book": "2-kings",
-  "chapter": 1,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T11:20:00.267642811Z",
-  "translation": "Y Eliyahu respondió y les ⟨dijo⟩: Si hombre de Elohim ⟨soy⟩, descenderá fuego de ⟨los⟩ cielos y consumirá ⟨a⟩ ti y ⟨a⟩ tus cincuenta, y descendió fuego de Elohim de ⟨los⟩ cielos y consumió ⟨a⟩ él y ⟨a⟩ sus cincuenta.",
+  "chapter": 1,
+  "translation": "Y respondió Eliyahu y habló a ellos: «Si hombre de ⟨el⟩ Elohim ⟨soy⟩ yo, descenderá fuego de los cielos y te devorará ⟨את⟩ a ti y ⟨את⟩ a tus cincuenta». Y descendió fuego de Elohim de los cielos, y lo devoró ⟨את⟩ a él y ⟨את⟩ a sus cincuenta.",
   "tokens": [
     {
       "surface": "ויען",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "y ⟨dijo⟩"
+      "gloss": "y habló"
     },
     {
       "surface": "אליהם",
-      "gloss": "y les"
+      "gloss": "a ellos"
     },
     {
       "surface": "אם",
@@ -35,11 +33,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "de Elohim"
+      "gloss": "del Elohim"
     },
     {
       "surface": "אני",
-      "gloss": "⟨soy⟩"
+      "gloss": "yo"
     },
     {
       "surface": "תרד",
@@ -55,29 +53,29 @@
     },
     {
       "surface": "השמים",
-      "gloss": "⟨los⟩ cielos"
+      "gloss": "los cielos"
     },
     {
       "surface": "ותאכל",
-      "gloss": "y consumirá"
+      "gloss": "y devorará"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨a⟩ ti",
-      "marks": "ואת"
+      "gloss": "⟨את⟩",
+      "marks": "a ti"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨a⟩",
-      "marks": "חמשיך"
+      "gloss": "⟨את⟩",
+      "marks": "a tus cincuenta"
     },
     {
       "surface": "חמשיך",
-      "gloss": "tus cincuenta"
+      "gloss": "y a tus cincuenta"
     },
     {
       "surface": "ותרד",
-      "gloss": "y descendió"
+      "gloss": "Y descendió"
     },
     {
       "surface": "אש",
@@ -93,37 +91,27 @@
     },
     {
       "surface": "השמים",
-      "gloss": "⟨los⟩ cielos"
+      "gloss": "los cielos"
     },
     {
       "surface": "ותאכל",
-      "gloss": "y consumió"
+      "gloss": "y devoró"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨a⟩ él",
-      "marks": "ואת"
+      "gloss": "⟨את⟩",
+      "marks": "a él"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨a⟩",
-      "marks": "חמשיו"
+      "gloss": "⟨את⟩",
+      "marks": "a sus cincuenta"
     },
     {
       "surface": "חמשיו",
-      "gloss": "sus cincuenta"
+      "gloss": "y a sus cincuenta"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Elías",
-      "to": "Eliyahu",
-      "token-index": 1,
-      "strongs": 452,
-      "hebrew": "אליהו"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:26:03.010487745Z",
+  "model": "glm-5.2"
 }

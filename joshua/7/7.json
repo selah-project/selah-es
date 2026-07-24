@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "joshua 7:7",
   "book": "joshua",
-  "chapter": 7,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:09:29.346963863Z",
-  "translation": "Y dijo Yehoshúa: ¡Ah! Adonai YHWH, ¿por qué ⟨has hecho⟩ pasar ⟨את⟩ este pueblo ⟨את⟩ el Yardén, para entregarnos en mano del emori para destruirnos? ¡Ojalá se hubiera complacido y nos hubiera quedado al otro lado del Yardén!",
+  "chapter": 7,
+  "translation": "Y Yehoshúa dijo: ¡Ah! Adonai YHWH, ¿por qué hiciste cruzar ⟨את⟩ a este pueblo ⟨את⟩ el Yardén, para entregarnos en mano del emori, para destruirnos? ¡Y si hubiéramos querido, nos habríamos quedado al otro lado del Yardén!",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -35,24 +33,24 @@
     },
     {
       "surface": "העברת",
-      "gloss": "⟨has hecho⟩ pasar"
+      "gloss": "hiciste cruzar"
     },
     {
       "surface": "העביר",
-      "gloss": "pasar"
+      "gloss": "para hacer cruzar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "este pueblo"
+      "marks": "a este pueblo"
     },
     {
       "surface": "העם",
-      "gloss": "este pueblo"
+      "gloss": "el pueblo"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "este"
     },
     {
       "surface": "את",
@@ -69,7 +67,8 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "nos"
+      "gloss": "⟨את⟩nos",
+      "marks": "a nosotros"
     },
     {
       "surface": "ביד",
@@ -85,15 +84,15 @@
     },
     {
       "surface": "ולו",
-      "gloss": "¡Ojalá"
+      "gloss": "¡Y si…!"
     },
     {
       "surface": "הואלנו",
-      "gloss": "se hubiera complacido"
+      "gloss": "hubiéramos querido"
     },
     {
       "surface": "ונשב",
-      "gloss": "y nos hubiera quedado"
+      "gloss": "nos habríamos quedado"
     },
     {
       "surface": "בעבר",
@@ -103,5 +102,7 @@
       "surface": "הירדן",
       "gloss": "del Yardén"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:02:14.831692603Z",
+  "model": "glm-5.2"
 }

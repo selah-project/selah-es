@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "exodus 31:18",
   "book": "exodus",
-  "chapter": 31,
-  "verse": 18,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T07:09:47.381556131Z",
-  "translation": "Y dio a Moshé cuando ⟨terminó⟩ de hablar con él en el Monte Sinái, dos tablas ⟨del⟩ testimonio, tablas de piedra, escritas con ⟨el⟩ dedo de Elohim.",
+  "chapter": 31,
+  "translation": "Y ⟨él⟩ dio a Moshé, al terminar ⟨él⟩ de hablar con él en el monte Sinai, dos tablas del testimonio: tablas de piedra, escritas por el dedo de Elohim.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Y dio"
+      "gloss": "y dio"
     },
     {
       "surface": "אל",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "ככלתו",
-      "gloss": "cuando ⟨terminó⟩"
+      "gloss": "al terminar"
     },
     {
       "surface": "לדבר",
@@ -35,11 +33,11 @@
     },
     {
       "surface": "בהר",
-      "gloss": "en el Monte"
+      "gloss": "en el monte"
     },
     {
       "surface": "סיני",
-      "gloss": "Sinái"
+      "gloss": "Sinai"
     },
     {
       "surface": "שני",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "⟨del⟩ testimonio"
+      "gloss": "del testimonio"
     },
     {
       "surface": "לחת",
@@ -67,23 +65,13 @@
     },
     {
       "surface": "באצבע",
-      "gloss": "con ⟨el⟩"
+      "gloss": "por el dedo de"
     },
     {
       "surface": "אלהים",
-      "gloss": "dedo de Elohim"
+      "gloss": "Elohim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Mosheh",
-      "to": "Moshé",
-      "token-index": 2,
-      "strongs": 4872,
-      "hebrew": "משה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:12:00.475538474Z",
+  "model": "glm-5.2"
 }

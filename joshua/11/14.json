@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "joshua 11:14",
   "book": "joshua",
-  "chapter": 11,
-  "verse": 14,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:12:23.373705429Z",
-  "translation": "Y todo el botín de estas ciudades y el ganado, los hijos de Yisrael lo saquearon para sí; ⟨solo⟩ ⟨a⟩ todo ⟨el⟩ adam ⟨lo⟩ hirieron ⟨a⟩ filo de espada hasta destruirlos; no dejaron ninguna néshamá.",
+  "chapter": 11,
+  "translation": "Y todo el botín de estas ciudades y ⟨la⟩ bestia, saquearon para sí los hijos de Yisrael; solo a ⟨את⟩ todo ⟨el⟩ humano hirieron a filo de espada hasta exterminarlos ⟨את⟩. ⟨Ellos⟩ no dejaron ⟨con vida⟩ a todo ⟨el que tuviera⟩ aliento.",
   "tokens": [
     {
       "surface": "וכל",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "והבהמה",
-      "gloss": "y el ganado"
+      "gloss": "y ⟨la⟩ bestia"
     },
     {
       "surface": "בזזו",
-      "gloss": "lo saquearon"
+      "gloss": "saquearon"
     },
     {
       "surface": "להם",
@@ -39,20 +37,20 @@
     },
     {
       "surface": "בני",
-      "gloss": "los hijos de"
+      "gloss": "los hijos"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "רק",
-      "gloss": "⟨solo⟩"
+      "gloss": "solo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todo el adam"
+      "marks": "a todo ⟨el⟩ humano"
     },
     {
       "surface": "כל",
@@ -60,15 +58,15 @@
     },
     {
       "surface": "האדם",
-      "gloss": "⟨el⟩ adam"
+      "gloss": "⟨el⟩ humano"
     },
     {
       "surface": "הכו",
-      "gloss": "⟨lo⟩ hirieron"
+      "gloss": "hirieron"
     },
     {
       "surface": "לפי",
-      "gloss": "⟨a⟩ filo de"
+      "gloss": "a filo de"
     },
     {
       "surface": "חרב",
@@ -80,12 +78,12 @@
     },
     {
       "surface": "השמדם",
-      "gloss": "destruirlos"
+      "gloss": "exterminarlos"
     },
     {
       "surface": "אותם",
-      "gloss": "",
-      "marks": "no"
+      "gloss": "⟨את⟩",
+      "marks": "a ellos"
     },
     {
       "surface": "לא",
@@ -97,11 +95,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "ninguna"
+      "gloss": "a todo"
     },
     {
       "surface": "נשמה",
-      "gloss": "néshamá"
+      "gloss": "⟨el que tuviera⟩ aliento"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:03:06.489062125Z",
+  "model": "glm-5.2"
 }

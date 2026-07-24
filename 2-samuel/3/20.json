@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "2-samuel 3:20",
   "book": "2-samuel",
-  "chapter": 3,
-  "verse": 20,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:18:23.267223002Z",
-  "translation": "Y vino Abner a Davidd ⟨a⟩ Jevrón, y ⟨con⟩ él veinte hombres; e hizo Davidd ⟨un⟩ banquete ⟨para⟩ Abner y ⟨para⟩ los hombres que ⟨estaban⟩ ⟨con⟩ él.",
+  "chapter": 3,
+  "translation": "Y vino Avner hacia David en Jevrón, y con él veinte hombres; e hizo David para Avner y para los hombres que ⟨estaban⟩ con él, ⟨un⟩ banquete.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -15,23 +13,23 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Abner"
+      "gloss": "Avner"
     },
     {
       "surface": "אל",
-      "gloss": "a"
+      "gloss": "hacia"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "חברון",
-      "gloss": "Jevrón"
+      "gloss": "en Jevrón"
     },
     {
       "surface": "ואתו",
-      "gloss": "y ⟨con⟩ él"
+      "gloss": "y con él"
     },
     {
       "surface": "עשרים",
@@ -47,15 +45,15 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "לאבנר",
-      "gloss": "⟨un⟩ banquete ⟨para⟩ Abner"
+      "gloss": "para Avner"
     },
     {
       "surface": "ולאנשים",
-      "gloss": "y ⟨para⟩ los hombres"
+      "gloss": "y para los hombres"
     },
     {
       "surface": "אשר",
@@ -63,37 +61,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨estaban⟩ ⟨con⟩ él"
+      "gloss": "con él"
     },
     {
       "surface": "משתה",
-      "gloss": "banquete"
+      "gloss": "⟨un⟩ banquete"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 3,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Hebrón",
-      "to": "Jevrón",
-      "token-index": 4,
-      "strongs": 2275,
-      "hebrew": "חברון"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 9,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:15:10.109652535Z",
+  "model": "glm-5.2"
 }

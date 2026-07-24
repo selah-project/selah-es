@@ -1,50 +1,43 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "psalms 59:1",
   "book": "psalms",
-  "chapter": 59,
-  "verse": 1,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:32:27.184083458Z",
-  "translation": "Para el Director. No ⟨lo⟩ destruyas. ⟨Un⟩ Miktam de David. Cuando Shaúl envió y acecharon la casa para matarlo. Líbrame de mis enemigos, Elohim mío; de los que se levantan contra me defiende ⟨en⟩ alto.",
+  "chapter": 59,
+  "translation": "Al que da victoria: «No destruyas». De David. Mikhtam — cuando Shaúl ⟨lo⟩ envió y ellos vigilaban ⟨את⟩ la casa para matarlo.",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "Para el Director"
+      "gloss": "Al que da victoria"
     },
     {
       "surface": "אל",
-      "gloss": "No ⟨lo⟩ destruyas",
-      "rationale": "Hebreo: אל תשחת (Al tashjet). Título o instrucción musical, también citado en Is 65:8. Literalmente 'No destruyas'. Se traduce como frase completa."
+      "gloss": "No"
     },
     {
       "surface": "תשחת",
-      "gloss": "destruyas",
-      "rationale": "Verbo en negación (precedido por אל). Parte de la instrucción musical 'Al Tashjet'."
+      "gloss": "destruyas"
     },
     {
       "surface": "לדוד",
-      "gloss": "⟨Un⟩ Miktam de David"
+      "gloss": "De David"
     },
     {
       "surface": "מכתם",
-      "gloss": "Miktam",
-      "rationale": "Término técnico de uncertain etimología, probablemente 'poema' o 'grabado' (como en el nombre del salmo 16). Se deja transliterado."
+      "gloss": "Mikhtam"
     },
     {
       "surface": "בשלח",
-      "gloss": "Cuando Shaúl envió"
+      "gloss": "cuando envió"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaúl",
-      "rationale": "Rey Shaúl, primer rey de Israel, perseguidor de David. Nombre canónico: Shaúl."
+      "gloss": "Shaúl"
     },
     {
       "surface": "וישמרו",
-      "gloss": "y acecharon",
-      "rationale": "Literalmente 'y guardaron', pero aquí en el sentido de 'montar guardia', 'acechar' o 'sitiar' la casa (como en Gn 37:24)."
+      "gloss": "y ellos vigilaban"
     },
     {
       "surface": "את",
@@ -59,5 +52,7 @@
       "surface": "להמיתו",
       "gloss": "para matarlo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:57:36.261208974Z",
+  "model": "glm-5.2"
 }

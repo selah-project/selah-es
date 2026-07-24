@@ -1,53 +1,51 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "2-samuel 13:23",
   "book": "2-samuel",
-  "chapter": 13,
-  "verse": 23,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:27:57.092999065Z",
-  "translation": "Y aconteció después de dos años enteros, que Absalom tenía ⟨esquiladores⟩ en Baal-hazor, ⟨que está⟩ junto a Efráyim; y Absalom invitó a todos los hijos del rey.",
+  "chapter": 13,
+  "translation": "Y sucedió, al cabo de ⟨dos⟩ años de días, que ⟨había⟩ esquiladores para Avshalom en Baal-Jatzor, que ⟨está⟩ junto a Efráyim; y Avshalom llamó a todos los benéi del rey.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Y aconteció"
+      "gloss": "Y sucedió"
     },
     {
       "surface": "לשנתים",
-      "gloss": "después de dos años enteros"
+      "gloss": "al cabo de ⟨dos⟩ años"
     },
     {
       "surface": "ימים",
-      "gloss": ""
+      "gloss": "de días"
     },
     {
-      "surface": "והיהו",
-      "gloss": "que Absalom tenía"
+      "surface": "ויהיו",
+      "gloss": "que ⟨había⟩"
     },
     {
       "surface": "גזזים",
-      "gloss": "⟨esquiladores⟩"
+      "gloss": "esquiladores"
     },
     {
       "surface": "לאבשלום",
-      "gloss": ""
+      "gloss": "para Avshalom"
     },
     {
       "surface": "בבעל",
-      "gloss": "en Baal-hazor"
+      "gloss": "en Baal-"
     },
     {
       "surface": "חצור",
-      "gloss": ""
+      "gloss": "Jatzor"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que está⟩"
+      "gloss": "que"
     },
     {
       "surface": "עם",
-      "gloss": "junto a"
+      "gloss": "⟨está⟩ junto a"
     },
     {
       "surface": "אפרים",
@@ -55,11 +53,11 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "y Absalom invitó"
+      "gloss": "y llamó"
     },
     {
       "surface": "אבשלום",
-      "gloss": ""
+      "gloss": "Avshalom"
     },
     {
       "surface": "לכל",
@@ -67,23 +65,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "los hijos"
+      "gloss": "los benéi"
     },
     {
       "surface": "המלך",
       "gloss": "del rey"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Efraín",
-      "to": "Efráyim",
-      "token-index": 10,
-      "strongs": 669,
-      "hebrew": "אפרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:17:07.299417420Z",
+  "model": "glm-5.2"
 }

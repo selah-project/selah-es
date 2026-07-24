@@ -1,40 +1,38 @@
 {
+  "tier": "glm-5.2",
+  "verse": 35,
   "ref": "numbers 21:35",
   "book": "numbers",
-  "chapter": 21,
-  "verse": 35,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:08:36.402761751Z",
-  "translation": "Y lo hirieron a ⟨él⟩, ⟨את⟩ sus hijos y ⟨את⟩ todo su pueblo, hasta ⟨que⟩ no le quedara ⟨un⟩ sobreviviente, y poseyeron ⟨את⟩ su tierra",
+  "chapter": 21,
+  "translation": "Y los hirieron ⟨a él⟩ y ⟨⟨את⟩⟩ a sus hijos y ⟨⟨את⟩⟩ a todo su pueblo, hasta no dejarle sobreviviente, y poseyeron ⟨⟨את⟩⟩ su tierra.",
   "tokens": [
     {
       "surface": "ויכו",
-      "gloss": "Y lo hirieron"
+      "gloss": "Y los hirieron"
     },
     {
       "surface": "אתו",
-      "gloss": "a ⟨él⟩",
-      "marks": "ואת"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "בניו"
-    },
-    {
-      "surface": "בניו",
-      "gloss": "sus hijos"
+      "gloss": "⟨a él⟩",
+      "marks": "a él (Og)"
     },
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "כל"
+      "marks": "a sus hijos"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a sus hijos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "y ⟨את⟩",
+      "marks": "a todo su pueblo"
     },
     {
       "surface": "כל",
-      "gloss": "todo"
+      "gloss": "a todo"
     },
     {
       "surface": "עמו",
@@ -46,11 +44,11 @@
     },
     {
       "surface": "בלתי",
-      "gloss": "⟨que⟩ no"
+      "gloss": "no"
     },
     {
       "surface": "השאיר",
-      "gloss": "quedara"
+      "gloss": "dejar"
     },
     {
       "surface": "לו",
@@ -58,7 +56,7 @@
     },
     {
       "surface": "שריד",
-      "gloss": "⟨un⟩ sobreviviente"
+      "gloss": "sobreviviente"
     },
     {
       "surface": "ויירשו",
@@ -67,11 +65,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ארצו"
+      "marks": "su tierra"
     },
     {
       "surface": "ארצו",
       "gloss": "su tierra"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:40:23.502344940Z",
+  "model": "glm-5.2"
 }

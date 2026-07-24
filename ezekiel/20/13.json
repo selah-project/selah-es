@@ -1,37 +1,35 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "ezekiel 20:13",
   "book": "ezekiel",
-  "chapter": 20,
-  "verse": 13,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T12:28:06.511362290Z",
-  "translation": "Y ⟨es⟩ la casa de Yisrael ⟨la⟩ que se rebeló contra mí en el desierto: en mis estatutos no caminaron, y ⟨el⟩ mis juicios despreciaron, ⟨que si⟩ ⟨el⟩ hombre hace ⟨y⟩ vive en ellos; y ⟨el⟩ mis Shabbats profanaron gravemente. Y ⟨dije⟩ para derramar mi furia sobre ellos en el desierto, para consumirlos.",
+  "chapter": 20,
+  "translation": "Y se rebelaron contra mí ⟨la⟩ casa de Yisrael en el midbar; en mis jukim no caminaron, y ⟨את⟩ mis mishpatim desecharon — los cuales hará ⟨el⟩ hombre y vivirá por ellos — y ⟨את⟩ mis Shabbatot profanaron en gran manera. Y dije: derramar mi furia sobre ellos en el midbar, para consumirlos.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "Y ⟨es⟩"
+      "gloss": "Y se rebelaron"
     },
     {
       "surface": "בי",
-      "gloss": "⟨la⟩ que se rebeló"
+      "gloss": "contra mí"
     },
     {
       "surface": "בית",
-      "gloss": "casa"
+      "gloss": "casa de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "במדבר",
-      "gloss": "en el desierto"
+      "gloss": "en el midbar"
     },
     {
       "surface": "בחקותי",
-      "gloss": "en mis estatutos"
+      "gloss": "en mis jukim"
     },
     {
       "surface": "לא",
@@ -43,50 +41,50 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨el⟩",
-      "marks": "mis juicios"
+      "gloss": "⟨את⟩",
+      "marks": "mis mishpatim"
     },
     {
       "surface": "משפטי",
-      "gloss": "mis juicios"
+      "gloss": "mis mishpatim"
     },
     {
       "surface": "מאסו",
-      "gloss": "despreciaron"
+      "gloss": "desecharon"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que si⟩"
+      "gloss": "los cuales"
     },
     {
       "surface": "יעשה",
-      "gloss": "⟨el⟩ hombre hace"
+      "gloss": "hará"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨y⟩",
-      "marks": "mis sábados"
+      "gloss": "⟨את⟩",
+      "marks": "el hombre"
     },
     {
       "surface": "האדם",
-      "gloss": "hombre"
+      "gloss": "el hombre"
     },
     {
       "surface": "וחי",
-      "gloss": "y vive"
+      "gloss": "y vivirá"
     },
     {
       "surface": "בהם",
-      "gloss": "en ellos"
+      "gloss": "por ellos"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨el⟩",
-      "marks": "mis sábados"
+      "gloss": "⟨את⟩",
+      "marks": "mis Shabbatot"
     },
     {
       "surface": "שבתתי",
-      "gloss": "mis Shabbats"
+      "gloss": "mis Shabbatot"
     },
     {
       "surface": "חללו",
@@ -94,15 +92,15 @@
     },
     {
       "surface": "מאד",
-      "gloss": "gravemente"
+      "gloss": "en gran manera"
     },
     {
       "surface": "ואמר",
-      "gloss": "Y ⟨dije⟩"
+      "gloss": "Y dije"
     },
     {
       "surface": "לשפך",
-      "gloss": "para derramar"
+      "gloss": "derramar"
     },
     {
       "surface": "חמתי",
@@ -114,30 +112,13 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "en el desierto"
+      "gloss": "en el midbar"
     },
     {
       "surface": "לכלותם",
       "gloss": "para consumirlos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "sábado",
-      "to": "Shabbat",
-      "token-index": 18,
-      "strongs": 7676,
-      "hebrew": "שבת"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:46:38.846393531Z",
+  "model": "glm-5.2"
 }

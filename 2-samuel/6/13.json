@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "2-samuel 6:13",
   "book": "2-samuel",
-  "chapter": 6,
-  "verse": 13,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:20:50.518127964Z",
-  "translation": "Y sucedió que cuando los que llevaban ⟨את⟩ Arón de YHWH habían avanzado seis pasos, él sacrificó ⟨un⟩ buey y ⟨un⟩ animal cebado.",
+  "chapter": 6,
+  "translation": "Y sucedió que cuando los que llevaban el Arón de YHWH ⟨hubieron⟩ avanzado seis pasos, sacrificó un toro ⟨y⟩ un animal engordado.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Y sucedió que"
+      "gloss": "Y sucedió"
     },
     {
       "surface": "כי",
-      "gloss": "que cuando"
+      "gloss": "cuando"
     },
     {
       "surface": "צעדו",
-      "gloss": "habían avanzado"
+      "gloss": "avanzaron"
     },
     {
       "surface": "נשאי",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "ארון",
-      "gloss": "Arón"
+      "gloss": "el Arón"
     },
     {
       "surface": "יהוה",
@@ -43,27 +41,17 @@
     },
     {
       "surface": "ויזבח",
-      "gloss": "él sacrificó"
+      "gloss": "sacrificó"
     },
     {
       "surface": "שור",
-      "gloss": "buey"
+      "gloss": "un toro"
     },
     {
       "surface": "ומריא",
-      "gloss": "y animal cebado"
+      "gloss": "y un animal engordado"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "el arca",
-      "to": "Arón",
-      "token-index": 4,
-      "strongs": 727,
-      "hebrew": "ארון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:15:47.574986754Z",
+  "model": "glm-5.2"
 }

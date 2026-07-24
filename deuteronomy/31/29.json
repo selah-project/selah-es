@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "deuteronomy 31:29",
   "book": "deuteronomy",
-  "chapter": 31,
-  "verse": 29,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:59:31.622346527Z",
-  "translation": "Porque yo sé ⟨que⟩ después de mi muerte ciertamente ⟨os⟩ corromperéis y ⟨os⟩ apartaréis del camino que ⟨את⟩ yo os he mandado, y el mal os sucederá en el fin de los días, porque haréis ⟨את⟩ lo malo ante los ojos de YHWH para provocarlo a ira con ⟨את⟩ la obra de vuestras manos",
+  "chapter": 31,
+  "translation": "Porque yo sé que después de mi muerte ⟨ustedes⟩ ciertamente se corromperán y se apartarán del camino que les he mandado, y ⟨la⟩ desgracia les alcanzará en ⟨los⟩ postreros días, porque harán ⟨את⟩ lo malo ante los ojos de YHWH, para provocarlo a ira con la obra de sus manos.",
   "tokens": [
     {
       "surface": "כי",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨que⟩"
+      "gloss": "que"
     },
     {
       "surface": "השחת",
@@ -35,11 +33,11 @@
     },
     {
       "surface": "תשחתון",
-      "gloss": "⟨os⟩ corromperéis"
+      "gloss": "se corromperán"
     },
     {
       "surface": "וסרתם",
-      "gloss": "y ⟨os⟩ apartaréis"
+      "gloss": "y se apartarán"
     },
     {
       "surface": "מן",
@@ -55,33 +53,33 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "⟨את⟩ yo os he mandado"
+      "gloss": "les he mandado"
     },
     {
       "surface": "אתכם",
-      "gloss": "",
-      "marks": "yo os he mandado"
+      "gloss": "⟨את⟩ a ustedes",
+      "marks": "objeto: ustedes"
     },
     {
       "surface": "וקראת",
-      "gloss": "y el mal os sucederá"
+      "gloss": "y alcanzará"
     },
     {
       "surface": "אתכם",
-      "gloss": "",
-      "marks": "el mal"
+      "gloss": "⟨את⟩ a ustedes",
+      "marks": "objeto: a ustedes"
     },
     {
       "surface": "הרעה",
-      "gloss": ""
+      "gloss": "la desgracia"
     },
     {
       "surface": "באחרית",
-      "gloss": "en el fin de"
+      "gloss": "en postreros"
     },
     {
       "surface": "הימים",
-      "gloss": "los días"
+      "gloss": "días"
     },
     {
       "surface": "כי",
@@ -89,12 +87,12 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "haréis"
+      "gloss": "harán"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lo malo"
+      "marks": "lo malo (הרע)"
     },
     {
       "surface": "הרע",
@@ -102,11 +100,11 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "ante los ojos de"
+      "gloss": "ante los ojos"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "להכעיסו",
@@ -114,11 +112,13 @@
     },
     {
       "surface": "במעשה",
-      "gloss": "con ⟨את⟩ la obra"
+      "gloss": "con la obra"
     },
     {
       "surface": "ידיכם",
-      "gloss": "de vuestras manos"
+      "gloss": "de sus manos"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:00:44.111968037Z",
+  "model": "glm-5.2"
 }

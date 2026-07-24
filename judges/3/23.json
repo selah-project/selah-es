@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "judges 3:23",
   "book": "judges",
-  "chapter": 3,
-  "verse": 23,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:21:08.146510637Z",
-  "translation": "Y Ehud salió por el vestíbulo y cerró las puertas de la sala alta sobre ⟨él⟩ y las cerró con llave",
+  "chapter": 3,
+  "translation": "Y Ehud salió por el vestíbulo, y cerró las puertas de la cámara superior ⟨sobre⟩ él, ⟨y⟩ ⟨las⟩ cerró con llave.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -22,29 +20,26 @@
       "gloss": "por el vestíbulo"
     },
     {
-      "surface": "ואיסגר",
+      "surface": "ויסגר",
       "gloss": "y cerró"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "las puertas de la sala alta"
-    },
-    {
       "surface": "דלתות",
-      "gloss": "las puertas"
+      "gloss": "las puertas de"
     },
     {
       "surface": "העליה",
-      "gloss": "de la sala alta"
+      "gloss": "la cámara superior"
     },
     {
       "surface": "בעדו",
-      "gloss": "sobre ⟨él⟩"
+      "gloss": "sobre él"
     },
     {
       "surface": "ונעל",
-      "gloss": "y las cerró con llave"
+      "gloss": "y cerró con llave"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:06:22.400551655Z",
+  "model": "glm-5.2"
 }

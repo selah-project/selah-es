@@ -1,85 +1,73 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "1-samuel 13:19",
   "book": "1-samuel",
-  "chapter": 13,
-  "verse": 19,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:56:09.030439847Z",
-  "translation": "Y no ⟨se halló⟩ herrero ⟨את⟩ en toda ⟨la⟩ tierra ⟨de⟩ Yisrael, porque dijeron ⟨los⟩ filisteos: '⟨para que⟩ ⟨los⟩ hebreos no hagan espada ⟨o⟩ lanza'",
+  "chapter": 13,
+  "translation": "Y ⟨un herrero⟩ no se hallaba en toda ⟨la⟩ tierra de Yisrael, porque ⟨los⟩ Pelishtim habían dicho: «No sea que los hebreos hagan espada o lanza».",
   "tokens": [
     {
-      "surface": "וחרש",
+      "surface": "וְחָרָשׁ",
       "gloss": "Y herrero"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "no"
     },
     {
-      "surface": "ימצא",
-      "gloss": "⟨se halló⟩"
+      "surface": "יִמָּצֵא",
+      "gloss": "se hallaba"
     },
     {
-      "surface": "בכל",
+      "surface": "בְּכֹל",
       "gloss": "en toda"
     },
     {
-      "surface": "ארץ",
-      "gloss": "⟨la⟩ tierra"
+      "surface": "אֶרֶץ",
+      "gloss": "tierra de"
     },
     {
-      "surface": "ישראל",
-      "gloss": "⟨de⟩ Yisrael"
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "porque"
     },
     {
       "surface": "אמר",
-      "gloss": "dijeron"
+      "gloss": "habían dicho"
     },
     {
-      "surface": "פלשתים",
-      "gloss": "⟨los⟩ filisteos"
+      "surface": "פְלִשְׁתִּים",
+      "gloss": "los Pelishtim"
     },
     {
-      "surface": "פן",
-      "gloss": "'⟨para que⟩"
+      "surface": "פֶּן",
+      "gloss": "no sea que"
     },
     {
-      "surface": "יעשו",
-      "gloss": "⟨los⟩ hebreos no hagan"
+      "surface": "יַעֲשׂוּ",
+      "gloss": "hagan"
     },
     {
-      "surface": "העברים",
-      "gloss": "⟨los⟩ hebreos"
+      "surface": "הָעִבְרִים",
+      "gloss": "los hebreos"
     },
     {
-      "surface": "חרב",
+      "surface": "חֶרֶב",
       "gloss": "espada"
     },
     {
-      "surface": "או",
-      "gloss": "⟨o⟩"
+      "surface": "אוֹ",
+      "gloss": "o"
     },
     {
-      "surface": "חנית",
+      "surface": "חֲנִית",
       "gloss": "lanza"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 5,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:11:34.138008674Z",
+  "model": "glm-5.2"
 }

@@ -1,29 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 51,
   "ref": "exodus 12:51",
   "book": "exodus",
-  "chapter": 12,
-  "verse": 51,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T06:38:54.961362203Z",
-  "translation": "Y aconteció en ⟨el⟩ día mismo, en este día, sacó HaShem ⟨a⟩ los hijos de Yisrael de ⟨la⟩ tierra de Mitzráyim sobre sus ejércitos.",
+  "chapter": 12,
+  "translation": "Y sucedió en el mismísimo día ⟨este⟩: YHWH sacó ⟨את⟩ a los hijos de Yisrael de la tierra de Mitzráyim, según sus escuadrones.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Y aconteció"
+      "gloss": "Y sucedió"
     },
     {
       "surface": "בעצם",
-      "gloss": "en ⟨el⟩"
+      "gloss": "en el mismísimo"
     },
     {
       "surface": "היום",
-      "gloss": "día mismo"
+      "gloss": "día"
     },
     {
       "surface": "הזה",
-      "gloss": "en este día"
+      "gloss": "⟨este⟩"
     },
     {
       "surface": "הוציא",
@@ -36,50 +34,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "los hijos de Israel"
+      "marks": "a los hijos de Yisrael"
     },
     {
       "surface": "בני",
-      "gloss": "los hijos de Israel"
+      "gloss": "a los hijos"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "מארץ",
-      "gloss": "de ⟨la⟩"
+      "gloss": "de la tierra"
     },
     {
       "surface": "מצרים",
-      "gloss": "tierra de Mitzráyim"
+      "gloss": "de Mitzráyim"
     },
     {
       "surface": "על",
-      "gloss": "sobre"
+      "gloss": "según"
     },
     {
       "surface": "צבאתם",
-      "gloss": "sus ejércitos"
+      "gloss": "sus escuadrones"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 8,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Egipto",
-      "to": "Mitzráyim",
-      "token-index": 10,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:05:10.268208688Z",
+  "model": "glm-5.2"
 }

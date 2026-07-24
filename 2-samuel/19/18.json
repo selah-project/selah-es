@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "2-samuel 19:18",
   "book": "2-samuel",
-  "chapter": 19,
-  "verse": 18,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:35:53.984599155Z",
-  "translation": "y un millar de hombres con él ⟨de⟩ Benjamín y Zibá ⟨un⟩ muchacho ⟨de la⟩ casa ⟨de⟩ Shaúl y quince ⟨de sus⟩ hijos y veinte ⟨de sus⟩ siervos con él y cruzaron el Jordán ante el rey",
+  "chapter": 19,
+  "translation": "Y mil hombres de Binyamín ⟨estaban⟩ con él, y Tzivá, ⟨el⟩ servidor de la casa de Shaúl, y quince de sus hijos y veinte de sus siervos con él; y cruzaron el Yardén delante del rey.",
   "tokens": [
     {
       "surface": "ואלף",
-      "gloss": "Y un millar"
+      "gloss": "Y mil"
     },
     {
       "surface": "איש",
-      "gloss": "de hombres"
+      "gloss": "hombres de"
     },
     {
       "surface": "עמו",
@@ -23,23 +21,23 @@
     },
     {
       "surface": "מבנימן",
-      "gloss": "⟨de⟩ Benjamín"
+      "gloss": "Binyamín"
     },
     {
       "surface": "וציבא",
-      "gloss": "y Zibá"
+      "gloss": "y Tzivá"
     },
     {
       "surface": "נער",
-      "gloss": "⟨un⟩ muchacho"
+      "gloss": "⟨el⟩ servidor"
     },
     {
       "surface": "בית",
-      "gloss": "⟨de la⟩ casa"
+      "gloss": "de la casa"
     },
     {
       "surface": "שאול",
-      "gloss": "⟨de⟩ Shaúl"
+      "gloss": "de Shaúl"
     },
     {
       "surface": "וחמשת",
@@ -47,11 +45,11 @@
     },
     {
       "surface": "עשר",
-      "gloss": "⟨de sus⟩"
+      "gloss": "(diez y cinco)"
     },
     {
       "surface": "בניו",
-      "gloss": "hijos"
+      "gloss": "de sus hijos"
     },
     {
       "surface": "ועשרים",
@@ -59,7 +57,7 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "⟨de sus⟩ siervos"
+      "gloss": "de sus siervos"
     },
     {
       "surface": "אתו",
@@ -71,27 +69,17 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "el Jordán"
+      "gloss": "el Yardén"
     },
     {
       "surface": "לפני",
-      "gloss": "ante"
+      "gloss": "delante de"
     },
     {
       "surface": "המלך",
       "gloss": "el rey"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Saúl",
-      "to": "Shaúl",
-      "token-index": 7,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:18:47.600198502Z",
+  "model": "glm-5.2"
 }

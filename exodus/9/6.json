@@ -1,91 +1,78 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "exodus 9:6",
   "book": "exodus",
-  "chapter": 9,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T06:33:13.106867191Z",
-  "translation": "Y HaShem hizo ⟨el⟩ asunto ⟨este⟩ mañana, y murió ⟨el⟩ ganado todo de Egipto; y ⟨del⟩ ganado de ⟨los⟩ hijos de Yisrael no murió uno.",
+  "chapter": 9,
+  "translation": "E hizo YHWH ⟨את⟩ esta palabra al día siguiente, y murió todo el ganado de Mitzráyim; pero del ganado de los hijos de Yisrael no murió uno.",
   "tokens": [
     {
-      "surface": "ויעש",
-      "gloss": "Y"
+      "surface": "וַיַּ֨עַשׂ",
+      "gloss": "E hizo"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֜ה",
       "gloss": "YHWH"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "הדבר"
+      "marks": "esta palabra"
     },
     {
-      "surface": "הדבר",
-      "gloss": "asunto"
+      "surface": "הַדָּבָ֤ר",
+      "gloss": "esta palabra"
     },
     {
-      "surface": "הזה",
-      "gloss": "este"
+      "surface": "הַזֶּה֙",
+      "gloss": "esta"
     },
     {
-      "surface": "ממחרת",
-      "gloss": "mañana"
+      "surface": "מִֽמָּחֳרָ֔ת",
+      "gloss": "al día siguiente"
     },
     {
-      "surface": "וימת",
+      "surface": "וַיָּ֕מָת",
       "gloss": "y murió"
     },
     {
-      "surface": "כל",
+      "surface": "כֹּ֖ל",
       "gloss": "todo"
     },
     {
-      "surface": "מקנה",
-      "gloss": "ganado"
+      "surface": "מִקְנֵ֣ה",
+      "gloss": "el ganado de"
     },
     {
-      "surface": "מצרים",
-      "gloss": "de Egipto"
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mitzráyim"
     },
     {
-      "surface": "וממקנה",
-      "gloss": "y ⟨del⟩ ganado",
-      "marks": "בני ישראל"
+      "surface": "וּמִמִּקְנֵ֥ה",
+      "gloss": "pero del ganado de"
     },
     {
-      "surface": "בני",
-      "gloss": "⟨los⟩ hijos"
+      "surface": "בְנֵֽי",
+      "gloss": "los hijos de"
     },
     {
-      "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisrael"
     },
     {
-      "surface": "לא",
+      "surface": "לֹ֥א",
       "gloss": "no"
     },
     {
-      "surface": "מת",
+      "surface": "מֵ֥ת",
       "gloss": "murió"
     },
     {
-      "surface": "אחד",
+      "surface": "אֶחָֽד",
       "gloss": "uno"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 12,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:03:17.400560458Z",
+  "model": "glm-5.2"
 }

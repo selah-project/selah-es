@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "deuteronomy 6:2",
   "book": "deuteronomy",
-  "chapter": 6,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:44:36.349987309Z",
-  "translation": "para que ⟨tú⟩ temas a YHWH tu Elohim, para guardar ⟨את⟩ todos ⟨los⟩ estatutos y ⟨los⟩ mandamientos suyos que yo te mando, tú, y tu hijo, y ⟨el⟩ hijo de tu hijo, todos ⟨los⟩ días de tu vida, y para que se alarguen tus días",
+  "chapter": 6,
+  "translation": "para que ⟨tú⟩ temas a ⟨את⟩ YHWH tu Elohim, guardando ⟨את⟩ todos sus estatutos y sus Mitzvot que yo te ordeno, ⟨a⟩ ti y a tu hijo y al hijo de tu hijo, todos los días de tu vida; y para que tus días se prolonguen.",
   "tokens": [
     {
       "surface": "למען",
@@ -15,12 +13,12 @@
     },
     {
       "surface": "תירא",
-      "gloss": "temas"
+      "gloss": "⟨tú⟩ temas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "YHWH tu Elohim"
+      "marks": "a YHWH"
     },
     {
       "surface": "יהוה",
@@ -32,12 +30,12 @@
     },
     {
       "surface": "לשמר",
-      "gloss": "para guardar"
+      "gloss": "guardando"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todos los estatutos y los mandamientos suyos"
+      "marks": "todos sus estatutos y sus Mitzvot"
     },
     {
       "surface": "כל",
@@ -45,11 +43,11 @@
     },
     {
       "surface": "חקתיו",
-      "gloss": "⟨los⟩ estatutos... suyos"
+      "gloss": "sus estatutos"
     },
     {
       "surface": "ומצותיו",
-      "gloss": "y ⟨los⟩ mandamientos suyos"
+      "gloss": "y sus Mitzvot"
     },
     {
       "surface": "אשר",
@@ -61,19 +59,19 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "mando"
+      "gloss": "te ordeno"
     },
     {
       "surface": "אתה",
-      "gloss": "tú"
+      "gloss": "⟨a⟩ ti"
     },
     {
       "surface": "ובנך",
-      "gloss": "y tu hijo"
+      "gloss": "y a tu hijo"
     },
     {
       "surface": "ובן",
-      "gloss": "y ⟨el⟩ hijo"
+      "gloss": "y al hijo"
     },
     {
       "surface": "בנך",
@@ -85,7 +83,7 @@
     },
     {
       "surface": "ימי",
-      "gloss": "⟨los⟩ días"
+      "gloss": "los días"
     },
     {
       "surface": "חייך",
@@ -97,11 +95,13 @@
     },
     {
       "surface": "יארכן",
-      "gloss": "se alarguen"
+      "gloss": "se prolonguen"
     },
     {
       "surface": "ימיך",
       "gloss": "tus días"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:48:31.701073539Z",
+  "model": "glm-5.2"
 }

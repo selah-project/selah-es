@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "leviticus 14:11",
   "book": "leviticus",
-  "chapter": 14,
-  "verse": 11,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:39:33.059752730Z",
-  "translation": "Y el Kohen que ⟨está⟩ purificando hará estar ⟨al⟩ hombre que ⟨está⟩ siendo purificado y ⟨a⟩ sus cosas delante de YHWH ⟨a la⟩ entrada de ⟨el⟩ Ohel Moed",
+  "chapter": 14,
+  "translation": "Y ⟨el⟩ Kohen que purifica hará comparecer ⟨את⟩ al hombre que se purifica, y ⟨את⟩ aquellas cosas, delante de YHWH, ⟨a⟩ la entrada del Ohel Moed.",
   "tokens": [
     {
       "surface": "והעמיד",
-      "gloss": "Y hará estar"
+      "gloss": "Y hará comparecer"
     },
     {
       "surface": "הכהן",
@@ -19,24 +17,25 @@
     },
     {
       "surface": "המטהר",
-      "gloss": "que ⟨está⟩ purificando"
+      "gloss": "que purifica"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "האיש"
+      "marks": "al hombre"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨al⟩ hombre"
+      "gloss": "al hombre"
     },
     {
       "surface": "המטהר",
-      "gloss": "que ⟨está⟩ siendo purificado"
+      "gloss": "que se purifica"
     },
     {
       "surface": "ואתם",
-      "gloss": "y ⟨a⟩ sus cosas"
+      "gloss": "y ⟨את⟩ aquellas cosas",
+      "marks": "delante"
     },
     {
       "surface": "לפני",
@@ -48,15 +47,17 @@
     },
     {
       "surface": "פתח",
-      "gloss": "⟨a la⟩ entrada"
+      "gloss": "la entrada"
     },
     {
       "surface": "אהל",
-      "gloss": "de ⟨el⟩ Ohel"
+      "gloss": "del Ohel"
     },
     {
       "surface": "מועד",
       "gloss": "Moed"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:22:28.246511606Z",
+  "model": "glm-5.2"
 }

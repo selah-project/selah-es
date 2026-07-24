@@ -1,29 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 43,
   "ref": "1-chronicles 16:43",
   "book": "1-chronicles",
-  "chapter": 16,
-  "verse": 43,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:45:58.234104217Z",
-  "translation": "Y fueron ⟨el⟩ pueblo, cada hombre a su casa, y ⟨se volvió⟩ Davidd para bendecir ⟨a⟩ ⟨su casa⟩",
+  "chapter": 16,
+  "translation": "Y se fue todo el pueblo, cada uno a su casa, y David se volvió para bendecir ⟨את⟩ su casa.",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "Y fueron"
+      "gloss": "y se fue"
     },
     {
       "surface": "כל",
-      "gloss": "⟨el⟩"
+      "gloss": "todo"
     },
     {
       "surface": "העם",
-      "gloss": "pueblo"
+      "gloss": "el pueblo"
     },
     {
       "surface": "איש",
-      "gloss": "cada hombre"
+      "gloss": "cada uno"
     },
     {
       "surface": "לביתו",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "ויסב",
-      "gloss": "y ⟨se volvió⟩"
+      "gloss": "y se volvió"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "לברך",
@@ -48,19 +46,9 @@
     },
     {
       "surface": "ביתו",
-      "gloss": "⟨su casa⟩"
+      "gloss": "su casa"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 6,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:15:30.727467721Z",
+  "model": "glm-5.2"
 }

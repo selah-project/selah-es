@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 32,
   "ref": "leviticus 8:32",
   "book": "leviticus",
-  "chapter": 8,
-  "verse": 32,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:36:04.828713340Z",
-  "translation": "Y lo que quede de la carne y ⟨del⟩ pan ⟨en⟩ fuego lo quemaréis ⟨את⟩",
+  "chapter": 8,
+  "translation": "Y lo que sobre de ⟨la⟩ carne y del pan, en fuego lo quemaréis.",
   "tokens": [
     {
       "surface": "והנותר",
-      "gloss": "Y lo que quede"
+      "gloss": "Y lo que sobre"
     },
     {
       "surface": "בבשר",
@@ -19,16 +17,17 @@
     },
     {
       "surface": "ובלחם",
-      "gloss": "y ⟨del⟩ pan"
+      "gloss": "y del pan"
     },
     {
       "surface": "באש",
-      "gloss": "⟨en⟩ fuego"
+      "gloss": "en fuego"
     },
     {
       "surface": "תשרפו",
-      "gloss": "lo quemaréis ⟨את⟩",
-      "marks": "lo que quede de la carne y del pan"
+      "gloss": "quemaréis"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:20:07.575192662Z",
+  "model": "glm-5.2"
 }

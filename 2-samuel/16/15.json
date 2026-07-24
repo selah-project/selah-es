@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "2-samuel 16:15",
   "book": "2-samuel",
-  "chapter": 16,
-  "verse": 15,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:31:58.217734103Z",
-  "translation": "Y Absalón y todo ⟨el⟩ pueblo, los hombres de Yisrael, entraron en Yerushalayim; y Ahitofel ⟨estaba⟩ con ⟨él⟩",
+  "chapter": 16,
+  "translation": "Y Avshalom, y todo ⟨el⟩ pueblo, los hombres de Yisrael, entraron a Yerushalayim, y Ajitofel ⟨estaba⟩ con él.",
   "tokens": [
     {
       "surface": "ואבשלום",
-      "gloss": "Y Absalón"
+      "gloss": "Y Avshalom"
     },
     {
       "surface": "וכל",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨el⟩ pueblo"
+      "gloss": "el pueblo"
     },
     {
       "surface": "איש",
-      "gloss": "los hombres"
+      "gloss": "cada hombre"
     },
     {
       "surface": "ישראל",
@@ -35,34 +33,17 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "en Yerushalayim"
+      "gloss": "a Yerushalayim"
     },
     {
       "surface": "ואחיתפל",
-      "gloss": "y Ahitofel"
+      "gloss": "y Ajitofel"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨estaba⟩ con ⟨él⟩"
+      "gloss": "con él"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 4,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Jerusalén",
-      "to": "Yerushalayim",
-      "token-index": 6,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:23:01.490368196Z",
+  "model": "glm-5.2"
 }

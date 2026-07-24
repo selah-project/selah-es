@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "1-samuel 19:7",
   "book": "1-samuel",
-  "chapter": 19,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:42:23.998030916Z",
-  "translation": "Yonatán llamó a David, y Yonatán le declaró a él todas estas palabras; y Yonatán trajo ⟨את⟩ David a Shaúl, y él estaba en su presencia como antes.",
+  "chapter": 19,
+  "translation": "Yonatán llamó a David, y Yonatán le declaró ⟨את⟩ todas ⟨las⟩ palabras estas; y Yonatán trajo ⟨את⟩ David ante Shaúl, y ⟨él⟩ estuvo en su presencia como ayer y anteayer.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -36,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todas estas palabras"
+      "marks": "todas (las palabras)"
     },
     {
       "surface": "כל",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "estas palabras"
+      "gloss": "las palabras"
     },
     {
       "surface": "האלה",
@@ -61,7 +59,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "David"
+      "marks": "a David"
     },
     {
       "surface": "דוד",
@@ -69,7 +67,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "a"
+      "gloss": "ante"
     },
     {
       "surface": "שאול",
@@ -77,7 +75,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "y él estaba"
+      "gloss": "y estuvo"
     },
     {
       "surface": "לפניו",
@@ -85,11 +83,13 @@
     },
     {
       "surface": "כאתמול",
-      "gloss": "como antes"
+      "gloss": "como ayer"
     },
     {
       "surface": "שלשום",
-      "gloss": "antes"
+      "gloss": "y anteayer"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:12:43.389176207Z",
+  "model": "glm-5.2"
 }

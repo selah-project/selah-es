@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 32,
   "ref": "psalms 89:32",
   "book": "psalms",
-  "chapter": 89,
-  "verse": 32,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:35:44.220734564Z",
-  "translation": "Si ⟨ellos⟩ profanan mis estatutos, y mis mandamientos no ⟨los⟩ guardan",
+  "chapter": 89,
+  "translation": "Si profanan mis jukim, y no guardan mis mitzvot,",
   "tokens": [
     {
       "surface": "אם",
@@ -15,19 +13,15 @@
     },
     {
       "surface": "חקתי",
-      "gloss": "mis estatutos"
+      "gloss": "mis jukim"
     },
     {
       "surface": "יחללו",
       "gloss": "profanan"
     },
     {
-      "surface": "ו",
-      "gloss": "y"
-    },
-    {
-      "surface": "מצותי",
-      "gloss": "mis mandamientos"
+      "surface": "ומצותי",
+      "gloss": "y mis mitzvot"
     },
     {
       "surface": "לא",
@@ -37,5 +31,7 @@
       "surface": "ישמרו",
       "gloss": "guardan"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:58:38.001709649Z",
+  "model": "glm-5.2"
 }

@@ -1,25 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "2-samuel 3:25",
   "book": "2-samuel",
-  "chapter": 3,
-  "verse": 25,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:21:04.333405469Z",
-  "translation": "Tú conoces ⟨את⟩ Avner ben Ner, que para engañarte vino, y para conocer ⟨את⟩ tu salida, y ⟨את⟩ tu entrada, y para conocer ⟨את⟩ todo lo que tú haces.",
+  "chapter": 3,
+  "translation": "¿Tú conoces a ⟨את⟩ Avnér ben Ner, que vino para seducirte, y para saber tu salida y ⟨את⟩ tu entrada, y para saber ⟨את⟩ todo lo que tú haces?",
   "tokens": [
     {
       "surface": "יָדַ֨עְתָּ֙",
-      "gloss": "Tú conoces"
+      "gloss": "tú conoces"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "a Avnér"
     },
     {
       "surface": "אַבְנֵ֣ר",
-      "gloss": "Avner"
+      "gloss": "Avnér"
     },
     {
       "surface": "בֶּן",
-      "gloss": "ben"
+      "gloss": "ben (hijo de)"
     },
     {
       "surface": "נֵ֔ר",
@@ -30,16 +33,16 @@
       "gloss": "que"
     },
     {
-      "surface": "לְ\/פַתֹּתְ\/ךָ֖",
-      "gloss": "para engañarte"
+      "surface": "לְפַתֹּתְךָ֖",
+      "gloss": "para seducirte"
     },
     {
       "surface": "בָּ֑א",
       "gloss": "vino"
     },
     {
-      "surface": "וְ\/לָ\/דַ֜עַת",
-      "gloss": "y para conocer"
+      "surface": "וְלָדַ֜עַת",
+      "gloss": "y para saber"
     },
     {
       "surface": "אֶת",
@@ -47,21 +50,21 @@
       "marks": "tu salida"
     },
     {
-      "surface": "מוֹצָֽאֲ\/ךָ֙",
+      "surface": "מוֹצָֽאֲךָ֙",
       "gloss": "tu salida"
     },
     {
-      "surface": "וְ\/אֶת",
+      "surface": "וְאֶת",
       "gloss": "y ⟨את⟩",
       "marks": "tu entrada"
     },
     {
-      "surface": "מבוא\/ך",
+      "surface": "מבואך",
       "gloss": "tu entrada"
     },
     {
-      "surface": "וְ\/לָ\/דַ֕עַת",
-      "gloss": "y para conocer"
+      "surface": "וְלָדַ֕עַת",
+      "gloss": "y para saber"
     },
     {
       "surface": "אֵ֛ת",
@@ -84,5 +87,7 @@
       "surface": "עֹשֶֽׂה",
       "gloss": "haces"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:15:12.759944610Z",
+  "model": "glm-5.2"
 }

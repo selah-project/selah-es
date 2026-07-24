@@ -1,29 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "2-samuel 1:16",
   "book": "2-samuel",
-  "chapter": 1,
-  "verse": 16,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T19:39:33.842669350Z",
-  "translation": "Y dijo Davidd ⟨a⟩ él: '⟨El⟩ sangre de ti ⟨está⟩ sobre cabeza de ti, porque boca de ti ha respondido ⟨en⟩ ti, diciendo: Yo ⟨fui⟩ ⟨el⟩ que hirió ⟨a⟩ ⟨el⟩ ungido de YHWH'",
+  "chapter": 1,
+  "translation": "Y David le dijo: ⟨Tu⟩ sangre ⟨sea⟩ sobre tu cabeza, porque tu boca testificó contra ti, diciendo: 'Yo ⟨he⟩ dado muerte ⟨את⟩ al Mashíaj de YHWH'.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "אליו",
-      "gloss": "⟨a⟩ él"
+      "gloss": "a él"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "דמיך",
-      "gloss": "⟨El⟩ sangre de ti"
+      "gloss": "tu sangre"
     },
     {
       "surface": "על",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "ראשך",
-      "gloss": "cabeza de ti"
+      "gloss": "tu cabeza"
     },
     {
       "surface": "כי",
@@ -39,15 +37,15 @@
     },
     {
       "surface": "פיך",
-      "gloss": "boca de ti"
+      "gloss": "tu boca"
     },
     {
       "surface": "ענה",
-      "gloss": "ha respondido"
+      "gloss": "testificó"
     },
     {
       "surface": "בך",
-      "gloss": "⟨en⟩ ti"
+      "gloss": "contra ti"
     },
     {
       "surface": "לאמר",
@@ -55,36 +53,26 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "Yo"
+      "gloss": "yo"
     },
     {
       "surface": "מתתי",
-      "gloss": "⟨fui⟩ ⟨el⟩ que hirió"
+      "gloss": "he dado muerte"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨el⟩ ungido"
+      "marks": "al Mashíaj"
     },
     {
       "surface": "משיח",
-      "gloss": "⟨el⟩ ungido"
+      "gloss": "al Mashíaj"
     },
     {
       "surface": "יהוה",
       "gloss": "de YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 2,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:14:46.965932358Z",
+  "model": "glm-5.2"
 }

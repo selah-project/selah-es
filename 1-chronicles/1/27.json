@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 27,
   "ref": "1-chronicles 1:27",
   "book": "1-chronicles",
-  "chapter": 1,
-  "verse": 27,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:26:10.320300531Z",
-  "translation": "Avraham ⟨is⟩ Avraham ⟨את⟩",
+  "chapter": 1,
+  "translation": "Avram — ⟨él⟩ ⟨es⟩ Avraham.",
   "tokens": [
     {
       "surface": "אברם",
@@ -15,30 +13,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨is⟩"
+      "gloss": "él"
     },
     {
       "surface": "אברהם",
       "gloss": "Avraham"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Abram",
-      "to": "Avram",
-      "token-index": 0,
-      "strongs": 87,
-      "hebrew": "אברם"
-    },
-    {
-      "from": "Abraham",
-      "to": "Avraham",
-      "token-index": 2,
-      "strongs": 85,
-      "hebrew": "אברהם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:13:30.671966368Z",
+  "model": "glm-5.2"
 }

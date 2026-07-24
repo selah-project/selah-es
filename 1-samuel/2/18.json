@@ -1,38 +1,36 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "1-samuel 2:18",
   "book": "1-samuel",
-  "chapter": 2,
-  "verse": 18,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:45:53.115698549Z",
-  "translation": "Pero Samuel ⟨estaba⟩ sirviendo ⟨ante⟩ ⟨el⟩ rostro de YHWH, ⟨como⟩ muchacho ceñido con ⟨un⟩ Efod de lino",
+  "chapter": 2,
+  "translation": "Y Shmuel servía ⟨delante de⟩ ⟨la faz de⟩ YHWH — ⟨un⟩ muchacho ceñido ⟨con⟩ un Efod de lino.",
   "tokens": [
     {
       "surface": "ושמואל",
-      "gloss": "Pero Samuel"
+      "gloss": "Y Shmuel"
     },
     {
       "surface": "משרת",
-      "gloss": "⟨estaba⟩ sirviendo"
+      "gloss": "servía"
     },
     {
       "surface": "את",
-      "gloss": "⟨ante⟩",
-      "marks": "⟨el⟩ rostro de YHWH"
+      "gloss": "⟨את⟩",
+      "marks": "la faz de"
     },
     {
       "surface": "פני",
-      "gloss": "⟨el⟩ rostro"
+      "gloss": "⟨la faz de⟩"
     },
     {
       "surface": "יהוה",
-      "gloss": "de YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "נער",
-      "gloss": "⟨como⟩ muchacho"
+      "gloss": "muchacho"
     },
     {
       "surface": "חגור",
@@ -40,23 +38,13 @@
     },
     {
       "surface": "אפוד",
-      "gloss": "⟨un⟩ Efod"
+      "gloss": "un Efod"
     },
     {
       "surface": "בד",
       "gloss": "de lino"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "efod",
-      "to": "Efod",
-      "token-index": 7,
-      "strongs": 646,
-      "hebrew": "אפוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:09:57.450076818Z",
+  "model": "glm-5.2"
 }

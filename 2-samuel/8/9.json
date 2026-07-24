@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "2-samuel 8:9",
   "book": "2-samuel",
-  "chapter": 8,
-  "verse": 9,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:22:53.501061540Z",
-  "translation": "Y Tou, rey de Hamath, oyó que Davidd había golpeado ⟨a⟩ todo ⟨el⟩ ejército de Hadadézer:",
+  "chapter": 8,
+  "translation": "Y oyó Tó'i, rey de Jamat, que David había herido ⟨את⟩ todo ⟨el⟩ ejército de Hadadézer.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Y"
+      "gloss": "Y oyó"
     },
     {
       "surface": "תעי",
-      "gloss": "Tou"
+      "gloss": "Tó'i"
     },
     {
       "surface": "מלך",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "חמת",
-      "gloss": "de Hamath"
+      "gloss": "de Jamat"
     },
     {
       "surface": "כי",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "הכה",
-      "gloss": "había golpeado"
+      "gloss": "había herido"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "את",
@@ -55,16 +53,6 @@
       "gloss": "de Hadadézer"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 6,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:15:56.266062425Z",
+  "model": "glm-5.2"
 }

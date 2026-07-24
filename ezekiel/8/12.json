@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "ezekiel 8:12",
   "book": "ezekiel",
-  "chapter": 8,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:32:17.252703348Z",
-  "translation": "Y dijo a mí: ¿⟨has⟩ visto, ⟨hijo⟩ de ⟨Adam⟩, lo que ⟨los⟩ ancianos de la casa de Yisrael hacen en ⟨la⟩ oscuridad, ⟨cada⟩ hombre en las cámaras de su imagen grabada? Porque dicen: YHWH no ⟨nos⟩ ve, YHWH ha abandonado ⟨את⟩ ⟨la⟩ tierra.",
+  "chapter": 8,
+  "translation": "Y ⟨él⟩ me dijo: «¿Has visto, hijo de Adam, lo que los ancianos de la casa de Yisrael hacen en la oscuridad, cada uno en las cámaras de su imagen tallada? Porque dicen: YHWH no nos ve ⟨את⟩; YHWH ha abandonado ⟨את⟩ la tierra».",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "אלי",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "הראית",
-      "gloss": "¿⟨has⟩ visto"
+      "gloss": "¿has visto?"
     },
     {
       "surface": "בן",
-      "gloss": "⟨hijo⟩"
+      "gloss": "hijo"
     },
     {
       "surface": "אדם",
-      "gloss": "de ⟨Adam⟩"
+      "gloss": "de Adam"
     },
     {
       "surface": "אשר",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "זקני",
-      "gloss": "⟨los⟩ ancianos"
+      "gloss": "los ancianos"
     },
     {
       "surface": "בית",
@@ -51,11 +49,11 @@
     },
     {
       "surface": "בחשך",
-      "gloss": "en ⟨la⟩ oscuridad"
+      "gloss": "en la oscuridad"
     },
     {
       "surface": "איש",
-      "gloss": "⟨cada⟩ hombre"
+      "gloss": "cada uno"
     },
     {
       "surface": "בחדרי",
@@ -63,11 +61,11 @@
     },
     {
       "surface": "משכיתו",
-      "gloss": "de su imagen grabada"
+      "gloss": "de su imagen tallada"
     },
     {
       "surface": "כי",
-      "gloss": "Porque"
+      "gloss": "porque"
     },
     {
       "surface": "אמרים",
@@ -83,11 +81,12 @@
     },
     {
       "surface": "ראה",
-      "gloss": "⟨nos⟩ ve"
+      "gloss": "ve"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨nos⟩"
+      "gloss": "⟨את⟩",
+      "marks": "nos (a nosotros)"
     },
     {
       "surface": "עזב",
@@ -104,7 +103,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨la⟩ tierra"
+      "gloss": "la tierra"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:44:57.229895028Z",
+  "model": "glm-5.2"
 }

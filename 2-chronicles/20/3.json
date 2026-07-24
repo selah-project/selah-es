@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "2-chronicles 20:3",
   "book": "2-chronicles",
-  "chapter": 20,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:20:56.394921963Z",
-  "translation": "Y Yehoshafat tuvo miedo y ⟨se⟩ puso ⟨a⟩ buscar ⟨a⟩ HaShem, y proclamó un ayuno en todo Yehudá.",
+  "chapter": 20,
+  "translation": "Y temió, y se dispuso Yehoshafat ⟨את⟩ su rostro para buscar a YHWH, y proclamó un ayuno sobre todo Yehudá.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Y Josafat tuvo miedo"
+      "gloss": "Y temió"
     },
     {
       "surface": "ויתן",
-      "gloss": "y ⟨se⟩ puso"
+      "gloss": "y se dispuso"
     },
     {
       "surface": "יהושפט",
@@ -24,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "buscar"
+      "marks": "su rostro"
     },
     {
       "surface": "פניו",
-      "gloss": "buscar"
+      "gloss": "su rostro"
     },
     {
       "surface": "לדרוש",
-      "gloss": "⟨a⟩"
+      "gloss": "para buscar"
     },
     {
       "surface": "ליהוה",
-      "gloss": "YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "ויקרא",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "על",
-      "gloss": "en"
+      "gloss": "sobre"
     },
     {
       "surface": "כל",
@@ -59,23 +57,6 @@
       "gloss": "Yehudá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Josafat",
-      "to": "Yehoshafat",
-      "token-index": 2,
-      "strongs": 3092,
-      "hebrew": "יהושפט"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 11,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:19:15.448596869Z",
+  "model": "glm-5.2"
 }

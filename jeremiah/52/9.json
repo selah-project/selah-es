@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "jeremiah 52:9",
   "book": "jeremiah",
-  "chapter": 52,
-  "verse": 9,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-10T03:48:43.516119328Z",
-  "translation": "Y tomaron ⟨את⟩ el rey y ⟨le⟩ llevaron al rey de Bavel a Rivlá en ⟨la⟩ tierra de Jamat y habló ⟨את⟩ él juicios",
+  "chapter": 52,
+  "translation": "Y ⟨se apoderaron de⟩ ⟨את⟩ el rey, y lo llevaron ante el rey de Bavel, a Rivlá, en ⟨la⟩ tierra de Jamat; y ⟨él⟩ habló con ⟨él⟩ ⟨sobre⟩ sentencias.",
   "tokens": [
     {
       "surface": "ויתפשו",
-      "gloss": "Y tomaron"
+      "gloss": "Y se apoderaron de"
     },
     {
       "surface": "את",
@@ -24,19 +22,20 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "y ⟨le⟩ llevaron"
+      "gloss": "y [lo] llevaron"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩"
+      "gloss": "⟨את⟩",
+      "marks": "él"
     },
     {
       "surface": "אל",
-      "gloss": "al"
+      "gloss": "ante"
     },
     {
       "surface": "מלך",
-      "gloss": "rey"
+      "gloss": "el rey"
     },
     {
       "surface": "בבל",
@@ -48,7 +47,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "en ⟨la⟩ tierra"
+      "gloss": "en la tierra"
     },
     {
       "surface": "חמת",
@@ -60,12 +59,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "él"
+      "gloss": "con él"
     },
     {
       "surface": "משפטים",
-      "gloss": "juicios"
+      "gloss": "sentencias"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:44:04.442406671Z",
+  "model": "glm-5.2"
 }

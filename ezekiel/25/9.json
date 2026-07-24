@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "ezekiel 25:9",
   "book": "ezekiel",
-  "chapter": 25,
-  "verse": 9,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T12:35:08.110658205Z",
-  "translation": "Por tanto, he aquí, ⟨yo⟩ abro ⟨el⟩ hombro de Moav ⟨desde⟩ las ciudades, ⟨desde⟩ sus ciudades ⟨desde⟩ su extremo, ⟨la⟩ gloria de ⟨la⟩ tierra, Bet-ha-Jeshimoth, Baal-Meón ⟨y⟩ Kiriataim.",
+  "chapter": 25,
+  "translation": "Por tanto, aquí estoy: Yo abriré ⟨את⟩ el flanco de Moav desde las ciudades, desde sus ciudades ⟨de⟩ su frontera, la gloria de la tierra: Bet-HaYeshimot, Baal-Meón y Kiryatáyim.",
   "tokens": [
     {
       "surface": "לכן",
@@ -15,20 +13,20 @@
     },
     {
       "surface": "הנני",
-      "gloss": "he aquí"
+      "gloss": "aquí estoy"
     },
     {
       "surface": "פתח",
-      "gloss": "abro"
+      "gloss": "Yo abriré"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hombro"
+      "marks": "el flanco"
     },
     {
       "surface": "כתף",
-      "gloss": "hombro"
+      "gloss": "el flanco"
     },
     {
       "surface": "מואב",
@@ -36,23 +34,23 @@
     },
     {
       "surface": "מהערים",
-      "gloss": "⟨desde⟩ las ciudades"
+      "gloss": "desde las ciudades"
     },
     {
       "surface": "מעריו",
-      "gloss": "⟨desde⟩ sus ciudades"
+      "gloss": "desde sus ciudades"
     },
     {
       "surface": "מקצהו",
-      "gloss": "⟨desde⟩ su extremo"
+      "gloss": "⟨de⟩ su frontera"
     },
     {
       "surface": "צבי",
-      "gloss": "⟨la⟩ gloria"
+      "gloss": "la gloria"
     },
     {
       "surface": "ארץ",
-      "gloss": "de ⟨la⟩ tierra"
+      "gloss": "de la tierra"
     },
     {
       "surface": "בית",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "הישימת",
-      "gloss": "ha-Jeshimoth"
+      "gloss": "HaYeshimot"
     },
     {
       "surface": "בעל",
@@ -72,19 +70,9 @@
     },
     {
       "surface": "וקריתמה",
-      "gloss": "⟨y⟩ Kiriataim"
+      "gloss": "y Kiryatáyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moab",
-      "to": "Moav",
-      "token-index": 5,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:47:40.628435614Z",
+  "model": "glm-5.2"
 }

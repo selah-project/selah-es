@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "1-kings 8:14",
   "book": "1-kings",
-  "chapter": 8,
-  "verse": 14,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:54:12.389414878Z",
-  "translation": "Y el rey volvió ⟨su⟩ rostro y bendijo ⟨a⟩ toda ⟨la⟩ asamblea de Yisrael; y toda ⟨la⟩ asamblea de Yisrael estaba ⟨en⟩ pie",
+  "chapter": 8,
+  "translation": "Y el rey volvió ⟨את⟩ su rostro, y bendijo ⟨את⟩ toda la asamblea de Yisrael; y toda la asamblea de Yisrael estaba de pie.",
   "tokens": [
     {
       "surface": "ויסב",
@@ -33,7 +31,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "toda la asamblea"
+      "marks": "toda la asamblea de Yisrael"
     },
     {
       "surface": "כל",
@@ -61,26 +59,9 @@
     },
     {
       "surface": "עמד",
-      "gloss": "estaba en pie"
+      "gloss": "estaba de pie"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 8,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 11,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:21:30.762967293Z",
+  "model": "glm-5.2"
 }

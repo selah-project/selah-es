@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "2-chronicles 1:3",
   "book": "2-chronicles",
-  "chapter": 1,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:00:59.493389505Z",
-  "translation": "Y Shlomó ⟨y⟩ todo ⟨el⟩ pueblo ⟨con⟩ él ⟨fue⟩ al ⟨el⟩ lugar alto que ⟨estaba⟩ en Guibón, porque allí ⟨estaba⟩ ⟨el⟩ Tabernáculo ⟨את⟩ ⟨de⟩ Reunión de HaShem, que ⟨el⟩ siervo ⟨de⟩ HaShem Moshé había hecho en ⟨el⟩ desierto.",
+  "chapter": 1,
+  "translation": "Y fueron Shlomó y toda ⟨la⟩ asamblea con él a la altura de Givón, porque allí ⟨estaba⟩ ⟨el⟩ Ohel Moed de Ha-Elohim, que Moshé, servidor de YHWH, había hecho en el desierto.",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "Y Salomón ⟨y⟩ todo ⟨el⟩ pueblo ⟨con⟩ él ⟨fue⟩"
+      "gloss": "Y fueron"
     },
     {
       "surface": "שלמה",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "וכל",
-      "gloss": "⟨y⟩ todo"
+      "gloss": "y toda"
     },
     {
       "surface": "הקהל",
-      "gloss": "⟨el⟩ pueblo"
+      "gloss": "la asamblea"
     },
     {
       "surface": "עמו",
-      "gloss": "⟨con⟩ él"
+      "gloss": "con él"
     },
     {
       "surface": "לבמה",
-      "gloss": "al ⟨el⟩ lugar alto"
+      "gloss": "a la altura"
     },
     {
       "surface": "אשר",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "בגבעון",
-      "gloss": "⟨estaba⟩ en Guibón"
+      "gloss": "en Givón"
     },
     {
       "surface": "כי",
@@ -51,19 +49,19 @@
     },
     {
       "surface": "היה",
-      "gloss": "⟨estaba⟩"
+      "gloss": "estaba"
     },
     {
       "surface": "אהל",
-      "gloss": "⟨el⟩ Tabernáculo"
+      "gloss": "Ohel"
     },
     {
       "surface": "מועד",
-      "gloss": "⟨de⟩ Reunión"
+      "gloss": "Moed"
     },
     {
       "surface": "האלהים",
-      "gloss": "de HaShem"
+      "gloss": "de Ha-Elohim"
     },
     {
       "surface": "אשר",
@@ -71,7 +69,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "⟨el⟩ siervo ⟨de⟩ HaShem Moshé había hecho"
+      "gloss": "había hecho"
     },
     {
       "surface": "משה",
@@ -79,27 +77,17 @@
     },
     {
       "surface": "עבד",
-      "gloss": "⟨el⟩ siervo ⟨de⟩ HaShem"
+      "gloss": "servidor"
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨de⟩ YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "במדבר",
-      "gloss": "en ⟨el⟩ desierto"
+      "gloss": "en el desierto"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Salomón",
-      "to": "Shlomó",
-      "token-index": 1,
-      "strongs": 8010,
-      "hebrew": "שלמה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:16:54.861390639Z",
+  "model": "glm-5.2"
 }

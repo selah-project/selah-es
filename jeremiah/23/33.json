@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 33,
   "ref": "jeremiah 23:33",
   "book": "jeremiah",
-  "chapter": 23,
-  "verse": 33,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:42:36.970449727Z",
-  "translation": "Y cuando este ⟨pueblo⟩, o ⟨el⟩ profeta, o ⟨el⟩ kohen, te pregunte diciendo: ¿Cuál ⟨es⟩ la carga de YHWH?, entonces dirás a ellos: ¿Qué carga? Y ⟨yo⟩ ⟨he⟩ abandonado ⟨a⟩ ustedes —declara YHWH.",
+  "chapter": 23,
+  "translation": "Y cuando este pueblo, o el naví, o el kohen ⟨te⟩ pregunte, diciendo: «¿Qué ⟨es⟩ la carga de YHWH?», les dirás: «⟨את⟩ ¿Qué carga? Yo os abandonaré ⟨את⟩», oráculo de YHWH — ⟨vosotros sois la carga⟩.",
   "tokens": [
     {
       "surface": "וכי",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "este ⟨pueblo⟩"
+      "gloss": "este pueblo"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "este"
     },
     {
       "surface": "או",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "⟨el⟩ profeta"
+      "gloss": "el naví"
     },
     {
       "surface": "או",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "כהן",
-      "gloss": "⟨el⟩ kohen"
+      "gloss": "el kohen"
     },
     {
       "surface": "לאמר",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "¿Cuál"
+      "gloss": "¿Qué"
     },
     {
       "surface": "משא",
@@ -59,7 +57,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "entonces dirás"
+      "gloss": "les dirás"
     },
     {
       "surface": "אליהם",
@@ -68,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "מה"
+      "marks": "¿Qué carga? (el objeto directo del verbo 'dirás' o elicitado de la pregunta)"
     },
     {
       "surface": "מה",
@@ -76,23 +74,26 @@
     },
     {
       "surface": "משא",
-      "gloss": "carga?"
+      "gloss": "carga"
     },
     {
       "surface": "ונטשתי",
-      "gloss": "Y ⟨yo⟩ ⟨he⟩ abandonado"
+      "gloss": "Y abandonaré"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨a⟩ ustedes"
+      "gloss": "⟨את⟩ a vosotros",
+      "marks": "a vosotros"
     },
     {
       "surface": "נאם",
-      "gloss": "—declara"
+      "gloss": "oráculo"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH"
+      "gloss": "de YHWH"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:38:52.615044941Z",
+  "model": "glm-5.2"
 }

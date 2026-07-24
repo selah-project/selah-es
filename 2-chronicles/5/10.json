@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "2-chronicles 5:10",
   "book": "2-chronicles",
-  "chapter": 5,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:04:12.667317235Z",
-  "translation": "No ⟨había⟩ ⟨nada⟩ en el Arca, sino ⟨את⟩ las dos tablas que Moshé puso en Joreb, ⟨acerca de⟩ ⟨lo cual⟩ HaShem hizo un pacto con los hijos de Yisrael, ⟨al⟩ salir ⟨ellos⟩ de Egipto.",
+  "chapter": 5,
+  "translation": "No ⟨había⟩ ⟨nada⟩ en el Arón, sino las dos tablas que Moshé ⟨había⟩ puesto en Joréb, ⟨el pacto⟩ que YHWH cortó con los hijos de Yisrael al salir ellos de Mitzráyim.",
   "tokens": [
     {
       "surface": "אין",
-      "gloss": "No"
+      "gloss": "no"
     },
     {
       "surface": "בארון",
-      "gloss": "⟨había⟩ ⟨nada⟩ en el Arca"
+      "gloss": "en el Arón"
     },
     {
       "surface": "רק",
@@ -43,15 +41,15 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "en Joreb"
+      "gloss": "en Joréb"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨acerca de⟩ ⟨lo cual⟩"
+      "gloss": "⟨el pacto⟩ que"
     },
     {
       "surface": "כרת",
-      "gloss": "hizo un pacto"
+      "gloss": "cortó"
     },
     {
       "surface": "יהוה",
@@ -63,7 +61,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "hijos"
+      "gloss": "los hijos de"
     },
     {
       "surface": "ישראל",
@@ -71,23 +69,13 @@
     },
     {
       "surface": "בצאתם",
-      "gloss": "⟨al⟩ salir ⟨ellos⟩"
+      "gloss": "al salir ellos"
     },
     {
       "surface": "ממצרים",
-      "gloss": "de Egipto"
+      "gloss": "de Mitzráyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 14,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:17:31.409636265Z",
+  "model": "glm-5.2"
 }

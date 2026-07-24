@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "exodus 11:2",
   "book": "exodus",
-  "chapter": 11,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:13:56.973560947Z",
-  "translation": "Habla ahora ⟨en⟩ los oídos del pueblo, y ⟨ellos⟩ pidan ⟨cada⟩ varón de ⟨su⟩ compañero, y ⟨cada⟩ mujer de ⟨su⟩ compañera, utensilios de plata y utensilios de oro.",
+  "chapter": 11,
+  "translation": "Habla ahora en los oídos del pueblo, y que ⟨ellos⟩ pidan cada hombre de ⟨את⟩ su prójimo, y cada mujer de ⟨את⟩ su prójima, objetos de plata y objetos de oro.",
   "tokens": [
     {
       "surface": "דבר",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "באזני",
-      "gloss": "⟨en⟩ los oídos"
+      "gloss": "en los oídos"
     },
     {
       "surface": "העם",
@@ -27,35 +25,37 @@
     },
     {
       "surface": "וישאלו",
-      "gloss": "y ⟨ellos⟩ pidan"
+      "gloss": "y que pidan"
     },
     {
       "surface": "איש",
-      "gloss": "⟨cada⟩ varón"
+      "gloss": "cada hombre"
     },
     {
       "surface": "מאת",
-      "gloss": "de"
+      "gloss": "⟨את⟩",
+      "marks": "su prójimo"
     },
     {
       "surface": "רעהו",
-      "gloss": "⟨su⟩ compañero"
+      "gloss": "de su prójimo"
     },
     {
       "surface": "ואשה",
-      "gloss": "y ⟨cada⟩ mujer"
+      "gloss": "y cada mujer"
     },
     {
       "surface": "מאת",
-      "gloss": "de"
+      "gloss": "⟨את⟩",
+      "marks": "su prójima"
     },
     {
       "surface": "רעותה",
-      "gloss": "⟨su⟩ compañera"
+      "gloss": "de su prójima"
     },
     {
       "surface": "כלי",
-      "gloss": "utensilios"
+      "gloss": "objetos"
     },
     {
       "surface": "כסף",
@@ -63,11 +63,13 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "y utensilios"
+      "gloss": "y objetos"
     },
     {
       "surface": "זהב",
       "gloss": "de oro"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:04:18.133276973Z",
+  "model": "glm-5.2"
 }

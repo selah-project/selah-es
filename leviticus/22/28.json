@@ -1,39 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "leviticus 22:28",
   "book": "leviticus",
-  "chapter": 22,
-  "verse": 28,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:44:30.875489511Z",
-  "translation": "Y sea un buey, o sea una oveja, a él y ⟨את⟩ su hijo, no ⟨los⟩ sacrificaréis en un día, uno.",
+  "chapter": 22,
+  "translation": "Y ⟨un⟩ toro o ⟨una⟩ oveja, a ⟨את⟩ él y ⟨את⟩ su cría, no degollaréis en un día.",
   "tokens": [
     {
       "surface": "ושור",
-      "gloss": "Y sea un buey"
+      "gloss": "Y ⟨un⟩ toro"
     },
     {
       "surface": "או",
-      "gloss": "o sea"
+      "gloss": "o"
     },
     {
       "surface": "שה",
-      "gloss": "una oveja"
+      "gloss": "⟨una⟩ oveja"
     },
     {
       "surface": "אתו",
-      "gloss": "a él",
-      "marks": "su hijo"
+      "gloss": "⟨את⟩",
+      "marks": "él"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "su hijo"
+      "gloss": "y ⟨את⟩",
+      "marks": "su cría"
     },
     {
       "surface": "בנו",
-      "gloss": "su hijo"
+      "gloss": "su cría"
     },
     {
       "surface": "לא",
@@ -41,7 +39,7 @@
     },
     {
       "surface": "תשחטו",
-      "gloss": "⟨los⟩ sacrificaréis"
+      "gloss": "degollaréis"
     },
     {
       "surface": "ביום",
@@ -51,5 +49,7 @@
       "surface": "אחד",
       "gloss": "uno"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:27:02.199133996Z",
+  "model": "glm-5.2"
 }

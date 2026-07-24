@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 26,
   "ref": "2-samuel 13:26",
   "book": "2-samuel",
-  "chapter": 13,
-  "verse": 26,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:25:16.355671914Z",
-  "translation": "Y dijo Avshalom: Si no, ⟨te ruego⟩ que vaya mi hermano Aminon con nosotros. Y el rey dijo a él: ¿Por qué ⟨habría⟩ de ir contigo?",
+  "chapter": 13,
+  "translation": "Y Avshalom dijo: Si no, ¡te ruego que vaya ⟨את⟩-con-nosotros Amnón, mi hermano. Y le dijo el rey: ¿Por qué ha de ir él contigo?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,23 +17,24 @@
     },
     {
       "surface": "ולא",
-      "gloss": "Si no"
+      "gloss": "si no"
     },
     {
       "surface": "ילך",
-      "gloss": "que vaya"
+      "gloss": "vaya"
     },
     {
       "surface": "נא",
-      "gloss": "⟨te ruego⟩"
+      "gloss": "te ruego"
     },
     {
       "surface": "אתנו",
-      "gloss": "con nosotros"
+      "gloss": "⟨את⟩-con-nosotros",
+      "marks": "Amnón, mi hermano"
     },
     {
       "surface": "אמנון",
-      "gloss": "Aminon"
+      "gloss": "Amnón"
     },
     {
       "surface": "אחי",
@@ -47,7 +46,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "a él"
+      "gloss": "le"
     },
     {
       "surface": "המלך",
@@ -55,15 +54,17 @@
     },
     {
       "surface": "למה",
-      "gloss": "¿Por qué"
+      "gloss": "¿por qué?"
     },
     {
       "surface": "ילך",
-      "gloss": "⟨habría⟩ de ir"
+      "gloss": "ha de ir"
     },
     {
       "surface": "עמך",
       "gloss": "contigo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:17:05.611612893Z",
+  "model": "glm-5.2"
 }

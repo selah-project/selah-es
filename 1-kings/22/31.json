@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 31,
   "ref": "1-kings 22:31",
   "book": "1-kings",
-  "chapter": 22,
-  "verse": 31,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:33:39.513082806Z",
-  "translation": "Y el rey de Aram ordenó a los jefes de los carros — que ⟨eran⟩ treinta y dos — diciendo: No luchéis ⟨con⟩ ⟨את⟩ el pequeño ⟨y⟩ ⟨את⟩ el grande, sino solo ⟨con⟩ ⟨את⟩ el rey de Yisrael, ⟨a⟩ solas.",
+  "chapter": 22,
+  "translation": "Y el rey de Aram ordenó a ⟨את⟩ los jefes de los carros que ⟨estaban⟩ suyos —treinta y dos— diciendo: No combatáis ⟨contra⟩ ⟨את⟩ pequeño ni ⟨את⟩ grande, sino ⟨solo⟩ ⟨את⟩ el rey de Yisrael, a él solo.",
   "tokens": [
     {
       "surface": "ומלך",
@@ -24,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "los jefes de los carros"
+      "marks": "los jefes"
     },
     {
       "surface": "שרי",
-      "gloss": "los jefes"
+      "gloss": "a los jefes"
     },
     {
       "surface": "הרכב",
@@ -36,11 +34,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "— que"
+      "gloss": "que"
     },
     {
       "surface": "לו",
-      "gloss": "⟨eran⟩"
+      "gloss": "a él suyos"
     },
     {
       "surface": "שלשים",
@@ -52,33 +50,33 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "— diciendo:"
+      "gloss": "diciendo"
     },
     {
       "surface": "לא",
-      "gloss": "No"
+      "gloss": "no"
     },
     {
       "surface": "תלחמו",
-      "gloss": "luchéis"
+      "gloss": "combatáis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "el pequeño"
+      "marks": "pequeño"
     },
     {
       "surface": "קטן",
-      "gloss": "el pequeño"
+      "gloss": "pequeño"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨y⟩ ⟨את⟩",
-      "marks": "el grande"
+      "gloss": "y ⟨את⟩",
+      "marks": "grande"
     },
     {
       "surface": "גדול",
-      "gloss": "el grande"
+      "gloss": "grande"
     },
     {
       "surface": "כי",
@@ -86,7 +84,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "solo"
+      "gloss": "sino"
     },
     {
       "surface": "את",
@@ -95,7 +93,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "el rey"
+      "gloss": "al rey"
     },
     {
       "surface": "ישראל",
@@ -103,7 +101,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "⟨a⟩ solas"
+      "gloss": "a él solo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:25:51.643487161Z",
+  "model": "glm-5.2"
 }

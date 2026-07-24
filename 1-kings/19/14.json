@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "1-kings 19:14",
   "book": "1-kings",
-  "chapter": 19,
-  "verse": 14,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:30:48.331532188Z",
-  "translation": "Y dijo: He sentido ⟨un⟩ celo vehemente por YHWH, Elohim Tzevaot, porque los hijos de Yisrael han abandonado tu brit, tus altares han derribado, y ⟨a⟩ tus profetas han matado ⟨a⟩ espada, y yo he quedado solo, y ⟨את⟩ buscan mi alma para quitarla",
+  "chapter": 19,
+  "translation": "Y ⟨él⟩ dijo: «He sido celosamente celoso por YHWH, Elohim de Tzevaot, porque los hijos de Yisrael han abandonado tu Brit, ⟨את⟩ tus altares han derribado, y ⟨את⟩ a tus profetas han matado a espada; y yo he quedado ⟨yo⟩ solo, y buscan ⟨את⟩ mi vida para quitarla».",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "קנא",
-      "gloss": "he sentido ⟨un⟩ celo vehemente"
+      "gloss": "celosamente"
     },
     {
       "surface": "קנאתי",
-      "gloss": "he sentido ⟨un⟩ celo vehemente"
+      "gloss": "he sido celoso"
     },
     {
       "surface": "ליהוה",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tzevaot"
+      "gloss": "de Tzevaot"
     },
     {
       "surface": "כי",
@@ -43,15 +41,15 @@
     },
     {
       "surface": "בריתך",
-      "gloss": "tu brit"
+      "gloss": "tu Brit"
     },
     {
       "surface": "בני",
-      "gloss": "los hijos de"
+      "gloss": "los hijos"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "את",
@@ -68,11 +66,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩"
+      "gloss": "y ⟨את⟩",
+      "marks": "a tus profetas"
     },
     {
       "surface": "נביאיך",
-      "gloss": "tus profetas"
+      "gloss": "a tus profetas"
     },
     {
       "surface": "הרגו",
@@ -80,11 +79,11 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "⟨a⟩ espada"
+      "gloss": "a espada"
     },
     {
       "surface": "ואותר",
-      "gloss": "y yo he quedado"
+      "gloss": "y he quedado"
     },
     {
       "surface": "אני",
@@ -101,15 +100,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mi alma"
+      "marks": "mi vida"
     },
     {
       "surface": "נפשי",
-      "gloss": "mi alma"
+      "gloss": "mi vida"
     },
     {
       "surface": "לקחתה",
       "gloss": "para quitarla"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:24:48.052289448Z",
+  "model": "glm-5.2"
 }

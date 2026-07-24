@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 31,
   "ref": "1-chronicles 24:31",
   "book": "1-chronicles",
-  "chapter": 24,
-  "verse": 31,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:53:54.946244302Z",
-  "translation": "Y ellos también echaron ⟨את⟩ suertes delante de sus hermanos los hijos de Aharón, ⟨delante de⟩ Davidd el rey, y Tzadok, y Ajimélec, y los jefes de ⟨los⟩ padres de ⟨los⟩ sacerdotes y de ⟨los⟩ levitas; ⟨el⟩ padre principal ⟨delante de⟩ su hermano menor.",
+  "chapter": 24,
+  "translation": "También ellos echaron suertes ⟨junto a⟩ sus hermanos, ⟨los⟩ hijos de Aharón, delante de David ⟨el⟩ rey, y Tzadok, y Ajimélek, y ⟨los⟩ cabezas de los padres, ⟨para⟩ los sacerdotes y ⟨para⟩ los levitas; los padres cabezas ⟨junto a⟩ su hermano ⟨el⟩ menor.",
   "tokens": [
     {
       "surface": "ויפילו",
-      "gloss": "Y ellos también echaron"
+      "gloss": "echaron"
     },
     {
       "surface": "גם",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "לעמת",
-      "gloss": "⟨delante de⟩"
+      "gloss": "⟨junto a⟩"
     },
     {
       "surface": "אחיהם",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "los hijos de"
+      "gloss": "hijos de"
     },
     {
       "surface": "אהרן",
@@ -43,11 +41,11 @@
     },
     {
       "surface": "לפני",
-      "gloss": "⟨delante de⟩"
+      "gloss": "delante de"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "המלך",
@@ -59,35 +57,35 @@
     },
     {
       "surface": "ואחימלך",
-      "gloss": "y Ajimélec"
+      "gloss": "y Ajimélek"
     },
     {
       "surface": "וראשי",
-      "gloss": "y los jefes de"
+      "gloss": "y cabezas de"
     },
     {
       "surface": "האבות",
-      "gloss": "⟨los⟩ padres"
+      "gloss": "los padres"
     },
     {
       "surface": "לכהנים",
-      "gloss": "de ⟨los⟩ sacerdotes"
+      "gloss": "para los sacerdotes"
     },
     {
       "surface": "וללוים",
-      "gloss": "y de ⟨los⟩ levitas"
+      "gloss": "y para los levitas"
     },
     {
       "surface": "אבות",
-      "gloss": "⟨el⟩ padre"
+      "gloss": "los padres"
     },
     {
       "surface": "הראש",
-      "gloss": "principal"
+      "gloss": "cabezas"
     },
     {
       "surface": "לעמת",
-      "gloss": "⟨delante de⟩"
+      "gloss": "⟨junto a⟩"
     },
     {
       "surface": "אחיו",
@@ -95,26 +93,9 @@
     },
     {
       "surface": "הקטן",
-      "gloss": "menor"
+      "gloss": "el menor"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Aarón",
-      "to": "Aharón",
-      "token-index": 7,
-      "strongs": 175,
-      "hebrew": "אהרן"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 9,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:16:22.319566967Z",
+  "model": "glm-5.2"
 }

@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "2-kings 2:10",
   "book": "2-kings",
-  "chapter": 2,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:04:53.588224895Z",
-  "translation": "Y dijo: Has pedido ⟨un⟩ ⟨asunto⟩ difícil; sin embargo, si ves ⟨את⟩ ⟨que soy⟩ tomado de ti, te será así; y si no, no será.",
+  "chapter": 2,
+  "translation": "Y ⟨él⟩ dijo: ⟨Tú⟩ has pedido ⟨una⟩ cosa dura de pedir: si me ves ⟨את⟩ ⟨cuando⟩ sea tomado de ti, ⟨así⟩ te será; y si no, no será.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "הקשית",
-      "gloss": "Has pedido ⟨un⟩ ⟨asunto⟩ difícil"
+      "gloss": "has-pedido-difícil"
     },
     {
       "surface": "לשאול",
-      "gloss": ""
+      "gloss": "de-pedir"
     },
     {
       "surface": "אם",
@@ -32,23 +30,23 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "que soy tomado"
+      "marks": "me (objeto directo de 'ves')"
     },
     {
       "surface": "לקח",
-      "gloss": "⟨que soy⟩ tomado"
+      "gloss": "tomado"
     },
     {
       "surface": "מאתך",
-      "gloss": "de ti"
+      "gloss": "de-ti"
     },
     {
       "surface": "יהי",
-      "gloss": "te será"
+      "gloss": "será"
     },
     {
       "surface": "לך",
-      "gloss": ""
+      "gloss": "a-ti"
     },
     {
       "surface": "כן",
@@ -56,7 +54,7 @@
     },
     {
       "surface": "ואם",
-      "gloss": "y si"
+      "gloss": "y-si"
     },
     {
       "surface": "אין",
@@ -70,5 +68,7 @@
       "surface": "יהיה",
       "gloss": "será"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:26:02.245276352Z",
+  "model": "glm-5.2"
 }

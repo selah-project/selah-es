@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "1-kings 2:12",
   "book": "1-kings",
-  "chapter": 2,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:45:23.187140028Z",
-  "translation": "Y Shlomó se sentó ⟨sobre⟩ el trono de ⟨את⟩Davidd su padre, ⟨y⟩ su reinado se afirmó con gran ⟨vigor⟩.",
+  "chapter": 2,
+  "translation": "Y Shlomó se sentó sobre el trono de David su padre, y su reinado ⟨fue⟩ afirmado en gran manera.",
   "tokens": [
     {
       "surface": "ושלמה",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨sobre⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "כסא",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "de David"
     },
     {
       "surface": "אביו",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "ותכן",
-      "gloss": "⟨y⟩"
+      "gloss": "y su reinado ⟨fue⟩ afirmado"
     },
     {
       "surface": "מלכתו",
@@ -43,19 +41,9 @@
     },
     {
       "surface": "מאד",
-      "gloss": "con gran ⟨vigor⟩"
+      "gloss": "en gran manera"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 4,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:19:56.423818440Z",
+  "model": "glm-5.2"
 }

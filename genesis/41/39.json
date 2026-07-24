@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 39,
   "ref": "genesis 41:39",
   "book": "genesis",
-  "chapter": 41,
-  "verse": 39,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:12:21.667336584Z",
-  "translation": "Y Paroh dijo a Yosef: después de que Elohim te haya hecho saber todo esto, no hay nadie tan prudente y sabio como tú.",
+  "chapter": 41,
+  "translation": "Y Paró dijo a Yosef: después de que Elohim ⟨te⟩ hizo saber ⟨את⟩ todo esto, no ⟨hay⟩ entendido ni sabio como tú.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Y ... dijo"
+      "gloss": "Y dijo"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroh"
+      "gloss": "Paró"
     },
     {
       "surface": "אל",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "después de"
+      "gloss": "después de que"
     },
     {
       "surface": "הודיע",
-      "gloss": "haya hecho saber"
+      "gloss": "hizo saber"
     },
     {
       "surface": "אלהים",
@@ -39,7 +37,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "te"
+      "gloss": "⟨את⟩ te",
+      "marks": "todo esto"
     },
     {
       "surface": "את",
@@ -56,19 +55,21 @@
     },
     {
       "surface": "אין",
-      "gloss": "no hay"
+      "gloss": "no"
     },
     {
       "surface": "נבון",
-      "gloss": "prudente"
+      "gloss": "entendido"
     },
     {
       "surface": "וחכם",
-      "gloss": "y sabio"
+      "gloss": "ni sabio"
     },
     {
       "surface": "כמוך",
       "gloss": "como tú"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:55:09.095949987Z",
+  "model": "glm-5.2"
 }

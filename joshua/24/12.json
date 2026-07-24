@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "joshua 24:12",
   "book": "joshua",
-  "chapter": 24,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-10T01:26:16.724948935Z",
-  "translation": "Y ⟨es⟩ envié ⟨el⟩ zumbador delante de vosotros, y ⟨el⟩ expulsó de delante de vosotros ⟨a⟩ los dos reyes ⟨del⟩ amorreo, no con tu espada ni con tu arco.",
+  "chapter": 24,
+  "translation": "Y envié delante de vosotros ⟨את⟩ la avispa, y ⟨ella⟩ los ahuyentó de delante de vosotros — ⟨a⟩ los dos reyes del Emori — no con tu espada y no con tu arco.",
   "tokens": [
     {
       "surface": "ואשלח",
@@ -20,20 +18,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "el zumbador"
+      "marks": "la avispa"
     },
     {
       "surface": "הצרעה",
-      "gloss": "el zumbador"
+      "gloss": "la avispa"
     },
     {
       "surface": "ותגרש",
-      "gloss": "y ⟨el⟩ expulsó"
+      "gloss": "y ⟨ella⟩ ahuyentó"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨a⟩",
-      "marks": "los dos reyes ⟨del⟩ amorreo"
+      "gloss": "los",
+      "marks": "a los dos reyes del Emori"
     },
     {
       "surface": "מפניכם",
@@ -41,7 +39,7 @@
     },
     {
       "surface": "שני",
-      "gloss": "los dos"
+      "gloss": "dos"
     },
     {
       "surface": "מלכי",
@@ -49,7 +47,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "⟨del⟩ amorreo"
+      "gloss": "del Emori"
     },
     {
       "surface": "לא",
@@ -61,11 +59,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ni"
+      "gloss": "y no"
     },
     {
       "surface": "בקשתך",
       "gloss": "con tu arco"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:05:09.246927569Z",
+  "model": "glm-5.2"
 }

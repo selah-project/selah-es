@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "1-chronicles 20:7",
   "book": "1-chronicles",
-  "chapter": 20,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:49:15.492131300Z",
-  "translation": "Y cuando blasfemaba ⟨a⟩ Yisrael, Jonathan hijo de Shimea, hermano de Davidd, lo mató.",
+  "chapter": 20,
+  "translation": "Y ⟨él⟩ ultrajó ⟨את⟩ a Yisrael, y Yonatán ben Shimá, hermano de David, lo hirió.",
   "tokens": [
     {
       "surface": "ויחרף",
-      "gloss": "Y cuando blasfemaba"
+      "gloss": "y ultrajó"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israel"
+      "marks": "a Yisrael"
     },
     {
       "surface": "ישראל",
@@ -24,46 +22,29 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "lo mató"
+      "gloss": "y lo hirió"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jonathan"
+      "gloss": "Yonatán"
     },
     {
       "surface": "בן",
-      "gloss": "hijo"
+      "gloss": "ben (hijo de)"
     },
     {
       "surface": "שמעא",
-      "gloss": "de Shimea"
+      "gloss": "Shimá"
     },
     {
       "surface": "אחי",
-      "gloss": "hermano"
+      "gloss": "hermano de"
     },
     {
       "surface": "דויד",
-      "gloss": "de Davidd"
+      "gloss": "David"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 8,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:15:55.922093165Z",
+  "model": "glm-5.2"
 }

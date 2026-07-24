@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "1-samuel 12:2",
   "book": "1-samuel",
-  "chapter": 12,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:54:51.529651301Z",
-  "translation": "Y ahora, he aquí, ⟨el⟩ rey ⟨está⟩ andando delante de vosotros, y yo ⟨soy⟩ viejo y ⟨he⟩ envejecido, y he aquí, mis hijos ⟨están⟩ con vosotros, y yo ⟨he⟩ andado delante de vosotros desde mi juventud hasta ⟨el⟩ día de hoy.",
+  "chapter": 12,
+  "translation": "Y ahora, ¡he aquí! el rey camina delante de vosotros, y yo he envejecido y ⟨estoy⟩ cano, y he aquí mis hijos ⟨están⟩ con vosotros; y yo he caminado delante de vosotros desde mi juventud hasta el día este.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "הנה",
-      "gloss": "he aquí"
+      "gloss": "¡he aquí!"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨el⟩ rey"
+      "gloss": "el rey"
     },
     {
       "surface": "מתהלך",
-      "gloss": "⟨está⟩ andando"
+      "gloss": "camina"
     },
     {
       "surface": "לפניכם",
@@ -35,23 +33,24 @@
     },
     {
       "surface": "זקנתי",
-      "gloss": "⟨soy⟩ viejo"
+      "gloss": "he envejecido"
     },
     {
       "surface": "ושבתי",
-      "gloss": "y ⟨he⟩ envejecido"
+      "gloss": "y ⟨estoy⟩ cano"
     },
     {
       "surface": "ובני",
-      "gloss": "y he aquí, mis hijos"
+      "gloss": "y mis hijos"
     },
     {
       "surface": "הנם",
-      "gloss": "⟨están⟩"
+      "gloss": "he aquí"
     },
     {
       "surface": "אתכם",
-      "gloss": "con vosotros"
+      "gloss": "⟨את⟩",
+      "marks": "con vosotros"
     },
     {
       "surface": "ואני",
@@ -59,7 +58,7 @@
     },
     {
       "surface": "התהלכתי",
-      "gloss": "⟨he⟩ andado"
+      "gloss": "he caminado"
     },
     {
       "surface": "לפניכם",
@@ -75,15 +74,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "⟨el⟩ día"
+      "gloss": "el día"
     },
     {
       "surface": "הזה",
-      "gloss": "de hoy"
+      "gloss": "este"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:11:14.473085558Z",
+  "model": "glm-5.2"
 }

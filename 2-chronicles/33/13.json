@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "2-chronicles 33:13",
   "book": "2-chronicles",
-  "chapter": 33,
-  "verse": 13,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:37:40.711642110Z",
-  "translation": "Y oró a ⟨את⟩ Elohim y Él ⟨fue⟩ propicio para él y escuchó ⟨su⟩ súplica y lo devolvió a Yerushalayim a ⟨su⟩ reino y Menashé supo que YHWH ⟨es⟩ HaElohim",
+  "chapter": 33,
+  "translation": "Y oró a Él, y ⟨le⟩ fue propicio, y escuchó su súplica, y lo devolvió a Yerushalayim a su reino. Y supo Menashé que YHWH — ⟨Él⟩ ⟨es⟩ Elohim.",
   "tokens": [
     {
       "surface": "ויתפלל",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "אליו",
-      "gloss": "a ⟨את⟩ Elohim"
+      "gloss": "a Él"
     },
     {
       "surface": "ויעתר",
-      "gloss": "y Él ⟨fue⟩ propicio"
+      "gloss": "y ⟨le⟩ fue propicio"
     },
     {
       "surface": "לו",
-      "gloss": "para él"
+      "gloss": "a él"
     },
     {
       "surface": "וישמע",
@@ -31,10 +29,10 @@
     },
     {
       "surface": "תחנתו",
-      "gloss": "⟨su⟩ súplica"
+      "gloss": "su súplica"
     },
     {
-      "surface": "ושיבהו",
+      "surface": "וישיבהו",
       "gloss": "y lo devolvió"
     },
     {
@@ -43,11 +41,11 @@
     },
     {
       "surface": "למלכותו",
-      "gloss": "a ⟨su⟩ reino"
+      "gloss": "a su reino"
     },
     {
       "surface": "וידע",
-      "gloss": "y Manasés supo"
+      "gloss": "Y supo"
     },
     {
       "surface": "מנשה",
@@ -63,30 +61,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨es⟩"
+      "gloss": "— ⟨Él⟩"
     },
     {
       "surface": "האלהים",
-      "gloss": "HaElohim"
+      "gloss": "⟨es⟩ Elohim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jerusalén",
-      "to": "Yerushalayim",
-      "token-index": 7,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    },
-    {
-      "from": "Manasés",
-      "to": "Menashé",
-      "token-index": 10,
-      "strongs": 4519,
-      "hebrew": "מנשה־מלך"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:21:33.364294193Z",
+  "model": "glm-5.2"
 }

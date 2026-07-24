@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "deuteronomy 8:10",
   "book": "deuteronomy",
-  "chapter": 8,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:46:26.317879250Z",
-  "translation": "Y comerás y te saciarás, y bendecirás ⟨את⟩ YHWH tu Elohim por ⟨la⟩ buena tierra que ⟨él⟩ dio para ti",
+  "chapter": 8,
+  "translation": "Y comerás y te saciarás, y bendecirás a YHWH tu Elohim ⟨sobre⟩ ⟨la⟩ tierra ⟨la⟩ buena que ⟨él⟩ te ha dado.",
   "tokens": [
     {
       "surface": "ואכלת",
-      "gloss": "y comerás"
+      "gloss": "Y comerás"
     },
     {
       "surface": "ושבעת",
@@ -24,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "YHWH tu Elohim"
+      "marks": "a YHWH"
     },
     {
       "surface": "יהוה",
@@ -36,15 +34,15 @@
     },
     {
       "surface": "על",
-      "gloss": "por"
+      "gloss": "sobre"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨la⟩ buena tierra"
+      "gloss": "la tierra"
     },
     {
       "surface": "הטבה",
-      "gloss": ""
+      "gloss": "la buena"
     },
     {
       "surface": "אשר",
@@ -52,11 +50,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "⟨él⟩ dio"
+      "gloss": "⟨él⟩ ha dado"
     },
     {
       "surface": "לך",
-      "gloss": "para ti"
+      "gloss": "a ti"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:00:13.001847921Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "2-chronicles 3:2",
   "book": "2-chronicles",
-  "chapter": 3,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:02:13.663628028Z",
-  "translation": "Y comenzó a ⟨es⟩ ⟨את⟩ ⟨la casa⟩ en el segundo día del segundo mes, en el año cuatro de ⟨su⟩ reinado.",
+  "chapter": 3,
+  "translation": "Y ⟨él⟩ comenzó a construir ⟨en⟩ el Jódesh segundo, el segundo ⟨día⟩, en el año cuarto de su reinado.",
   "tokens": [
     {
       "surface": "ויחל",
@@ -15,12 +13,11 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "a ⟨es⟩ ⟨la casa⟩",
-      "marks": "el Templo de Jerusalén (del versículo anterior)"
+      "gloss": "a construir"
     },
     {
       "surface": "בחדש",
-      "gloss": "en el mes"
+      "gloss": "⟨en⟩ el Jódesh"
     },
     {
       "surface": "השני",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "בשני",
-      "gloss": "día"
+      "gloss": "el segundo ⟨día⟩"
     },
     {
       "surface": "בשנת",
@@ -40,11 +37,9 @@
     },
     {
       "surface": "למלכותו",
-      "gloss": "de ⟨su⟩ reinado"
+      "gloss": "de su reinado"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:17:05.985369131Z",
+  "model": "glm-5.2"
 }

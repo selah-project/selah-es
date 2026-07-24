@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "1-samuel 8:10",
   "book": "1-samuel",
-  "chapter": 8,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:36:41.184503988Z",
-  "translation": "Y Shmuel dijo ⟨את⟩ todas las palabras de YHWH ⟨a⟩ el pueblo ⟨que estaba⟩ pidiendo de él un rey.",
+  "chapter": 8,
+  "translation": "Y Shmuel habló ⟨את⟩ todas las palabras de YHWH al pueblo que pedía de él ⟨un⟩ rey.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Y"
+      "gloss": "Y habló"
     },
     {
       "surface": "שמואל",
@@ -20,23 +18,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todas las palabras de YHWH"
+      "marks": "todas las palabras"
     },
     {
       "surface": "כל",
-      "gloss": "todas las"
+      "gloss": "todas"
     },
     {
       "surface": "דברי",
-      "gloss": "palabras"
+      "gloss": "las palabras de"
     },
     {
       "surface": "יהוה",
-      "gloss": "de YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אל",
-      "gloss": "⟨a⟩"
+      "gloss": "a"
     },
     {
       "surface": "העם",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "השאלים",
-      "gloss": "⟨que estaba⟩ pidiendo"
+      "gloss": "que pedían"
     },
     {
       "surface": "מאתו",
@@ -52,7 +50,9 @@
     },
     {
       "surface": "מלך",
-      "gloss": "un rey"
+      "gloss": "rey"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:10:46.118845078Z",
+  "model": "glm-5.2"
 }

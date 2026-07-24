@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "2-chronicles 2:10",
   "book": "2-chronicles",
-  "chapter": 2,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:01:42.566638997Z",
-  "translation": "Y dijo Jiram, rey de Tzor, por escrito, y envió a Shelomá: ⟨por⟩ el amor de YHWH ⟨a⟩ su pueblo, te ⟨ha⟩ puesto rey sobre ellos.",
+  "chapter": 2,
+  "translation": "Y Juram, rey de Tzor, dijo por escrito y envió ⟨a⟩ Shlomó: Por el amor de YHWH ⟨a⟩ ⟨את⟩ su pueblo, ⟨él⟩ te ha puesto sobre ellos como rey.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "חורם",
-      "gloss": "Jiram"
+      "gloss": "Juram"
     },
     {
       "surface": "מלך",
@@ -39,20 +37,20 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomá"
+      "gloss": "Shlomó"
     },
     {
       "surface": "באהבת",
-      "gloss": "⟨por⟩ el amor de"
+      "gloss": "Por el amor"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "su pueblo"
+      "marks": "a su pueblo"
     },
     {
       "surface": "עמו",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "נתנך",
-      "gloss": "te ⟨ha⟩ puesto"
+      "gloss": "te ha puesto"
     },
     {
       "surface": "עליהם",
@@ -68,19 +66,9 @@
     },
     {
       "surface": "מלך",
-      "gloss": "rey"
+      "gloss": "como rey"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Tiro",
-      "to": "Tzor",
-      "token-index": 3,
-      "strongs": 6865,
-      "hebrew": "צור"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:16:53.833167365Z",
+  "model": "glm-5.2"
 }

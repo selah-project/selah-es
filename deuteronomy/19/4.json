@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "deuteronomy 19:4",
   "book": "deuteronomy",
-  "chapter": 19,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:07:34.899518054Z",
-  "translation": "Y este ⟨es⟩ ⟨el⟩ asunto ⟨del⟩ homicida que huirá allá y vivirá; que golpee ⟨a⟩ ⟨su⟩ prójimo sin Daat, y ⟨el⟩ ⟨que⟩ no lo aborrecía desde antes de ayer y anteayer",
+  "chapter": 19,
+  "translation": "Y este es el davar del homicida ⟨que⟩ huirá allá y vivirá: ⟨aquel⟩ que hiera ⟨את⟩ a su prójimo sin Daat, y él no lo odiaba desde ayer ni anteayer.",
   "tokens": [
     {
       "surface": "וזה",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "דבר",
-      "gloss": "⟨el⟩ asunto"
+      "gloss": "es el davar"
     },
     {
       "surface": "הרצח",
-      "gloss": "⟨del⟩ homicida"
+      "gloss": "del homicida"
     },
     {
       "surface": "אשר",
-      "gloss": "que"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "ינוס",
@@ -39,20 +37,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": "que"
+      "gloss": "⟨aquel⟩ que"
     },
     {
       "surface": "יכה",
-      "gloss": "golpee"
+      "gloss": "hiera"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "רעהו"
+      "marks": "a su prójimo"
     },
     {
       "surface": "רעהו",
-      "gloss": "⟨su⟩ prójimo"
+      "gloss": "a su prójimo"
     },
     {
       "surface": "בבלי",
@@ -64,7 +62,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "y ⟨el⟩ ⟨que⟩"
+      "gloss": "y él"
     },
     {
       "surface": "לא",
@@ -72,7 +70,7 @@
     },
     {
       "surface": "שנא",
-      "gloss": "aborrecía"
+      "gloss": "odiaba"
     },
     {
       "surface": "לו",
@@ -80,23 +78,13 @@
     },
     {
       "surface": "מתמל",
-      "gloss": "desde antes de"
+      "gloss": "desde ayer"
     },
     {
       "surface": "שלשם",
-      "gloss": "ayer y anteayer"
+      "gloss": "ni anteayer"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "conocimiento",
-      "to": "Daat",
-      "token-index": 12,
-      "strongs": 1847,
-      "hebrew": "דעת"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:54:10.216176531Z",
+  "model": "glm-5.2"
 }

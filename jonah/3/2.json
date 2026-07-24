@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "jonah 3:2",
   "book": "jonah",
-  "chapter": 3,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:05:10.920781248Z",
-  "translation": "Levántate, ve a Nínive, la gran ciudad, y proclama ⟨את⟩ el mensaje que yo hablo contigo.",
+  "chapter": 3,
+  "translation": "Levántate, ve a Nínive, la gran ciudad, y proclama en ella ⟨את⟩ la proclamación que yo te hablo.",
   "tokens": [
     {
       "surface": "קום",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "העיר",
-      "gloss": "la gran ciudad"
+      "gloss": "la ciudad"
     },
     {
       "surface": "הגדולה",
-      "gloss": ""
+      "gloss": "la gran"
     },
     {
       "surface": "וקרא",
@@ -39,16 +37,16 @@
     },
     {
       "surface": "אליה",
-      "gloss": "⟨a ella⟩"
+      "gloss": "en ella"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "el mensaje"
+      "marks": "la proclamación"
     },
     {
       "surface": "הקריאה",
-      "gloss": "el mensaje"
+      "gloss": "la proclamación"
     },
     {
       "surface": "אשר",
@@ -60,11 +58,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "hablo"
+      "gloss": "te hablo"
     },
     {
       "surface": "אליך",
-      "gloss": "contigo"
+      "gloss": "a ti"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:52:47.441350285Z",
+  "model": "glm-5.2"
 }

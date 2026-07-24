@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "2-chronicles 36:7",
   "book": "2-chronicles",
-  "chapter": 36,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:41:28.525888135Z",
-  "translation": "Y de los utensilios de ⟨la⟩ casa de YHWH, trajo Nevujadnetzar a Babilonia y ⟨los⟩ puso en su templo en Babilonia ⟨את⟩.",
+  "chapter": 36,
+  "translation": "Y de los utensilios del Beit YHWH trajo Nevujadnetzar a Bavel, y los puso en su palacio en Bavel.",
   "tokens": [
     {
       "surface": "ומכלי",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "de ⟨la⟩ casa"
+      "gloss": "del Beit"
     },
     {
       "surface": "יהוה",
-      "gloss": "de YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הביא",
@@ -31,31 +29,21 @@
     },
     {
       "surface": "לבבל",
-      "gloss": "a Babilonia"
+      "gloss": "a Bavel"
     },
     {
       "surface": "ויתנם",
-      "gloss": "y ⟨los⟩ puso"
+      "gloss": "y los puso"
     },
     {
       "surface": "בהיכלו",
-      "gloss": "en su templo"
+      "gloss": "en su palacio"
     },
     {
       "surface": "בבבל",
-      "gloss": "en Babilonia"
+      "gloss": "en Bavel"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Nabucodonosor",
-      "to": "Nevujadnetzar",
-      "token-index": 4,
-      "strongs": 5019,
-      "hebrew": "נבוכדנאצר"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:21:57.497749321Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "ezekiel 17:12",
   "book": "ezekiel",
-  "chapter": 17,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T12:25:55.124184138Z",
-  "translation": "Di ⟨ahora⟩ a ⟨la⟩ casa rebelde: ¿No conocéis ⟨lo⟩ que ⟨esto⟩ ⟨es⟩? Decid: ⟨He aquí⟩ ⟨el⟩ rey de Bavel vino ⟨a⟩ Yerushalayim, y tomó ⟨a⟩ ⟨el⟩ rey y ⟨a⟩ ⟨sus⟩ príncipes, y ⟨se los⟩ llevó ⟨con⟩ él ⟨a⟩ Bavel.",
+  "chapter": 17,
+  "translation": "Di ⟨por favor⟩ a la casa de la rebelión: ¿No sabéis qué son estas cosas? Di: He aquí, ⟨el⟩ rey de Bavel vino a Yerushalayim, y tomó ⟨את⟩ a su rey y ⟨את⟩ a sus príncipes, y los trajo ⟨את⟩ a él, a Bavel.",
   "tokens": [
     {
       "surface": "אמר",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "נא",
-      "gloss": "⟨ahora⟩"
+      "gloss": "⟨por favor⟩"
     },
     {
       "surface": "לבית",
-      "gloss": "a ⟨la⟩ casa"
+      "gloss": "a la casa"
     },
     {
       "surface": "המרי",
-      "gloss": "rebelde"
+      "gloss": "de la rebelión"
     },
     {
       "surface": "הלא",
@@ -31,39 +29,39 @@
     },
     {
       "surface": "ידעתם",
-      "gloss": "conocéis"
+      "gloss": "sabéis"
     },
     {
       "surface": "מה",
-      "gloss": "⟨lo⟩"
+      "gloss": "qué"
     },
     {
       "surface": "אלה",
-      "gloss": "que ⟨esto⟩"
+      "gloss": "estas cosas"
     },
     {
       "surface": "אמר",
-      "gloss": "⟨es⟩? Decid"
+      "gloss": "son? Di"
     },
     {
       "surface": "הנה",
-      "gloss": "⟨He aquí⟩"
+      "gloss": "He aquí"
     },
     {
       "surface": "בא",
-      "gloss": "⟨el⟩ rey"
-    },
-    {
-      "surface": "מלך",
-      "gloss": "de Babilonia"
-    },
-    {
-      "surface": "בבל",
       "gloss": "vino"
     },
     {
+      "surface": "מלך",
+      "gloss": "⟨el⟩ rey"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Bavel"
+    },
+    {
       "surface": "ירושלם",
-      "gloss": "⟨a⟩ Yerushalayim,"
+      "gloss": "a Yerushalayim"
     },
     {
       "surface": "ויקח",
@@ -72,56 +70,39 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "מלכה"
+      "marks": "a su rey"
     },
     {
       "surface": "מלכה",
-      "gloss": "rey"
+      "gloss": "a su rey"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩ ⟨sus⟩",
-      "marks": "שריה"
+      "gloss": "y ⟨את⟩",
+      "marks": "a sus príncipes"
     },
     {
       "surface": "שריה",
-      "gloss": "príncipes,"
+      "gloss": "a sus príncipes"
     },
     {
       "surface": "ויבא",
-      "gloss": "y ⟨se los⟩ llevó"
+      "gloss": "y los trajo"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨con⟩ él",
-      "marks": "אליו"
+      "gloss": "⟨את⟩",
+      "marks": "a ellos"
     },
     {
       "surface": "אליו",
-      "gloss": "⟨a⟩"
+      "gloss": "a él"
     },
     {
       "surface": "בבלה",
-      "gloss": "Bavel."
+      "gloss": "a Bavel"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jerusalén",
-      "to": "Yerushalayim",
-      "token-index": 13,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    },
-    {
-      "from": "Babilonia",
-      "to": "Bavel",
-      "token-index": 22,
-      "strongs": 894,
-      "hebrew": "בבל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:46:10.807569899Z",
+  "model": "glm-5.2"
 }

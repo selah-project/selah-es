@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 59,
   "ref": "numbers 26:59",
   "book": "numbers",
-  "chapter": 26,
-  "verse": 59,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-10T05:01:54.346157674Z",
-  "translation": "y ⟨el⟩ nombre ⟨de⟩ ⟨la⟩ esposa ⟨de⟩ Amram ⟨era⟩ Yojéved ⟨hija⟩ ⟨de⟩ Leví, ⟨quien⟩ ⟨fue⟩ dada a luz ⟨a⟩ Leví ⟨en⟩ Egipto; y ella dio a luz ⟨a⟩ Amram ⟨a⟩ Aharón ⟨y⟩ ⟨a⟩ Moshé ⟨y⟩ ⟨a⟩ Miryam ⟨hermana⟩ ⟨de⟩ ellos",
+  "chapter": 26,
+  "translation": "Y el nombre de la esposa de Amram era Yojéved, hija de Leví, que ⟨la⟩ dio a luz a Leví en Mitzráyim; y ella dio a luz a Amram ⟨את⟩ Aharón y ⟨את⟩ Moshé y ⟨את⟩ Miryam, hermana de ellos.",
   "tokens": [
     {
       "surface": "ושם",
-      "gloss": "Y ⟨el⟩ nombre"
+      "gloss": "y el nombre"
     },
     {
       "surface": "אשת",
-      "gloss": "⟨de⟩ ⟨la⟩ esposa"
+      "gloss": "de la esposa"
     },
     {
       "surface": "עמרם",
-      "gloss": "⟨de⟩ Amram"
+      "gloss": "de Amram"
     },
     {
       "surface": "יוכבד",
@@ -27,39 +25,40 @@
     },
     {
       "surface": "בת",
-      "gloss": "⟨hija⟩"
+      "gloss": "hija"
     },
     {
       "surface": "לוי",
-      "gloss": "⟨de⟩ Leví"
+      "gloss": "de Leví"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨quien⟩"
+      "gloss": "que"
     },
     {
       "surface": "ילדה",
-      "gloss": "⟨fue⟩ dada a luz"
+      "gloss": "dio a luz"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨a⟩"
+      "gloss": "⟨את⟩",
+      "marks": "a Leví"
     },
     {
       "surface": "ללוי",
-      "gloss": "Leví"
+      "gloss": "a Leví"
     },
     {
       "surface": "במצרים",
-      "gloss": "⟨en⟩ Egipto"
+      "gloss": "en Mitzráyim"
     },
     {
       "surface": "ותלד",
-      "gloss": "y ella dio a luz"
+      "gloss": "y dio a luz"
     },
     {
       "surface": "לעמרם",
-      "gloss": "⟨a⟩ Amram"
+      "gloss": "a Amram"
     },
     {
       "surface": "את",
@@ -72,7 +71,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨y⟩ ⟨a⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Moshé"
     },
     {
@@ -81,7 +80,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨y⟩ ⟨a⟩",
+      "gloss": "y ⟨את⟩",
       "marks": "Miryam"
     },
     {
@@ -90,7 +89,9 @@
     },
     {
       "surface": "אחתם",
-      "gloss": "⟨hermana⟩ ⟨de⟩ ellos"
+      "gloss": "hermana de ellos"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:41:33.944954857Z",
+  "model": "glm-5.2"
 }

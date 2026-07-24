@@ -1,37 +1,35 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "numbers 6:21",
   "book": "numbers",
-  "chapter": 6,
-  "verse": 21,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T08:18:22.539439296Z",
-  "translation": "Esta es la Torá del nazareo quien ⟨ha⟩ prometido ⟨את⟩ su Korban a HaShem sobre su separación aparte de lo que su mano alcance; conforme al voto que ⟨ha⟩ prometido, así ⟨hará⟩ ⟨conforme a⟩ ⟨la⟩ Torá de su separación.",
+  "chapter": 6,
+  "translation": "Esta ⟨es⟩ la Torá del nazireo que hace un voto, su korban a YHWH por su nazareato — aparte de lo que alcance su mano; conforme a su voto que haga, así hará, conforme a la Torá de su nazareato.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "Esta"
+      "gloss": "esta"
     },
     {
       "surface": "תורת",
-      "gloss": "Torá"
+      "gloss": "la Torá de"
     },
     {
       "surface": "הנזיר",
-      "gloss": "del nazareo"
+      "gloss": "el nazireo"
     },
     {
       "surface": "אשר",
-      "gloss": "quien"
+      "gloss": "que"
     },
     {
       "surface": "ידר",
-      "gloss": "prometido"
+      "gloss": "hace un voto"
     },
     {
       "surface": "קרבנו",
-      "gloss": "su Korban"
+      "gloss": "su korban"
     },
     {
       "surface": "ליהוה",
@@ -39,11 +37,11 @@
     },
     {
       "surface": "על",
-      "gloss": "sobre"
+      "gloss": "por"
     },
     {
       "surface": "נזרו",
-      "gloss": "su separación"
+      "gloss": "su nazareato"
     },
     {
       "surface": "מלבד",
@@ -63,11 +61,11 @@
     },
     {
       "surface": "כפי",
-      "gloss": "conforme"
+      "gloss": "conforme a"
     },
     {
       "surface": "נדרו",
-      "gloss": "al voto"
+      "gloss": "su voto"
     },
     {
       "surface": "אשר",
@@ -75,7 +73,7 @@
     },
     {
       "surface": "ידר",
-      "gloss": "prometido"
+      "gloss": "haga"
     },
     {
       "surface": "כן",
@@ -91,23 +89,13 @@
     },
     {
       "surface": "תורת",
-      "gloss": "la Torá"
+      "gloss": "la Torá de"
     },
     {
       "surface": "נזרו",
-      "gloss": "de su separación"
+      "gloss": "su nazareato"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "ofrenda",
-      "to": "Korban",
-      "token-index": 5,
-      "strongs": 7133,
-      "hebrew": "קרבן"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:32:55.190003183Z",
+  "model": "glm-5.2"
 }

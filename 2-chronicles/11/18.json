@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "2-chronicles 11:18",
   "book": "2-chronicles",
-  "chapter": 11,
-  "verse": 18,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:11:02.447141626Z",
-  "translation": "Y tomó para sí Rejavam ⟨una⟩ mujer ⟨a⟩ Majalat hija de Yerimot hijo de Davidd, ⟨y⟩ a Avijail hija de Eliab hijo de Isaí",
+  "chapter": 11,
+  "translation": "Y tomó para sí Rejavam ⟨una⟩ mujer: ⟨את⟩ Majalat, hija de Yerimot, hijo de David; ⟨y a⟩ Avihail, hija de Eliav, hijo de Yishay.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -23,12 +21,12 @@
     },
     {
       "surface": "אשה",
-      "gloss": "⟨una⟩ mujer"
+      "gloss": "mujer"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Majalat hija de Yerimot hijo de David"
+      "marks": "Majalat"
     },
     {
       "surface": "מחלת",
@@ -48,11 +46,11 @@
     },
     {
       "surface": "דויד",
-      "gloss": "de Davidd"
+      "gloss": "de David"
     },
     {
       "surface": "אביהיל",
-      "gloss": "⟨y⟩ a Avijail"
+      "gloss": "Avihail"
     },
     {
       "surface": "בת",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "אליאב",
-      "gloss": "de Eliab"
+      "gloss": "de Eliav"
     },
     {
       "surface": "בן",
@@ -68,26 +66,9 @@
     },
     {
       "surface": "ישי",
-      "gloss": "de Isaí"
+      "gloss": "de Yishay"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Roboam",
-      "to": "Rejavam",
-      "token-index": 2,
-      "strongs": 7346,
-      "hebrew": "רחבעם"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 9,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:18:20.410338276Z",
+  "model": "glm-5.2"
 }

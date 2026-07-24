@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "jeremiah 27:7",
   "book": "jeremiah",
-  "chapter": 27,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-10T03:24:50.133331819Z",
-  "translation": "Y servirán ⟨a él⟩ todas ⟨las⟩ naciones y ⟨a⟩ su hijo y ⟨a⟩ ⟨el⟩ hijo de su hijo hasta ⟨el⟩ venir ⟨del⟩ tiempo de su tierra, también él; y servirán ⟨a⟩ él naciones muchos y reyes grandes.",
+  "chapter": 27,
+  "translation": "Y servirle ⟨את⟩ ⟨a⟩ él todas las naciones, y ⟨את⟩ a su hijo, y ⟨את⟩ al hijo de su hijo, hasta que llegue el tiempo de su tierra, también ⟨él⟩; y le servirán muchas naciones y reyes grandes.",
   "tokens": [
     {
       "surface": "ועבדו",
-      "gloss": "Y servirán"
+      "gloss": "y servirán"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨a él⟩",
-      "marks": "todas las naciones"
+      "gloss": "⟨את⟩",
+      "marks": "a él (señalando a 'todas las naciones' como sujetos)"
     },
     {
       "surface": "כל",
@@ -24,12 +22,12 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "⟨las⟩ naciones"
+      "gloss": "las naciones"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩",
-      "marks": "su hijo"
+      "gloss": "⟨את⟩",
+      "marks": "a su hijo"
     },
     {
       "surface": "בנו",
@@ -37,28 +35,28 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩",
-      "marks": "el hijo de su hijo"
+      "gloss": "⟨את⟩",
+      "marks": "al hijo de su hijo"
     },
     {
       "surface": "בן",
-      "gloss": "⟨el⟩ hijo"
+      "gloss": "el hijo de"
     },
     {
       "surface": "בנו",
-      "gloss": "de su hijo"
+      "gloss": "su hijo"
     },
     {
       "surface": "עד",
-      "gloss": "hasta"
+      "gloss": "hasta que"
     },
     {
       "surface": "בא",
-      "gloss": "⟨el⟩ venir"
+      "gloss": "llegue"
     },
     {
       "surface": "עת",
-      "gloss": "⟨del⟩ tiempo"
+      "gloss": "el tiempo"
     },
     {
       "surface": "ארצו",
@@ -78,7 +76,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "⟨a⟩ él"
+      "gloss": "le \/ a él"
     },
     {
       "surface": "גוים",
@@ -86,7 +84,7 @@
     },
     {
       "surface": "רבים",
-      "gloss": "muchos"
+      "gloss": "muchas"
     },
     {
       "surface": "ומלכים",
@@ -96,5 +94,7 @@
       "surface": "גדלים",
       "gloss": "grandes"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:39:44.871765072Z",
+  "model": "glm-5.2"
 }

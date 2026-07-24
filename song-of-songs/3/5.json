@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "song-of-songs 3:5",
   "book": "song-of-songs",
-  "chapter": 3,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:48:50.776260143Z",
-  "translation": "Os he conjurado ⟨a⟩ vosotras, ⟨las⟩ hijas de Yerushalayim, por ⟨las⟩ gacelas o por ⟨las⟩ ciervas del campo, ⟨que⟩ no despertéis ni hagáis despertar ⟨el⟩ amor, hasta que ⟨él⟩ quiera.",
+  "chapter": 3,
+  "translation": "Os he conjurado, ⟨אתכם⟩ hijas de Yerushalayim, por las gazelas o por las ciervas del campo: que no despertéis ni arouséis ⟨את⟩ el amor, hasta que ⟨él⟩ quiera.",
   "tokens": [
     {
       "surface": "השבעתי",
@@ -15,12 +13,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨a⟩ vosotras",
-      "marks": "בנות"
+      "gloss": "⟨אתכם⟩",
+      "marks": "hijas"
     },
     {
       "surface": "בנות",
-      "gloss": "⟨las⟩ hijas"
+      "gloss": "hijas"
     },
     {
       "surface": "ירושלם",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "בצבאות",
-      "gloss": "por ⟨las⟩ gacelas"
+      "gloss": "por las gazelas"
     },
     {
       "surface": "או",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "באילות",
-      "gloss": "por ⟨las⟩ ciervas"
+      "gloss": "por las ciervas"
     },
     {
       "surface": "השדה",
@@ -44,28 +42,28 @@
     },
     {
       "surface": "אם",
-      "gloss": "⟨que⟩ no"
+      "gloss": "que"
     },
     {
       "surface": "תעירו",
-      "gloss": "despertéis"
+      "gloss": "no despertéis"
     },
     {
       "surface": "ואם",
-      "gloss": "ni hagáis"
+      "gloss": "ni"
     },
     {
       "surface": "תעוררו",
-      "gloss": "despertar"
+      "gloss": "arouséis"
     },
     {
       "surface": "את",
-      "gloss": "⟨el⟩ amor",
-      "marks": "האהבה"
+      "gloss": "⟨את⟩",
+      "marks": "el amor"
     },
     {
       "surface": "האהבה",
-      "gloss": "amor"
+      "gloss": "el amor"
     },
     {
       "surface": "עד",
@@ -73,7 +71,9 @@
     },
     {
       "surface": "שתחפץ",
-      "gloss": "⟨él⟩ quiera"
+      "gloss": "quiera"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:06:52.430729197Z",
+  "model": "glm-5.2"
 }

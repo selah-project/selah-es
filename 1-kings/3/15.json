@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "1-kings 3:15",
   "book": "1-kings",
-  "chapter": 3,
-  "verse": 15,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:47:37.183765744Z",
-  "translation": "Y Shelomah se despertó, y he aquí ⟨era⟩ un sueño, y vino a Jerushalaim, y se estuvo delante dArón ⟨את⟩ dBrit de HaShem, e hizo subir Olás, e hizo ofrendas de shalom, e hizo un banquete para todos sus siervos",
+  "chapter": 3,
+  "translation": "Y Shlomó despertó, y he aquí ⟨era⟩ un sueño. Y vino a Yerushalayim y se presentó ante el Arón de la Brit de Adonai, y hizo ascender Olót, e hizo Shelamim, e hizo ⟨un⟩ banquete para todos sus siervos.",
   "tokens": [
     {
       "surface": "ויקץ",
-      "gloss": "Y Shelomah se despertó"
+      "gloss": "Y despertó"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomah"
+      "gloss": "Shlomó"
     },
     {
       "surface": "והנה",
@@ -27,39 +25,39 @@
     },
     {
       "surface": "ויבוא",
-      "gloss": "y vino"
+      "gloss": "Y vino"
     },
     {
       "surface": "ירושלם",
-      "gloss": "a Jerushalaim"
+      "gloss": "a Yerushalayim"
     },
     {
       "surface": "ויעמד",
-      "gloss": "y se estuvo"
+      "gloss": "y se presentó"
     },
     {
       "surface": "לפני",
-      "gloss": "delante"
+      "gloss": "ante"
     },
     {
       "surface": "ארון",
-      "gloss": "dArón"
+      "gloss": "el Arón"
     },
     {
       "surface": "ברית",
-      "gloss": "dBrit"
+      "gloss": "de la Brit"
     },
     {
       "surface": "אדני",
-      "gloss": "de HaShem"
+      "gloss": "de Adonai"
     },
     {
       "surface": "ויעל",
-      "gloss": "e hizo subir"
+      "gloss": "y hizo ascender"
     },
     {
       "surface": "עלות",
-      "gloss": "Olás"
+      "gloss": "Olót"
     },
     {
       "surface": "ויעש",
@@ -67,7 +65,7 @@
     },
     {
       "surface": "שלמים",
-      "gloss": "ofrendas de shalom"
+      "gloss": "Shelamim"
     },
     {
       "surface": "ויעש",
@@ -86,30 +84,6 @@
       "gloss": "sus siervos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "el arca",
-      "to": "Arón",
-      "token-index": 8,
-      "strongs": 727,
-      "hebrew": "ארון"
-    },
-    {
-      "from": "el pacto",
-      "to": "Brit",
-      "token-index": 9,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    },
-    {
-      "from": "holocausto",
-      "to": "Olá",
-      "token-index": 12,
-      "strongs": 5930,
-      "hebrew": "עלה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:20:25.834919938Z",
+  "model": "glm-5.2"
 }

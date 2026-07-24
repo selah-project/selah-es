@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "joshua 24:4",
   "book": "joshua",
-  "chapter": 24,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:17:52.047348844Z",
-  "translation": "Y di ⟨a⟩ Yitzjak ⟨a⟩ Yaakov y ⟨a⟩ Esav; y di ⟨a⟩ Esav ⟨el⟩ monte de Seir para poseerlo; y Yaakov y sus hijos descendieron ⟨a⟩ Mitsráyim.",
+  "chapter": 24,
+  "translation": "Y a Yitzjak le di ⟨את⟩ Yaakov y ⟨את⟩ Esav; y a Esav le di ⟨את⟩ ⟨el⟩ monte de Seír para poseerlo; pero Yaakov y sus hijos descendieron a Mitzráyim.",
   "tokens": [
     {
       "surface": "ואתן",
-      "gloss": "Y di"
+      "gloss": "y di"
     },
     {
       "surface": "ליצחק",
-      "gloss": "⟨a⟩ Yitzjak"
+      "gloss": "a Yitzjak"
     },
     {
       "surface": "את",
@@ -28,7 +26,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩"
+      "gloss": "y ⟨את⟩",
+      "marks": "Esav"
     },
     {
       "surface": "עשו",
@@ -40,33 +39,32 @@
     },
     {
       "surface": "לעשו",
-      "gloss": "⟨a⟩ Esav"
+      "gloss": "a Esav"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "el monte de Seir"
+      "marks": "el monte de Seír"
     },
     {
       "surface": "הר",
-      "gloss": "⟨el⟩ monte"
+      "gloss": "monte"
     },
     {
       "surface": "שעיר",
-      "gloss": "de Seir"
+      "gloss": "de Seír"
     },
     {
       "surface": "לרשת",
-      "gloss": "para poseerlo"
+      "gloss": "para poseer"
     },
     {
       "surface": "אותו",
-      "gloss": "",
-      "marks": "Yaakov y sus hijos"
+      "gloss": "lo"
     },
     {
       "surface": "ויעקב",
-      "gloss": "y Yaakov"
+      "gloss": "pero Yaakov"
     },
     {
       "surface": "ובניו",
@@ -78,7 +76,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "⟨a⟩ Mitsráyim"
+      "gloss": "a Mitzráyim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:04:50.942313061Z",
+  "model": "glm-5.2"
 }

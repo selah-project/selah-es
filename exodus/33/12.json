@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "exodus 33:12",
   "book": "exodus",
-  "chapter": 33,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:25:11.920290447Z",
-  "translation": "Y dijo Moshé a YHWH: Mira, tú dices a mí: ⟨haz⟩ subir ⟨a⟩ ⟨את⟩ este pueblo, y tú no has hecho saber ⟨a⟩ mí ⟨את⟩ quién enviarás conmigo, y tú dijiste: Te he conocido ⟨por⟩ nombre, y también has hallado gracia en mis ojos.",
+  "chapter": 33,
+  "translation": "Y dijo Moshé a YHWH: Mira, tú ⟨estás⟩ diciendo a mí: «¡Haz subir ⟨את⟩ a este pueblo!», pero tú no me has dado a conocer ⟨את⟩ a quien enviarás conmigo. Y tú has dicho: «Yo te he conocido por nombre», y también hallaste gracia en mis ojos.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "dices"
+      "gloss": "estás diciendo"
     },
     {
       "surface": "אלי",
@@ -43,24 +41,24 @@
     },
     {
       "surface": "העל",
-      "gloss": "⟨haz⟩ subir"
+      "gloss": "¡Haz subir!"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "este pueblo"
+      "marks": "a este pueblo"
     },
     {
       "surface": "העם",
-      "gloss": "este pueblo"
+      "gloss": "al pueblo"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "este"
     },
     {
       "surface": "ואתה",
-      "gloss": "y tú"
+      "gloss": "pero tú"
     },
     {
       "surface": "לא",
@@ -68,16 +66,16 @@
     },
     {
       "surface": "הודעתני",
-      "gloss": "has hecho saber ⟨a⟩ mí"
+      "gloss": "me has dado a conocer"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "quién"
+      "marks": "a quien enviarás conmigo"
     },
     {
       "surface": "אשר",
-      "gloss": "quién"
+      "gloss": "a quien"
     },
     {
       "surface": "תשלח",
@@ -89,19 +87,19 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "y tú"
+      "gloss": "Y tú"
     },
     {
       "surface": "אמרת",
-      "gloss": "dijiste"
+      "gloss": "has dicho"
     },
     {
       "surface": "ידעתיך",
-      "gloss": "Te he conocido"
+      "gloss": "Yo te he conocido"
     },
     {
       "surface": "בשם",
-      "gloss": "⟨por⟩ nombre"
+      "gloss": "por nombre"
     },
     {
       "surface": "וגם",
@@ -109,7 +107,7 @@
     },
     {
       "surface": "מצאת",
-      "gloss": "has hallado"
+      "gloss": "hallaste"
     },
     {
       "surface": "חן",
@@ -119,5 +117,7 @@
       "surface": "בעיני",
       "gloss": "en mis ojos"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:12:49.619365014Z",
+  "model": "glm-5.2"
 }

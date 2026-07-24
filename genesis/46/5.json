@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "genesis 46:5",
   "book": "genesis",
-  "chapter": 46,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:15:25.385620570Z",
-  "translation": "Y Yaakov se levantó de Beer-Sheva, y los hijos de Yisrael llevaron a Yaakov su padre, y ⟨את⟩ sus niños, y ⟨את⟩ sus mujeres, en las carrozas que Paró había enviado para llevar a ⟨את⟩ él.",
+  "chapter": 46,
+  "translation": "Y Yaakov se levantó de Beer-Sheva, y los hijos de Yisrael llevaron ⟨את⟩ a Yaakov su padre, y ⟨את⟩ a sus pequeños, y ⟨את⟩ a sus mujeres, en las carretas que envió Paró para llevarlo ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -53,16 +51,16 @@
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "sus niños"
+      "marks": "a sus pequeños"
     },
     {
       "surface": "טפם",
-      "gloss": "sus niños"
+      "gloss": "sus pequeños"
     },
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "sus mujeres"
+      "marks": "a sus mujeres"
     },
     {
       "surface": "נשיהם",
@@ -70,7 +68,7 @@
     },
     {
       "surface": "בעגלות",
-      "gloss": "en las carrozas"
+      "gloss": "en las carretas"
     },
     {
       "surface": "אשר",
@@ -78,7 +76,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "había enviado"
+      "gloss": "envió"
     },
     {
       "surface": "פרעה",
@@ -86,12 +84,14 @@
     },
     {
       "surface": "לשאת",
-      "gloss": "para llevar"
+      "gloss": "para llevarlo"
     },
     {
       "surface": "אתו",
-      "gloss": "a ⟨את⟩ él",
-      "marks": "a él"
+      "gloss": "⟨את⟩",
+      "marks": "él (sufijo pronominal)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:58:32.144965578Z",
+  "model": "glm-5.2"
 }

@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "leviticus 17:15",
   "book": "leviticus",
-  "chapter": 17,
-  "verse": 15,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:41:55.174382462Z",
-  "translation": "Y todo ser viviente que coma ⟨את⟩ carcaña o ⟨lo⟩ despedazado, ya sea ⟨del⟩ nativo o ⟨del⟩ residente, lavará sus vestidos y se bañará en agua, y será impuro hasta la tarde, y será limpio",
+  "chapter": 17,
+  "translation": "Y toda persona que coma animal muerto ⟨por sí mismo⟩ o despedazado ⟨por bestias⟩, tanto ⟨el⟩ nativo como ⟨el⟩ Guer, lavará sus vestiduras y se bañará en las aguas, y estará impuro hasta la tarde — y entonces será purificado.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Y todo"
+      "gloss": "Y toda"
     },
     {
       "surface": "נפש",
-      "gloss": "ser viviente"
+      "gloss": "persona"
     },
     {
       "surface": "אשר",
@@ -26,25 +24,20 @@
       "gloss": "coma"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "carcaña o lo despedazado"
-    },
-    {
       "surface": "נבלה",
-      "gloss": "carcaña"
+      "gloss": "animal muerto"
     },
     {
       "surface": "וטרפה",
-      "gloss": "o ⟨lo⟩ despedazado"
+      "gloss": "o despedazado"
     },
     {
       "surface": "באזרח",
-      "gloss": "ya sea ⟨del⟩ nativo"
+      "gloss": "el nativo"
     },
     {
       "surface": "ובגר",
-      "gloss": "o ⟨del⟩ residente"
+      "gloss": "como el Guer"
     },
     {
       "surface": "וכבס",
@@ -52,7 +45,7 @@
     },
     {
       "surface": "בגדיו",
-      "gloss": "sus vestidos"
+      "gloss": "sus vestiduras"
     },
     {
       "surface": "ורחץ",
@@ -60,11 +53,11 @@
     },
     {
       "surface": "במים",
-      "gloss": "en agua"
+      "gloss": "en las aguas"
     },
     {
       "surface": "וטמא",
-      "gloss": "y será impuro"
+      "gloss": "y estará impuro"
     },
     {
       "surface": "עד",
@@ -76,7 +69,9 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "y será limpio"
+      "gloss": "y será purificado"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:24:52.362469456Z",
+  "model": "glm-5.2"
 }

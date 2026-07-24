@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "2-kings 25:25",
   "book": "2-kings",
-  "chapter": 25,
-  "verse": 25,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:19:30.473491503Z",
-  "translation": "Y aconteció ⟨en⟩ el mes séptimo: vino Yishmael, ben Netanyá, ben Elishamá, ⟨de⟩ la semilla ⟨de⟩ la realeza, y diez hombres con él, e hirieron ⟨את⟩ Gedalyáhu, y murió; y ⟨a⟩ los Yehudim y ⟨a⟩ los Kasdim que estaban con él en Mitzpá.",
+  "chapter": 25,
+  "translation": "Y aconteció en el mes séptimo, vino Yishmael ben Netanyá, ben Elishamá, de ⟨la⟩ simiente de la realeza, y diez hombres con él, e hirieron ⟨את⟩ a Guedalyáhu, y murió; y ⟨a⟩ los yehudim y ⟨a⟩ los kasdim que estaban con él en Mitzpá.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "בחדש",
-      "gloss": "⟨en⟩ el mes"
+      "gloss": "en el mes"
     },
     {
       "surface": "השביעי",
@@ -47,11 +45,11 @@
     },
     {
       "surface": "מזרע",
-      "gloss": "⟨de⟩ la semilla"
+      "gloss": "de ⟨la⟩ simiente"
     },
     {
       "surface": "המלוכה",
-      "gloss": "⟨de⟩ la realeza"
+      "gloss": "de la realeza"
     },
     {
       "surface": "ועשרה",
@@ -72,11 +70,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gedalyáhu"
+      "marks": "a Guedalyáhu"
     },
     {
       "surface": "גדליהו",
-      "gloss": "Gedalyáhu"
+      "gloss": "Guedalyáhu"
     },
     {
       "surface": "וימת",
@@ -84,19 +82,21 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩"
+      "gloss": "⟨את⟩",
+      "marks": "a los yehudim"
     },
     {
       "surface": "היהודים",
-      "gloss": "los Yehudim"
+      "gloss": "los yehudim"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩"
+      "gloss": "⟨את⟩",
+      "marks": "a los kasdim"
     },
     {
       "surface": "הכשדים",
-      "gloss": "los Kasdim"
+      "gloss": "los kasdim"
     },
     {
       "surface": "אשר",
@@ -114,5 +114,7 @@
       "surface": "במצפה",
       "gloss": "en Mitzpá"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:30:55.567431240Z",
+  "model": "glm-5.2"
 }

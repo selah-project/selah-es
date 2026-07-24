@@ -1,29 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "deuteronomy 18:6",
   "book": "deuteronomy",
-  "chapter": 18,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:06:12.161557966Z",
-  "translation": "Y si el levita viene de una de tus puertas ⟨de⟩ todo Yisrael, donde él ⟨es⟩ extranjero allí, y venga con todo el anhelo de su alma al lugar que HaShem ⟨את⟩ eligiere",
+  "chapter": 18,
+  "translation": "Y cuando ⟨un⟩ Leví venga de una de tus puertas, de entre todo Yisrael — ⟨él⟩ donde ⟨él⟩ reside como forastero allí — y venga con todo el deseo de su nefesh al lugar que eliga YHWH,",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "Y si"
+      "gloss": "Y cuando"
     },
     {
       "surface": "יבא",
-      "gloss": "el levita viene"
+      "gloss": "venga"
     },
     {
       "surface": "הלוי",
-      "gloss": "levita"
+      "gloss": "Leví"
     },
     {
       "surface": "מאחד",
-      "gloss": "de una"
+      "gloss": "de una de"
     },
     {
       "surface": "שעריך",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "⟨de⟩ todo"
+      "gloss": "de entre todo"
     },
     {
       "surface": "ישראל",
@@ -39,15 +37,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "donde"
+      "gloss": "⟨él⟩ donde"
     },
     {
       "surface": "הוא",
-      "gloss": "él"
+      "gloss": "⟨él⟩"
     },
     {
       "surface": "גר",
-      "gloss": "⟨es⟩ extranjero"
+      "gloss": "reside como forastero"
     },
     {
       "surface": "שם",
@@ -63,11 +61,11 @@
     },
     {
       "surface": "אות",
-      "gloss": "anhelo"
+      "gloss": "el deseo"
     },
     {
       "surface": "נפשו",
-      "gloss": "de su alma"
+      "gloss": "de su nefesh"
     },
     {
       "surface": "אל",
@@ -83,24 +81,13 @@
     },
     {
       "surface": "יבחר",
-      "gloss": "eligiere"
+      "gloss": "eliga"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH",
-      "marks": "lugar que HaShem eligiere"
+      "gloss": "YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 6,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:53:50.669804384Z",
+  "model": "glm-5.2"
 }

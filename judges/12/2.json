@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "judges 12:2",
   "book": "judges",
-  "chapter": 12,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:42:17.143033961Z",
-  "translation": "Y dijo Yiftaj ⟨a⟩ ellos: 'Un hombre ⟨de⟩ gran conflicto ⟨soy⟩ yo ⟨y⟩ mi pueblo ⟨con⟩ ⟨los⟩ hijos ⟨de⟩ Ammón, y grité ⟨a⟩ vosotros, y no me salvasteis ⟨de⟩ su mano.'",
+  "chapter": 12,
+  "translation": "Yiftaj les dijo: ⟨yo⟩ y mi pueblo tuvimos un gran conflicto con los hijos de Ammón, y os clamé a ⟨vosotros⟩, y ⟨vosotros⟩ no me salvasteis ⟨את⟩ ⟨mí⟩ de su mano.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "⟨a⟩ ellos"
+      "gloss": "a ellos"
     },
     {
       "surface": "איש",
-      "gloss": "Un hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "ריב",
-      "gloss": "⟨de⟩ gran conflicto"
+      "gloss": "de contienda"
     },
     {
       "surface": "הייתי",
-      "gloss": "⟨soy⟩ yo"
+      "gloss": "yo fui"
     },
     {
       "surface": "אני",
@@ -39,28 +37,28 @@
     },
     {
       "surface": "ועמי",
-      "gloss": "⟨y⟩ mi pueblo"
+      "gloss": "y mi pueblo"
     },
     {
       "surface": "ובני",
-      "gloss": "⟨con⟩"
+      "gloss": "y los hijos de"
     },
     {
       "surface": "עמון",
-      "gloss": "⟨los⟩ hijos ⟨de⟩ Ammón"
+      "gloss": "Ammón"
     },
     {
       "surface": "מאד",
-      "gloss": "gran"
+      "gloss": "grandemente"
     },
     {
       "surface": "ואזעק",
-      "gloss": "y grité"
+      "gloss": "y clamé"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨a⟩ vosotros",
-      "marks": "ולא"
+      "gloss": "⟨את⟩",
+      "marks": "a vosotros"
     },
     {
       "surface": "ולא",
@@ -68,28 +66,18 @@
     },
     {
       "surface": "הושעתם",
-      "gloss": "me salvasteis"
+      "gloss": "salvasteis"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨a⟩ mí",
-      "marks": "מידם"
+      "gloss": "⟨את⟩",
+      "marks": "a mí"
     },
     {
       "surface": "מידם",
-      "gloss": "⟨de⟩ su mano"
+      "gloss": "de su mano"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Amón",
-      "to": "Ammón",
-      "token-index": 9,
-      "strongs": 5983,
-      "hebrew": "עמון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:08:26.688817548Z",
+  "model": "glm-5.2"
 }

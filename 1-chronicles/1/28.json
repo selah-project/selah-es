@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "1-chronicles 1:28",
   "book": "1-chronicles",
-  "chapter": 1,
-  "verse": 28,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:26:17.252468021Z",
-  "translation": "Hijos de Avraham: Yitzjak ⟨את⟩ e Ishmael.",
+  "chapter": 1,
+  "translation": "Los hijos de Avraham: Yitzjak e Yishmael.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "Hijos de"
+      "gloss": "Los hijos de"
     },
     {
       "surface": "אברהם",
@@ -23,19 +21,9 @@
     },
     {
       "surface": "וישמעאל",
-      "gloss": "e Ishmael"
+      "gloss": "e Yishmael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Itzjak",
-      "to": "Yitzjak",
-      "token-index": 2,
-      "strongs": 3327,
-      "hebrew": "יצחק"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:13:30.002715490Z",
+  "model": "glm-5.2"
 }

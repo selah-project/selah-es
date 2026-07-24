@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "1-chronicles 4:18",
   "book": "1-chronicles",
-  "chapter": 4,
-  "verse": 18,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:30:10.530832385Z",
-  "translation": "Y su esposa, la judía, dio a luz ⟨a⟩ Jered, padre de Gedor, y ⟨a⟩ Heber, padre de Soco, y ⟨a⟩ Jecutiel, padre de Zanoa; y estos ⟨son⟩ los hijos de Bithia, hija de Paró, que Mered tomó.",
+  "chapter": 4,
+  "translation": "Y su esposa ⟨la⟩ yehudía dio a luz ⟨a⟩ ⟨את⟩ Yéred, padre de Guedor, y ⟨a⟩ ⟨את⟩ Jéver, padre de Soco, y ⟨a⟩ ⟨את⟩ Yekutiel, padre de Zanóaj. Y estos ⟨son⟩ los hijos de Bitiá, hija de Paró, que tomó Méred.",
   "tokens": [
     {
       "surface": "ואשתו",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "היהדיה",
-      "gloss": "la judía"
+      "gloss": "la yehudía"
     },
     {
       "surface": "ילדה",
@@ -24,32 +22,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jered"
+      "marks": "a Yéred"
     },
     {
       "surface": "ירד",
-      "gloss": "Jered"
+      "gloss": "Yéred"
     },
     {
       "surface": "אבי",
-      "gloss": "padre"
+      "gloss": "padre de"
     },
     {
       "surface": "גדור",
-      "gloss": "Gedor"
+      "gloss": "Guedor"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨a⟩",
-      "marks": "Heber"
+      "gloss": "y ⟨את⟩",
+      "marks": "a Jéver"
     },
     {
       "surface": "חבר",
-      "gloss": "Heber"
+      "gloss": "Jéver"
     },
     {
       "surface": "אבי",
-      "gloss": "padre"
+      "gloss": "padre de"
     },
     {
       "surface": "שוכו",
@@ -57,36 +55,36 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨a⟩",
-      "marks": "Jecutiel"
+      "gloss": "y ⟨את⟩",
+      "marks": "a Yekutiel"
     },
     {
       "surface": "יקותיאל",
-      "gloss": "Jecutiel"
+      "gloss": "Yekutiel"
     },
     {
       "surface": "אבי",
-      "gloss": "padre"
+      "gloss": "padre de"
     },
     {
       "surface": "זנוח",
-      "gloss": "Zanoa"
+      "gloss": "Zanóaj"
     },
     {
       "surface": "ואלה",
-      "gloss": "y estos"
+      "gloss": "Y estos"
     },
     {
       "surface": "בני",
-      "gloss": "los hijos"
+      "gloss": "los hijos de"
     },
     {
       "surface": "בתיה",
-      "gloss": "Bithia"
+      "gloss": "Bitiá"
     },
     {
       "surface": "בת",
-      "gloss": "hija"
+      "gloss": "hija de"
     },
     {
       "surface": "פרעה",
@@ -102,19 +100,9 @@
     },
     {
       "surface": "מרד",
-      "gloss": "Mered"
+      "gloss": "Méred"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraón",
-      "to": "Paró",
-      "token-index": 19,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:14:04.856442390Z",
+  "model": "glm-5.2"
 }

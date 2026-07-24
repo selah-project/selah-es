@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "numbers 3:9",
   "book": "numbers",
-  "chapter": 3,
-  "verse": 9,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T08:10:39.770918447Z",
-  "translation": "Y darás ⟨los⟩ Levitas a Aharón y a sus hijos; dados son ⟨ellos⟩ dados ⟨son⟩ ⟨ellos⟩ a él de entre ⟨los⟩ hijos de Yisrael.",
+  "chapter": 3,
+  "translation": "Y darás ⟨את⟩ a los levitas a Aharón y a sus hijos; dados, dados son ellos a él, de entre los hijos de Yisrael.",
   "tokens": [
     {
       "surface": "ונתתה",
@@ -16,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Levitas"
+      "marks": "a los levitas"
     },
     {
       "surface": "הלוים",
-      "gloss": "Levitas"
+      "gloss": "a los levitas"
     },
     {
       "surface": "לאהרן",
@@ -36,11 +34,11 @@
     },
     {
       "surface": "נתונם",
-      "gloss": "son"
+      "gloss": "dados son"
     },
     {
       "surface": "המה",
-      "gloss": "⟨ellos⟩"
+      "gloss": "ellos"
     },
     {
       "surface": "לו",
@@ -52,23 +50,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "⟨los⟩"
+      "gloss": "los hijos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "hijos de Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 11,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:30:44.000411990Z",
+  "model": "glm-5.2"
 }

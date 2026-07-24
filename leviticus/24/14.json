@@ -1,26 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "leviticus 24:14",
   "book": "leviticus",
-  "chapter": 24,
-  "verse": 14,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:45:32.188753716Z",
-  "translation": "Saca ⟨את⟩ el que blasfema fuera del campamento, y pongan sus manos sobre su cabeza todos los que oyeron, y apedreen ⟨את⟩ toda la asamblea",
+  "chapter": 24,
+  "translation": "Sacad ⟨את⟩ al blasfemo fuera del campamento, y todos los que oyeron impondrán ⟨את⟩ sus manos sobre su cabeza, y ⟨lo⟩ apedreará ⟨את⟩ toda la asamblea.",
   "tokens": [
     {
       "surface": "הוצא",
-      "gloss": "saca"
+      "gloss": "Sacad"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "el que blasfema"
+      "marks": "al blasfemo"
     },
     {
       "surface": "המקלל",
-      "gloss": "el que blasfema"
+      "gloss": "al blasfemo"
     },
     {
       "surface": "אל",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "וסמכו",
-      "gloss": "y pongan"
+      "gloss": "y impondrán"
     },
     {
       "surface": "כל",
@@ -65,11 +63,12 @@
     },
     {
       "surface": "ורגמו",
-      "gloss": "y apedreen"
+      "gloss": "y apedreará"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨lo⟩"
+      "gloss": "⟨את⟩",
+      "marks": "a él"
     },
     {
       "surface": "כל",
@@ -79,5 +78,7 @@
       "surface": "העדה",
       "gloss": "la asamblea"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:28:03.002174451Z",
+  "model": "glm-5.2"
 }

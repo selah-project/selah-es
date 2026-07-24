@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "2-kings 3:23",
   "book": "2-kings",
-  "chapter": 3,
-  "verse": 23,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:06:27.374594266Z",
-  "translation": "Y dijeron: sangre ⟨es⟩ esta; los reyes han sido destruidos, y han golpeado ⟨את⟩ su compañero; ahora ⟨al⟩ despojo, Moab",
+  "chapter": 3,
+  "translation": "Y dijeron: «¡Sangre ⟨es⟩ esta! ¡Los reyes han sido destruidos por la espada, ⟨y⟩ ⟨cada⟩ hombre ⟨hirió⟩ ⟨a⟩ ⟨את⟩ su prójimo! Y ahora, ¡al botín, Moav!»",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "דם",
-      "gloss": "sangre"
+      "gloss": "«¡Sangre"
     },
     {
       "surface": "זה",
@@ -23,44 +21,46 @@
     },
     {
       "surface": "החרב",
-      "gloss": "los reyes han sido destruidos"
+      "gloss": "¡Los reyes han sido destruidos por la espada"
     },
     {
       "surface": "נחרבו",
-      "gloss": "y han golpeado"
+      "gloss": "[reflejado en החרב — ver nota]"
     },
     {
       "surface": "המלכים",
-      "gloss": ""
+      "gloss": "[reflejado en החרב — ver nota]"
     },
     {
       "surface": "ויכו",
-      "gloss": ""
+      "gloss": "⟨y⟩ ⟨cada⟩ hombre ⟨hirió⟩"
     },
     {
       "surface": "איש",
-      "gloss": "⟨את⟩"
+      "gloss": "[reflejado en ויכו — ver nota]"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "su compañero"
+      "marks": "su prójimo"
     },
     {
       "surface": "רעהו",
-      "gloss": "su compañero"
+      "gloss": "su prójimo"
     },
     {
       "surface": "ועתה",
-      "gloss": "ahora"
+      "gloss": "Y ahora"
     },
     {
       "surface": "לשלל",
-      "gloss": "⟨al⟩ despojo"
+      "gloss": "¡al botín"
     },
     {
       "surface": "מואב",
-      "gloss": "Moab"
+      "gloss": "Moav!»"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:26:32.767909961Z",
+  "model": "glm-5.2"
 }

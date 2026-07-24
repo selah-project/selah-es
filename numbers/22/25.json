@@ -1,30 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "numbers 22:25",
   "book": "numbers",
-  "chapter": 22,
-  "verse": 25,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T08:28:15.073596755Z",
-  "translation": "Y ⟨is⟩ la asna ⟨que⟩ vio ⟨el⟩ mensajero de YHWH, y ⟨se⟩ apretó contra ⟨el⟩ muro, y ⟨se⟩ apretó ⟨el⟩ pie de Bilam contra ⟨el⟩ muro, y ⟨él⟩ añadió ⟨a⟩ golpearla.",
+  "chapter": 22,
+  "translation": "Y la burra vio ⟨את⟩ el malaj de YHWH, y se prensó contra la pared, y aplastó ⟨את⟩ el pie de Bilam contra la pared, y él volvió a golpearla.",
   "tokens": [
     {
       "surface": "ותרא",
-      "gloss": "Y ⟨is⟩ la asna ⟨que⟩ vio"
+      "gloss": "y vio"
     },
     {
       "surface": "האתון",
-      "gloss": "la asna"
+      "gloss": "la burra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mensajero"
+      "marks": "el malaj"
     },
     {
       "surface": "מלאך",
-      "gloss": "mensajero"
+      "gloss": "el malaj"
     },
     {
       "surface": "יהוה",
@@ -32,28 +30,28 @@
     },
     {
       "surface": "ותלחץ",
-      "gloss": "y ⟨se⟩ apretó"
+      "gloss": "y se prensó"
     },
     {
       "surface": "אל",
-      "gloss": "contra ⟨el⟩"
+      "gloss": "contra"
     },
     {
       "surface": "הקיר",
-      "gloss": "muro"
+      "gloss": "la pared"
     },
     {
       "surface": "ותלחץ",
-      "gloss": "y ⟨se⟩ apretó"
+      "gloss": "y aplastó"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pie"
+      "marks": "el pie"
     },
     {
       "surface": "רגל",
-      "gloss": "pie"
+      "gloss": "el pie"
     },
     {
       "surface": "בלעם",
@@ -61,31 +59,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "contra ⟨el⟩"
+      "gloss": "contra"
     },
     {
       "surface": "הקיר",
-      "gloss": "muro"
+      "gloss": "la pared"
     },
     {
       "surface": "ויסף",
-      "gloss": "y ⟨él⟩ añadió"
+      "gloss": "y volvió"
     },
     {
       "surface": "להכתה",
-      "gloss": "⟨a⟩ golpearla"
+      "gloss": "a golpearla"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Balaam",
-      "to": "Bilam",
-      "token-index": 11,
-      "strongs": 1109,
-      "hebrew": "בלעם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:40:44.136077834Z",
+  "model": "glm-5.2"
 }

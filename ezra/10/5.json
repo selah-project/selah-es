@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "ezra 10:5",
   "book": "ezra",
-  "chapter": 10,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:20:45.304298748Z",
-  "translation": "Y Ezra ⟨se⟩ levantó e hizo jurar ⟨a⟩ ⟨los⟩ jefes ⟨de⟩ los sacerdotes, ⟨los⟩ levitas y todo Yisrael ⟨para⟩ hacer ⟨conforme⟩ ⟨a⟩ esta palabra, y juraron.",
+  "chapter": 10,
+  "translation": "Y se levantó Ezra, e hizo jurar a ⟨את⟩ los jefes de los *kohanim*, los *levitas* y a todo Yisrael, para hacer conforme a este *davar*; y juraron.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Y ⟨se⟩ levantó"
+      "gloss": "Y se levantó"
     },
     {
       "surface": "עזרא",
@@ -24,23 +22,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "שרי הכהנים"
+      "marks": "a los jefes de los kohanim"
     },
     {
       "surface": "שרי",
-      "gloss": "⟨los⟩ jefes"
+      "gloss": "los jefes"
     },
     {
       "surface": "הכהנים",
-      "gloss": "⟨de⟩ los sacerdotes"
+      "gloss": "de los kohanim"
     },
     {
       "surface": "הלוים",
-      "gloss": "⟨los⟩ levitas"
+      "gloss": "los levitas"
     },
     {
       "surface": "וכל",
-      "gloss": "y todo"
+      "gloss": "y a todo"
     },
     {
       "surface": "ישראל",
@@ -48,31 +46,21 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "⟨para⟩ hacer"
+      "gloss": "para hacer"
     },
     {
       "surface": "כדבר",
-      "gloss": "⟨conforme⟩ ⟨a⟩"
+      "gloss": "conforme a este davar"
     },
     {
       "surface": "הזה",
-      "gloss": "esta palabra"
+      "gloss": "este"
     },
     {
-      "surface": "ואשבעו",
+      "surface": "וישבעו",
       "gloss": "y juraron"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 8,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:11:45.295823973Z",
+  "model": "glm-5.2"
 }

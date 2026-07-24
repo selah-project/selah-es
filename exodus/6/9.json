@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "exodus 6:9",
   "book": "exodus",
-  "chapter": 6,
-  "verse": 9,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T06:27:39.461239919Z",
-  "translation": "Y Moshé habló así a los hijos de Yisrael, pero no escucharon a Moshé ⟨a causa de⟩ ⟨את⟩ la angustia de espíritu y ⟨a causa de⟩ ⟨את⟩ la esclavitud dura.",
+  "chapter": 6,
+  "translation": "Y Moshé habló así a los hijos de Yisrael, pero no escucharon a Moshé ⟨por⟩ corto ⟨de⟩ aliento y por esclavitud dura.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -51,33 +49,21 @@
     },
     {
       "surface": "מקצר",
-      "gloss": "⟨a causa de⟩",
-      "marks": "angustia de espíritu"
+      "gloss": "⟨por⟩ corto ⟨de⟩"
     },
     {
       "surface": "רוח",
-      "gloss": "espíritu"
+      "gloss": "aliento"
     },
     {
       "surface": "ומעבדה",
-      "gloss": "⟨a causa de⟩",
-      "marks": "esclavitud"
+      "gloss": "y por esclavitud"
     },
     {
       "surface": "קשה",
       "gloss": "dura"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 5,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:22:24.298824339Z",
+  "model": "glm-5.2"
 }

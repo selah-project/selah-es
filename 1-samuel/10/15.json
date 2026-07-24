@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "1-samuel 10:15",
   "book": "1-samuel",
-  "chapter": 10,
-  "verse": 15,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:53:40.316478564Z",
-  "translation": "Y dijo el tío de Shaúl: ⟨את⟩, ⟨por favor⟩, dime qué Shmuel ⟨les⟩ dijo.",
+  "chapter": 10,
+  "translation": "Y el tío de Shaúl dijo: «Declárame ⟨te ruego⟩, ¿qué te dijo Shmuel?»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "הגידה",
-      "gloss": "dime"
+      "gloss": "Decláara"
     },
     {
       "surface": "נא",
-      "gloss": "⟨por favor⟩"
+      "gloss": "te ruego"
     },
     {
       "surface": "לי",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "qué"
+      "gloss": "¿qué"
     },
     {
       "surface": "אמר",
@@ -43,30 +41,13 @@
     },
     {
       "surface": "לכם",
-      "gloss": "⟨les⟩"
+      "gloss": "a ustedes"
     },
     {
       "surface": "שמואל",
       "gloss": "Shmuel"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Saúl",
-      "to": "Shaúl",
-      "token-index": 2,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    },
-    {
-      "from": "Samuel",
-      "to": "Shmuel",
-      "token-index": 9,
-      "strongs": 8050,
-      "hebrew": "שמואל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:10:55.148009915Z",
+  "model": "glm-5.2"
 }

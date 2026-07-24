@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "genesis 37:4",
   "book": "genesis",
-  "chapter": 37,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:09:59.393023952Z",
-  "translation": "Y vieron sus hermanos que ⟨את⟩ él amaba su padre más que a todos sus hermanos, y ⟨את⟩ él odiaron, y no podían hablar ⟨le⟩ para paz",
+  "chapter": 37,
+  "translation": "Y vieron sus hermanos que ⟨a⟩ ⟨את⟩ él amaba su padre más que a todos sus hermanos, y lo odiaron ⟨את⟩, y no podían hablarle pacíficamente.",
   "tokens": [
     {
       "surface": "ויראו",
@@ -24,7 +22,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "él"
+      "marks": "a él"
     },
     {
       "surface": "אהב",
@@ -36,20 +34,20 @@
     },
     {
       "surface": "מכל",
-      "gloss": "más que"
+      "gloss": "más que a todos"
     },
     {
       "surface": "אחיו",
-      "gloss": "a todos sus hermanos"
+      "gloss": "sus hermanos"
     },
     {
       "surface": "וישנאו",
-      "gloss": "y ⟨את⟩ él odiaron"
+      "gloss": "y lo odiaron"
     },
     {
       "surface": "אתו",
-      "gloss": "",
-      "marks": ""
+      "gloss": "⟨את⟩",
+      "marks": "a él"
     },
     {
       "surface": "ולא",
@@ -61,11 +59,13 @@
     },
     {
       "surface": "דברו",
-      "gloss": "hablar"
+      "gloss": "hablarle"
     },
     {
       "surface": "לשלם",
-      "gloss": "⟨le⟩ para paz"
+      "gloss": "pacíficamente"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:52:52.615048094Z",
+  "model": "glm-5.2"
 }

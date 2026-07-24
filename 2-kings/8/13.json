@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "2-kings 8:13",
   "book": "2-kings",
-  "chapter": 8,
-  "verse": 13,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-17T00:38:36.282759489Z",
-  "translation": "Y dijo Jazael: ¿Qué, es tu siervo un perro, para hacer ⟨את⟩ la cosa grande esta? Y Elisha respondió: YHWH me ha mostrado que tú serás rey sobre Aram.",
+  "chapter": 8,
+  "translation": "Y Jazael dijo: ¿Pero qué? ¿⟨es⟩ tu siervo el perro, que ⟨él⟩ haga esta cosa grande? Y Elisha dijo: YHWH me ha mostrado ⟨את⟩ ti ⟨como⟩ rey sobre Aram.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "¿Qué"
+      "gloss": "pero"
     },
     {
       "surface": "מה",
-      "gloss": "es"
+      "gloss": "¿qué?"
     },
     {
       "surface": "עבדך",
@@ -31,19 +29,19 @@
     },
     {
       "surface": "הכלב",
-      "gloss": "un perro"
+      "gloss": "el perro"
     },
     {
       "surface": "כי",
-      "gloss": "para"
+      "gloss": "que"
     },
     {
       "surface": "יעשה",
-      "gloss": "hacer"
+      "gloss": "haga"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨את⟩ la cosa"
+      "gloss": "la cosa"
     },
     {
       "surface": "הגדול",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Y respondió"
+      "gloss": "Y dijo"
     },
     {
       "surface": "אלישע",
@@ -63,19 +61,20 @@
     },
     {
       "surface": "הראני",
-      "gloss": "YHWH me ha mostrado"
+      "gloss": "me ha mostrado"
     },
     {
       "surface": "יהוה",
-      "gloss": ""
+      "gloss": "YHWH"
     },
     {
       "surface": "אתך",
-      "gloss": "que tú serás"
+      "gloss": "⟨את⟩",
+      "marks": "ti (como rey)"
     },
     {
       "surface": "מלך",
-      "gloss": "⟨את⟩ rey"
+      "gloss": "rey"
     },
     {
       "surface": "על",
@@ -85,5 +84,7 @@
       "surface": "ארם",
       "gloss": "Aram"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:27:20.079489042Z",
+  "model": "glm-5.2"
 }

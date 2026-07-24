@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "2-samuel 15:22",
   "book": "2-samuel",
-  "chapter": 15,
-  "verse": 22,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:30:25.991625425Z",
-  "translation": "Y Davidd dijo a Ittai: Ve ⟨y⟩ pasa. Y pasó Ittai el geteo, ⟨y⟩ todos sus hombres, ⟨y⟩ todos ⟨los⟩ niños pequeños que ⟨estaban⟩ con él",
+  "chapter": 15,
+  "translation": "Y David dijo a Itai: «Ve y pasa». Y Itai ⟨el gitita⟩ pasó, y todos sus hombres, y todo ⟨el⟩ pequeño ⟨que⟩ ⟨estaba⟩ con él.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "אל",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "Ittai"
+      "gloss": "Itai"
     },
     {
       "surface": "לך",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "ועבר",
-      "gloss": "⟨y⟩ pasa"
+      "gloss": "y pasa"
     },
     {
       "surface": "ויעבר",
@@ -39,15 +37,15 @@
     },
     {
       "surface": "אתי",
-      "gloss": "Ittai"
+      "gloss": "Itai"
     },
     {
       "surface": "הגתי",
-      "gloss": "el geteo"
+      "gloss": "el gitita"
     },
     {
       "surface": "וכל",
-      "gloss": "⟨y⟩ todos"
+      "gloss": "y todos"
     },
     {
       "surface": "אנשיו",
@@ -55,11 +53,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "⟨y⟩ todos"
+      "gloss": "y todo"
     },
     {
       "surface": "הטף",
-      "gloss": "los niños pequeños"
+      "gloss": "el pequeño"
     },
     {
       "surface": "אשר",
@@ -70,16 +68,6 @@
       "gloss": "con él"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:17:43.130845534Z",
+  "model": "glm-5.2"
 }

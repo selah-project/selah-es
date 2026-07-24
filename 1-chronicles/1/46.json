@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 46,
   "ref": "1-chronicles 1:46",
   "book": "1-chronicles",
-  "chapter": 1,
-  "verse": 46,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:27:06.824249244Z",
-  "translation": "Y murió Chusham, y reinó en ⟨su⟩ lugar Hadad hijo de Bedad, ⟨quien⟩ hirió ⟨a⟩ Midyán ⟨en⟩ el campo de Moav, y ⟨el⟩ nombre de ⟨su⟩ ciudad ⟨es⟩ Avit.",
+  "chapter": 1,
+  "translation": "Y murió Jushám, y reinó en su lugar Hadad, hijo de Bedad, el que hirió ⟨את⟩ a Midyán en el campo de Moav, y el nombre de su ciudad ⟨era⟩ Avit.",
   "tokens": [
     {
       "surface": "וימת",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "חושם",
-      "gloss": "Chusham"
+      "gloss": "Jushám"
     },
     {
       "surface": "וימלך",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "en ⟨su⟩ lugar"
+      "gloss": "en su lugar"
     },
     {
       "surface": "הדד",
@@ -35,24 +33,24 @@
     },
     {
       "surface": "בדד",
-      "gloss": "Bedad"
+      "gloss": "de Bedad"
     },
     {
       "surface": "המכה",
-      "gloss": "⟨quien⟩ hirió"
+      "gloss": "el que hirió"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Madián"
+      "marks": "a Midyán"
     },
     {
       "surface": "מדין",
-      "gloss": "Midyán"
+      "gloss": "a Midyán"
     },
     {
       "surface": "בשדה",
-      "gloss": "⟨en⟩ el campo"
+      "gloss": "en el campo"
     },
     {
       "surface": "מואב",
@@ -60,34 +58,17 @@
     },
     {
       "surface": "ושם",
-      "gloss": "y ⟨el⟩ nombre"
+      "gloss": "y el nombre"
     },
     {
       "surface": "עירו",
-      "gloss": "de ⟨su⟩ ciudad"
+      "gloss": "de su ciudad"
     },
     {
       "surface": "עיות",
-      "gloss": "⟨es⟩ Avit"
+      "gloss": "Avit"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Madián",
-      "to": "Midyán",
-      "token-index": 9,
-      "strongs": 4080,
-      "hebrew": "מדין"
-    },
-    {
-      "from": "Moab",
-      "to": "Moav",
-      "token-index": 11,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:13:31.580823361Z",
+  "model": "glm-5.2"
 }

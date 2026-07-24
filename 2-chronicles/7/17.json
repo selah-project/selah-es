@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "2-chronicles 7:17",
   "book": "2-chronicles",
-  "chapter": 7,
-  "verse": 17,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:07:16.691341484Z",
-  "translation": "Y tú, si andas ⟨delante de⟩ mí como anduvo Davidd tu padre, y ⟨para⟩ hacer ⟨todo⟩ lo que ⟨את⟩ ⟨he⟩ mandado, y mis estatutos y mis juicios guardas,",
+  "chapter": 7,
+  "translation": "Y en cuanto a ti, si andas delante de mí, como anduvo David tu padre, y ⟨para⟩ hacer conforme a todo lo que te he mandado, y guardas mis estatutos y mis mishpatim,",
   "tokens": [
     {
       "surface": "ואתה",
@@ -23,8 +21,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "⟨delante de⟩",
-      "marks": "mí"
+      "gloss": "delante de mí"
     },
     {
       "surface": "כאשר",
@@ -36,7 +33,7 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "אביך",
@@ -48,15 +45,15 @@
     },
     {
       "surface": "ככל",
-      "gloss": "⟨todo⟩"
+      "gloss": "conforme a todo"
     },
     {
       "surface": "אשר",
-      "gloss": "lo que"
+      "gloss": "que"
     },
     {
       "surface": "צויתיך",
-      "gloss": "⟨he⟩ mandado"
+      "gloss": "te he mandado"
     },
     {
       "surface": "וחקי",
@@ -64,23 +61,13 @@
     },
     {
       "surface": "ומשפטי",
-      "gloss": "y mis juicios"
+      "gloss": "y mis mishpatim"
     },
     {
       "surface": "תשמור",
       "gloss": "guardas"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 6,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:17:45.566892251Z",
+  "model": "glm-5.2"
 }

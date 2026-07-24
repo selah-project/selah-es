@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "leviticus 13:22",
   "book": "leviticus",
-  "chapter": 13,
-  "verse": 22,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:37:52.665154756Z",
-  "translation": "Y si ⟨se⟩ esparce ⟨mucho⟩ en la piel, entonces el kohen declarará impuro ⟨a él⟩: ⟨es⟩ un ⟨את⟩ affliction.",
+  "chapter": 13,
+  "translation": "Y si ⟨ella⟩ se extiende mucho en la piel, entonces el Kohen lo declarará impuro: ⟨את⟩ él ⟨es⟩ una plaga.",
   "tokens": [
     {
       "surface": "ואם",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "פשה",
-      "gloss": "⟨se⟩ esparce"
+      "gloss": "se extiende"
     },
     {
       "surface": "תפשה",
-      "gloss": "⟨mucho⟩"
+      "gloss": "mucho"
     },
     {
       "surface": "בעור",
@@ -27,24 +25,26 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "entonces el kohen declarará impuro"
+      "gloss": "entonces declarará impuro"
     },
     {
       "surface": "הכהן",
-      "gloss": ""
+      "gloss": "el Kohen"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨a él⟩",
-      "marks": "נגע"
+      "gloss": "⟨את⟩",
+      "marks": "él (la afección)"
     },
     {
       "surface": "נגע",
-      "gloss": "affliction"
+      "gloss": "una plaga"
     },
     {
       "surface": "הוא",
       "gloss": "⟨es⟩"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:21:40.628700039Z",
+  "model": "glm-5.2"
 }

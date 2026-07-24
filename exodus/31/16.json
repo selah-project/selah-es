@@ -1,34 +1,32 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "exodus 31:16",
   "book": "exodus",
-  "chapter": 31,
-  "verse": 16,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T07:09:39.886858184Z",
-  "translation": "Y ⟨los⟩ hijos de Yisrael ⟨guarden⟩ ⟨el⟩ Shabat, para hacer ⟨el⟩ Shabat en sus generaciones — Brit perpetuo.",
+  "chapter": 31,
+  "translation": "Y guardarán los hijos de Yisrael ⟨את⟩ el Shabbat, para hacer ⟨את⟩ el Shabbat por sus generaciones, ⟨como⟩ Brit ⟨para⟩ olam:",
   "tokens": [
     {
       "surface": "ושמרו",
-      "gloss": "Y ⟨guarden⟩"
+      "gloss": "Y guardarán"
     },
     {
       "surface": "בני",
-      "gloss": "⟨los⟩ hijos"
+      "gloss": "los hijos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shabat"
+      "marks": "el Shabbat"
     },
     {
       "surface": "השבת",
-      "gloss": "Shabat"
+      "gloss": "el Shabbat"
     },
     {
       "surface": "לעשות",
@@ -37,15 +35,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shabat"
+      "marks": "el Shabbat"
     },
     {
       "surface": "השבת",
-      "gloss": "Shabat"
+      "gloss": "el Shabbat"
     },
     {
       "surface": "לדרתם",
-      "gloss": "en sus generaciones"
+      "gloss": "por sus generaciones"
     },
     {
       "surface": "ברית",
@@ -53,26 +51,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "perpetuo"
+      "gloss": "olam"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "pacto",
-      "to": "Brit",
-      "token-index": 9,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:59:37.373609566Z",
+  "model": "glm-5.2"
 }

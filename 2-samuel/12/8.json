@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "2-samuel 12:8",
   "book": "2-samuel",
-  "chapter": 12,
-  "verse": 8,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:24:53.440222083Z",
-  "translation": "y ⟨את⟩ di a ti la casa de tu señor, y las mujeres de tu señor en ⟨el⟩ seno tuyo, y ⟨את⟩ di a ti la casa de Yisrael y de Yehudá; y si ⟨fuera⟩ poco, añadiría a ti como aquí y como aquí.",
+  "chapter": 12,
+  "translation": "Y te di ⟨את⟩ la casa de tu señor, y ⟨את⟩ las mujeres de tu señor en tu seno; y te di ⟨את⟩ la casa de Yisrael y ⟨את⟩ Yehudá. Y si ⟨esto fuera⟩ poco, añadiría para ti tanto y tanto.",
   "tokens": [
     {
       "surface": "ואתנה",
-      "gloss": "y ⟨את⟩ di"
+      "gloss": "y di"
     },
     {
       "surface": "לך",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "la casa"
+      "marks": "la casa de tu señor"
     },
     {
       "surface": "בית",
@@ -32,7 +30,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y"
+      "gloss": "y ⟨את⟩",
+      "marks": "las mujeres de tu señor"
     },
     {
       "surface": "נשי",
@@ -44,11 +43,11 @@
     },
     {
       "surface": "בחיקך",
-      "gloss": "en ⟨el⟩ seno tuyo"
+      "gloss": "en tu seno"
     },
     {
       "surface": "ואתנה",
-      "gloss": "y ⟨את⟩ di"
+      "gloss": "y di"
     },
     {
       "surface": "לך",
@@ -57,7 +56,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "la casa"
+      "marks": "la casa de Yisrael"
     },
     {
       "surface": "בית",
@@ -65,11 +64,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ויהודה",
-      "gloss": "y de Yehudá"
+      "gloss": "y Yehudá"
     },
     {
       "surface": "ואם",
@@ -77,7 +76,7 @@
     },
     {
       "surface": "מעט",
-      "gloss": "⟨fuera⟩ poco"
+      "gloss": "poco"
     },
     {
       "surface": "ואספה",
@@ -85,15 +84,17 @@
     },
     {
       "surface": "לך",
-      "gloss": "a ti"
+      "gloss": "para ti"
     },
     {
       "surface": "כהנה",
-      "gloss": "como aquí"
+      "gloss": "tanto"
     },
     {
       "surface": "וכהנה",
-      "gloss": "y como aquí"
+      "gloss": "y tanto"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:16:41.870990665Z",
+  "model": "glm-5.2"
 }

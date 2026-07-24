@@ -1,108 +1,82 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "2-kings 23:22",
   "book": "2-kings",
-  "chapter": 23,
-  "verse": 22,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T11:45:26.476591516Z",
-  "translation": "Porque ciertamente no ⟨fue⟩ hecho ⟨un⟩ Pésaj como este desde los días de los jueces que juzgaron ⟨a⟩ Yisrael, y en todos los días de los reyes de Yisrael y de ⟨los⟩ reyes de Yehudá",
+  "chapter": 23,
+  "translation": "Porque no se había hecho ⟨un⟩ Pésaj como este desde los días de los jueces que juzgaron ⟨את⟩ Yisrael, ni ⟨en⟩ todos los días de los reyes de Yisrael ni de los reyes de Yehudá.",
   "tokens": [
     {
-      "surface": "כי",
+      "surface": "כִּ֣י",
       "gloss": "Porque"
     },
     {
-      "surface": "לא",
-      "gloss": "ciertamente no"
+      "surface": "לֹ֤א",
+      "gloss": "no"
     },
     {
-      "surface": "נעשה",
-      "gloss": "⟨fue⟩ hecho"
+      "surface": "נַֽעֲשָׂה֙",
+      "gloss": "se había hecho"
     },
     {
-      "surface": "כפסח",
-      "gloss": "⟨un⟩ Pésaj"
+      "surface": "כַּפֶּ֣סַח",
+      "gloss": "como ⟨un⟩ Pésaj"
     },
     {
-      "surface": "הזה",
-      "gloss": "como este"
+      "surface": "הַזֶּ֔ה",
+      "gloss": "este"
     },
     {
-      "surface": "מימי",
+      "surface": "מִימֵי֙",
       "gloss": "desde los días"
     },
     {
-      "surface": "השפטים",
+      "surface": "הַשֹּׁ֣פְטִ֔ים",
       "gloss": "de los jueces"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֥ר",
       "gloss": "que"
     },
     {
-      "surface": "שפטו",
+      "surface": "שָׁפְט֖וּ",
       "gloss": "juzgaron"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "Israel"
+      "marks": "Yisrael"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֑ל",
       "gloss": "Yisrael"
     },
     {
-      "surface": "וכל",
-      "gloss": "y en todos"
+      "surface": "וְכֹ֗ל",
+      "gloss": "ni todos"
     },
     {
-      "surface": "ימי",
+      "surface": "יְמֵ֛י",
       "gloss": "los días"
     },
     {
-      "surface": "מלכי",
+      "surface": "מַלְכֵ֥י",
       "gloss": "de los reyes"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֖ל",
       "gloss": "de Yisrael"
     },
     {
-      "surface": "ומלכי",
-      "gloss": "y de ⟨los⟩"
+      "surface": "וּמַלְכֵ֥י",
+      "gloss": "ni de los reyes"
     },
     {
-      "surface": "יהודה",
-      "gloss": "reyes de Yehudá"
+      "surface": "יְהוּדָֽה",
+      "gloss": "de Yehudá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 10,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 14,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 16,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:30:37.719943084Z",
+  "model": "glm-5.2"
 }

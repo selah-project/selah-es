@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "1-samuel 4:8",
   "book": "1-samuel",
-  "chapter": 4,
-  "verse": 8,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:35:24.281125950Z",
-  "translation": "¡Ay de nosotros! ¿Quién nos librará de ⟨la⟩ mano de estos Elohim poderosos? Estos ⟨son⟩ los Elohim que golpearon ⟨את⟩ Egipto con toda plaga en el desierto.",
+  "chapter": 4,
+  "translation": "¡Ay de nosotros! ¿Quién nos librará de la mano de estos ha-Elohim los adirím? ¡Estos —⟨son⟩ ellos! ⟨Son⟩ los ha-Elohim, los que hirieron ⟨את⟩ Mitzráyim con toda plaga en el midbar.",
   "tokens": [
     {
       "surface": "אוי",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "de nosotros"
+      "gloss": "de nosotros!"
     },
     {
       "surface": "מי",
@@ -27,52 +25,58 @@
     },
     {
       "surface": "מיד",
-      "gloss": "de ⟨la⟩ mano"
+      "gloss": "de la mano"
     },
     {
       "surface": "האלהים",
-      "gloss": "estos Elohim"
+      "gloss": "de estos ha-Elohim"
     },
     {
       "surface": "האדירים",
-      "gloss": "poderosos"
+      "gloss": "los adirím"
     },
     {
       "surface": "האלה",
-      "gloss": "Estos"
+      "gloss": "éstos"
     },
     {
       "surface": "אלה",
-      "gloss": "⟨son⟩"
+      "gloss": "éstos"
     },
     {
       "surface": "הם",
-      "gloss": "los Elohim"
+      "gloss": "ellos"
     },
     {
       "surface": "האלהים",
-      "gloss": "que golpearon"
+      "gloss": "los ha-Elohim"
     },
     {
       "surface": "המכים",
-      "gloss": "⟨את⟩",
-      "marks": "Egipto"
+      "gloss": "los que hirieron"
     },
     {
       "surface": "את",
-      "gloss": "Egipto"
+      "gloss": "⟨את⟩",
+      "marks": "Mitzráyim"
     },
     {
       "surface": "מצרים",
-      "gloss": "con toda"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "בכל",
-      "gloss": "plaga"
+      "gloss": "con toda"
     },
     {
       "surface": "מכה",
-      "gloss": "en el desierto"
+      "gloss": "plaga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "en el midbar"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:10:10.624066333Z",
+  "model": "glm-5.2"
 }

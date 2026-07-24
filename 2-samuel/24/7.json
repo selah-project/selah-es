@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "2-samuel 24:7",
   "book": "2-samuel",
-  "chapter": 24,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:41:18.191268120Z",
-  "translation": "Y vinieron a la fortaleza ⟨את⟩ ⟨de⟩ Tzor y a todas ⟨las⟩ ciudades ⟨de⟩ los heveos y ⟨de⟩ ⟨los⟩ cananeos, y salieron hacia el Neguev de Yehudá, hasta Beerseba.",
+  "chapter": 24,
+  "translation": "Y vinieron a la fortaleza de Tzor, y a todas las ciudades del hiveo, y del kenaaneo; y salieron hacia el Néguev de Yehudá, ⟨a⟩ Beer-Sheva.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "צר",
-      "gloss": "⟨de⟩ Tzor"
+      "gloss": "de Tzor"
     },
     {
       "surface": "וכל",
@@ -27,15 +25,15 @@
     },
     {
       "surface": "ערי",
-      "gloss": "⟨las⟩ ciudades"
+      "gloss": "las ciudades"
     },
     {
       "surface": "החוי",
-      "gloss": "⟨de⟩ los heveos"
+      "gloss": "del hiveo"
     },
     {
       "surface": "והכנעני",
-      "gloss": "y ⟨de⟩ ⟨los⟩ cananeos"
+      "gloss": "y del kenaaneo"
     },
     {
       "surface": "ויצאו",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "נגב",
-      "gloss": "el Neguev"
+      "gloss": "el Néguev"
     },
     {
       "surface": "יהודה",
@@ -55,30 +53,13 @@
     },
     {
       "surface": "באר",
-      "gloss": "hasta Beer"
+      "gloss": "Beer"
     },
     {
       "surface": "שבע",
-      "gloss": "seba"
+      "gloss": "Sheva"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Tiro",
-      "to": "Tzor",
-      "token-index": 2,
-      "strongs": 6865,
-      "hebrew": "צור"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 10,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:19:16.946244280Z",
+  "model": "glm-5.2"
 }

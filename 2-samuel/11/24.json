@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "2-samuel 11:24",
   "book": "2-samuel",
-  "chapter": 11,
-  "verse": 24,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:25:41.285542799Z",
-  "translation": "Y los tiradores tiraron sobre ⟨את⟩ siervo tuyo desde ⟨el⟩ muro, y murieron ⟨algunos⟩ siervos ⟨del⟩ rey; y también ⟨tu⟩ siervo Uriyá ⟨el⟩ hitita ⟨está⟩ muerto.",
+  "chapter": 11,
+  "translation": "Y los tiradores dispararon contra tus siervos desde ⟨sobre⟩ la muralla, y murieron algunos de los siervos del rey; y también tu siervo Uriyá el hitita murió.",
   "tokens": [
     {
       "surface": "ויראו",
-      "gloss": "Y los tiradores tiraron"
+      "gloss": "y dispararon"
     },
     {
       "surface": "המוראים",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "sobre"
+      "gloss": "contra"
     },
     {
       "surface": "עבדך",
-      "gloss": "siervo tuyo"
+      "gloss": "tus siervos"
     },
     {
       "surface": "מעל",
-      "gloss": "desde"
+      "gloss": "desde sobre"
     },
     {
       "surface": "החומה",
-      "gloss": "el muro"
+      "gloss": "la muralla"
     },
     {
       "surface": "וימותו",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "מעבדי",
-      "gloss": "siervos"
+      "gloss": "algunos de los siervos"
     },
     {
       "surface": "המלך",
@@ -63,19 +61,9 @@
     },
     {
       "surface": "מת",
-      "gloss": "está muerto"
+      "gloss": "murió"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Urías",
-      "to": "Uriyá",
-      "token-index": 11,
-      "strongs": 223,
-      "hebrew": "אוריה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:16:25.510229087Z",
+  "model": "glm-5.2"
 }

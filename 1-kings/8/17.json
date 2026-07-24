@@ -1,29 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "1-kings 8:17",
   "book": "1-kings",
-  "chapter": 8,
-  "verse": 17,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:54:02.811311453Z",
-  "translation": "Y estaba en ⟨el⟩ corazón de Davidd mi padre construir ⟨את⟩ ⟨la⟩ casa ⟨para⟩ ⟨el⟩ nombre de YHWH, ⟨el⟩ Elohim de Yisrael",
+  "chapter": 8,
+  "translation": "Y sucedió ⟨que⟩ ⟨estaba⟩ con el corazón de David mi padre ⟨el⟩ construir ⟨una⟩ casa para el Nombre de YHWH, Elohim de Yisrael.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Y estaba"
+      "gloss": "Y sucedió"
     },
     {
       "surface": "עם",
-      "gloss": "en ⟨el⟩"
+      "gloss": "con"
     },
     {
       "surface": "לבב",
-      "gloss": "corazón"
+      "gloss": "el corazón"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "אבי",
@@ -31,46 +29,29 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "construir"
+      "gloss": "el construir"
     },
     {
       "surface": "בית",
-      "gloss": "⟨la⟩ casa"
+      "gloss": "una casa"
     },
     {
       "surface": "לשם",
-      "gloss": "⟨para⟩ ⟨el⟩ nombre"
+      "gloss": "para el Nombre"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "אלהי",
-      "gloss": "⟨el⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
       "gloss": "de Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 3,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 10,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:21:30.949007097Z",
+  "model": "glm-5.2"
 }

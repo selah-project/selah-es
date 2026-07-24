@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "exodus 40:13",
   "book": "exodus",
-  "chapter": 40,
-  "verse": 13,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:29:14.656475262Z",
-  "translation": "y vestirás ⟨a⟩ Aharón ⟨con⟩ ⟨los⟩ vestidos de santidad, y ungirás ⟨a⟩ él, y consagrarás ⟨a⟩ él, y él servirá como kohen para mí",
+  "chapter": 40,
+  "translation": "Y vestirás a Aharón ⟨את⟩ ⟨las⟩ vestiduras de santidad, y lo ungirás, y lo consagrarás, y ejercerá ⟨el⟩ sacerdocio para mí.",
   "tokens": [
     {
       "surface": "והלבשת",
-      "gloss": "y vestirás"
+      "gloss": "Y vestirás"
     },
     {
       "surface": "את",
@@ -25,11 +23,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "בגדי"
+      "marks": "vestiduras"
     },
     {
       "surface": "בגדי",
-      "gloss": "⟨los⟩ vestidos"
+      "gloss": "vestiduras"
     },
     {
       "surface": "הקדש",
@@ -41,7 +39,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨a⟩ él"
+      "gloss": "lo",
+      "marks": "lo ungirás"
     },
     {
       "surface": "וקדשת",
@@ -49,15 +48,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨a⟩ él"
+      "gloss": "lo",
+      "marks": "lo consagrarás"
     },
     {
       "surface": "וכהן",
-      "gloss": "y él servirá como kohen"
+      "gloss": "y ejercerá el sacerdocio"
     },
     {
       "surface": "לי",
       "gloss": "para mí"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:17:17.373473174Z",
+  "model": "glm-5.2"
 }

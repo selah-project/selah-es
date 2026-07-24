@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "1-samuel 12:7",
   "book": "1-samuel",
-  "chapter": 12,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:38:15.850993704Z",
-  "translation": "Y ahora, ⟨estad⟩ firmes, y ⟨yo⟩ juzgaré ⟨con⟩ vosotros delante de YHWH ⟨את⟩ todas las justicias de YHWH que hizo ⟨con⟩ vosotros y ⟨con⟩ vuestros padres",
+  "chapter": 12,
+  "translation": "Y ahora, presentaos ⟨ustedes⟩, y ⟨yo⟩ juzgaré con vosotros delante de YHWH ⟨את⟩ todas las justicias de YHWH, que ⟨Él⟩ hizo con vosotros y con ⟨את⟩ vuestros padres.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "התיצבו",
-      "gloss": "⟨estad⟩ firmes"
+      "gloss": "presentaos"
     },
     {
       "surface": "ואשפטה",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨con⟩ vosotros"
+      "gloss": "con vosotros"
     },
     {
       "surface": "לפני",
@@ -36,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todas las justicias de YHWH"
+      "marks": "todas las justicias"
     },
     {
       "surface": "כל",
@@ -60,15 +58,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨con⟩ vosotros"
+      "gloss": "con vosotros"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨con⟩"
+      "gloss": "y ⟨את⟩",
+      "marks": "vuestros padres"
     },
     {
       "surface": "אבותיכם",
       "gloss": "vuestros padres"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:11:14.100302194Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 48,
   "ref": "leviticus 14:48",
   "book": "leviticus",
-  "chapter": 14,
-  "verse": 48,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:40:28.904791187Z",
-  "translation": "Y si entrare el Kohen y viera, y he aquí que no se ha extendido ⟨את⟩ la plaga en la casa después de haber sido encalada ⟨את⟩ la casa, entonces declarará limpio ⟨את⟩ el Kohen ⟨את⟩ la casa, porque ha sanado ⟨את⟩ la plaga.",
+  "chapter": 14,
+  "translation": "Y si viniere ⟨a⟩ entrar el Kohen y viere, y he aquí que no se ha extendido la plague en la casa después de ⟨que⟩ enyesó ⟨את⟩ la casa, entonces el Kohen declarará limpia ⟨את⟩ la casa, porque ⟨la⟩ plague ha sido sanada.",
   "tokens": [
     {
       "surface": "ואם",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "בא",
-      "gloss": "entrare"
+      "gloss": "viniere"
     },
     {
       "surface": "יבא",
-      "gloss": "y"
+      "gloss": "entrar"
     },
     {
       "surface": "הכהן",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "וראה",
-      "gloss": "y viera"
+      "gloss": "y viere"
     },
     {
       "surface": "והנה",
@@ -43,8 +41,7 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "⟨את⟩",
-      "marks": "la plaga"
+      "gloss": "la plague"
     },
     {
       "surface": "בבית",
@@ -56,7 +53,7 @@
     },
     {
       "surface": "הטח",
-      "gloss": "haber sido encalada"
+      "gloss": "enyesó"
     },
     {
       "surface": "את",
@@ -69,12 +66,11 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "entonces declarará limpio"
+      "gloss": "entonces declarará limpia"
     },
     {
       "surface": "הכהן",
-      "gloss": "⟨את⟩",
-      "marks": "el Kohen"
+      "gloss": "el Kohen"
     },
     {
       "surface": "את",
@@ -91,12 +87,13 @@
     },
     {
       "surface": "נרפא",
-      "gloss": "ha sanado"
+      "gloss": "ha sido sanada"
     },
     {
       "surface": "הנגע",
-      "gloss": "⟨את⟩",
-      "marks": "la plaga"
+      "gloss": "la plague"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:23:06.174959331Z",
+  "model": "glm-5.2"
 }

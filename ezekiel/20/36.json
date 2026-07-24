@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 36,
   "ref": "ezekiel 20:36",
   "book": "ezekiel",
-  "chapter": 20,
-  "verse": 36,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T12:29:03.437261790Z",
-  "translation": "Como ⟨juzgué⟩ ⟨a⟩ vuestros padres en el desierto ⟨de la⟩ tierra de Mitzráyim, así ⟨juzgaré⟩ ⟨a⟩ vosotros, ⟨oráculo de⟩ Adonai YHWH.",
+  "chapter": 20,
+  "translation": "Como entré en juicio con ⟨את⟩ vuestros padres en el desierto de ⟨la⟩ tierra de Mitzráyim, así entraré en juicio con vosotros — oráculo de Adonai YHWH.",
   "tokens": [
     {
       "surface": "כאשר",
@@ -15,12 +13,12 @@
     },
     {
       "surface": "נשפטתי",
-      "gloss": "⟨juzgué⟩"
+      "gloss": "entré en juicio"
     },
     {
       "surface": "את",
-      "gloss": "⟨a⟩",
-      "marks": "אבותיכם"
+      "gloss": "⟨את⟩",
+      "marks": "vuestros padres"
     },
     {
       "surface": "אבותיכם",
@@ -32,11 +30,11 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨de la⟩ tierra"
+      "gloss": "de ⟨la⟩ tierra"
     },
     {
       "surface": "מצרים",
-      "gloss": "de Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "כן",
@@ -44,36 +42,25 @@
     },
     {
       "surface": "אשפט",
-      "gloss": "⟨juzgaré⟩"
+      "gloss": "entraré en juicio"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨a⟩ vosotros",
-      "marks": "אתכם"
+      "gloss": "con vosotros"
     },
     {
       "surface": "נאם",
-      "gloss": "⟨oráculo de⟩"
+      "gloss": "oráculo"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "de Adonai"
     },
     {
       "surface": "יהוה",
       "gloss": "YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Egipto",
-      "to": "Mitzráyim",
-      "token-index": 6,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:46:47.791404589Z",
+  "model": "glm-5.2"
 }

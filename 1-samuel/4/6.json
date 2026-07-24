@@ -1,38 +1,36 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "1-samuel 4:6",
   "book": "1-samuel",
-  "chapter": 4,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:47:37.332809938Z",
-  "translation": "Y cuando los filisteos oyeron ⟨el⟩ sonido de la aclamación, dijeron: '¿Qué ⟨es⟩ este sonido de la gran aclamación en el campamento ⟨de los⟩ hebreos?' Y supieron que Arón ⟨de⟩ HaShem había venido al campamento.",
+  "chapter": 4,
+  "translation": "Y oyeron los Pelishtim ⟨את⟩ el sonido del grito de guerra, y dijeron: «¿Qué ⟨es⟩ este sonido del gran grito de guerra en el campamento de los hebreos?» Y supieron que el Arón de YHWH había entrado al campamento.",
   "tokens": [
     {
       "surface": "וישמעו",
-      "gloss": "Y cuando ... oyeron"
+      "gloss": "Y oyeron"
     },
     {
       "surface": "פלשתים",
-      "gloss": "los filisteos"
+      "gloss": "los Pelishtim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sonido"
+      "marks": "el sonido"
     },
     {
       "surface": "קול",
-      "gloss": "sonido"
+      "gloss": "el sonido"
     },
     {
       "surface": "התרועה",
-      "gloss": "de la aclamación"
+      "gloss": "del grito de guerra"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "dijeron"
+      "gloss": "y dijeron"
     },
     {
       "surface": "מה",
@@ -40,11 +38,11 @@
     },
     {
       "surface": "קול",
-      "gloss": "sonido"
+      "gloss": "⟨es⟩ este sonido"
     },
     {
       "surface": "התרועה",
-      "gloss": "de la aclamación"
+      "gloss": "del grito de guerra"
     },
     {
       "surface": "הגדולה",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "העברים",
-      "gloss": "⟨de los⟩ hebreos"
+      "gloss": "de los hebreos"
     },
     {
       "surface": "וידעו",
@@ -72,35 +70,25 @@
     },
     {
       "surface": "ארון",
-      "gloss": "Arón"
+      "gloss": "el Arón"
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨de⟩ YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "בא",
-      "gloss": "había venido"
+      "gloss": "había entrado"
     },
     {
       "surface": "אל",
-      "gloss": "al"
+      "gloss": "a"
     },
     {
       "surface": "המחנה",
-      "gloss": "campamento"
+      "gloss": "al campamento"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "el arca",
-      "to": "Arón",
-      "token-index": 15,
-      "strongs": 727,
-      "hebrew": "ארון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:10:08.639403894Z",
+  "model": "glm-5.2"
 }

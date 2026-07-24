@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "1-samuel 29:3",
   "book": "1-samuel",
-  "chapter": 29,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:13:39.445429619Z",
-  "translation": "Y los príncipes de ⟨los⟩ filisteos dijeron: ¿Qué ⟨hacen⟩ estos hebreos aquí? Y Acis dijo a los príncipes de ⟨los⟩ filisteos: ¿No ⟨es⟩ este Davidd, ⟨el⟩ siervo de Shaúl, rey de Yisrael, que ⟨ha estado⟩ conmigo ⟨en⟩ estos días o ⟨en⟩ estos años, y no he encontrado ⟨nada⟩ ⟨que⟩ ⟨sea⟩ ⟨malo⟩ ⟨en⟩ él desde ⟨el⟩ día que ⟨se⟩ refugió ⟨con⟩migo hasta ⟨el⟩ día de hoy?",
+  "chapter": 29,
+  "translation": "Y diijeron los príncipes de los Pelishtim: ¿Qué ⟨hacen⟩ estos hebreos? Y dijo Akish a los príncipes de los Pelishtim: ¿No es este David, siervo de Shaúl, rey de Yisrael, que ha estado conmigo días o estos años, y no he hallado en él nada desde el día de su caída hasta este día?",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "los filisteos"
+      "gloss": "los Pelishtim"
     },
     {
       "surface": "מה",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": "aquí"
+      "gloss": "estos"
     },
     {
       "surface": "ויאמר",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "אכיש",
-      "gloss": "Acis"
+      "gloss": "Akish"
     },
     {
       "surface": "אל",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "los filisteos"
+      "gloss": "los Pelishtim"
     },
     {
       "surface": "הלוא",
@@ -63,15 +61,15 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "עבד",
-      "gloss": "el siervo de"
+      "gloss": "siervo"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaúl"
+      "gloss": "de Shaúl"
     },
     {
       "surface": "מלך",
@@ -95,7 +93,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "en estos"
+      "gloss": "estos"
     },
     {
       "surface": "ימים",
@@ -107,7 +105,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "en estos"
+      "gloss": "estos"
     },
     {
       "surface": "שנים",
@@ -115,11 +113,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "y no he"
+      "gloss": "y no"
     },
     {
       "surface": "מצאתי",
-      "gloss": "encontrado"
+      "gloss": "he hallado"
     },
     {
       "surface": "בו",
@@ -127,7 +125,7 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "nada que sea malo"
+      "gloss": "nada"
     },
     {
       "surface": "מיום",
@@ -135,7 +133,7 @@
     },
     {
       "surface": "נפלו",
-      "gloss": "que se refugió"
+      "gloss": "de su caída"
     },
     {
       "surface": "עד",
@@ -147,33 +145,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "de hoy"
+      "gloss": "este"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 13,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Saúl",
-      "to": "Shaúl",
-      "token-index": 15,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 17,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:14:24.588046481Z",
+  "model": "glm-5.2"
 }

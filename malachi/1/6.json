@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "malachi 1:6",
   "book": "malachi",
-  "chapter": 1,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T22:31:44.207587740Z",
-  "translation": "Un hijo honra a un padre, y ⟨un⟩ siervo ⟨a⟩ su señor; y si Yo ⟨soy⟩ padre, ¿dónde ⟨está⟩ mi honor? y si Yo ⟨soy⟩ señor, ¿dónde ⟨está⟩ mi temor? dijo YHWH Tzevaot a vosotros, los sacerdotes, que despreciáis mi nombre. Y dijisteis: ¿En qué hemos despreciado ⟨el⟩ nombre ⟨de⟩ YHWH?",
+  "chapter": 1,
+  "translation": "Un hijo honra a ⟨su⟩ padre, y un siervo a su señor; y si yo ⟨soy⟩ padre, ¿dónde ⟨está⟩ mi honra? Y si señores, ¿dónde ⟨está⟩ mi temor?, ha dicho YHWH Tzevaot a vosotros, los kohanim que despreciáis mi Nombre. Y vosotros decís: ¿En qué hemos despreciado ⟨את⟩ tu Nombre?",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Un hijo"
+      "gloss": "hijo"
     },
     {
       "surface": "יכבד",
@@ -19,35 +17,35 @@
     },
     {
       "surface": "אב",
-      "gloss": "a un padre"
-    },
-    {
-      "surface": "ועבד",
-      "gloss": "y"
-    },
-    {
-      "surface": "אדניו",
-      "gloss": "⟨un⟩ siervo ⟨a⟩"
-    },
-    {
-      "surface": "ואם",
-      "gloss": "su señor; y si"
-    },
-    {
-      "surface": "אב",
-      "gloss": "Yo ⟨soy⟩"
-    },
-    {
-      "surface": "אני",
       "gloss": "padre"
     },
     {
+      "surface": "ועבד",
+      "gloss": "y siervo"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "su señor"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "y si"
+    },
+    {
+      "surface": "אב",
+      "gloss": "padre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "yo"
+    },
+    {
       "surface": "איה",
-      "gloss": "¿dónde ⟨está⟩"
+      "gloss": "¿dónde?"
     },
     {
       "surface": "כבודי",
-      "gloss": "mi honor"
+      "gloss": "mi honra"
     },
     {
       "surface": "ואם",
@@ -55,15 +53,15 @@
     },
     {
       "surface": "אדונים",
-      "gloss": "Yo ⟨soy⟩"
+      "gloss": "señores"
     },
     {
       "surface": "אני",
-      "gloss": "señor"
+      "gloss": "⟨soy⟩"
     },
     {
       "surface": "איה",
-      "gloss": "¿dónde ⟨está⟩"
+      "gloss": "¿dónde?"
     },
     {
       "surface": "מוראי",
@@ -71,7 +69,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "dijo"
+      "gloss": "ha dicho"
     },
     {
       "surface": "יהוה",
@@ -87,7 +85,7 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "los sacerdotes"
+      "gloss": "los kohanim"
     },
     {
       "surface": "בוזי",
@@ -95,15 +93,15 @@
     },
     {
       "surface": "שמי",
-      "gloss": "mi nombre"
+      "gloss": "mi Nombre"
     },
     {
       "surface": "ואמרתם",
-      "gloss": "Y dijisteis"
+      "gloss": "y decís"
     },
     {
       "surface": "במה",
-      "gloss": "¿En qué"
+      "gloss": "¿en qué?"
     },
     {
       "surface": "בזינו",
@@ -111,12 +109,14 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨el⟩ nombre ⟨de⟩",
-      "marks": "שמך"
+      "gloss": "⟨את⟩",
+      "marks": "tu Nombre"
     },
     {
       "surface": "שמך",
-      "gloss": "YHWH"
+      "gloss": "tu Nombre"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:55:08.769264942Z",
+  "model": "glm-5.2"
 }

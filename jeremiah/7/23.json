@@ -1,30 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "jeremiah 7:23",
   "book": "jeremiah",
-  "chapter": 7,
-  "verse": 23,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:36:33.732343063Z",
-  "translation": "solo esto ⟨את⟩ la palabra ⟨esta⟩ ordené a ellos diciendo: oíd ⟨a⟩ mi voz, y seré para vosotros por Elohim, y vosotros seréis para mí por pueblo, y andaréis en todo el camino que yo os ordeno ⟨את⟩ para que os vaya bien.",
+  "chapter": 7,
+  "translation": "sino ⟨את⟩ esta palabra les mandé, diciendo: Escuchen mi voz, y Yo seré ⟨para⟩ ustedes por Elohim, y ustedes me serán por pueblo; y anden en todo el camino que les mandaré ⟨para⟩ que ⟨les⟩ vaya bien.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "solo"
+      "gloss": "sino"
     },
     {
       "surface": "אם",
-      "gloss": "esto"
+      "gloss": "(partícula condicional)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "la palabra"
+      "marks": "esta palabra"
     },
     {
       "surface": "הדבר",
-      "gloss": "la palabra"
+      "gloss": "palabra"
     },
     {
       "surface": "הזה",
@@ -32,11 +30,12 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ordené"
+      "gloss": "mandé"
     },
     {
       "surface": "אותם",
-      "gloss": "a ellos"
+      "gloss": "⟨את⟩",
+      "marks": "diciendo"
     },
     {
       "surface": "לאמר",
@@ -44,19 +43,19 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "oíd"
+      "gloss": "Escuchen"
     },
     {
       "surface": "בקולי",
-      "gloss": "a mi voz"
+      "gloss": "mi voz"
     },
     {
       "surface": "והייתי",
-      "gloss": "y seré"
+      "gloss": "y Yo seré"
     },
     {
       "surface": "לכם",
-      "gloss": "para vosotros"
+      "gloss": "para ustedes"
     },
     {
       "surface": "לאלהים",
@@ -64,15 +63,15 @@
     },
     {
       "surface": "ואתם",
-      "gloss": "y vosotros"
+      "gloss": "y ustedes"
     },
     {
       "surface": "תהיו",
-      "gloss": "seréis"
+      "gloss": "serán"
     },
     {
       "surface": "לי",
-      "gloss": "para mí"
+      "gloss": "me"
     },
     {
       "surface": "לעם",
@@ -80,7 +79,7 @@
     },
     {
       "surface": "והלכתם",
-      "gloss": "y andaréis"
+      "gloss": "y anden"
     },
     {
       "surface": "בכל",
@@ -96,7 +95,7 @@
     },
     {
       "surface": "אצוה",
-      "gloss": "yo ordeno"
+      "gloss": "mandaré"
     },
     {
       "surface": "אתכם",
@@ -109,11 +108,13 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "os vaya bien"
+      "gloss": "vaya bien"
     },
     {
       "surface": "לכם",
-      "gloss": "a vosotros"
+      "gloss": "les"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:36:14.596439735Z",
+  "model": "glm-5.2"
 }

@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "numbers 16:30",
   "book": "numbers",
-  "chapter": 16,
-  "verse": 30,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:05:52.032577265Z",
-  "translation": "Pero si YHWH hace ⟨una⟩ creación ⟨nueva⟩, y ⟨la⟩ tierra abre su boca ⟨את⟩ y ⟨la⟩ traga a ellos, y ⟨את⟩ todo lo que ⟨es⟩ de ellos, y bajen vivos al Sheol, entonces sabréis que ⟨estos⟩ hombres han despreciado ⟨את⟩ YHWH.",
+  "chapter": 16,
+  "translation": "Y si ⟨⟩ una creación nueva YHWH ⟨crea⟩, y la tierra abre ⟨את⟩ su boca y los traga, y ⟨⟨את⟩⟩ todo lo que tienen, y descienden vivos a Sheol, entonces sabrán que estos hombres han despreciado ⟨את⟩ YHWH.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Pero si"
+      "gloss": "Y si"
     },
     {
       "surface": "בריאה",
-      "gloss": "creación nueva"
+      "gloss": "una creación nueva"
     },
     {
       "surface": "יברא",
-      "gloss": "hace"
+      "gloss": "⟨crea⟩"
     },
     {
       "surface": "יהוה",
@@ -48,11 +46,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "a ellos"
+      "gloss": "los"
     },
     {
       "surface": "ואת",
-      "gloss": "y"
+      "gloss": "y ⟨את⟩",
+      "marks": "todo lo que tienen"
     },
     {
       "surface": "כל",
@@ -64,11 +63,11 @@
     },
     {
       "surface": "להם",
-      "gloss": "es de ellos"
+      "gloss": "tienen"
     },
     {
       "surface": "וירדו",
-      "gloss": "y bajen"
+      "gloss": "y descienden"
     },
     {
       "surface": "חיים",
@@ -76,11 +75,11 @@
     },
     {
       "surface": "שאלה",
-      "gloss": "al Sheol"
+      "gloss": "a Sheol"
     },
     {
       "surface": "וידעתם",
-      "gloss": "entonces sabréis"
+      "gloss": "entonces sabrán"
     },
     {
       "surface": "כי",
@@ -96,7 +95,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": ""
+      "gloss": "estos"
     },
     {
       "surface": "את",
@@ -107,5 +106,7 @@
       "surface": "יהוה",
       "gloss": "YHWH"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:38:02.159332394Z",
+  "model": "glm-5.2"
 }

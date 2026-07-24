@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "2-chronicles 36:4",
   "book": "2-chronicles",
-  "chapter": 36,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:41:43.735197462Z",
-  "translation": "Y el rey de Mitzráyim hizo rey ⟨a⟩ Eliakím su hermano sobre Yehudá y Yerushaláyim, y cambió ⟨el⟩ nombre de ⟨él⟩: Yehoyakím. ⟨Y⟩ ⟨a⟩ Yoajaz su hermano ⟨lo⟩ tomó Nekó, y lo trajo ⟨a⟩ Mitzráyim.",
+  "chapter": 36,
+  "translation": "Y el rey de Mitzráyim hizo reinar a ⟨את⟩ Elyakim, su hermano, sobre Yehudá y Yerushalayim, y cambió ⟨את⟩ su nombre a Yehoyakim. Y a ⟨את⟩ Yoajaz, su hermano, lo tomó Nekó, y lo trajo a Mitzráyim.",
   "tokens": [
     {
       "surface": "וימלך",
-      "gloss": "Y ... hizo rey"
+      "gloss": "Y hizo reinar"
     },
     {
       "surface": "מלך",
@@ -24,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Eliakím"
+      "marks": "a Elyakim"
     },
     {
       "surface": "אליקים",
-      "gloss": "Eliakím"
+      "gloss": "Elyakim"
     },
     {
       "surface": "אחיו",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "וירושלם",
-      "gloss": "y Yerushaláyim"
+      "gloss": "y Yerushalayim"
     },
     {
       "surface": "ויסב",
@@ -53,20 +51,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "שמו"
+      "marks": "su nombre"
     },
     {
       "surface": "שמו",
-      "gloss": "nombre de ⟨él⟩"
+      "gloss": "su nombre"
     },
     {
       "surface": "יהויקים",
-      "gloss": "Yehoyakím"
+      "gloss": "a Yehoyakim"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨Y⟩ ⟨a⟩",
-      "marks": "יואחז"
+      "gloss": "Y a ⟨את⟩",
+      "marks": "a Yoajaz"
     },
     {
       "surface": "יואחז",
@@ -78,7 +76,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "⟨lo⟩ tomó"
+      "gloss": "tomó"
     },
     {
       "surface": "נכו",
@@ -86,37 +84,13 @@
     },
     {
       "surface": "ויביאהו",
-      "gloss": "y lo trajo ⟨a⟩"
+      "gloss": "y lo trajo"
     },
     {
       "surface": "מצרימה",
-      "gloss": "Mitzráyim"
+      "gloss": "a Mitzráyim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Egipto",
-      "to": "Mitzráyim",
-      "token-index": 2,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 7,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    },
-    {
-      "from": "Egipto",
-      "to": "Mitzráyim",
-      "token-index": 19,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:21:59.630103244Z",
+  "model": "glm-5.2"
 }

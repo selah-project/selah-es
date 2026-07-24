@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "exodus 21:5",
   "book": "exodus",
-  "chapter": 21,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:17:55.492866681Z",
-  "translation": "Pero ⟨el⟩ siervo ⟨de veras⟩ dijere: Amé ⟨a⟩ mi señor, ⟨a⟩ mi mujer y ⟨a⟩ mis hijos, no saldré libre;",
+  "chapter": 21,
+  "translation": "Y si el esclavo dijere expresamente: He amado a mi señor, ⟨את⟩ a mi mujer y ⟨את⟩ a mis hijos; no saldré libre.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Pero si"
+      "gloss": "Y si"
     },
     {
       "surface": "אמר",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "יאמר",
-      "gloss": "⟨de veras⟩ dijere"
+      "gloss": "expresamente"
     },
     {
       "surface": "העבד",
-      "gloss": "⟨el⟩ siervo"
+      "gloss": "el esclavo"
     },
     {
       "surface": "אהבתי",
-      "gloss": "Amé"
+      "gloss": "He amado"
     },
     {
       "surface": "את",
@@ -49,7 +47,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩"
+      "gloss": "y ⟨את⟩",
+      "marks": "a mis hijos"
     },
     {
       "surface": "בני",
@@ -67,5 +66,7 @@
       "surface": "חפשי",
       "gloss": "libre"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:07:08.996769435Z",
+  "model": "glm-5.2"
 }

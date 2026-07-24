@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "2-kings 16:17",
   "book": "2-kings",
-  "chapter": 16,
-  "verse": 17,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:13:34.731478789Z",
-  "translation": "Y el rey Ajaz cortó los marcos de las bases y ⟨los⟩ quitó de sobre ellos, y ⟨את⟩ el Kiyor, y ⟨את⟩ el Yam lo bajó de sobre los toros de bronce que estaban debajo de él, y ⟨lo⟩ puso sobre un pavimento de piedras",
+  "chapter": 16,
+  "translation": "Y el rey Ajaz cortó los bordes de las bases, y quitó de sobre ellas ⟨את⟩ el Kiyor; y ⟨את⟩ el Mar descendió de sobre los bueyes de bronce que ⟨estaban⟩ debajo de él, y lo puso sobre ⟨un⟩ pavimento de piedras.",
   "tokens": [
     {
       "surface": "ויקצץ",
@@ -24,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "המסגרות"
+      "marks": "los bordes"
     },
     {
       "surface": "המסגרות",
-      "gloss": "los marcos"
+      "gloss": "los bordes"
     },
     {
       "surface": "המכנות",
@@ -40,12 +38,12 @@
     },
     {
       "surface": "מעליהם",
-      "gloss": "de sobre ellos"
+      "gloss": "de sobre ellas"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "הכיר"
+      "gloss": "y ⟨את⟩",
+      "marks": "el Kiyor"
     },
     {
       "surface": "הכיר",
@@ -53,16 +51,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "הים"
+      "gloss": "y ⟨את⟩",
+      "marks": "el Mar"
     },
     {
       "surface": "הים",
-      "gloss": "el Yam"
+      "gloss": "el Mar"
     },
     {
       "surface": "הורד",
-      "gloss": "lo bajó"
+      "gloss": "descendió"
     },
     {
       "surface": "מעל",
@@ -70,7 +68,7 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "los toros"
+      "gloss": "los bueyes"
     },
     {
       "surface": "הנחשת",
@@ -82,16 +80,16 @@
     },
     {
       "surface": "תחתיה",
-      "gloss": "estaban debajo de él"
+      "gloss": "debajo de él"
     },
     {
       "surface": "ויתן",
-      "gloss": "y puso"
+      "gloss": "y lo puso"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨lo⟩",
-      "marks": "על"
+      "gloss": "⟨את⟩",
+      "marks": "a él (el Mar)"
     },
     {
       "surface": "על",
@@ -99,11 +97,13 @@
     },
     {
       "surface": "מרצפת",
-      "gloss": "un pavimento"
+      "gloss": "pavimento"
     },
     {
       "surface": "אבנים",
       "gloss": "de piedras"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:28:45.084698842Z",
+  "model": "glm-5.2"
 }

@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "exodus 6:25",
   "book": "exodus",
-  "chapter": 6,
-  "verse": 25,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T06:28:20.787135921Z",
-  "translation": "Y Eleazar, hijo de Aharón, tomó ⟨para sí⟩ ⟨una⟩ de las hijas de Putiel ⟨como⟩ mujer ⟨para sí⟩, y ella le dio a luz ⟨a⟩ Finehás: ⟨estos⟩ son ⟨los⟩ cabezas ⟨de los⟩ padres ⟨de los⟩ levitas ⟨según⟩ sus familias.",
+  "chapter": 6,
+  "translation": "Y Elazar, hijo de Aharón, tomó para sí de ⟨entre⟩ las hijas de Putiel, para sí por mujer; y ella dio a luz a él ⟨את⟩ Pinjás. Estos ⟨son⟩ los cabezas de los padres de los levitas, según sus familias.",
   "tokens": [
     {
       "surface": "ואלעזר",
-      "gloss": "Y Eleazar"
+      "gloss": "Y Elazar"
     },
     {
       "surface": "בן",
-      "gloss": "hijo"
+      "gloss": "hijo de"
     },
     {
       "surface": "אהרן",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "⟨para sí⟩"
+      "gloss": "para sí"
     },
     {
       "surface": "מבנות",
-      "gloss": "⟨una⟩ de las hijas"
+      "gloss": "de las hijas de"
     },
     {
       "surface": "פוטיאל",
@@ -39,60 +37,50 @@
     },
     {
       "surface": "לו",
-      "gloss": "⟨para sí⟩"
+      "gloss": "para sí"
     },
     {
       "surface": "לאשה",
-      "gloss": "⟨como⟩ mujer"
+      "gloss": "por mujer"
     },
     {
       "surface": "ותלד",
-      "gloss": "y ella le dio a luz"
+      "gloss": "y ella dio a luz"
     },
     {
       "surface": "לו",
-      "gloss": "le"
+      "gloss": "a él"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Finehás"
+      "marks": "Pinjás"
     },
     {
       "surface": "פינחס",
-      "gloss": "Finehás"
+      "gloss": "Pinjás"
     },
     {
       "surface": "אלה",
-      "gloss": "⟨estos⟩"
+      "gloss": "Estos"
     },
     {
       "surface": "ראשי",
-      "gloss": "⟨los⟩ cabezas"
+      "gloss": "los cabezas de"
     },
     {
       "surface": "אבות",
-      "gloss": "⟨de los⟩ padres"
+      "gloss": "los padres"
     },
     {
       "surface": "הלוים",
-      "gloss": "⟨de los⟩ levitas"
+      "gloss": "de los levitas"
     },
     {
       "surface": "למשפחתם",
-      "gloss": "⟨según⟩ sus familias"
+      "gloss": "según sus familias"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Aarón",
-      "to": "Aharón",
-      "token-index": 2,
-      "strongs": 175,
-      "hebrew": "אהרן"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:02:45.399356580Z",
+  "model": "glm-5.2"
 }

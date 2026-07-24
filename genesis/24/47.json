@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 47,
   "ref": "genesis 24:47",
   "book": "genesis",
-  "chapter": 24,
-  "verse": 47,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:02:59.891536024Z",
-  "translation": "Y le pregunté ⟨את⟩ y dije: ¿Hija de quién eres? Y ella dijo: Hija de Bet-El, hijo de Najor, ⟨את⟩ le dio a luz a él Milcah; y puse el anillo sobre su nariz y las pulseras sobre sus manos",
+  "chapter": 24,
+  "translation": "Y le pregunté ⟨את⟩, y dije: «¿Hija de quién eres tú?». Y ⟨ella⟩ dijo: «Hija de Betuel, hijo de Najor, que Milká le dio a luz». Y puse el anillo sobre su rostro y las pulseras sobre sus manos.",
   "tokens": [
     {
       "surface": "ואשאל",
@@ -16,7 +14,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "y dije"
+      "marks": "a ella (objeto directo de 'pregunté')"
     },
     {
       "surface": "ואמר",
@@ -32,12 +30,11 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ella dijo"
+      "gloss": "eres tú"
     },
     {
       "surface": "ותאמר",
-      "gloss": "ella dijo"
+      "gloss": "Y ⟨ella⟩ dijo"
     },
     {
       "surface": "בת",
@@ -45,7 +42,7 @@
     },
     {
       "surface": "בתואל",
-      "gloss": "de Bet-El"
+      "gloss": "de Betuel"
     },
     {
       "surface": "בן",
@@ -57,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨a quien⟩"
+      "gloss": "que"
     },
     {
       "surface": "ילדה",
@@ -69,11 +66,11 @@
     },
     {
       "surface": "מלכה",
-      "gloss": "Milcah"
+      "gloss": "Milká"
     },
     {
       "surface": "ואשם",
-      "gloss": "y puse"
+      "gloss": "Y puse"
     },
     {
       "surface": "הנזם",
@@ -85,7 +82,7 @@
     },
     {
       "surface": "אפה",
-      "gloss": "su nariz"
+      "gloss": "su rostro"
     },
     {
       "surface": "והצמידים",
@@ -99,5 +96,7 @@
       "surface": "ידיה",
       "gloss": "sus manos"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:46:53.537143816Z",
+  "model": "glm-5.2"
 }

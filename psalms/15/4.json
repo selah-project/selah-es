@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "psalms 15:4",
   "book": "psalms",
-  "chapter": 15,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:25:46.481653206Z",
-  "translation": "despreciado en sus ojos ⟨es⟩ el rechazado, pero a ⟨los que⟩ temen a YHWH honra; ha jurado ⟨para⟩ hacer daño y no cambia",
+  "chapter": 15,
+  "translation": "Despreciado es en sus ojos el desechado, y a los que temen a YHWH ⟨él⟩ honra; jura para dañar y no cambia.",
   "tokens": [
     {
       "surface": "נבזה",
@@ -19,12 +17,12 @@
     },
     {
       "surface": "נמאס",
-      "gloss": "el rechazado"
+      "gloss": "el desechado"
     },
     {
       "surface": "ואת",
-      "gloss": "pero a",
-      "marks": "los que temen a YHWH"
+      "gloss": "⟨את⟩",
+      "marks": "a los que temen"
     },
     {
       "surface": "יראי",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH"
+      "gloss": "a YHWH"
     },
     {
       "surface": "יכבד",
@@ -40,11 +38,11 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "ha jurado"
+      "gloss": "jura"
     },
     {
       "surface": "להרע",
-      "gloss": "para hacer daño"
+      "gloss": "para dañar"
     },
     {
       "surface": "ולא",
@@ -54,5 +52,7 @@
       "surface": "ימר",
       "gloss": "cambia"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:56:08.305175124Z",
+  "model": "glm-5.2"
 }

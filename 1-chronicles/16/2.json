@@ -1,66 +1,54 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "1-chronicles 16:2",
   "book": "1-chronicles",
-  "chapter": 16,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:45:29.580342126Z",
-  "translation": "Y Davidd ⟨terminó⟩ ⟨de⟩ subir ⟨el⟩ holocausto y ⟨las⟩ ofrendas de paz, y bendijo ⟨a⟩ ⟨el⟩ pueblo ⟨con⟩ ⟨el⟩ nombre ⟨de⟩ YHWH.",
+  "chapter": 16,
+  "translation": "Y cuando David terminó de hacer subir la Olá y ⟨las⟩ Shelamim, bendijo ⟨את⟩ al pueblo en el Nombre de YHWH.",
   "tokens": [
     {
       "surface": "ויכל",
-      "gloss": "Y David ⟨terminó⟩"
+      "gloss": "Y cuando terminó"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "מהעלות",
-      "gloss": "⟨de⟩ subir"
+      "gloss": "de hacer subir"
     },
     {
       "surface": "העלה",
-      "gloss": "⟨el⟩ holocausto"
+      "gloss": "la Olá"
     },
     {
       "surface": "והשלמים",
-      "gloss": "y ⟨las⟩ ofrendas de paz"
+      "gloss": "y ⟨las⟩ Shelamim"
     },
     {
       "surface": "ויברך",
-      "gloss": "y bendijo"
+      "gloss": "bendijo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨el⟩ pueblo"
+      "marks": "al pueblo"
     },
     {
       "surface": "העם",
-      "gloss": "⟨el⟩ pueblo"
+      "gloss": "al pueblo"
     },
     {
       "surface": "בשם",
-      "gloss": "⟨con⟩ ⟨el⟩ nombre"
+      "gloss": "en el Nombre"
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨de⟩ YHWH"
+      "gloss": "de YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:15:21.635565822Z",
+  "model": "glm-5.2"
 }

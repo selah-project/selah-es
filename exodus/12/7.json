@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "exodus 12:7",
   "book": "exodus",
-  "chapter": 12,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-11T23:22:14.975563701Z",
-  "translation": "Y tomarán ⟨de⟩ la sangre y pondrán sobre las dos jambas y sobre el dintel de las casas en las cuales comerán ⟨el⟩ en ellas.",
+  "chapter": 12,
+  "translation": "Y tomarán de la sangre y la pondrán sobre las dos mezuzot y sobre el dintel, sobre las casas donde ⟨la⟩ coman ⟨את⟩ en ellas.",
   "tokens": [
     {
       "surface": "ולקחו",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "⟨de⟩"
+      "gloss": "de"
     },
     {
       "surface": "הדם",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "המזוזת",
-      "gloss": "jambas"
+      "gloss": "mezuzot (marcos de las puertas)"
     },
     {
       "surface": "ועל",
@@ -55,20 +53,22 @@
     },
     {
       "surface": "אשר",
-      "gloss": "en las cuales"
+      "gloss": "donde"
     },
     {
       "surface": "יאכלו",
-      "gloss": "comerán"
+      "gloss": "coman"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨el⟩",
-      "marks": "en ellas"
+      "gloss": "⟨את⟩",
+      "marks": "en ellas (la víctima pascual)"
     },
     {
       "surface": "בהם",
       "gloss": "en ellas"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:04:27.591711183Z",
+  "model": "glm-5.2"
 }

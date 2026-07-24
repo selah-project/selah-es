@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "2-chronicles 11:22",
   "book": "2-chronicles",
-  "chapter": 11,
-  "verse": 22,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:11:08.668534153Z",
-  "translation": "Y puso ⟨el⟩ cabeza ⟨de⟩ Rejavam ⟨a⟩ Aviyah ⟨hijo de⟩ Maaká ⟨por⟩ nagid ⟨entre⟩ sus hermanos, porque ⟨para⟩ reinar ⟨a⟩ él.",
+  "chapter": 11,
+  "translation": "Y Rejavam puso ⟨את⟩ a Aviyá ben de Maajá por cabeza, como naguid entre sus hermanos, porque ⟨su intención era⟩ hacerlo rey.",
   "tokens": [
     {
       "surface": "ויעמד",
@@ -15,36 +13,36 @@
     },
     {
       "surface": "לראש",
-      "gloss": "⟨el⟩ cabeza"
+      "gloss": "por cabeza"
     },
     {
       "surface": "רחבעם",
-      "gloss": "⟨de⟩ Rejavam"
+      "gloss": "Rejavam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aviyah"
+      "marks": "a Aviyá"
     },
     {
       "surface": "אביה",
-      "gloss": "Aviyah"
+      "gloss": "a Aviyá"
     },
     {
       "surface": "בן",
-      "gloss": "⟨hijo de⟩"
+      "gloss": "ben"
     },
     {
       "surface": "מעכה",
-      "gloss": "Maaká"
+      "gloss": "de Maajá"
     },
     {
       "surface": "לנגיד",
-      "gloss": "⟨por⟩ nagid"
+      "gloss": "como naguid"
     },
     {
       "surface": "באחיו",
-      "gloss": "⟨entre⟩ sus hermanos"
+      "gloss": "entre sus hermanos"
     },
     {
       "surface": "כי",
@@ -52,19 +50,9 @@
     },
     {
       "surface": "להמליכו",
-      "gloss": "⟨para⟩ reinar ⟨a⟩ él"
+      "gloss": "para hacerlo rey"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Roboam",
-      "to": "Rejavam",
-      "token-index": 2,
-      "strongs": 7346,
-      "hebrew": "רחבעם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:18:18.053326341Z",
+  "model": "glm-5.2"
 }

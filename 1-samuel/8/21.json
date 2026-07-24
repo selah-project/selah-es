@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "1-samuel 8:21",
   "book": "1-samuel",
-  "chapter": 8,
-  "verse": 21,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:36:51.215706288Z",
-  "translation": "Y Shmuel escuchó todas las palabras del pueblo y las habló en los oídos de YHWH",
+  "chapter": 8,
+  "translation": "Y Shmuel escuchó ⟨את⟩ todas las palabras del pueblo, y las habló en los oídos de YHWH.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Y Shmuel escuchó"
+      "gloss": "Y escuchó"
     },
     {
       "surface": "שמואל",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todas las palabras del pueblo"
+      "marks": "todas"
     },
     {
       "surface": "כל",
@@ -46,5 +44,7 @@
       "surface": "יהוה",
       "gloss": "de YHWH"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:10:44.326476766Z",
+  "model": "glm-5.2"
 }

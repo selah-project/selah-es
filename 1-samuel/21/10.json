@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "1-samuel 21:10",
   "book": "1-samuel",
-  "chapter": 21,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:43:59.145708563Z",
-  "translation": "Y dijo el kohen: La espada de Golyat el Pelishtí, ⟨que⟩ golpeaste en el valle de HaElá, he aquí ⟨ella⟩ está envuelta en un manto detrás del efod; si ⟨la⟩ tomas para ti, toma, pues no hay otra excepto esta aquí. Y dijo David: No hay como ella; dámela.",
+  "chapter": 21,
+  "translation": "Y dijo el kohen: ⟨la⟩ espada de Golyat el pelishtí, a quien heriste en el valle de Ha-Elá, hé aquí ⟨ella⟩ está envuelta en un manto detrás del Efod. Si ⟨את⟩ esa tomas para ti, tómala; porque no hay otra aparte de esa aquí. Y dijo David: No hay como ella; ⟨dámela⟩ a mí.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "חרב",
-      "gloss": "la espada"
+      "gloss": "espada"
     },
     {
       "surface": "גלית",
@@ -27,15 +25,15 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "el Pelishtí"
+      "gloss": "el pelishtí"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨que⟩"
+      "gloss": "a quien"
     },
     {
       "surface": "הכית",
-      "gloss": "golpeaste"
+      "gloss": "heriste"
     },
     {
       "surface": "בעמק",
@@ -43,15 +41,15 @@
     },
     {
       "surface": "האלה",
-      "gloss": "de HaElá"
+      "gloss": "de Ha-Elá"
     },
     {
       "surface": "הנה",
-      "gloss": "he aquí"
+      "gloss": "hé aquí"
     },
     {
       "surface": "היא",
-      "gloss": "⟨ella⟩"
+      "gloss": "ella"
     },
     {
       "surface": "לוטה",
@@ -67,16 +65,16 @@
     },
     {
       "surface": "האפוד",
-      "gloss": "del efod"
+      "gloss": "del Efod"
     },
     {
       "surface": "אם",
-      "gloss": "si"
+      "gloss": "Si"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨la⟩",
-      "marks": "tomar"
+      "gloss": "⟨את⟩",
+      "marks": "esa (el objeto directo de 'tomar')"
     },
     {
       "surface": "תקח",
@@ -88,11 +86,11 @@
     },
     {
       "surface": "קח",
-      "gloss": "toma"
+      "gloss": "tómala"
     },
     {
       "surface": "כי",
-      "gloss": "pues"
+      "gloss": "porque"
     },
     {
       "surface": "אין",
@@ -104,11 +102,11 @@
     },
     {
       "surface": "זולתה",
-      "gloss": "excepto"
+      "gloss": "aparte de esa"
     },
     {
       "surface": "בזה",
-      "gloss": "esta aquí"
+      "gloss": "aquí"
     },
     {
       "surface": "ויאמר",
@@ -132,7 +130,9 @@
     },
     {
       "surface": "לי",
-      "gloss": ""
+      "gloss": "a mí"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:13:12.323942221Z",
+  "model": "glm-5.2"
 }

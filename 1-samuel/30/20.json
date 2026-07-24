@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "1-samuel 30:20",
   "book": "1-samuel",
-  "chapter": 30,
-  "verse": 20,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:47:11.916650875Z",
-  "translation": "Y David tomó todo el ganado menor y el ganado mayor, ⟨lo⟩ condujeron delante de ⟨el⟩ ganado, y dijeron: Este ⟨es⟩ el botín de David.",
+  "chapter": 30,
+  "translation": "Y David tomó ⟨את⟩ todo el rebaño y el ganado mayor; los condujeron delante de aquel ganado, y dijeron: «Este ⟨es⟩ el botín de David».",
   "tokens": [
     {
       "surface": "ויקח",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todo el ganado menor y el ganado mayor"
+      "marks": "todo el rebaño"
     },
     {
       "surface": "כל",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "el ganado menor"
+      "gloss": "el rebaño"
     },
     {
       "surface": "והבקר",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "נהגו",
-      "gloss": "⟨lo⟩ condujeron"
+      "gloss": "los condujeron"
     },
     {
       "surface": "לפני",
@@ -44,11 +42,11 @@
     },
     {
       "surface": "המקנה",
-      "gloss": "⟨el⟩ ganado"
+      "gloss": "aquel ganado"
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "aquel"
     },
     {
       "surface": "ויאמרו",
@@ -66,5 +64,7 @@
       "surface": "דוד",
       "gloss": "de David"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:14:32.210064734Z",
+  "model": "glm-5.2"
 }

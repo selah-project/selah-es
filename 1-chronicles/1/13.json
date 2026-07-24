@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "1-chronicles 1:13",
   "book": "1-chronicles",
-  "chapter": 1,
-  "verse": 13,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:26:20.370324766Z",
-  "translation": "Y Canaan engendró ⟨a⟩ Tzidón su primogénito y ⟨a⟩ Het",
+  "chapter": 1,
+  "translation": "Y Kenaan engendró ⟨a⟩ Tzidón ⟨su⟩ primogénito, y ⟨את⟩ Jet.",
   "tokens": [
     {
       "surface": "וכנען",
-      "gloss": "Y Canaan"
+      "gloss": "Y Kenaan"
     },
     {
       "surface": "ילד",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sidón"
+      "marks": "Tzidón"
     },
     {
       "surface": "צידון",
@@ -32,24 +30,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨a⟩",
-      "marks": "Het"
+      "gloss": "y ⟨את⟩",
+      "marks": "Jet"
     },
     {
       "surface": "חת",
-      "gloss": "Het"
+      "gloss": "Jet"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Sidón",
-      "to": "Tzidón",
-      "token-index": 3,
-      "strongs": 6721,
-      "hebrew": "צידון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:13:18.026258560Z",
+  "model": "glm-5.2"
 }

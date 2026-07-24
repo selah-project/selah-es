@@ -1,29 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "genesis 9:10",
   "book": "genesis",
-  "chapter": 9,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:54:50.632023805Z",
-  "translation": "y con todo ser viviente que ⟨está⟩ con vosotros: en las aves, en el ganado y en toda bestia de la tierra con vosotros; de todos ⟨los que⟩ salen del arca, a toda bestia de la tierra.",
+  "chapter": 9,
+  "translation": "y ⟨את⟩ a todo ser viviente que ⟨está⟩ con vosotros — en las aves, en el ganado, y en toda bestia de la tierra con vosotros — de todos los que salen del arca, a toda bestia de la tierra.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "y con"
+      "gloss": "y ⟨את⟩",
+      "marks": "a todo ser viviente"
     },
     {
       "surface": "כל",
-      "gloss": "todo"
+      "gloss": "a todo"
     },
     {
       "surface": "נפש",
-      "gloss": "ser"
+      "gloss": "ser viviente"
     },
     {
       "surface": "החיה",
-      "gloss": "viviente"
+      "gloss": "la viviente"
     },
     {
       "surface": "אשר",
@@ -63,7 +62,7 @@
     },
     {
       "surface": "יצאי",
-      "gloss": "⟨los que⟩ salen"
+      "gloss": "los que salen"
     },
     {
       "surface": "התבה",
@@ -81,5 +80,7 @@
       "surface": "הארץ",
       "gloss": "de la tierra"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:41:38.328997050Z",
+  "model": "glm-5.2"
 }

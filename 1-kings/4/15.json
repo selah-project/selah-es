@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "1-kings 4:15",
   "book": "1-kings",
-  "chapter": 4,
-  "verse": 15,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:48:15.226706052Z",
-  "translation": "Ahimaaz ⟨está⟩ en Neftalí; también ⟨él⟩ tomó ⟨a⟩ Basemat, hija de Shlomó, ⟨como⟩ esposa:",
+  "chapter": 4,
+  "translation": "Ajímaatz, en Naftalí; también ⟨él⟩ tomó ⟨את⟩ Bósmat, hija de Shlomó, por mujer.",
   "tokens": [
     {
       "surface": "אחימעץ",
-      "gloss": "Ahimaaz"
+      "gloss": "Ajímaatz"
     },
     {
       "surface": "בנפתלי",
-      "gloss": "en Neftalí"
+      "gloss": "en Naftalí"
     },
     {
       "surface": "גם",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨él⟩"
+      "gloss": "él"
     },
     {
       "surface": "לקח",
@@ -32,35 +30,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Basemat"
+      "marks": "Bósmat"
     },
     {
       "surface": "בשמת",
-      "gloss": "Basemat"
+      "gloss": "Bósmat"
     },
     {
       "surface": "בת",
-      "gloss": "hija de"
+      "gloss": "hija"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shlomó"
+      "gloss": "de Shlomó"
     },
     {
       "surface": "לאשה",
-      "gloss": "⟨como⟩ esposa"
+      "gloss": "por mujer"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Salomón",
-      "to": "Shlomó",
-      "token-index": 8,
-      "strongs": 8010,
-      "hebrew": "שלמה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:20:46.285718338Z",
+  "model": "glm-5.2"
 }

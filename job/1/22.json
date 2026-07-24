@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "job 1:22",
   "book": "job",
-  "chapter": 1,
-  "verse": 22,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T13:30:57.301417289Z",
-  "translation": "En todo esto, Iyov ⟨no⟩ pecó, ni ⟨dio⟩ ⟨את⟩ ⟨insensatez⟩ a Elohim.",
+  "chapter": 1,
+  "translation": "En todo esto, Iyov no pecó, ni dio ⟨∥atributos∥⟩ de ligereza a Elohim.",
   "tokens": [
     {
       "surface": "בכל",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "⟨no⟩"
+      "gloss": "no"
     },
     {
       "surface": "חטא",
@@ -35,27 +33,17 @@
     },
     {
       "surface": "נתן",
-      "gloss": "⟨dio⟩"
+      "gloss": "dio"
     },
     {
       "surface": "תפלה",
-      "gloss": "⟨insensatez⟩"
+      "gloss": "∥ligereza∥"
     },
     {
       "surface": "לאלהים",
       "gloss": "a Elohim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Job",
-      "to": "Iyov",
-      "token-index": 4,
-      "strongs": 347,
-      "hebrew": "איוב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:04:05.022209952Z",
+  "model": "glm-5.2"
 }

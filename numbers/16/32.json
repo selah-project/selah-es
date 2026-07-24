@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 32,
   "ref": "numbers 16:32",
   "book": "numbers",
-  "chapter": 16,
-  "verse": 32,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:05:55.033379029Z",
-  "translation": "Y la tierra abrió ⟨את⟩ su boca, y se tragó a ellos, y ⟨את⟩ sus casas, y ⟨את⟩ todo ⟨el⟩ hombre que estaba para Koraj, y ⟨את⟩ todo ⟨el⟩ haber",
+  "chapter": 16,
+  "translation": "Y ⟨la tierra⟩ abrió ⟨את⟩ su boca y tragó ⟨את⟩ a ellos, y ⟨את⟩ sus casas, y ⟨את⟩ a todo ⟨el⟩ Adam que ⟨era⟩ de Koraj, y ⟨את⟩ toda la propiedad.",
   "tokens": [
     {
       "surface": "ותפתח",
-      "gloss": "y abrió"
+      "gloss": "Y abrió"
     },
     {
       "surface": "הארץ",
@@ -28,11 +26,12 @@
     },
     {
       "surface": "ותבלע",
-      "gloss": "y se tragó"
+      "gloss": "y tragó"
     },
     {
       "surface": "אתם",
-      "gloss": "a ellos"
+      "gloss": "⟨את⟩",
+      "marks": "a ellos"
     },
     {
       "surface": "ואת",
@@ -46,36 +45,38 @@
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "todo"
+      "marks": "a todo el Adam"
     },
     {
       "surface": "כל",
-      "gloss": "todo"
+      "gloss": "a todo"
     },
     {
       "surface": "האדם",
-      "gloss": "⟨el⟩ hombre"
+      "gloss": "el Adam"
     },
     {
       "surface": "אשר",
-      "gloss": "que estaba"
+      "gloss": "que"
     },
     {
       "surface": "לקרח",
-      "gloss": "para Koraj"
+      "gloss": "de Koraj"
     },
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "todo"
+      "marks": "toda la propiedad"
     },
     {
       "surface": "כל",
-      "gloss": "todo"
+      "gloss": "toda"
     },
     {
       "surface": "הרכוש",
-      "gloss": "⟨el⟩ haber"
+      "gloss": "la propiedad"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:38:00.505089085Z",
+  "model": "glm-5.2"
 }

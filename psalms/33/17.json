@@ -1,69 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "psalms 33:17",
   "book": "psalms",
-  "chapter": 33,
-  "verse": 17,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T23:13:10.688246602Z",
-  "translation": "Una falsedad ⟨es⟩ ⟨את⟩ el caballo para ⟨la⟩ salvación, y ⟨por⟩ ⟨el⟩ ⟨la⟩ abundancia de su fuerza no escapará.",
+  "chapter": 33,
+  "translation": "⟨Una⟩ decepción ⟨es⟩ el caballo para ⟨la⟩ Yeshuá, y por la abundancia de su fuerza no rescatará.",
   "tokens": [
     {
-      "surface": "שקר",
-      "gloss": "Una falsedad",
-      "gv": 600,
-      "lemma": 8267,
-      "freq": 87,
-      "rationale": "שקר como sustantivo significa 'falsedad' o 'engaño'; aquí es sujeto, 'una falsedad'"
+      "surface": "שֶׁ֣קֶר",
+      "gloss": "decepción"
     },
     {
-      "surface": "הסוס",
-      "gloss": "⟨את⟩ el caballo",
-      "gv": 131,
-      "lemma": "d\/5483 b",
-      "freq": 11,
-      "rationale": "הסוס = el caballo, objeto directo marcado por שקר anterior (aleph-tav implícito en la estructura)"
+      "surface": "הַ֭סּוּס",
+      "gloss": "el caballo"
     },
     {
-      "surface": "לתשועה",
-      "gloss": "para ⟨la⟩ salvación",
-      "gv": 811,
-      "lemma": "l\/8668",
-      "freq": 2,
-      "rationale": "לתשועה = 'para salvación\/deliverancia', lamed+infinitivo constructo indica propósito"
+      "surface": "לִתְשׁוּעָ֑ה",
+      "gloss": "para Yeshuá"
     },
     {
-      "surface": "וברב",
-      "gloss": "y ⟨por⟩ ⟨el⟩ ⟨la⟩",
-      "gv": 210,
-      "lemma": "c\/b\/7230",
-      "freq": 6,
-      "rationale": "וברב = 'y en abundancia\/multiplicidad', vav+preposición be+רב; requiere artículo en español"
+      "surface": "וּבְרֹ֥ב",
+      "gloss": "y por la abundancia"
     },
     {
-      "surface": "חילו",
-      "gloss": "abundancia de su fuerza",
-      "gv": 54,
-      "lemma": 2428,
-      "freq": 18,
-      "rationale": "חילו = 'su fuerza\/poder', posesivo 3ms con חיל (fuerza, ejército, riqueza)"
+      "surface": "חֵ֝יל֗וֹ",
+      "gloss": "de su fuerza"
     },
     {
-      "surface": "לא",
-      "gloss": "no",
-      "gv": 31,
-      "lemma": 3808,
-      "freq": 3321,
-      "rationale": "לא = negación simple 'no'"
+      "surface": "לֹ֣א",
+      "gloss": "no"
     },
     {
-      "surface": "ימלט",
-      "gloss": "escapará",
-      "gv": 89,
-      "lemma": 4422,
-      "freq": 21,
-      "rationale": "ימלט = 'escapará', 3ms imperfecto de מלט (escapar, librar)"
+      "surface": "יְמַלֵּֽט",
+      "gloss": "rescatará"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:56:42.502334467Z",
+  "model": "glm-5.2"
 }

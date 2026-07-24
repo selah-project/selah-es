@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 56,
   "ref": "1-kings 8:56",
   "book": "1-kings",
-  "chapter": 8,
-  "verse": 56,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:56:42.714873984Z",
-  "translation": "Bendito ⟨es⟩ YHWH, que ha dado descanso a su pueblo Yisrael, conforme a todo lo que ⟨את⟩ prometió; no ha caído una sola palabra de toda su buena palabra que ⟨את⟩ habló por mano de Moshé, su siervo.",
+  "chapter": 8,
+  "translation": "Bendito ⟨sea⟩ YHWH, quien dio descanso a su pueblo Yisrael, conforme a todo lo que ⟨él⟩ habló; no cayó ⟨ni⟩ una palabra de toda su buena palabra que ⟨él⟩ habló por mano de Moshé, su siervo.",
   "tokens": [
     {
       "surface": "ברוך",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "ha dado"
+      "gloss": "dio"
     },
     {
       "surface": "מנוחה",
@@ -43,11 +41,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "lo que"
+      "gloss": "que"
     },
     {
       "surface": "דבר",
-      "gloss": "prometió"
+      "gloss": "habló"
     },
     {
       "surface": "לא",
@@ -55,15 +53,15 @@
     },
     {
       "surface": "נפל",
-      "gloss": "ha caído"
+      "gloss": "cayó"
     },
     {
       "surface": "דבר",
-      "gloss": "una palabra"
+      "gloss": "palabra"
     },
     {
       "surface": "אחד",
-      "gloss": "sola"
+      "gloss": "una"
     },
     {
       "surface": "מכל",
@@ -98,16 +96,6 @@
       "gloss": "su siervo"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 6,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:21:46.644337887Z",
+  "model": "glm-5.2"
 }

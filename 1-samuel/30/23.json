@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "1-samuel 30:23",
   "book": "1-samuel",
-  "chapter": 30,
-  "verse": 23,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:47:33.701002460Z",
-  "translation": "Y dijo David: No hagáis así, hermanos míos, con lo que YHWH ⟨es⟩ ⟨el que⟩ nos ⟨ha⟩ dado y nos ⟨ha⟩ guardado, y ⟨ha⟩ entregado ⟨את⟩ la tropa que vino contra nosotros en nuestra mano",
+  "chapter": 30,
+  "translation": "Y dijo David: «No hagáis así, hermanos míos, ⟨con⟩ ⟨את⟩ lo que YHWH nos ha dado, y nos ha guardado, y ha entregado ⟨את⟩ ⟨la⟩ banda que vino contra nosotros en nuestra mano.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -36,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lo que YHWH ⟨es⟩ ⟨el que⟩ nos ⟨ha⟩ dado y nos ⟨ha⟩ guardado, y ⟨ha⟩ entregado"
+      "marks": "lo que"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨el que⟩"
+      "gloss": "lo que"
     },
     {
       "surface": "נתן",
-      "gloss": "⟨ha⟩ dado"
+      "gloss": "ha dado"
     },
     {
       "surface": "יהוה",
@@ -56,24 +54,25 @@
     },
     {
       "surface": "וישמר",
-      "gloss": "y nos ⟨ha⟩ guardado"
+      "gloss": "y nos ha guardado"
     },
     {
       "surface": "אתנו",
-      "gloss": "nos"
+      "gloss": "⟨את⟩",
+      "marks": "nos (a nosotros)"
     },
     {
       "surface": "ויתן",
-      "gloss": "y ⟨ha⟩ entregado"
+      "gloss": "y ha entregado"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "la tropa"
+      "marks": "la banda"
     },
     {
       "surface": "הגדוד",
-      "gloss": "la tropa"
+      "gloss": "la banda"
     },
     {
       "surface": "הבא",
@@ -87,5 +86,7 @@
       "surface": "בידנו",
       "gloss": "en nuestra mano"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:14:35.583050730Z",
+  "model": "glm-5.2"
 }

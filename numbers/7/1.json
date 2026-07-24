@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "numbers 7:1",
   "book": "numbers",
-  "chapter": 7,
-  "verse": 1,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:59:31.380764190Z",
-  "translation": "Y sucedió en el día que Moshé terminó de erigir ⟨את⟩ el Mishkán y lo ungió y lo consagró, y ⟨את⟩ todos sus utensilios, y ⟨את⟩ el altar y ⟨את⟩ todos sus utensilios, y los ungió y los consagró ⟨את⟩ ellos",
+  "chapter": 7,
+  "translation": "Y aconteció el día en que Moshé terminó de erigir ⟨את⟩ el Mishkán, que lo ungió y lo consagró, ⟨את⟩ él y ⟨את⟩ todos sus utensilios, y ⟨את⟩ el altar y ⟨את⟩ todos sus utensilios; y los ungió y los consagró, ⟨את⟩ ellos.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Y sucedió"
+      "gloss": "Y aconteció"
     },
     {
       "surface": "ביום",
-      "gloss": "en el día"
+      "gloss": "el día en que"
     },
     {
       "surface": "כלות",
-      "gloss": "que terminó"
+      "gloss": "terminó"
     },
     {
       "surface": "משה",
@@ -40,12 +38,12 @@
     },
     {
       "surface": "וימשח",
-      "gloss": "y lo ungió"
+      "gloss": "que lo ungió"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "y lo consagró"
+      "marks": "él"
     },
     {
       "surface": "ויקדש",
@@ -54,11 +52,12 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "y ⟨את⟩ todos"
+      "marks": "él y todos sus utensilios"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "todos sus utensilios"
     },
     {
       "surface": "כל",
@@ -70,7 +69,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "el altar"
     },
     {
@@ -79,8 +78,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨את⟩",
-      "marks": "todos"
+      "gloss": "⟨את⟩",
+      "marks": "todos sus utensilios"
     },
     {
       "surface": "כל",
@@ -100,8 +99,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ellos",
-      "marks": ""
+      "gloss": "⟨את⟩",
+      "marks": "ellos"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:33:06.003758424Z",
+  "model": "glm-5.2"
 }

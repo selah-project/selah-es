@@ -1,30 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "2-samuel 8:10",
   "book": "2-samuel",
-  "chapter": 8,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:23:19.964264306Z",
-  "translation": "Y Tou envió ⟨a⟩ Joram su hijo ⟨a⟩ ⟨el⟩ rey Davidd para preguntarle por su bienestar y para bendecirlo, porque ⟨él⟩ había peleado contra Hadadézer y ⟨lo⟩ había derrotado, pues Hadadézer ⟨era⟩ hombre de guerras ⟨contra⟩ Tou; y en su mano había utensilios de plata y utensilios de oro y utensilios de bronce",
+  "chapter": 8,
+  "translation": "Y Toí envió ⟨את⟩ Yorám su hijo al rey David, para preguntarle por su Shalom y para bendecirlo, porque había combatido contra Hadadézer y lo había derrotado; pues Hadadézer ⟨era⟩ hombre de guerras ⟨contra⟩ Toí. Y en su mano ⟨había⟩ utensilios de plata y utensilios de oro y utensilios de bronce.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Y"
+      "gloss": "Y envió"
     },
     {
       "surface": "תעי",
-      "gloss": "Tou"
+      "gloss": "Toí"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Joram"
+      "marks": "Yorám su hijo"
     },
     {
       "surface": "יורם",
-      "gloss": "Joram"
+      "gloss": "Yorám"
     },
     {
       "surface": "בנו",
@@ -32,27 +30,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨a⟩"
+      "gloss": "a"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨el⟩ rey"
+      "gloss": "el rey"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "לשאל",
-      "gloss": "para preguntarle"
+      "gloss": "para preguntar"
     },
     {
       "surface": "לו",
-      "gloss": "por"
+      "gloss": "a él"
     },
     {
       "surface": "לשלום",
-      "gloss": "su bienestar"
+      "gloss": "por su Shalom"
     },
     {
       "surface": "ולברכו",
@@ -64,11 +62,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨él⟩"
+      "gloss": "que"
     },
     {
       "surface": "נלחם",
-      "gloss": "había peleado"
+      "gloss": "había combatido"
     },
     {
       "surface": "בהדדעזר",
@@ -76,7 +74,7 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "y ⟨lo⟩ había derrotado"
+      "gloss": "y lo había derrotado"
     },
     {
       "surface": "כי",
@@ -84,19 +82,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "⟨era⟩ hombre"
+      "gloss": "hombre"
     },
     {
       "surface": "מלחמות",
-      "gloss": "de guerras ⟨contra⟩"
+      "gloss": "de guerras"
     },
     {
       "surface": "תעי",
-      "gloss": "Tou"
+      "gloss": "Toí"
     },
     {
       "surface": "היה",
-      "gloss": "⟨⟩"
+      "gloss": "era"
     },
     {
       "surface": "הדדעזר",
@@ -104,7 +102,7 @@
     },
     {
       "surface": "ובידו",
-      "gloss": "y en su mano"
+      "gloss": "Y en su mano"
     },
     {
       "surface": "היו",
@@ -135,16 +133,6 @@
       "gloss": "de bronce"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 7,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:16:02.047099428Z",
+  "model": "glm-5.2"
 }

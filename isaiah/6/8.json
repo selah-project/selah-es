@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "isaiah 6:8",
   "book": "isaiah",
-  "chapter": 6,
-  "verse": 8,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:21:45.579135791Z",
-  "translation": "Y oí ⟨el⟩ voz de Adonai diciendo: ⟨A⟩ quién enviaré ⟨y⟩ quién irá por ⟨nosotros⟩? ⟨Y⟩ di: Heme aquí, envíame a mí.",
+  "chapter": 6,
+  "translation": "Y escuché la voz de Adonai que decía: ⟨את⟩ ¿a quién enviaré, y quién irá por nosotros? Y dije: Heme aquí; envíame a mí.",
   "tokens": [
     {
       "surface": "ואשמע",
-      "gloss": "Y oí"
+      "gloss": "Y escuché"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨el⟩ voz"
+      "marks": "la voz"
     },
     {
       "surface": "קול",
@@ -28,16 +26,16 @@
     },
     {
       "surface": "אמר",
-      "gloss": "diciendo:"
+      "gloss": "que decía"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨A⟩ quién"
+      "marks": "a quién"
     },
     {
       "surface": "מי",
-      "gloss": "quién"
+      "gloss": "¿a quién"
     },
     {
       "surface": "אשלח",
@@ -45,7 +43,7 @@
     },
     {
       "surface": "ומי",
-      "gloss": "⟨y⟩ quién"
+      "gloss": "y quién"
     },
     {
       "surface": "ילך",
@@ -53,11 +51,11 @@
     },
     {
       "surface": "לנו",
-      "gloss": "por ⟨nosotros⟩"
+      "gloss": "por nosotros"
     },
     {
       "surface": "ואמר",
-      "gloss": "⟨Y⟩ di"
+      "gloss": "Y dije"
     },
     {
       "surface": "הנני",
@@ -67,5 +65,7 @@
       "surface": "שלחני",
       "gloss": "envíame a mí"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:31:16.128865584Z",
+  "model": "glm-5.2"
 }

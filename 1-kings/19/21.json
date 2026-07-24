@@ -1,26 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "1-kings 19:21",
   "book": "1-kings",
-  "chapter": 19,
-  "verse": 21,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:31:01.470184552Z",
-  "translation": "Y él se volvió de tras de él y tomó ⟨את⟩ la yunta de los bueyes y los sacrificó, y con los aperos de los bueyes coció la carne y dio al pueblo, y ellos comieron; y se levantó y fue tras de Eliyahu y le sirvió",
+  "chapter": 19,
+  "translation": "Y volvió de detrás de él, y tomó ⟨את⟩ la yunta de vacas, y ⟨la⟩ sacrificó, y con los implementos del ganado coció la carne, y dio al pueblo, y comieron. Entonces ⟨él⟩ se levantó, y fue tras Eliyahu, y lo servía.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "Y él se volvió"
+      "gloss": "Y volvió"
     },
     {
       "surface": "מאחריו",
-      "gloss": "de tras de él"
+      "gloss": "de detrás de él"
     },
     {
-      "surface": "ואת",
-      "gloss": "y",
-      "marks": "yunta"
+      "surface": "ויקח",
+      "gloss": "y tomó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la yunta"
     },
     {
       "surface": "צמד",
@@ -28,28 +30,19 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "de los bueyes"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "la yunta de los bueyes"
-    },
-    {
-      "surface": "הבקר",
-      "gloss": "los bueyes"
+      "gloss": "de vacas"
     },
     {
       "surface": "ויזבחהו",
-      "gloss": "y los sacrificó"
+      "gloss": "y ⟨la⟩ sacrificó"
     },
     {
       "surface": "ובכלי",
-      "gloss": "y con los aperos"
+      "gloss": "y con los implementos"
     },
     {
       "surface": "הבקר",
-      "gloss": "de los bueyes"
+      "gloss": "del ganado"
     },
     {
       "surface": "בשלם",
@@ -69,11 +62,11 @@
     },
     {
       "surface": "ויאכלו",
-      "gloss": "y ellos comieron"
+      "gloss": "y comieron"
     },
     {
       "surface": "ויקם",
-      "gloss": "y se levantó"
+      "gloss": "Entonces ⟨él⟩ se levantó"
     },
     {
       "surface": "וילך",
@@ -81,7 +74,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "tras de"
+      "gloss": "tras"
     },
     {
       "surface": "אליהו",
@@ -89,7 +82,9 @@
     },
     {
       "surface": "וישרתהו",
-      "gloss": "y le sirvió"
+      "gloss": "y lo servía"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:25:00.922008877Z",
+  "model": "glm-5.2"
 }

@@ -1,123 +1,111 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "exodus 12:23",
   "book": "exodus",
-  "chapter": 12,
-  "verse": 23,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T06:38:16.425961183Z",
-  "translation": "Y HaShem pasará ⟨para⟩ herir ⟨a⟩ Mitzráyim, y ⟨al⟩ ver ⟨la⟩ sangre ⟨en⟩ el dintel y ⟨en⟩ los dos postes de la puerta, HaShem pasará ⟨sobre⟩ la entrada, y no permitirá ⟨que⟩ el destructor entre ⟨en⟩ vuestras casas ⟨para⟩ herir.",
+  "chapter": 12,
+  "translation": "Y HaShem pasará para herir a ⟨את⟩ Mitzráyim, y verá ⟨את⟩ la sangre sobre el dintel y sobre las dos jambas, y Pésaj hará YHWH sobre la entrada, y no permitirá que el destructor entre a vuestras casas para herir.",
   "tokens": [
     {
-      "surface": "וְ\/עָבַ֣ר",
+      "surface": "ועבר",
       "gloss": "Y pasará"
     },
     {
-      "surface": "יְהוָה֮",
+      "surface": "יהוה",
       "gloss": "HaShem"
     },
     {
-      "surface": "לִ\/נְגֹּ֣ף",
-      "gloss": "⟨para⟩ herir"
+      "surface": "לנגף",
+      "gloss": "para herir"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Egipto"
+      "marks": "Mitzráyim"
     },
     {
-      "surface": "מִצְרַיִם֒",
+      "surface": "מצרים",
       "gloss": "Mitzráyim"
     },
     {
-      "surface": "וְ\/רָאָ֤ה",
-      "gloss": "y ⟨al⟩ ver"
+      "surface": "וראה",
+      "gloss": "y verá"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sangre"
+      "marks": "la sangre"
     },
     {
-      "surface": "הַ\/דָּם֙",
-      "gloss": "sangre"
+      "surface": "הדם",
+      "gloss": "la sangre"
     },
     {
-      "surface": "עַל",
-      "gloss": "⟨en⟩"
+      "surface": "על",
+      "gloss": "sobre"
     },
     {
-      "surface": "הַ\/מַּשְׁק֔וֹף",
+      "surface": "המשקוף",
       "gloss": "el dintel"
     },
     {
-      "surface": "וְ\/עַ֖ל",
-      "gloss": "y ⟨en⟩"
+      "surface": "ועל",
+      "gloss": "y sobre"
     },
     {
-      "surface": "שְׁתֵּ֣י",
-      "gloss": "los dos"
+      "surface": "שתי",
+      "gloss": "las dos"
     },
     {
-      "surface": "הַ\/מְּזוּזֹ֑ת",
-      "gloss": "postes de la puerta"
+      "surface": "המזוזת",
+      "gloss": "jambas"
     },
     {
-      "surface": "וּ\/פָסַ֤ח",
-      "gloss": "HaShem pasará"
+      "surface": "ופסח",
+      "gloss": "y Pésaj hará"
     },
     {
-      "surface": "יְהוָה֙",
-      "gloss": "HaShem"
+      "surface": "יהוה",
+      "gloss": "YHWH"
     },
     {
-      "surface": "עַל",
-      "gloss": "⟨sobre⟩"
+      "surface": "על",
+      "gloss": "sobre"
     },
     {
-      "surface": "הַ\/פֶּ֔תַח",
+      "surface": "הפתח",
       "gloss": "la entrada"
     },
     {
-      "surface": "וְ\/לֹ֤א",
+      "surface": "ולא",
       "gloss": "y no"
     },
     {
-      "surface": "יִתֵּן֙",
+      "surface": "יתן",
       "gloss": "permitirá"
     },
     {
-      "surface": "הַ\/מַּשְׁחִ֔ית",
-      "gloss": "⟨que⟩ el destructor"
+      "surface": "המשחית",
+      "gloss": "el destructor"
     },
     {
-      "surface": "לָ\/בֹ֥א",
-      "gloss": "entre"
+      "surface": "לבא",
+      "gloss": "entrar"
     },
     {
-      "surface": "אֶל",
-      "gloss": "⟨en⟩"
+      "surface": "אל",
+      "gloss": "a"
     },
     {
-      "surface": "בָּתֵּי\/כֶ֖ם",
+      "surface": "בתיכם",
       "gloss": "vuestras casas"
     },
     {
-      "surface": "לִ\/נְגֹּֽף",
-      "gloss": "⟨para⟩ herir"
+      "surface": "לנגף",
+      "gloss": "para herir"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Egipto",
-      "to": "Mitzráyim",
-      "token-index": 4,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:04:50.100081576Z",
+  "model": "glm-5.2"
 }

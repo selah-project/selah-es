@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "psalms 119:8",
   "book": "psalms",
-  "chapter": 119,
-  "verse": 8,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:41:05.658304589Z",
-  "translation": "⟨את⟩ tus estatutos guardaré, no me abandones por completo.",
+  "chapter": 119,
+  "translation": "⟨את⟩ tus estatutos guardaré; ¡no me abandones ⟨hasta⟩ lo sumo!",
   "tokens": [
     {
       "surface": "את",
@@ -32,11 +30,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "por completo"
+      "gloss": "⟨hasta⟩"
     },
     {
       "surface": "מאד",
-      "gloss": ""
+      "gloss": "lo sumo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:59:51.208169580Z",
+  "model": "glm-5.2"
 }

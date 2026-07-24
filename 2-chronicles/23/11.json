@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "2-chronicles 23:11",
   "book": "2-chronicles",
-  "chapter": 23,
-  "verse": 11,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:56:37.709975149Z",
-  "translation": "Y sacaron ⟨את⟩ hijo del rey y pusieron sobre él ⟨את⟩ la diadema y ⟨את⟩ el testimonio, y lo hicieron reinar. Y Yehoyadá y sus hijos lo ungieron y dijeron: ¡Viva el rey!",
+  "chapter": 23,
+  "translation": "Y sacaron ⟨את⟩ al hijo del rey, y pusieron sobre él ⟨את⟩ la diadema y ⟨את⟩ el testimonio, y lo proclamaron rey; y Yehoyadá y sus hijos lo ungieron ⟨את⟩, y dijeron: ¡Viva el rey!",
   "tokens": [
     {
       "surface": "ויוציאו",
@@ -16,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hijo"
+      "marks": "al hijo del rey"
     },
     {
       "surface": "בן",
-      "gloss": "hijo"
+      "gloss": "al hijo"
     },
     {
       "surface": "המלך",
@@ -54,12 +52,12 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "y lo hicieron reinar"
+      "gloss": "y lo proclamaron rey"
     },
     {
       "surface": "אתו",
-      "gloss": "lo",
-      "marks": "y lo ungieron"
+      "gloss": "⟨את⟩",
+      "marks": "lo (a él)"
     },
     {
       "surface": "וימשחהו",
@@ -79,11 +77,13 @@
     },
     {
       "surface": "יחי",
-      "gloss": "¡Viva"
+      "gloss": "¡Viva!"
     },
     {
       "surface": "המלך",
       "gloss": "el rey"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:19:54.779700313Z",
+  "model": "glm-5.2"
 }

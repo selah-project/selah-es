@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 40,
   "ref": "leviticus 14:40",
   "book": "leviticus",
-  "chapter": 14,
-  "verse": 40,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:39:47.024657118Z",
-  "translation": "Y ⟨el⟩ Kohen ordenará que saquen ⟨את⟩ las piedras en las cuales ⟨está⟩ la plaga, y que las arrojen a fuera de la ciudad a un lugar inmundo:",
+  "chapter": 14,
+  "translation": "Y el Kohen mandará, y arrancarán ⟨את⟩ las piedras en las que ⟨está⟩ la plaga, y las echarán fuera de la ciudad, a un lugar inmundo.",
   "tokens": [
     {
       "surface": "וצוה",
-      "gloss": "Y ordenará"
+      "gloss": "Y mandará"
     },
     {
       "surface": "הכהן",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "וחלצו",
-      "gloss": "que saquen"
+      "gloss": "y arrancarán"
     },
     {
       "surface": "את",
@@ -32,11 +30,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "en las cuales"
+      "gloss": "en las que"
     },
     {
       "surface": "בהן",
-      "gloss": "[en ellas]"
+      "gloss": "en ellas"
     },
     {
       "surface": "הנגע",
@@ -44,12 +42,12 @@
     },
     {
       "surface": "והשליכו",
-      "gloss": "y que arrojen"
+      "gloss": "y las echarán"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "[ellas]"
+      "marks": "las piedras (implícito)"
     },
     {
       "surface": "אל",
@@ -75,5 +73,7 @@
       "surface": "טמא",
       "gloss": "inmundo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:22:54.897123635Z",
+  "model": "glm-5.2"
 }

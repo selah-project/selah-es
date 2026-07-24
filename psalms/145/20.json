@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "psalms 145:20",
   "book": "psalms",
-  "chapter": 145,
-  "verse": 20,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:45:41.191667677Z",
-  "translation": "YHWH guarda ⟨a⟩ todos ⟨los que⟩ lo aman, ⟨y⟩ ⟨a⟩ todos ⟨los⟩ malvados ⟨Él⟩ ⟨los⟩ destruirá.",
+  "chapter": 145,
+  "translation": "YHWH guarda ⟨את⟩ a todos los que lo aman, y ⟨⟨a⟩⟩ ⟨את⟩ a todos los impíos los destruirá.",
   "tokens": [
     {
       "surface": "שומר",
@@ -20,32 +18,34 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todos ⟨los que⟩ lo aman"
+      "marks": "a todos los que lo aman"
     },
     {
       "surface": "כל",
-      "gloss": "todos"
+      "gloss": "a todos"
     },
     {
       "surface": "אהביו",
-      "gloss": "⟨los que⟩ lo aman"
+      "gloss": "los que lo aman"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨y⟩ ⟨a⟩",
-      "marks": "todos ⟨los⟩ malvados"
+      "gloss": "y ⟨את⟩",
+      "marks": "a todos los impíos"
     },
     {
       "surface": "כל",
-      "gloss": "todos"
+      "gloss": "a todos"
     },
     {
       "surface": "הרשעים",
-      "gloss": "⟨los⟩ malvados"
+      "gloss": "los impíos"
     },
     {
       "surface": "ישמיד",
-      "gloss": "⟨Él⟩ ⟨los⟩ destruirá"
+      "gloss": "destruirá"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:01:16.515147319Z",
+  "model": "glm-5.2"
 }

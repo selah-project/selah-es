@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 31,
   "ref": "2-kings 18:31",
   "book": "2-kings",
-  "chapter": 18,
-  "verse": 31,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T11:40:26.253453315Z",
-  "translation": "No escuchéis ⟨a⟩ Jizkías; porque así ⟨ha⟩ dicho ⟨el⟩ rey ⟨de⟩ Ashshur: haced ⟨un⟩ pacto ⟨conmigo⟩, y salid ⟨a⟩ mí, y coma cada uno ⟨de⟩ su viña, y cada uno ⟨de⟩ su higuera, y beba cada uno ⟨de⟩ las aguas ⟨de⟩ su pozo.",
+  "chapter": 18,
+  "translation": "No escuchéis a Jizkiyahu, porque así dijo el rey de Ashshur: Haced ⟨conmigo⟩ una bendición ⟨de paz⟩ y salid a mí, y coma cada uno de su vid, y cada uno de su higuera, y beba cada uno de las aguas de su cisterna.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "No"
+      "gloss": "no"
     },
     {
       "surface": "תשמעו",
@@ -19,12 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨a⟩",
-      "marks": "Jizkías"
+      "gloss": "a"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Jizkías"
+      "gloss": "Jizkiyahu"
     },
     {
       "surface": "כי",
@@ -36,16 +33,15 @@
     },
     {
       "surface": "אמר",
-      "gloss": "⟨ha⟩ dicho",
-      "marks": "⟨el⟩ rey ⟨de⟩ Asiria"
+      "gloss": "dijo"
     },
     {
       "surface": "מלך",
-      "gloss": "⟨el⟩ rey"
+      "gloss": "el rey"
     },
     {
       "surface": "אשור",
-      "gloss": "⟨de⟩ Ashshur"
+      "gloss": "de Ashshur"
     },
     {
       "surface": "עשו",
@@ -53,11 +49,11 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨un⟩ pacto ⟨conmigo⟩"
+      "gloss": "⟨conmigo⟩"
     },
     {
       "surface": "ברכה",
-      "gloss": "pacto"
+      "gloss": "una bendición ⟨de paz⟩"
     },
     {
       "surface": "וצאו",
@@ -65,7 +61,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "⟨a⟩ mí"
+      "gloss": "a mí"
     },
     {
       "surface": "ואכלו",
@@ -77,7 +73,7 @@
     },
     {
       "surface": "גפנו",
-      "gloss": "⟨de⟩ su viña"
+      "gloss": "de su vid"
     },
     {
       "surface": "ואיש",
@@ -85,7 +81,7 @@
     },
     {
       "surface": "תאנתו",
-      "gloss": "⟨de⟩ su higuera"
+      "gloss": "de su higuera"
     },
     {
       "surface": "ושתו",
@@ -97,23 +93,13 @@
     },
     {
       "surface": "מי",
-      "gloss": "⟨de⟩ las aguas"
+      "gloss": "de las aguas"
     },
     {
       "surface": "בורו",
-      "gloss": "⟨de⟩ su pozo"
+      "gloss": "de su cisterna"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Asiria",
-      "to": "Ashshur",
-      "token-index": 8,
-      "strongs": 804,
-      "hebrew": "אשור"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:29:28.079883012Z",
+  "model": "glm-5.2"
 }

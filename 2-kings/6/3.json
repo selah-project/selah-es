@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "2-kings 6:3",
   "book": "2-kings",
-  "chapter": 6,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:07:27.090223610Z",
-  "translation": "Y dijo uno: por favor, ⟨y ve⟩ ⟨את⟩ ⟨tus⟩ siervos. Y respondió: yo iré.",
+  "chapter": 6,
+  "translation": "Y dijo uno: «¡Sí, por favor, ⟨ve⟩ ⟨con⟩ tus siervos!». Y respondió ⟨él⟩: «Yo iré».",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "הואל",
-      "gloss": "por favor"
+      "gloss": "¡Sí!"
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "por favor"
     },
     {
       "surface": "ולך",
-      "gloss": "⟨y ve⟩"
+      "gloss": "ve ⟨con⟩"
     },
     {
       "surface": "את",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "עבדיך",
-      "gloss": "⟨tus⟩ siervos"
+      "gloss": "tus siervos"
     },
     {
       "surface": "ויאמר",
@@ -44,11 +42,13 @@
     },
     {
       "surface": "אני",
-      "gloss": "yo"
+      "gloss": "Yo"
     },
     {
       "surface": "אלך",
       "gloss": "iré"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:26:40.866476754Z",
+  "model": "glm-5.2"
 }

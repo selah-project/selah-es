@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "genesis 50:21",
   "book": "genesis",
-  "chapter": 50,
-  "verse": 21,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:17:01.036771778Z",
-  "translation": "Y ahora, no ⟨temáis⟩, yo ⟨sostendré⟩ ⟨את⟩ vosotros y ⟨את⟩ vuestros pequeños, y los consoló y habló sobre su corazón.",
+  "chapter": 50,
+  "translation": "Y ahora, no temáis: yo ⟨os⟩ sustentaré ⟨את⟩ a vosotros y ⟨את⟩ a vuestros pequeños. Y él los consoló, y habló sobre ⟨su⟩ corazón.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "⟨temáis⟩"
+      "gloss": "temáis"
     },
     {
       "surface": "אנכי",
@@ -27,17 +25,17 @@
     },
     {
       "surface": "אכלכל",
-      "gloss": "⟨sostendré⟩"
+      "gloss": "sustentaré"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "vosotros"
+      "marks": "a vosotros"
     },
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "vuestros pequeños"
+      "marks": "a vuestros pequeños"
     },
     {
       "surface": "טפכם",
@@ -45,12 +43,12 @@
     },
     {
       "surface": "וינחם",
-      "gloss": "y los consoló"
+      "gloss": "Y él consoló"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "y habló"
+      "marks": "los (a ellos)"
     },
     {
       "surface": "וידבר",
@@ -64,5 +62,7 @@
       "surface": "לבם",
       "gloss": "su corazón"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:59:25.378137566Z",
+  "model": "glm-5.2"
 }

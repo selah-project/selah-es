@@ -1,33 +1,31 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "2-samuel 5:20",
   "book": "2-samuel",
-  "chapter": 5,
-  "verse": 20,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:20:31.060541118Z",
-  "translation": "Y vino Davidd a Baal-peratsim y derrotó ⟨a⟩ allí Davidd y dijo: ⟨El⟩ YHWH ⟨ha⟩ roto ⟨a⟩ mis enemigos ante mí ⟨como⟩ ⟨el⟩ rompimiento de ⟨las⟩ aguas. Por eso llamó ⟨el⟩ nombre ⟨del⟩ lugar aquel Baal-peratsim.",
+  "chapter": 5,
+  "translation": "Y vino David a Baal-Peratsim, y los hirió allí David, y dijo: ¡Ha irrumpido YHWH ⟨את⟩ a mis enemigos delante de mí, como irrupción de aguas! Por tanto llamó el nombre de aquel lugar Baal-Peratsim.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Y vino"
+      "gloss": "y vino"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "בבעל",
-      "gloss": "a Baal"
+      "gloss": "a Baal-"
     },
     {
       "surface": "פרצים",
-      "gloss": "peratsim"
+      "gloss": "Peratsim"
     },
     {
       "surface": "ויכם",
-      "gloss": "y derrotó ⟨a⟩"
+      "gloss": "y los hirió"
     },
     {
       "surface": "שם",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "ויאמר",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "פרץ",
-      "gloss": "⟨ha⟩ roto"
+      "gloss": "¡Ha irrumpido!"
     },
     {
       "surface": "יהוה",
@@ -52,74 +50,57 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mis enemigos"
+      "marks": "a mis enemigos"
     },
     {
       "surface": "איבי",
-      "gloss": "mis enemigos"
+      "gloss": "a mis enemigos"
     },
     {
       "surface": "לפני",
-      "gloss": "ante mí"
+      "gloss": "delante de mí"
     },
     {
       "surface": "כפרץ",
-      "gloss": "⟨como⟩ ⟨el⟩ rompimiento"
+      "gloss": "como irrupción"
     },
     {
       "surface": "מים",
-      "gloss": "de ⟨las⟩ aguas"
+      "gloss": "de aguas"
     },
     {
       "surface": "על",
-      "gloss": "Por eso"
+      "gloss": "Por"
     },
     {
       "surface": "כן",
-      "gloss": "llamó"
+      "gloss": "tanto"
     },
     {
       "surface": "קרא",
-      "gloss": "⟨el⟩ nombre"
+      "gloss": "llamó"
     },
     {
       "surface": "שם",
-      "gloss": "⟨del⟩ lugar"
+      "gloss": "el nombre"
     },
     {
       "surface": "המקום",
-      "gloss": "aquel"
+      "gloss": "del lugar"
     },
     {
       "surface": "ההוא",
-      "gloss": "Baal"
+      "gloss": "aquel"
     },
     {
       "surface": "בעל",
-      "gloss": "peratsim"
+      "gloss": "Baal-"
     },
     {
       "surface": "פרצים",
-      "gloss": "peratsim"
+      "gloss": "Peratsim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 6,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:15:34.982761436Z",
+  "model": "glm-5.2"
 }

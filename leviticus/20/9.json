@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "leviticus 20:9",
   "book": "leviticus",
-  "chapter": 20,
-  "verse": 9,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:43:21.464983357Z",
-  "translation": "Porque ⟨todo⟩ varón ⟨que⟩ maldiga ⟨את⟩ su padre y ⟨את⟩ su madre, ciertamente morirá; a su padre y a su madre maldijo: su sangre ⟨está⟩ en él.",
+  "chapter": 20,
+  "translation": "Porque cualquier hombre que maldiga ⟨את⟩ a su padre y ⟨את⟩ a su madre, morirá sin remisión; a su padre y a su madre maldijo — su sangre ⟨está⟩ sobre él.",
   "tokens": [
     {
       "surface": "כי",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "⟨todo⟩ varón"
+      "gloss": "hombre"
     },
     {
       "surface": "איש",
-      "gloss": "⟨que⟩"
+      "gloss": "cualquier"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "que"
     },
     {
       "surface": "יקלל",
@@ -32,28 +30,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "su padre"
+      "marks": "a su padre"
     },
     {
       "surface": "אביו",
-      "gloss": "su padre"
+      "gloss": "a su padre"
     },
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "su madre"
+      "marks": "a su madre"
     },
     {
       "surface": "אמו",
-      "gloss": "su madre"
+      "gloss": "a su madre"
     },
     {
       "surface": "מות",
-      "gloss": ""
+      "gloss": "morirá"
     },
     {
       "surface": "יומת",
-      "gloss": "ciertamente morirá"
+      "gloss": "sin remisión"
     },
     {
       "surface": "אביו",
@@ -73,7 +71,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "⟨está⟩ en él"
+      "gloss": "sobre él"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:26:02.972002398Z",
+  "model": "glm-5.2"
 }

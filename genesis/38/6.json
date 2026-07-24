@@ -1,53 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "genesis 38:6",
   "book": "genesis",
-  "chapter": 38,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T06:17:58.472166593Z",
-  "translation": "Y Yehudá tomó una mujer para ⟨el⟩ primogénito de Er ⟨את⟩, y ⟨el⟩ nombre de ella ⟨es⟩ Tamar",
+  "chapter": 38,
+  "translation": "Y Yehudá tomó ⟨una⟩ mujer para Er, su primogénito; y su nombre ⟨era⟩ Tamar.",
   "tokens": [
     {
-      "surface": "ויקח",
-      "gloss": "Y Judá tomó"
+      "surface": "וַיִּקַּח",
+      "gloss": "Y tomó"
     },
     {
-      "surface": "יהודה",
+      "surface": "יְהוּדָה",
       "gloss": "Yehudá"
     },
     {
-      "surface": "אשה",
-      "gloss": "una mujer"
+      "surface": "אִשָּׁה",
+      "gloss": "⟨una⟩ mujer"
     },
     {
-      "surface": "לער",
-      "gloss": "para ⟨el⟩ primogénito de Er"
+      "surface": "לְעֵר",
+      "gloss": "para Er"
     },
     {
-      "surface": "בכורו",
-      "gloss": "⟨el⟩ primogénito de"
+      "surface": "בְּכוֹרוֹ",
+      "gloss": "su primogénito"
     },
     {
-      "surface": "ושמה",
-      "gloss": "y ⟨el⟩ nombre de ella ⟨es⟩"
+      "surface": "וּשְׁמָהּ",
+      "gloss": "y su nombre"
     },
     {
-      "surface": "תמר",
+      "surface": "תָּמָר",
       "gloss": "Tamar"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 1,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T17:53:24.475859903Z",
+  "model": "glm-5.2"
 }

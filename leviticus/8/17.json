@@ -1,45 +1,47 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "leviticus 8:17",
   "book": "leviticus",
-  "chapter": 8,
-  "verse": 17,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:35:48.371512613Z",
-  "translation": "pero ⟨el⟩ toro y ⟨el⟩ cuero y ⟨la⟩ carne y ⟨el⟩ estiércol ⟨את⟩ quemó ⟨את⟩ en fuego fuera ⟨del⟩ campamento como ⟨את⟩ había ordenado YHWH ⟨את⟩ a Moshé",
+  "chapter": 8,
+  "translation": "Y ⟨את⟩ el toro, ⟨את⟩ su piel, ⟨את⟩ su carne y ⟨את⟩ su estiércol — quemó ⟨él⟩ en fuego, fuera del campamento, como mandó YHWH ⟨את⟩ Moshé.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "pero ⟨el⟩"
+      "gloss": "y ⟨את⟩",
+      "marks": "el toro"
     },
     {
       "surface": "הפר",
-      "gloss": "toro"
+      "gloss": "el toro"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨el⟩"
+      "gloss": "y ⟨את⟩",
+      "marks": "su piel"
     },
     {
       "surface": "ערו",
-      "gloss": "cuero"
+      "gloss": "su piel"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨la⟩"
+      "gloss": "y ⟨את⟩",
+      "marks": "su carne"
     },
     {
       "surface": "בשרו",
-      "gloss": "carne"
+      "gloss": "su carne"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨el⟩"
+      "gloss": "y ⟨את⟩",
+      "marks": "su estiércol"
     },
     {
       "surface": "פרשו",
-      "gloss": "estiércol"
+      "gloss": "su estiércol"
     },
     {
       "surface": "שרף",
@@ -63,7 +65,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "había ordenado"
+      "gloss": "mandó"
     },
     {
       "surface": "יהוה",
@@ -78,5 +80,7 @@
       "surface": "משה",
       "gloss": "Moshé"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:19:48.753774376Z",
+  "model": "glm-5.2"
 }

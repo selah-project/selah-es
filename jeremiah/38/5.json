@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "jeremiah 38:5",
   "book": "jeremiah",
-  "chapter": 38,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:49:28.319799239Z",
-  "translation": "Y dijo el rey Tzidkiyahu: He aquí, él está en vuestra mano, porque el rey no puede ⟨את⟩ hacer nada ⟨את⟩ contra vosotros.",
+  "chapter": 38,
+  "translation": "Y dijo el rey Tzidkiyahu: «He aquí, él ⟨está⟩ en vuestra mano, porque el rey no puede ⟨hacer⟩ nada contra ⟨את⟩ vosotros en cuanto a ⟨un⟩ davar».",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "בידכם",
-      "gloss": "está en vuestra mano"
+      "gloss": "en vuestra mano"
     },
     {
       "surface": "כי",
@@ -52,11 +50,13 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "hacer nada"
+      "marks": "contra vosotros (a vosotros)"
     },
     {
       "surface": "דבר",
-      "gloss": "contra vosotros"
+      "gloss": "nada (un davar)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:41:54.950535189Z",
+  "model": "glm-5.2"
 }

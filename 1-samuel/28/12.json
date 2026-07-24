@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "1-samuel 28:12",
   "book": "1-samuel",
-  "chapter": 28,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:12:42.928968703Z",
-  "translation": "Y vio la mujer ⟨a⟩ Shmuel y gritó con voz grande y dijo la mujer a Shaúl diciendo: ¿Por qué me has engañado? y tú ⟨eres⟩ Shaúl",
+  "chapter": 28,
+  "translation": "Y vio la mujer ⟨את⟩ Shmuel, y gritó con gran voz; y dijo la mujer a Shaúl, diciendo: ¿Por qué me has engañado? Y ⟨tú⟩ eres Shaúl.",
   "tokens": [
     {
       "surface": "ותרא",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Samuel"
+      "marks": "Shmuel"
     },
     {
       "surface": "שמואל",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "grande"
+      "gloss": "gran"
     },
     {
       "surface": "ותאמר",
@@ -56,7 +54,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "diciendo:"
+      "gloss": "diciendo"
     },
     {
       "surface": "למה",
@@ -68,37 +66,13 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "y tú"
+      "gloss": "Y tú"
     },
     {
       "surface": "שאול",
       "gloss": "Shaúl"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Samuel",
-      "to": "Shmuel",
-      "token-index": 3,
-      "strongs": 8050,
-      "hebrew": "שמואל"
-    },
-    {
-      "from": "Saúl",
-      "to": "Shaúl",
-      "token-index": 10,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    },
-    {
-      "from": "Saúl",
-      "to": "Shaúl",
-      "token-index": 15,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:14:08.285907294Z",
+  "model": "glm-5.2"
 }

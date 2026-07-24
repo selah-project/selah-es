@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "deuteronomy 11:1",
   "book": "deuteronomy",
-  "chapter": 11,
-  "verse": 1,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T19:29:48.026635382Z",
-  "translation": "Por tanto amarás ⟨a⟩ YHWH tu Elohim y guardarás su custodia y sus estatutos y sus juicios y sus mandamientos todos ⟨los⟩ días",
+  "chapter": 11,
+  "translation": "Y amarás ⟨a⟩ ⟨את⟩ YHWH tu Elohim, y guardarás su guarda, y sus estatutos, y sus ordenanzas, y sus Mitzvot, todos los días.",
   "tokens": [
     {
       "surface": "ואהבת",
-      "gloss": "Por tanto amarás"
+      "gloss": "y amarás"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "YHWH"
+      "marks": "a YHWH tu Elohim"
     },
     {
       "surface": "יהוה",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "משמרתו",
-      "gloss": "su custodia"
+      "gloss": "su guarda"
     },
     {
       "surface": "וחקתיו",
@@ -40,11 +38,11 @@
     },
     {
       "surface": "ומשפטיו",
-      "gloss": "y sus juicios"
+      "gloss": "y sus ordenanzas"
     },
     {
       "surface": "ומצותיו",
-      "gloss": "y sus mandamientos"
+      "gloss": "y sus Mitzvot"
     },
     {
       "surface": "כל",
@@ -52,11 +50,9 @@
     },
     {
       "surface": "הימים",
-      "gloss": "⟨los⟩ días"
+      "gloss": "los días"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:50:45.411753232Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 32,
   "ref": "exodus 34:32",
   "book": "exodus",
-  "chapter": 34,
-  "verse": 32,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:25:52.587742171Z",
-  "translation": "Y después de esto, se acercaron todos los hijos de Yisrael, y ⟨él⟩ les ⟨mandó⟩ todo lo que YHWH había hablado con él en el monte Sinai",
+  "chapter": 34,
+  "translation": "Y después de esto, se acercaron todos ⟨los⟩ hijos de Yisrael, y ⟨él⟩ les mandó ⟨את⟩ todo lo que YHWH había hablado con él en el monte Sinai.",
   "tokens": [
     {
       "surface": "ואחרי",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "hijos de"
+      "gloss": "⟨los⟩ hijos de"
     },
     {
       "surface": "ישראל",
@@ -35,12 +33,12 @@
     },
     {
       "surface": "ויצום",
-      "gloss": "y ⟨él⟩ les ⟨mandó⟩"
+      "gloss": "y ⟨él⟩ les mandó"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todo lo que... hablado"
+      "marks": "todo (lo que YHWH había hablado)"
     },
     {
       "surface": "כל",
@@ -52,7 +50,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "había"
+      "gloss": "había hablado"
     },
     {
       "surface": "יהוה",
@@ -70,5 +68,7 @@
       "surface": "סיני",
       "gloss": "Sinai"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:13:18.741319818Z",
+  "model": "glm-5.2"
 }

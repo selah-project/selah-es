@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "1-samuel 12:9",
   "book": "1-samuel",
-  "chapter": 12,
-  "verse": 9,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:54:47.919923767Z",
-  "translation": "Y olvidaron ⟨a⟩ YHWH su Elohim, y los vendió ⟨a⟩ en mano de Sisera, comandante del ejército de Hazor, y en mano de los filisteos, y en mano del rey de Moav, y pelearon contra ellos.",
+  "chapter": 12,
+  "translation": "Y olvidaron a ⟨את⟩ YHWH su Elohim, y ⟨él⟩ los vendió ⟨אתם⟩ en mano de Sísraj, comandante del ejército de Jatzor, y en mano de los Pelishtim, y en mano del rey de Moav; y pelearon contra ellos.",
   "tokens": [
     {
       "surface": "וישכחו",
-      "gloss": "Y olvidaron"
+      "gloss": "y olvidaron"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "YHWH"
+      "marks": "a YHWH"
     },
     {
       "surface": "יהוה",
@@ -28,20 +26,20 @@
     },
     {
       "surface": "וימכר",
-      "gloss": "y los vendió"
+      "gloss": "y vendió"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨a⟩",
-      "marks": "en mano"
+      "gloss": "⟨אתם⟩",
+      "marks": "ellos (como objeto directo)"
     },
     {
       "surface": "ביד",
-      "gloss": "en mano"
+      "gloss": "en mano de"
     },
     {
       "surface": "סיסרא",
-      "gloss": "Sisera"
+      "gloss": "Sísraj"
     },
     {
       "surface": "שר",
@@ -49,23 +47,23 @@
     },
     {
       "surface": "צבא",
-      "gloss": "ejército"
+      "gloss": "del ejército"
     },
     {
       "surface": "חצור",
-      "gloss": "de Hazor"
+      "gloss": "de Jatzor"
     },
     {
       "surface": "וביד",
-      "gloss": "y en mano"
+      "gloss": "y en mano de"
     },
     {
       "surface": "פלשתים",
-      "gloss": "de los filisteos"
+      "gloss": "los Pelishtim"
     },
     {
       "surface": "וביד",
-      "gloss": "y en mano"
+      "gloss": "y en mano de"
     },
     {
       "surface": "מלך",
@@ -84,16 +82,6 @@
       "gloss": "contra ellos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moab",
-      "to": "Moav",
-      "token-index": 15,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:11:13.714757734Z",
+  "model": "glm-5.2"
 }

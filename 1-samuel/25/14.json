@@ -1,33 +1,31 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "1-samuel 25:14",
   "book": "1-samuel",
-  "chapter": 25,
-  "verse": 14,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:09:32.851476930Z",
-  "translation": "Y a Abigail, ⟨esposa⟩ de Nabal, ⟨declaró⟩ uno de los jóvenes jóvenes, diciendo: He aquí, Davidd envió mensajeros desde el desierto para bendecir ⟨a⟩ nuestro señor, y ⟨los⟩ trató con desprecio.",
+  "chapter": 25,
+  "translation": "Y a Avigáil, mujer de Naval, ⟨él⟩ informó un joven de los jóvenes, diciendo: ¡He aquí! David envió mensajeros del desierto para bendecir a ⟨את⟩ nuestro señor, pero ⟨él⟩ se lanzó sobre ellos.",
   "tokens": [
     {
       "surface": "ולאביגיל",
-      "gloss": "Y a Abigail"
+      "gloss": "Y a Avigáil"
     },
     {
       "surface": "אשת",
-      "gloss": "⟨esposa⟩"
+      "gloss": "mujer de"
     },
     {
       "surface": "נבל",
-      "gloss": "de Nabal"
+      "gloss": "Naval"
     },
     {
       "surface": "הגיד",
-      "gloss": "⟨declaró⟩"
+      "gloss": "informó"
     },
     {
       "surface": "נער",
-      "gloss": "uno de los jóvenes"
+      "gloss": "un joven"
     },
     {
       "surface": "אחד",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "מהנערים",
-      "gloss": "jóvenes"
+      "gloss": "de los jóvenes"
     },
     {
       "surface": "לאמר",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "He aquí"
+      "gloss": "¡He aquí!"
     },
     {
       "surface": "שלח",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "מלאכים",
@@ -59,7 +57,7 @@
     },
     {
       "surface": "מהמדבר",
-      "gloss": "desde el desierto"
+      "gloss": "del desierto"
     },
     {
       "surface": "לברך",
@@ -68,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "אדנינו"
+      "marks": "a nuestro señor"
     },
     {
       "surface": "אדנינו",
@@ -76,23 +74,13 @@
     },
     {
       "surface": "ויעט",
-      "gloss": "y ⟨los⟩ trató con desprecio"
+      "gloss": "pero se lanzó"
     },
     {
       "surface": "בהם",
-      "gloss": "a ellos"
+      "gloss": "sobre ellos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 10,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:13:47.656035628Z",
+  "model": "glm-5.2"
 }

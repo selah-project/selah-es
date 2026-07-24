@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "1-samuel 25:23",
   "book": "1-samuel",
-  "chapter": 25,
-  "verse": 23,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:09:57.214220726Z",
-  "translation": "Y cuando Abigail vio ⟨a⟩ Davidd, ⟨se⟩ apresuró y descendió de ⟨el⟩ asno, y cayó sobre ⟨el⟩ rostro de Davidd ante su cara y se postró ⟨en⟩ tierra.",
+  "chapter": 25,
+  "translation": "Y Avigayil vio a ⟨את⟩ David, y se apresuró, y bajó del asno, y cayó sobre ⟨el⟩ rostro de David, sobre su rostro, y se postró en tierra.",
   "tokens": [
     {
       "surface": "ותרא",
-      "gloss": "Y cuando...vio"
+      "gloss": "Y vio"
     },
     {
       "surface": "אביגיל",
-      "gloss": "Abigail"
+      "gloss": "Avigayil"
     },
     {
       "surface": "את",
@@ -24,15 +22,15 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "ותמהר",
-      "gloss": "⟨se⟩ apresuró"
+      "gloss": "y se apresuró"
     },
     {
       "surface": "ותרד",
-      "gloss": "y descendió"
+      "gloss": "y bajó"
     },
     {
       "surface": "מעל",
@@ -40,7 +38,7 @@
     },
     {
       "surface": "החמור",
-      "gloss": "⟨el⟩ asno"
+      "gloss": "el asno"
     },
     {
       "surface": "ותפל",
@@ -48,19 +46,19 @@
     },
     {
       "surface": "לאפי",
-      "gloss": "sobre ⟨el⟩ rostro"
+      "gloss": "ante el rostro"
     },
     {
       "surface": "דוד",
-      "gloss": "de Davidd"
+      "gloss": "de David"
     },
     {
       "surface": "על",
-      "gloss": "ante"
+      "gloss": "sobre"
     },
     {
       "surface": "פניה",
-      "gloss": "su cara"
+      "gloss": "su rostro"
     },
     {
       "surface": "ותשתחו",
@@ -68,26 +66,9 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨en⟩ tierra"
+      "gloss": "en tierra"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 3,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 10,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:13:46.293766209Z",
+  "model": "glm-5.2"
 }

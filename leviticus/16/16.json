@@ -1,29 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "leviticus 16:16",
   "book": "leviticus",
-  "chapter": 16,
-  "verse": 16,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T19:24:39.321114193Z",
-  "translation": "Y hará expiación ⟨por⟩ ⟨el⟩ lugar santo a causa de ⟨las⟩ impurezas de los hijos de Yisrael y de ⟨sus⟩ rebeliones, ⟨con⟩ todas sus transgresiones. Y así hará ⟨para⟩ ⟨el⟩ Tabernáculo ⟨de⟩ Reunión ⟨que⟩ permanece ⟨con⟩ ellos en medio de ⟨sus⟩ impurezas.",
+  "chapter": 16,
+  "translation": "Y hará kapará sobre el santuario ⟨por⟩ las impurezas de los hijos de Yisrael y por sus rebeliones, por todos sus pecados; y así hará por ⟨el⟩ Ohel Moed, el que mora con ellos en medio de sus impurezas.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "Y hará expiación"
+      "gloss": "Y hará kapará"
     },
     {
       "surface": "על",
-      "gloss": "⟨por⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "הקדש",
-      "gloss": "⟨el⟩ lugar santo"
+      "gloss": "el santuario"
     },
     {
       "surface": "מטמאת",
-      "gloss": "a causa de ⟨las⟩ impurezas"
+      "gloss": "⟨por⟩ las impurezas"
     },
     {
       "surface": "בני",
@@ -35,39 +33,39 @@
     },
     {
       "surface": "ומפשעיהם",
-      "gloss": "y de ⟨sus⟩ rebeliones"
+      "gloss": "y por sus rebeliones"
     },
     {
       "surface": "לכל",
-      "gloss": "⟨con⟩"
+      "gloss": "por todos"
     },
     {
       "surface": "חטאתם",
-      "gloss": "todas sus transgresiones"
+      "gloss": "sus pecados"
     },
     {
       "surface": "וכן",
-      "gloss": "Y así hará"
+      "gloss": "y así"
     },
     {
       "surface": "יעשה",
-      "gloss": "Y así hará"
+      "gloss": "hará"
     },
     {
       "surface": "לאהל",
-      "gloss": "⟨para⟩ ⟨el⟩"
+      "gloss": "por ⟨el⟩ Ohel"
     },
     {
       "surface": "מועד",
-      "gloss": "Tabernáculo ⟨de⟩ Reunión"
+      "gloss": "Moed"
     },
     {
       "surface": "השכן",
-      "gloss": "⟨que⟩ permanece"
+      "gloss": "el que mora"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨con⟩ ellos"
+      "gloss": "con ellos"
     },
     {
       "surface": "בתוך",
@@ -75,19 +73,9 @@
     },
     {
       "surface": "טמאתם",
-      "gloss": "⟨sus⟩ impurezas"
+      "gloss": "sus impurezas"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 5,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:23:56.844814199Z",
+  "model": "glm-5.2"
 }

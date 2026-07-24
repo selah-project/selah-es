@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "genesis 35:13",
   "book": "genesis",
-  "chapter": 35,
-  "verse": 13,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-17T00:30:54.042928940Z",
-  "translation": "Y Elohim subió desde ⟨él⟩ en ⟨el⟩ lugar ⟨donde⟩ había hablado con él",
+  "chapter": 35,
+  "translation": "Y Elohim subió de sobre ⟨él⟩, en el lugar donde habló con ⟨él⟩.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "מעליו",
-      "gloss": "desde ⟨él⟩"
+      "gloss": "de sobre él"
     },
     {
       "surface": "אלהים",
@@ -23,19 +21,22 @@
     },
     {
       "surface": "במקום",
-      "gloss": "en ⟨el⟩ lugar"
+      "gloss": "en el lugar"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨donde⟩"
+      "gloss": "donde"
     },
     {
       "surface": "דבר",
-      "gloss": "había hablado"
+      "gloss": "habló"
     },
     {
       "surface": "אתו",
-      "gloss": "con él"
+      "gloss": "con ⟨את⟩ él",
+      "marks": "él (a Yaakov)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:52:34.019132329Z",
+  "model": "glm-5.2"
 }

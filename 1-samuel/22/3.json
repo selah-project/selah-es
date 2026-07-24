@@ -1,29 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "1-samuel 22:3",
   "book": "1-samuel",
-  "chapter": 22,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:06:47.132618651Z",
-  "translation": "Y Davidd ⟨fue⟩ desde allí a Mitspeh de Moav, y dijo al rey de Moav: ⟨Por favor⟩ salgan mi padre y mi madre ⟨con⟩ ustedes, hasta que yo sepa qué ⟨hará⟩ ⟨por⟩ mí Elohim.",
+  "chapter": 22,
+  "translation": "Y fue David de allí ⟨a⟩ Mitzpé de Moav, y dijo al rey de Moav: «Que salgan, te ruego, mi padre y mi madre ⟨y estén⟩ con ustedes, hasta que yo sepa qué hará Elohim conmigo».",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Y David ⟨fue⟩"
+      "gloss": "y fue"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "משם",
-      "gloss": "desde allí"
+      "gloss": "de allí"
     },
     {
       "surface": "מצפה",
-      "gloss": "a Mitspeh"
+      "gloss": "⟨a⟩ Mitzpé"
     },
     {
       "surface": "מואב",
@@ -35,11 +33,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "al"
+      "gloss": "a"
     },
     {
       "surface": "מלך",
-      "gloss": "rey"
+      "gloss": "el rey"
     },
     {
       "surface": "מואב",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "⟨Por favor⟩"
+      "gloss": "te ruego"
     },
     {
       "surface": "אבי",
@@ -63,8 +61,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨con⟩ ustedes",
-      "marks": "mi padre y mi madre"
+      "gloss": "con ustedes"
     },
     {
       "surface": "עד",
@@ -72,7 +69,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yo sepa"
+      "gloss": "⟨que⟩"
     },
     {
       "surface": "אדע",
@@ -84,41 +81,17 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "⟨hará⟩"
+      "gloss": "hará"
     },
     {
       "surface": "לי",
-      "gloss": "⟨por⟩ mí"
+      "gloss": "conmigo"
     },
     {
       "surface": "אלהים",
       "gloss": "Elohim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Moab",
-      "to": "Moav",
-      "token-index": 4,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    },
-    {
-      "from": "Moab",
-      "to": "Moav",
-      "token-index": 8,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:23:02.361178478Z",
+  "model": "glm-5.2"
 }

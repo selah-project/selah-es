@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "joshua 24:17",
   "book": "joshua",
-  "chapter": 24,
-  "verse": 17,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:18:39.635540659Z",
-  "translation": "Porque YHWH nuestro Elohim, ⟨es⟩ ⟨el⟩ que ⟨nos⟩ hizo subir ⟨את⟩ y a nuestros padres de la tierra de Mitzráyim, de la casa de esclavos, y ⟨el⟩ que hizo a nuestros ojos ⟨את⟩ las señales grandes estas, y nos guardó en todo el camino en que anduvimos en ⟨él⟩, y en todos los pueblos por medio de los cuales pasamos.",
+  "chapter": 24,
+  "translation": "Porque YHWH nuestro Elohim, ⟨Él⟩ es quien nos hizo subir a nosotros ⟨את⟩ y ⟨את⟩ a nuestros padres de la tierra de Mitzráyim, de la casa de siervos; y quien hizo ante nuestros ojos ⟨את⟩ las señales grandes estas, y nos guardó en todo el camino por el que caminamos, y en todos los pueblos por cuyo medio pasamos.",
   "tokens": [
     {
       "surface": "כי",
@@ -23,24 +21,25 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨es⟩ ⟨el⟩ que"
+      "gloss": "⟨Él⟩ es"
     },
     {
       "surface": "המעלה",
-      "gloss": "⟨nos⟩ hizo subir"
+      "gloss": "quien hizo subir"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "y a nuestros padres"
+      "marks": "nos"
     },
     {
       "surface": "ואת",
-      "gloss": "y a"
+      "gloss": "y ⟨את⟩",
+      "marks": "a nuestros padres"
     },
     {
       "surface": "אבותינו",
-      "gloss": "nuestros padres"
+      "gloss": "a nuestros padres"
     },
     {
       "surface": "מארץ",
@@ -56,11 +55,11 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "de esclavos"
+      "gloss": "de siervos"
     },
     {
       "surface": "ואשר",
-      "gloss": "y ⟨el⟩ que"
+      "gloss": "y quien"
     },
     {
       "surface": "עשה",
@@ -68,12 +67,12 @@
     },
     {
       "surface": "לעינינו",
-      "gloss": "a nuestros ojos"
+      "gloss": "ante nuestros ojos"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "las señales grandes estas"
+      "marks": "las señales"
     },
     {
       "surface": "האתות",
@@ -101,15 +100,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "en que"
+      "gloss": "por el que"
     },
     {
       "surface": "הלכנו",
-      "gloss": "anduvimos"
+      "gloss": "caminamos"
     },
     {
       "surface": "בה",
-      "gloss": "en ⟨él⟩"
+      "gloss": "por él"
     },
     {
       "surface": "ובכל",
@@ -121,15 +120,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "por medio de los cuales"
+      "gloss": "por cuyo"
     },
     {
       "surface": "עברנו",
-      "gloss": "pasamos"
+      "gloss": "medio pasamos"
     },
     {
       "surface": "בקרבם",
-      "gloss": ""
+      "gloss": "en medio de ellos"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:05:24.690431373Z",
+  "model": "glm-5.2"
 }

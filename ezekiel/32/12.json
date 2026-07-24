@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "ezekiel 32:12",
   "book": "ezekiel",
-  "chapter": 32,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T12:40:48.804669522Z",
-  "translation": "Por las espadas ⟨de⟩ los poderosos haré caer ⟨tu⟩ multitud, ⟨los⟩ tiranos ⟨de⟩ las naciones, todos ⟨ellos⟩; y ⟨ellos⟩ saquearán ⟨el⟩ orgullo de Mitzráyim y será destruida toda ⟨su⟩ multitud.",
+  "chapter": 32,
+  "translation": "Por las espadas de los guerreros haré caer tu multitud — los violentos de las naciones, todos ellos. Y devastarán ⟨את⟩ el orgullo de Mitzráyim, y será destruida toda su multitud.",
   "tokens": [
     {
       "surface": "בחרבות",
-      "gloss": "Por las espadas"
+      "gloss": "por las espadas de"
     },
     {
       "surface": "גבורים",
-      "gloss": "de los poderosos"
+      "gloss": "los guerreros"
     },
     {
       "surface": "אפיל",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "עריצי",
-      "gloss": "los tiranos"
+      "gloss": "los violentos de"
     },
     {
       "surface": "גוים",
-      "gloss": "de las naciones"
+      "gloss": "las naciones"
     },
     {
       "surface": "כלם",
@@ -39,20 +37,20 @@
     },
     {
       "surface": "ושדדו",
-      "gloss": "y ellos saquearán"
+      "gloss": "y devastarán"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "orgullo de Egipto"
+      "marks": "el orgullo"
     },
     {
       "surface": "גאון",
-      "gloss": "orgullo"
+      "gloss": "el orgullo"
     },
     {
       "surface": "מצרים",
-      "gloss": "de Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "ונשמד",
@@ -67,16 +65,6 @@
       "gloss": "su multitud"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Egipto",
-      "to": "Mitzráyim",
-      "token-index": 10,
-      "strongs": 4714,
-      "hebrew": "מצרים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:48:31.341293862Z",
+  "model": "glm-5.2"
 }

@@ -1,24 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "amos 5:9",
   "book": "amos",
-  "chapter": 5,
-  "verse": 9,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T13:03:19.299151558Z",
-  "translation": "El que ⟨hace⟩ brillar ⟨את⟩ ⟨la⟩ destrucción sobre ⟨el⟩ fuerte, y ⟨la⟩ destrucción sobre ⟨la⟩ fortaleza vendrá.",
+  "chapter": 5,
+  "translation": "El que hace resplandecer ⟨la⟩ destrucción sobre ⟨lo⟩ fuerte, y ⟨la⟩ destrucción sobre ⟨la⟩ fortaleza vendrá.",
   "tokens": [
     {
       "surface": "המבליג",
-      "gloss": "El que ⟨hace⟩ brillar",
-      "notes": "hapax",
-      "rationale": "forma única en el Tanaj; raíz בלג con ה prefijo; literalmente 'el que hace brillar\/descender'"
+      "gloss": "El que hace resplandecer"
     },
     {
       "surface": "שד",
-      "gloss": "⟨la⟩ destrucción",
-      "marks": "⟨la⟩ destrucción sobre ⟨el⟩ fuerte"
+      "gloss": "destrucción"
     },
     {
       "surface": "על",
@@ -26,14 +21,11 @@
     },
     {
       "surface": "עז",
-      "gloss": "⟨el⟩ fuerte",
-      "rationale": "substitution",
-      "subject": "fuerte",
-      "notes": "עז literalmente es 'fuerte\/violento', pero aquí como sustantivo referido a persona\/nación poderosa"
+      "gloss": "fuerte"
     },
     {
       "surface": "ושד",
-      "gloss": "y ⟨la⟩ destrucción"
+      "gloss": "y destrucción"
     },
     {
       "surface": "על",
@@ -41,21 +33,13 @@
     },
     {
       "surface": "מבצר",
-      "gloss": "⟨la⟩ fortaleza",
-      "rationale": "substitution",
-      "subject": "fortaleza",
-      "notes": "מבצר literalmente 'lugar fortificado\/castillo'; aquí como metonimia de poder político\/militar"
+      "gloss": "la fortaleza"
     },
     {
       "surface": "יבוא",
-      "gloss": "vendrá",
-      "rationale": "tiempo verbal",
-      "subject": "vendrá",
-      "notes": "tiempo futuro hebreo (yiqtol) indica acción cierta\/inevitable de parte de Elohim"
+      "gloss": "vendrá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:52:23.156649876Z",
+  "model": "glm-5.2"
 }

@@ -1,37 +1,35 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "ezekiel 25:3",
   "book": "ezekiel",
-  "chapter": 25,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T12:35:12.890532645Z",
-  "translation": "Y di a los hijos de Ammón: Escuchen ⟨את⟩ la palabra de Adonai YHWH; así ha dicho Adonai YHWH: Por cuanto tú has dicho: '¡Ah!' contra mi Mikdash, porque ⟨está⟩ profanado, y contra ⟨la⟩ tierra de Yisrael, porque ⟨está⟩ desolada, y contra ⟨la⟩ casa de Yehudá, porque han ido ⟨al⟩ exilio.",
+  "chapter": 25,
+  "translation": "y dirás a ⟨los⟩ hijos de Ammón: «¡Escuchad ⟨el⟩ davar de Adonai YHWH! Así dice Adonai YHWH: Por cuanto dijiste ⟨tú⟩: '¡Ja!', contra mi Mikdash, porque ⟨fue⟩ profanado, y contra ⟨la⟩ tierra de Yisrael, porque ⟨fue⟩ asolada, y contra ⟨la⟩ casa de Yehudá, porque fueron al destierro».",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "Y di"
+      "gloss": "y dirás"
     },
     {
       "surface": "לבני",
-      "gloss": "a los hijos de"
+      "gloss": "a hijos"
     },
     {
       "surface": "עמון",
-      "gloss": "Ammón"
+      "gloss": "de Ammón"
     },
     {
       "surface": "שמעו",
-      "gloss": "Escuchen"
+      "gloss": "¡Escuchad!"
     },
     {
       "surface": "דבר",
-      "gloss": "la palabra de"
+      "gloss": "davar"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "de Adonai"
     },
     {
       "surface": "יהוה",
@@ -39,11 +37,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "así"
+      "gloss": "Así"
     },
     {
       "surface": "אמר",
-      "gloss": "ha dicho"
+      "gloss": "dice"
     },
     {
       "surface": "אדני",
@@ -59,11 +57,11 @@
     },
     {
       "surface": "אמרך",
-      "gloss": "tú has dicho"
+      "gloss": "dijiste"
     },
     {
       "surface": "האח",
-      "gloss": "'¡Ah!'"
+      "gloss": "¡Ja!"
     },
     {
       "surface": "אל",
@@ -79,7 +77,7 @@
     },
     {
       "surface": "נחל",
-      "gloss": "⟨está⟩ profanado"
+      "gloss": "profanado"
     },
     {
       "surface": "ואל",
@@ -87,11 +85,11 @@
     },
     {
       "surface": "אדמת",
-      "gloss": "⟨la⟩ tierra de"
+      "gloss": "tierra"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "de Yisrael"
     },
     {
       "surface": "כי",
@@ -99,7 +97,7 @@
     },
     {
       "surface": "נשמה",
-      "gloss": "⟨está⟩ desolada"
+      "gloss": "asolada"
     },
     {
       "surface": "ואל",
@@ -107,11 +105,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "⟨la⟩ casa de"
+      "gloss": "casa"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudá"
+      "gloss": "de Yehudá"
     },
     {
       "surface": "כי",
@@ -119,44 +117,13 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "han ido ⟨al⟩"
+      "gloss": "fueron"
     },
     {
       "surface": "בגולה",
-      "gloss": "exilio"
+      "gloss": "al destierro"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Amón",
-      "to": "Ammón",
-      "token-index": 2,
-      "strongs": 5983,
-      "hebrew": "עמון"
-    },
-    {
-      "from": "santuario",
-      "to": "Mikdash",
-      "token-index": 15,
-      "strongs": 4720,
-      "hebrew": "מקדש"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 20,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 25,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:47:43.145702172Z",
+  "model": "glm-5.2"
 }

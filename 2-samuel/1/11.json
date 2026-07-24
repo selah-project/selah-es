@@ -1,29 +1,27 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "2-samuel 1:11",
   "book": "2-samuel",
-  "chapter": 1,
-  "verse": 11,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:15:45.049486430Z",
-  "translation": "Y Davidd ⟨tomó⟩ ⟨de⟩ sus vestidos y ⟨los⟩ desgarró, y también todos los hombres que ⟨estaban⟩ con él",
+  "chapter": 1,
+  "translation": "Entonces David se agarró de sus vestiduras y las rompió, y también todos los hombres que ⟨estaban⟩ con él,",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "Y David ⟨tomó⟩"
+      "gloss": "y se agarró"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "בבגדו",
-      "gloss": "⟨de⟩ sus vestidos"
+      "gloss": "de sus vestiduras"
     },
     {
       "surface": "ויקרעם",
-      "gloss": "y ⟨los⟩ desgarró"
+      "gloss": "y las rompió"
     },
     {
       "surface": "וגם",
@@ -43,19 +41,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨estaban⟩ con él"
+      "gloss": "con él"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 1,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:14:43.576742576Z",
+  "model": "glm-5.2"
 }

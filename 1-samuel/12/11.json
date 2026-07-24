@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "1-samuel 12:11",
   "book": "1-samuel",
-  "chapter": 12,
-  "verse": 11,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:38:34.785767791Z",
-  "translation": "Y envió YHWH ⟨את⟩ Yerubbaal y ⟨את⟩ Bedán y ⟨את⟩ Yiftaj y ⟨את⟩ Shmuel, y los libró de la mano de sus enemigos alrededor, y habitasteis con seguridad",
+  "chapter": 12,
+  "translation": "YHWH envió ⟨את⟩ Yerubbaal, y ⟨את⟩ Bedán, y ⟨את⟩ Yiftaj, y ⟨את⟩ Shmuel, y os rescató ⟨את⟩ de mano de vuestros enemigos ⟨de⟩ alrededor, y habitasteis seguros.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Y envió"
+      "gloss": "envió"
     },
     {
       "surface": "יהוה",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yerubbaal"
+      "marks": "a Yerubbaal"
     },
     {
       "surface": "ירבעל",
@@ -29,7 +27,7 @@
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "Bedán"
+      "marks": "a Bedán"
     },
     {
       "surface": "בדן",
@@ -38,7 +36,7 @@
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "Yiftaj"
+      "marks": "a Yiftaj"
     },
     {
       "surface": "יפתח",
@@ -47,7 +45,7 @@
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "Shmuel"
+      "marks": "a Shmuel"
     },
     {
       "surface": "שמואל",
@@ -55,20 +53,20 @@
     },
     {
       "surface": "ויצל",
-      "gloss": "y los libró"
+      "gloss": "y rescató"
     },
     {
       "surface": "אתכם",
-      "gloss": "",
-      "marks": "de la mano"
+      "gloss": "⟨את⟩ os",
+      "marks": "de mano"
     },
     {
       "surface": "מיד",
-      "gloss": "de la mano"
+      "gloss": "de mano"
     },
     {
       "surface": "איביכם",
-      "gloss": "de sus enemigos"
+      "gloss": "de vuestros enemigos"
     },
     {
       "surface": "מסביב",
@@ -80,7 +78,9 @@
     },
     {
       "surface": "בטח",
-      "gloss": "con seguridad"
+      "gloss": "seguros"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:11:12.640214228Z",
+  "model": "glm-5.2"
 }

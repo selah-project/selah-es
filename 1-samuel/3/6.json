@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "1-samuel 3:6",
   "book": "1-samuel",
-  "chapter": 3,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:47:08.876071117Z",
-  "translation": "Y YHWH volvió a llamar a Shmuel. Y Shmuel se levantó y fue a ⟨את⟩Eli y dijo: Heme aquí ⟨porque⟩ me llamaste. Y él dijo: No te llamé ⟨hijo⟩ mío; vuelve ⟨y⟩ acuéstate.",
+  "chapter": 3,
+  "translation": "Y volvió YHWH a llamar ⟨a⟩ Shmuel; y se levantó Shmuel y fue a Elí, y dijo: Hinení, ⟨porque⟩ tú me llamaste. Y ⟨él⟩ dijo: No llamé, hijo mío; vuelve, acuéstate.",
   "tokens": [
     {
       "surface": "ויסף",
-      "gloss": "Y...volvió a"
+      "gloss": "y volvió"
     },
     {
       "surface": "יהוה",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "קרא",
-      "gloss": "llamar"
+      "gloss": "a llamar"
     },
     {
       "surface": "עוד",
-      "gloss": "a"
+      "gloss": "de nuevo"
     },
     {
       "surface": "שמואל",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "Y Samuel se levantó"
+      "gloss": "y se levantó"
     },
     {
       "surface": "שמואל",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "עלי",
-      "gloss": "Eli"
+      "gloss": "Elí"
     },
     {
       "surface": "ויאמר",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Heme aquí"
+      "gloss": "Hinení"
     },
     {
       "surface": "כי",
@@ -63,7 +61,7 @@
     },
     {
       "surface": "קראת",
-      "gloss": "me llamaste"
+      "gloss": "tú llamaste"
     },
     {
       "surface": "לי",
@@ -71,19 +69,19 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Y él dijo"
+      "gloss": "y ⟨él⟩ dijo"
     },
     {
       "surface": "לא",
-      "gloss": "No"
+      "gloss": "no"
     },
     {
       "surface": "קראתי",
-      "gloss": "te llamé"
+      "gloss": "llamé"
     },
     {
       "surface": "בני",
-      "gloss": "⟨hijo⟩"
+      "gloss": "hijo mío"
     },
     {
       "surface": "שוב",
@@ -91,26 +89,9 @@
     },
     {
       "surface": "שכב",
-      "gloss": "⟨y⟩ acuéstate"
+      "gloss": "acuéstate"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Samuel",
-      "to": "Shmuel",
-      "token-index": 4,
-      "strongs": 8050,
-      "hebrew": "שמואל"
-    },
-    {
-      "from": "Samuel",
-      "to": "Shmuel",
-      "token-index": 6,
-      "strongs": 8050,
-      "hebrew": "שמואל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:10:00.636213504Z",
+  "model": "glm-5.2"
 }

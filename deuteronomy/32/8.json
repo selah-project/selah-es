@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "deuteronomy 32:8",
   "book": "deuteronomy",
-  "chapter": 32,
-  "verse": 8,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T19:35:55.298525025Z",
-  "translation": "Cuando ⟨el⟩ Elyon ⟨dió a⟩ las naciones ⟨את⟩ su herencia, cuando ⟨él⟩ separó ⟨a⟩ ⟨los⟩ hijos de ⟨el⟩ hombre, ⟨él⟩ estableció ⟨las⟩ fronteras de ⟨los⟩ pueblos según ⟨el⟩ número de ⟨los⟩ hijos de Yisrael.",
+  "chapter": 32,
+  "translation": "Cuando Elyon hizo heredar a las naciones, cuando separó a los hijos de Adam, estableció las fronteras de los pueblos según el número de los hijos de Yisrael.",
   "tokens": [
     {
       "surface": "בהנחל",
-      "gloss": "Cuando"
+      "gloss": "Cuando hizo heredar"
     },
     {
       "surface": "עליון",
-      "gloss": "⟨el⟩ Elyon"
+      "gloss": "Elyon"
     },
     {
       "surface": "גוים",
@@ -23,58 +21,41 @@
     },
     {
       "surface": "בהפרידו",
-      "gloss": "cuando ⟨él⟩ separó"
+      "gloss": "cuando separó"
     },
     {
       "surface": "בני",
-      "gloss": "⟨a⟩ ⟨los⟩ hijos"
+      "gloss": "a los hijos de"
     },
     {
       "surface": "אדם",
-      "gloss": "de ⟨el⟩ hombre"
+      "gloss": "Adam"
     },
     {
       "surface": "יצב",
-      "gloss": "⟨él⟩ estableció"
+      "gloss": "estableció"
     },
     {
       "surface": "גבלת",
-      "gloss": "⟨las⟩ fronteras"
+      "gloss": "las fronteras"
     },
     {
       "surface": "עמים",
-      "gloss": "de ⟨los⟩ pueblos"
+      "gloss": "de los pueblos"
     },
     {
       "surface": "למספר",
-      "gloss": "según ⟨el⟩ número"
+      "gloss": "según el número de"
     },
     {
       "surface": "בני",
-      "gloss": "de ⟨los⟩ hijos"
+      "gloss": "los hijos de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Altísimo",
-      "to": "Elyon",
-      "token-index": 1,
-      "strongs": 5945,
-      "hebrew": "עליון"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 11,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:00:52.453125503Z",
+  "model": "glm-5.2"
 }

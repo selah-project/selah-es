@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "1-kings 12:9",
   "book": "1-kings",
-  "chapter": 12,
-  "verse": 9,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:25:06.755707449Z",
-  "translation": "Y dijo a ellos: ¿Qué aconsejáis ⟨que⟩ respondamos palabra a ⟨את⟩ el pueblo este que ha hablado a mí, diciendo: Haz ligero el yugo que ⟨את⟩ tu padre puso sobre nosotros?",
+  "chapter": 12,
+  "translation": "Y dijo ⟨a⟩ ellos: ¿Qué ⟨ustedes⟩ aconsejan, y devolveremos palabra a ⟨את⟩ este pueblo que me habló, diciendo: Alivia del yugo que tu padre puso sobre nosotros?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -23,15 +21,15 @@
     },
     {
       "surface": "אתם",
-      "gloss": "aconsejáis"
+      "gloss": "ustedes"
     },
     {
       "surface": "נועצים",
-      "gloss": ""
+      "gloss": "aconsejan"
     },
     {
       "surface": "ונשיב",
-      "gloss": "⟨que⟩ respondamos"
+      "gloss": "y devolveremos"
     },
     {
       "surface": "דבר",
@@ -40,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "העם (el pueblo este)"
+      "marks": "este pueblo"
     },
     {
       "surface": "העם",
-      "gloss": "el pueblo"
+      "gloss": "al pueblo"
     },
     {
       "surface": "הזה",
@@ -56,7 +54,7 @@
     },
     {
       "surface": "דברו",
-      "gloss": "ha hablado"
+      "gloss": "habló"
     },
     {
       "surface": "אלי",
@@ -68,11 +66,11 @@
     },
     {
       "surface": "הקל",
-      "gloss": "Haz ligero"
+      "gloss": "Alivia"
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "de"
     },
     {
       "surface": "העל",
@@ -94,5 +92,7 @@
       "surface": "עלינו",
       "gloss": "sobre nosotros"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:23:04.343734800Z",
+  "model": "glm-5.2"
 }

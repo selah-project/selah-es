@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "1-samuel 17:24",
   "book": "1-samuel",
-  "chapter": 17,
-  "verse": 24,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:01:00.526200421Z",
-  "translation": "Y ⟨is⟩ todo hombre de Yisrael, ⟨en⟩ ver ⟨a⟩ ⟨el⟩ hombre ⟨y⟩ huyeron de ⟨el⟩ rostro de él ⟨y⟩ temieron mucho.",
+  "chapter": 17,
+  "translation": "Y todo hombre de Yisrael, al ver ⟨את⟩ al hombre, huyeron de su presencia y temieron en gran manera.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Y ⟨is⟩ todo"
+      "gloss": "Y todo"
     },
     {
       "surface": "איש",
@@ -23,44 +21,34 @@
     },
     {
       "surface": "בראותם",
-      "gloss": "⟨en⟩ ver ⟨a⟩"
+      "gloss": "al ver"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "האיש (el hombre)"
+      "marks": "al hombre"
     },
     {
       "surface": "האיש",
-      "gloss": "hombre"
+      "gloss": "al hombre"
     },
     {
       "surface": "וינסו",
-      "gloss": "⟨y⟩ huyeron"
+      "gloss": "huyeron"
     },
     {
       "surface": "מפניו",
-      "gloss": "de ⟨el⟩ rostro de él"
+      "gloss": "de su presencia"
     },
     {
       "surface": "וייראו",
-      "gloss": "⟨y⟩ temieron"
+      "gloss": "y temieron"
     },
     {
       "surface": "מאד",
-      "gloss": "mucho"
+      "gloss": "en gran manera"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:12:18.985855749Z",
+  "model": "glm-5.2"
 }

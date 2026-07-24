@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "2-chronicles 36:10",
   "book": "2-chronicles",
-  "chapter": 36,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:41:38.280006857Z",
-  "translation": "Y en la vuelta ⟨del⟩ año, envió ⟨el⟩ rey Nevujadnetzar, y ⟨lo⟩ trajo ⟨a⟩ Bavel con ⟨los⟩ objetos deseables ⟨de⟩ la casa ⟨de⟩ HaShem, y ⟨lo⟩ hizo reinar ⟨a⟩ Tzidkiyahu su hermano ⟨sobre⟩ Yehudá y Jerusalén.",
+  "chapter": 36,
+  "translation": "Y al volver el año, el rey Nevujadnetzar envió ⟨y lo trajo⟩ a Bavel, con los utensilios codiciables de la casa de YHWH, e hizo reinar ⟨את⟩ a Tzidkiyahu, su hermano, sobre Yehudá y Yerushalayim.",
   "tokens": [
     {
       "surface": "ולתשובת",
-      "gloss": "Y en la vuelta"
+      "gloss": "Y al volver"
     },
     {
       "surface": "השנה",
-      "gloss": "⟨del⟩ año"
+      "gloss": "el año"
     },
     {
       "surface": "שלח",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨el⟩ rey"
+      "gloss": "el rey"
     },
     {
       "surface": "נבוכדנאצר",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "ויבאהו",
-      "gloss": "y ⟨lo⟩ trajo"
+      "gloss": "y lo trajo"
     },
     {
       "surface": "בבלה",
-      "gloss": "⟨a⟩ Bavel"
+      "gloss": "a Bavel"
     },
     {
       "surface": "עם",
@@ -43,28 +41,28 @@
     },
     {
       "surface": "כלי",
-      "gloss": "⟨los⟩ objetos"
+      "gloss": "los utensilios"
     },
     {
       "surface": "חמדת",
-      "gloss": "deseables"
+      "gloss": "codiciables"
     },
     {
       "surface": "בית",
-      "gloss": "⟨de⟩ la casa"
+      "gloss": "de la casa"
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨de⟩ YHWH"
+      "gloss": "de YHWH"
     },
     {
       "surface": "וימלך",
-      "gloss": "y ⟨lo⟩ hizo reinar"
+      "gloss": "e hizo reinar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sedequías"
+      "marks": "a Tzidkiyahu"
     },
     {
       "surface": "צדקיהו",
@@ -76,7 +74,7 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨sobre⟩"
+      "gloss": "sobre"
     },
     {
       "surface": "יהודה",
@@ -84,40 +82,9 @@
     },
     {
       "surface": "וירושלם",
-      "gloss": "y Jerusalén"
+      "gloss": "y Yerushalayim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Nabucodonosor",
-      "to": "Nevujadnetzar",
-      "token-index": 4,
-      "strongs": 5019,
-      "hebrew": "נבוכדנאצר"
-    },
-    {
-      "from": "Babel",
-      "to": "Bavel",
-      "token-index": 6,
-      "strongs": 894,
-      "hebrew": "בבל"
-    },
-    {
-      "from": "Sedequías",
-      "to": "Tzidkiyahu",
-      "token-index": 14,
-      "strongs": 6667,
-      "hebrew": "צדקיהו"
-    },
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 17,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:21:59.071974464Z",
+  "model": "glm-5.2"
 }

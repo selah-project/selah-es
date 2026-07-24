@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "numbers 3:3",
   "book": "numbers",
-  "chapter": 3,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T08:10:23.540303654Z",
-  "translation": "Estos son los nombres de los hijos de Aharón, los sacerdotes ungidos, a quienes ⟨es⟩ que llenaron su mano ⟨את⟩ para ⟨el⟩ sacerdocio.",
+  "chapter": 3,
+  "translation": "Estos ⟨son⟩ los nombres de los hijos de Aharón, los kohanim, los ungidos, a quienes ⟨él⟩ llenó las manos para servir como kohen.",
   "tokens": [
     {
       "surface": "אלה",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "בני",
-      "gloss": "de los hijos"
+      "gloss": "los hijos de"
     },
     {
       "surface": "אהרן",
-      "gloss": "de Aharón"
+      "gloss": "Aharón"
     },
     {
       "surface": "הכהנים",
-      "gloss": "los sacerdotes"
+      "gloss": "los kohanim"
     },
     {
       "surface": "המשחים",
-      "gloss": "ungidos"
+      "gloss": "los ungidos"
     },
     {
       "surface": "אשר",
@@ -39,28 +37,17 @@
     },
     {
       "surface": "מלא",
-      "gloss": "⟨es⟩ que llenaron"
+      "gloss": "llenó"
     },
     {
       "surface": "ידם",
-      "gloss": "su mano",
-      "marks": "su mano"
+      "gloss": "las manos"
     },
     {
       "surface": "לכהן",
-      "gloss": "para ⟨el⟩ sacerdocio"
+      "gloss": "para servir como kohen"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Aarón",
-      "to": "Aharón",
-      "token-index": 3,
-      "strongs": 175,
-      "hebrew": "אהרן"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:30:44.036119149Z",
+  "model": "glm-5.2"
 }

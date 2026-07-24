@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "1-samuel 25:20",
   "book": "1-samuel",
-  "chapter": 25,
-  "verse": 20,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:10:07.070477570Z",
-  "translation": "Y sucedió ⟨que⟩ ella cabalgando sobre ⟨el⟩ asno y descendiendo en lo oculto ⟨del⟩ monte, y he aquí Davidd y sus hombres descendiendo al encuentro ⟨de⟩ ella, y ella encontró ⟨a⟩ ellos",
+  "chapter": 25,
+  "translation": "Y aconteció que ⟨ella⟩ iba montada sobre el jamor, descendiendo por lo occulto del monte, y he aquí David y sus hombres descendían a su encuentro, y ella se encontró ⟨את⟩ ellos.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Y sucedió"
+      "gloss": "Y aconteció"
     },
     {
       "surface": "היא",
-      "gloss": "⟨que⟩ ella"
+      "gloss": "⟨ella⟩"
     },
     {
       "surface": "רכבת",
-      "gloss": "cabalgando"
+      "gloss": "iba montada"
     },
     {
       "surface": "על",
@@ -27,19 +25,19 @@
     },
     {
       "surface": "החמור",
-      "gloss": "⟨el⟩ asno"
+      "gloss": "el jamor"
     },
     {
       "surface": "וירדת",
-      "gloss": "y descendiendo"
+      "gloss": "descendiendo"
     },
     {
       "surface": "בסתר",
-      "gloss": "en lo oculto"
+      "gloss": "por lo occulto"
     },
     {
       "surface": "ההר",
-      "gloss": "⟨del⟩ monte"
+      "gloss": "del monte"
     },
     {
       "surface": "והנה",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "ואנשיו",
@@ -55,32 +53,22 @@
     },
     {
       "surface": "ירדים",
-      "gloss": "descendiendo"
+      "gloss": "descendían"
     },
     {
       "surface": "לקראתה",
-      "gloss": "al encuentro ⟨de⟩ ella"
+      "gloss": "a su encuentro"
     },
     {
       "surface": "ותפגש",
-      "gloss": "y ella encontró"
+      "gloss": "y ella se encontró"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨a⟩ ellos",
-      "marks": "David y sus hombres"
+      "gloss": "⟨את⟩",
+      "marks": "ellos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 9,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:13:47.288194929Z",
+  "model": "glm-5.2"
 }

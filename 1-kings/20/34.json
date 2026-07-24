@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 34,
   "ref": "1-kings 20:34",
   "book": "1-kings",
-  "chapter": 20,
-  "verse": 34,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T11:15:17.834981604Z",
-  "translation": "Y dijo ⟨a⟩ él: Las ciudades que mi padre tomó ⟨de⟩ tu padre, devolveré y calles ⟨tú⟩ harás para ⟨ti⟩ en Damasco como ⟨lo que⟩ ⟨hizo⟩ mi padre en Samaria y yo ⟨en⟩ Brit ⟨te⟩ enviaré. Y ⟨él⟩ cortó ⟨con⟩ él Brit y ⟨lo⟩ envió.",
+  "chapter": 20,
+  "translation": "Y ⟨él⟩ le dijo: ⟨את⟩ las ciudades que tomó mi padre de tu padre las devolveré; y tú pondrás plazas para ti en Damesek, como puso mi padre en Shomrón; y yo ⟨te⟩ enviaré ⟨con⟩ ⟨una⟩ Brit. Y ⟨él⟩ cortó con él ⟨una⟩ Brit y lo envió.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,12 +13,11 @@
     },
     {
       "surface": "אליו",
-      "gloss": "⟨a⟩ él",
-      "marks": "Ben-hadad (el hablante)"
+      "gloss": "a él"
     },
     {
       "surface": "הערים",
-      "gloss": "Las ciudades"
+      "gloss": "⟨את⟩ las ciudades"
     },
     {
       "surface": "אשר",
@@ -36,8 +33,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de⟩",
-      "marks": "tu padre"
+      "gloss": "de"
     },
     {
       "surface": "אביך",
@@ -45,24 +41,23 @@
     },
     {
       "surface": "אשיב",
-      "gloss": "devolveré"
+      "gloss": "las devolveré"
     },
     {
       "surface": "וחוצות",
-      "gloss": "y calles"
+      "gloss": "y plazas"
     },
     {
       "surface": "תשים",
-      "gloss": "⟨tú⟩ harás"
+      "gloss": "tú pondrás"
     },
     {
       "surface": "לך",
-      "gloss": "para ⟨ti⟩",
-      "marks": "tú (Acab)"
+      "gloss": "para ti"
     },
     {
       "surface": "בדמשק",
-      "gloss": "en Damasco"
+      "gloss": "en Damesek"
     },
     {
       "surface": "כאשר",
@@ -70,8 +65,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "⟨lo que⟩ ⟨hizo⟩",
-      "marks": "hizo"
+      "gloss": "puso"
     },
     {
       "surface": "אבי",
@@ -79,7 +73,7 @@
     },
     {
       "surface": "בשמרון",
-      "gloss": "en Samaria"
+      "gloss": "en Shomrón"
     },
     {
       "surface": "ואני",
@@ -87,42 +81,29 @@
     },
     {
       "surface": "בברית",
-      "gloss": "⟨en⟩ pacto",
-      "marks": "enviado"
+      "gloss": "con ⟨una⟩ Brit"
     },
     {
       "surface": "אשלחך",
-      "gloss": "⟨te⟩ enviaré"
+      "gloss": "te enviaré"
     },
     {
       "surface": "ויכרת",
-      "gloss": "Y ⟨él⟩ cortó"
+      "gloss": "Y cortó"
     },
     {
       "surface": "לו",
-      "gloss": "⟨con⟩ él",
-      "marks": "Ben-hadad"
+      "gloss": "con él"
     },
     {
       "surface": "ברית",
-      "gloss": "Brit"
+      "gloss": "⟨una⟩ Brit"
     },
     {
       "surface": "וישלחהו",
-      "gloss": "y ⟨lo⟩ envió",
-      "marks": "a Ben-hadad"
+      "gloss": "y lo envió"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "pacto",
-      "to": "Brit",
-      "token-index": 22,
-      "strongs": 1285,
-      "hebrew": "ברית"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:25:11.943173543Z",
+  "model": "glm-5.2"
 }

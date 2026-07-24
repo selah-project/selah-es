@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "leviticus 8:8",
   "book": "leviticus",
-  "chapter": 8,
-  "verse": 8,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:35:18.027585641Z",
-  "translation": "Y puso sobre él ⟨el⟩ Joshen, y puso en ⟨el⟩ Joshen ⟨el⟩ Urim y ⟨el⟩ Tummim",
+  "chapter": 8,
+  "translation": "Y puso sobre él ⟨את⟩ el Joshen, y dio al Joshen ⟨את⟩ los Urim y ⟨את⟩ los Tummim.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "Y puso"
+      "gloss": "y puso"
     },
     {
       "surface": "עליו",
@@ -24,23 +22,39 @@
     },
     {
       "surface": "החשן",
+      "gloss": "el Joshen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "y dio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החשן",
       "gloss": "Joshen"
     },
     {
-      "surface": "ואת",
-      "gloss": "y ⟨el⟩ Urim"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "los Urim"
     },
     {
       "surface": "האורים",
-      "gloss": "Urim"
+      "gloss": "los Urim"
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨el⟩ Tummim"
+      "gloss": "y ⟨את⟩",
+      "marks": "los Tummim"
     },
     {
       "surface": "התמים",
-      "gloss": "Tummim"
+      "gloss": "los Tummim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:59:49.931345835Z",
+  "model": "glm-5.2"
 }

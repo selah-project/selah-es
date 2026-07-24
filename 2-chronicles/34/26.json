@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 26,
   "ref": "2-chronicles 34:26",
   "book": "2-chronicles",
-  "chapter": 34,
-  "verse": 26,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:39:10.296003068Z",
-  "translation": "Y al rey de Yehudá ⟨el⟩ que os envió a consultar a YHWH, así ⟨le⟩ diréis: así ⟨ha⟩ dicho YHWH, Elohim de Yisrael: acerca de las palabras que ⟨tú⟩ has oído",
+  "chapter": 34,
+  "translation": "Y al rey de Yehudá que los envía a ⟨a⟩ ⟨את⟩ ustedes para consultar a YHWH, así le dirán: 'Así ha dicho YHWH, Elohim de Yisrael, respecto a las palabras que has escuchado:",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "Y al"
+      "gloss": "Y a"
     },
     {
       "surface": "מלך",
-      "gloss": "rey"
+      "gloss": "el rey"
     },
     {
       "surface": "יהודה",
@@ -23,16 +21,16 @@
     },
     {
       "surface": "השלח",
-      "gloss": "⟨el⟩ que"
+      "gloss": "que envía"
     },
     {
       "surface": "אתכם",
-      "gloss": "os envió",
-      "marks": "al rey de Judá ⟨el⟩ que"
+      "gloss": "⟨את⟩",
+      "marks": "a ustedes"
     },
     {
       "surface": "לדרוש",
-      "gloss": "a consultar"
+      "gloss": "para consultar"
     },
     {
       "surface": "ביהוה",
@@ -44,7 +42,7 @@
     },
     {
       "surface": "תאמרו",
-      "gloss": "⟨le⟩ diréis"
+      "gloss": "le dirán"
     },
     {
       "surface": "אליו",
@@ -52,11 +50,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "así"
+      "gloss": "Así"
     },
     {
       "surface": "אמר",
-      "gloss": "⟨ha⟩ dicho"
+      "gloss": "ha dicho"
     },
     {
       "surface": "יהוה",
@@ -72,7 +70,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "las palabras"
+      "gloss": "Respecto a las palabras"
     },
     {
       "surface": "אשר",
@@ -80,26 +78,9 @@
     },
     {
       "surface": "שמעת",
-      "gloss": "⟨tú⟩ has oído"
+      "gloss": "has escuchado"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 2,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 14,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:21:47.055119097Z",
+  "model": "glm-5.2"
 }

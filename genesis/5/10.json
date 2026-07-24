@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "genesis 5:10",
   "book": "genesis",
-  "chapter": 5,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:53:06.653881039Z",
-  "translation": "Y vivió Enosh después de haber engendrado a ⟨את⟩ Kenan, ochocientos quince años, y engendró hijos e hijas.",
+  "chapter": 5,
+  "translation": "Y vivió Enosh después de engendrar ⟨את⟩ Kayin quinientos y quince años, ochocientos años, y engendró hijos e hijas.",
   "tokens": [
     {
       "surface": "ויחי",
@@ -23,16 +21,16 @@
     },
     {
       "surface": "הולידו",
-      "gloss": "haber engendrado"
+      "gloss": "engendrar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a Kenan"
+      "marks": "Kayin"
     },
     {
       "surface": "קינן",
-      "gloss": "Kenan"
+      "gloss": "Kayin"
     },
     {
       "surface": "חמש",
@@ -40,7 +38,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "quince"
+      "gloss": "y quince"
     },
     {
       "surface": "שנה",
@@ -52,15 +50,15 @@
     },
     {
       "surface": "מאות",
-      "gloss": ""
-    },
-    {
-      "surface": "שנה",
       "gloss": "años"
     },
     {
+      "surface": "שנה",
+      "gloss": "y"
+    },
+    {
       "surface": "ויולד",
-      "gloss": "y engendró"
+      "gloss": "engendró"
     },
     {
       "surface": "בנים",
@@ -70,5 +68,7 @@
       "surface": "ובנות",
       "gloss": "e hijas"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:40:03.428763722Z",
+  "model": "glm-5.2"
 }

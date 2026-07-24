@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "1-kings 19:1",
   "book": "1-kings",
-  "chapter": 19,
-  "verse": 1,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T18:30:07.042869111Z",
-  "translation": "Y Ajáv contó a Izével todo lo que Eliyahu había hecho, y ⟨את⟩ todo lo que había matado ⟨את⟩ a todos los profetas con espada",
+  "chapter": 19,
+  "translation": "Y Ajáv informó a Izével ⟨את⟩ todo lo que había hecho Eliyahu, y ⟨את⟩ todo lo que había matado — ⟨את⟩ a todos los profetas, a espada.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "Y contó"
+      "gloss": "Y informó"
     },
     {
       "surface": "אחאב",
@@ -24,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "todo lo que"
+      "marks": "todo"
     },
     {
       "surface": "כל",
@@ -45,7 +43,7 @@
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "todo lo que"
+      "marks": "todo"
     },
     {
       "surface": "כל",
@@ -66,7 +64,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "todos"
+      "gloss": "a todos"
     },
     {
       "surface": "הנביאים",
@@ -74,7 +72,9 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "con espada"
+      "gloss": "a espada"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:24:44.462709787Z",
+  "model": "glm-5.2"
 }

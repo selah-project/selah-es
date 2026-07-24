@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "exodus 29:28",
   "book": "exodus",
-  "chapter": 29,
-  "verse": 28,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T07:05:36.555954070Z",
-  "translation": "Y será para Aharón y para sus hijos ⟨por⟩ estatuto perpetuo ⟨de⟩ ⟨los⟩ hijos de Yisrael, porque ⟨es⟩ ofrenda elevada ⟨es⟩, y ofrenda elevada será ⟨de⟩ ⟨los⟩ hijos de Yisrael ⟨de⟩ los sacrificios de sus ofrendas pacíficas, su ofrenda elevada ⟨para⟩ HaShem.",
+  "chapter": 29,
+  "translation": "Y será para Aharón y para sus hijos como estatuto perpetuo de parte de ⟨los⟩ hijos de Yisrael, pues ⟨es⟩ ofrenda alzada ⟨lo que es⟩; y será ofrenda alzada de parte de ⟨los⟩ hijos de Yisrael, de ⟨los⟩ sacrificios de sus ofrendas de paz — su ofrenda alzada para YHWH.",
   "tokens": [
     {
       "surface": "והיה",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "לחק",
-      "gloss": "⟨por⟩ estatuto"
+      "gloss": "como estatuto"
     },
     {
       "surface": "עולם",
@@ -31,12 +29,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de⟩",
-      "marks": "⟨los⟩ hijos de Israel"
+      "gloss": "de parte de"
     },
     {
       "surface": "בני",
-      "gloss": "hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "ישראל",
@@ -44,19 +41,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "porque"
+      "gloss": "pues"
     },
     {
       "surface": "תרומה",
-      "gloss": "ofrenda elevada"
+      "gloss": "ofrenda alzada"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨es⟩"
+      "gloss": "⟨lo que es⟩"
     },
     {
       "surface": "ותרומה",
-      "gloss": "y ofrenda elevada"
+      "gloss": "y ⟨será⟩ ofrenda alzada"
     },
     {
       "surface": "יהיה",
@@ -64,12 +61,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de⟩",
-      "marks": "⟨los⟩ hijos de Israel"
+      "gloss": "de parte de"
     },
     {
       "surface": "בני",
-      "gloss": "hijos"
+      "gloss": "⟨los⟩ hijos"
     },
     {
       "surface": "ישראל",
@@ -77,38 +73,21 @@
     },
     {
       "surface": "מזבחי",
-      "gloss": "⟨de⟩ los sacrificios"
+      "gloss": "de ⟨los⟩ sacrificios"
     },
     {
       "surface": "שלמיהם",
-      "gloss": "de sus ofrendas pacíficas"
+      "gloss": "de sus ofrendas de paz"
     },
     {
       "surface": "תרומתם",
-      "gloss": "su ofrenda elevada"
+      "gloss": "su ofrenda alzada"
     },
     {
       "surface": "ליהוה",
-      "gloss": "⟨para⟩ YHWH"
+      "gloss": "para YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 7,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 15,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:10:58.026240179Z",
+  "model": "glm-5.2"
 }

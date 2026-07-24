@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "1-chronicles 21:28",
   "book": "1-chronicles",
-  "chapter": 21,
-  "verse": 28,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T14:50:48.804899003Z",
-  "translation": "En aquel tiempo, al ver Davidd que ⟨הוא⟩ HaShem ⟨היה⟩ ⟨את⟩ ⟨el⟩ oído en la era de Ornán ⟨el⟩ jebuseo, sacrificó allí",
+  "chapter": 21,
+  "translation": "En aquel tiempo, al ver David que YHWH le había respondido en la era de Arnán el yevusí, sacrificó allí.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "En aquel tiempo"
+      "gloss": "En"
     },
     {
       "surface": "ההיא",
-      "gloss": "ella"
+      "gloss": "aquel tiempo"
     },
     {
       "surface": "בראות",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "כי",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "ענהו",
-      "gloss": "⟨el⟩ oído"
+      "gloss": "le había respondido"
     },
     {
       "surface": "יהוה",
@@ -39,15 +37,15 @@
     },
     {
       "surface": "בגרן",
-      "gloss": "en la era"
+      "gloss": "en la era de"
     },
     {
       "surface": "ארנן",
-      "gloss": "Ornán"
+      "gloss": "Arnán"
     },
     {
       "surface": "היבוסי",
-      "gloss": "⟨el⟩ jebuseo"
+      "gloss": "el yevusí"
     },
     {
       "surface": "ויזבח",
@@ -58,16 +56,6 @@
       "gloss": "allí"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 3,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T20:16:08.465970247Z",
+  "model": "glm-5.2"
 }

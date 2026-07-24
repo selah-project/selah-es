@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "genesis 28:5",
   "book": "genesis",
-  "chapter": 28,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:05:11.418850323Z",
-  "translation": "Yitzjak envió ⟨את⟩ Yaakov, y fue a Padán-Aram, a Laván hijo de Betuel el arameo, hermano de Rivka, madre de Yaakov y de Esav.",
+  "chapter": 28,
+  "translation": "Yitzjak envió a ⟨את⟩ Yaakov, y ⟨él⟩ fue a Padán-Aram, a Laván, ben de Betuel ⟨el⟩ arameo, hermano de Rivka, madre de Yaakov y de Esav.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yaakov"
+      "marks": "a Yaakov"
     },
     {
       "surface": "יעקב",
@@ -32,11 +30,11 @@
     },
     {
       "surface": "פדנה",
-      "gloss": "a Padán-Aram"
+      "gloss": "Padán"
     },
     {
       "surface": "ארם",
-      "gloss": ""
+      "gloss": "-Aram"
     },
     {
       "surface": "אל",
@@ -48,11 +46,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "hijo"
+      "gloss": "ben"
     },
     {
       "surface": "בתואל",
-      "gloss": "de Betuel"
+      "gloss": "Betuel"
     },
     {
       "surface": "הארמי",
@@ -78,5 +76,7 @@
       "surface": "ועשו",
       "gloss": "y de Esav"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:48:38.091744616Z",
+  "model": "glm-5.2"
 }

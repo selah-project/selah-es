@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "genesis 48:11",
   "book": "genesis",
-  "chapter": 48,
-  "verse": 11,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:15:54.099881688Z",
-  "translation": "Y Yisrael dijo a Yosef: ver tu rostro no había pensado, y he aquí, Elohim me ha mostrado ⟨את⟩ tu descendencia también",
+  "chapter": 48,
+  "translation": "Y Yisrael dijo a Yosef: \"Ver tu rostro, no ⟨lo⟩ había imaginado, y ⟨he aquí⟩ Elohim me ha hecho ver también ⟨את⟩ tu descendencia.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,19 +37,20 @@
     },
     {
       "surface": "פללתי",
-      "gloss": "había pensado"
+      "gloss": "había imaginado"
     },
     {
       "surface": "והנה",
-      "gloss": "y he aquí"
+      "gloss": "y ⟨he aquí⟩"
     },
     {
       "surface": "הראה",
-      "gloss": "ha mostrado"
+      "gloss": "me ha hecho ver"
     },
     {
       "surface": "אתי",
-      "gloss": "me"
+      "gloss": "⟨את⟩",
+      "marks": "Elohim (me a mí)"
     },
     {
       "surface": "אלהים",
@@ -70,5 +69,7 @@
       "surface": "זרעך",
       "gloss": "tu descendencia"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:59:20.318761133Z",
+  "model": "glm-5.2"
 }

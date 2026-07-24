@@ -1,85 +1,66 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "2-kings 3:3",
   "book": "2-kings",
-  "chapter": 3,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T11:21:41.271418234Z",
-  "translation": "Solamente ⟨en⟩ los pecados de Yarovám ⟨el⟩ hijo de Nabat, ⟨quien⟩ hizo pecar ⟨a⟩ Yisrael, se aferró, no se apartó de ⟨ellos⟩.",
+  "chapter": 3,
+  "translation": "Solo ⟨en⟩ los pecados de Yarovám ben Névat, por los cuales hizo pecar a ⟨את⟩ Yisrael, ⟨él⟩ se aferró; no se apartó de ellos.",
   "tokens": [
     {
-      "surface": "רק",
-      "gloss": "Solamente"
+      "surface": "רַק",
+      "gloss": "solo"
     },
     {
-      "surface": "בחטאות",
+      "surface": "בְּחַטֹּאות",
       "gloss": "⟨en⟩ los pecados"
     },
     {
-      "surface": "ירבעם",
-      "gloss": "Yarovám"
+      "surface": "יָרָבְעָם",
+      "gloss": "de Yarovám"
     },
     {
-      "surface": "בן",
-      "gloss": "⟨el⟩ hijo"
+      "surface": "בֶּן",
+      "gloss": "ben"
     },
     {
-      "surface": "נבט",
-      "gloss": "de Nabat"
+      "surface": "נְבָט",
+      "gloss": "Névat"
     },
     {
-      "surface": "אשר",
-      "gloss": "⟨quien⟩"
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
     },
     {
-      "surface": "החטיא",
+      "surface": "הֶחֱטִיא",
       "gloss": "hizo pecar"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "Israel"
+      "marks": "a Yisrael"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵל",
       "gloss": "Yisrael"
     },
     {
-      "surface": "דבק",
+      "surface": "דָּבֵק",
       "gloss": "se aferró"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "no"
     },
     {
-      "surface": "סר",
+      "surface": "סָר",
       "gloss": "se apartó"
     },
     {
-      "surface": "ממנה",
-      "gloss": "de ⟨ellos⟩"
+      "surface": "מִמֶּנָּה",
+      "gloss": "de ellos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Jeroboam",
-      "to": "Yarovám",
-      "token-index": 2,
-      "strongs": 3379,
-      "hebrew": "ירבעם"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 8,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:26:18.749125945Z",
+  "model": "glm-5.2"
 }

@@ -1,64 +1,45 @@
 {
+  "tier": "glm-5.2",
+  "verse": 37,
   "ref": "2-samuel 15:37",
   "book": "2-samuel",
-  "chapter": 15,
-  "verse": 37,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:31:03.385617299Z",
-  "translation": "Y vino Hushai, amigo ⟨את⟩ Davidd, ⟨a⟩ la ciudad; y Absalom vino ⟨a⟩ Yerushalayim.",
+  "chapter": 15,
+  "translation": "Y entró Jushái, ⟨el⟩ amigo de David, a la ciudad; y Avshalom vino a entrar en Yerushalayim.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Y vino"
+      "gloss": "Y entró"
     },
     {
       "surface": "חושי",
-      "gloss": "Hushai"
+      "gloss": "Jushái"
     },
     {
       "surface": "רעה",
-      "gloss": "amigo"
+      "gloss": "amigo de"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "העיר",
-      "gloss": "la ciudad"
+      "gloss": "a la ciudad"
     },
     {
       "surface": "ואבשלם",
-      "gloss": "y Absalom"
+      "gloss": "y Avshalom"
     },
     {
       "surface": "יבא",
-      "gloss": "vino"
+      "gloss": "vino a entrar"
     },
     {
       "surface": "ירושלם",
       "gloss": "Yerushalayim"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 3,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    },
-    {
-      "from": "Jerusalén",
-      "to": "Yerushalayim",
-      "token-index": 7,
-      "strongs": 3389,
-      "hebrew": "ירושלם"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:17:55.943192792Z",
+  "model": "glm-5.2"
 }

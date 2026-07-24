@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "esther 8:7",
   "book": "esther",
-  "chapter": 8,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:06:53.900261308Z",
-  "translation": "Y el rey Ajashverósh dijo a Ester la reina y a Mordejai el judío: He aquí, la casa de Hamán he dado a Ester, y ⟨a él⟩ lo colgaron sobre el árbol, por cuanto extendió su mano contra los judíos.",
+  "chapter": 8,
+  "translation": "Y dijo el rey Ajashverósh a Ester la reina y a Mordejai el yehudí: «¡He aquí! La casa de Hamán he dado a Ester, y ⟨a⟩ ⟨él⟩ ⟨את⟩ lo han colgado sobre el madero, porque ⟨él⟩ extendió su mano sobre los yehudim.»",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -35,11 +33,11 @@
     },
     {
       "surface": "היהודי",
-      "gloss": "el judío"
+      "gloss": "el yehudí"
     },
     {
       "surface": "הנה",
-      "gloss": "He aquí"
+      "gloss": "¡He aquí!"
     },
     {
       "surface": "בית",
@@ -59,12 +57,12 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨a él⟩",
-      "marks": "lo colgaron"
+      "gloss": "y ⟨a⟩ ⟨él⟩ ⟨את⟩",
+      "marks": "lo han colgado"
     },
     {
       "surface": "תלו",
-      "gloss": "colgaron"
+      "gloss": "lo han colgado"
     },
     {
       "surface": "על",
@@ -72,15 +70,15 @@
     },
     {
       "surface": "העץ",
-      "gloss": "el árbol"
+      "gloss": "el madero"
     },
     {
       "surface": "על",
-      "gloss": "por"
+      "gloss": "porque"
     },
     {
       "surface": "אשר",
-      "gloss": "cuanto"
+      "gloss": "⟨él⟩"
     },
     {
       "surface": "שלח",
@@ -92,7 +90,9 @@
     },
     {
       "surface": "ביהודיים",
-      "gloss": "contra los judíos"
+      "gloss": "sobre los yehudim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T20:09:30.863631538Z",
+  "model": "glm-5.2"
 }

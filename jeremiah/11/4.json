@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "jeremiah 11:4",
   "book": "jeremiah",
-  "chapter": 11,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:37:43.561057470Z",
-  "translation": "que ordené ⟨את⟩ a vuestros padres en el día que saqué ⟨את⟩ a ellos de la tierra de Mitzráyim del horno de hierro, diciendo: Oíd ⟨is⟩ mi voz y haced ⟨את⟩ ellos conforme a todo lo que yo os ordeno, y seréis ⟨is⟩ para mí por pueblo, y yo seré ⟨is⟩ para vosotros por Elohim",
+  "chapter": 11,
+  "translation": "que mandé a ⟨את⟩ vuestros padres en el día que los sacé de la tierra de Mitzráyim, del horno de hierro, diciendo: Escuchad mi voz y hacedlas, conforme a todo lo que os mande ⟨את⟩, y me seréis por pueblo, y yo seré para vosotros por Elohim.",
   "tokens": [
     {
       "surface": "אשר",
@@ -15,16 +13,16 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ordené"
+      "gloss": "mandé"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "a vuestros padres"
+      "marks": "vuestros padres"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "a vuestros padres"
+      "gloss": "vuestros padres"
     },
     {
       "surface": "ביום",
@@ -32,12 +30,12 @@
     },
     {
       "surface": "הוציאי",
-      "gloss": "que saqué"
+      "gloss": "que sacé"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "a ellos"
+      "marks": "de la tierra"
     },
     {
       "surface": "מארץ",
@@ -45,7 +43,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "de Mitzráyim"
+      "gloss": "Mitzráyim"
     },
     {
       "surface": "מכור",
@@ -61,7 +59,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "Oíd"
+      "gloss": "Escuchad"
     },
     {
       "surface": "בקולי",
@@ -86,12 +84,12 @@
     },
     {
       "surface": "אצוה",
-      "gloss": "yo os ordeno"
+      "gloss": "mande"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "y seréis"
+      "marks": "os"
     },
     {
       "surface": "והייתם",
@@ -99,7 +97,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "para mí"
+      "gloss": "me"
     },
     {
       "surface": "לעם",
@@ -121,5 +119,7 @@
       "surface": "לאלהים",
       "gloss": "por Elohim"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T19:36:51.706300396Z",
+  "model": "glm-5.2"
 }

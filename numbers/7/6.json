@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "numbers 7:6",
   "book": "numbers",
-  "chapter": 7,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:58:33.694497693Z",
-  "translation": "Y Moshé tomó ⟨את⟩ las carretas y ⟨את⟩ el ganado, y los dio a los Levitas:",
+  "chapter": 7,
+  "translation": "Y Moshé tomó ⟨את⟩ las carretas y ⟨את⟩ el ganado vacuno, y ⟨los⟩ dio a los levitas.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -29,20 +27,19 @@
     {
       "surface": "ואת",
       "gloss": "y ⟨את⟩",
-      "marks": "el ganado"
+      "marks": "el ganado vacuno"
     },
     {
       "surface": "הבקר",
-      "gloss": "el ganado"
+      "gloss": "el ganado vacuno"
     },
     {
       "surface": "ויתן",
-      "gloss": "y los dio"
+      "gloss": "y dio"
     },
     {
       "surface": "אותם",
-      "gloss": "",
-      "marks": "a"
+      "gloss": "⟨את⟩-los"
     },
     {
       "surface": "אל",
@@ -50,7 +47,9 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "los Levitas"
+      "gloss": "los levitas"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:33:12.142533635Z",
+  "model": "glm-5.2"
 }

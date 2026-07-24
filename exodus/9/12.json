@@ -1,78 +1,66 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "exodus 9:12",
   "book": "exodus",
-  "chapter": 9,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T06:32:36.071655500Z",
-  "translation": "Y HaShem fortaleció ⟨el⟩ corazón de Paró, y no escuchó ⟨a⟩ ellos, conforme ⟨a⟩ lo que HaShem había dicho ⟨a⟩ Moshé.",
+  "chapter": 9,
+  "translation": "Y YHWH fortaleció ⟨את⟩ el corazón de Paró, y ⟨él⟩ no escuchó a ellos, como había hablado YHWH a Moshé.",
   "tokens": [
     {
-      "surface": "ויחזק",
+      "surface": "וַיְחַזֵּ֤ק",
       "gloss": "Y fortaleció"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה֙",
       "gloss": "YHWH"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "corazón"
+      "marks": "el corazón"
     },
     {
-      "surface": "לב",
-      "gloss": "corazón"
+      "surface": "לֵ֣ב",
+      "gloss": "el corazón"
     },
     {
-      "surface": "פרעה",
+      "surface": "פַּרְעֹ֔ה",
       "gloss": "de Paró"
     },
     {
-      "surface": "ולא",
+      "surface": "וְלֹ֥א",
       "gloss": "y no"
     },
     {
-      "surface": "שמע",
+      "surface": "שָׁמַ֖ע",
       "gloss": "escuchó"
     },
     {
-      "surface": "אלהם",
-      "gloss": "⟨a⟩ ellos"
+      "surface": "אֲלֵהֶ֑ם",
+      "gloss": "a ellos"
     },
     {
-      "surface": "כאשר",
-      "gloss": "conforme ⟨a⟩"
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "como"
     },
     {
-      "surface": "דבר",
-      "gloss": "lo que había dicho"
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "había hablado"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֖ה",
       "gloss": "YHWH"
     },
     {
-      "surface": "אל",
-      "gloss": "⟨a⟩"
+      "surface": "אֶל",
+      "gloss": "a"
     },
     {
-      "surface": "משה",
+      "surface": "מֹשֶֽׁה",
       "gloss": "Moshé"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Faraón",
-      "to": "Paró",
-      "token-index": 4,
-      "strongs": 6547,
-      "hebrew": "פרעה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T18:03:16.705690309Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 33,
   "ref": "exodus 34:33",
   "book": "exodus",
-  "chapter": 34,
-  "verse": 33,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:25:37.126603036Z",
-  "translation": "Y cuando Moshé hubo terminado de hablar con ellos, puso un velo sobre su rostro.",
+  "chapter": 34,
+  "translation": "Y cuando Moshé terminó de hablar con ⟨את⟩ellos, puso sobre su rostro ⟨un⟩ velo.",
   "tokens": [
     {
       "surface": "ויכל",
-      "gloss": "Y cuando... hubo terminado"
+      "gloss": "Y terminó"
     },
     {
       "surface": "משה",
@@ -23,11 +21,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "con ellos"
+      "gloss": "con ⟨את⟩ellos",
+      "marks": "ellos"
     },
     {
       "surface": "ויתן",
-      "gloss": "puso"
+      "gloss": "y puso"
     },
     {
       "surface": "על",
@@ -39,7 +38,9 @@
     },
     {
       "surface": "מסוה",
-      "gloss": "un velo"
+      "gloss": "velo"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:13:26.607885786Z",
+  "model": "glm-5.2"
 }

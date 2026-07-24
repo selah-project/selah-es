@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "genesis 8:18",
   "book": "genesis",
-  "chapter": 8,
-  "verse": 18,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T06:06:17.274512390Z",
-  "translation": "Y salió Noaj y ⟨sus⟩ hijos y ⟨su⟩ esposa y ⟨las⟩ esposas de ⟨sus⟩ hijos con ⟨él⟩",
+  "chapter": 8,
+  "translation": "Y salió Noaj, y sus hijos, y su mujer, y las mujeres de sus hijos con él.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -19,35 +17,25 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "y ⟨sus⟩ hijos"
+      "gloss": "y sus hijos"
     },
     {
       "surface": "ואשתו",
-      "gloss": "y ⟨su⟩ esposa"
+      "gloss": "y su mujer"
     },
     {
       "surface": "ונשי",
-      "gloss": "y ⟨las⟩ esposas"
+      "gloss": "y las mujeres"
     },
     {
       "surface": "בניו",
-      "gloss": "de ⟨sus⟩ hijos"
+      "gloss": "de sus hijos"
     },
     {
       "surface": "אתו",
-      "gloss": "con ⟨él⟩"
+      "gloss": "con él"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Noé",
-      "to": "Noaj",
-      "token-index": 1,
-      "strongs": 5146,
-      "hebrew": "נח"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T17:41:24.272148933Z",
+  "model": "glm-5.2"
 }

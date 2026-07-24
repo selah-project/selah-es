@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "genesis 42:22",
   "book": "genesis",
-  "chapter": 42,
-  "verse": 22,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:12:55.307828918Z",
-  "translation": "Y respondió Reuvén ⟨a ellos⟩, diciendo: ¿No ⟨es⟩ que dije a vosotros, diciendo: No pequéis contra el niño, y no escuchasteis? y también su sangre, he aquí, ⟨es⟩ requerida.",
+  "chapter": 42,
+  "translation": "Y Reuvén les respondió, ⟨a ellos⟩, diciendo: ¿¿No les dije, diciendo: «No pequen contra el joven»? Y no escucharon. Y también su sangre, ¡he aquí! ⟨es⟩ demandada.",
   "tokens": [
     {
       "surface": "ויען",
@@ -19,8 +17,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨a ellos⟩",
-      "marks": "diciendo"
+      "gloss": "⟨את⟩",
+      "marks": "les (a ellos)"
     },
     {
       "surface": "לאמר",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "¿No ⟨es⟩ que"
+      "gloss": "¿¿No"
     },
     {
       "surface": "אמרתי",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "אליכם",
-      "gloss": "a vosotros"
+      "gloss": "a ustedes"
     },
     {
       "surface": "לאמר",
@@ -48,23 +46,23 @@
     },
     {
       "surface": "תחטאו",
-      "gloss": "pequéis"
+      "gloss": "pequen"
     },
     {
       "surface": "בילד",
-      "gloss": "contra el niño"
+      "gloss": "contra el joven"
     },
     {
       "surface": "ולא",
-      "gloss": "y no"
+      "gloss": "Y no"
     },
     {
       "surface": "שמעתם",
-      "gloss": "escuchasteis"
+      "gloss": "escucharon"
     },
     {
       "surface": "וגם",
-      "gloss": "y también"
+      "gloss": "Y también"
     },
     {
       "surface": "דמו",
@@ -72,11 +70,13 @@
     },
     {
       "surface": "הנה",
-      "gloss": "he aquí"
+      "gloss": "¡he aquí!"
     },
     {
       "surface": "נדרש",
-      "gloss": "⟨es⟩ requerida"
+      "gloss": "demandada"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:55:54.825066824Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "genesis 48:3",
   "book": "genesis",
-  "chapter": 48,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:15:56.379780614Z",
-  "translation": "Y Yaakov dijo ⟨a⟩ Yosef: El Shaddai se apareció ⟨a⟩ mí en Luz, en ⟨la⟩ tierra de Kenaan, y me bendijo.",
+  "chapter": 48,
+  "translation": "Y dijo Yaakov a Yosef: El-Shaddai se apareció a mí en Luz, en la tierra de Kenaan, y me bendijo ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨a⟩"
+      "gloss": "a"
     },
     {
       "surface": "יוסף",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "⟨a⟩ mí"
+      "gloss": "a mí"
     },
     {
       "surface": "בלוז",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "en ⟨la⟩ tierra"
+      "gloss": "en la tierra"
     },
     {
       "surface": "כנען",
@@ -55,12 +53,14 @@
     },
     {
       "surface": "ויברך",
-      "gloss": "y me bendijo"
+      "gloss": "y bendijo"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
       "marks": "me"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T17:59:10.176833443Z",
+  "model": "glm-5.2"
 }

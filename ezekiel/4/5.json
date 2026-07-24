@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "ezekiel 4:5",
   "book": "ezekiel",
-  "chapter": 4,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T12:14:10.826081101Z",
-  "translation": "Y yo he puesto ⟨el⟩ años de su perversidad según el número de los días, trescientos y noventa días; y ⟨tú⟩ ⟨llevas⟩ ⟨la⟩ perversidad ⟨de⟩ la casa de Yisrael.",
+  "chapter": 4,
+  "translation": "Y yo ⟨he⟩ puesto sobre ti ⟨את⟩ los años de su iniquidad, por el número de días — trescientos y noventa días — y llevarás ⟨la⟩ iniquidad de la casa de Yisrael.",
   "tokens": [
     {
       "surface": "ואני",
@@ -19,32 +17,32 @@
     },
     {
       "surface": "לך",
-      "gloss": "a ⟨tú⟩"
+      "gloss": "sobre ti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "años de su perversidad"
+      "marks": "los años"
     },
     {
       "surface": "שני",
-      "gloss": "años"
+      "gloss": "los años"
     },
     {
       "surface": "עונם",
-      "gloss": "de su perversidad"
+      "gloss": "de su iniquidad"
     },
     {
       "surface": "למספר",
-      "gloss": "según el número"
+      "gloss": "por el número"
     },
     {
       "surface": "ימים",
-      "gloss": "de los días"
+      "gloss": "de días"
     },
     {
       "surface": "שלש",
-      "gloss": "tres"
+      "gloss": "trescientos"
     },
     {
       "surface": "מאות",
@@ -60,31 +58,21 @@
     },
     {
       "surface": "ונשאת",
-      "gloss": "y ⟨tú⟩ ⟨llevas⟩"
+      "gloss": "y llevarás"
     },
     {
       "surface": "עון",
-      "gloss": "⟨la⟩ perversidad"
+      "gloss": "la iniquidad"
     },
     {
       "surface": "בית",
-      "gloss": "⟨de⟩ la casa"
+      "gloss": "de la casa"
     },
     {
       "surface": "ישראל",
       "gloss": "de Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 15,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:44:31.231138029Z",
+  "model": "glm-5.2"
 }

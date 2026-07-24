@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "1-samuel 4:19",
   "book": "1-samuel",
-  "chapter": 4,
-  "verse": 19,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:48:14.599544773Z",
-  "translation": "Y la nuera de Pinejas, esposa de Pinejas, ⟨estaba⟩ embarazada y ⟨a⟩ punto de dar a luz. Y cuando oyó ⟨la⟩ noticia ⟨de⟩ que ⟨el⟩ Arón de Elohim había sido tomada, y que su suegro y su esposo habían muerto, se inclinó y dio a luz, porque sus dolores se volvieron sobre ella.",
+  "chapter": 4,
+  "translation": "Y su nuera, ⟨la⟩ esposa de Pinjás, ⟨estaba⟩ encinta ⟨a punto de⟩ dar a luz. Y oyó ⟨את⟩ la noticia de que ⟨había sido⟩ tomada el Arón de Ha-Elohim, y de que ⟨habían⟩ muerto su suegro y su marido; y se dobló y dio a luz, porque sevolvieron sobre ella sus dolores.",
   "tokens": [
     {
       "surface": "וכלתו",
-      "gloss": "Y la nuera de"
+      "gloss": "Y su nuera"
     },
     {
       "surface": "אשת",
@@ -19,60 +17,60 @@
     },
     {
       "surface": "פינחס",
-      "gloss": "Pinejas"
+      "gloss": "Pinjás"
     },
     {
       "surface": "הרה",
-      "gloss": "embarazada"
+      "gloss": "encinta"
     },
     {
       "surface": "ללת",
-      "gloss": "y a punto de dar a luz"
+      "gloss": "⟨a punto de⟩ dar a luz"
     },
     {
       "surface": "ותשמע",
-      "gloss": "Y cuando oyó"
+      "gloss": "Y oyó"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "השמעה"
+      "marks": "la noticia"
     },
     {
       "surface": "השמעה",
-      "gloss": "noticia ⟨de⟩"
+      "gloss": "la noticia"
     },
     {
       "surface": "אל",
-      "gloss": "que ⟨el⟩"
+      "gloss": "de que"
     },
     {
       "surface": "הלקח",
-      "gloss": "arca"
+      "gloss": "⟨había sido⟩ tomada"
     },
     {
       "surface": "ארון",
-      "gloss": "Arón de"
+      "gloss": "el Arón"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "de Ha-Elohim"
     },
     {
       "surface": "ומת",
-      "gloss": "había sido tomada"
+      "gloss": "y ⟨habían⟩ muerto"
     },
     {
       "surface": "חמיה",
-      "gloss": "y que su suegro"
+      "gloss": "su suegro"
     },
     {
       "surface": "ואישה",
-      "gloss": "y su esposo"
+      "gloss": "y su marido"
     },
     {
       "surface": "ותכרע",
-      "gloss": "habían muerto, se inclinó"
+      "gloss": "y se dobló"
     },
     {
       "surface": "ותלד",
@@ -84,7 +82,7 @@
     },
     {
       "surface": "נהפכו",
-      "gloss": "sus dolores se volvieron"
+      "gloss": "sevolvieron"
     },
     {
       "surface": "עליה",
@@ -95,16 +93,6 @@
       "gloss": "sus dolores"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "arca",
-      "to": "Arón",
-      "token-index": 10,
-      "strongs": 727,
-      "hebrew": "ארון"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:10:11.870556215Z",
+  "model": "glm-5.2"
 }

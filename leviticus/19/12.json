@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "leviticus 19:12",
   "book": "leviticus",
-  "chapter": 19,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:42:28.188158193Z",
-  "translation": "Y no juraréis ⟨por⟩ mi nombre ⟨para⟩ mentira, y profanarás ⟨el⟩ nombre de ⟨tu⟩ Elohim; Yo ⟨soy⟩ YHWH",
+  "chapter": 19,
+  "translation": "Y no juraréis en mi Nombre ⟨a⟩ falsedad, y no profanarás ⟨את⟩ el Nombre de tu Elohim. Yo ⟨soy⟩ YHWH.",
   "tokens": [
     {
       "surface": "ולא",
@@ -19,28 +17,28 @@
     },
     {
       "surface": "בשמי",
-      "gloss": "⟨por⟩ mi nombre"
+      "gloss": "en mi Nombre"
     },
     {
       "surface": "לשקר",
-      "gloss": "⟨para⟩ mentira"
+      "gloss": "⟨a⟩ falsedad"
     },
     {
       "surface": "וחללת",
-      "gloss": "y profanarás"
+      "gloss": "y no profanarás"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "el nombre"
+      "marks": "el Nombre"
     },
     {
       "surface": "שם",
-      "gloss": "nombre"
+      "gloss": "Nombre"
     },
     {
       "surface": "אלהיך",
-      "gloss": "de ⟨tu⟩ Elohim"
+      "gloss": "de tu Elohim"
     },
     {
       "surface": "אני",
@@ -48,7 +46,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨soy⟩ YHWH"
+      "gloss": "YHWH"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:25:31.665317888Z",
+  "model": "glm-5.2"
 }

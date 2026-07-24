@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "exodus 14:30",
   "book": "exodus",
-  "chapter": 14,
-  "verse": 30,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:15:33.351034040Z",
-  "translation": "Así YHWH salvó ⟨a⟩ Israel ⟨en⟩ el día aquel ⟨de⟩ ⟨la⟩ mano de Mitzráyim, y Yisrael vio ⟨a⟩ Mitzráyim ⟨estaba⟩ muerto sobre ⟨la⟩ orilla del mar",
+  "chapter": 14,
+  "translation": "YHWH salvó a Yisrael en aquel día de la mano de Mitzráyim, y vio Yisrael ⟨את⟩ a Mitzráyim muerto sobre ⟨la⟩ orilla de ⟨el⟩ mar.",
   "tokens": [
     {
       "surface": "ויושע",
-      "gloss": "Así salvó"
+      "gloss": "y salvó"
     },
     {
       "surface": "יהוה",
@@ -28,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israel"
+      "marks": "a Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מיד",
-      "gloss": "de la mano"
+      "gloss": "de la mano de"
     },
     {
       "surface": "מצרים",
@@ -53,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mitzráyim"
+      "marks": "a Mitzráyim"
     },
     {
       "surface": "מצרים",
@@ -73,7 +71,9 @@
     },
     {
       "surface": "הים",
-      "gloss": "del mar"
+      "gloss": "el mar"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T18:05:40.186848952Z",
+  "model": "glm-5.2"
 }

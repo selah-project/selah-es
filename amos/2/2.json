@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "amos 2:2",
   "book": "amos",
-  "chapter": 2,
-  "verse": 2,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T13:01:30.503922146Z",
-  "translation": "Y ⟨haré⟩ enviar fuego sobre Moav, y ⟨el⟩ fuego consumirá ⟨את⟩ ⟨las⟩ fortalezas de Keriot, y morirá Moav con estruendo, con alarido, con ⟨el⟩ sonido de ⟨la⟩ trompeta",
+  "chapter": 2,
+  "translation": "Y enviaré fuego en Moav, y ⟨él⟩ devorará las ciudadelas de Keriyot; y Moav morirá en alboroto, en grito de guerra, al sonido del shofar.",
   "tokens": [
     {
       "surface": "ושלחתי",
-      "gloss": "Y ⟨haré⟩ enviar"
+      "gloss": "Y enviaré"
     },
     {
       "surface": "אש",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "במואב",
-      "gloss": "sobre Moab"
+      "gloss": "en Moav"
     },
     {
       "surface": "ואכלה",
-      "gloss": "y ⟨el⟩ fuego consumirá"
+      "gloss": "y ⟨él⟩ devorará"
     },
     {
       "surface": "ארמנות",
-      "gloss": "⟨las⟩ fortalezas"
+      "gloss": "las ciudadelas"
     },
     {
       "surface": "הקריות",
-      "gloss": "de Keriot"
+      "gloss": "de Keriyot"
     },
     {
       "surface": "ומת",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "בשאון",
-      "gloss": "con estruendo"
+      "gloss": "en alboroto"
     },
     {
       "surface": "מואב",
@@ -47,27 +45,17 @@
     },
     {
       "surface": "בתרועה",
-      "gloss": "con alarido"
+      "gloss": "en grito de guerra"
     },
     {
       "surface": "בקול",
-      "gloss": "con ⟨el⟩ sonido de"
+      "gloss": "al sonido"
     },
     {
       "surface": "שופר",
-      "gloss": "⟨la⟩ trompeta"
+      "gloss": "del shofar"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moab",
-      "to": "Moav",
-      "token-index": 8,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-07-24T19:52:01.086350546Z",
+  "model": "glm-5.2"
 }
