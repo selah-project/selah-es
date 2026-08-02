@@ -55,3 +55,9 @@ sitio.
 Un archivo por versículo: el versículo mismo, y una traducción palabra
 por palabra alineada con el hebreo, para que cada palabra hebrea pueda
 leerse frente a su equivalente en español.
+
+## Apoya a Selah
+
+Esta traducción permanece abierta bajo CC BY-SA 4.0. Si te sirve y deseas
+ayudar a sostener su traducción, corrección, publicación y trabajo continuo,
+visita [selahproject.com/support](https://selahproject.com/support).
