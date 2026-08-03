@@ -61,3 +61,9 @@ leerse frente a su equivalente en español.
 Esta traducción permanece abierta bajo CC BY-SA 4.0. Si te sirve y deseas
 ayudar a sostener su traducción, corrección, publicación y trabajo continuo,
 visita [selahproject.com/support](https://selahproject.com/support).
+
+## Contribuye con una corrección
+
+Invitamos a lectores, estudiantes de hebreo, traductores y hablantes nativos
+de español a mejorar esta versión. Lee [CONTRIBUTING.md](CONTRIBUTING.md) antes
+de abrir un informe o una solicitud de cambio.
