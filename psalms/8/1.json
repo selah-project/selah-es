@@ -1,38 +1,33 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "psalms 8:1",
   "book": "psalms",
-  "chapter": 8,
-  "verse": 1,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T23:00:25.424416755Z",
-  "translation": "⟨To⟩ ⟨the⟩ conductor ⟨upon⟩ ⟨the⟩ Gittith. A Psalm ⟨of⟩ David.",
+  "chapter": 8,
+  "translation": "Al director ⟨de música⟩, sobre la Gitit. Mizmor de David.",
   "tokens": [
     {
-      "surface": "למנצח",
-      "gloss": "⟨To⟩ ⟨the⟩ conductor",
-      "marks": "music director"
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Al director"
     },
     {
-      "surface": "על",
-      "gloss": "⟨upon⟩",
-      "marks": "instrumental context"
+      "surface": "עַל",
+      "gloss": "sobre"
     },
     {
-      "surface": "הגתית",
-      "gloss": "⟨the⟩ Gittith",
-      "marks": "musical term"
+      "surface": "הַגִּתִּית",
+      "gloss": "la Gitit"
     },
     {
-      "surface": "מזמור",
-      "gloss": "A Psalm",
-      "marks": "poem set to notes"
+      "surface": "מִזְמוֹר",
+      "gloss": "Mizmor"
     },
     {
-      "surface": "לדוד",
-      "gloss": "⟨of⟩ David",
-      "marks": "authorship"
+      "surface": "לְדָוִד",
+      "gloss": "de David"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:39:30.049623699Z",
+  "model": "glm-5.3"
 }

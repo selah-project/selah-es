@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 6,
   "ref": "numbers 3:6",
   "book": "numbers",
-  "chapter": 3,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:56:24.405011518Z",
-  "translation": "Ha-kerav ⟨את⟩ mateh Levi ve-ha'amadta oto ⟨את⟩ lifnei Aharón ha-Kohen ve-shereto ⟨את⟩",
+  "chapter": 3,
+  "translation": "Ha-kerav ⟨את⟩ mateh Levi ve-ha'amadta ⟨את⟩ oto ⟨את⟩ lifnei Aharón ha-Kohen ve-shereto ⟨את⟩",
   "tokens": [
     {
       "surface": "הקרב",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "oto",
+      "gloss": "⟨את⟩ oto",
       "marks": "lifnei"
     },
     {
@@ -56,5 +54,7 @@
       "gloss": "⟨את⟩",
       "marks": ""
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.977980235Z",
+  "model": "glm-4.5"
 }

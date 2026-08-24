@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 6,
   "ref": "job 32:6",
   "book": "job",
-  "chapter": 32,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:02:15.111090856Z",
-  "translation": "Y respondió Elihú ben Barakel el buzita, y dijo: Joven soy ⟨en⟩ días, y vosotros ancianos; por tanto ⟨estaba⟩ espantado, y temía ⟨de⟩ declarar ⟨את⟩ mi conocimiento a vosotros.",
+  "chapter": 32,
+  "translation": "Y respondió Elihú ben Barakel el buzita, y dijo: Joven soy ⟨en⟩ días, y vosotros ancianos; por tanto ⟨estaba⟩ espantado, y temía ⟨de⟩ declarar mi conocimiento ⟨את⟩ a vosotros.",
   "tokens": [
     {
       "surface": "ויען",
@@ -75,12 +73,14 @@
     },
     {
       "surface": "דעי",
-      "gloss": "⟨את⟩ mi conocimiento",
+      "gloss": "mi conocimiento",
       "marks": "mi conocimiento"
     },
     {
       "surface": "אתכם",
-      "gloss": "a vosotros"
+      "gloss": "⟨את⟩ a vosotros"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.909202667Z",
+  "model": "glm-4.5"
 }

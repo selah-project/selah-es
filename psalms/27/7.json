@@ -1,59 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "psalms 27:7",
   "book": "psalms",
-  "chapter": 27,
-  "verse": 7,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T23:09:24.966828192Z",
-  "translation": "Hear ⟨Heed⟩ YHWH my voice—I call ⟨and⟩ be gracious to me ⟨and⟩ answer me",
+  "chapter": 27,
+  "translation": "Escucha, YHWH, mi voz — ⟨cuando⟩ clamo; y ten gracia de mí, y respóndeme.",
   "tokens": [
     {
-      "surface": "שמע",
-      "gloss": "Hear ⟨Heed⟩",
-      "lemma": "8085",
-      "gv": 410,
-      "freq": 171,
-      "rationale": "שמע implies intelligent hearing with attention\/obedience; 'Harken' also fits"
+      "surface": "שְׁמַע",
+      "gloss": "Escucha"
     },
     {
-      "surface": "יהוה",
-      "gloss": "YHWH",
-      "lemma": "3068",
-      "gv": 26,
-      "freq": 6007,
-      "rationale": "Canonical Tetragrammaton"
+      "surface": "יְהוָ֖ה",
+      "gloss": "YHWH"
     },
     {
-      "surface": "קולי",
-      "gloss": "my voice",
-      "lemma": "6963",
-      "gv": 146,
-      "freq": 23
+      "surface": "קוֹלִ֥י",
+      "gloss": "mi voz"
     },
     {
-      "surface": "אקרא",
-      "gloss": "I call ⟨and⟩",
-      "lemma": "7121",
-      "gv": 302,
-      "freq": 28,
-      "rationale": "The vav consecutive אקרא links clauses as 'and I call'"
+      "surface": "אֶקְרָ֗א",
+      "gloss": "clamo"
     },
     {
-      "surface": "וחנני",
-      "gloss": "be gracious to me ⟨and⟩",
-      "lemma": "2603",
-      "gv": 124,
-      "freq": 6,
-      "rationale": "The vav consecutive וחנני links clauses as 'and be gracious to me'"
+      "surface": "וְחָנֵּ֥נִי",
+      "gloss": "y ten gracia de mí"
     },
     {
-      "surface": "וענני",
-      "gloss": "answer me",
-      "lemma": "6030",
-      "gv": 186,
-      "freq": 5
+      "surface": "וַעֲנֵֽנִי",
+      "gloss": "y respóndeme"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:39:50.086861828Z",
+  "model": "glm-5.3"
 }

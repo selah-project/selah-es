@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "2-chronicles 25:22",
   "book": "2-chronicles",
-  "chapter": 25,
-  "verse": 22,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:27:48.937075286Z",
-  "translation": "Y Yehudá ⟨fue⟩ derrotado ⟨por⟩ ⟨el⟩ את de ⟨los⟩ hijos de Yisrael, y ⟨cada⟩ hombre huyó ⟨a⟩ ⟨su⟩ tienda",
+  "chapter": 25,
+  "translation": "Y Yehudá fue derrotado delante de Yisrael, y huyó cada uno ⟨a⟩ su tienda.",
   "tokens": [
     {
       "surface": "וינגף",
-      "gloss": "Y Judá ⟨fue⟩ derrotado ⟨por⟩ ⟨el⟩"
+      "gloss": "fue derrotado"
     },
     {
       "surface": "יהודה",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "de ⟨los⟩ hijos de Israel"
+      "gloss": "delante de"
     },
     {
       "surface": "ישראל",
@@ -27,34 +25,17 @@
     },
     {
       "surface": "וינסו",
-      "gloss": "y ⟨cada⟩ hombre huyó"
+      "gloss": "y huyeron"
     },
     {
       "surface": "איש",
-      "gloss": "hombre"
+      "gloss": "cada uno"
     },
     {
       "surface": "לאהליו",
-      "gloss": "⟨a⟩ ⟨su⟩ tienda"
+      "gloss": "a su tienda"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Judá",
-      "to": "Yehudá",
-      "token-index": 1,
-      "strongs": 3063,
-      "hebrew": "יהודה"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 3,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:48:53.139963412Z",
+  "model": "glm-5.3"
 }

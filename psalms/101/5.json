@@ -1,12 +1,10 @@
 {
+  "tier": "bulk",
+  "verse": 5,
   "ref": "psalms 101:5",
   "book": "psalms",
-  "chapter": 101,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:38:18.350847299Z",
+  "chapter": 101,
   "translation": "Aquel que calumnia en secreto a su prójimo, a ese ⟨את⟩ destruiré; ⟨el⟩ de ojos altivos y corazón arrogante, a ese ⟨את⟩ no soportaré.",
   "tokens": [
     {
@@ -23,7 +21,7 @@
     },
     {
       "surface": "אותו",
-      "gloss": "a ese",
+      "gloss": "⟨את⟩ a ese",
       "marks": "destruiré"
     },
     {
@@ -48,7 +46,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "a ese",
+      "gloss": "⟨את⟩ a ese",
       "marks": "no soportaré"
     },
     {
@@ -59,5 +57,7 @@
       "surface": "אוכל",
       "gloss": "soportaré"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.891545448Z",
+  "model": "glm-4.5"
 }

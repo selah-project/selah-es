@@ -1,45 +1,33 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "jeremiah 48:4",
   "book": "jeremiah",
-  "chapter": 48,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T12:09:20.036428589Z",
-  "translation": "Moav ⟨is⟩ shattered, ⟨the⟩ little ones have caused a cry to be heard.",
+  "chapter": 48,
+  "translation": "Moav está quebrado; sus pequeñitos han hecho oír un clamor.",
   "tokens": [
     {
-      "surface": "נשברה",
-      "gloss": "Shattered"
+      "surface": "נִשְׁבְּרָ֖ה",
+      "gloss": "está quebrado"
     },
     {
-      "surface": "מואב",
+      "surface": "מוֹאָ֑ב",
       "gloss": "Moav"
     },
     {
-      "surface": "השמיעו",
-      "gloss": "have caused to be heard"
+      "surface": "הִשְׁמִ֥יעוּ",
+      "gloss": "han hecho oír"
     },
     {
-      "surface": "זעקה",
-      "gloss": "a cry"
+      "surface": "זְּעָקָ֖ה",
+      "gloss": "un clamor"
     },
     {
-      "surface": "צעוריה",
-      "gloss": "her little ones"
+      "surface": "צְעֹורֶ֔יהָ",
+      "gloss": "sus pequeñitos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Moab",
-      "to": "Moav",
-      "token-index": 1,
-      "strongs": 4124,
-      "hebrew": "מואב"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:38:14.564440927Z",
+  "model": "glm-5.3"
 }

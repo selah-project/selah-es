@@ -1,22 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "2-chronicles 28:16",
   "book": "2-chronicles",
-  "chapter": 28,
-  "verse": 16,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:30:14.990456939Z",
-  "translation": "בָּעֵת הַהִיא שָׁלַח הַמֶּלֶךְ אָחָז עַל מַלְכֵי אַשּׁוּר לַעְזֹר לֽוֹ",
+  "chapter": 28,
+  "translation": "En aquel tiempo, el rey Ajaz envió ⟨mensajeros⟩ a los reyes de Ashshur para que lo ayudaran.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "En ⟨el⟩ tiempo",
-      "marks": "tiempo"
+      "gloss": "En el tiempo"
     },
     {
       "surface": "ההיא",
-      "gloss": "aquella"
+      "gloss": "aquel"
     },
     {
       "surface": "שלח",
@@ -48,19 +45,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "le"
+      "gloss": "a él"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Asiria",
-      "to": "Ashshur",
-      "token-index": 7,
-      "strongs": 804,
-      "hebrew": "אשור"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:48:52.896556630Z",
+  "model": "glm-5.3"
 }

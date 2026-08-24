@@ -1,43 +1,37 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "psalms 80:6",
   "book": "psalms",
-  "chapter": 80,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T23:38:50.017916235Z",
-  "translation": "You make ⟨us⟩ a contention ⟨to⟩ our neighbors; and our enemies laugh among themselves.",
+  "chapter": 80,
+  "translation": "Los has hecho comer pan de lágrimas, y les has dado de beber lágrimas ⟨en⟩ triple medida.",
   "tokens": [
     {
       "surface": "האכלתם",
-      "gloss": "You make",
-      "rationale": "Hiphil imperfect 2mp from אכל, literally 'you cause to eat', but idiomatically 'you make' here"
+      "gloss": "los has hecho comer"
     },
     {
       "surface": "לחם",
-      "gloss": "⟨us⟩",
-      "rationale": "Literal 'bread', but here metonymic for the object of contention; represents Israel being made a 'bread\/food' for strife"
+      "gloss": "pan"
     },
     {
       "surface": "דמעה",
-      "gloss": "a contention",
-      "rationale": "Literally 'tears', but here understood as 'strife\/contention' (JPS, BSB); the object of the laughter"
+      "gloss": "de lágrimas"
     },
     {
       "surface": "ותשקמו",
-      "gloss": "⟨to⟩ our neighbors",
-      "rationale": "Root unclear (possibly שוק 'to drink' or שקק 'to contend'); context requires 'to\/among' neighbors"
+      "gloss": "y les has dado de beber"
     },
     {
       "surface": "בדמעות",
-      "gloss": "and our enemies",
-      "rationale": "Literally 'in tears', but here likely 'among themselves' (cf. KJV, ASV, YLT); enclitic ב- prefix"
+      "gloss": "lágrimas"
     },
     {
       "surface": "שליש",
-      "gloss": "laugh among themselves",
-      "rationale": "Literally 'third' or 'triple'; here musical\/metaphoric for 'in three parts' or 'together'"
+      "gloss": "triple medida"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:41:20.437437011Z",
+  "model": "glm-5.3"
 }

@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 43,
   "ref": "1-kings 11:43",
   "book": "1-kings",
-  "chapter": 11,
-  "verse": 43,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T11:01:08.326660783Z",
-  "translation": "Y <is> Shelomah sepultado ⟨con⟩ sus padres; y fue sepultado ⟨en⟩ ⟨la⟩ ciudad ⟨de⟩ Davidd su padre; y reinó Rejabam su hijo ⟨en⟩ su lugar.",
+  "chapter": 11,
+  "translation": "Y Shlomó durmió con sus padres, y fue sepultado en la ciudad de David su padre; y Rejavam su hijo reinó en su lugar.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "Y sepultado"
+      "gloss": "y durmió"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomah"
+      "gloss": "Shlomó"
     },
     {
       "surface": "עם",
-      "gloss": "⟨con⟩"
+      "gloss": "con"
     },
     {
       "surface": "אבתיו",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "⟨en⟩ ⟨la⟩ ciudad"
+      "gloss": "en la ciudad de"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidd"
+      "gloss": "David"
     },
     {
       "surface": "אביו",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "רחבעם",
-      "gloss": "Rejabam"
+      "gloss": "Rejavam"
     },
     {
       "surface": "בנו",
@@ -55,19 +53,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "⟨en⟩ su lugar"
+      "gloss": "en su lugar"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 6,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:36:37.068366562Z",
+  "model": "glm-5.3"
 }

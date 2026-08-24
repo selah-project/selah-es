@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "exodus 34:17",
   "book": "exodus",
-  "chapter": 34,
-  "verse": 17,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T07:13:43.725343387Z",
-  "translation": "Elohimes de fundición ⟨ה⟩ no harás para ti",
+  "chapter": 34,
+  "translation": "Elohim de fundición no te harás ⟨את⟩.",
   "tokens": [
     {
       "surface": "אלהי",
-      "gloss": "Elohimes"
+      "gloss": "Elohim de fundición"
     },
     {
       "surface": "מסכה",
@@ -23,23 +21,13 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "harás"
+      "gloss": "te harás"
     },
     {
       "surface": "לך",
       "gloss": "para ti"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Dios",
-      "to": "Elohim",
-      "token-index": 0,
-      "strongs": 430,
-      "hebrew": "אלהים"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:34:46.031484741Z",
+  "model": "glm-5.3"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 3,
   "ref": "2-kings 4:3",
   "book": "2-kings",
-  "chapter": 4,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:06:44.696593493Z",
-  "translation": "Y dijo: Ve, pide ⟨para ti⟩ ⟨את⟩ vasijas de afuera, de todos tus vecinos, ⟨las⟩ vasijas vacías, no ⟨las⟩ escatimes",
+  "chapter": 4,
+  "translation": "Y dijo: Ve, pide ⟨para ti⟩ vasijas de afuera, de todos tus vecinos, ⟨las⟩ vasijas vacías, no ⟨las⟩ escatimes",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "כלים",
-      "gloss": "⟨את⟩ vasijas",
+      "gloss": "vasijas",
       "marks": "vasijas"
     },
     {
@@ -40,7 +38,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de"
+      "gloss": "⟨את⟩ de"
     },
     {
       "surface": "כל",
@@ -66,5 +64,7 @@
       "surface": "תמעיטי",
       "gloss": "⟨las⟩ escatimes"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.947613773Z",
+  "model": "glm-4.5"
 }

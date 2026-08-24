@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 17,
   "ref": "1-samuel 18:17",
   "book": "1-samuel",
-  "chapter": 18,
-  "verse": 17,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:03:07.706393083Z",
-  "translation": "Y dijo Shaul a Davidd: '¡Mira! ⟨es⟩ mi hija mayor Merab, ⟨a⟩ ella ⟨את⟩ daré ⟨a⟩ ti por mujer, ⟨pero⟩ ⟨debes⟩ ser ⟨un⟩ hijo de valor para mí y luchar ⟨en⟩ ⟨las⟩ batallas de YHWH'. Y Shaul dijo: '⟨que⟩ ⟨no⟩ ⟨esté⟩ mi mano ⟨sobre⟩ él, ⟨sino que⟩ ⟨esté⟩ ⟨sobre⟩ él ⟨la⟩ mano ⟨de⟩ ⟨los⟩ filisteos'",
+  "chapter": 18,
+  "translation": "Y dijo Shaul a Davidd: '¡Mira! ⟨es⟩ mi hija mayor Merab, ⟨את⟩ ⟨a⟩ ella ⟨את⟩ daré ⟨a⟩ ti por mujer, ⟨pero⟩ ⟨debes⟩ ser ⟨un⟩ hijo de valor para mí y luchar ⟨en⟩ ⟨las⟩ batallas de YHWH'. Y Shaul dijo: '⟨que⟩ ⟨no⟩ ⟨esté⟩ mi mano ⟨sobre⟩ él, ⟨sino que⟩ ⟨esté⟩ ⟨sobre⟩ él ⟨la⟩ mano ⟨de⟩ ⟨los⟩ filisteos'",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨a⟩ ella",
+      "gloss": "⟨את⟩ ⟨a⟩ ella",
       "marks": "daré"
     },
     {
@@ -131,16 +129,6 @@
       "gloss": "⟨de⟩ ⟨los⟩ filisteos"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 3,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:55:31.926962928Z",
+  "model": "glm-4.5"
 }

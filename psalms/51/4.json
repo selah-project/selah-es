@@ -1,48 +1,33 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "psalms 51:4",
   "book": "psalms",
-  "chapter": 51,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T23:22:55.214452403Z",
-  "translation": "Multiply wash me ⟨from⟩ my iniquity, and ⟨from⟩ my sin purify me",
+  "chapter": 51,
+  "translation": "Lávame ⟨de sobra⟩ de mi iniquidad, y de mi jatáti purifícame.",
   "tokens": [
     {
       "surface": "הרבה",
-      "gloss": "Multiply",
-      "gv": 212,
-      "freq": 57,
-      "notes": "Hapax reading - the verb רבה here likely carries the sense of 'make much\/abundant' in a ritual context, i.e. wash thoroughly"
+      "gloss": "de sobra \/ abundantemente"
     },
     {
-      "surface": "כבסני",
-      "gloss": "wash me",
-      "gv": 142,
-      "freq": 1,
-      "notes": "HAPAX - from root כבס meaning to trample, hence to wash by stomping; ritual washing language"
+      "surface": "כַּבְּסֵ֣נִי",
+      "gloss": "lávame"
     },
     {
-      "surface": "מעוני",
-      "gloss": "⟨from⟩ my iniquity",
-      "gv": 176,
-      "freq": 4,
-      "notes": "Preposition מן meaning 'from' prefixed to עון (iniquity)"
+      "surface": "מֵעֲוֺנִ֑י",
+      "gloss": "de mi iniquidad"
     },
     {
-      "surface": "ומחטאתי",
-      "gloss": "and ⟨from⟩ my sin",
-      "gv": 474,
-      "freq": 1,
-      "notes": "HAPAX - conjunctive ו+מן +חטאה (sin) +1sg suffix"
+      "surface": "וּֽמֵחַטָּאתִ֥י",
+      "gloss": "y de mi pecado (jatat)"
     },
     {
-      "surface": "טהרני",
-      "gloss": "purify me",
-      "gv": 274,
-      "freq": 1,
-      "notes": "HAPAX - piel imperative of טהר (be pure), ritual purification language"
+      "surface": "טַהֲרֵֽנִי",
+      "gloss": "purifícame"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:40:24.502908216Z",
+  "model": "glm-5.3"
 }

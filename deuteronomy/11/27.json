@@ -1,17 +1,15 @@
 {
+  "tier": "bulk",
+  "verse": 27,
   "ref": "deuteronomy 11:27",
   "book": "deuteronomy",
-  "chapter": 11,
-  "verse": 27,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T08:54:16.672921812Z",
-  "translation": "⟨el⟩ bendecimiento ⟨את⟩, que escucharéis ⟨a⟩ los Mitzvás de YHWH, vuestro Elohim, que yo ⟨os⟩ mando ⟨את⟩ hoy",
+  "chapter": 11,
+  "translation": "⟨el⟩ bendecimiento ⟨את⟩, que escucharéis ⟨a⟩ los Mitzvás de YHWH, vuestro Elohim, que yo ⟨את⟩ ⟨os⟩ mando ⟨את⟩ hoy",
   "tokens": [
     {
       "surface": "את",
-      "gloss": "⟨El⟩ bendecimiento",
+      "gloss": "⟨את⟩ ⟨El⟩ bendecimiento",
       "marks": "הברכה"
     },
     {
@@ -56,7 +54,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨os⟩",
+      "gloss": "⟨את⟩ ⟨os⟩",
       "marks": "היום"
     },
     {
@@ -64,16 +62,6 @@
       "gloss": "hoy"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "mandamiento",
-      "to": "Mitzvá",
-      "token-index": 5,
-      "strongs": 4687,
-      "hebrew": "מצוה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:55:31.929279447Z",
+  "model": "glm-4.5"
 }

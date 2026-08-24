@@ -1,58 +1,49 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "psalms 35:3",
   "book": "psalms",
-  "chapter": 35,
-  "verse": 3,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T23:13:29.971725375Z",
-  "translation": "y ⟨draw out⟩ ⟨the⟩ lance y ⟨stop⟩ ⟨la⟩ vía contra ⟨los⟩ que ⟨me⟩ persiguen; di a ⟨mi⟩ alma: ⟨tu⟩ salvación yo ⟨soy⟩.",
+  "chapter": 35,
+  "translation": "Y empuña también la lanza y cierra el paso ⟨a⟩ los que me persiguen; di a mi néfesh: «Tu Yeshuá soy yo».",
   "tokens": [
     {
       "surface": "והרק",
-      "gloss": "Y ⟨draw out⟩",
-      "rationale": "Verb 'draw out' with conjunction; ⟨⟩ indicates required copula\/phrase completion in English"
+      "gloss": "Y empuña"
     },
     {
       "surface": "חנית",
-      "gloss": "⟨the⟩ lance",
-      "rationale": "Object noun; ⟨⟩ indicates required article"
+      "gloss": "la lanza"
     },
     {
       "surface": "וסגר",
-      "gloss": "y ⟨stop⟩",
-      "rationale": "Verb 'stop' with conjunction; ⟨⟩ indicates required phrase completion"
+      "gloss": "y cierra el paso"
     },
     {
       "surface": "לקראת",
-      "gloss": "⟨la⟩ vía contra",
-      "rationale": "Prepositional phrase 'against' (literally 'to meet'); Spanish requires article\/construction"
+      "gloss": "hacia"
     },
     {
       "surface": "רדפי",
-      "gloss": "⟨los⟩ que ⟨me⟩ persiguen",
-      "rationale": "Participle 'pursuers'; ⟨⟩ markers indicate required pronouns and plural article"
+      "gloss": "los que me persiguen"
     },
     {
       "surface": "אמר",
-      "gloss": "di",
-      "rationale": "Imperative 'say'"
+      "gloss": "di"
     },
     {
       "surface": "לנפשי",
-      "gloss": "a ⟨mi⟩ alma",
-      "rationale": "Prepositional phrase 'to my soul'; ⟨⟩ indicates required possessive pronoun"
+      "gloss": "a mi néfesh"
     },
     {
       "surface": "ישעתך",
-      "gloss": "⟨tu⟩ salvación",
-      "rationale": "Compound noun 'your salvation' (ישעה-salvation + ך-your suffix); ⟨⟩ indicates possessive pronoun"
+      "gloss": "tu Yeshuá"
     },
     {
       "surface": "אני",
-      "gloss": "yo ⟨soy⟩",
-      "rationale": "Pronoun 'I' + implied copula; ⟨⟩ indicates required verb"
+      "gloss": "soy yo"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:40:05.658343035Z",
+  "model": "glm-5.3"
 }

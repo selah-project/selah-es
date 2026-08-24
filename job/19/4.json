@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 4,
   "ref": "job 19:4",
   "book": "job",
-  "chapter": 19,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-10T02:03:25.956557866Z",
-  "translation": "Y ⟨את⟩ ⟨is⟩ ⟨de hecho⟩ ⟨ciertamente⟩ ⟨yo⟩ ⟨he⟩ errado, conmigo ⟨es⟩ ⟨permanece⟩ ⟨con⟩ ⟨mi⟩ error",
+  "chapter": 19,
+  "translation": "Y ⟨את⟩ ⟨is⟩ ⟨de hecho⟩ ⟨ciertamente⟩ ⟨yo⟩ ⟨he⟩ errado, ⟨את⟩ conmigo ⟨es⟩ ⟨permanece⟩ ⟨con⟩ ⟨mi⟩ error",
   "tokens": [
     {
       "surface": "ואף",
@@ -26,7 +24,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "conmigo",
+      "gloss": "⟨את⟩ conmigo",
       "marks": "conmigo"
     },
     {
@@ -39,5 +37,7 @@
       "gloss": "⟨con⟩ ⟨mi⟩ error",
       "marks": null
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.910458027Z",
+  "model": "glm-4.5"
 }

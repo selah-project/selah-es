@@ -1,82 +1,49 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "proverbs 16:16",
   "book": "proverbs",
-  "chapter": 16,
-  "verse": 16,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-10T01:40:33.388937928Z",
-  "translation": "⟨How much better⟩ to get Jojmá than gold! and ⟨to⟩ get Biná ⟨is⟩ rather to be chosen than silver!",
+  "chapter": 16,
+  "translation": "¡Cuánto más vale adquirir Jojmá que el oro, y adquirir Biná, ⟨que es⟩ más deseable que la plata!",
   "tokens": [
     {
       "surface": "קנה",
-      "gloss": "To get",
-      "notes": null
+      "gloss": "adquirir"
     },
     {
       "surface": "חכמה",
-      "gloss": "Jojmá",
-      "notes": {
-        "kind": "substitution",
-        "subject": "Jojmá",
-        "rationale": "Hebrew חכמה (wisdom) is rendered as Jojmá, preserving the Hebrew lemma from the Tanaj"
-      }
+      "gloss": "Jojmá"
     },
     {
       "surface": "מה",
-      "gloss": "⟨How much better⟩",
-      "notes": {
-        "kind": "idiom",
-        "subject": "מה",
-        "rationale": "Hebrew interrogative מה rendered as English idiom 'How much better' to capture comparative sense"
-      }
+      "gloss": "¡cuánto!"
     },
     {
       "surface": "טוב",
-      "gloss": "than gold!",
-      "notes": {
-        "kind": "idiom",
-        "subject": "טוב",
-        "rationale": "Hebrew 'good' used idiomatically in comparative construction 'better than gold'"
-      }
+      "gloss": "más vale"
     },
     {
       "surface": "מחרוץ",
-      "gloss": "gold",
-      "notes": null
+      "gloss": "que el oro"
     },
     {
       "surface": "וקנות",
-      "gloss": "and ⟨to⟩ get",
-      "notes": {
-        "kind": "addition",
-        "subject": "to",
-        "rationale": "English infinitive requires 'to', not present in Hebrew finite verb form"
-      }
+      "gloss": "y adquirir"
     },
     {
       "surface": "בינה",
-      "gloss": "Biná",
-      "notes": {
-        "kind": "substitution",
-        "subject": "Biná",
-        "rationale": "Hebrew בינה (understanding) is rendered as Biná, preserving the Hebrew lemma from the Tanaj"
-      }
+      "gloss": "Biná"
     },
     {
       "surface": "נבחר",
-      "gloss": "⟨is⟩ rather to be chosen",
-      "notes": {
-        "kind": "addition",
-        "subject": "is",
-        "rationale": "Hebrew lacks copula; 'is' added for English grammar"
-      }
+      "gloss": "más deseable"
     },
     {
       "surface": "מכסף",
-      "gloss": "than silver",
-      "notes": null
+      "gloss": "que la plata"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:44:50.974975193Z",
+  "model": "glm-5.3"
 }

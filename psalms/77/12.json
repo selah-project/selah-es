@@ -1,48 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "psalms 77:12",
   "book": "psalms",
-  "chapter": 77,
-  "verse": 12,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T23:36:00.534429896Z",
-  "translation": "⟨I⟩ will remember ⟨the⟩ acts of YHWH; for ⟨I⟩ will remember ⟨the⟩ wonders of old, Your miracle.",
+  "chapter": 77,
+  "translation": "Mencionaré las obras de Yah; sí, recordaré tus maravillas ⟨de⟩ antaño.",
   "tokens": [
     {
       "surface": "אזכיר",
-      "gloss": "⟨I⟩ will remember",
-      "rationale": "The verb form implies 'I will remember'; English requires pronoun."
+      "gloss": "mencionaré"
     },
     {
       "surface": "מעללי",
-      "gloss": "⟨the⟩ acts",
-      "rationale": "Literally 'acts' or 'deeds'; Hebrew lacks definite article, so added."
+      "gloss": "las obras de"
     },
     {
       "surface": "יה",
-      "gloss": "of YHWH",
-      "rationale": "Shortened form of the sacred name; rendered as YHWH."
+      "gloss": "Yah"
     },
     {
       "surface": "כי",
-      "gloss": "for",
-      "rationale": "Conjunction indicating causal or explanatory relationship."
+      "gloss": "sí"
     },
     {
       "surface": "אזכרה",
-      "gloss": "⟨I⟩ will remember",
-      "rationale": "Repeated verb form; English requires pronoun."
+      "gloss": "recordaré"
     },
     {
       "surface": "מקדם",
-      "gloss": "of old",
-      "rationale": "Adverb meaning 'from of old' or 'formerly'."
+      "gloss": "de antaño"
     },
     {
       "surface": "פלאך",
-      "gloss": "Your miracle",
-      "rationale": "Literally 'Your wonder\/act'; context suggests 'miracle' fits best."
+      "gloss": "tus maravillas"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:41:10.506536764Z",
+  "model": "glm-5.3"
 }

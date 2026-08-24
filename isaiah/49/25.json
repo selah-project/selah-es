@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 25,
   "ref": "isaiah 49:25",
   "book": "isaiah",
-  "chapter": 49,
-  "verse": 25,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:30:46.221361853Z",
-  "translation": "Porque así ⟨ha dicho⟩ YHWH: aun el cautiverio del poderoso ⟨será⟩ tomado, y ⟨el⟩ botín ⟨del⟩ terrible ⟨será⟩ librado; y con tu contendiente ⟨את⟩ yo contenderé, y ⟨a⟩ tus hijos ⟨את⟩ yo salvaré.",
+  "chapter": 49,
+  "translation": "Porque así ⟨ha dicho⟩ YHWH: aun el cautiverio del poderoso ⟨será⟩ tomado, y ⟨el⟩ botín ⟨del⟩ terrible ⟨será⟩ librado; ⟨את⟩ y con tu contendiente ⟨את⟩ yo contenderé, ⟨את⟩ y ⟨a⟩ tus hijos ⟨את⟩ yo salvaré.",
   "tokens": [
     {
       "surface": "כי",
@@ -55,11 +53,11 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y con"
+      "gloss": "⟨את⟩ y con"
     },
     {
       "surface": "יריבך",
-      "gloss": "tu contendiente ⟨את⟩"
+      "gloss": "tu contendiente"
     },
     {
       "surface": "אנכי",
@@ -71,12 +69,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩",
+      "gloss": "⟨את⟩ y ⟨a⟩",
       "marks": "tus hijos"
     },
     {
       "surface": "בניך",
-      "gloss": "tus hijos ⟨את⟩"
+      "gloss": "tus hijos"
     },
     {
       "surface": "אנכי",
@@ -86,5 +84,7 @@
       "surface": "אושיע",
       "gloss": "salvaré"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.966821710Z",
+  "model": "glm-4.5"
 }

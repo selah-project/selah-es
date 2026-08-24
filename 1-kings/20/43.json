@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 43,
   "ref": "1-kings 20:43",
   "book": "1-kings",
-  "chapter": 20,
-  "verse": 43,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T11:15:13.171140332Z",
-  "translation": "Y ⟨is⟩ el rey de Yisrael ⟨who⟩ ⟨es⟩ a su casa ⟨con⟩ irritación y ⟨con⟩ furia y vino ⟨a⟩ Shomrón",
+  "chapter": 20,
+  "translation": "Y el rey de Yisrael se fue a su casa, resentido e indignado, y entró en Shomrón.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Y ⟨is⟩"
+      "gloss": "y se fue"
     },
     {
       "surface": "מלך",
@@ -23,39 +21,29 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨who⟩"
+      "gloss": "a"
     },
     {
       "surface": "ביתו",
-      "gloss": "⟨es⟩ a su casa"
+      "gloss": "su casa"
     },
     {
       "surface": "סר",
-      "gloss": "⟨con⟩ irritación"
+      "gloss": "resentido"
     },
     {
       "surface": "וזעף",
-      "gloss": "y ⟨con⟩ furia"
+      "gloss": "e indignado"
     },
     {
-      "surface": "ו�יבא",
-      "gloss": "vino"
+      "surface": "ויבא",
+      "gloss": "y entró"
     },
     {
       "surface": "שמרונה",
-      "gloss": "⟨a⟩ Shomrón"
+      "gloss": "en Shomrón"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 2,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:36:48.811365625Z",
+  "model": "glm-5.3"
 }

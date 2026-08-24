@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "1-kings 16:5",
   "book": "1-kings",
-  "chapter": 16,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T11:08:15.680372732Z",
-  "translation": "Y ⟨lo⟩ demás ⟨de los⟩ hechos de Baashá ⟨ויתר⟩, y lo que hizo ⟨עשה⟩, y su poder ⟨וגבורתו⟩, ¿no ⟨הלא⟩ ⟨están⟩ ellos ⟨הם⟩ escritos ⟨כתובים⟩ sobre ⟨על⟩ Séfer ⟨ספר⟩ ⟨de los⟩ hechos ⟨דברי⟩ ⟨de los⟩ días ⟨הימים⟩ ⟨de los⟩ reyes ⟨למלכי⟩ ⟨de⟩ Yisrael ⟨ישראל⟩?",
+  "chapter": 16,
+  "translation": "El resto de los actos de Baashá, y lo que hizo, y su valentía, ¿no están escritos en ⟨el⟩ Séfer de las Crónicas de los reyes de Yisrael?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "Y lo demás ⟨de los⟩ hechos"
+      "gloss": "El resto"
     },
     {
       "surface": "דברי",
-      "gloss": "hechos"
+      "gloss": "los actos de"
     },
     {
       "surface": "בעשא",
-      "gloss": "de Baashá"
+      "gloss": "Baashá"
     },
     {
       "surface": "ואשר",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "וגבורתו",
-      "gloss": "y su poder"
+      "gloss": "y su valentía"
     },
     {
       "surface": "הלא",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "הם",
-      "gloss": "⟨están⟩ ellos"
+      "gloss": "están"
     },
     {
       "surface": "כתובים",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sobre"
+      "gloss": "en"
     },
     {
       "surface": "ספר",
@@ -55,38 +53,21 @@
     },
     {
       "surface": "דברי",
-      "gloss": "⟨de los⟩ hechos"
+      "gloss": "de las Crónicas"
     },
     {
       "surface": "הימים",
-      "gloss": "⟨de los⟩ días"
+      "gloss": "de los días"
     },
     {
       "surface": "למלכי",
-      "gloss": "⟨de los⟩ reyes"
+      "gloss": "de los reyes"
     },
     {
       "surface": "ישראל",
       "gloss": "de Yisrael"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "el libro",
-      "to": "Séfer",
-      "token-index": 10,
-      "strongs": 5612,
-      "hebrew": "תורה־ספר"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 14,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:36:48.745245528Z",
+  "model": "glm-5.3"
 }

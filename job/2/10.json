@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 10,
   "ref": "job 2:10",
   "book": "job",
-  "chapter": 2,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:57:18.710516195Z",
-  "translation": "Y él dijo a ella: Como una de las mujeres necias hablas; ¿lo bueno ⟨את⟩ recibiremos de ⟨את⟩ Elohim, y lo malo ⟨את⟩ no recibiremos? En todo esto, Iyov no pecó con sus labios.",
+  "chapter": 2,
+  "translation": "Y él dijo a ella: Como una de las mujeres necias hablas; ¿lo bueno ⟨את⟩ recibiremos de Elohim, y lo malo ⟨את⟩ no recibiremos? En todo esto, Iyov no pecó con sus labios.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -52,11 +50,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de"
+      "gloss": "⟨את⟩ de"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨את⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ואת",
@@ -99,5 +97,7 @@
       "surface": "בשפתיו",
       "gloss": "con sus labios"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.910215943Z",
+  "model": "glm-4.5"
 }

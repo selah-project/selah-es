@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "deuteronomy 14:10",
   "book": "deuteronomy",
-  "chapter": 14,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-11T23:21:56.487778389Z",
-  "translation": "y cualquier cosa que no tiene aletas ⟨y⟩ escamas no ⟨is⟩ unclean ⟨el⟩ ⟨es⟩ para ustedes ⟨the⟩ ⟨unclean thing⟩",
+  "chapter": 14,
+  "translation": "Y todo lo que no tiene aleta ni escama, no lo comeréis: inmundo ⟨es⟩ él para vosotros.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "y cualquier cosa"
+      "gloss": "Y todo"
     },
     {
       "surface": "אשר",
-      "gloss": "que"
+      "gloss": "lo que"
     },
     {
       "surface": "אין",
@@ -23,11 +21,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "⟨aletas⟩"
+      "gloss": "a él"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "aleta"
     },
     {
       "surface": "וקשקשת",
-      "gloss": "⟨y⟩ escamas"
+      "gloss": "ni escama"
     },
     {
       "surface": "לא",
@@ -35,23 +37,21 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "comeréis"
+      "gloss": "lo comeréis"
     },
     {
       "surface": "טמא",
-      "gloss": "unclean"
+      "gloss": "inmundo"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨el⟩ ⟨es⟩"
+      "gloss": "él"
     },
     {
       "surface": "לכם",
-      "gloss": "para ustedes"
-    },
-    {
-      "surface": "",
-      "gloss": "⟨the⟩ ⟨unclean thing⟩"
+      "gloss": "para vosotros"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:35:37.591003904Z",
+  "model": "glm-5.3"
 }

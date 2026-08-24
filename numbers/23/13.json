@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 13,
   "ref": "numbers 23:13",
   "book": "numbers",
-  "chapter": 23,
-  "verse": 13,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-10T04:58:46.364490946Z",
-  "translation": "Y dijo Balac a Balaam: ⟨את⟩ ven por favor conmigo ⟨a⟩ otro lugar desde donde ⟨lo⟩ verás, solo ⟨su⟩ extremo verás, y ⟨a lo⟩ todo no verás, y maldícelo para mí desde allí.",
+  "chapter": 23,
+  "translation": "Y dijo Balac a Balaam: ⟨את⟩ ven por favor ⟨את⟩ conmigo ⟨a⟩ otro lugar desde donde ⟨lo⟩ verás, solo ⟨su⟩ extremo verás, y ⟨a lo⟩ todo no verás, y maldícelo para mí desde allí.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "conmigo"
+      "gloss": "⟨את⟩ conmigo"
     },
     {
       "surface": "אל",
@@ -96,5 +94,7 @@
       "surface": "משם",
       "gloss": "desde allí"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.981599306Z",
+  "model": "glm-4.5"
 }

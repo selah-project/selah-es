@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 20,
   "ref": "2-kings 11:20",
   "book": "2-kings",
-  "chapter": 11,
-  "verse": 20,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T11:31:47.004083388Z",
-  "translation": "Y toda la gente ⟨del⟩ paíz se alegró, y la ciudad quedó en calma; y ⟨a⟩ Atalyá ⟨את⟩ mataron con ⟨la⟩ espada en ⟨la⟩ casa ⟨del⟩ rey.",
+  "chapter": 11,
+  "translation": "Y toda la gente ⟨del⟩ paíz se alegró, y la ciudad quedó en calma; ⟨את⟩ y ⟨a⟩ Atalyá ⟨את⟩ mataron con ⟨la⟩ espada en ⟨la⟩ casa ⟨del⟩ rey.",
   "tokens": [
     {
       "surface": "וישמח",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "y ⟨a⟩",
+      "gloss": "⟨את⟩ y ⟨a⟩",
       "marks": "Atalía"
     },
     {
@@ -59,16 +57,6 @@
       "gloss": "⟨del⟩ rey"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Atalía",
-      "to": "Atalyá",
-      "token-index": 7,
-      "strongs": 6271,
-      "hebrew": "עתליה"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:55:31.948856117Z",
+  "model": "glm-4.5"
 }

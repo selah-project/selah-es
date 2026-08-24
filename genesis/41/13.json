@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 13,
   "ref": "genesis 41:13",
   "book": "genesis",
-  "chapter": 41,
-  "verse": 13,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:11:53.484424444Z",
-  "translation": "Y aconteció que ⟨como⟩ interpretó para nosotros, así fue: ⟨a mí⟩ ⟨את⟩ restauró sobre mi estación, y ⟨a él⟩ ⟨את⟩ colgó.",
+  "chapter": 41,
+  "translation": "Y aconteció que ⟨como⟩ interpretó para nosotros, así fue: ⟨את⟩ ⟨a mí⟩ restauró sobre mi estación, ⟨את⟩ y ⟨a él⟩ colgó.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -35,11 +33,11 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨a mí⟩"
+      "gloss": "⟨את⟩ ⟨a mí⟩"
     },
     {
       "surface": "השיב",
-      "gloss": "⟨את⟩ restauró"
+      "gloss": "restauró"
     },
     {
       "surface": "על",
@@ -51,11 +49,13 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "y ⟨a él⟩"
+      "gloss": "⟨את⟩ y ⟨a él⟩"
     },
     {
       "surface": "תלה",
-      "gloss": "⟨את⟩ colgó"
+      "gloss": "colgó"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.817728276Z",
+  "model": "glm-4.5"
 }

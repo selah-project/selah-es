@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 8,
   "ref": "judges 1:8",
   "book": "judges",
-  "chapter": 1,
-  "verse": 8,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T22:19:29.954622064Z",
-  "translation": "Y los hijos de Yehudá combatieron contra Yerushalayim y la capturaron y ⟨la⟩ hirieron ⟨את⟩ a filo de espada y ⟨את⟩ la ciudad enviaron en fuego",
+  "chapter": 1,
+  "translation": "Y los hijos de Yehudá combatieron contra Yerushalayim y la capturaron y ⟨את⟩ ⟨la⟩ hirieron ⟨את⟩ a filo de espada y ⟨את⟩ la ciudad enviaron en fuego",
   "tokens": [
     {
       "surface": "וילחמו",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨la⟩",
+      "gloss": "⟨את⟩ ⟨la⟩",
       "marks": "la capturaron"
     },
     {
@@ -63,5 +61,7 @@
       "surface": "באש",
       "gloss": "en fuego"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.851951666Z",
+  "model": "glm-4.5"
 }

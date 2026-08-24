@@ -1,12 +1,10 @@
 {
+  "tier": "bulk",
+  "verse": 25,
   "ref": "2-chronicles 24:25",
   "book": "2-chronicles",
-  "chapter": 24,
-  "verse": 25,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T15:26:20.986559075Z",
+  "chapter": 24,
   "translation": "Y cuando se alejaron de él, porque ⟨lo⟩ dejaron ⟨את⟩ en enfermedades muy graves, conspiraron contra él sus siervos por la sangre de los hijos de Yehoyadá el sacerdote, y lo mataron sobre su lecho, y murió; y ⟨lo⟩ enterraron en la ciudad de Davidd, pero no ⟨lo⟩ enterraron en los sepulcros de los reyes.",
   "tokens": [
     {
@@ -27,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨lo⟩",
+      "gloss": "⟨את⟩ ⟨lo⟩",
       "marks": "במחליים"
     },
     {
@@ -113,16 +111,6 @@
       "gloss": "de los reyes"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Davi",
-      "to": "David",
-      "token-index": 20,
-      "strongs": 1732,
-      "hebrew": "דוד"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:55:31.915603419Z",
+  "model": "glm-4.5"
 }

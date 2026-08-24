@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 1,
   "ref": "1-samuel 15:1",
   "book": "1-samuel",
-  "chapter": 15,
-  "verse": 1,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T09:58:26.769929784Z",
-  "translation": "Y Shmuel dijo a Shaúl: ⟨A mí⟩ ⟨את⟩ envió YHWH para ungirte como rey sobre su pueblo, sobre Yisrael; y ahora, escucha ⟨a⟩ ⟨la⟩ voz de ⟨las⟩ palabras de YHWH.",
+  "chapter": 15,
+  "translation": "Y Shmuel dijo a Shaúl: ⟨את⟩ ⟨A mí⟩ ⟨את⟩ envió YHWH para ungirte como rey sobre su pueblo, sobre Yisrael; y ahora, escucha ⟨a⟩ ⟨la⟩ voz de ⟨las⟩ palabras de YHWH.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨A mí⟩",
+      "gloss": "⟨את⟩ ⟨A mí⟩",
       "marks": "envió"
     },
     {
@@ -83,30 +81,6 @@
       "gloss": "de YHWH"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Samuel",
-      "to": "Shmuel",
-      "token-index": 1,
-      "strongs": 8050,
-      "hebrew": "שמואל"
-    },
-    {
-      "from": "Saúl",
-      "to": "Shaúl",
-      "token-index": 3,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 12,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:55:31.919947481Z",
+  "model": "glm-4.5"
 }

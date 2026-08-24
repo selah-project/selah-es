@@ -1,62 +1,41 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "psalms 118:10",
   "book": "psalms",
-  "chapter": 118,
-  "verse": 10,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T23:57:56.343653081Z",
-  "translation": "כָּל גּוֹיִם סְבָבוּנִי בְּשֵׁם יְהוָה כִּי אֲמִילָם",
+  "chapter": 118,
+  "translation": "Todas ⟨las⟩ naciones me rodearon; en el Nombre de YHWH, ciertamente los destruiré.",
   "tokens": [
     {
-      "surface": "כָּל",
-      "gloss": "Todas",
-      "gv": 50,
-      "frequency": 3142,
-      "signature": true
+      "surface": "כל",
+      "gloss": "Todas"
     },
     {
-      "surface": "גּוֹיִם",
-      "gloss": "las naciones",
-      "gv": 59,
-      "frequency": 135,
-      "signature": false
+      "surface": "גוים",
+      "gloss": "naciones"
     },
     {
-      "surface": "סְבָבוּ\/נִי",
-      "gloss": "me rodearon",
-      "gv": 130,
-      "frequency": 7,
-      "signature": false
+      "surface": "סבבוני",
+      "gloss": "me rodearon"
     },
     {
-      "surface": "בְּ\/שֵׁם",
-      "gloss": "en el nombre de",
-      "gv": 342,
-      "frequency": 73,
-      "signature": false
+      "surface": "בשם",
+      "gloss": "en el Nombre de"
     },
     {
-      "surface": "יְהוָה",
-      "gloss": "YHWH",
-      "gv": 26,
-      "frequency": 6007,
-      "signature": true
+      "surface": "יהוה",
+      "gloss": "YHWH"
     },
     {
-      "surface": "כִּ֣י",
-      "gloss": "porque",
-      "gv": 30,
-      "frequency": 4376,
-      "signature": false
+      "surface": "כי",
+      "gloss": "ciertamente"
     },
     {
-      "surface": "אֲמִילַֽ\/ם",
-      "gloss": "los aniquilé",
-      "gv": 121,
-      "frequency": 3,
-      "signature": false
+      "surface": "אמילם",
+      "gloss": "los destruiré"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:43:59.193606782Z",
+  "model": "glm-5.3"
 }

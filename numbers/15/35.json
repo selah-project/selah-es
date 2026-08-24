@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 35,
   "ref": "numbers 15:35",
   "book": "numbers",
-  "chapter": 15,
-  "verse": 35,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-17T00:40:48.839924937Z",
-  "translation": "Y YHWH habló a Moshé: el hombre ⟨es⟩ ciertamente muerto; toda la congregación ⟨lo⟩ apedreará ⟨את⟩ con piedras fuera del campamento.",
+  "chapter": 15,
+  "translation": "Y YHWH habló a Moshé: el hombre ⟨es⟩ ciertamente muerto; toda la congregación ⟨את⟩ ⟨lo⟩ apedreará ⟨את⟩ con piedras fuera del campamento.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨lo⟩",
+      "gloss": "⟨את⟩ ⟨lo⟩",
       "marks": "con piedras"
     },
     {
@@ -66,5 +64,7 @@
       "surface": "למחנה",
       "gloss": "del campamento"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.981106511Z",
+  "model": "glm-4.5"
 }

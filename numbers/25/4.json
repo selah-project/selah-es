@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 4,
   "ref": "numbers 25:4",
   "book": "numbers",
-  "chapter": 25,
-  "verse": 4,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T23:09:57.026751745Z",
-  "translation": "Y YHWH dijo a Moshé: Toma ⟨את⟩ todos ⟨los⟩ jefes del pueblo y exhibe ⟨את⟩ ellos a YHWH frente ⟨al⟩ sol, y vuelva ⟨el⟩ ardor de ⟨la⟩ ira de YHWH de Yisrael.",
+  "chapter": 25,
+  "translation": "Y YHWH dijo a Moshé: Toma ⟨את⟩ todos ⟨los⟩ jefes del pueblo y exhibe ⟨את⟩ ellos ⟨את⟩ a YHWH frente ⟨al⟩ sol, y vuelva ⟨el⟩ ardor de ⟨la⟩ ira de YHWH de Yisrael.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -48,11 +46,11 @@
     },
     {
       "surface": "והוקע",
-      "gloss": "y exhibe ⟨את⟩ ellos"
+      "gloss": "y exhibe ellos"
     },
     {
       "surface": "אותם",
-      "gloss": "a YHWH"
+      "gloss": "⟨את⟩ a YHWH"
     },
     {
       "surface": "ליהוה",
@@ -86,5 +84,7 @@
       "surface": "מישראל",
       "gloss": "de Yisrael"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.982988929Z",
+  "model": "glm-4.5"
 }

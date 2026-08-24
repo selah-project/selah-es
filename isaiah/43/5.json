@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 5,
   "ref": "isaiah 43:5",
   "book": "isaiah",
-  "chapter": 43,
-  "verse": 5,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T21:28:45.922274997Z",
-  "translation": "No temas, porque contigo ⟨estoy⟩ yo: ⟨desde⟩ el oriente traeré ⟨את⟩ tu descendencia, y ⟨desde⟩ el occidente ⟨te⟩ reuniré.",
+  "chapter": 43,
+  "translation": "No temas, porque ⟨את⟩ contigo ⟨estoy⟩ yo: ⟨desde⟩ el oriente traeré tu descendencia, y ⟨desde⟩ el occidente ⟨te⟩ reuniré.",
   "tokens": [
     {
       "surface": "אל",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "contigo"
+      "gloss": "⟨את⟩ contigo"
     },
     {
       "surface": "אני",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "⟨את⟩ tu descendencia",
+      "gloss": "tu descendencia",
       "marks": "tu descendencia"
     },
     {
@@ -50,5 +48,7 @@
       "surface": "אקבצך",
       "gloss": "⟨te⟩ reuniré"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.973377827Z",
+  "model": "glm-4.5"
 }

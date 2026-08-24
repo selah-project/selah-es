@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "1-samuel 23:11",
   "book": "1-samuel",
-  "chapter": 23,
-  "verse": 11,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-05-30T10:07:40.007711544Z",
-  "translation": "¿Se me entregará los amos de Keila en su mano? ¿descenderá Shaúl como ha oído tu siervo? ⟨ה es⟩ YHWH, Elohim de Yisrael, ⟨el⟩ que ⟨es⟩, declara ⟨lo⟩ a tu siervo. Y dijo YHWH: Descenderá.",
+  "chapter": 23,
+  "translation": "¿Me entregarán los señores de Keilá en su mano? ¿Descenderá Shaúl, como tu siervo ha oído? YHWH, Elohim de Yisrael, declara ⟨te lo ruego⟩ a tu siervo. Y YHWH dijo: Descenderá.",
   "tokens": [
     {
       "surface": "היסגרני",
-      "gloss": "¿Se me entregará"
+      "gloss": "¿me entregarán?"
     },
     {
       "surface": "בעלי",
-      "gloss": "los amos"
+      "gloss": "los señores de"
     },
     {
       "surface": "קעילה",
-      "gloss": "de Keila"
+      "gloss": "Keilá"
     },
     {
       "surface": "בידו",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "הירד",
-      "gloss": "¿descenderá"
+      "gloss": "¿descenderá?"
     },
     {
       "surface": "שאול",
@@ -51,11 +49,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim de"
     },
     {
       "surface": "ישראל",
-      "gloss": "de Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "הגד",
@@ -63,7 +61,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "⟨lo⟩"
+      "gloss": "⟨te lo ruego⟩"
     },
     {
       "surface": "לעבדך",
@@ -71,7 +69,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Y dijo"
+      "gloss": "y dijo"
     },
     {
       "surface": "יהוה",
@@ -79,33 +77,9 @@
     },
     {
       "surface": "ירד",
-      "gloss": "Descenderá"
+      "gloss": "descenderá"
     }
   ],
-  "source-version": "v1",
-  "substitutions": [
-    {
-      "from": "Saúl",
-      "to": "Shaúl",
-      "token-index": 5,
-      "strongs": 7586,
-      "hebrew": "שאול"
-    },
-    {
-      "from": "Dios",
-      "to": "Elohim",
-      "token-index": 10,
-      "strongs": 430,
-      "hebrew": "אלהים"
-    },
-    {
-      "from": "Israel",
-      "to": "Yisrael",
-      "token-index": 11,
-      "strongs": 3478,
-      "hebrew": "ישראל"
-    }
-  ],
-  "canonical-forms-version": "2026-05-30-v1",
-  "version": "v2"
+  "timestamp": "2026-08-24T17:36:09.664291251Z",
+  "model": "glm-5.3"
 }

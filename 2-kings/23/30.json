@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 30,
   "ref": "2-kings 23:30",
   "book": "2-kings",
-  "chapter": 23,
-  "verse": 30,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:17:34.676654110Z",
-  "translation": "Y sus siervos lo llevaron en un carro, ya muerto, desde Meguido, y lo trajeron a Yerushalayim, y lo sepultaron en su sepulcro; y el ⟨את⟩ pueblo de la tierra tomó a Yehoajaz ben Yoshiyahu, y lo ungieron, y lo hicieron rey ⟨את⟩ en lugar ⟨את⟩ de su padre.",
+  "chapter": 23,
+  "translation": "Y sus siervos lo llevaron en un carro, ya muerto, desde Meguido, y lo trajeron a Yerushalayim, y lo sepultaron en su sepulcro; y el ⟨את⟩ pueblo de la tierra tomó a Yehoajaz ben Yoshiyahu, y lo ungieron, ⟨את⟩ y lo hicieron rey en lugar ⟨את⟩ de su padre.",
   "tokens": [
     {
       "surface": "וירכבהו",
@@ -47,7 +45,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "y el ⟨את⟩ pueblo"
+      "gloss": "y el pueblo"
     },
     {
       "surface": "הארץ",
@@ -76,11 +74,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "y lo hicieron"
+      "gloss": "⟨את⟩ y lo hicieron"
     },
     {
       "surface": "וימליכו",
-      "gloss": "rey ⟨את⟩"
+      "gloss": "rey"
     },
     {
       "surface": "אתו",
@@ -89,11 +87,13 @@
     },
     {
       "surface": "תחת",
-      "gloss": "en lugar ⟨את⟩"
+      "gloss": "en lugar"
     },
     {
       "surface": "אביו",
       "gloss": "de su padre"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.949697957Z",
+  "model": "glm-4.5"
 }

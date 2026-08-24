@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 23,
   "ref": "2-chronicles 34:23",
   "book": "2-chronicles",
-  "chapter": 34,
-  "verse": 23,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T19:03:08.571565688Z",
-  "translation": "Y ella les dijo: «Así ha dicho YHWH, el Elohim de Yisrael: Decid ⟨את⟩ al hombre que os ha enviado a mí»",
+  "chapter": 34,
+  "translation": "Y ella les dijo: «Así ha dicho YHWH, el Elohim de Yisrael: Decid al hombre que ⟨את⟩ os ha enviado a mí»",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "⟨את⟩ al hombre"
+      "gloss": "al hombre"
     },
     {
       "surface": "אשר",
@@ -55,11 +53,13 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "os"
+      "gloss": "⟨את⟩ os"
     },
     {
       "surface": "אלי",
       "gloss": "a mí"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.912844473Z",
+  "model": "glm-4.5"
 }

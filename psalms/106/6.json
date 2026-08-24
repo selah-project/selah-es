@@ -1,58 +1,33 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "psalms 106:6",
   "book": "psalms",
-  "chapter": 106,
-  "verse": 6,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-06-09T23:52:50.123097029Z",
-  "translation": "הֵמָּת֙נוּ עִם אֲבֹתֵ֔ינוּ הֶעֱוִ֖ינוּ הִרְשָֽׁעְנוּ׃",
+  "chapter": 106,
+  "translation": "Pecamos junto con nuestros padres, cometimos iniquidad, obramos impíamente.",
   "tokens": [
     {
-      "surface": "חָטָ֥אנוּ",
-      "gloss": "Pecamos",
-      "gv": 74,
-      "lemma": "חטא",
-      "freq": 24,
-      "books": 12,
-      "anagram_room_size": 2
+      "surface": "חטאנו",
+      "gloss": "pecamos"
     },
     {
-      "surface": "עִם",
-      "gloss": "con",
-      "gv": 110,
-      "lemma": "עם",
-      "freq": 668,
-      "books": 36,
-      "anagram_room_size": 1
+      "surface": "עם",
+      "gloss": "junto con"
     },
     {
-      "surface": "אֲבוֹתֵ֗י\/נוּ",
-      "gloss": "nuestros padres",
-      "gv": 475,
-      "lemma": "אב",
-      "freq": 15,
-      "books": 8,
-      "anagram_room_size": 4
+      "surface": "אבותינו",
+      "gloss": "nuestros padres"
     },
     {
-      "surface": "הֶעֱוִ֥ינוּ",
-      "gloss": "hemos cometido perversidad",
-      "gv": 147,
-      "lemma": "עוה",
-      "freq": 2,
-      "books": 2,
-      "anagram_room_size": 2
+      "surface": "העוינו",
+      "gloss": "cometimos iniquidad"
     },
     {
-      "surface": "הִרְשָֽׁעְנוּ",
-      "gloss": "hemos actuado impíamente",
-      "gv": 631,
-      "lemma": "רשע",
-      "freq": 2,
-      "books": 2,
-      "anagram_room_size": 1
+      "surface": "הרשענו",
+      "gloss": "obramos impíamente"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:43:56.174649233Z",
+  "model": "glm-5.3"
 }

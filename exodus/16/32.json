@@ -1,13 +1,11 @@
 {
+  "tier": "bulk",
+  "verse": 32,
   "ref": "exodus 16:32",
   "book": "exodus",
-  "chapter": 16,
-  "verse": 32,
   "lang": "es",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-16T20:16:40.975902716Z",
-  "translation": "Y Moshé dijo: Este es ⟨el⟩ davar que YHWH ha ordenado: Llenad ⟨el⟩ omer ⟨de él⟩ para guardarlo para vuestras generaciones, a fin de que vean ⟨el⟩ pan ⟨את⟩ que ⟨yo⟩ hice comer a vosotros ⟨את⟩ en el desierto, al sacar a vosotros ⟨את⟩ de la tierra de Mitzráyim.",
+  "chapter": 16,
+  "translation": "Y Moshé dijo: Este es ⟨el⟩ davar que YHWH ha ordenado: Llenad ⟨el⟩ omer ⟨de él⟩ para guardarlo para vuestras generaciones, a fin de que vean ⟨את⟩ ⟨el⟩ pan ⟨את⟩ que ⟨yo⟩ hice comer a vosotros ⟨את⟩ en el desierto, al sacar a vosotros ⟨את⟩ de la tierra de Mitzráyim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -67,7 +65,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨el⟩ pan",
+      "gloss": "⟨את⟩ ⟨el⟩ pan",
       "marks": "הלחם"
     },
     {
@@ -84,7 +82,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "a vosotros",
+      "gloss": "⟨את⟩ a vosotros",
       "marks": "במדבר"
     },
     {
@@ -97,7 +95,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "a vosotros",
+      "gloss": "⟨את⟩ a vosotros",
       "marks": "מארץ"
     },
     {
@@ -108,5 +106,7 @@
       "surface": "מצרים",
       "gloss": "de Mitzráyim"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T17:55:31.904686939Z",
+  "model": "glm-4.5"
 }
