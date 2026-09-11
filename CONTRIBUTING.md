@@ -56,3 +56,8 @@ conserva el registro público y la atribución. El equipo mantenedor compara la
 propuesta con el hebreo, las convenciones, las fuentes y la alineación. Puede
 aceptarla, revisarla contigo, esperar más evidencia o rechazarla explicando la
 razón. Critica la lectura, no a la persona.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
